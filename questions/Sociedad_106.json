@@ -1,0 +1,295 @@
+{
+    "id": "Sociedad_106",
+    "claim": "The Secretary General of the United Nations, Antonio Guterres, said that within the framework of the pandemic it is necessary to combat the deep inequality in the world, “a small group of individuals is enriching exponentially as billions are left behind in poverty,” he added. According to the Economic Commission for Latin America and the Caribbean, published in 2017, 30. 2 per cent of the population live in poverty, while 10 per cent of the population live in poverty. 2 percent (62 million people) are under extreme poverty. The statistical data are the highest since those outlined in 2008. Image result for chile stands out as one of the most unequal countries in the worldChile stands out as one of the most unequal countries in the world. The World Bank noted that the five most unequal countries in the world are: South Africa, Haiti, Honduras, Colombia and Chile. Among the list it is important to note that Haiti faces institutional destabilization for several years, where the current president without recognition, Judge Joseph Mecène Jean Louis, perpetrated a coup d'etat against Jovenel Moïse While that happens, the country plunges into extreme poverty, notes the report. Colombia, for its part, continues under a bloodbath, 12 massacres have been perpetrated this year, and 24 social leaders and nine ex-combatants of the former Revolutionary Armed Forces of Colombia-People's Army (FARC-EP) have been killed. South American country continues under the magnifying glass for political persecution against opposition. While Chile will face an electoral process on April 11, citizens will choose the constituents for the drafting of the new Magna Carta and bury the current Constitution left by the genocidal Augusto Pinochet. I'm sorry.",
+    "source": "perma.cc",
+    "date": "21/06/2023",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The Secretary General of the United Nations, Antonio Guterres , said that within the framework of the pandemic it is necessary to combat the deep inequality in the world , “a small group of individuals is enriching exponentially as billions are left behind in poverty,” The Secretary General of the United Nations, Antonio Guterres added.",
+            "question_answers": [
+                {
+                    "question": "Who said that it was necessary to combat the deep inequality in the world?",
+                    "answer": "The Secretary General of the United Nations, Antonio Guterres"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Antonio Guterres say about economic inequality?",
+                    "score": 0.7552,
+                    "answers": "deep|amod\tthe deep inequality in the world|dobj\tindividuals|pobj\texponentially|advmod\tbehind|advmod"
+                },
+                {
+                    "question": "How many people are left behind in poverty?",
+                    "score": 0.6829,
+                    "answers": "a small group of individuals|nsubj\tof individuals|prep"
+                },
+                {
+                    "question": "What is Antonio Guterres' position on poverty?",
+                    "score": 0.6694,
+                    "answers": "Antonio|compound\tAntonio|compound"
+                },
+                {
+                    "question": "Who is Antonio Guterres?",
+                    "score": 0.6053,
+                    "answers": "Secretary|compound\tThe Secretary General of the United Nations , Antonio Guterres|nsubj\tSecretary|compound\tThe Secretary General of the United Nations , Antonio Guterres|nsubj"
+                },
+                {
+                    "question": "What is the purpose of the pandemic?",
+                    "score": 0.6021,
+                    "answers": "of the pandemic|prep\tthe pandemic|pobj\twithin the framework of the pandemic it is necessary to combat the deep inequality in the world|ccomp\tto combat the deep inequality in the world|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "According to the Economic Commission for Latin America and the Caribbean, published in 2017, 30.",
+            "question_answers": [
+                {
+                    "question": "Who published a report in 2017?",
+                    "answer": "Economic Commission for Latin America and the Caribbean,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Economic Commission for Latin America and the Caribbean publish in 2017?",
+                    "score": 0.6127,
+                    "answers": "published in 2017 , 30|acl\tin 2017|prep"
+                },
+                {
+                    "question": "What is perma.cc?",
+                    "score": 0.4201,
+                    "answers": "perma.cc said on 21/06/2023 that According to the Economic Commission for Latin America and the Caribbean , published in 2017 , 30|ROOT\ton 21/06/2023|prep\tthat|mark\tthe|det\tEconomic|compound\tfor Latin America and the Caribbean|prep\tLatin|compound\tand|cc\tthe|det\t,|punct\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "2 per cent of the population live in poverty, while 10 per cent of the population live in poverty.",
+            "question_answers": [
+                {
+                    "question": "Who said that 2% of the population live in poverty?",
+                    "answer": "perma.cc"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of the population live in poverty in South Africa?",
+                    "score": 0.8711,
+                    "answers": "of the population|prep\tthe population|pobj\tof the population|prep\tthe population|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "2 percent (62 million people) are under extreme poverty.",
+            "question_answers": [
+                {
+                    "question": "What percentage of people were under extreme poverty on 21/06/2023?",
+                    "answer": "2 percent (62 million people)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people are under extreme poverty?",
+                    "score": 0.8648,
+                    "answers": "perma.cc said on 21/06/2023 that 2 percent ( 62 million people ) are under extreme poverty|ROOT\ton 21/06/2023|prep\tthat|mark\t2|nummod\t2 percent ( 62 million people )|nsubj\t(|punct\t62|compound\t62 million people|appos\t)|punct\tthat 2 percent ( 62 million people ) are under extreme poverty|ccomp\tunder extreme poverty|prep"
+                },
+                {
+                    "question": "What is the definition of extreme poverty?",
+                    "score": 0.806,
+                    "answers": "extreme|amod"
+                },
+                {
+                    "question": "What is extreme poverty?",
+                    "score": 0.8023,
+                    "answers": "extreme poverty|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The statistical data are the highest since those outlined in 2008.",
+            "question_answers": [
+                {
+                    "question": "Who said that the statistical data are the highest since 2008?",
+                    "answer": "perma.cc"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the statistical data for the GDP in 2008?",
+                    "score": 0.7734,
+                    "answers": "that|mark\tThe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "Image result for chile stands out as one of the most unequal countries in the worldChile stands out as one of the most unequal countries in the worldChile .",
+            "question_answers": [
+                {
+                    "question": "What did perma.cc say on 21/06/2023",
+                    "answer": "Image result for chile stands out as one of the most unequal countries in the worldChile stands out as one of the most unequal countries in the worldChile"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the ratio of chile to chile?",
+                    "score": 0.6487,
+                    "answers": "for chile|prep"
+                },
+                {
+                    "question": "What is the relationship between chile and chile?",
+                    "score": 0.5878,
+                    "answers": "Image result for chile|nsubj\tthat Image result for chile stands out as one of the most unequal countries in the worldChile|ccomp\tmost unequal|amod\tmost unequal|amod"
+                },
+                {
+                    "question": "What countries have the most unequal countries in the world?",
+                    "score": 0.5811,
+                    "answers": "perma.cc said on 21/06/2023 that Image result for chile stands out as one of the most unequal countries in the worldChile stands out as one of the most unequal countries in the worldChile|ROOT\ton 21/06/2023|prep\tthat|mark\tImage|compound\tout|prt\tas one of the most unequal countries in the worldChile|prep\tone of the most unequal countries in the worldChile|pobj\tthe|det\tmost|advmod\tthe most unequal countries in the worldChile|pobj\tin the worldChile|prep\tthe|det\tstands out as one of the most unequal countries in the worldChile|ccomp\tout|prt\tas one of the most unequal countries in the worldChile|prep\tone of the most unequal countries in the worldChile|pobj\tthe|det\tmost|advmod\tthe most unequal countries in the worldChile|pobj\tin the worldChile|prep\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "The World Bank noted that the five most unequal countries in the world are: South Africa, Haiti , Honduras, Colombia and chile .",
+            "question_answers": [
+                {
+                    "question": "What is one of the five most unequal countries in the world?",
+                    "answer": "Haiti"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the five most unequal countries in the world?",
+                    "score": 0.645,
+                    "answers": "perma.cc said on 21/06/2023 that The World Bank noted that the five most unequal countries in the world are : South Africa , Haiti , Honduras , Colombia and chile|ROOT\ton 21/06/2023|prep\tthat|mark\tThe|det\tWorld|compound\tthat The World Bank noted that the five most unequal countries in the world are : South Africa , Haiti , Honduras , Colombia and chile|ccomp\tthat|mark\tthe|det\tmost|advmod\tmost unequal|amod\tthe five most unequal countries in the world|nsubj\tin the world|prep\tthe|det\tthe world|pobj\tthat the five most unequal countries in the world are : South Africa , Haiti , Honduras , Colombia and chile|ccomp\t:|punct\tSouth|compound\tSouth Africa , Haiti , Honduras , Colombia and chile|attr\t,|punct\tHaiti , Honduras , Colombia and chile|conj\t,|punct\tHonduras , Colombia and chile|conj\t,|punct\tColombia and chile|conj\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Among the list it is important to note that Haiti faces institutional destabilization for several years, where the current president without recognition, Judge Joseph Mecène Jean Louis, perpetrated a coup d'etat against Jovenel Moïse While institutional destabilization happens, Haiti plunges into extreme poverty, notes the report.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many people are in poverty in Haiti?",
+                    "score": 0.7404,
+                    "answers": "into extreme poverty|prep"
+                },
+                {
+                    "question": "How many years has it been since Haiti experienced institutional destabilization?",
+                    "score": 0.7394,
+                    "answers": "for several years|prep"
+                },
+                {
+                    "question": "What did Joseph Mecène Jean Louis do to cause institutional destabilization in Haiti?",
+                    "score": 0.7303,
+                    "answers": "perma.cc said on 21/06/2023 that Among the list it is important to note that Haiti faces institutional destabilization for several years , where the current president without recognition , Judge Joseph Mecène Jean Louis , perpetrated a coup d'etat against Jovenel Moïse While institutional destabilization happens , Haiti plunges into extreme poverty|ccomp\tthat|mark\tthe|det\tit|nsubj\timportant|acomp\tto|aux\tto note that Haiti faces institutional destabilization for several years , where the current president without recognition , Judge Joseph Mecène Jean Louis , perpetrated a coup d'etat against Jovenel Moïse|xcomp\tthat|mark\tseveral|amod\t,|punct\twhere|advmod\tthe|det\tthe current president without recognition , Judge Joseph Mecène Jean Louis ,|nsubj\twithout recognition|prep\trecognition|pobj\t,|punct\tJudge|compound\tJean|compound\tJudge Joseph Mecène Jean Louis|appos\t,|punct\ta|det\tWhile|mark\t,|punct\t,|punct\tperma.cc said on 21/06/2023 that Among the list it is important to note that Haiti faces institutional destabilization for several years , where the current president without recognition , Judge Joseph Mecène Jean Louis , perpetrated a coup d'etat against Jovenel Moïse While institutional destabilization happens , Haiti plunges into extreme poverty , notes the report|ROOT\tthe|det"
+                },
+                {
+                    "question": "What was the purpose of the coup d'etat against Jovenel Moïse?",
+                    "score": 0.6957,
+                    "answers": "a coup d'etat|dobj\tthe report|nsubj"
+                },
+                {
+                    "question": "What was the name of the coup against Jovenel Moïse?",
+                    "score": 0.6849,
+                    "answers": "the list|pobj\tMecène|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Colombia , for part, continues under a bloodbath, 12 massacres have been perpetrated this year, and 24 social leaders and nine ex-combatants of the former Revolutionary Armed Forces of Colombia-People's Army (FARC-EP) have been killed.",
+            "question_answers": [
+                {
+                    "question": "What country continues under a bloodbath?",
+                    "answer": "Colombia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people have been killed in the bloodbath in Colombia this year?",
+                    "score": 0.6186,
+                    "answers": "perma.cc said on 21/06/2023 that Colombia , for part , continues under a bloodbath , 12 massacres have been perpetrated this year , and 24 social leaders and nine ex - combatants of the former Revolutionary Armed Forces of Colombia - People 's Army ( FARC - EP ) have been killed|ROOT\tthat Colombia , for part , continues under a bloodbath , 12 massacres have been perpetrated this year , and 24 social leaders and nine ex - combatants of the former Revolutionary Armed Forces of Colombia - People 's Army ( FARC - EP ) have been killed|ccomp"
+                },
+                {
+                    "question": "How many members of FARC-EP were killed in the bloodbath?",
+                    "score": 0.5982,
+                    "answers": "combatants of the former Revolutionary Armed Forces of Colombia - People 's Army ( FARC - EP )|conj\tof the former Revolutionary Armed Forces of Colombia - People 's Army ( FARC - EP )|prep\t24 social leaders and nine ex - combatants of the former Revolutionary Armed Forces of Colombia - People 's Army ( FARC - EP ) have been killed|conj"
+                },
+                {
+                    "question": "How many people were killed by FARC-EP in 2015?",
+                    "score": 0.5734,
+                    "answers": "on 21/06/2023|prep\t12 massacres have been perpetrated this year , and 24 social leaders and nine ex - combatants of the former Revolutionary Armed Forces of Colombia - People 's Army ( FARC - EP ) have been killed|conj\t24 social leaders and nine ex - combatants of the former Revolutionary Armed Forces of Colombia - People 's Army ( FARC - EP )|nsubjpass\tof Colombia - People 's Army|prep\tColombia - People 's|pobj"
+                },
+                {
+                    "question": "What is FARC-EP?",
+                    "score": 0.56,
+                    "answers": "Revolutionary|nmod\tthe former Revolutionary Armed Forces of Colombia - People 's Army ( FARC - EP )|pobj\tArmy|pobj\tFARC|compound\tFARC - EP|appos"
+                }
+            ]
+        },
+        {
+            "claim": "South American country continues under the magnifying glass for political persecution against opposition.",
+            "question_answers": [
+                {
+                    "question": "Who said that South American country continues under a magnifying glass for political persecution against opposition?",
+                    "answer": "perma.cc"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is South American country being accused of political persecution against opposition?",
+                    "score": 0.724,
+                    "answers": "perma.cc said on 21/06/2023 that South American country continues under the magnifying glass for political persecution against opposition|ROOT\tthat South American country continues under the magnifying glass for political persecution against opposition|ccomp"
+                },
+                {
+                    "question": "What is the purpose of magnifying glass?",
+                    "score": 0.5489,
+                    "answers": "under the magnifying glass|prep\tmagnifying|compound\tthe magnifying glass|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the political persecution against opposition in South America?",
+                    "score": 0.5476,
+                    "answers": "political|amod"
+                },
+                {
+                    "question": "What is perma.cc?",
+                    "score": 0.3985,
+                    "answers": "on 21/06/2023|prep"
+                }
+            ]
+        },
+        {
+            "claim": "While Chile will face an electoral process on April 11, citizens will choose the constituents for the drafting of the new Magna Carta and bury the current Constitution left by the genocidal Augusto Pinochet.",
+            "question_answers": [
+                {
+                    "question": "Who left the current Constitution in Chile?",
+                    "answer": "Augusto Pinochet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Augusto Pinochet do to the Chilean constitution?",
+                    "score": 0.7348,
+                    "answers": "that While Chile will face an electoral process on April 11 , citizens will choose the constituents for the drafting of the new Magna Carta and bury the current Constitution left by the genocidal Augusto Pinochet|ccomp\tleft by the genocidal Augusto Pinochet|acl\tby the genocidal Augusto Pinochet|agent\tgenocidal|amod"
+                },
+                {
+                    "question": "Who is responsible for drafting the new Magna Carta and bury the current Constitution left by Augusto Pinochet?",
+                    "score": 0.6145,
+                    "answers": "citizens|nsubj"
+                },
+                {
+                    "question": "What is the date of the electoral process in Chile?",
+                    "score": 0.6085,
+                    "answers": "While Chile will face an electoral process on April 11|advcl\ton April 11|prep"
+                },
+                {
+                    "question": "Who was Augusto Pinochet?",
+                    "score": 0.6072,
+                    "answers": "Augusto|compound\tthe genocidal Augusto Pinochet|pobj"
+                },
+                {
+                    "question": "Who are the constituents for the drafting of the new Magna Carta?",
+                    "score": 0.5991,
+                    "answers": "the constituents for the drafting of the new Magna Carta|dobj"
+                }
+            ]
+        }
+    ]
+}

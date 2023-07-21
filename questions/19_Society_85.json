@@ -1,0 +1,214 @@
+{
+    "id": "19_Society_85",
+    "claim": "Hollywood. - After the filming of a remake of'The Lion King'will be confirmed but this time in live-action, in a style very similar to the recent tape of'The Book of the Jungle 'which shows digital animals but with a fairly realistic appearance, the project director, Jon Favreau, revealed to the media that the tape will have many surprises as there will be many modifications in history. Jon points out that one of the main changes will be that the Pumba boar (one of the animals that adopts Simba along with the Suricato Timon) will be transformed into a woman called 'Pumbana ', in order to show 'a conventional family ': 'In the original version there is no indication that Timon and Pumba have a relationship beyond friendship, but conservative groups pointed out that many children were confused and came to spite that homosexuality was normal. While they are not a couple, they are two men who raise a puppy alone, that is reason to believe that they live as a homoparental couple and there are groups who protested about it ', the director said. After the news was revealed, a film magazine investigated the case by discovering that it was the Mexican association Frente Nacional por la Familia, which struggles to return the holy inquisition to maintain good habits, who contacted the producer to demand that they convert Timon or Pumba into females so as not to confuse the infants:'Many people thought that the people who attended the Family March were people without doing anything, yet they were all wrong because their power is so great that they even have contact with important Hollywood businessmen, including a new Disney producer who gave the order that in the new version the Pumba boar would be a woman, and would have to be portrayed as a housewife who stays to clean up all day while Timon (the man in the house) comes out to bring him bread, as it should be in a normal family approved by God. It is already decided that Pumba will be a female, this will also allow a twist to the plot, and that in one part Timon dies and Pumbana becomes a fighting woman, however the authorities will take Simba away from him for not entering the normal family range (since a family without a dad is not a normal family), and that is when Simba returns to his home and becomes king of the jungle, and begins the second part of the story ', the reporter pointed out. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "09/02/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Hollywood.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 09/02/2018 that Hollywood was in a bad state?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Hollywood's relationship with Hollywood?",
+                    "score": 0.8111,
+                    "answers": "www.elruinaversal.com reported on 09/02/2018 that Hollywood|ROOT\tthat Hollywood|npadvmod"
+                },
+                {
+                    "question": "What is the relationship between Hollywood and Hollywood?",
+                    "score": 0.7494,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "- After the filming of a remake of'The Lion King'will be confirmed but this time in live-action, in a style very similar to the recent tape of'The Book of the Jungle 'which shows digital animals but with a fairly realistic appearance, the project director, Jon Favreau , revealed to the media that the tape will have many surprises as there will be many modifications in history.",
+            "question_answers": [
+                {
+                    "question": "Who is the project director of 'The Book of the Jungle'?",
+                    "answer": "Jon Favreau"
+                },
+                {
+                    "question": "Who is the project director of 'The Book of the Jungle'?",
+                    "answer": "Jon Favreau"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jon Favreau say about the remake of The Lion King?",
+                    "score": 0.7493,
+                    "answers": "which shows digital animals but with a fairly realistic appearance|relcl\tdigital animals|dobj\tfairly realistic|amod\ta fairly realistic appearance|pobj\tto the media|prep\tthe media|pobj"
+                },
+                {
+                    "question": "What will happen to the remake of 'The Lion King'?",
+                    "score": 0.7036,
+                    "answers": "this time|npadvmod"
+                },
+                {
+                    "question": "What is the purpose of the Lion King remake?",
+                    "score": 0.7018,
+                    "answers": "Lion King'will|punct"
+                },
+                {
+                    "question": "What are the similarities between live and live-action versions of Lion King?",
+                    "score": 0.6833,
+                    "answers": "live|amod"
+                },
+                {
+                    "question": "What are the features of the film \"The Book of the Jungle\"?",
+                    "score": 0.6385,
+                    "answers": "digital|amod"
+                }
+            ]
+        },
+        {
+            "claim": "the project director, Jon Favreau points out that one of the main changes will be that the Pumba boar (one of the animals that adopts Simba along with the Suricato Timon ) will be transformed into a woman called 'Pumbana ', in order to show 'a conventional family ': 'In the original version there is no indication that Timon and Pumba have a relationship beyond friendship, but conservative groups pointed out that many children were confused and came to spite that homosexuality was normal.",
+            "question_answers": [
+                {
+                    "question": "Why will the Pumba boar be transformed into a woman called 'Pumbana'?",
+                    "answer": "to show 'a conventional family"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many children came to know that homosexuality was normal?",
+                    "score": 0.752,
+                    "answers": "that many children were confused and came to spite that homosexuality was normal|ccomp"
+                },
+                {
+                    "question": "How many children were confused in the original version of Pumba boar?",
+                    "score": 0.7503,
+                    "answers": "confused|acomp"
+                },
+                {
+                    "question": "What will happen to the Pumba boar?",
+                    "score": 0.682,
+                    "answers": "that one of the main changes will be that the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon ) will be transformed into a woman called ' Pumbana ' , in order to show ' a conventional family '|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Timon and Pumbana?",
+                    "score": 0.6664,
+                    "answers": "www.elruinaversal.com reported on 09/02/2018 that the project director , Jon Favreau points out that one of the main changes will be that the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon ) will be transformed into a woman called ' Pumbana ' , in order to show ' a conventional family '|ccomp\ton 09/02/2018|prep\tthe project director , Jon Favreau|nsubj\tone of the main changes|nsubj\tof the main changes|prep\tthe main changes|pobj\tof the animals that adopts Simba along with the Suricato Timon|prep\tthe animals that adopts Simba along with the Suricato Timon|pobj\tthat adopts Simba along with the Suricato Timon|relcl\talong with the Suricato Timon|prep\twith the Suricato Timon|prep\tSuricato|compound\tthe Suricato Timon|pobj\tthe original version|pobj\tthat Timon and Pumba have a relationship beyond friendship|acl\tconservative groups|nsubj\tcame to spite that homosexuality was normal|conj\tto spite that homosexuality was normal|xcomp\tthat homosexuality was normal|ccomp"
+                },
+                {
+                    "question": "What is Pumba boar?",
+                    "score": 0.6626,
+                    "answers": "that the project director , Jon Favreau points out that one of the main changes will be that the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon ) will be transformed into a woman called ' Pumbana ' , in order to show ' a conventional family '|ccomp\tthe Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon )|nsubjpass\tcalled ' Pumbana|acl\tin order to show ' a conventional family '|prep\torder to show ' a conventional family '|pobj\tto show ' a conventional family '|acl\ta conventional family '|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "While Timon and Pumba are not a couple, Timon and Pumba are two men who raise a puppy alone, that is reason to believe that Timon and Pumba live as a homoparental couple and there are groups who protested about live ', the project director, Jon Favreau said.",
+            "question_answers": [
+                {
+                    "question": "How do Timon and Pumba believe they are a homoparental couple?",
+                    "answer": "live"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are Timon and Pumba married?",
+                    "score": 0.8166,
+                    "answers": "to believe that Timon and Pumba live as a homoparental couple and there are groups who protested about live|relcl"
+                },
+                {
+                    "question": "What groups protest about live?",
+                    "score": 0.7701,
+                    "answers": "reason to believe that Timon and Pumba live as a homoparental couple and there are groups who protested about live|attr"
+                },
+                {
+                    "question": "What groups protest for live?",
+                    "score": 0.7648,
+                    "answers": "there are groups who protested about live|conj\tgroups who protested about live|attr\twho protested about live|relcl"
+                },
+                {
+                    "question": "What is Timon's relationship with Pumba?",
+                    "score": 0.6417,
+                    "answers": "there|expl\tabout live|prep\tlive|amod\tproject|compound\tJon|compound"
+                },
+                {
+                    "question": "What is Timon and Pumba's relationship?",
+                    "score": 0.6363,
+                    "answers": "www.elruinaversal.com reported on 09/02/2018 that While Timon and Pumba are not a couple , Timon and Pumba are two men who raise a puppy alone , that is reason to believe that Timon and Pumba live as a homoparental couple and there are groups who protested about live|ccomp\tTimon and Pumba|nsubj\tTimon and Pumba|nsubj\tTimon and Pumba|nsubj\tthat Timon and Pumba live as a homoparental couple and there are groups who protested about live|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "After the news was revealed, a film magazine investigated the case by discovering that it was the Mexican association Frente Nacional por la Familia, which struggles to return the holy inquisition to maintain good habits, who contacted the producer to demand that the producer convert the Suricato Timon or Pumba into females so as not to confuse the infants:'Many people thought that the people who attended the Family March were people without doing anything, yet the people who attended the Family March were all wrong because power is so great that the people who attended the Family March even have contact with important Hollywood businessmen, including a new Disney producer who gave the order that in the new version the Pumba boar (one of the animals that adopts Simba along with the Suricato Timon would be a woman, and would have to be portrayed as a housewife who stays to clean up all day while Timon (the man in the house) comes out to bring the Pumba boar (one of the animals that adopts Simba along with the Suricato Timon bread, as it should be in a normal family approved by God.",
+            "question_answers": [
+                {
+                    "question": "What would the Pumba boar be portrayed as in the new version of the film?",
+                    "answer": "a housewife who stays to clean up all day while Timon (the man in the house) comes out to bring the Pumba boar"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did a new Disney producer say about Pumba boar?",
+                    "score": 0.6498,
+                    "answers": "including a new Disney producer who gave the order that in the new version the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon would be a woman , and would have to be portrayed as a housewife who stays to clean up all day while Timon ( the man in the house ) comes out to bring the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon bread , as it should be in a normal family approved by God|prep\ta new Disney producer who gave the order that in the new version the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon would be a woman , and would have to be portrayed as a housewife who stays to clean up all day while Timon ( the man in the house ) comes out to bring the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon bread , as it should be in a normal family approved by God|pobj"
+                },
+                {
+                    "question": "Who adopted the Pumba boar?",
+                    "score": 0.644,
+                    "answers": "one of the animals that adopts Simba along with the Suricato Timon|appos"
+                },
+                {
+                    "question": "What did Frente Nacional por la Familia do to help the Pumba boar?",
+                    "score": 0.6422,
+                    "answers": "that the people who attended the Family March were people without doing anything|ccomp"
+                },
+                {
+                    "question": "What did Timon say about the Pumba boar?",
+                    "score": 0.629,
+                    "answers": "to be portrayed as a housewife who stays to clean up all day while Timon ( the man in the house ) comes out to bring the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon bread , as it should be in a normal family approved by God|xcomp\twho stays to clean up all day while Timon ( the man in the house ) comes out to bring the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon bread , as it should be in a normal family approved by God|relcl"
+                },
+                {
+                    "question": "How many people attended the Family March?",
+                    "score": 0.6231,
+                    "answers": "people thought that the people who attended the Family March were people without doing anything , yet the people who attended the Family March were all wrong because power is so great that the people who attended the Family March even have contact with important Hollywood businessmen , including a new Disney producer who gave the order that in the new version the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon would be a woman , and would have to be portrayed as a housewife who stays to clean up all day while Timon ( the man in the house ) comes out to bring the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon bread , as it should be in a normal family approved by God|ROOT\tthe people who attended the Family March were all wrong because power is so great that the people who attended the Family March even have contact with important Hollywood businessmen , including a new Disney producer who gave the order that in the new version the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon would be a woman , and would have to be portrayed as a housewife who stays to clean up all day while Timon ( the man in the house ) comes out to bring the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon bread , as it should be in a normal family approved by God|conj\tbecause power is so great that the people who attended the Family March even have contact with important Hollywood businessmen , including a new Disney producer who gave the order that in the new version the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon would be a woman , and would have to be portrayed as a housewife who stays to clean up all day while Timon ( the man in the house ) comes out to bring the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon bread , as it should be in a normal family approved by God|advcl\tso great that the people who attended the Family March even have contact with important Hollywood businessmen , including a new Disney producer who gave the order that in the new version the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon would be a woman , and would have to be portrayed as a housewife who stays to clean up all day while Timon ( the man in the house ) comes out to bring the Pumba boar ( one of the animals that adopts Simba along with the Suricato Timon bread , as it should be in a normal family approved by God|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "It is already decided that Pumba will be a female, this will also allow a twist to the plot, and that in one part Timon dies and Pumbana becomes a fighting woman, however the authorities will take Simba away from him for not entering the normal family range (since a family without a dad is not a normal family), and that is when Simba returns to his home and becomes king of the jungle, and begins the second part of the story ', the reporter pointed out.",
+            "question_answers": [
+                {
+                    "question": "When Simba returns to his home and becomes king of the jungle, what part of the story begins?",
+                    "answer": "the second part of the story"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Simba become king of the jungle?",
+                    "score": 0.8614,
+                    "answers": "that is Simba returns to his home and when becomes king of the jungle , and begins the second part of the story|conj\tSimba returns to his home and when becomes king of the jungle , and begins the second part of the story|advcl"
+                },
+                {
+                    "question": "Why did the authorities take Simba away from his family?",
+                    "score": 0.85,
+                    "answers": "that in one part Timon dies and Pumbana becomes a fighting woman , however the authorities will take Simba away from him for not entering the normal family range ( since a family without a dad is not a normal family ) , and that is Simba returns to his home and when becomes king of the jungle , and begins the second part of the story|conj\tfor not entering the normal family range|prep\tnot entering the normal family range|pcomp"
+                },
+                {
+                    "question": "When did Pumba become a female?",
+                    "score": 0.8473,
+                    "answers": "when becomes king of the jungle , and begins the second part of the story|conj"
+                },
+                {
+                    "question": "Who took Simba away from him for not entering the normal family range?",
+                    "score": 0.7821,
+                    "answers": "the authorities|nsubj"
+                },
+                {
+                    "question": "What does it mean to be a female?",
+                    "score": 0.6858,
+                    "answers": "a family without a dad|nsubj"
+                }
+            ]
+        }
+    ]
+}

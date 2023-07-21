@@ -1,0 +1,429 @@
+{
+    "id": "108_Politics_557",
+    "claim": "If a leftist candidate wins the election in Mexico, trust with investors can be a major challenge for his administration. The International Finance Institute (IFI), which brings together the world's most important financial institutions, recognizes that the expectations that a left-wing candidate in Mexico will win the July presidential election of  are high. The Washington-based institution D. C. admits that there are high expectations that a politician with a nationalist tendency will become president, in the midst of a weak economy, greater tension with the United States and the combination of political fragmentation (independent candidates will be able to run for the first time), in addition to a single round of voting, the entity detailed in its report :  big questions. Andres Manuel Lopez Obrador (AMLO) is the leader of the presidential polls. Last year, the Tabasqueño politician promised a national consultation to stop the energy reform promoted by the PRI government headed by Enrique Peña Nieto. He's been a candidate for executive power in  and . While the scope for radical policy change is quite limited, given Congress-restricted support and a strong institutional framework, building trust among investors could be a major challenge for the next administration, the IIF added in the paper. Also read: Investors do not believe Lopez Obrador: Barclays 'Mexico's presidential election in July has a higher risk ', said Martín Castellano, deputy chief economist for Latin America of the IIF. Despite the instability related to the renegotiation of the North American Free Trade Agreement (NAFTA), promoted by the Donald Trump government, the Mexican economy will have to continue to grow this year, although at a slower pace. Castellano also made a reflection on the economic moment that our country is experiencing. The need to contain inflation, which registered its highest level in  years, and avoid volatility in the exchange rate, where a dollar is sold in  pesos, would prevent the Bank of Mexico (Banxico) from making more monetary stimuli, breaking the hopes of a cut at its interest rate. The director warned that there will also be critical elections in the region, led by democratic processes in Brazil and Colombia, and potentially in Venezuela. Its estimate of economic growth in Latin America is of % during this year, amid widespread fragmentation dissatisfaction with traditional politicians, with strong public support from left-wing candidates who have increased doubts about the durability of pro-market reforms in the region, particularly in Brazil and Mexico, which will be problematically fueled by volatility in the markets. The IIF has more than  members such as Goldman Sachs, HSBC, Metlife, Visa, Deustche Bank, Citigroup, JP Morgan. Mexican banks Banorte and Interactions are also part of this institution. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "24/01/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "If a leftist candidate wins the election in Mexico , trust with investors can be a major challenge for administration.",
+            "question_answers": [
+                {
+                    "question": "What can be a major challenge for administration?",
+                    "answer": "If a leftist candidate wins the election in Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What will happen if a leftist candidate wins the election in Mexico?",
+                    "score": 0.8429,
+                    "answers": "www.forbes.com.mx reported on 24/01/2018 that If a leftist candidate wins the election in Mexico , trust with investors can be a major challenge for administration|ROOT\tIf a leftist candidate wins the election in Mexico|advcl\tthat If a leftist candidate wins the election in Mexico , trust with investors can be a major challenge for administration|ccomp\ta major challenge for administration|attr"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of money that a leftist candidate has received from foreign investment?",
+                    "score": 0.7704,
+                    "answers": "a leftist candidate|nsubj"
+                },
+                {
+                    "question": "What is the relationship between trust with investors and the Trump administration?",
+                    "score": 0.765,
+                    "answers": "on 24/01/2018|prep"
+                },
+                {
+                    "question": "What is trust with investors?",
+                    "score": 0.7512,
+                    "answers": "trust with investors|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The International Finance Institute (IFI), which brings together the world's most important financial institutions , recognizes that the expectations that a left-wing candidate in Mexico will win the election in Mexico are high.",
+            "question_answers": [
+                {
+                    "question": "What does the IFI bring together?",
+                    "answer": "the world's most important financial institutions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does IFI say about a left-wing candidate in Mexico?",
+                    "score": 0.8501,
+                    "answers": "that The International Finance Institute ( IFI ) , which brings together the world 's most important financial institutions , recognizes that the expectations that a left - wing candidate in Mexico will win the election in Mexico are high|ccomp"
+                },
+                {
+                    "question": "How many financial institutions does the International Finance Institute bring together?",
+                    "score": 0.8439,
+                    "answers": "together|advmod"
+                },
+                {
+                    "question": "How many left wing candidates have won the election in Mexico?",
+                    "score": 0.8314,
+                    "answers": "www.forbes.com.mx reported on 24/01/2018 that The International Finance Institute ( IFI ) , which brings together the world 's most important financial institutions , recognizes that the expectations that a left - wing candidate in Mexico will win the election in Mexico are high|ROOT"
+                },
+                {
+                    "question": "What is the world's most important financial institutions?",
+                    "score": 0.813,
+                    "answers": "the world 's most important financial institutions|dobj"
+                },
+                {
+                    "question": "What are the expectations of the left-wing candidate in Mexico winning the election?",
+                    "score": 0.8021,
+                    "answers": "on 24/01/2018|prep\tFinance|compound\tfinancial|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The International Finance Institute (IFI), which brings together the world's most important financial institutions admits that there are high expectations that a politician with a nationalist tendency will become president, in the midst of a weak economy, greater tension with the United States and the combination of political fragmentation (independent candidates will be able to run for the first time), in addition to a single round of voting, The International Finance Institute (IFI), which brings together the world's most important financial institutions detailed in report :  big questions.",
+            "question_answers": [
+                {
+                    "question": "What did the International Finance Institute (IFI) publish on 24/01/2018?",
+                    "answer": "report"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the International Finance Institute (IFI) do?",
+                    "score": 0.7958,
+                    "answers": "International|compound\tFinance|compound\tInternational|compound\tFinance|compound"
+                },
+                {
+                    "question": "What is the political orientation of a politician with a nationalist tendency to become president?",
+                    "score": 0.7689,
+                    "answers": "nationalist|amod"
+                },
+                {
+                    "question": "What is the world's most important financial institutions?",
+                    "score": 0.7667,
+                    "answers": "The International Finance Institute ( IFI ) , which brings together the world 's most important financial institutions|nsubj\twhich brings together the world 's most important financial institutions|relcl\tthe world 's|poss\tthe world 's most important financial institutions|dobj\tin addition to a single round of voting , The International Finance Institute ( IFI ) , which brings together the world 's most important financial institutions detailed in report :|attr\twhich brings together the world 's most important financial institutions|relcl\tthe world 's|poss\tthe world 's most important financial institutions|dobj"
+                },
+                {
+                    "question": "What are the most important financial institutions in the world?",
+                    "score": 0.7644,
+                    "answers": "that there are high expectations that a politician with a nationalist tendency will become president , in the midst of a weak economy , greater tension with the United States and the combination of political fragmentation ( independent candidates will be able to run for the first time ) , in addition to a single round of voting , The International Finance Institute ( IFI ) , which brings together the world 's most important financial institutions detailed in report :|ccomp\thigh expectations that a politician with a nationalist tendency will become president , in the midst of a weak economy , greater tension with the United States and the combination of political fragmentation ( independent candidates will be able to run for the first time )|attr\tthat a politician with a nationalist tendency will become president , in the midst of a weak economy , greater tension with the United States and the combination of political fragmentation ( independent candidates will be able to run for the first time )|acl\tbig questions|dobj"
+                },
+                {
+                    "question": "How many financial institutions does the IFIC bring together?",
+                    "score": 0.7537,
+                    "answers": "The|det\tUnited|compound\tThe|det"
+                }
+            ]
+        },
+        {
+            "claim": "a leftist candidate is the leader of the presidential polls.",
+            "question_answers": [
+                {
+                    "question": "Which candidate is the leader of the presidential polls?",
+                    "answer": "leftist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the leader of the presidential polls?",
+                    "score": 0.8735,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 24/01/2018 that a leftist candidate is the leader of the presidential polls|ROOT\ton 24/01/2018|prep\tthat|mark\ta|det\tleftist|amod\ta leftist candidate|nsubj\tthat a leftist candidate is the leader of the presidential polls|ccomp\tthe|det\tthe leader of the presidential polls|attr\tof the presidential polls|prep\tthe|det\tpresidential|amod\tthe presidential polls|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Last year, a leftist candidate promised a national consultation to stop the energy reform promoted by the PRI government headed by Enrique Peña Nieto.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Peña Nieto promise to do to stop the energy reform?",
+                    "score": 0.8384,
+                    "answers": "Peña|compound"
+                },
+                {
+                    "question": "What was the energy reform promoted by the PRI government headed by Enrique Peña Nieto?",
+                    "score": 0.7903,
+                    "answers": "the energy reform promoted by the PRI government headed by Enrique Peña Nieto|dobj"
+                },
+                {
+                    "question": "What was the purpose of the PRI government?",
+                    "score": 0.7113,
+                    "answers": "by the PRI government headed by Enrique Peña Nieto|agent\tthe PRI government headed by Enrique Peña Nieto|pobj"
+                },
+                {
+                    "question": "Who is Enrique Peña Nieto?",
+                    "score": 0.6878,
+                    "answers": "Enrique|compound"
+                }
+            ]
+        },
+        {
+            "claim": "a leftist candidate 's been a candidate for executive power in  and .",
+            "question_answers": [
+                {
+                    "question": "Who was a candidate for executive power on 24/01/2018?",
+                    "answer": "a leftist candidate"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is running for executive power?",
+                    "score": 0.8184,
+                    "answers": "a candidate for executive power in|attr"
+                },
+                {
+                    "question": "What is the source of evidence of the leftists running for executive power in 2018?",
+                    "score": 0.8079,
+                    "answers": "on 24/01/2018|prep\t's|auxpass\tfor executive power in|prep\t  and|dep"
+                },
+                {
+                    "question": "What is executive power?",
+                    "score": 0.7897,
+                    "answers": "executive power in|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "While the scope for radical policy change is quite limited, given Congress-restricted support and a strong institutional framework, building trust among investors could be a major challenge for the next administration, The International Finance Institute (IFI), which brings together the world's most important financial institutions added in the paper.",
+            "question_answers": [
+                {
+                    "question": "What could be a major challenge for the next administration?",
+                    "answer": "building trust among investors"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many financial institutions does The International Finance Institute bring together?",
+                    "score": 0.7835,
+                    "answers": "the world 's most important financial institutions|dobj"
+                },
+                {
+                    "question": "What does the International Finance Institute (IFI) do?",
+                    "score": 0.7755,
+                    "answers": "International|compound\tthe world 's|poss"
+                },
+                {
+                    "question": "What is the purpose of the International Finance Institute?",
+                    "score": 0.7062,
+                    "answers": "www.forbes.com.mx|nsubj\ton 24/01/2018|prep\tthat|mark\tWhile|mark\tfor radical policy change|prep\tradical|amod\t,|punct\tgiven Congress - restricted support and a strong institutional framework|prep\t-|punct\tCongress - restricted support and a strong institutional framework|pobj\tand|cc\ta|det\tinstitutional|amod\ta strong institutional framework|conj\t,|punct\tbuilding trust among investors|csubj\tcould|aux\ta|det\tmajor|amod\ta major challenge|attr\t,|punct\tThe|det\t(|punct\t)|punct\t,|punct\twhich|nsubj\twhich brings together the world 's most important financial institutions|relcl\ttogether|advmod\tmost|advmod\tfinancial|amod"
+                },
+                {
+                    "question": "What is the scope for radical policy change?",
+                    "score": 0.6819,
+                    "answers": "the scope for radical policy change|nsubj\tWhile the scope for radical policy change is quite limited|advcl\tthat While the scope for radical policy change is quite limited , given Congress - restricted support and a strong institutional framework , building trust among investors could be a major challenge for the next administration , The International Finance Institute ( IFI ) , which brings together the world 's most important financial institutions added in the paper|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Congress and investment?",
+                    "score": 0.6418,
+                    "answers": "investors|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Also read: Investors do not believe a leftist candidate : Barclays 'the election in Mexico has a higher risk ', said Martín Castellano, deputy chief economist for Latin America of The International Finance Institute (IFI), which brings together the world's most important financial institutions .",
+            "question_answers": [
+                {
+                    "question": "Investors do not believe what?",
+                    "answer": "a leftist candidate"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the International Finance Institute do?",
+                    "score": 0.8475,
+                    "answers": "which brings together the world 's most important financial institutions|relcl"
+                },
+                {
+                    "question": "What did Martín Castellano say about the election in Mexico?",
+                    "score": 0.8463,
+                    "answers": "Also|advmod\t:|punct\tInvestors|nsubj\tdo|aux\tnot|neg\ta|det\t:|punct\t'|punct\tin Mexico|prep\ta|det\t'|punct\t,|punct\tMartín|compound\t,|punct\tfor Latin America|prep\tLatin|compound\t(|punct\t)|punct\t,|punct\twhich|nsubj\ttogether|advmod\t's|case\tmost|advmod\tmost important|amod\tfinancial|amod"
+                },
+                {
+                    "question": "What is the world's most important financial institutions?",
+                    "score": 0.8071,
+                    "answers": "the world 's|poss\tthe world 's most important financial institutions|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Castellano being a leftist candidate?",
+                    "score": 0.8016,
+                    "answers": "a leftist candidate|dobj"
+                },
+                {
+                    "question": "What is the risk of the election in Mexico according to Martín Castellano?",
+                    "score": 0.7946,
+                    "answers": "higher|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Despite the instability related to the renegotiation of the North American Free Trade Agreement (NAFTA), promoted by the Donald Trump government, the Mexican economy will have to continue to grow this year, although at a slower pace.",
+            "question_answers": [
+                {
+                    "question": "What does NAFTA stand for?",
+                    "answer": "the North American Free Trade Agreement"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did NAFTA do to the Mexican economy?",
+                    "score": 0.8645,
+                    "answers": "that|mark\tthe|det\tthe|det\tthe|det\t(|punct\t)|punct\t,|punct\tthe|det\tDonald|compound\t,|punct\tthe|det\tthe Mexican economy|nsubj\twill|aux\tto|aux\tto|aux\tthis|det\t,|punct\talthough|mark\talthough at a slower pace|advcl\ta|det"
+                },
+                {
+                    "question": "How much will the Mexican economy grow this year?",
+                    "score": 0.8302,
+                    "answers": "that Despite the instability related to the renegotiation of the North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government , the Mexican economy will have to continue to grow this year , although at a slower pace|ccomp"
+                },
+                {
+                    "question": "What was the growth rate of the Mexican economy in 2018?",
+                    "score": 0.7985,
+                    "answers": "to continue to grow this year , although at a slower pace|xcomp\tto grow this year ,|xcomp\tslower|amod\ta slower pace|pobj"
+                },
+                {
+                    "question": "What is the current GDP of Mexico?",
+                    "score": 0.7505,
+                    "answers": "www.forbes.com.mx reported on 24/01/2018 that Despite the instability related to the renegotiation of the North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government , the Mexican economy will have to continue to grow this year , although at a slower pace|ROOT"
+                },
+                {
+                    "question": "What is NAFTA?",
+                    "score": 0.7428,
+                    "answers": "www.forbes.com.mx|nsubj\ton 24/01/2018|prep\tDespite the instability related to the renegotiation of the North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government ,|prep\tthe instability related to the renegotiation of the North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government ,|pobj\trelated to the renegotiation of the North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government ,|acl\tto the renegotiation of the North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government ,|prep\tthe renegotiation of the North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government ,|pobj\tof the North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government|prep\tNorth|compound\tNorth American|compound\tFree|compound\tFree Trade|compound\tthe North American Free Trade Agreement ( NAFTA ) , promoted by the Donald Trump government|pobj\tNAFTA|appos\tpromoted by the Donald Trump government|acl\tby the Donald Trump government|agent\tthe Donald Trump government|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Castellano also made a reflection on the economic moment that our country is experiencing.",
+            "question_answers": [
+                {
+                    "question": "Who made a reflection on the economic moment that our country is experiencing?",
+                    "answer": "Castellano"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Castellano say about the economic moment that our country is experiencing?",
+                    "score": 0.8601,
+                    "answers": "www.forbes.com.mx|nsubj\ton 24/01/2018|prep\ta reflection on the economic moment that our country is experiencing|dobj\tthe|det\teconomic|amod\tour|poss\tour country|nsubj\tis|aux"
+                }
+            ]
+        },
+        {
+            "claim": "The need to contain inflation, which registered its highest level in  years, and avoid volatility in the exchange rate, where a dollar is sold in  pesos, would prevent the Bank of Mexico (Banxico) from making more monetary stimuli, breaking the hopes of a cut at its interest rate.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the Mexican bank that is hoping to cut its interest rate?",
+                    "answer": "Bank of Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What would the Bank of Mexico (Banxico) do with inflation?",
+                    "score": 0.8219,
+                    "answers": "more monetary stimuli|dobj"
+                },
+                {
+                    "question": "What was the inflation rate in Mexico in 2018?",
+                    "score": 0.7935,
+                    "answers": "www.forbes.com.mx|nsubj\tthat|mark\tThe|det\tThe need to contain inflation , which registered its highest level in   years , and avoid volatility in the exchange rate , where a dollar is sold in|nsubj\tto|aux\tto contain inflation , which registered its highest level in   years , and avoid volatility in the exchange rate , where a dollar is sold in|acl\t,|punct\twhich|nsubj\twhich registered its highest level in|relcl\thighest|amod\tin|prep\t  years|dep\t,|punct\tand|cc\tthe|det\t,|punct\twhere|advmod\ta|det\ta dollar|nsubjpass\tis|auxpass\tin|prep\tthat The need to contain inflation , which registered its highest level in   years , and avoid volatility in the exchange rate , where a dollar is sold in   pesos ,|dep\t,|punct\twould|aux\tthe|det\tMexico|pobj\t(|punct\t)|punct\tmore|amod\t,|punct\tthe|det\ta|det"
+                },
+                {
+                    "question": "What is the current rate of inflation in Mexico?",
+                    "score": 0.7536,
+                    "answers": "its highest level in|dobj"
+                },
+                {
+                    "question": "What is the exchange rate for a dollar?",
+                    "score": 0.744,
+                    "answers": "where a dollar is sold in|relcl"
+                },
+                {
+                    "question": "What is the Bank of Mexico's interest rate?",
+                    "score": 0.7426,
+                    "answers": "from making more monetary stimuli|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The director warned that there will also be critical elections in the region, led by democratic processes in Brazil and Colombia, and potentially in Venezuela.",
+            "question_answers": [
+                {
+                    "question": "When did forbes.com.mx report that there would be critical elections in the region?",
+                    "answer": "24/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the director say about the elections in Brazil and Colombia?",
+                    "score": 0.8142,
+                    "answers": "on 24/01/2018|prep\tpotentially|advmod"
+                },
+                {
+                    "question": "How many Venezuelans are eligible to vote?",
+                    "score": 0.7755,
+                    "answers": "potentially in Venezuela|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Its estimate of economic growth in Latin America is of % during this year, amid widespread fragmentation dissatisfaction with traditional politicians, with strong public support from left-wing candidates who have increased doubts about the durability of pro-market reforms in the region, particularly in Brazil and Mexico, which will be problematically fueled by volatility in the markets.",
+            "question_answers": [
+                {
+                    "question": "What is the estimate of Latin America's economic growth?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Latin America's economic growth in 2018?",
+                    "score": 0.8515,
+                    "answers": "in Latin America|prep"
+                },
+                {
+                    "question": "What was the economic growth in Latin America this year?",
+                    "score": 0.8318,
+                    "answers": "%|pobj"
+                },
+                {
+                    "question": "What was the GDP growth of Latin America in 2018?",
+                    "score": 0.8253,
+                    "answers": "widespread|amod\tfragmentation|compound\twith traditional politicians|prep\ttraditional politicians|pobj"
+                },
+                {
+                    "question": "What will be the impact of volatility in the markets on pro-market reforms?",
+                    "score": 0.7545,
+                    "answers": "who have increased doubts about the durability of pro - market reforms in the region , particularly in Brazil and Mexico , which will be problematically fueled by volatility in the markets|relcl\tabout the durability of pro - market reforms in the region , particularly in Brazil and Mexico , which will be problematically fueled by volatility in the markets|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The IIF has more than  members such as Goldman Sachs, HSBC, Metlife, Visa, Deustche Bank, Citigroup, JP Morgan.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many members does the IIF have?",
+                    "score": 0.8768,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 24/01/2018 that The IIF has more than   members such as Goldman Sachs , HSBC , Metlife , Visa , Deustche Bank , Citigroup , JP Morgan|ROOT\ton 24/01/2018|prep\tthat|mark\tThe|det\tThe IIF|nsubj\tthat The IIF has more than|ccomp\tmore than|dobj\tthan|prep\t  members such as Goldman Sachs , HSBC , Metlife , Visa , Deustche Bank , Citigroup , JP Morgan|dep\tmembers such as Goldman Sachs , HSBC , Metlife , Visa , Deustche Bank , Citigroup , JP Morgan|dobj\tsuch|amod\tsuch as Goldman Sachs , HSBC , Metlife , Visa , Deustche Bank , Citigroup , JP Morgan|prep\tGoldman|compound\tGoldman Sachs , HSBC , Metlife , Visa , Deustche Bank , Citigroup , JP Morgan|pobj\t,|punct\tHSBC , Metlife , Visa , Deustche Bank , Citigroup , JP Morgan|conj\t,|punct\tMetlife , Visa , Deustche Bank , Citigroup , JP Morgan|conj\t,|punct\tVisa , Deustche Bank , Citigroup , JP Morgan|conj\t,|punct\tDeustche|compound\tDeustche Bank , Citigroup , JP Morgan|conj\t,|punct\tCitigroup , JP Morgan|conj\t,|punct\tJP|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Mexican banks Banorte and Interactions are also part of this institution.",
+            "question_answers": [
+                {
+                    "question": "What are the names of the two Mexican banks that are part of forbes?",
+                    "answer": "Banorte and Interactions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the names of the Mexican banks Banorte and Interactions?",
+                    "score": 0.7974,
+                    "answers": "www.forbes.com.mx reported on 24/01/2018 that Mexican banks Banorte and Interactions are also part of this institution|ROOT"
+                },
+                {
+                    "question": "What is the relationship between Banorte and Interactions?",
+                    "score": 0.7877,
+                    "answers": "on 24/01/2018|prep\tpart of this institution|attr\tof this institution|prep\tthis institution|pobj"
+                },
+                {
+                    "question": "What is Banorte and Interactions?",
+                    "score": 0.7607,
+                    "answers": "www.forbes.com.mx|nsubj\tthat|mark\tMexican banks Banorte and Interactions|nsubj\tBanorte and Interactions|appos\tand|cc\tthat Mexican banks Banorte and Interactions are also part of this institution|ccomp\talso|advmod\tthis|det"
+                }
+            ]
+        }
+    ]
+}

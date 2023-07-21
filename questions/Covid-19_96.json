@@ -1,0 +1,698 @@
+{
+    "id": "Covid-19_96",
+    "claim": "A special adviser to the World Health Organization (WHO) urged Governments not to use quarantine as the main strategy to control the spread of COVID-19, and warned about increasing poverty as a result of restrictions. “At the World Health Organization we do not advocate quarantine as the main means of controlling this virus,” said Dr. David Nabarro, one of the six WHO special envoys for COVID-19, in an interview with the British media The Spectator. “The only time we believe a quarantine is justified is to buy time to reorganise, regroup and rebalance their resources, and to protect health workers who are exhausted. But in general, we prefer not to do so.”. The specialist, in charge of the WHO for coronavirus in Europe, explained that blockades “only have a consequence that should never be underestimated, [and that] is to make poor people much poorer”. According to Nabarro, the economic impact on small tourism-dependent countries and the increase in poverty levels are two major effects of quarantines, citing as an example the damage suffered in places such as the Caribbean or the Pacific due to massive cancellation of travel or losses of small farmers around the world because their markets have been hit. That is why, like other international organizations, the expert warned that global poverty could double by next year. “Look at what's happening with poverty levels; it seems very likely that global poverty will double next year,” Nabarro said. “It is quite possible that we have at least a doubling of child malnutrition, because children do not receive meals at school and their parents, in poor families, cannot afford it. In fact, this is a terrible and terrible global catastrophe.”. The WHO envoy called on world leaders to “stop using quarantine as their primary method of control,” and urged them to develop, instead, “better systems”. “Work together and learn from one another,” he exhorted. “But remember, quarantines have only one consequence that you should never underestimate, and it's making poor people much poorer.”. Nabarro's words come at a time when several countries assess the imposition of new restrictions on the second wave of contagion and days after more than 2,000 doctors and epidemiologists from all over the world – headed by Sunetra Gupta, Martin Kulldorff and Jay Bhattacharya – issued a statement in which they asked the political authorities to avoid confinement in response to COVID-19. “The blockages simply freeze the virus. I'm sorry. I'm sorry. do not lead to their elimination\"It is not the first time that Nabarro has warned about the adverse effects of quarantines. In a news report published a few days ago, the specialist called for governments around the world to strike a balance between restrictions and normal life, at a time when the second wave in Europe is accompanied by the imposition of new containment measures. 'Too many restrictions harm people's livelihoods and cause resentment. The ‘brakeless virus' will cause many deaths and weaken prolonged COVID among younger people,” he wrote. The message of the News is that health measures involving strict personal hygiene, effective tracing of contacts and isolation in case of illness are the essential measures to take. “This means testing, tracing, isolation and protection services everywhere, with clearly justified performance metrics”, he wrote. “It is important that there is sufficient testing capacity to detect where the virus is, detect peaks and manage sudden increases”. “The blockages simply freeze the virus. I'm sorry. I'm sorry. do not lead to their elimination,” he said. In August Tedros Ghebreyesus himself, director general of WHO, described confinements as an ineffective long-term solution for any country. “We don't need to choose between lives and livelihoods or between health and the economy. That's a false choice,” he said. I'm sorry.",
+    "source": "www.infobae.com",
+    "date": "12/10/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A special adviser to the World Health Organization (WHO) urged Governments not to use quarantine as the main strategy Nabarro control the spread of COVID-19 , and warned about increasing poverty as a result of restrictions.",
+            "question_answers": [
+                {
+                    "question": "What disease did a special adviser to the World Health Organization (WHO) urge governments to not use quarantine as the main strategy to control?",
+                    "answer": "COVID-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the WHO say about the spread of COVID-19?",
+                    "score": 0.7665,
+                    "answers": "control the spread of COVID-19|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of COVID-19?",
+                    "score": 0.6915,
+                    "answers": "the spread of COVID-19|dobj\tincreasing|amod"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.6799,
+                    "answers": "of COVID-19|prep\tCOVID-19|pobj"
+                },
+                {
+                    "question": "What is the relationship between quarantine and COVID-19?",
+                    "score": 0.6664,
+                    "answers": "not|neg\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "children the World Health Organization (WHO meals the World Health Organization (WHO do children advocate quarantine as the main means of meals COVID-19 ,” said A special adviser to the World Health Organization (WHO) Nabarro A special adviser to the World Health Organization (WHO) world leaders with the British media world leaders Spectator.",
+            "question_answers": [
+                {
+                    "question": "What does the World Health Organization recommend quarantine as the main means of meals?",
+                    "answer": "COVID-19"
+                },
+                {
+                    "question": "What does the World Health Organization recommend quarantine as the main means of meals?",
+                    "answer": "COVID-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the World Health Organization (WHO) say about quarantine as the main means of meals?",
+                    "score": 0.8244,
+                    "answers": "on 12/10/2020|prep\tthat children the World Health Organization ( WHO meals the World Health Organization ( WHO do children advocate quarantine as the main means of meals COVID-19|ccomp"
+                },
+                {
+                    "question": "What is the World Health Organization's relationship with the British media world leaders?",
+                    "score": 0.7365,
+                    "answers": "with the British media world leaders|prep\tthe British media world leaders|pobj"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.7223,
+                    "answers": "of meals COVID-19|prep"
+                },
+                {
+                    "question": "Who is Dr. Nabarro?",
+                    "score": 0.6977,
+                    "answers": "A special adviser to the World Health Organization ( WHO ) world leaders with the British media world leaders|appos"
+                },
+                {
+                    "question": "Who is Spectator?",
+                    "score": 0.6916,
+                    "answers": "British media|compound"
+                }
+            ]
+        },
+        {
+            "claim": "“The only time the World Health Organization (WHO believe a world leaders is justified is to buy time to reorganise, regroup and rebalance their resources, and to protect health workers who are exhausted.",
+            "question_answers": [
+                {
+                    "question": "What is the only time the World Health Organization believes a world leader is justified?",
+                    "answer": "buy time to reorganise, regroup and rebalance their resources, and to protect health workers who are exhausted"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the World Health Organization believe about world leaders?",
+                    "score": 0.7163,
+                    "answers": "www.infobae.com reported on 12/10/2020 that “ The only time the World Health Organization ( WHO believe a world leaders is justified is to buy time to reorganise , regroup and rebalance their resources , and to protect health workers who are exhausted|ROOT\ton 12/10/2020|prep\t12/10/2020|pobj\tThe only time the World Health Organization ( WHO believe a world leaders is justified|nsubj\tWorld|compound\ta|det\tworld|compound\ta world leaders|nsubj\ta world leaders is justified|ccomp\tjustified|acomp\tthat “ The only time the World Health Organization ( WHO believe a world leaders is justified is to buy time to reorganise , regroup and rebalance their resources , and to protect health workers who are exhausted|ccomp\tregroup and rebalance their resources|conj\trebalance their resources|conj\texhausted|acomp"
+                },
+                {
+                    "question": "What is the World Health Organization's position on health workers?",
+                    "score": 0.6764,
+                    "answers": "to protect health workers who are exhausted|conj\thealth workers who are exhausted|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "only one consequence that you should never underestimate A special adviser to the World Health Organization (WHO) Nabarro , explained that blockades “only have a consequence that should never be underestimated , [and a consequence that should never be underestimated ] is to make poor people much poorermore than 2,000 doctors and epidemiologists from all over the world .",
+            "question_answers": [
+                {
+                    "question": "Who explained that blockades only have a consequence that should never be underestimated?",
+                    "answer": "A special adviser to the World Health Organization (WHO) Nabarro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the consequences of blockades?",
+                    "score": 0.6806,
+                    "answers": "www.infobae.com|nsubj\twww.infobae.com reported on 12/10/2020 that only one consequence that you should never underestimate|ROOT\ton 12/10/2020|prep\tthat|mark\tonly|advmod\tthat only one consequence that you should never underestimate|dobj\tthat|dobj\tyou|nsubj\tnever|neg\tthat you should never underestimate|relcl\tA|det\tspecial|amod\tto the World Health Organization ( WHO )|prep\tthe|det\tWorld|compound\tHealth|compound\tthe World Health Organization ( WHO )|pobj\t(|punct\t)|punct\t,|punct\tA special adviser to the World Health Organization ( WHO ) Nabarro , explained that blockades “ only have a consequence that should never be underestimated , [ and a consequence that should never be underestimated ] is to make poor people much poorermore than 2,000 doctors and epidemiologists from all over the world|ROOT\tthat|mark\tblockades|nsubj\tonly|advmod\tthat blockades “ only have a consequence that should never be underestimated , [ and a consequence that should never be underestimated ] is to make poor people much poorermore than 2,000 doctors and epidemiologists from all over the world|ccomp\ta|det\ta consequence that should never be underestimated|dobj\tthat|nsubjpass\tnever|neg\tthat should never be underestimated|relcl\t,|punct\t[|punct\tand|cc\ta|det\ta consequence that should never be underestimated ]|nsubj\tthat|nsubjpass\tnever|neg\tthat should never be underestimated|relcl\t]|punct\ta consequence that should never be underestimated ] is to make poor people much poorermore than 2,000 doctors and epidemiologists from all over the world|conj\tto|aux\tto make poor people much poorermore|xcomp\tmuch|advmod\tthan|quantmod\tand|cc\tfrom all over the world|prep\tall|advmod\tall over the world|prep\tthe|det\tthe world|pobj"
+                },
+                {
+                    "question": "What is the relationship between blockades and poor people?",
+                    "score": 0.6226,
+                    "answers": "should|aux\t“|punct\tshould|aux\tbe|auxpass\tshould|aux\tbe|auxpass\tpoor|amod\tpoor people|nsubj\tpoor people much poorermore|ccomp"
+                },
+                {
+                    "question": "How many doctors and epidemiologists are there?",
+                    "score": 0.6204,
+                    "answers": "than 2,000|nummod\tthan 2,000 doctors and epidemiologists from all over the world|nsubj\tepidemiologists|conj"
+                }
+            ]
+        },
+        {
+            "claim": "more than 2,000 doctors and epidemiologists from all over the world countries and the increase in poverty levels are two major effects of quarantines, citing more than 2,000 doctors and epidemiologists from all over the world an example the damage suffered in places such as the Caribbean or the Pacific due to massive cancellation the virus or losses of small farmers around the the virus because markets have been hit.",
+            "question_answers": [
+                {
+                    "question": "What is one cause of the damage suffered in the Caribbean or the Pacific?",
+                    "answer": "massive cancellation the virus or losses of small farmers around the the virus because markets have been hit"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many doctors and epidemiologists have died of the virus?",
+                    "score": 0.6503,
+                    "answers": "more than 2,000 doctors and epidemiologists from all over the world|nsubj"
+                },
+                {
+                    "question": "What are the effects of quarantines around the virus?",
+                    "score": 0.6286,
+                    "answers": "around the the virus|prep"
+                }
+            ]
+        },
+        {
+            "claim": "That Nabarro like other international organizations, A special adviser to the World Health Organization (WHO) warned that global poverty could double by next year.",
+            "question_answers": [
+                {
+                    "question": "What organization was Nabarro a special adviser to?",
+                    "answer": "World Health Organization (WHO)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the World Health Organization warn about global poverty could double by 2020?",
+                    "score": 0.8399,
+                    "answers": "like other international organizations , A special adviser to the World Health Organization ( WHO )|prep"
+                },
+                {
+                    "question": "What are the statistics on global poverty?",
+                    "score": 0.8075,
+                    "answers": "other|amod"
+                },
+                {
+                    "question": "What is the current poverty rate in the world?",
+                    "score": 0.7755,
+                    "answers": "international|amod\tspecial|amod\tWorld|compound\tHealth|compound"
+                },
+                {
+                    "question": "What is the estimate for global poverty by 2020?",
+                    "score": 0.7739,
+                    "answers": "that global poverty could double by next year|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of global poverty?",
+                    "score": 0.7517,
+                    "answers": "www.infobae.com|nsubj\tglobal poverty|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "“Look at what's happening with poverty levels; it seems very likely that global poverty will double next year,” Nabarro said.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that \"Look at what's happening with poverty levels\"?",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will global poverty double in the next year?",
+                    "score": 0.8584,
+                    "answers": "that global poverty will double next year|ccomp"
+                },
+                {
+                    "question": "What is the current poverty rate in the United States?",
+                    "score": 0.7985,
+                    "answers": "next|amod"
+                }
+            ]
+        },
+        {
+            "claim": "“It is quite possible that we have at least a doubling of child malnutrition, because children do not receive meals at school and their parents, in poor families, cannot afford it.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that there was a possibility of a doubling of child malnutrition?",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many children are in poverty in the United States?",
+                    "score": 0.8892,
+                    "answers": "that we have at least a doubling of child malnutrition , because children do not receive meals at school and their parents , in poor families , can not afford it|ccomp"
+                },
+                {
+                    "question": "How many children in poor families do not receive meals at school?",
+                    "score": 0.8817,
+                    "answers": "in poor families|prep"
+                },
+                {
+                    "question": "What is the poverty rate of children in poor families?",
+                    "score": 0.868,
+                    "answers": "because children do not receive meals at school and their parents , in poor families , can not afford it|advcl\ttheir parents , in poor families , can not afford it|conj"
+                },
+                {
+                    "question": "What is the current rate of child malnutrition?",
+                    "score": 0.8668,
+                    "answers": "www.infobae.com reported on 12/10/2020 that “ It is quite possible that we have at least a doubling of child malnutrition , because children do not receive meals at school and their parents , in poor families , can not afford it|ROOT\tat least a doubling of child malnutrition|dobj\tof child malnutrition|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, this is a terrible and terrible global catastrophe.",
+            "question_answers": [
+                {
+                    "question": "Who reported that this is a terrible and terrible global catastrophe?",
+                    "answer": "www.infobae.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the global catastrophe?",
+                    "score": 0.809,
+                    "answers": "on 12/10/2020|prep\t12/10/2020|pobj\tthis|nsubj\tthat In fact , this is a terrible and terrible global catastrophe|ccomp\ta|det\tterrible and terrible|amod\tterrible|conj\tglobal|amod\ta terrible and terrible global catastrophe|attr"
+                },
+                {
+                    "question": "What is the definition of global catastrophe?",
+                    "score": 0.7891,
+                    "answers": "that|mark\tIn fact|prep\tfact|pobj\t,|punct\tand|cc"
+                },
+                {
+                    "question": "What isinfobae.com?",
+                    "score": 0.6355,
+                    "answers": "www.infobae.com|nsubj\twww.infobae.com reported on 12/10/2020 that In fact , this is a terrible and terrible global catastrophe|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The WHO envoy called on world leaders to “stop using quarantine as their primary method of control,” and urged them to develop, instead, “better systems”.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that the WHO envoy called on world leaders to stop using quarantine as their primary method of control?",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the WHO envoy call world leaders to use quarantine as their primary method of control?",
+                    "score": 0.7578,
+                    "answers": "The WHO envoy|nsubj\ton world leaders|prep\tof control|prep\tcontrol|pobj"
+                },
+                {
+                    "question": "What isinfobae.com?",
+                    "score": 0.5271,
+                    "answers": "www.infobae.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "“But remember, quarantines have only one consequence that you should never underestimate, and it's making poor people much poorer.",
+            "question_answers": [
+                {
+                    "question": "What group of people didinfobae.com say quarantines are making much poorer?",
+                    "answer": "poor people"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the consequences of quarantines?",
+                    "score": 0.7498,
+                    "answers": "www.infobae.com|nsubj\twww.infobae.com reported on 12/10/2020 that “ But remember , quarantines have only one consequence that you should never underestimate , and it 's making poor people much poorer|ROOT\ton 12/10/2020|prep\t12/10/2020|pobj\tthat|mark\t“|punct\tBut|cc\tthat “ But remember , quarantines have only one consequence that you should never underestimate , and it 's making poor people much poorer|ccomp\t,|punct\tquarantines|nsubj\tquarantines have only one consequence that you should never underestimate , and it 's making poor people much poorer|ccomp\tonly|advmod\tonly one consequence that you should never underestimate|dobj\tthat|dobj\tyou|nsubj\tshould|aux\tnever|neg\tthat you should never underestimate|relcl\t,|punct\tand|cc\tit|nsubj\t's|aux\tit 's making poor people much poorer|conj\tmuch|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Nabarro's words come at a time when several countries assess the imposition of new restrictions on the second wave of contagion and days after more than 2,000 doctors and epidemiologists from all over the world – headed by Sunetra Gupta, Martin Kulldorff and Jay Bhattacharya – issued a statement in which they asked the political authorities to avoid confinement in response to COVID-19.",
+            "question_answers": [
+                {
+                    "question": "Who were the leaders of the 2,000 doctors and epidemiologists who issued a statement in response to COVID-19?",
+                    "answer": "Sunetra Gupta, Martin Kulldorff and Jay Bhattacharya"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have imposed restrictions on the second wave of contagion?",
+                    "score": 0.5609,
+                    "answers": "several countries|nsubj"
+                },
+                {
+                    "question": "What did Dr. Sunetra Gupta, Martin Kulldorff and Jay Bhattacharya say about Nabarro's words?",
+                    "score": 0.556,
+                    "answers": "www.infobae.com|nsubj"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.4709,
+                    "answers": "in response to COVID-19|prep\tresponse to COVID-19|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "“The blockages simply freeze the virus.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 12/10/2020 that the blockages simply freeze the virus?",
+                    "answer": "www.infobae.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What blockages are there to freeze the virus?",
+                    "score": 0.8459,
+                    "answers": "on 12/10/2020|prep\t12/10/2020|pobj"
+                },
+                {
+                    "question": "What blockages are there?",
+                    "score": 0.8417,
+                    "answers": "The blockages|nsubj"
+                },
+                {
+                    "question": "What blockages freeze the virus?",
+                    "score": 0.8346,
+                    "answers": "www.infobae.com reported on 12/10/2020 that “ The blockages simply freeze the virus|ROOT\tthat|mark\t“|punct\tThe|det\tsimply|advmod\tthat “ The blockages simply freeze the virus|ccomp\tthe|det\tthe virus|dobj"
+                },
+                {
+                    "question": "What are the blockages that freeze the virus?",
+                    "score": 0.8152,
+                    "answers": "www.infobae.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "do not lead to their elimination\"It is not the first time that Nabarro has warned about the adverse effects of quarantines.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 12/10/2020 that do not lead to their elimination?",
+                    "answer": "www.infobae.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the adverse effects of quarantines?",
+                    "score": 0.8412,
+                    "answers": "www.infobae.com|nsubj\twww.infobae.com reported on 12/10/2020 that do not lead to their elimination\"It|ROOT\ton 12/10/2020|prep\t12/10/2020|pobj\tthat|nsubj\tdo|aux\tnot|neg\tthat do not lead to their elimination\"It|dep\tto their elimination\"It|prep\ttheir|poss\ttheir elimination\"It|pobj\tis not the first time that Nabarro has warned about the adverse effects of quarantines|ROOT\tnot|neg\tthe|det\tthe first time that Nabarro has warned about the adverse effects of quarantines|attr\tthat|advmod\thas|aux\tthat Nabarro has warned about the adverse effects of quarantines|relcl\tabout the adverse effects of quarantines|prep\tthe|det\tadverse|amod\tthe adverse effects of quarantines|pobj\tof quarantines|prep\tquarantines|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In a news report published a few days ago, the specialist called for governments around the world to strike a balance between restrictions and normal life, at a time when the second wave in Europe is accompanied by the imposition of new containment measures.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that the specialist called for governments around the world to strike a balance between restrictions and normal life?",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the new containment measures in Europe?",
+                    "score": 0.5961,
+                    "answers": "that In a news report published a few days ago , the specialist called for governments around the world to strike a balance between restrictions and normal life , at a time when the second wave in Europe is accompanied by the imposition of new containment measures|ccomp\tby the imposition of new containment measures|agent\tthe imposition of new containment measures|pobj\tof new containment measures|prep\tnew|amod\tnew containment measures|pobj"
+                },
+                {
+                    "question": "What measures were put into place after the second wave in Europe?",
+                    "score": 0.5863,
+                    "answers": "around the world|prep\tthe world|pobj\tcontainment|compound"
+                },
+                {
+                    "question": "What did the specialist call for governments around the world to strike a balance between restrictions and normal life?",
+                    "score": 0.5615,
+                    "answers": "news|compound\tthe specialist|nsubj"
+                },
+                {
+                    "question": "What are the restrictions and normal life in Europe?",
+                    "score": 0.5028,
+                    "answers": "between restrictions and normal life|prep\trestrictions and normal life|pobj"
+                },
+                {
+                    "question": "What is the definition of normal life?",
+                    "score": 0.4732,
+                    "answers": "normal|amod\tnormal life|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'Too many restrictions harm people's livelihoods and cause resentment.",
+            "question_answers": [
+                {
+                    "question": "What did www.infobae.com report on 12/10/2020?",
+                    "answer": "'Too many restrictions harm people's livelihoods and cause resentment"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many restrictions are there on the travel ban?",
+                    "score": 0.8022,
+                    "answers": "Too many restrictions|nsubj"
+                },
+                {
+                    "question": "How many restrictions harm people's livelihoods and cause resentment?",
+                    "score": 0.7271,
+                    "answers": "www.infobae.com|nsubj\twww.infobae.com reported on 12/10/2020 that ' Too many restrictions harm people 's livelihoods and cause resentment|ROOT\ton 12/10/2020|prep\t12/10/2020|pobj\tthat|mark\t'|punct\tToo|advmod\tToo many|amod\tthat ' Too many restrictions harm people 's livelihoods and cause resentment|ccomp\tpeople 's|poss\t's|case\tpeople 's livelihoods|dobj\tand|cc\tcause resentment|conj\tresentment|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The ‘brakeless virus' will cause many deaths and weaken prolonged COVID among younger people,” he wrote.",
+            "question_answers": [
+                {
+                    "question": "What did www.infobae.com say the brakeless virus would do to COVID?",
+                    "answer": "weaken prolonged COVID among younger people,”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many deaths will the brakeless virus cause?",
+                    "score": 0.7806,
+                    "answers": "www.infobae.com reported on 12/10/2020 that The ‘ brakeless virus ' will cause many deaths and weaken prolonged COVID among younger people|ccomp\tthat The ‘ brakeless virus ' will cause many deaths and weaken prolonged COVID among younger people|ccomp\twww.infobae.com reported on 12/10/2020 that The ‘ brakeless virus ' will cause many deaths and weaken prolonged COVID among younger people , ” he wrote|ROOT"
+                },
+                {
+                    "question": "How many deaths and weaken are there from the heartless virus?",
+                    "score": 0.7312,
+                    "answers": "‘|punct\t”|punct"
+                },
+                {
+                    "question": "What is the relationship between clotless virus and COVID among younger people?",
+                    "score": 0.7048,
+                    "answers": "prolonged COVID among younger people|dobj"
+                },
+                {
+                    "question": "What will happen if thebrakeless virus is broken?",
+                    "score": 0.6973,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is brakeless virus?",
+                    "score": 0.6892,
+                    "answers": "brakeless|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The message of the News is that health measures involving strict personal hygiene, effective tracing of contacts and isolation in case of illness are the essential measures to take.",
+            "question_answers": [
+                {
+                    "question": "What is the message of the News?",
+                    "answer": "health measures involving strict personal hygiene, effective tracing of contacts and isolation in case of illness"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures should be taken to prevent the spread of influenza?",
+                    "score": 0.7149,
+                    "answers": "that The message of the News is that health measures involving strict personal hygiene , effective tracing of contacts and isolation in case of illness are the essential measures to take|ccomp"
+                },
+                {
+                    "question": "What are the measures that should be taken in regards to health measures?",
+                    "score": 0.5362,
+                    "answers": "www.infobae.com|nsubj\tThe message of the News|nsubj"
+                },
+                {
+                    "question": "What are the essential measures to take in case of illness?",
+                    "score": 0.5275,
+                    "answers": "of the News|prep\tcase of illness|pobj\tof illness|prep"
+                }
+            ]
+        },
+        {
+            "claim": "“This means testing, tracing, isolation and protection services everywhere, with clearly justified performance metrics”, he wrote.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that “This means testing, tracing, isolation and protection services everywhere, with clearly justified performance metrics”?",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the performance metrics for trace, isolation, and protection services?",
+                    "score": 0.6566,
+                    "answers": "tracing , isolation and protection|conj"
+                },
+                {
+                    "question": "What is the purpose of testing, tracing, and protection services?",
+                    "score": 0.6553,
+                    "answers": "that “ This means testing , tracing , isolation and protection services everywhere , with clearly justified performance metrics|ccomp"
+                },
+                {
+                    "question": "What is the definition of performance metrics?",
+                    "score": 0.626,
+                    "answers": "with clearly justified performance metrics|prep\tclearly justified|amod\tclearly justified performance metrics|pobj\twww.infobae.com reported on 12/10/2020 that “ This means testing , tracing , isolation and protection services everywhere , with clearly justified performance metrics ” , he wrote|ROOT"
+                },
+                {
+                    "question": "What is a performance metric?",
+                    "score": 0.6239,
+                    "answers": "performance|compound"
+                },
+                {
+                    "question": "What isinfobae.com?",
+                    "score": 0.4932,
+                    "answers": "www.infobae.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "“It is important that there is sufficient testing capacity to detect where the virus is, detect peaks and manage sudden increases”.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that it was important to have sufficient testing capacity to detect where the virus is?",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is it important to detect where the virus is?",
+                    "score": 0.8949,
+                    "answers": "important|acomp\tsudden|amod"
+                }
+            ]
+        },
+        {
+            "claim": "“The blockages simply freeze the virus.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 12/10/2020 that the blockages simply freeze the virus?",
+                    "answer": "www.infobae.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What blockages are there to freeze the virus?",
+                    "score": 0.8459,
+                    "answers": "on 12/10/2020|prep\t12/10/2020|pobj"
+                },
+                {
+                    "question": "What blockages are there?",
+                    "score": 0.8417,
+                    "answers": "The blockages|nsubj"
+                },
+                {
+                    "question": "What blockages freeze the virus?",
+                    "score": 0.8346,
+                    "answers": "www.infobae.com reported on 12/10/2020 that “ The blockages simply freeze the virus|ROOT\tthat|mark\t“|punct\tThe|det\tsimply|advmod\tthat “ The blockages simply freeze the virus|ccomp\tthe|det\tthe virus|dobj"
+                },
+                {
+                    "question": "What are the blockages that freeze the virus?",
+                    "score": 0.8152,
+                    "answers": "www.infobae.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "do not lead to their elimination,” he said.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that did not lead to their elimination?",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of how many people were eliminated from the competition?",
+                    "score": 0.7933,
+                    "answers": "that do not lead to their elimination|relcl\tto their elimination|prep"
+                },
+                {
+                    "question": "What isinfobae.com?",
+                    "score": 0.6586,
+                    "answers": "www.infobae.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In August Tedros Ghebreyesus himself, director general of WHO, described confinements as an ineffective long-term solution for any country.",
+            "question_answers": [
+                {
+                    "question": "Who was the director general of WHO?",
+                    "answer": "Tedros Ghebreyesus"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Tedros Ghebreyesus say about confinements?",
+                    "score": 0.7317,
+                    "answers": "In August|prep\tdirector general of WHO|appos\tof WHO|prep\tlong - term|compound\tfor any country|prep\tany country|pobj"
+                },
+                {
+                    "question": "What did Ghebreyesus say about confinements as an ineffective long-term solution for any country?",
+                    "score": 0.6793,
+                    "answers": "www.infobae.com|nsubj"
+                },
+                {
+                    "question": "What is confinements?",
+                    "score": 0.6455,
+                    "answers": "confinements|dobj"
+                },
+                {
+                    "question": "What is the relationship between Tedros Ghebreyesus and WHO?",
+                    "score": 0.5552,
+                    "answers": "on 12/10/2020|prep"
+                }
+            ]
+        },
+        {
+            "claim": "“We don't need to choose between lives and livelihoods or between health and the economy.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that \"We don't need to choose between lives and livelihoods or between health and the economy?\"",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many lives and livelihoods do we need to choose between health and the economy?",
+                    "score": 0.7082,
+                    "answers": "www.infobae.com reported on 12/10/2020 that “ We do n't need to choose between lives and livelihoods or between health and the economy|ROOT"
+                },
+                {
+                    "question": "What is the economy?",
+                    "score": 0.6686,
+                    "answers": "the economy|conj"
+                },
+                {
+                    "question": "What is the difference between lives and livelihoods or between health and economy?",
+                    "score": 0.6225,
+                    "answers": "or|cc"
+                },
+                {
+                    "question": "What is the relationship between lives and livelihoods?",
+                    "score": 0.6052,
+                    "answers": "12/10/2020|pobj"
+                },
+                {
+                    "question": "What isinfobae.com?",
+                    "score": 0.4924,
+                    "answers": "www.infobae.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "That's a false choice,” he said.",
+            "question_answers": [
+                {
+                    "question": "When did www.infobae.com report that That's a false choice?",
+                    "answer": "12/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the false choice made by Trump in 2020?",
+                    "score": 0.8034,
+                    "answers": "on 12/10/2020|prep\t12/10/2020|pobj"
+                },
+                {
+                    "question": "What is a false choice?",
+                    "score": 0.7779,
+                    "answers": "a false choice|attr"
+                },
+                {
+                    "question": "What is the difference between a choice or a false choice?",
+                    "score": 0.7695,
+                    "answers": "www.infobae.com reported on 12/10/2020 that That 's a false choice|ccomp\tthat That 's a false choice|ccomp"
+                },
+                {
+                    "question": "What is the definition of a false choice?",
+                    "score": 0.7682,
+                    "answers": "a|det"
+                },
+                {
+                    "question": "What isinfobae?",
+                    "score": 0.7643,
+                    "answers": "www.infobae.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

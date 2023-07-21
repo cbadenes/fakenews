@@ -1,0 +1,128 @@
+{
+    "id": "146_Society_65",
+    "claim": "A PP spokesman has assured in his latest statement that from  a new grant will help with what they consider a serious problem in our country, improve the self-esteem and sexual life of all Spaniards who have a penis of smaller dimensions to the average of the country stipulated in  centimeters. From the Government they have wanted to clarify that 'we are in difficult times economically, it seems to us a good step to preserve the pride of the country by increasing the size of the members of our citizens'. The measure has been well received on social networks, although most comments have been made anonymously. Some users have shown their discontent 'to me measures only , it is not fair that I can not benefit from this help for half an inch, for the first time in my life I have wished to have it smaller 'and others have repaired that 'the more Spaniards operate more will increase the national average and therefore will have to update this measure, in the end we all end up with dicks of  cm'. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "31/10/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A PP spokesman has assured in his latest statement that from  a new grant will help with what they consider a serious problem in our country, improve the self-esteem and sexual life of all Spaniards who have a penis of smaller dimensions to the average of the country stipulated in  centimeters.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How much money did the Spanish government receive in grants in 2017?",
+                    "score": 0.6899,
+                    "answers": "that|mark\thas|aux\tin his latest statement|prep\tthat|mark\tthat from  |mark\ta|det\twill|aux\ta|det\tour country|pobj\t-|punct\tand|cc\ta|det"
+                },
+                {
+                    "question": "What is the average penis size of a Spanish man?",
+                    "score": 0.614,
+                    "answers": "on 31/10/2017|prep"
+                },
+                {
+                    "question": "What did A PP spokesman say about the proposal?",
+                    "score": 0.5983,
+                    "answers": "his latest statement|pobj"
+                },
+                {
+                    "question": "What is the size of a penis?",
+                    "score": 0.5974,
+                    "answers": "a penis of smaller dimensions to the average of the country stipulated in|dobj\tof smaller dimensions to the average of the country stipulated in|prep\tsmaller|amod\tsmaller dimensions to the average of the country stipulated in|pobj\tthe country stipulated in|pobj\tstipulated in|acl\t  centimeters|dep\tcentimeters|dobj"
+                },
+                {
+                    "question": "What will the new grant do to help the self-esteem and sexual life of all Spaniards?",
+                    "score": 0.5945,
+                    "answers": "haynoticia.es said on 31/10/2017 that A PP spokesman has assured in his latest statement that from   a new grant will help with they consider what a serious problem in our country , improve the self - esteem and sexual life of all Spaniards who have a penis of smaller dimensions to the average of the country stipulated in   centimeters|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "From the Government they have wanted to clarify that 'we are in difficult times economically, it seems to us a good step to preserve the pride of the country by increasing the size of the members of our citizens'.",
+            "question_answers": [
+                {
+                    "question": "Who said on 31/10/2017 that from the Government they have wanted to clarify that 'we are in difficult times economically, it seems a good step to preserve the pride of the country by increasing the size of the members of our citizens'?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the government say about the economic situation in the country?",
+                    "score": 0.6496,
+                    "answers": "From the Government|prep\tthe Government|pobj\tto|aux\tin difficult times|prep\tdifficult|amod\tdifficult times|pobj\teconomically|advmod\tto us|prep\tus|pobj\tto|aux\tour citizens|pobj"
+                },
+                {
+                    "question": "What does the government want to do to keep the pride of citizens?",
+                    "score": 0.6237,
+                    "answers": "the pride of the country|dobj"
+                },
+                {
+                    "question": "What is the purpose of increasing the size of citizens?",
+                    "score": 0.5586,
+                    "answers": "a good step to preserve the pride of the country by increasing the size of the members of our citizens|oprd"
+                },
+                {
+                    "question": "What is the size of the members of citizens in the country?",
+                    "score": 0.5398,
+                    "answers": "on 31/10/2017|prep\tthat|mark\tthe|det\tthat|mark\twe|nsubj\t,|punct\tit|nsubj\ta|det\tgood|amod\tthe|det\tof the country|prep\tthe|det\tthe country|pobj\tthe|det\tof the members of our citizens|prep\tthe|det\tthe members of our citizens|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The measure has been well received on social networks, although most comments have been made anonymously.",
+            "question_answers": [
+                {
+                    "question": "Who said the measure has been well received on social networks?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many comments have been made on social networks?",
+                    "score": 0.7508,
+                    "answers": "haynoticia.es said on 31/10/2017 that The measure has been well received on social networks , although most comments have been made anonymously|ROOT\ton 31/10/2017|prep\tthat|mark\tThe|det\thas|aux\tthat The measure has been well received on social networks , although most comments have been made anonymously|ccomp\twell|advmod\ton social networks|prep\tsocial|amod\tsocial networks|pobj\t,|punct\talthough|mark\tmost|amod\tmost comments|nsubjpass\thave|aux\tbeen|auxpass\talthough most comments have been made anonymously|advcl\tanonymously|advmod"
+                },
+                {
+                    "question": "What is the measure that has been well received on social networks?",
+                    "score": 0.7213,
+                    "answers": "The measure|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Some users have shown their discontent 'to me measures only , it is not fair that I can not benefit from this help for half an inch, for the first time in my life I have wished to have it smaller 'and others have repaired that 'the more Spaniards operate more will increase the national average and therefore will have to update this measure, in the end we all end up with dicks of  cm'.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say some users have shown their discontent to me?",
+                    "answer": "measures only"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures were taken to improve the national average?",
+                    "score": 0.6808,
+                    "answers": "to have it smaller|xcomp"
+                },
+                {
+                    "question": "What measures are being taken to make the Spanish average smaller?",
+                    "score": 0.6709,
+                    "answers": "it smaller|ccomp"
+                },
+                {
+                    "question": "What measures have been added to the national average?",
+                    "score": 0.6592,
+                    "answers": "this measure|dobj"
+                },
+                {
+                    "question": "How much money does the Spanish government receive from other countries?",
+                    "score": 0.6534,
+                    "answers": "from this help|prep"
+                },
+                {
+                    "question": "What measures were added to the measure in 2017?",
+                    "score": 0.6274,
+                    "answers": "to update this measure|xcomp"
+                }
+            ]
+        }
+    ]
+}

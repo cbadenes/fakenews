@@ -1,0 +1,558 @@
+{
+    "id": "6_Science_170",
+    "claim": "This January #NUMBER* we were able to enjoy the second supermoon of this #NUMBER*. After the first, which was the dawn of the #NUMBER* to the #NUMBER* of January, the night of Tuesday #NUMBER* to Wednesday #NUMBER* we have observed this astronomical phenomenon. But the supermoon is only one of the four phenomena that occur at once this January's : there will also be a lunar eclipse, a blood moon and a blue moon. This coincidence has not occurred for years, so this supermoon is quite special: the last time this extraordinary phenomenon took place was in , and the next time it happens will be the  of January . SupermoonThe orbit of the Moon is elliptical, and one side (apogee) is about km. farther away from Earth than the nearest other (perigeo). Therefore, over the  days of lunar cycle, the satellite is sometimes closer to us than others. The supermoon occurs when the moment of maximum approach is, moreover, the moment when there is a full moon. At first glance we can appreciate it between a % and a % larger than usual. Blue MoonA full moon is considered a'blue moon'when two full moons occur in the same month. As this month of January we already had a full moon at the beginning of the month (another supermoon between the  and the  of January) this second full moon has also been a'blue moon\". Lunar EclipseIn addition, this January's  occurs a third phenomenon, less common than the supermoon and the blue moon: Earth, the Sun and the Moon align, leading to a total lunar eclipse. The full moon coincides with the moment when the moon enters the shadow of the Earth, thus producing an eclipse. The eclipse, however, will not be visible throughout the planet. In South America, Africa and Western Europe it will not be visible, while in North America it will be visible before the dawn of the January . In Asia, Australia, New Zealand and Eastern Russia you can see the total lunar eclipse. Blood MoonThe last astronomical phenomenon that matches this January's  is the blood moon. During the course of the eclipse, the Earth's atmosphere will filter the blue and green light from the sun's rays, but let the red pass instead. That's why the moon will be dyed with the reflection of the reddish glow that will come from our atmosphere. Therefore, this blood moon will only be visible in the parts of the planet where the eclipse can be seen. I'm sorry.",
+    "source": "elpais.com",
+    "date": "30/01/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "This January #NUMBER* we were able to enjoy the second supermoon of this #NUMBER* .",
+            "question_answers": [
+                {
+                    "question": "Who reported that we were able to enjoy the second supermoon of the #NUMBER*?",
+                    "answer": "elpais.com"
+                },
+                {
+                    "question": "What did elpais.com report that we were able to enjoy?",
+                    "answer": "the second supermoon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the second supermoon?",
+                    "score": 0.6798,
+                    "answers": "elpais.com reported on 30/01/2018 that This January # NUMBER * we were able to enjoy the second supermoon of this # NUMBER *|ROOT\tthat This January # NUMBER * we were able to enjoy the second supermoon of this # NUMBER *|ccomp\tthe second supermoon of this # NUMBER *|dobj\tof this # NUMBER *|prep\tthis #|pobj"
+                },
+                {
+                    "question": "What is the second supermoon?",
+                    "score": 0.5791,
+                    "answers": "able to enjoy the second supermoon of this # NUMBER *|acomp\tto enjoy the second supermoon of this # NUMBER *|xcomp"
+                },
+                {
+                    "question": "What is the date of the second supermoon?",
+                    "score": 0.5751,
+                    "answers": "This January #|npadvmod\tNUMBER|dep\tNUMBER|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "After the first, which was the dawn of the #NUMBER* to the #NUMBER* of This January #NUMBER* , the night of Tuesday #NUMBER* to Wednesday #NUMBER* we have observed this astronomical phenomenon .",
+            "question_answers": [
+                {
+                    "question": "What was the first astronomical phenomenon?",
+                    "answer": "the dawn of the #NUMBER* to the #NUMBER* of This January #NUMBER*"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the first time to see a newNUMBER?",
+                    "score": 0.5449,
+                    "answers": "this astronomical phenomenon|dobj"
+                },
+                {
+                    "question": "What was the date of the first #NUMBER?",
+                    "score": 0.4932,
+                    "answers": "elpais.com reported on 30/01/2018 that After the first , which was the dawn of the # NUMBER * to the # NUMBER * of This January # NUMBER * , the night of Tuesday # NUMBER * to Wednesday # NUMBER * we have observed this astronomical phenomenon|ROOT\tAfter the first , which was the dawn of the # NUMBER * to the # NUMBER * of This January # NUMBER * , the night of Tuesday # NUMBER * to Wednesday # NUMBER *|prep\tthe first , which was the dawn of the # NUMBER * to the # NUMBER * of This January # NUMBER * , the night of Tuesday # NUMBER * to Wednesday # NUMBER *|pobj\tthat After the first , which was the dawn of the # NUMBER * to the # NUMBER * of This January # NUMBER * , the night of Tuesday # NUMBER * to Wednesday # NUMBER * we have observed this astronomical phenomenon|ccomp"
+                },
+                {
+                    "question": "What is the history of theNUMBER?",
+                    "score": 0.459,
+                    "answers": "astronomical|amod"
+                },
+                {
+                    "question": "What is the significance of theNUMBER?",
+                    "score": 0.4563,
+                    "answers": "have|aux"
+                }
+            ]
+        },
+        {
+            "claim": "But this astronomical phenomenon is only one of the four phenomena that occur at once This January #NUMBER* : there will also be a lunar eclipse, a blood moon and a blue moon.",
+            "question_answers": [
+                {
+                    "question": "When will there be a lunar eclipse, a blood moon, and a blue moon?",
+                    "answer": "January #NUMBER*"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many phenomena occur at once this January?",
+                    "score": 0.6357,
+                    "answers": "that occur at once This January # NUMBER|relcl"
+                },
+                {
+                    "question": "What is a blue moon?",
+                    "score": 0.6148,
+                    "answers": "a blue moon|conj"
+                },
+                {
+                    "question": "What are the phenomena that occur on January 30, 2018?",
+                    "score": 0.6039,
+                    "answers": "on 30/01/2018|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of hydrogen in the moon?",
+                    "score": 0.5945,
+                    "answers": "blood|compound"
+                }
+            ]
+        },
+        {
+            "claim": "This coincidence has not occurred for years, so the second supermoon of this #NUMBER* is quite special: the last time this astronomical phenomenon took place was in , and the next time this astronomical phenomenon happens will be the  of January .",
+            "question_answers": [
+                {
+                    "question": "When did the last supermoon take place?",
+                    "answer": "in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the second supermoon?",
+                    "score": 0.7131,
+                    "answers": "elpais.com reported on 30/01/2018 that This coincidence has not occurred for years , so the second supermoon of this # NUMBER * is quite special|ccomp\tso the second supermoon of this # NUMBER * is quite special|conj\telpais.com reported on 30/01/2018 that This coincidence has not occurred for years , so the second supermoon of this # NUMBER * is quite special : the last time this astronomical phenomenon took place was in , and the next time this astronomical phenomenon happens will be the|ROOT"
+                },
+                {
+                    "question": "When was the last time a supermoon happened?",
+                    "score": 0.7001,
+                    "answers": "this astronomical phenomenon|nsubj\tthis astronomical phenomenon|nsubj"
+                },
+                {
+                    "question": "How many supermoons have occurred in the year 2018?",
+                    "score": 0.6726,
+                    "answers": "that This coincidence has not occurred for years , so the second supermoon of this # NUMBER * is quite special|ccomp"
+                },
+                {
+                    "question": "How long has it been since a supermoon happened?",
+                    "score": 0.669,
+                    "answers": "for years|prep"
+                },
+                {
+                    "question": "What is the date of the second supermoon?",
+                    "score": 0.6315,
+                    "answers": "on 30/01/2018|prep\tthat|mark\tThis|det\tThis coincidence|nsubj\thas|aux\tnot|neg\t,|punct\tso|mark\tthe|det\tthis|det\tthis #|pobj\t*|pobj\tquite|advmod\tquite special|acomp\t:|punct\tthe|det\tthis|det\tastronomical|amod\tthis astronomical phenomenon took place|relcl\tplace|dobj\tin|prep\t,|punct\tand|cc\tthe|det\tnext|amod\tthe next time this astronomical phenomenon happens|nsubj\tthis|det\tastronomical|amod\tthis astronomical phenomenon happens|relcl\twill|aux\tthe next time this astronomical phenomenon happens will be the|conj\tthe|attr\t  of January|dep\tof January|prep\tJanuary|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "this astronomical phenomenon orbit of the Moon is elliptical, and one side (apogee) is about km.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the orbit of the Moon is elliptical?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the orbit of the moon?",
+                    "score": 0.7146,
+                    "answers": "elpais.com reported on 30/01/2018 that this astronomical phenomenon orbit of the Moon is elliptical , and one side ( apogee ) is about km|ROOT\ton 30/01/2018|prep\tthat|mark\tthis|det\tastronomical|amod\tastronomical phenomenon|compound\tthis astronomical phenomenon orbit of the Moon|nsubj\tof the Moon|prep\tthe|det\tthe Moon|pobj\tthat this astronomical phenomenon orbit of the Moon is elliptical , and one side ( apogee ) is about km|ccomp\telliptical|acomp\t,|punct\tand|cc\tone side ( apogee )|nsubj\t(|punct\tapogee|appos\t)|punct\tone side ( apogee ) is about km|conj\tabout|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "farther away from Earth than the nearest other (perigeo).",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that it was farther away from Earth than the nearest other?",
+                    "answer": "30/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How far away from Earth is the nearest other planet?",
+                    "score": 0.8155,
+                    "answers": "the nearest other (|pobj"
+                },
+                {
+                    "question": "How far from Earth is elpais.com from Earth?",
+                    "score": 0.7021,
+                    "answers": "on 30/01/2018|prep\tthan the nearest other (|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, over the  days of lunar cycle, the Moon is sometimes closer to us than others.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Moon is sometimes closer to us than others during the lunar cycle?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How close is the moon to the Earth?",
+                    "score": 0.7451,
+                    "answers": "of lunar cycle|prep\tlunar cycle|pobj"
+                },
+                {
+                    "question": "What is the relationship between the moon and the moon?",
+                    "score": 0.5861,
+                    "answers": "elpais.com reported on 30/01/2018 that Therefore , over the   days of lunar cycle , the Moon is sometimes closer to us than others|ROOT\ton 30/01/2018|prep\t, over the|det\t |dep\tthat Therefore , over the   days of lunar cycle|dobj\tlunar|amod\tthe Moon|nsubj\t, the Moon is sometimes closer to us than others|ccomp\tcloser to us than others|acomp\tto us|prep\tus|pobj\tthan others|prep"
+                }
+            ]
+        },
+        {
+            "claim": "this astronomical phenomenon occurs when the moment of maximum approach is, moreover, the moment when there is a full moon.",
+            "question_answers": [
+                {
+                    "question": "What type of moon is present at the moment of maximum approach?",
+                    "answer": "full moon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When is the moment of maximum approach?",
+                    "score": 0.8424,
+                    "answers": "moreover|advmod"
+                },
+                {
+                    "question": "What is the time that a full moon approaches?",
+                    "score": 0.7314,
+                    "answers": "elpais.com reported on 30/01/2018 that this astronomical phenomenon occurs when the moment of maximum approach is , moreover , the moment when there is a full moon|ROOT"
+                },
+                {
+                    "question": "What is a full moon?",
+                    "score": 0.7081,
+                    "answers": "a full moon|attr"
+                }
+            ]
+        },
+        {
+            "claim": "At first glance we can appreciate this astronomical phenomenon between a % and a % larger than usual.",
+            "question_answers": [
+                {
+                    "question": "Who reported on this phenomenon on 30/01/2018?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much larger is the astronomical phenomena than usual?",
+                    "score": 0.7935,
+                    "answers": "elpais.com reported on 30/01/2018 that At first glance we can appreciate this astronomical phenomenon between a % and a % larger than usual|ROOT\tthat At first glance we can appreciate this astronomical phenomenon between a % and a % larger than usual|ccomp\tbetween a % and a % larger than usual|prep\ta % and a % larger than usual|amod"
+                },
+                {
+                    "question": "What is the astronomical phenomena?",
+                    "score": 0.7305,
+                    "answers": "on 30/01/2018|prep\tthat|mark\tAt first glance|prep\tfirst glance|pobj\twe|nsubj\tcan|aux\tthis|det\tastronomical|amod\tthis astronomical phenomenon|dobj\ta|det\ta % and a %|npadvmod\tand|cc\ta|det\ta %|conj\tthan usual|prep\tusual|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Blue MoonA full moon is considered a'blue moon'when two full moons occur in the same month.",
+            "question_answers": [
+                {
+                    "question": "Who reported that a full moon is considered a blue moon when two full moons occur in the same month?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many full moons occur in the same month?",
+                    "score": 0.731,
+                    "answers": "elpais.com reported on 30/01/2018 that Blue MoonA full moon is considered a'blue moon'when two full moons occur in the same month|ROOT\tBlue|compound\ttwo full moons|nsubj\ttwo full moons occur in the same month|advcl\tin the same month|prep"
+                },
+                {
+                    "question": "What is a full moon?",
+                    "score": 0.6912,
+                    "answers": "Blue MoonA full moon|nsubjpass"
+                },
+                {
+                    "question": "What is a blue moon?",
+                    "score": 0.6862,
+                    "answers": "that Blue MoonA full moon is considered a'blue moon'when two full moons occur in the same month|ccomp\ta'blue|amod\ta'blue moon'when|oprd"
+                },
+                {
+                    "question": "What is the relationship between a full moon and a blue moon?",
+                    "score": 0.6758,
+                    "answers": "on 30/01/2018|prep\tthat|mark\tfull|amod\tis|auxpass\tfull|amod\tthe|det\tsame|amod"
+                }
+            ]
+        },
+        {
+            "claim": "As This January #NUMBER* we already had a full moon at the beginning of This January #NUMBER* (another supermoon between the  and the  of January ) this second full moon has also been a'blue moon\".",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many supermoons were there between January 1 and January 1?",
+                    "score": 0.6267,
+                    "answers": "elpais.com reported on 30/01/2018 that As This January # NUMBER * we already had a full moon at the beginning of This January # NUMBER * ( another supermoon between the   and the   of January ) this second full moon has also been a'blue moon \"|ROOT\tthat|mark\twe|nsubj\tthe beginning of This January # NUMBER * ( another supermoon between the|pobj\t(|punct\tthis|det\thas|aux"
+                },
+                {
+                    "question": "How many full moon does the moon have?",
+                    "score": 0.6142,
+                    "answers": "a full moon|dobj"
+                },
+                {
+                    "question": "What is a blue moon?",
+                    "score": 0.5877,
+                    "answers": "a|det\ta'blue|det\ta'blue moon|attr"
+                },
+                {
+                    "question": "What is the second full moon?",
+                    "score": 0.5783,
+                    "answers": "this second full moon|nsubj"
+                },
+                {
+                    "question": "What is the relationship between a full moon and a black moon?",
+                    "score": 0.5532,
+                    "answers": "As This January # NUMBER *|prep\tThis January # NUMBER *|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Lunar EclipseIn addition, this January's  occurs a third phenomenon, less common than the supermoon and the blue moon: Earth, the Sun and the Moon align, leading to a total lunar eclipse.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the date of a lunar eclipse?",
+                    "score": 0.8087,
+                    "answers": "that|mark\tLunar|compound\t,|punct\tthis|det\tthis January 's|poss\t, this January 's  |dep\ta|det\t,|punct\tthe|det\tand|cc\tthe|det\t:|punct\t,|punct\tthe|det\tand|cc\tthe|det\t,|punct\tto a total lunar eclipse|prep\ta|det\ttotal|amod\tlunar|amod"
+                },
+                {
+                    "question": "What is the effect of a lunar eclipse on the moon?",
+                    "score": 0.7892,
+                    "answers": "elpais.com reported on 30/01/2018 that Lunar EclipseIn addition|ROOT\ton 30/01/2018|prep\tthat Lunar EclipseIn addition|ccomp\taddition|pobj\tless|advmod\tless common than the supermoon and the blue moon|amod\tthan the supermoon and the blue moon|prep\tthe blue moon|conj"
+                },
+                {
+                    "question": "What is the third phenomena that occur during the winter months?",
+                    "score": 0.7479,
+                    "answers": ", this January 's   occurs a third phenomenon , less common than the supermoon and the blue moon|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the moon and the sun?",
+                    "score": 0.7369,
+                    "answers": "the Sun and the Moon|conj"
+                },
+                {
+                    "question": "What is the color of the moon?",
+                    "score": 0.7368,
+                    "answers": "blue|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The full moon coincides with the moment when the moon enters the shadow of the Earth, thus producing an eclipse.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that the full moon coincided with the moment when the moon enters the shadow of the Earth?",
+                    "answer": "30/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the moon enter the shadow of the Earth?",
+                    "score": 0.8777,
+                    "answers": "on 30/01/2018|prep"
+                },
+                {
+                    "question": "What is the date of an eclipse?",
+                    "score": 0.8196,
+                    "answers": "thus producing an eclipse|advcl\tan eclipse|dobj"
+                },
+                {
+                    "question": "What is the relationship between the moon and the moon?",
+                    "score": 0.6914,
+                    "answers": "that The full moon coincides with the moment when the moon enters the shadow of the Earth , thus producing an eclipse|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The eclipse, however, will not be visible throughout the planet.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that the eclipse would not be visible throughout the planet?",
+                    "answer": "30/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will the eclipse be seen throughout the planet?",
+                    "score": 0.9056,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is the date of the eclipse on Earth?",
+                    "score": 0.8707,
+                    "answers": "elpais.com reported on 30/01/2018 that The eclipse , however , will not be visible throughout the planet|ROOT\tThe|det\tthat The eclipse , however , will not be visible throughout the planet|ccomp\tvisible throughout the planet|acomp\tthroughout the planet|prep\tthe|det\tthe planet|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In South America, Africa and Western Europe it will not be visible, while in North America it will be visible before the dawn of the January .",
+            "question_answers": [
+                {
+                    "question": "Who reported that in South America, Africa and Western Europe it will not be visible?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is North America near the dawn of the January?",
+                    "score": 0.8579,
+                    "answers": "in North America|prep"
+                },
+                {
+                    "question": "How far away is North America from South America?",
+                    "score": 0.6726,
+                    "answers": "South America , Africa and Western Europe|pobj"
+                },
+                {
+                    "question": "What will happen to North America before the dawn of January?",
+                    "score": 0.6384,
+                    "answers": "will|aux\twill|aux"
+                },
+                {
+                    "question": "What is the date of the dawn of January in North America?",
+                    "score": 0.627,
+                    "answers": "of the January|prep"
+                },
+                {
+                    "question": "What is the location of South America, Africa, and Western Europe?",
+                    "score": 0.5792,
+                    "answers": "South|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In Asia, Australia, New Zealand and Eastern Russia you can see the total lunar eclipse.",
+            "question_answers": [
+                {
+                    "question": "In Asia, Australia, New Zealand and Eastern Russia you can see what total eclipse?",
+                    "answer": "lunar eclipse"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have a total lunar eclipse?",
+                    "score": 0.8926,
+                    "answers": "Australia , New Zealand and Eastern Russia|conj"
+                },
+                {
+                    "question": "What are the dates of the lunar eclipse?",
+                    "score": 0.7898,
+                    "answers": "lunar|amod"
+                },
+                {
+                    "question": "What is the total lunar eclipse?",
+                    "score": 0.7892,
+                    "answers": "that|mark\t,|punct\t,|punct\tNew|compound\tand|cc\tyou|nsubj\tcan|aux\tthe|det\ttotal|amod\tthe total lunar eclipse|dobj"
+                },
+                {
+                    "question": "Where is elpais.com located?",
+                    "score": 0.6438,
+                    "answers": "elpais.com reported on 30/01/2018 that In Asia , Australia , New Zealand and Eastern Russia you can see the total lunar eclipse|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Blood MoonThe last astronomical phenomenon that matches this January's  is the blood moon.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the Blood Moon?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the last astronomical phenomena that match the blood moon?",
+                    "score": 0.6497,
+                    "answers": "last|amod"
+                },
+                {
+                    "question": "What is the blood moon?",
+                    "score": 0.6004,
+                    "answers": "elpais.com reported on 30/01/2018 that Blood MoonThe last astronomical phenomenon that matches this January 's   is the blood moon|ROOT\tBlood|compound\tis the blood moon|ccomp\tblood|compound"
+                },
+                {
+                    "question": "What is the date of the blood moon?",
+                    "score": 0.5992,
+                    "answers": "on 30/01/2018|prep\tthat|mark\tastronomical|amod\tthat|nsubj\tthat matches this January 's|relcl\tthis|det\t's|case\t |dep\tthe|det\tthe blood moon|attr"
+                }
+            ]
+        },
+        {
+            "claim": "During the course of the eclipse, the Earth's atmosphere will filter the blue and green light from the sun's rays, but let the red pass instead.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the eclipse?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will the Earth's atmosphere filter blue and green light from the sun's rays?",
+                    "score": 0.7931,
+                    "answers": "the sun 's rays|pobj"
+                },
+                {
+                    "question": "What will happen to the Earth's atmosphere during the eclipse?",
+                    "score": 0.7248,
+                    "answers": "the Earth 's atmosphere|nsubj"
+                },
+                {
+                    "question": "What was the effect of the Earth's atmosphere on the sun's rays during the eclipse?",
+                    "score": 0.7237,
+                    "answers": "of the eclipse|prep"
+                }
+            ]
+        },
+        {
+            "claim": "That's why the moon will be dyed with the reflection of the reddish glow that will come from our atmosphere.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that the moon will be dyed with the reflection of the reddish glow?",
+                    "answer": "30/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is the moon being dyed with the reflection of the reddish glow that come from our atmosphere?",
+                    "score": 0.7866,
+                    "answers": "elpais.com reported on 30/01/2018 that That 's why the moon will be dyed with the reflection of the reddish glow that will come from our atmosphere|ROOT"
+                },
+                {
+                    "question": "What is the color of the moon?",
+                    "score": 0.5805,
+                    "answers": "the moon|nsubjpass\twill|aux\tthe reflection of the reddish glow that will come from our atmosphere|pobj\tof the reddish glow that will come from our atmosphere|prep\treddish|amod\tthe reddish glow that will come from our atmosphere|pobj\twill|aux\tour atmosphere|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, this blood moon will only be visible in the parts of the planet where the eclipse can be seen.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that the blood moon will only be visible in the parts of the planet where the eclipse was?",
+                    "answer": "30/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where can you see the moon during a solar eclipse?",
+                    "score": 0.8165,
+                    "answers": "in the parts of the planet where the eclipse can be seen|prep\twhere the eclipse can be seen|relcl"
+                },
+                {
+                    "question": "Where can the moon be seen during the eclipse?",
+                    "score": 0.8056,
+                    "answers": "elpais.com reported on 30/01/2018 that Therefore , this blood moon will only be visible in the parts of the planet where the eclipse can be seen|ROOT"
+                },
+                {
+                    "question": "How far will the moon be from Earth?",
+                    "score": 0.7929,
+                    "answers": "only|advmod\tcan|aux"
+                },
+                {
+                    "question": "What parts of the moon can be seen?",
+                    "score": 0.7263,
+                    "answers": "the parts of the planet where the eclipse can be seen|pobj"
+                },
+                {
+                    "question": "What is the date of the eclipse on Earth?",
+                    "score": 0.7221,
+                    "answers": "the eclipse|nsubjpass"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+{
+    "id": "Sport_300",
+    "claim": "Our correspondent in Rio de Janeiro brings us exclusive information about the final women's beach volleyball at the Olympic Games, which took place yesterday between Brazil and Germany, because, he says, there is a great controversy, so the triumph won by Germany was not legal, and in reality the gold would correspond to the local girls. By Inodoro Perez (via telephone)Well?What happened, hand?Yes, then here. Hey, look, I went to see the volei de chavas yesterday, and don't play, the two of Brazil were fine here, one called the Agatha and the other called the Barbara. No, and post they go and confront the German women in the final. I didn't even notice what the names of the Germans were, really, why I'm gonna lie to you, güey.. but they were fine here, too. And then they start playing, and I'm right in here watching them jump in their bikinis and, no, man!. No, seriously, güey, seriously. Net. A show. Well, I didn't even notice the score, but I'm sure they won the Brazilians because they were the ones that had the most support and they were the ones that were the hottest, but the judges didn't listen and gave the triumph to the German women. Really, güey. Pa'mí that sold those changos. And I'm leaving because there's a cop coming. I'll talk to you later, güey. Greetings to Hector Garza and Yako Daniel. Camera, güey!",
+    "source": "www.eldizque.com",
+    "date": "10/10/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Our correspondent in Rio de Janeiro brings Our exclusive information about Brazil , because, Our correspondent in Rio de Janeiro says, there is a great controversy, so the German women was not legal, and in reality the gold would correspond to the local girls.",
+            "question_answers": [
+                {
+                    "question": "What country did www.eldizque.com report on 10/10/2016?",
+                    "answer": "Brazil"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What information does the correspondent in Rio de Janeiro have about Brazil?",
+                    "score": 0.8056,
+                    "answers": "exclusive|amod"
+                },
+                {
+                    "question": "Who were the German women in Rio de Janeiro?",
+                    "score": 0.6882,
+                    "answers": "the German women|nsubj"
+                },
+                {
+                    "question": "What is the source of information about Brazil?",
+                    "score": 0.6197,
+                    "answers": "Our exclusive information about Brazil|dobj"
+                },
+                {
+                    "question": "What is the relationship between Brazil and the German women?",
+                    "score": 0.6187,
+                    "answers": "Our correspondent in Rio de Janeiro|nsubj\tin Rio de Janeiro|prep\tOur correspondent in Rio de Janeiro|nsubj\tin Rio de Janeiro|prep"
+                },
+                {
+                    "question": "What was the relationship between the German women and the local girls?",
+                    "score": 0.6185,
+                    "answers": "that Our correspondent in Rio de Janeiro brings Our exclusive information about Brazil , because , Our correspondent in Rio de Janeiro says , there is a great controversy , so the German women was not legal , and in reality the gold would correspond to the local girls|ccomp\tlegal|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "By Inodoro Perez (via telephone)Well?What happened, hand?Yes, then here.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/10/2016?",
+                    "answer": "Inodoro Perez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Inodoro Perez?",
+                    "score": 0.6287,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 10/10/2016 that By Inodoro Perez ( via telephone)Well?What happened , hand?Yes , then here|ROOT\ton 10/10/2016|prep\t10/10/2016|pobj\tthat|mark\tthat By Inodoro Perez ( via telephone)Well?What|prep\tInodoro|compound\tInodoro Perez ( via telephone)Well?What|pobj\t(|punct\tvia telephone)Well?What|prep\ttelephone)Well?What|pobj\thappened ,|dep\t,|punct\thand?Yes|punct\t,|punct\tthen|advmod\t, then here|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Hey, look, Our correspondent in Rio de Janeiro went to see the volei de chavas Germany , and don't play, yesterday were fine here, one called the Agatha and the other called the Barbara.",
+            "question_answers": [
+                {
+                    "question": "What did our correspondent in Rio de Janeiro go to see?",
+                    "answer": "the volei de chavas Germany"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the volei de chavas Germany?",
+                    "score": 0.5993,
+                    "answers": "to see the volei de chavas Germany|xcomp\tthe volei de chavas Germany|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "No, and post yesterday go and confront the two of Brazil in Brazil .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that No, and post yesterday go and confront the two of Brazil?",
+                    "answer": "10/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Brazil and Brazil?",
+                    "score": 0.6123,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 10/10/2016 that No , and post yesterday go and confront the two of Brazil in Brazil|ROOT\ton 10/10/2016|prep\tthat|mark\tNo|intj\t,|punct\tand|cc\tthat No , and post yesterday go and confront the two of Brazil in Brazil|parataxis\tgo and confront the two of Brazil in Brazil|dep\tand|cc\tconfront the two of Brazil in Brazil|conj\tthe|det\tthe two of Brazil|dobj\tof Brazil|prep\tin Brazil|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Our correspondent in Rio de Janeiro didn't even notice what the names of the two of Brazil were, really, why Our correspondent in Rio de Janeiro 'm gonna lie to you, güey.. but the two of Brazil were fine here, too.",
+            "question_answers": [
+                {
+                    "question": "Who did www.eldizque.com report that didn't notice the names of the two of Brazil?",
+                    "answer": "Our correspondent in Rio de Janeiro"
+                },
+                {
+                    "question": "Which two countries were fine in Rio de Janeiro?",
+                    "answer": "the two of Brazil"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the relationship between Brazil and Brazil in 2016?",
+                    "score": 0.7406,
+                    "answers": "but the two of Brazil were fine here , too|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "And then the two of Brazil start playing, and Our correspondent in Rio de Janeiro 'm right in here watching the two of Brazil jump in bikinis and, no, man!.",
+            "question_answers": [
+                {
+                    "question": "Where is our correspondent located?",
+                    "answer": "Rio de Janeiro"
+                },
+                {
+                    "question": "Where is our correspondent located?",
+                    "answer": "Rio de Janeiro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Brazil jump in bikinis?",
+                    "score": 0.8262,
+                    "answers": "in bikinis|prep"
+                },
+                {
+                    "question": "What did Brazil do to jump in bikinis and man?",
+                    "score": 0.7844,
+                    "answers": "the two of Brazil jump in bikinis and , no , man|ccomp"
+                },
+                {
+                    "question": "What is the sport of bikinis?",
+                    "score": 0.7232,
+                    "answers": "bikinis|pobj"
+                },
+                {
+                    "question": "What is the relationship between Brazil and Brazil?",
+                    "score": 0.6739,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 10/10/2016 that And then the two of Brazil start playing , and Our correspondent in Rio de Janeiro ' m right in here watching the two of Brazil jump in bikinis and , no , man !|ROOT\ton 10/10/2016|prep\tthat|mark\tAnd|cc\tthen|advmod\tthe|det\tthe two of Brazil|nsubj\tof Brazil|prep\tplaying|xcomp\t,|punct\tand|cc\tOur|poss\tOur correspondent in Rio de Janeiro|nsubj\tin Rio de Janeiro|prep\tRio|compound\tde|compound\tm right in here watching the two of Brazil jump in bikinis and , no , man|advcl\tright|advmod\tright in|advmod\tright in here|advmod\twatching the two of Brazil jump in bikinis and , no , man|advcl\tthe|det\tthe two of Brazil|nsubj\tof Brazil|prep\tand|cc\t,|punct\tno , man|intj\t,|punct\tman|intj\t!|punct"
+                }
+            ]
+        },
+        {
+            "claim": "No, seriously, güey, seriously.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/10/2016 that No, seriously, güey, seriously?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How seriously serious is güey?",
+                    "score": 0.7507,
+                    "answers": "www.eldizque.com reported on 10/10/2016 that No , seriously , güey , seriously|ROOT"
+                },
+                {
+                    "question": "How seriously is güey seriously?",
+                    "score": 0.7192,
+                    "answers": "seriously|advmod"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.6474,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of how seriously güey is seriously?",
+                    "score": 0.5956,
+                    "answers": "No|intj"
+                },
+                {
+                    "question": "What is seriously güey?",
+                    "score": 0.5813,
+                    "answers": "that No , seriously , güey , seriously|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "A show.",
+            "question_answers": [
+                {
+                    "question": "On what date did www.eldizque.com report that A show was going on?",
+                    "answer": "10/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.6887,
+                    "answers": "www.eldizque.com|nsubj\ton 10/10/2016|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the show?",
+                    "score": 0.6867,
+                    "answers": "that|mark\tA|nmod"
+                },
+                {
+                    "question": "What is the name of the show?",
+                    "score": 0.6822,
+                    "answers": "www.eldizque.com reported on 10/10/2016 that A show|ROOT\tthat A show|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Well, Our correspondent in Rio de Janeiro didn't even notice the score, but Our correspondent in Rio de Janeiro 'm sure the final women's beach volleyball at the Olympic Games, which took place yesterday between Brazil and Germany won the final women's beach volleyball at the Olympic Games, which took place yesterday between Brazil and Germany because the final women's beach volleyball at the Olympic Games, which took place yesterday between Brazil and Germany were the ones that had the most support and the final women's beach volleyball at the Olympic Games, which took place yesterday between Brazil and Germany were the ones that were the hottest, but the judges didn't listen and gave the German women to the two of Brazil .",
+            "question_answers": [
+                {
+                    "question": "Where was the final women's beach volleyball at the Olympic Games?",
+                    "answer": "Rio de Janeiro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the final women's beach volleyball at the Olympics between Brazil and Germany?",
+                    "score": 0.7216,
+                    "answers": "sure the final women 's beach volleyball at the Olympic Games , which took place yesterday between Brazil and Germany won the final women 's beach volleyball at the Olympic Games , which took place between Brazil and Germany yesterday because the final women 's beach volleyball at the Olympic Games , which took place yesterday between Brazil and Germany were the ones that had the most support and the final women 's beach volleyball at the Olympic Games , which took place yesterday between Brazil and Germany were the ones that were the hottest|acomp\tthe final women 's beach volleyball at the Olympic Games , which took place yesterday between Brazil and Germany won the final women 's beach volleyball at the Olympic Games , which took place between Brazil and Germany yesterday because the final women 's beach volleyball at the Olympic Games , which took place yesterday between Brazil and Germany were the ones that had the most support and the final women 's beach volleyball at the Olympic Games , which took place yesterday between Brazil and Germany were the ones that were the hottest|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Really, güey.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/10/2016 that Really, güey?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is güey?",
+                    "score": 0.5197,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 10/10/2016 that Really , güey|ROOT\ton 10/10/2016|prep\tthat|mark\tReally|advmod\t,|punct\tthat Really , güey|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Pa'mí that sold those changos.",
+            "question_answers": [
+                {
+                    "question": "Who sold the changos?",
+                    "answer": "Pa'm"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many changos did Pa'sí sell in 2016?",
+                    "score": 0.8815,
+                    "answers": "that|mark\tthat|nsubj\tthat sold those changos|relcl\tthose|det"
+                },
+                {
+                    "question": "Did Pa'sí sell the changos?",
+                    "score": 0.8752,
+                    "answers": "www.eldizque.com reported on 10/10/2016 that Pa'mí that sold those changos|ROOT"
+                },
+                {
+                    "question": "What was the name of the group that sold the changos?",
+                    "score": 0.7854,
+                    "answers": "on 10/10/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And I'm leaving because there's a cop coming.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that I'm leaving?",
+                    "answer": "10/10/2016"
+                },
+                {
+                    "question": "Who's coming to take me away?",
+                    "answer": "a cop"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between a cop and a cop?",
+                    "score": 0.6647,
+                    "answers": "a cop|nsubj"
+                },
+                {
+                    "question": "What is the name of the cop who is leaving the city?",
+                    "score": 0.6395,
+                    "answers": "www.eldizque.com reported on 10/10/2016 that And I 'm leaving because there 's a cop coming|ROOT\ton 10/10/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "I'll talk to you later, güey.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that I'll talk to you later?",
+                    "answer": "10/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.6048,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is güey?",
+                    "score": 0.4624,
+                    "answers": "www.eldizque.com reported on 10/10/2016 that I 'll talk to you later , güey|ROOT\ton 10/10/2016|prep\t10/10/2016|pobj\tthat|mark\tI|nsubj\t'll|aux\tthat I 'll talk to you later , güey|ccomp\tto you|prep\tyou|pobj\tlater|advmod\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Greetings to Hector Garza and Yako Daniel.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 10/10/2016?",
+                    "answer": "Greetings to Hector Garza and Yako Daniel"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Greetings to Hector Garza and Yako Daniel?",
+                    "score": 0.7626,
+                    "answers": "www.eldizque.com|nsubj\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Camera, güey!.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/10/2016 that Camera, güey!",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Camera Güey?",
+                    "score": 0.6266,
+                    "answers": "Camera|dep\tthat Camera , güey|dep"
+                },
+                {
+                    "question": "What is Camera, Güey?",
+                    "score": 0.606,
+                    "answers": "on 10/10/2016|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the camera güey?",
+                    "score": 0.5397,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "id": "Economy_239",
+    "claim": "Uber will now offer bicycle service  Bicitaxists set the alarmsUber company continues to grow, and in addition to taxis and meals, it will now offer new services to its users, who, as usual, request them through an application on their smartphones. 'We have given it a lot of thought, and we have agreed that bicycles will be the new category of this company, although of course the car service that so much demand has been maintained ', said Steven Mocorito, Uber's representative in Mexico, for El. Mocorito said that Uber aims to maintain its quality standards and a good balance in terms of cost-benefit: 'For this reason, we will include in our bicycle fleet all kinds of services, whether to exercise, to climb a mountain, to go to the canteen or for a morning walk through the streets of the city'. When applying for the service, a Uber employee will deliver a bicycle at the place where it is requested, and your rent will be per hour or per day. Each bike will have:Water bottle. ChronometerGPSCasco and knee padsSunglassesErgonomic leather seatsAnti-reflective paint well chidaLuces ledThe Association of Bicitaxists of Mexico City is expected to march, demanding that this measure taken by the company Uber will leave them without support for their home and family. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "20/07/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Uber will now offer bicycle service  Bicitaxists set the alarmsUber company continues to grow, and in addition to taxis and meals, it will now offer new services to its users, who, as usual, request them through an application on their smartphones.",
+            "question_answers": [
+                {
+                    "question": "What is the name of Uber's bicycle service?",
+                    "answer": "Bicitaxists"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How do users request for Uber services?",
+                    "score": 0.8009,
+                    "answers": "through an application on their smartphones|prep"
+                },
+                {
+                    "question": "What new services does Uber offer to its users?",
+                    "score": 0.7978,
+                    "answers": "to taxis and meals|prep\tin addition to taxis and meals , it will now offer new services to its users , who , as usual , request them through an application on their smartphones|conj\tnew services|dobj"
+                },
+                {
+                    "question": "What is Uber's bicycle service?",
+                    "score": 0.7255,
+                    "answers": "bicycle service|dobj"
+                },
+                {
+                    "question": "What is the name of Uber's bicycle service?",
+                    "score": 0.6844,
+                    "answers": "www.eldizque.com reported on 20/07/2017 that Uber will now offer bicycle service  |ROOT\tthat Uber will now offer bicycle service|ccomp\tbicycle|compound"
+                },
+                {
+                    "question": "What is the use of the Uber app?",
+                    "score": 0.6195,
+                    "answers": "an application on their smartphones|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We have given it a lot of thought, and we have agreed that bicycles will be the new category of this company, although of course the car service that so much demand has been maintained ', said Steven Mocorito, Uber's representative in Mexico, for El.",
+            "question_answers": [
+                {
+                    "question": "What did Eldizque say about the car service?",
+                    "answer": "the car service that so much demand has been maintained"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the new category of Uber?",
+                    "score": 0.6661,
+                    "answers": "that bicycles will be the new category of this company|ccomp"
+                },
+                {
+                    "question": "What is the name of Uber's car service in Mexico?",
+                    "score": 0.6375,
+                    "answers": "in Mexico|prep"
+                },
+                {
+                    "question": "Who is Uber's representative in Mexico?",
+                    "score": 0.5942,
+                    "answers": "Steven|compound\tSteven Mocorito , Uber 's representative in Mexico ,|nsubj\tUber 's representative in Mexico|appos"
+                },
+                {
+                    "question": "What is the relationship between Uber andldizque.com?",
+                    "score": 0.5556,
+                    "answers": "a lot of thought|dobj\tthought|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Mocorito said that Uber aims to maintain its quality standards and a good balance in terms of cost-benefit: 'For this reason, we will include in our bicycle fleet all kinds of services, whether to exercise, to climb a mountain, to go to the canteen or for a morning walk through the streets of the city'.",
+            "question_answers": [
+                {
+                    "question": "Who said that Uber aims to maintain its quality standards and a good balance of cost-benefit?",
+                    "answer": "Mocorito"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What services does Uber offer to its bicycle fleet?",
+                    "score": 0.7868,
+                    "answers": "all|det\tservices|pobj\twhether to exercise , to climb a mountain , to go to the canteen or for a morning walk through the streets of the city|advcl\tto the canteen|prep"
+                },
+                {
+                    "question": "What services are included in Uber's bicycle fleet?",
+                    "score": 0.7567,
+                    "answers": "all kinds of services , whether to exercise , to climb a mountain , to go to the canteen or for a morning walk through the streets of the city|dobj"
+                },
+                {
+                    "question": "What does Uber want to do with its bicycle fleet?",
+                    "score": 0.7174,
+                    "answers": "www.eldizque.com|nsubj\tto|aux\tits|poss\twe|nsubj\tour|poss\twhether|mark\tto|aux\tto|aux\tto|aux"
+                },
+                {
+                    "question": "What is the cost of Uber's bicycle fleet?",
+                    "score": 0.7045,
+                    "answers": "of cost - benefit|prep"
+                },
+                {
+                    "question": "What does Uber aim to maintain quality standards and a good balance in terms of cost-benefit?",
+                    "score": 0.6975,
+                    "answers": "that Uber aims to maintain its quality standards and a good balance in terms of cost - benefit|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "When applying for the service, a Uber employee will deliver a bicycle at the place where it is requested, and your rent will be per hour or per day.",
+            "question_answers": [
+                {
+                    "question": "What company's employee will deliver a bicycle when you apply for the service?",
+                    "answer": "Uber"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average rent per hour for a Uber employee to deliver a bicycle?",
+                    "score": 0.7267,
+                    "answers": "www.eldizque.com reported on 20/07/2017 that When applying for the service , a Uber employee will deliver a bicycle at the place where it is requested , and your rent will be per hour or per day|ROOT"
+                },
+                {
+                    "question": "How many bicycles does Uber deliver per hour or per day?",
+                    "score": 0.6954,
+                    "answers": "a|det\twill|aux\ta|det\tat the place where it is requested|prep\twhere|advmod\twhere it is requested|relcl\twill|aux"
+                },
+                {
+                    "question": "How many Uber employees deliver bicycles to the place where it is requested?",
+                    "score": 0.688,
+                    "answers": "a Uber employee|nsubj"
+                },
+                {
+                    "question": "What is a bicycle?",
+                    "score": 0.6308,
+                    "answers": "a bicycle|dobj"
+                },
+                {
+                    "question": "What is the relationship between Uber and a bicycle delivery service?",
+                    "score": 0.6299,
+                    "answers": "the place where it is requested|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Each bike will have:Water bottle.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that each bike will have a water bottle?",
+                    "answer": "20/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many gallons of water does each bicycle have?",
+                    "score": 0.9172,
+                    "answers": "Each bike|nsubj\tWater bottle|dobj"
+                },
+                {
+                    "question": "How much water will each bicycle have?",
+                    "score": 0.894,
+                    "answers": "Water|compound"
+                },
+                {
+                    "question": "How many bottles of water will each bike have?",
+                    "score": 0.8796,
+                    "answers": "on 20/07/2017|prep\tthat|mark\t:|punct"
+                }
+            ]
+        },
+        {
+            "claim": "ChronometerGPSCasco and knee padsSunglassesErgonomic leather seatsAnti-reflective paint well chidaLuces ledThe Association of Bicitaxists of Mexico City is expected to march, demanding that this measure taken by the company Uber will leave them without support for their home and family.",
+            "question_answers": [
+                {
+                    "question": "Who is expected to march?",
+                    "answer": "Association of Bicitaxists of Mexico City"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Uber do to support the Association of Bicitaxists of Mexico City?",
+                    "score": 0.6274,
+                    "answers": "without support for their home and family|prep"
+                },
+                {
+                    "question": "What measures were taken by Uber to leave families without support?",
+                    "score": 0.5945,
+                    "answers": "this measure taken by the company Uber|nsubj\tthat this measure taken by the company Uber will leave them without support for their home and family|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of how much money Uber gave the Association of Bicitaxists?",
+                    "score": 0.5369,
+                    "answers": "- reflective paint|nmod"
+                },
+                {
+                    "question": "What is the relationship between ChronometerGPSCasco and knee pads?",
+                    "score": 0.5097,
+                    "answers": "that ChronometerGPSCasco and knee padsSunglassesErgonomic|dobj\tknee padsSunglassesErgonomic|conj"
+                },
+                {
+                    "question": "What is the name of the company Uber owns?",
+                    "score": 0.4717,
+                    "answers": "leather|compound\t- reflective paint well|compound"
+                }
+            ]
+        }
+    ]
+}

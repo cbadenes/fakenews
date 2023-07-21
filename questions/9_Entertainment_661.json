@@ -1,0 +1,316 @@
+{
+    "id": "9_Entertainment_661",
+    "claim": "Mexico. - After months ago it was revealed that the father of the son of Marjorie de Sousa is not actor Julián Gil nor Gabriel Soto, but the politician Ricardo Anaya, the president decided to break the silence and accept that 'after months of dialogue with Marjorie 'he finally agreed to undergo a DNA test, finding that it was he who actually procreated little Matías. Ricardo asked forgiveness, noting that he wants to show 'to be a person who accepts his mistakes and tries to amend them ', mentioning that the child was not planned but will give all his love as to his other children: 'I decided to reveal the truth because I am an honest and integrated person; I cannot say that I made a mistake because a child is always a blessing, but I can say that I was wrong to have a relationship outside of marriage. Everything that was handled in the first version was true: me and Miss Marjorie met at a party, where we drank alcohol like millions of people do, and like any human being who wants a moment of recreation we feast, and without wanting one thing led to another. Neither she nor I thought we had an encounter, and neither did we start a relationship as a couple, it was something that happened causally, but that encounter has now brought a little angel who is Matthias. I've already apologized to my wife, and I think the people of Mexico also deserve an apology because this is the first time I've failed on anything. I want you to know that just as I failed in my personal life, if I failed in anything during my government, I will take responsibility and resolve it immediately. I want to clarify that neither Sousa nor I intend to start a sentimental relationship, each one of us has his life made, and we will only have contact for little Matias, whom I will give my last name to and will always be under my protection ', he said. Anaya pointed out that his wife already forgave him and understood the situation, and they will receive Matthias as one more member of the family:'I understand the circumstances; my husband had never, really never failed me, he is human and I understand him. I understand that alcohol was the cause of her encounter with this actress, and I do not want to justify it, but we both know what our relationship has been like and of course she fully trusted what she says.'. However, although it seemed that they had reached a peaceful settlement, it is rumored that the promises between Anaya and Marjorie already began, since he offered to give him USD1,000 pesos per month of maintenance, however she asks  times more that amount:'If Julian Gil who is an actor asked USD1,000 pesos, Anaya who is a billionaire and a powerful politician will ask for more. He even filed a lawsuit demanding USD million pesos a month, or he is willing to make a scandal that could cause Ricardo not to come to power ', a reporter said. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "01/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "an encounter .",
+            "question_answers": [
+                {
+                    "question": "Who reported on an encounter on 01/06/2018?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the encounter between Trump and Putin?",
+                    "score": 0.8174,
+                    "answers": "on 01/06/2018|prep"
+                },
+                {
+                    "question": "What is the relationship between facebook andelruinaversal.com?",
+                    "score": 0.6046,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 01/06/2018 that an encounter|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "- After months ago each one of us revealed that the father of the son of Marjorie de Sousa is not actor Julián Gil nor Gabriel Soto, but the politician Ricardo Anaya , the president an encounter to break the silence and an encounter that I of an encounter with an encounter 'the politician Ricardo Anaya finally agreed to undergo I DNA test, finding that it was the politician Ricardo Anaya who actually anything the son of Marjorie de Sousa .",
+            "question_answers": [
+                {
+                    "question": "Who was the father of the son of Marjorie de Sousa?",
+                    "answer": "Ricardo Anaya"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the father of the son of Marjorie de Sousa?",
+                    "score": 0.7396,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 01/06/2018 that - After months ago each one of us revealed that the father of the son of Marjorie de Sousa is not actor Julián Gil nor Gabriel Soto , but the politician Ricardo Anaya , the president an encounter to break the silence and an encounter that I of an encounter with an encounter ' the politician Ricardo Anaya finally agreed to undergo I DNA test , finding that it was the politician Ricardo Anaya who actually anything the son of Marjorie de Sousa|ROOT\ton 01/06/2018|prep\tthat|mark\t-|punct\tAfter|prep\tmonths|npadvmod\teach|det\teach one of us|nsubj\tof us|prep\tus|pobj\tthat - After months ago each one of us revealed that the father of the son of Marjorie de Sousa is not actor Julián Gil nor Gabriel Soto , but the politician Ricardo Anaya , the president an encounter to break the silence and an encounter that I of an encounter with an encounter ' the politician Ricardo Anaya finally agreed to undergo I DNA test , finding that it was the politician Ricardo Anaya who actually anything the son of Marjorie de Sousa|ccomp\tthat|mark\tthe|det\tthe father of the son of Marjorie de Sousa|nsubj\tof the son of Marjorie de Sousa|prep\tthe|det\tthe son of Marjorie de Sousa|pobj\tof Marjorie de Sousa|prep\tMarjorie|compound\tde|compound\tthat the father of the son of Marjorie de Sousa is not actor Julián Gil nor Gabriel Soto , but the politician Ricardo Anaya , the president an encounter to break the silence and an encounter that I of an encounter with an encounter '|ccomp\tnot|neg\tactor|compound\tJulián|compound\tactor Julián Gil nor Gabriel Soto , but the politician Ricardo Anaya , the president an encounter to break the silence and an encounter that I|attr\tnor|cc\tGabriel|compound\t,|punct\tbut|cc\tthe|det\tthe politician Ricardo Anaya , the president an encounter to break the silence and an encounter that I|conj\tRicardo|compound\t,|punct\tthe|det\tthe president|nmod\tan|det\tthe president an encounter to break the silence and an encounter that I|appos\tto|aux\tto break the silence|advcl\tthe|det\tthe silence|dobj\tand|cc\tan|det\tan encounter that I|conj\tthat|dep\tthat I|dep\tof an encounter with an encounter '|prep\tan|det\tan encounter with an encounter|pobj\twith an encounter|prep\tan|det\tan encounter|pobj\t'|punct\tthe|det\tthe politician Ricardo Anaya|nsubj\tRicardo|compound\tfinally|advmod\tthe politician Ricardo Anaya finally agreed to undergo I DNA test , finding that it was the politician Ricardo Anaya who actually anything the son of Marjorie de Sousa|ccomp\tto|aux\tto undergo I DNA test|xcomp\tI|compound\tDNA|compound\tI DNA test|dobj\t,|punct\tfinding that it was the politician Ricardo Anaya who actually anything the son of Marjorie de Sousa|advcl\tthat|mark\tit|nsubj\tthat it was the politician Ricardo Anaya who actually anything the son of Marjorie de Sousa|ccomp\tthe|det\tthe politician Ricardo Anaya|attr\tRicardo|compound\twho|nsubj\tactually|advmod\twho actually anything the son of Marjorie de Sousa|ccomp\tthe|det\tthe son of Marjorie de Sousa|dobj\tof Marjorie de Sousa|prep\tMarjorie|compound\tde|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the politician Ricardo Anaya asked forgiveness, noting Sousa nor I show 'to be a person who accepts his mistakes and tries to amend them my wife an encounter as an encounter other children: each one of us to reveal the an encounter because the politician Ricardo Anaya am an honest and integrated person; the politician Ricardo Anaya canmy wife that the politician Ricardo Anaya made a mistake because a child is always a blessing, but the politician Ricardo Anaya an encounter the politician Ricardo Anaya was wrong to have a relationship outside of marriage.",
+            "question_answers": [
+                {
+                    "question": "Who did the politician Ricardo Anaya say he was wrong to have a relationship outside of marriage?",
+                    "answer": "Sousa nor I show"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the politician Ricardo Anaya ask for forgiveness from his wife?",
+                    "score": 0.8012,
+                    "answers": "forgiveness|dobj"
+                },
+                {
+                    "question": "What was the relationship between Ricardo Anaya and Sousa?",
+                    "score": 0.7562,
+                    "answers": "the politician Ricardo Anaya|nsubj\teach one of us|nsubj\tthe politician Ricardo Anaya|nsubj\tan honest and integrated person|attr\tthe politician Ricardo Anaya|nsubj\tthe politician Ricardo Anaya|nsubj\tthe politician Ricardo Anaya|nsubj\tthe politician Ricardo Anaya|nsubj\ta relationship outside of marriage|dobj\toutside of marriage|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between Anaya and Sousa?",
+                    "score": 0.7319,
+                    "answers": "www.elruinaversal.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between a politician and a child?",
+                    "score": 0.7155,
+                    "answers": "a person who accepts his mistakes and tries to amend them my wife an encounter as an encounter other children|attr\tan encounter as an encounter other children|appos\tan encounter other children|pobj\tother children|appos\tthat the politician Ricardo Anaya made a mistake because a child is always a blessing , but the politician Ricardo Anaya an encounter the politician Ricardo Anaya was wrong to have a relationship outside of marriage|advcl\ta mistake|dobj\ta child|nsubj\tbecause a child is always a blessing|advcl\ta blessing|attr\twrong to have a relationship outside of marriage|acomp\tof marriage|prep\tmarriage|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Everything an encounter was handled in the first version was truelittle Matias, whom I will give my last name to and will always be under my protection a party, where his mistakes drank alcohol like anything of people anything , and like any human being who wants a moment of recreation his mistakes feast, and without wanting one thing led to another.",
+            "question_answers": [
+                {
+                    "question": "What did Matias do?",
+                    "answer": "drank alcohol like anything of people anything"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who did truelittle matias drink alcohol like anything of people?",
+                    "score": 0.7121,
+                    "answers": "www.elruinaversal.com reported on 01/06/2018 that Everything an encounter was handled in the first version was truelittle Matias , I will give my last name to and will always be whom under my protection a party , his mistakes drank alcohol like anything of people anything , and where like any human being who wants a moment of recreation his mistakes feast , and without wanting one thing led to another|ROOT"
+                },
+                {
+                    "question": "What did Truelittle Matias do to drink alcohol?",
+                    "score": 0.7014,
+                    "answers": "like any human being who wants a moment of recreation|prep"
+                },
+                {
+                    "question": "How was the first version handled?",
+                    "score": 0.6922,
+                    "answers": "an encounter was handled in the first version|relcl"
+                },
+                {
+                    "question": "What was Truelittle Matias drinking alcohol like any of people?",
+                    "score": 0.644,
+                    "answers": "people anything|pobj"
+                },
+                {
+                    "question": "What did truelittle Matias do to be under his protection?",
+                    "score": 0.6292,
+                    "answers": "that|mark\tan|det\twas|auxpass\t,|punct\tI|nsubj\twill|aux\tmy|poss\tlast|amod\tto|dative\tand|cc\twill|aux\talways|advmod\tmy|poss\tmy protection|pobj\ta|det\t,|punct\this|poss\t,|punct\tand|cc\tany|det\thuman|compound\twho|nsubj\ta|det\this|poss\t,|punct\tand|cc\tone thing|nsubj\tto another|prep\tanother|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Neither his mistakes thought his mistakes had me and Miss Marjorie , and neither did his mistakes start a anything couple, it was something that happened causallyher encounter with this actress the son of Marjorie de Sousa .",
+            "question_answers": [
+                {
+                    "question": "Who was the son of Marjorie de Sousa?",
+                    "answer": "Miss Marjorie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the relationship between Miss Marjorie de Sousa and Mark Twain?",
+                    "score": 0.6954,
+                    "answers": "his mistakes had me and Miss Marjorie|dep"
+                },
+                {
+                    "question": "Who was the son of Marjorie de Sousa?",
+                    "score": 0.6704,
+                    "answers": "Miss Marjorie|conj\tencounter with this actress the son of Marjorie de Sousa|dobj"
+                },
+                {
+                    "question": "What is the relationship between Mark Twain and Miss Marjorie de Sousa?",
+                    "score": 0.666,
+                    "answers": "a anything couple|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "her encounter with this actress to my wife, and I think the people of Mexico an encounter time I've failed on anything.",
+            "question_answers": [
+                {
+                    "question": "What happened to my wife and the people of Mexico?",
+                    "answer": "an encounter time I've failed on anything"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between a Mexican actress and a Mexican woman?",
+                    "score": 0.7587,
+                    "answers": "of Mexico|prep\tan|det"
+                },
+                {
+                    "question": "What did the people of Mexico say about the encounter with the actress?",
+                    "score": 0.7374,
+                    "answers": "the people of Mexico|appos"
+                },
+                {
+                    "question": "What is the source of evidence of the encounter between Elizabeth Antony and the actress?",
+                    "score": 0.6679,
+                    "answers": "www.elruinaversal.com|nsubj\tmy|poss\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "I want you to know that just as I failed in my personal life, if I failed in anything during my government, I will take responsibility and resolve it immediately.",
+            "question_answers": [
+                {
+                    "question": "What did www.elruinaversal.com report on 01/06/2018",
+                    "answer": "if I failed in anything during my government, I will take responsibility and resolve it immediately"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump do to resolve the financial crisis of 2018?",
+                    "score": 0.8539,
+                    "answers": "resolve it immediately|conj"
+                },
+                {
+                    "question": "What did Trump promise to do if he failed in his personal life?",
+                    "score": 0.8421,
+                    "answers": "www.elruinaversal.com reported on 01/06/2018 that I want you to know that just as I failed in my personal life , if I failed in anything during my government , I will take responsibility and resolve it immediately|ROOT\tthat I want you to know that just as I failed in my personal life , if I failed in anything during my government , I will take responsibility and resolve it immediately|ccomp\tyou to know that just as I failed in my personal life , if I failed in anything during my government , I will take responsibility and resolve it immediately|ccomp\tthat just as I failed in my personal life , if I failed in anything during my government , I will take responsibility and resolve it immediately|ccomp"
+                },
+                {
+                    "question": "What did Barack Obama do to resolve any problems during his time in office?",
+                    "score": 0.8076,
+                    "answers": "if I failed in anything during my government|advcl"
+                },
+                {
+                    "question": "What is the source of evidence of the failure of Scott Walker's personal life during his government?",
+                    "score": 0.6563,
+                    "answers": "to|aux\tas|mark"
+                },
+                {
+                    "question": "What is the name of the website that was created?",
+                    "score": 0.6031,
+                    "answers": "I|nsubj\tI|nsubj\t,|punct\tI|nsubj\t,|punct\tI|nsubj\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "I want to clarify that neither Sousa nor I intend to start a sentimental relationship, each one of us has his life made, and we will only have contact for little Matias, whom I will give my last name to and will always be under my protection ', he said.",
+            "question_answers": [
+                {
+                    "question": "What does he say about Matias?",
+                    "answer": "will always be under my protection"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Sousa and Matias?",
+                    "score": 0.6467,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 01/06/2018 that I want to clarify that neither Sousa nor I intend to start a sentimental relationship , each one of us has his life made , and we will only have contact for little Matias , I will give my last name to and will always be whom under my protection|ccomp\ton 01/06/2018|prep\tthat|mark\tI|nsubj\tthat I want to clarify that neither Sousa nor I intend to start a sentimental relationship , each one of us has his life made , and we will only have contact for little Matias , I will give my last name to and will always be whom under my protection|ccomp\tto|aux\tto clarify that neither Sousa nor I intend to start a sentimental relationship , each one of us has his life made , and we will only have contact for little Matias , I will give my last name to and will always be whom under my protection|xcomp\tthat|mark\tneither|det\tneither Sousa nor I|nsubj\tnor|cc\tI|conj\tthat neither Sousa nor I intend to start a sentimental relationship , each one of us has his life made , and we will only have contact for little Matias , I will give my last name to and will always be whom under my protection|ccomp\tto|aux\tto start a sentimental relationship|xcomp\ta|det\tsentimental|amod\ta sentimental relationship|dobj\t,|punct\teach|det\teach one of us|nsubj\tof us|prep\tus|pobj\teach one of us has his life made , and we will only have contact for little Matias , I will give my last name to and will always be whom under my protection|conj\this|poss\this life|nsubj\this life made|ccomp\t,|punct\tand|cc\twe|nsubj\twill|aux\tonly|advmod\twe will only have contact for little Matias , I will give my last name to and will always be whom under my protection|conj\tcontact for little Matias , I will give my last name to and will always be whom under my protection|dobj\tfor little Matias , I will give my last name to and will always be whom under my protection|prep\tlittle|amod\tlittle Matias , I will give my last name to and will always be whom under my protection|pobj\t,|punct\twhom|pobj\tI|nsubj\twill|aux\tI will give my last name to and will always be whom under my protection|relcl\tmy|poss\tlast|amod\tmy last name|dobj\tto|dative\tand|cc\twill|aux\talways|advmod\twill always be whom under my protection|conj\twhom under my protection|prep\tmy|poss\tmy protection|pobj\t'|punct\t,|punct\the|nsubj\twww.elruinaversal.com reported on 01/06/2018 that I want to clarify that neither Sousa nor I intend to start a sentimental relationship , each one of us has his life made , and we will only have contact for little Matias , I will give my last name to and will always be whom under my protection ' , he said|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Anaya pointed out that his wife already forgave him and understood the situation, and they will receive Matthias as one more member of the family:'I understand the circumstances; my husband had never, really never failed me, he is human and I understand him.",
+            "question_answers": [
+                {
+                    "question": "Who pointed out that his wife already forgave him and understood the situation?",
+                    "answer": "Anaya"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Anaya and Matthias?",
+                    "score": 0.6182,
+                    "answers": "www.elruinaversal.com reported on 01/06/2018 that Anaya pointed out that his wife already forgave him and understood the situation , and they will receive Matthias as one more member of the family:'I understand the circumstances ; my husband had never , really never failed me , he is human and I understand him|ROOT\ton 01/06/2018|prep\tthat Anaya pointed out that his wife already forgave him and understood the situation , and they will receive Matthias as one more member of the family:'I|ccomp\tunderstood the situation|conj\tthey will receive Matthias as one more member of the family:'I|conj\tof the family:'I|prep\tthe family:'I|pobj\tunderstand the circumstances ; my husband had never , really never failed me|punct\tmy husband|nsubj\tmy husband had never , really|advmod\the is human and I understand him|conj"
+                }
+            ]
+        },
+        {
+            "claim": "I understand that alcohol was the cause of her encounter with this actress, and I do not want to justify it, but we both know what our relationship has been like and of course she fully trusted what she says.",
+            "question_answers": [
+                {
+                    "question": "What was the cause of Elruinaversal's encounter with this actress?",
+                    "answer": "alcohol"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the actress say about the relationship between alcohol and drugs?",
+                    "score": 0.7547,
+                    "answers": "this actress|pobj\tand|cc\tdo|aux\tnot|neg\tto justify it|xcomp\tbut|cc\twhat|pobj\tour|poss\thas|aux\twhat like|prep\tand|cc\tof course|prep\tcourse|pobj\tfully|advmod\twhat|dobj\twhat she says|ccomp"
+                },
+                {
+                    "question": "What was the relationship between Elizabeth Antony and the actress?",
+                    "score": 0.6861,
+                    "answers": "www.elruinaversal.com reported on 01/06/2018 that I understand that alcohol was the cause of her encounter with this actress , and I do not want to justify it , but we both know our relationship has been what like and of course she fully trusted what she says|ROOT\ther|poss\ther encounter with this actress|pobj\twith this actress|prep\tboth|appos\tour relationship|nsubj\tshe|nsubj\tof course she fully trusted what she says|conj\tshe|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Scott Israel and Elizabeth Antony?",
+                    "score": 0.6258,
+                    "answers": "we both know our relationship has been what like and of course she fully trusted what she says|conj\tour relationship has been what like|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between Gary Cooper and Elizabeth Antony?",
+                    "score": 0.6187,
+                    "answers": "we both|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, although it seemed that they had reached a peaceful settlement, it is rumored that the promises between Anaya and Marjorie already began, since he offered to give him USD1,000 pesos per month of maintenance, however she asks  times more that amount:'If Julian Gil who is an actor asked USD1,000 pesos, Anaya who is a billionaire and a powerful politician will ask for more.",
+            "question_answers": [
+                {
+                    "question": "How much did Anaya offer to Marjorie per month of maintenance?",
+                    "answer": "USD1,000 pesos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What promises did Julian Gil make to Anaya and Marjorie?",
+                    "score": 0.7423,
+                    "answers": "maintenance|pobj"
+                },
+                {
+                    "question": "What did Julian Gil offer Anaya?",
+                    "score": 0.6953,
+                    "answers": "to give him USD1,000 pesos per month of maintenance|xcomp\tUSD1,000 pesos per month of maintenance|dobj"
+                },
+                {
+                    "question": "How much money did Julian Gil give Anaya per month?",
+                    "score": 0.6922,
+                    "answers": "USD1,000|nummod\tUSD1,000|nummod"
+                },
+                {
+                    "question": "What promises were made between Anaya and Marjorie?",
+                    "score": 0.6693,
+                    "answers": "the promises between Anaya and Marjorie|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "He even filed a lawsuit demanding USD million pesos a month, or he is willing to make a scandal that could cause Ricardo not to come to power ', a reporter said.",
+            "question_answers": [
+                {
+                    "question": "What could Elruinaversal's scandal cause?",
+                    "answer": "Ricardo not to come to power"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the dollar amount that Ricardo filed a lawsuit against?",
+                    "score": 0.7648,
+                    "answers": "USD|compound\tUSD million|nummod\ta month|npadvmod"
+                },
+                {
+                    "question": "What was the purpose of the lawsuit filed by Ricardo against him in 2018?",
+                    "score": 0.7389,
+                    "answers": "to make a scandal that could cause Ricardo not to come to power|xcomp"
+                }
+            ]
+        }
+    ]
+}

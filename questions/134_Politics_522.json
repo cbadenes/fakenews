@@ -1,0 +1,345 @@
+{
+    "id": "134_Politics_522",
+    "claim": "Mexico. -In a press conference the head of the Attorney General's Office of the Republic, Raúl Cervantes Andrade, revealed that they already have everything ready to immediately lock up Javier Duarte once he is extradited from Guatemala to our country, pointing out that because of the overload that exists in all the prisons of the country they will be in need of locking him in a hotel  stars, in what is vacated a cell in some prison and can move him there. Raúl mentioned that the hotel where the former governor veracruzano will carry out his arrest will be located on a beach, this at the request of Javier himself who confessed that he suffers from high pressure and only the climate of the sea keeps him healthy:'One of the biggest problems that our prisons have is the overcupo, unfortunately there is no place for all the criminals who commit a crime to enter, and that is why some of us do not lock them up. In Duarte's case it gets even more complicated since we can't put him in a cell with other prisoners because of his status as a former politician, and there's no room in other jails for him to have a cell for himself, but that doesn't mean we'll let him go. Javier will pay and be locked up until his sentence is passed, since his crimes are considered serious. For this reason, we made the decision to lock him in a hotel in which a cell is released in some prison to move him there. His lawyer demanded that we go to a city where there was sea as he suffers from high pressure and his body demands to be in a temperate and humid climate like that of the beaches. Like all day you'll be locked up it's essential that the hotel where we move you is right by the sea. Finally we made the procedures to transfer him to a hotel  stars as it is the only one that provided us with the facilities to implement the strong security device, so the government will rent  luxury suites, one where Duarte will be locked up and another where the elements that will take care of him will be. Javier will also be able to leave the beach of the hotel for being inside the same facilities of his arrest, however he will not be able to go beyond the beach area that is not of the place, and will only be able to sunn  hours a day, no more ', they recounted. Cervantes comments that Javier could be in the hotel for between one and two years, before being transferred to a prison: 'it is not only a matter of having a prisoner unsuit a cell, but there is a waiting list, and from here to there will be a place between one and two years ', he said. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "30/06/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Mexico .",
+            "question_answers": [
+                {
+                    "question": "When did elruinaversal.com report that Mexico's economy was in decline?",
+                    "answer": "30/06/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the location of Mexico in 2017?",
+                    "score": 0.7421,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the relationship between Mexico and the United States?",
+                    "score": 0.6943,
+                    "answers": "that Mexico|npadvmod"
+                },
+                {
+                    "question": "What is the origin of the website \"elruinaversal.com\"?",
+                    "score": 0.6364,
+                    "answers": "www.elruinaversal.com reported on 30/06/2017 that Mexico|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "-In a press conference the head of the Attorney General's Office of the Republic, Raúl Cervantes Andrade him a hotel in which a cell is released in some prison the head of the Attorney General's Office of the Republic, Raúl Cervantes Andrade him the Attorney General's Office of the Republic already have everything ready to immediately lock up Javier Duarte once Javier Duarte is extradited him Guatemala to Mexico , pointing out that because of the overload that exists in all the him of Mexico the Attorney General's Office of the Republic will be in a hotel in which a cell is released in some prison a hotel  stars , in what is vacated a cell in some prison and can move him there.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why is Raúl Cervantes Andrade moving to Mexico?",
+                    "score": 0.7368,
+                    "answers": "because of the overload that exists in all the him of Mexico|prep\tthe overload that exists in all the him of Mexico|pobj"
+                },
+                {
+                    "question": "What did Raúl Cervantes Andrade do to get Javier Duarte to Mexico?",
+                    "score": 0.7361,
+                    "answers": "that -In a press conference the head of the Attorney General 's Office of the Republic , Raúl Cervantes Andrade him a hotel in which a cell is released in some prison the head of the Attorney General 's Office of the Republic , Raúl Cervantes Andrade him the Attorney General 's Office of the Republic already have everything ready to immediately lock up Javier Duarte once Javier Duarte is extradited him Guatemala to Mexico|ccomp\teverything ready to immediately lock up Javier Duarte once Javier Duarte is extradited him Guatemala to Mexico|ccomp"
+                },
+                {
+                    "question": "Where is Raúl Cervantes andrade from?",
+                    "score": 0.7343,
+                    "answers": "the head of the Attorney General 's Office of the Republic , Raúl Cervantes|appos\tall the him of Mexico|pobj"
+                },
+                {
+                    "question": "What did the Attorney General's Office of the Republic say about Duarte's extradition?",
+                    "score": 0.7305,
+                    "answers": "once Javier Duarte is extradited him Guatemala to Mexico|advcl"
+                },
+                {
+                    "question": "What is the name of the hotel that Javier Duarte was transferred to?",
+                    "score": 0.7214,
+                    "answers": "him Guatemala|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "a hotel in which a cell is released in some prison that a hotel  stars will be located on a beach, this at the request of Javier Duarte who him that Javier Duarte suffers from high pressure and only the climate of the sea keeps Javier Duarte healthy:'One of the biggest problems that our prisons a hotel in which a cell is released in some prison the overcupo, unfortunately there is no him for all the criminals who commit a crime to enter, and is is why some of us a hotel in which a cell is released in some prison lock all the criminals who commit a crime up.",
+            "question_answers": [
+                {
+                    "question": "What keeps Javier Duarte healthy?",
+                    "answer": "climate of the sea"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is Javier Duarte suffering from high pressure?",
+                    "score": 0.8942,
+                    "answers": "this at the request of Javier Duarte who him that Javier Duarte suffers from high pressure and only the climate of the sea keeps Javier Duarte|advcl\tat the request of Javier Duarte who him that Javier Duarte suffers from high pressure and only the climate of the sea keeps Javier Duarte|prep\tthe request of Javier Duarte who him that Javier Duarte suffers from high pressure and only the climate of the sea keeps Javier Duarte|pobj\tthat Javier Duarte suffers from high pressure and only the climate of the sea keeps Javier Duarte|ccomp"
+                },
+                {
+                    "question": "What is the crime rate in some prisons?",
+                    "score": 0.8486,
+                    "answers": "a hotel in which a cell is released in some prison that a hotel   stars|nsubjpass\tin which a cell is released in some prison|relcl\tin which a cell is released in some prison the overcupo|relcl\ta hotel in which a cell is released in some prison the overcupo , unfortunately there is no him for all the criminals who commit a crime to enter , and is is why some of us a hotel in which a cell is released in some prison lock all the criminals who commit a crime up|ccomp\ta hotel in which a cell is released in some prison lock all the criminals who commit a crime up|appos\tin which a cell is released in some prison|relcl"
+                },
+                {
+                    "question": "What is Javier Duarte's crime rate?",
+                    "score": 0.8462,
+                    "answers": "all the criminals who commit a crime|nsubj\twho commit a crime|relcl\tis is why some of us a hotel in which a cell is released in some prison lock all the criminals who commit a crime up|conj\twhy some of us a hotel in which a cell is released in some prison lock all the criminals who commit a crime up|ccomp\tall the criminals who commit a crime|dobj\twho commit a crime|relcl"
+                },
+                {
+                    "question": "What does it mean to lock all the criminals who commit a crime up?",
+                    "score": 0.8223,
+                    "answers": "lock all the criminals who commit a crime up|acl"
+                },
+                {
+                    "question": "What is the climate of the sea keeping Javier Duarte safe?",
+                    "score": 0.8187,
+                    "answers": "www.elruinaversal.com reported on 30/06/2017 that a hotel in which a cell is released in some prison that a hotel   stars will be located on a beach , this at the request of Javier Duarte who him that Javier Duarte suffers from high pressure and only the climate of the sea keeps Javier Duarte healthy:'One of the biggest problems that our prisons a hotel in which a cell is released in some prison the overcupo , unfortunately there is no him for all the criminals who commit a crime to enter , and is is why some of us a hotel in which a cell is released in some prison lock all the criminals who commit a crime up|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "In Javier Duarte case it gets even more complicated since we can't Cervantes in a cell with him prisoners because a hotel in which a cell is released in some prison status as a former politician, and there's no room in other jails for Javier Duarte to have a cell for Javier Duarte , but that doesn't mean the Attorney General's Office of the Republic 'll let Javier Duarte go.",
+            "question_answers": [
+                {
+                    "question": "Why is the Javier Duarte case so complicated?",
+                    "answer": "there's no room in other jails for Javier Duarte to have a cell for Javier Duarte"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why can't Duarte get a cell for Javier Duarte?",
+                    "score": 0.8632,
+                    "answers": "for Javier Duarte to have a cell for Javier Duarte|relcl"
+                },
+                {
+                    "question": "Why is there no room in other jails for Javier Duarte?",
+                    "score": 0.8567,
+                    "answers": "there 's no room in other jails for Javier Duarte to have a cell for Javier Duarte , but that does n't mean the Attorney General 's Office of the Republic 'll let Javier Duarte go|conj"
+                },
+                {
+                    "question": "What did the Attorney General's Office of the Republic do to allow Javier Duarte to go to jail?",
+                    "score": 0.8375,
+                    "answers": "the Attorney General 's Office of the Republic|nsubj"
+                },
+                {
+                    "question": "What does it mean to be a former politician?",
+                    "score": 0.8044,
+                    "answers": "in which a cell is released in some prison status as a former politician|relcl\tas a former politician|prep\ta former politician|pobj"
+                },
+                {
+                    "question": "Where is Javier Duarte?",
+                    "score": 0.7842,
+                    "answers": "since we ca n't Cervantes in a cell with him prisoners because a hotel in which a cell is released in some prison status as a former politician|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Javier Duarte will pay and be locked up until sentence is passed, since crimes are considered serious.",
+            "question_answers": [
+                {
+                    "question": "Who will pay and be locked up until a sentence is passed?",
+                    "answer": "Javier Duarte"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is Javier Duarte being locked up until sentence is passed?",
+                    "score": 0.9181,
+                    "answers": "that Javier Duarte will pay and be locked up until sentence is passed , since crimes are considered serious|ccomp"
+                },
+                {
+                    "question": "What crimes are considered serious crimes?",
+                    "score": 0.9086,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 30/06/2017 that Javier Duarte will pay and be locked up until sentence is passed , since crimes are considered serious|ROOT\ton 30/06/2017|prep\tthat|mark\tJavier|compound\twill|aux\tand|cc\tbe|auxpass\tbe locked up until sentence is passed , since crimes are considered serious|conj\tup|prt\tis|auxpass\t,|punct\tsince|mark\tcrimes|nsubjpass\tare|auxpass"
+                },
+                {
+                    "question": "How long will Duarte be locked up until a sentence is passed?",
+                    "score": 0.8436,
+                    "answers": "until|mark"
+                },
+                {
+                    "question": "What is the sentence of Javier Duarte?",
+                    "score": 0.8342,
+                    "answers": "sentence|nsubjpass"
+                },
+                {
+                    "question": "What is the definition of a serious crime?",
+                    "score": 0.8061,
+                    "answers": "until sentence is passed , since crimes are considered serious|advcl\tserious|oprd"
+                }
+            ]
+        },
+        {
+            "claim": "For this reason, we made the decision to lock him in a hotel in which a cell is released in some prison to move him there.",
+            "question_answers": [
+                {
+                    "question": "What decision did we make to move him to a different prison?",
+                    "answer": "lock him in a hotel in which a cell is released in some prison"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the inmate that was placed in a prison?",
+                    "score": 0.6672,
+                    "answers": "to lock him in a hotel in which a cell is released in some prison to move him there|acl"
+                },
+                {
+                    "question": "What is the purpose of a cell being released from a prison?",
+                    "score": 0.6656,
+                    "answers": "in which a cell is released in some prison to move him there|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "His lawyer demanded that we go to a city where there was sea as he suffers from high pressure and his body demands to be in a temperate and humid climate like that of the beaches.",
+            "question_answers": [
+                {
+                    "question": "What type of pressure does he suffer from?",
+                    "answer": "high pressure"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the lawyer demand that we go to a city where there was sea?",
+                    "score": 0.7512,
+                    "answers": "sea|attr"
+                },
+                {
+                    "question": "What is Marco Rubio's body like on beaches?",
+                    "score": 0.6117,
+                    "answers": "like that of the beaches|prep"
+                },
+                {
+                    "question": "What is the name of the city where Marco Rubio's body suffers from high pressure?",
+                    "score": 0.5719,
+                    "answers": "the beaches|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Marco Rubio's claims about his body suffering from high pressure?",
+                    "score": 0.566,
+                    "answers": "www.elruinaversal.com|nsubj"
+                },
+                {
+                    "question": "What is the condition of Marco Rubio's body?",
+                    "score": 0.5541,
+                    "answers": "his body|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Like all day you'll be locked up it's essential that the hotel where we move you is right by the sea.",
+            "question_answers": [
+                {
+                    "question": "Where is it essential that the hotel where we move you is?",
+                    "answer": "right by the sea"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is it necessary to move your hotel right by the sea?",
+                    "score": 0.8006,
+                    "answers": "www.elruinaversal.com reported on 30/06/2017 that Like all day you 'll be locked up it 's essential that the hotel where we move you is right by the sea|ROOT"
+                },
+                {
+                    "question": "What are the requirements for a hotel to be locked up?",
+                    "score": 0.7129,
+                    "answers": "all day you 'll be locked up|pcomp"
+                },
+                {
+                    "question": "What is the location of the hotel where you move?",
+                    "score": 0.6103,
+                    "answers": "the hotel where we move you|nsubj\twhere|advmod\twhere we move you|relcl\tthat the hotel where we move you is right by the sea|ccomp\tright by the sea|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Finally we made the procedures to transfer him to a hotel  stars as it is the only one that provided us with the facilities to implement the strong security device, so the government will rent  luxury suites, one where Duarte will be locked up and another where the elements that will take care of him will be.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did the government do to transfer Duarte to a hotel?",
+                    "score": 0.7345,
+                    "answers": "that Finally we made the procedures to transfer him to a hotel|ccomp"
+                },
+                {
+                    "question": "Where was Duarte locked up?",
+                    "score": 0.646,
+                    "answers": "where Duarte will be locked up|relcl"
+                },
+                {
+                    "question": "What is the name of the hotel that Duarte was transferred to?",
+                    "score": 0.5976,
+                    "answers": "www.elruinaversal.com|nsubj\ton 30/06/2017|prep\tthat|mark\tFinally|advmod\twe|nsubj\tthe|det\tto|aux\thim|dobj\tto a hotel|prep\ta|det\ta hotel|pobj\tas|mark\tit|nsubj\tthe|det\tonly|amod\tthat|nsubj\tus|dobj\tthe|det\tto|aux\tthe|det\tsecurity|compound\t,|punct\tso|cc\tthe|det\tthe government|nsubj\twill|aux\tthe government will rent|conj\tluxury|compound\t,|punct\twhere|advmod\twill|aux\tbe|auxpass\tup|prt\tand|cc\twhere|advmod\tthe|det\tthat|nsubj\twill|aux\tthat will take care of him|relcl\tcare|dobj\tof him|prep\thim|pobj\twill|aux"
+                },
+                {
+                    "question": "How many hotels have provided facilities to implement the strong security device?",
+                    "score": 0.587,
+                    "answers": "  stars as it is the only one that provided us with the facilities to implement the strong security device , so the government will rent|dep"
+                },
+                {
+                    "question": "What is Duarte's security device?",
+                    "score": 0.5707,
+                    "answers": "strong|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Javier will also be able to leave the beach of the hotel for being inside the same facilities of his arrest, however he will not be able to go beyond the beach area that is not of the place, and will only be able to sunn  hours a day, no more ', they recounted.",
+            "question_answers": [
+                {
+                    "question": "How long will Javier be able to sunn?",
+                    "answer": "hours a day, no more"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long was Javier able to sunn on the beach after being arrested?",
+                    "score": 0.7125,
+                    "answers": "will only be able to sunn   hours a day , no more|conj"
+                },
+                {
+                    "question": "How long did Javier stay at the beach after his arrest?",
+                    "score": 0.7051,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 30/06/2017 that Javier will also be able to leave the beach of the hotel for being inside the same facilities of his arrest , however he will not be able to go beyond the beach area that is not of the place , and will only be able to sunn   hours a day , no more|ccomp\tfor being inside the same facilities of his arrest|prep\tbeing inside the same facilities of his arrest|pcomp\tinside the same facilities of his arrest|prep\this arrest|pobj\tthat Javier will also be able to leave the beach of the hotel for being inside the same facilities of his arrest , however he will not be able to go beyond the beach area that is not of the place , and will only be able to sunn   hours a day , no more|ccomp\table to go beyond the beach area that is not of the place|acomp\tto go beyond the beach area that is not of the place|xcomp\tbeyond the beach area that is not of the place|prep\tbeach|compound\tthe beach area that is not of the place|pobj\tthat is not of the place|relcl\tthe place|pobj\twww.elruinaversal.com reported on 30/06/2017 that Javier will also be able to leave the beach of the hotel for being inside the same facilities of his arrest , however he will not be able to go beyond the beach area that is not of the place , and will only be able to sunn   hours a day , no more ' , they recounted|ROOT"
+                },
+                {
+                    "question": "What was the location of Javier's arrest?",
+                    "score": 0.652,
+                    "answers": "of his arrest|prep"
+                },
+                {
+                    "question": "How long will Javier be able to sunn?",
+                    "score": 0.6448,
+                    "answers": "a day|npadvmod"
+                },
+                {
+                    "question": "How many hours a day was Javier allowed to sunn at the beach?",
+                    "score": 0.6257,
+                    "answers": "the same facilities of his arrest|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Cervantes comments that Javier could be in the hotel for between one and two years, before being transferred to a prison: 'it is not only a matter of having a prisoner unsuit a cell, but there is a waiting list, and from here to there will be a place between one and two years ', he said.",
+            "question_answers": [
+                {
+                    "question": "How long will it take for Javier to be transferred to a prison?",
+                    "answer": "from here to there will be a place between one and two years"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long was Javier in the hotel before being transferred to a prison?",
+                    "score": 0.7141,
+                    "answers": "www.elruinaversal.com reported on 30/06/2017 that Cervantes comments that Javier could be in the hotel for between one and two years , before being transferred to a prison|ccomp"
+                },
+                {
+                    "question": "What is the waiting list for a prisoner to unsuit a cell?",
+                    "score": 0.6422,
+                    "answers": "having a prisoner unsuit a cell|pcomp\ta prisoner unsuit a cell|ccomp"
+                }
+            ]
+        }
+    ]
+}

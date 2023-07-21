@@ -1,0 +1,205 @@
+{
+    "id": "41_Politics_569",
+    "claim": "According to the U.S. digital newspaper True Pundit, NYPD has arrested former congressman Anthony Weiner on charges of a 'sexting 'case with a minor. In detention, a laptop computer has been seized that, according to sources close to the police, contains more than half a million emails sent between Weiner's wife, Hillary Clinton, other State Department officials and several members of Congress. True Pundit claims that New York police sources have assured them that emails contain 'sufficient evidence to get Hillary Clinton out of political life'. According to the aforementioned publication, the emails include evidence linking the Democratic candidate to the presidency and her collaborators with money laundering schemes, child exploitation, sexual crimes with minors, perjury, obstruction of justice, commissions charged through the Clinton Foundation and other crimes of extreme gravity. In most polls published in the final stretch of the U.S. presidential election, Hillary Clinton would win Republican candidate Donald Trump by the minimum. The revelation of these emails could be a serious setback to the Democratic Party leader's presidential aspirations. I'm sorry.",
+    "source": "www.alertadigital.com",
+    "date": "05/11/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "According to the U.S. digital newspaper True Pundit, NYPD has arrested former congressman Anthony Weiner on charges of a 'sexting 'case with a minor.",
+            "question_answers": [
+                {
+                    "question": "What type of case was Anthony Weiner accused of?",
+                    "answer": "'sexting"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did True Pundit say about Anthony Weiner?",
+                    "score": 0.7549,
+                    "answers": "that|mark\tAccording to the U.S. digital newspaper True Pundit|prep\tthe|det\tTrue|compound\t,|punct\thas|aux\tformer|amod\ta|det\t'|punct\t'|punct\ta|det"
+                },
+                {
+                    "question": "What was Anthony Weiner charged with in 2016?",
+                    "score": 0.711,
+                    "answers": "www.alertadigital.com reported on 05/11/2016 that According to the U.S. digital newspaper True Pundit , NYPD has arrested former congressman Anthony Weiner on charges of a ' sexting ' case with a minor|ROOT\ton 05/11/2016|prep\tthat According to the U.S. digital newspaper True Pundit , NYPD has arrested former congressman Anthony Weiner on charges of a ' sexting ' case with a minor|ccomp\tAnthony|compound\ton charges of a ' sexting ' case with a minor|prep\tcharges of a ' sexting ' case with a minor|pobj\tof a ' sexting ' case with a minor|prep\tsexting|nmod\ta ' sexting ' case with a minor|pobj\twith a minor|prep\ta minor|pobj"
+                },
+                {
+                    "question": "Who is Anthony Weiner?",
+                    "score": 0.6664,
+                    "answers": "former congressman|compound\tformer congressman Anthony Weiner|dobj"
+                },
+                {
+                    "question": "What is True Pundit?",
+                    "score": 0.6104,
+                    "answers": "to the U.S. digital newspaper True Pundit|prep\tdigital|amod\tthe U.S. digital newspaper True Pundit|pobj"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.5242,
+                    "answers": "www.alertadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In detention, a laptop computer has been seized that, according to sources close to the police, contains more than half a million emails sent between Weiner's wife, Hillary Clinton, other State Department officials and several members of Congress.",
+            "question_answers": [
+                {
+                    "question": "How many emails did the laptop computer contain?",
+                    "answer": "more than half a million"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who seized the laptop computer from Weiner's wife?",
+                    "score": 0.874,
+                    "answers": "the police|pobj"
+                },
+                {
+                    "question": "How many emails were seized from Weiner's laptop computer?",
+                    "score": 0.8479,
+                    "answers": "www.alertadigital.com reported on 05/11/2016 that In detention , a laptop computer that , according to sources close to the police , contains more than half a million emails sent between Weiner 's wife , Hillary Clinton , other State Department officials and several members of Congress has been seized|ROOT"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.5195,
+                    "answers": "www.alertadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "True Pundit claims that New York police sources have assured them that emails contain 'sufficient evidence to get Hillary Clinton out of political life'.",
+            "question_answers": [
+                {
+                    "question": "Who claims that New York police sources have assured them that Hillary Clinton's emails contain enough evidence to get her out of political life?",
+                    "answer": "True Pundit"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What evidence is there of Hillary Clinton's emails?",
+                    "score": 0.8445,
+                    "answers": "have|aux\tsufficient|amod"
+                },
+                {
+                    "question": "What did the New York police say about Hillary Clinton's emails?",
+                    "score": 0.8177,
+                    "answers": "www.alertadigital.com reported on 05/11/2016 that True Pundit claims that New York police sources have assured them that emails contain ' sufficient evidence to get Hillary Clinton out of political life '|ROOT\tthat True Pundit claims that New York police sources have assured them that emails contain ' sufficient evidence to get Hillary Clinton out of political life '|ccomp\tNew York police|compound\tthat New York police sources have assured them that emails contain ' sufficient evidence to get Hillary Clinton out of political life|ccomp\tto get Hillary Clinton out of political life|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of Hillary Clinton's political life?",
+                    "score": 0.6891,
+                    "answers": "out of political life|prep\tof political life|prep\tpolitical|amod\tpolitical life|pobj"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.5592,
+                    "answers": "www.alertadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the aforementioned publication, the emails include evidence linking the Democratic candidate to the presidency and her collaborators with money laundering schemes, child exploitation, sexual crimes with minors, perjury, obstruction of justice, commissions charged through the Clinton Foundation and other crimes of extreme gravity.",
+            "question_answers": [
+                {
+                    "question": "What did the publication say about the emails?",
+                    "answer": "emails include evidence linking the Democratic candidate to the presidency and her collaborators with money laundering schemes, child exploitation, sexual crimes with minors, perjury, obstruction of justice, commissions charged through the Clinton Foundation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What evidence did the Clinton Foundation use to link her to the presidency?",
+                    "score": 0.8219,
+                    "answers": "the emails|nsubj"
+                },
+                {
+                    "question": "What did the emails link the Democratic candidate to the presidency?",
+                    "score": 0.8124,
+                    "answers": "www.alertadigital.com reported on 05/11/2016 that According to the aforementioned publication , the emails include evidence linking the Democratic candidate to the presidency and her collaborators with money laundering schemes , child exploitation , sexual crimes with minors , perjury , obstruction of justice , commissions charged through the Clinton Foundation and other crimes of extreme gravity|ROOT\tthat According to the aforementioned publication , the emails include evidence linking the Democratic candidate to the presidency and her collaborators with money laundering schemes , child exploitation , sexual crimes with minors , perjury , obstruction of justice , commissions charged through the Clinton Foundation and other crimes of extreme gravity|ccomp\tevidence linking the Democratic candidate to the presidency and her collaborators with money laundering schemes , child exploitation , sexual crimes with minors , perjury , obstruction of justice , commissions charged through the Clinton Foundation and other crimes of extreme gravity|dobj\tlinking the Democratic candidate to the presidency and her collaborators with money laundering schemes|acl"
+                },
+                {
+                    "question": "What crimes were linked to the Clinton Foundation?",
+                    "score": 0.7952,
+                    "answers": "sexual crimes with minors , perjury , obstruction of justice , commissions charged through the Clinton Foundation and other crimes of extreme gravity|conj\tother crimes of extreme gravity|conj"
+                },
+                {
+                    "question": "Who is linked to money laundering schemes?",
+                    "score": 0.7602,
+                    "answers": "her collaborators with money laundering schemes|conj"
+                },
+                {
+                    "question": "What is the Clinton Foundation's relationship with money laundering schemes?",
+                    "score": 0.7419,
+                    "answers": "money|compound\tmoney laundering schemes|pobj\tof justice|prep\tjustice|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In most polls published in the final stretch of the U.S. presidential election, Hillary Clinton would win Republican candidate Donald Trump by the minimum.",
+            "question_answers": [
+                {
+                    "question": "Which candidate would win the most polls in the final stretch of the U.S. presidential election?",
+                    "answer": "Hillary Clinton"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What polls were used to determine that Hillary Clinton would win against Donald Trump?",
+                    "score": 0.9025,
+                    "answers": "Republican candidate|compound"
+                },
+                {
+                    "question": "How many polls were conducted during the final stretch of the 2016 presidential election?",
+                    "score": 0.8129,
+                    "answers": "most polls published in the final stretch of the U.S. presidential election|pobj\tpublished in the final stretch of the U.S. presidential election|acl\tthe final stretch of the U.S. presidential election|pobj"
+                },
+                {
+                    "question": "What is the minimum to win the 2016 election?",
+                    "score": 0.7638,
+                    "answers": "by the minimum|prep"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.5963,
+                    "answers": "www.alertadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The revelation of these emails could be a serious setback to the Democratic Party leader's presidential aspirations.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the revelation of these emails could be a serious setback to the Democratic Party leader's presidential aspirations?",
+                    "answer": "www.alertadigital.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What emails were released in 2016?",
+                    "score": 0.9115,
+                    "answers": "www.alertadigital.com|nsubj\tThe revelation of these emails|nsubj\tof these emails|prep\tthese emails|pobj"
+                },
+                {
+                    "question": "What did the emails say about the Democratic leadership's presidential aspirations?",
+                    "score": 0.8929,
+                    "answers": "to the Democratic Party leader 's presidential aspirations|prep"
+                },
+                {
+                    "question": "Who was the Democratic Party leader's presidential aspirations in 2016?",
+                    "score": 0.8353,
+                    "answers": "the Democratic Party leader 's|poss"
+                },
+                {
+                    "question": "What is the source of evidence of the emails?",
+                    "score": 0.8077,
+                    "answers": "'s|case\tpresidential|amod"
+                },
+                {
+                    "question": "What is the relationship between Barack Obama and the email scandal?",
+                    "score": 0.7815,
+                    "answers": "on 05/11/2016|prep"
+                }
+            ]
+        }
+    ]
+}

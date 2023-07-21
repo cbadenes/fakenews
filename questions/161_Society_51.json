@@ -1,0 +1,350 @@
+{
+    "id": "161_Society_51",
+    "claim": "'It is a gift, never a right ', says the Bishop of Cordoba, Demetrio Fernández, stressed that the priesthood can only be exercised by men and 'never 'by women, bearing in mind, moreover, that it is 'a gift, never a right ', although 'some strive today to claim the female priesthood, the female priesthood, as if it were a right, as if it were a limit of power '. However, according to Demetrio Fernández in his weekly letter, collected by Europa Press, 'the Church is not the absolute owner of the gifts granted to her by her Master, and she has replied that she cannot do anything different from what her Master and Lord, Jesus Christ, has done ', that is, 'the ministerial priesthood is a gift, never a right. Therefore, it cannot enter the human rights market, nor should it be the subject of claims '. Therefore, 'and definitively, the Church has established that priestly ordination can only be granted to men ', so that 'this sentence can never be reformed, because Pope John Paul II pronounced it on the basis of the example of Jesus, the Word of God, the living tradition of the Church and her pontifical infallibility '. In any case, the bishop wanted to clarify that'Jesus Christ has not missed the woman, because he has equaled her in everything with the man. For example, in matters of marriage, when the woman had no right and could be repudiated at any time, Jesus places the woman at the same height as the man 'when he pointed out that 'not only does the woman commit adultery if she goes with another, but also the man commits adultery if he goes with another (cf Mt ), because God has made them equal in dignity, different to be complementary 'and, although 'this position of Jesus strongly surprised his disciples, Jesus left established this fundamental equality, which the Church must respect and promote over the centuries '. In fact, according to Demetrio Fernández, the role of women in the Church 'is of enormous importance, not only because all women are called as such to holiness, but because to them in a special way the care of human beings has been entrusted, from their conception to their death. In marriage or virginity, the heart of a woman is made for motherhood, to protect the human being, especially the weakest and most helpless. Nothing warmer for the human being than a mother's lap. Moreover, in the bishop's opinion,'the feminine 'genius' and the woman's heart is made to love, to welcome, to express God's tenderness with man 'and, in this sense,'Christian feminism has offered to humanity great women, fully feminine, in the image of Mary, the mother of Jesus, and given in full, in virginity or in marriage, to a broad and fruitful motherhood. Women must not cease to be women to be more, but precisely as women, fully women, they will find their fullness'. I'm sorry.",
+    "source": "elpais.com",
+    "date": "14/06/2013",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "'It is a gift, never a right ', says the Bishop of Cordoba, Demetrio Fernández the woman the Bishop of Cordoba, Demetrio Fernández , stressed that It can only the woman by men and 'never the man , bearing in mind, moreover, that It is the woman , never a right ', although 'some strive today to claim the man the female priesthood, the female priesthood , as if the female priesthood, the female priesthood were a right, as if the female priesthood, the female priesthood were a limit of power '.",
+            "question_answers": [
+                {
+                    "question": "What did the Bishop of Cordoba, Demetrio Fernández stressed?",
+                    "answer": "It can only the woman by men and 'never the man"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Demetrio Fernández's position on the priesthood?",
+                    "score": 0.8384,
+                    "answers": "men|pobj"
+                },
+                {
+                    "question": "What did Demetrio Fernández say about female priesthood?",
+                    "score": 0.8305,
+                    "answers": "elpais.com reported on 14/06/2013|ccomp\tIt is a gift , never a right|ccomp\ta right|appos\telpais.com reported on 14/06/2013 that ' It is a gift , never a right ' , says the Bishop of Cordoba , Demetrio Fernández the woman the Bishop of Cordoba , Demetrio Fernández , stressed that It can only the woman by men and ' never the man , bearing in mind , moreover , that It is the woman , never a right ' , although ' some strive today to claim the man the female priesthood , the female priesthood , as if the female priesthood , the female priesthood were a right , as if the female priesthood , the female priesthood were a limit of power '|ROOT\ta right|appos\tfemale|amod\tfemale|amod\tthe female priesthood|appos\tif|mark\tfemale|amod\tthe female priesthood , the female priesthood|nsubj\tfemale|amod\tthe female priesthood|appos\tas if the female priesthood , the female priesthood were a right|advcl\ta right|attr\tif|mark\tfemale|amod\tthe female priesthood , the female priesthood|nsubj\tfemale|amod\tthe female priesthood|appos\tas if the female priesthood , the female priesthood were a right , as if the female priesthood , the female priesthood were a limit of power|advcl\ta limit of power|attr\tof power|prep\tpower|pobj"
+                },
+                {
+                    "question": "Who is Demetrio Fernández the Bishop of Cordoba?",
+                    "score": 0.7427,
+                    "answers": "the Bishop of Cordoba , Demetrio Fernández the woman the Bishop of Cordoba , Demetrio Fernández|nsubj\tDemetrio|compound\tDemetrio|compound"
+                },
+                {
+                    "question": "What is the limit of power in the female priesthood?",
+                    "score": 0.7316,
+                    "answers": "although ' some strive today to claim the man the female priesthood , the female priesthood , as if the female priesthood , the female priesthood were a right , as if the female priesthood , the female priesthood were a limit of power|advcl\tto claim the man the female priesthood , the female priesthood , as if the female priesthood , the female priesthood were a right , as if the female priesthood , the female priesthood were a limit of power|xcomp"
+                },
+                {
+                    "question": "What is the power of the female priesthood?",
+                    "score": 0.7298,
+                    "answers": ", stressed that It can only the woman by men and ' never the man , bearing in mind , moreover , that It is the woman , never a right ' , although ' some strive today to claim the man the female priesthood , the female priesthood , as if the female priesthood , the female priesthood were a right , as if the female priesthood , the female priesthood were a limit of power '|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, according to the Bishop of Cordoba, Demetrio Fernández in weekly letterJesus by Europa Press, 'the Church Jesus not the absolute owner of the gifts granted to her the Church , and her has replied that her cannot do anything different from what her Master , has the Church that is, 'It is a giftall women right.",
+            "question_answers": [
+                {
+                    "question": "Who is the Bishop of Cordoba?",
+                    "answer": "her Master"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What gifts did Demetrio Fernández receive from the Church?",
+                    "score": 0.8137,
+                    "answers": "of the gifts granted to her the Church|prep\tthe gifts granted to her the Church|pobj"
+                },
+                {
+                    "question": "What did Demetrio Fernández say in a letter to Jesus by Europa Press?",
+                    "score": 0.6959,
+                    "answers": "on 14/06/2013|prep\tthat|mark\tHowever|advmod\t,|punct\tthe|det\tof Cordoba|prep\t,|punct\tEuropa|compound\t,|punct\t'|punct\tthe|det\tnot|neg\tthe|det\tabsolute|amod\tthat However , according to the Bishop of Cordoba , Demetrio Fernández in weekly letterJesus by Europa Press , ' the Church Jesus not the absolute owner of the gifts granted to her the Church|ccomp\tthe|det\tto her|dative\ther|pobj\tthe|det\t,|punct\tand|cc\ther|nsubj\thas|aux\tthat|mark\ther|nsubj\tcan|aux\tnot|neg\tthat her can not do anything different from what her Master , has the Church|ccomp\twhat|dobj\ther|poss\t,|punct\tthe|det\tthat|nsubj\t,|punct\t'|punct\tIt|nsubj\tthat is , ' It is a giftall women right|ccomp\ta|det\twomen|appos\tright|attr"
+                },
+                {
+                    "question": "What is the name of the letter that Demetrio Fernández wrote to Jesus?",
+                    "score": 0.6156,
+                    "answers": "by Europa Press|agent"
+                },
+                {
+                    "question": "What is the source of evidence of the correspondence between Demetrio Fernández and Jesus?",
+                    "score": 0.591,
+                    "answers": "in weekly letterJesus by Europa Press|prep"
+                },
+                {
+                    "question": "Who is Demetrio Fernández?",
+                    "score": 0.5892,
+                    "answers": "according to the Bishop of Cordoba , Demetrio Fernández in weekly letterJesus by Europa Press|prep\tto the Bishop of Cordoba , Demetrio Fernández in weekly letterJesus by Europa Press|prep\tthe Bishop of Cordoba , Demetrio Fernández in weekly letterJesus by Europa Press|pobj\tDemetrio|compound\tHowever , according to the Bishop of Cordoba , Demetrio Fernández in weekly letterJesus by Europa Press , ' the Church Jesus not|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, It cannot enter the human rights market, nor should It be the subject human beings '.",
+            "question_answers": [
+                {
+                    "question": "What should elpais.com be considered to be?",
+                    "answer": "subject human beings"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the human rights market?",
+                    "score": 0.7933,
+                    "answers": "human|amod\tthe human rights market|dobj\tthe subject human beings '|attr\thuman|amod"
+                },
+                {
+                    "question": "What does elpais.com say about human rights?",
+                    "score": 0.7838,
+                    "answers": "elpais.com reported on 14/06/2013 that Therefore , It can not enter the human rights market , nor should It be the subject human beings '|ROOT\ton 14/06/2013|prep\tthat|mark\tTherefore|advmod\t,|punct\tIt|nsubj\tcan|aux\tnot|neg\tthat Therefore , It can not enter the human rights market , nor should It be the subject human beings '|ccomp\tthe|det\t,|punct\tnor|cc\tIt|nsubj\tshould It be the subject human beings '|conj\tthe|det\thuman beings|appos\t'|case"
+                },
+                {
+                    "question": "What is the definition of human rights?",
+                    "score": 0.7166,
+                    "answers": "human rights|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, 'and definitively, the Church human beings established that priestly ordination can only be granted to men ', so that 'this sentence can never be reformed, because Pope John Paul II pronounced this sentence on the basis of the example of her Master , the Word of God, the living tradition of the Church and pontifical infallibility '.",
+            "question_answers": [
+                {
+                    "question": "How did Pope John Paul II pronounce the sentence?",
+                    "answer": "on the basis of the example of her Master"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Pope John Paul II say about priestly ordination?",
+                    "score": 0.8844,
+                    "answers": "elpais.com reported on 14/06/2013 that Therefore , ' and definitively , the Church human beings established that priestly ordination can only be granted to men ' , so that ' this sentence can never be reformed , because Pope John Paul II pronounced this sentence on the basis of the example of her Master , the Word of God , the living tradition of the Church and pontifical infallibility '|ROOT\ton 14/06/2013|prep\tthat|mark\tTherefore|advmod\t,|punct\t'|punct\tand|cc\tdefinitively|advmod\t,|punct\tthe|det\thuman|amod\tthat Therefore , ' and definitively , the Church human beings established that priestly ordination can only be granted to men ' , so that ' this sentence can never be reformed , because Pope John Paul II pronounced this sentence on the basis of the example of her Master , the Word of God , the living tradition of the Church and pontifical infallibility '|ccomp\tthat|mark\tcan|aux\tonly|advmod\tbe|auxpass\t'|punct\t,|punct\tso|mark\tthat|mark\t'|punct\tthis|det\tthis sentence|nsubjpass\tcan|aux\tnever|neg\tbe|auxpass\t,|punct\tbecause|mark\tPope|compound\tJohn|compound\tPaul|compound\tPope John Paul II|nsubj\tthis|det\tthis sentence|dobj\ton the basis of the example of her Master , the Word of God , the living tradition of the Church and pontifical infallibility|prep\tthe|det\tthe basis of the example of her Master , the Word of God , the living tradition of the Church and pontifical infallibility|pobj\tof the example of her Master , the Word of God , the living tradition of the Church and pontifical infallibility|prep\tthe|det\tthe example of her Master , the Word of God , the living tradition of the Church and pontifical infallibility|pobj\tof her Master|prep\ther|poss\ther Master|pobj\t,|punct\tthe|det\tof God|prep\tGod|pobj\t,|punct\tthe|det\tliving|amod\tof the Church|prep\tthe|det\tthe Church|pobj\tand|cc\tpontifical|amod\tpontifical infallibility|conj\t'|punct"
+                },
+                {
+                    "question": "What was Pope John Paul II's sentence on priestly ordination?",
+                    "score": 0.857,
+                    "answers": "because Pope John Paul II pronounced this sentence on the basis of the example of her Master , the Word of God , the living tradition of the Church and pontifical infallibility|advcl"
+                },
+                {
+                    "question": "What is priestly ordination?",
+                    "score": 0.8034,
+                    "answers": "priestly|amod\tpriestly ordination|nsubjpass\tthat priestly ordination can only be granted to men|ccomp\tto men|dative\tmen|pobj"
+                },
+                {
+                    "question": "What is the living tradition of the Church and pontifical infallibility?",
+                    "score": 0.6453,
+                    "answers": "the Word of God , the living tradition of the Church and pontifical infallibility|conj\tthe living tradition of the Church and pontifical infallibility|conj"
+                }
+            ]
+        },
+        {
+            "claim": "In any case, the Bishop of Cordoba, Demetrio Fernández wanted to clarify her Master has not missed the woman , because her Master has equaled the woman in everything with the man.",
+            "question_answers": [
+                {
+                    "question": "What did the Bishop of Cordoba want to clarify?",
+                    "answer": "her Master has not missed the woman"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Demetrio Fernández say about her Master?",
+                    "score": 0.5867,
+                    "answers": "that|mark\tthat In any case , the Bishop of Cordoba , Demetrio Fernández wanted to clarify her Master has not missed the woman , because her Master has equaled the woman in everything with the man|ccomp\thas|aux\tbecause|mark\thas|aux"
+                },
+                {
+                    "question": "What was the relationship between Demetrio Fernández and her Master?",
+                    "score": 0.5359,
+                    "answers": ",|punct\tthe|det\t,|punct\tnot|neg\tthe|det\t,|punct\tthe|det\tthe|det"
+                },
+                {
+                    "question": "Who is Demetrio Fernández?",
+                    "score": 0.5153,
+                    "answers": "In any case|prep\tthe Bishop of Cordoba , Demetrio Fernández|nsubj\tof Cordoba|prep\tDemetrio|compound"
+                },
+                {
+                    "question": "What is the relationship between the Master and the man?",
+                    "score": 0.4961,
+                    "answers": "with the man|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For example, in matters of marriage, when the woman had no Jesus and could be repudiated at any time, Jesus places the woman at the same height as the man 'when he pointed out that 'not only does the woman commit adultery if she goes with another, but also the man commits adultery if he goes with another (cf Mt ), because God has made them equal in dignity, different to be complementary 'and, although 'this position of Jesus strongly surprised his disciples, Jesus left established this fundamental equality, which the Church must respect and promote over the centuries '.",
+            "question_answers": [
+                {
+                    "question": "Where did Jesus place the woman at the same height as the man when he went with another?",
+                    "answer": "Mt"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jesus say about marriage equality?",
+                    "score": 0.8613,
+                    "answers": "that For example , in matters of marriage , the woman had no Jesus and when could be repudiated at any time , Jesus places the woman at the same height as the man ' when he pointed out that ' not only does the woman commit adultery if she goes with another , but also the man commits adultery if he goes with another ( cf Mt ) , because God has made them equal in dignity , different to be complementary ' and , although ' this position of Jesus strongly surprised his disciples , Jesus left established this fundamental equality , the Church must respect and which promote over the centuries '|ccomp\twhen he pointed out that ' not only does the woman commit adultery if she goes with another , but also the man commits adultery if he goes with another ( cf Mt ) , because God has made them equal in dignity , different to be complementary ' and , although ' this position of Jesus strongly surprised his disciples , Jesus left established this fundamental equality , the Church must respect and which promote over the centuries '|advcl\tthe man commits adultery if he goes with another ( cf Mt ) , because God has made them equal in dignity , different to be complementary ' and , although ' this position of Jesus strongly surprised his disciples , Jesus left established this fundamental equality , the Church must respect and which promote over the centuries '|conj\talthough ' this position of Jesus strongly surprised his disciples , Jesus left established this fundamental equality , the Church must respect and which promote over the centuries|conj"
+                },
+                {
+                    "question": "What was Jesus' position on marriage?",
+                    "score": 0.8238,
+                    "answers": "elpais.com reported on 14/06/2013 that For example , in matters of marriage , the woman had no Jesus and when could be repudiated at any time , Jesus places the woman at the same height as the man ' when he pointed out that ' not only does the woman commit adultery if she goes with another , but also the man commits adultery if he goes with another ( cf Mt ) , because God has made them equal in dignity , different to be complementary ' and , although ' this position of Jesus strongly surprised his disciples , Jesus left established this fundamental equality , the Church must respect and which promote over the centuries '|ROOT\talthough ' this position of Jesus strongly surprised his disciples|advcl"
+                },
+                {
+                    "question": "What is the relationship between God and man according to Jesus?",
+                    "score": 0.7367,
+                    "answers": "on 14/06/2013|prep\tas the man|prep\the|nsubj\tif|mark\twith another|prep\tanother|pobj\talso|advmod\tif|mark\the|nsubj\twith another|prep\tanother|pobj\tcf Mt|prep\tthem equal in dignity , different to be complementary|ccomp"
+                },
+                {
+                    "question": "What is the definition of being repudiated at any time?",
+                    "score": 0.7351,
+                    "answers": "when could be repudiated at any time|conj"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, according to Demetrio Fernández, the role of women in the Church 'is of enormous importance, not only because all women are called as such to holiness, but because to them in a special way the care of human beings has been entrusted, from their conception to their death.",
+            "question_answers": [
+                {
+                    "question": "What does Demetrio Fernández believe the role of women in is of enormous importance?",
+                    "answer": "the Church"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Demetrio Fernández's position on women in the Church?",
+                    "score": 0.6765,
+                    "answers": "according to Demetrio Fernández|prep\tto Demetrio Fernández|prep\tDemetrio|compound"
+                },
+                {
+                    "question": "What is the role of women in the Church according to Demetrio Fernández?",
+                    "score": 0.6746,
+                    "answers": "that In fact , according to Demetrio Fernández , the role of women in the Church ' is of enormous importance , not only because all women are called as such to holiness , but because to them in a special way the care of human beings has been entrusted , from their conception to their death|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In marriage or virginity, the heart of a woman is made for motherhood, to protect the human being, especially the weakest and most helpless.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 14/06/2013 that the heart of a woman is made for motherhood?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does elpais.com say about marriage or virginity?",
+                    "score": 0.6634,
+                    "answers": "elpais.com reported on 14/06/2013 that In marriage or virginity , the heart of a woman is made for motherhood , to protect the human being , especially the weakest and most helpless|ROOT\ton 14/06/2013|prep\tespecially the weakest and most helpless|appos"
+                },
+                {
+                    "question": "What is the heart of a woman for marriage or virginity?",
+                    "score": 0.6362,
+                    "answers": "the heart of a woman|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "Nothing warmer for the human being than a mother's lap.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 14/06/2013 that Nothing warmer for the human being than a mother's lap?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much warmer is the human being than a mother's lap?",
+                    "score": 0.8281,
+                    "answers": "that|mark\tfor the human being|prep\tthe|det\thuman|compound\t's|case"
+                },
+                {
+                    "question": "What does elpais.com say about a mother's lap?",
+                    "score": 0.7046,
+                    "answers": "elpais.com reported on 14/06/2013 that Nothing warmer for the human being than a mother 's lap|ROOT\ton 14/06/2013|prep\tthat Nothing warmer for the human being than a mother 's lap|dobj\twarmer for the human being than a mother 's lap|amod"
+                },
+                {
+                    "question": "What is the human being's mother's lap?",
+                    "score": 0.6949,
+                    "answers": "the human being|pobj"
+                },
+                {
+                    "question": "What is a mother's lap?",
+                    "score": 0.675,
+                    "answers": "a|det\ta mother 's|poss\ta mother 's lap|pobj"
+                },
+                {
+                    "question": "What is the relationship between a mother's lap and a child's lap?",
+                    "score": 0.6248,
+                    "answers": "than a mother 's lap|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Moreover, in the bishop's opinion,'the feminine 'genius' and the woman's heart is made to love, to welcome, to express God's tenderness with man 'and, in this sense,'Christian feminism has offered to humanity great women, fully feminine, in the image of Mary, the mother of Jesus, and given in full, in virginity or in marriage, to a broad and fruitful motherhood.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of the feminine 'genius' and the woman's heart?",
+                    "answer": "to love, to welcome, to express God's tenderness with man"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the bishop's opinion on the feminine and the woman's heart being made to love, to welcome, express God's tenderness with man?",
+                    "score": 0.6736,
+                    "answers": "the bishop 's opinion,'the|pobj"
+                },
+                {
+                    "question": "What is Christian feminism?",
+                    "score": 0.6528,
+                    "answers": "elpais.com reported on 14/06/2013 that Moreover , in the bishop 's opinion,'the feminine ' genius ' and the woman 's heart is made to love , to welcome , to express God 's tenderness with man ' and , in this sense,'Christian feminism has offered to humanity great women , fully feminine , in the image of Mary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|ROOT\ton 14/06/2013|prep\tthat|mark\tMoreover|advmod\t,|punct\tin the bishop 's opinion,'the|prep\tthe|det\t's|case\topinion,'the|prep\tfeminine|amod\t'|punct\tfeminine ' genius ' and the woman 's heart|nsubjpass\t'|punct\tand|cc\tthe|det\tthe woman 's|poss\t's|case\tis|auxpass\tthat Moreover , in the bishop 's opinion,'the feminine ' genius ' and the woman 's heart is made to love , to welcome , to express God 's tenderness with man ' and , in this sense,'Christian feminism has offered to humanity great women , fully feminine , in the image of Mary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|ccomp\tto|aux\tto love , to welcome , to express God 's tenderness with man|xcomp\t,|punct\tto|aux\tto welcome , to express God 's tenderness with man|dep\t,|punct\tto|aux\tto express God 's tenderness with man|dep\tGod 's|poss\t's|case\tGod 's tenderness|dobj\twith man|prep\tman|pobj\t'|punct\tand|cc\t,|punct\tin this sense,'Christian|prep\tthis|det\tthis sense,'Christian|pobj\tfeminism|nsubj\thas|aux\t, in this sense,'Christian feminism has offered to humanity great women , fully feminine , in the image of Mary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|conj\tto humanity|dative\thumanity|pobj\tgreat|amod\tgreat women , fully feminine , in the image of Mary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|dobj\t,|punct\tfully|advmod\tfully feminine , in the image of Mary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|amod\t,|punct\tin the image of Mary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|prep\tthe|det\tthe image of Mary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|pobj\tof Mary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|prep\tMary , the mother of Jesus , and given in full , in virginity or in marriage , to a broad and fruitful motherhood|pobj\t,|punct\tthe|det\tof Jesus|prep\t,|punct\tand|cc\tgiven in full , in virginity or in marriage , to a broad and fruitful motherhood|conj\tin full , in virginity or in marriage|prep\tfull|amod\t,|punct\tin virginity or in marriage|conj\tvirginity|pobj\tor|cc\tin marriage|conj\tmarriage|pobj\t,|punct\tto a broad and fruitful motherhood|prep\ta|det\tand|cc\ta broad and fruitful motherhood|pobj"
+                },
+                {
+                    "question": "What is the meaning of the word \"genius\" in Christian feminism?",
+                    "score": 0.6074,
+                    "answers": "the woman 's heart|conj"
+                },
+                {
+                    "question": "Who is Mary?",
+                    "score": 0.59,
+                    "answers": "the mother of Jesus|appos"
+                },
+                {
+                    "question": "What is the definition of a broad and fruitful motherhood?",
+                    "score": 0.5604,
+                    "answers": "broad and fruitful|amod\tfruitful|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Women must not cease to be women to be more, but precisely as women, fully women, they will find their fullness'.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that women must not cease to be women to be more?",
+                    "answer": "14/06/2013"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does elpais.com say about women becoming women?",
+                    "score": 0.7486,
+                    "answers": "on 14/06/2013|prep\tmust|aux\tnot|neg\tthat Women must not cease to be women to be more , but precisely as women , fully women , they will find their fullness '|ccomp\tto|aux\tto be women|xcomp\tto|aux\tprecisely as women , fully women|mark\tprecisely as women , fully women , they will find their fullness '|conj\ttheir fullness|dobj\t'|punct"
+                },
+                {
+                    "question": "What is the source of evidence of women becoming women?",
+                    "score": 0.6612,
+                    "answers": "that|mark\tmore|attr\t,|punct\tprecisely|advmod\t,|punct\t,|punct\tthey|nsubj\ttheir|poss"
+                },
+                {
+                    "question": "What is the definition of fullness?",
+                    "score": 0.6432,
+                    "answers": "fully|advmod\tfully women|appos"
+                },
+                {
+                    "question": "What is the difference between a woman and a woman?",
+                    "score": 0.6132,
+                    "answers": "to be more|advcl"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.5288,
+                    "answers": "elpais.com reported on 14/06/2013 that Women must not cease to be women to be more , but precisely as women , fully women , they will find their fullness '|ROOT"
+                }
+            ]
+        }
+    ]
+}

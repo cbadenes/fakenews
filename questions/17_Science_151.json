@@ -1,0 +1,612 @@
+{
+    "id": "17_Science_151",
+    "claim": "Yesterday, NASA images revealed that the sunspots had disappeared, leaving it blank. But for the fourth time this year, the face of the Sun appeared smooth. This means that, probably, the planet is about to enter another long phase of cold. In this way, the sun has been in its quietest period, for more than a century. Normally, the activity of sunspots ranges between  or  years, but it is decreasing faster than at any time in the last  thousand years. This only happened from the 15th century and its highest point was from  to . London's Thames River Freezed. There was widespread hunger due to bad harvests. This became known as the Maunder Minimum. This coincided with the coldest part of the'Little Ice Age'. It went from the 15th to the 17th centuries. Europe, North America and the rest of the world suffered very harsh winters. It is not yet known whether there is a connection between the low activity of sunspots and cold winters, but it is believed that solar variation is part of climate change and has more impact than global warming. In -, you will see this activity at its lowest point. What has happened and what will happen?According to Paul Dorian, meteorologist at Vencore Weather, The sun has already been completely blank this year and this was seen from June's . It was the first time it ever happened since #NUMBER*. But, this would only indicate that it goes for a new phase. And it would last months. Now, the solar wind decreases and the Sun's magnetic field weakens during the solar minima, making it easier for cosmic rays to reach the Earth. Also, for astronauts it would be very dangerous, as the increase in cosmic rays can easily break a DNA chain, reported the 'Elite Daily 'portal. There aren't so many spots in the sun. This will get to its lowest point in three years. This will be reflected in another mini Ice Age that will cause raw winters. I'm sorry.",
+    "source": "www.publimetro.cl",
+    "date": "05/10/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Yesterday, NASA images revealed that the sunspots had disappeared, leaving it blank.",
+            "question_answers": [
+                {
+                    "question": "Who showed images of the sunspots?",
+                    "answer": "NASA"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did NASA say about the sunspots?",
+                    "score": 0.847,
+                    "answers": "www.publimetro.cl said on 05/10/2016 that Yesterday , NASA images revealed that the sunspots had disappeared , leaving it blank|ROOT\tthat Yesterday , NASA images revealed that the sunspots had disappeared , leaving it blank|ccomp\tthat the sunspots had disappeared , leaving it blank|ccomp\tleaving it blank|advcl\tblank|oprd"
+                },
+                {
+                    "question": "How many sunspots disappeared from space in 2016?",
+                    "score": 0.8319,
+                    "answers": "on 05/10/2016|prep"
+                },
+                {
+                    "question": "What are the sunspots?",
+                    "score": 0.8129,
+                    "answers": "the sunspots|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But for the fourth time this year , the face of it appeared smooth.",
+            "question_answers": [
+                {
+                    "question": "How many times did the face of the publimetro.cl appear smooth?",
+                    "answer": "for the fourth time this year"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many times has the face ofpublimetro appeared smooth this year?",
+                    "score": 0.752,
+                    "answers": "the fourth time this year|pobj"
+                },
+                {
+                    "question": "What are the features of the smooth face?",
+                    "score": 0.6933,
+                    "answers": "smooth|oprd"
+                },
+                {
+                    "question": "What is the face of the book that appeared smooth in 2016?",
+                    "score": 0.6429,
+                    "answers": "of it|prep"
+                },
+                {
+                    "question": "What was the face of thepublimetro.cl for the fourth time in 2016?",
+                    "score": 0.6298,
+                    "answers": "for the fourth time this year|prep"
+                }
+            ]
+        },
+        {
+            "claim": "appeared means that, probably, it is about to enter another long phase of cold.",
+            "question_answers": [
+                {
+                    "question": "When did www.publimetro.cl say that it was about to enter another long phase of cold?",
+                    "answer": "05/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has it been cold?",
+                    "score": 0.8021,
+                    "answers": "on 05/10/2016|prep\tthat|mark\tthat|mark\t,|punct\t,|punct\tto|aux\tanother|det"
+                },
+                {
+                    "question": "How long is the cold phase of cold?",
+                    "score": 0.7779,
+                    "answers": "that appeared|nsubj\tthat appeared means that , probably , it is about to enter another long phase of cold|ccomp\tprobably|advmod\tit|nsubj\tthat , probably , it is about to enter another long phase of cold|ccomp\tlong|amod\tanother long phase of cold|dobj"
+                },
+                {
+                    "question": "What is the current trend of cold?",
+                    "score": 0.7468,
+                    "answers": "www.publimetro.cl|nsubj\tof cold|prep\tcold|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In this way, it has been in quietest period, for more than a century.",
+            "question_answers": [
+                {
+                    "question": "How long has it been in quietest period?",
+                    "answer": "more than a century"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has been the quietest period for more than a century?",
+                    "score": 0.723,
+                    "answers": "on 05/10/2016|prep\tIn this way|prep\tthis way|pobj"
+                },
+                {
+                    "question": "What is the quietest period in history?",
+                    "score": 0.6832,
+                    "answers": "in quietest period|prep\tquietest period|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Normally, the activity of sunspots ranges between  or  years, but the activity of sunspots is decreasing faster than at any time in the last  thousand years.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the activity of sunspots?",
+                    "score": 0.8142,
+                    "answers": "www.publimetro.cl|nsubj\twww.publimetro.cl said on 05/10/2016 that Normally , the activity of sunspots ranges between   or   years , but the activity of sunspots is decreasing faster than at any time in the last   thousand years|ROOT\ton 05/10/2016|prep\tthat|mark\tNormally|advmod\t,|punct\tthe|det\tthe activity of sunspots|nsubj\tof sunspots|prep\tsunspots|pobj\tthat Normally , the activity of sunspots ranges between|ccomp\tbetween|prep\t |dep\tor|cc\tor   years , but the activity of sunspots is decreasing faster than at any time in the last   thousand years|dep\tyears , but the activity of sunspots is decreasing faster than at any time in the last   thousand years|dobj\t,|punct\tbut|cc\tthe|det\tthe activity of sunspots|nsubj\tof sunspots|prep\tsunspots|pobj\tis|aux\tthe activity of sunspots is decreasing faster than at any time in the last   thousand years|conj\tfaster than at any time in the last   thousand years|advmod\tthan at any time in the last   thousand years|prep\tat any time in the last   thousand years|prep\tany|det\tany time in the last   thousand years|pobj\tin the last   thousand years|prep\tthe|det\tlast|amod\tlast  |dep\tthousand|nummod\tthe last   thousand years|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "decreasing only happened from the 15th century and highest point was from  to .",
+            "question_answers": [
+                {
+                    "question": "What century did decreasing only happen from?",
+                    "answer": "the 15th century"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the highest point in the 15th century?",
+                    "score": 0.7198,
+                    "answers": "www.publimetro.cl said on 05/10/2016 that decreasing only happened from the 15th century and highest point was from   to|ROOT\thighest|amod\thighest point|nsubj\thighest point was from|conj"
+                },
+                {
+                    "question": "What was the lowest point of the 15th century?",
+                    "score": 0.6988,
+                    "answers": "that decreasing only happened from the 15th century and highest point was from|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "London's Thames River Freezed.",
+            "question_answers": [
+                {
+                    "question": "What happened to London's Thames River on 05/10/2016?",
+                    "answer": "London's Thames River Freezed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is London's Thames River Freezed in 2016?",
+                    "score": 0.8792,
+                    "answers": "that London 's Thames River Freezed|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of London's Thames River Freezed?",
+                    "score": 0.864,
+                    "answers": "on 05/10/2016|prep"
+                },
+                {
+                    "question": "What is the name of the website that claims that London's River is freezed?",
+                    "score": 0.8621,
+                    "answers": "www.publimetro.cl said on 05/10/2016 that London 's Thames River Freezed|ROOT"
+                },
+                {
+                    "question": "What is the relationship between London's River Freezed and London's Thames River Freezing?",
+                    "score": 0.8456,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the history of the River Thames?",
+                    "score": 0.8238,
+                    "answers": "Thames|compound"
+                }
+            ]
+        },
+        {
+            "claim": "There was widespread hunger due to bad harvests.",
+            "question_answers": [
+                {
+                    "question": "What was the cause of widespread hunger?",
+                    "answer": "bad harvests"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many harvests were there in 2016?",
+                    "score": 0.873,
+                    "answers": "www.publimetro.cl said on 05/10/2016 that There was widespread hunger due to bad harvests|ROOT\tthat|mark\tThere|expl\tthat There was widespread hunger due to bad harvests|ccomp\tdue to bad harvests|prep\tto|pcomp\tbad|amod\tbad harvests|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the number of hunger in the United States in 2016?",
+                    "score": 0.8344,
+                    "answers": "www.publimetro.cl|nsubj\ton 05/10/2016|prep\twidespread|amod"
+                }
+            ]
+        },
+        {
+            "claim": "This became known as the Maunder Minimum.",
+            "question_answers": [
+                {
+                    "question": "When did the Maunder Minimum become known as the Maunder Minimum?",
+                    "answer": "05/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Maunder Minimum?",
+                    "score": 0.686,
+                    "answers": "www.publimetro.cl|nsubj\twww.publimetro.cl said on 05/10/2016 that This became known as the Maunder Minimum|ROOT\ton 05/10/2016|prep\tthat|mark\tThis|nsubjpass\tbecame|auxpass\tthat This became known as the Maunder Minimum|ccomp\tas the Maunder Minimum|prep\tthe|det\tMaunder|compound\tthe Maunder Minimum|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This coincided with the coldest part of the'Little Ice Age'.",
+            "question_answers": [
+                {
+                    "question": "What did this coincide with?",
+                    "answer": "the coldest part of the'Little Ice Age'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the Little Ice Age begin?",
+                    "score": 0.8636,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the coldest part of the Little Ice Age?",
+                    "score": 0.7779,
+                    "answers": "www.publimetro.cl|nsubj\twww.publimetro.cl said on 05/10/2016 that This coincided with the coldest part of the'Little Ice Age '|ROOT\ton 05/10/2016|prep\tThis|nsubj\tthat This coincided with the coldest part of the'Little Ice Age '|ccomp\twith the coldest part of the'Little Ice Age '|prep\tthe|det\tcoldest|amod\tthe coldest part of the'Little Ice Age '|pobj\tIce|compound\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "This went from the 15th to the 17th centuries.",
+            "question_answers": [
+                {
+                    "question": "What centuries did the publimetro.cl go from?",
+                    "answer": "the 15th to the 17th centuries"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the 15th century begin?",
+                    "score": 0.8702,
+                    "answers": "the 15th|pobj"
+                },
+                {
+                    "question": "When didpublimetro.cl start operating?",
+                    "score": 0.8649,
+                    "answers": "on 05/10/2016|prep"
+                },
+                {
+                    "question": "When did the 17th century begin?",
+                    "score": 0.8613,
+                    "answers": "the 17th|amod"
+                },
+                {
+                    "question": "How long has it been since the 15th to the 17th centuries?",
+                    "score": 0.8478,
+                    "answers": "that|mark\tThis|nsubj\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What was the history ofpublimetro.cl?",
+                    "score": 0.7453,
+                    "answers": "the 17th centuries|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Europe, North America and the rest of the world suffered very harsh winters.",
+            "question_answers": [
+                {
+                    "question": "Which countries suffered harsh winters on 05/10/2016?",
+                    "answer": "Europe, North America and the rest of the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries suffer from very harsh winters?",
+                    "score": 0.8915,
+                    "answers": "Europe , North America and the rest of the world|nsubj"
+                },
+                {
+                    "question": "What was the climate of Europe in 2016?",
+                    "score": 0.8224,
+                    "answers": "of the world|prep\tthat Europe , North America and the rest of the world suffered very harsh winters|ccomp"
+                },
+                {
+                    "question": "How many winter deaths occurred in North America in 2016?",
+                    "score": 0.819,
+                    "answers": "www.publimetro.cl said on 05/10/2016 that Europe , North America and the rest of the world suffered very harsh winters|ROOT\t,|punct\tNorth|compound\tand|cc\tthe|det\tthe|det\tthe world|pobj"
+                },
+                {
+                    "question": "What is the name of the region where Europe, North America, and the rest of the world suffered very harsh winters?",
+                    "score": 0.8107,
+                    "answers": "the rest of the world|conj"
+                },
+                {
+                    "question": "What is the history of the winter in North America and Europe?",
+                    "score": 0.7844,
+                    "answers": "very|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "It is not yet known whether there is a connection between the low activity of sunspots and cold winters, but it is believed that solar variation is part of climate change and has more impact than global warming.",
+            "question_answers": [
+                {
+                    "question": "What is believed to be the cause of the low activity of sunspots and cold winters?",
+                    "answer": "it is believed that solar variation is part of climate change and has more impact than global warming"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the impact of solar variation on climate change?",
+                    "score": 0.7648,
+                    "answers": "more impact than global warming|dobj"
+                },
+                {
+                    "question": "What is solar variation?",
+                    "score": 0.7554,
+                    "answers": "solar|amod\tsolar variation|nsubj"
+                },
+                {
+                    "question": "What is the relationship between low activity of sunspots and cold winters?",
+                    "score": 0.7447,
+                    "answers": "whether there is a connection between the low activity of sunspots and cold winters|ccomp\ta connection between the low activity of sunspots and cold winters|attr\tbetween the low activity of sunspots and cold winters|prep\tlow|amod\tthe low activity of sunspots and cold winters|pobj\tof sunspots|prep"
+                },
+                {
+                    "question": "What is climate change?",
+                    "score": 0.7431,
+                    "answers": "climate change|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In -, you will see the activity of sunspots at lowest point.",
+            "question_answers": [
+                {
+                    "question": "What type of sunspots will you see at the lowest point?",
+                    "answer": "sunspots"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the activity of sunspots at lowest point?",
+                    "score": 0.7993,
+                    "answers": "www.publimetro.cl|nsubj\ton 05/10/2016|prep\tthat|mark\tIn|mark\t-|punct\t,|punct\tyou|nsubj\twill|aux\tthat In - , you will see the activity of sunspots at lowest point|ccomp\tthe|det\tthe activity of sunspots at lowest point|dobj\tof sunspots at lowest point|prep\tsunspots at lowest point|pobj\tat lowest point|prep\tlowest|amod\tlowest point|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "What has happened and what will happen?According to Paul Dorian, meteorologist at Vencore Weather, it has already been completely blank this year and been was seen from June's .",
+            "question_answers": [
+                {
+                    "question": "According to Paul Dorian, what has already happened this year?",
+                    "answer": "blank"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Paul Dorian say about June's weather?",
+                    "score": 0.867,
+                    "answers": "June 's|pobj"
+                },
+                {
+                    "question": "How long has it been since the last time a full blank was seen?",
+                    "score": 0.7766,
+                    "answers": ", it has already been completely blank this year and been was seen from June 's|ccomp"
+                },
+                {
+                    "question": "What is Paul Dorian's position on climate change?",
+                    "score": 0.7436,
+                    "answers": "what will happen?According to Paul Dorian , meteorologist at Vencore Weather|conj\tPaul|compound"
+                },
+                {
+                    "question": "What was the date of Paul Dorian's meteorologist?",
+                    "score": 0.7383,
+                    "answers": "from June 's|prep"
+                },
+                {
+                    "question": "What is the source of evidence of what happened to Paul Dorian's meteorologist at Vencore Weather?",
+                    "score": 0.7304,
+                    "answers": "that What has happened and what will happen?According to Paul Dorian , meteorologist at Vencore Weather|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It was the first time it ever happened since #NUMBER*.",
+            "question_answers": [
+                {
+                    "question": "What did www.publimetro.cl say on 05/10/2016?",
+                    "answer": "It was the first time it ever happened since #NUMBER*"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the last time that NUMBER was used?",
+                    "score": 0.733,
+                    "answers": "that It was the first time it ever happened since # NUMBER *|ccomp"
+                },
+                {
+                    "question": "How many times has it been reported that the NUMBER has been used?",
+                    "score": 0.7077,
+                    "answers": "www.publimetro.cl said on 05/10/2016 that It was the first time it ever happened since # NUMBER *|ROOT"
+                },
+                {
+                    "question": "How many people have been murdered in the US in 2016?",
+                    "score": 0.6263,
+                    "answers": "NUMBER|pobj"
+                },
+                {
+                    "question": "What is the history of theNUMBER program?",
+                    "score": 0.6204,
+                    "answers": "www.publimetro.cl|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But, this would only indicate that it goes for a new phase.",
+            "question_answers": [
+                {
+                    "question": "When did publimetro.cl say it was going for a new phase?",
+                    "answer": "05/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the new phase of communism?",
+                    "score": 0.7355,
+                    "answers": "that|mark\tBut|cc\t,|punct\tthis|nsubj\tonly|advmod\tthat|mark\tit|nsubj\ta|det"
+                },
+                {
+                    "question": "What is the current phase of the student loan program?",
+                    "score": 0.7185,
+                    "answers": "would|aux"
+                },
+                {
+                    "question": "What is the new phase ofpublimetro.cl?",
+                    "score": 0.5825,
+                    "answers": "www.publimetro.cl said on 05/10/2016 that But , this would only indicate that it goes for a new phase|ROOT\tnew|amod"
+                }
+            ]
+        },
+        {
+            "claim": "And it would last months.",
+            "question_answers": [
+                {
+                    "question": "When did publimetro.cl say it would last months?",
+                    "answer": "05/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take forpublimetro.cl to last?",
+                    "score": 0.6898,
+                    "answers": "www.publimetro.cl|nsubj\twww.publimetro.cl said on 05/10/2016 that And it would last months|ROOT\ton 05/10/2016|prep\tthat|mark\tAnd|cc\tit|nsubj\twould|aux\tthat And it would last months|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Now, the solar wind decreases and the Sun's magnetic field weakens during the solar minima, making it easier for cosmic rays to reach the Earth.",
+            "question_answers": [
+                {
+                    "question": "What happens to the Sun's magnetic field during the solar minima?",
+                    "answer": "weakens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much is the sun's magnetic field weakened during solar minima?",
+                    "score": 0.7795,
+                    "answers": "it easier for cosmic rays to reach the Earth|ccomp"
+                },
+                {
+                    "question": "What is the effect of solar wind on the sun's magnetic field?",
+                    "score": 0.7426,
+                    "answers": "www.publimetro.cl said on 05/10/2016 that Now , the solar wind decreases and the Sun 's magnetic field weakens during the solar minima , making it easier for cosmic rays to reach the Earth|ROOT\tthat|mark\tNow|advmod\t,|punct\tthat Now , the solar wind decreases and the Sun 's magnetic field weakens during the solar minima , making it easier for cosmic rays to reach the Earth|ccomp\tand|cc\tmagnetic|amod\tthe Sun 's magnetic field|nsubj\t,|punct\tit|nsubj\tfor|mark"
+                },
+                {
+                    "question": "What is solar wind?",
+                    "score": 0.7331,
+                    "answers": "solar|amod\tsolar|amod"
+                },
+                {
+                    "question": "What is the solar wind's magnetic field during the solar minima?",
+                    "score": 0.7318,
+                    "answers": "www.publimetro.cl|nsubj\t's|case"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of solar wind and the Sun's magnetic field weakens during solar minima?",
+                    "score": 0.6996,
+                    "answers": "cosmic|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Also, for astronauts it would be very dangerous, as the increase in cosmic rays can easily break a DNA chain, reported the 'Elite Daily 'portal.",
+            "question_answers": [
+                {
+                    "question": "What newspaper reported that the increase in cosmic rays could break a DNA chain?",
+                    "answer": "the 'Elite Daily"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How dangerous is it for an astronaut to break a DNA chain?",
+                    "score": 0.817,
+                    "answers": "very dangerous|acomp"
+                },
+                {
+                    "question": "What is the increase in cosmic rays?",
+                    "score": 0.6907,
+                    "answers": "the increase in cosmic rays|nsubj"
+                },
+                {
+                    "question": "What is the impact of cosmic rays on DNA chain?",
+                    "score": 0.684,
+                    "answers": "cosmic rays|pobj"
+                },
+                {
+                    "question": "What is the purpose of cosmic rays?",
+                    "score": 0.6647,
+                    "answers": "in cosmic rays|prep"
+                },
+                {
+                    "question": "What is the scientific study of astronautic DNA?",
+                    "score": 0.6461,
+                    "answers": "astronauts|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "There aren't so many spots in the sun.",
+            "question_answers": [
+                {
+                    "question": "What did www.publimetro.cl say on 05/10/2016?",
+                    "answer": "There aren't so many spots in the sun"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many spots in the sun are there?",
+                    "score": 0.8187,
+                    "answers": "www.publimetro.cl|nsubj\twww.publimetro.cl said on 05/10/2016 that There are n't so many spots in the sun|ROOT\ton 05/10/2016|prep\tthat|mark\tThere|expl\tthat There are n't so many spots in the sun|ccomp\tn't|neg\tso|advmod\tso many|amod\tso many spots in the sun|attr\tin the sun|prep\tthe|det\tthe sun|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This will get to its lowest point in three years.",
+            "question_answers": [
+                {
+                    "question": "When did www.publimetro.cl say that This will get to its lowest point in three years?",
+                    "answer": "05/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the lowest point of the Marxist movement in history?",
+                    "score": 0.776,
+                    "answers": "its lowest point in three years|pobj"
+                },
+                {
+                    "question": "What was the rate ofpublimetro.cl in 2016?",
+                    "score": 0.7365,
+                    "answers": "www.publimetro.cl|nsubj"
+                },
+                {
+                    "question": "How many years has it been sincepublimetro.cl was founded?",
+                    "score": 0.7128,
+                    "answers": "will|aux\tits|poss\tin three years|prep"
+                },
+                {
+                    "question": "What is the lowest point in the history ofpublimetro.cl?",
+                    "score": 0.5725,
+                    "answers": "to its lowest point in three years|prep"
+                }
+            ]
+        },
+        {
+            "claim": "This will be reflected in another mini Ice Age that will cause raw winters.",
+            "question_answers": [
+                {
+                    "question": "When did publimetro.cl say that the mini Ice Age would be reflected in another mini Ice Age that will cause raw winters?",
+                    "answer": "05/10/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What will happen if there is another ice age?",
+                    "score": 0.7875,
+                    "answers": "another mini Ice Age that will cause raw winters|pobj"
+                },
+                {
+                    "question": "What will happen to the weather during the next ice age?",
+                    "score": 0.7691,
+                    "answers": "that will cause raw winters|relcl\traw winters|dobj"
+                },
+                {
+                    "question": "What is the name of the ice that will cause raw winters?",
+                    "score": 0.7414,
+                    "answers": "mini|compound"
+                }
+            ]
+        }
+    ]
+}

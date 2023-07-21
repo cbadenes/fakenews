@@ -1,0 +1,246 @@
+{
+    "id": "90_Science_157",
+    "claim": "The music platform known as Spotify has been hacked into Mexico, according to representatives of that company, who do not explain how this could happen. However, they hope that in the next few hours everything will be resolved. 'We want to apologize for this inconvenience, which has surely bothered users of our service ', said Daniel Ek, founder and CEO of Spotify, through a press conference broadcast from Sweden.'We haven't detected the fault yet, but we already have a group of specialists working on it'. And it is that according to the Year of the Music  listwhich reflects the musical taste of the publicin Mexico, who is consolidated as the most popular and the boss in preferences, is nothing less than Julion Álvarez. This caused alarm from the beginning, but the alarm soon turned into panic when, in a more in-depth review, they repaired that on the same list were El Komander, La Banda Sinaloense MS and La Horsadora Banda 'El Limon 'among the most requested on the Spotify platform on Aztec soil. This led them to deduce that they had been 'super hacked ', in their own words. We all wish that the hackers would soon be arrested and recast for life in a Czechoslovak prison to stop playing such heavy jokes. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "04/12/2015",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The music platform known as Spotify has been hacked into Mexico, according to representatives of that company, who do not explain how this could happen.",
+            "question_answers": [
+                {
+                    "question": "What website reported that Spotify had been hacked into Mexico?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the music platform that has been hacked into Mexico?",
+                    "score": 0.822,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 04/12/2015 that The music platform known as Spotify has been hacked into Mexico , according to representatives of that company , who do not explain how this could happen|ROOT\ton 04/12/2015|prep\tthat|mark\tThe|det\tmusic|compound\tThe music platform known as Spotify|nsubjpass\thas|aux\tbeen|auxpass\tthat The music platform known as Spotify has been hacked into Mexico , according to representatives of that company , who do not explain how this could happen|ccomp\tinto Mexico|prep\t,|punct\tto representatives of that company , who do not explain how this could happen|prep\trepresentatives of that company , who do not explain how this could happen|pobj\tof that company|prep\tthat|det\tthat company|pobj\t,|punct\twho|nsubj\tdo|aux\tnot|neg\twho do not explain how this could happen|relcl\thow|advmod\tthis|nsubj\tcould|aux\thow this could happen|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, they hope that in the next few hours everything will be resolved.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/12/2015 that they hope that in the next few hours everything will be resolved?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long will it take to resolve the issue?",
+                    "score": 0.736,
+                    "answers": "that However , they hope that in the next few hours everything will be resolved|ccomp\tthat in the next few hours everything will be resolved|ccomp"
+                },
+                {
+                    "question": "What is the relationship betweenldizque.com and the website?",
+                    "score": 0.5395,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the date of the incident?",
+                    "score": 0.5345,
+                    "answers": "that|mark\tHowever|advmod\t,|punct\tthey|nsubj\tthat|mark\tthe|det\tfew|amod\teverything|nsubjpass\twill|aux\tbe|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "'We want to apologize for this inconvenience, which has surely bothered users of our service ', said Daniel Ek, founder and CEO of Spotify, through a press conference broadcast from Sweden.",
+            "question_answers": [
+                {
+                    "question": "Who did www.eldizque.com report the inconvenience to?",
+                    "answer": "users of our service"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Daniel Ek do to apologize for the inconvenience for users of our service?",
+                    "score": 0.8091,
+                    "answers": "to apologize for this inconvenience , which has surely bothered users of our service|xcomp"
+                },
+                {
+                    "question": "What is the relationship between Daniel Ek and users of the Spotify service?",
+                    "score": 0.6735,
+                    "answers": "We want to apologize for this inconvenience , which has surely bothered users of our service|ccomp\tfor this inconvenience , which has surely bothered users of our service|prep"
+                },
+                {
+                    "question": "What was the purpose of Daniel Ek's press conference from Sweden?",
+                    "score": 0.6181,
+                    "answers": "a press conference broadcast from Sweden|pobj"
+                },
+                {
+                    "question": "Who is Daniel Ek?",
+                    "score": 0.5952,
+                    "answers": "Daniel|compound\tDaniel Ek , founder and CEO of Spotify ,|nsubj\tfounder and CEO of Spotify|appos\tCEO|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'We haven't detected the fault yet, but we already have a group of specialists working on it'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that they hadn't detected the fault yet?",
+                    "answer": "04/12/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many specialists are working on the fault?",
+                    "score": 0.871,
+                    "answers": "we already have a group of specialists working on it|conj\tspecialists|pobj"
+                },
+                {
+                    "question": "What is the fault of the fault?",
+                    "score": 0.8694,
+                    "answers": "on 04/12/2015|prep\tthat|mark\t'|punct\tWe|nsubj\thave|aux\tn't|neg\tthe|det\tyet|advmod\t,|punct\tbut|cc\twe|nsubj\talready|advmod\ta|det\ton it|prep\tit|pobj\t'|punct"
+                },
+                {
+                    "question": "What is the fault?",
+                    "score": 0.8581,
+                    "answers": "that ' We have n't detected the fault yet , but we already have a group of specialists working on it|ccomp\tthe fault|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "And it is that according to the Year of the Music  listwhich reflects the musical taste of the publicin Mexico, who is consolidated as the most popular and the boss in preferences, is nothing less than Julion Álvarez.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/12/2015 that Julion lvarez is the boss in preferences?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "Who is the most popular and the boss in preferences?",
+                    "answer": "Julion"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Julion Alvararez's musical taste?",
+                    "score": 0.7131,
+                    "answers": "as the most popular|prep\tpreferences|pobj\tthan Julion Álvarez|prep"
+                },
+                {
+                    "question": "What is the musical taste of the public in Mexico?",
+                    "score": 0.6905,
+                    "answers": "www.eldizque.com reported on 04/12/2015 that And it is that according to the Year of the Music   listwhich reflects the musical taste of the publicin Mexico , who is consolidated as the most popular and the boss in preferences , is nothing less than Julion Álvarez|ROOT\ton 04/12/2015|prep\tthat|mark\tAnd|cc\tit|nsubj\tthat|mark\tto the Year of the Music|prep\tthe|det\tof the Music|prep\tthe|det\tthe Music|pobj\tthat according to the Year of the Music   listwhich reflects the musical taste of the publicin Mexico , who is consolidated as the most popular and the boss in preferences , is nothing less than Julion Álvarez|dep\tlistwhich|nsubj\tthe|det\tmusical|amod\tthe musical taste of the publicin Mexico|dobj\tof the publicin Mexico|prep\tthe|det\tthe publicin Mexico|pobj\twho|nsubjpass\tis|auxpass\tthe|det\tmost|advmod\tthe most popular|pobj\tand|cc\tthe|det\tin preferences|prep\t,|punct\tlistwhich reflects the musical taste of the publicin Mexico , who is consolidated as the most popular and the boss in preferences , is nothing less than Julion Álvarez|ccomp\tless|amod\tJulion|compound"
+                },
+                {
+                    "question": "What is the year of the music?",
+                    "score": 0.6463,
+                    "answers": "according to the Year of the Music|prep"
+                },
+                {
+                    "question": "Who is the most popular and the boss in regards to music?",
+                    "score": 0.6255,
+                    "answers": "that And it is that according to the Year of the Music   listwhich reflects the musical taste of the publicin Mexico , who is consolidated as the most popular and the boss in preferences , is nothing less than Julion Álvarez|ccomp\tnothing less than Julion Álvarez|attr"
+                }
+            ]
+        },
+        {
+            "claim": "This caused alarm from the beginning, but the alarm soon turned into panic when, in a more in-depth review, they repaired that on the same list were El Komander, La Banda Sinaloense MS and La Horsadora Banda 'El Limon 'among the most requested on the Spotify platform on Aztec soil.",
+            "question_answers": [
+                {
+                    "question": "What were the most requested on the Spotify platform on Aztec soil?",
+                    "answer": "La Banda Sinaloense MS and La Horsadora Banda 'El Limon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did El Komander, La Banda Sinaloense MS and El Limon do on the Spotify platform?",
+                    "score": 0.7117,
+                    "answers": "that This caused alarm from the beginning , but the alarm soon turned into panic when , in a more in - depth review , they repaired that on the same list were El Komander , La Banda Sinaloense MS and La Horsadora Banda ' El Limon ' among the most requested on the Spotify platform on Aztec soil|ccomp"
+                },
+                {
+                    "question": "Where was El Komander from?",
+                    "score": 0.6411,
+                    "answers": "on Aztec soil|prep"
+                },
+                {
+                    "question": "What is El Komander and La Banda Sinaloense MS?",
+                    "score": 0.5994,
+                    "answers": "that|mark\tThis|nsubj\tthe|det\t,|punct\tbut|cc\tthe|det\tsoon|advmod\tpanic|pobj\twhen|advmod\t,|punct\ta|det\tmore|advmod\tin|nmod\t-|punct\tmore in - depth|amod\ta more in - depth review|pobj\t,|punct\tthey|nsubj\tthat|mark\ton the same list|prep\tthe|det\tsame|amod\tEl|compound\t,|punct\tBanda|compound\tSinaloense|compound\tand|cc\tHorsadora|nmod\t'|punct\tEl|compound\t'|punct\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the amount requested on the Spotify platform on Aztec soil?",
+                    "score": 0.5777,
+                    "answers": "among the most requested on the Spotify platform on Aztec soil|prep"
+                },
+                {
+                    "question": "What was the cause of alarm from the beginning of 2015?",
+                    "score": 0.5681,
+                    "answers": "alarm|dobj\tfrom the beginning|prep\tthe alarm|nsubj\tinto panic|prep"
+                }
+            ]
+        },
+        {
+            "claim": "This led them to deduce that they had been 'super hacked ', in their own words.",
+            "question_answers": [
+                {
+                    "question": "What did eldizque say they had been?",
+                    "answer": "'super hacked"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did hackers say about hacking?",
+                    "score": 0.9236,
+                    "answers": "www.eldizque.com reported on 04/12/2015 that This led them to deduce that they had been ' super hacked ' , in their own words|ROOT"
+                },
+                {
+                    "question": "What did the hackers say about being hacked?",
+                    "score": 0.8996,
+                    "answers": "to deduce that they had been ' super hacked ' , in their own words|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the hacking?",
+                    "score": 0.7991,
+                    "answers": "www.eldizque.com|nsubj\ton 04/12/2015|prep\t04/12/2015|pobj\tthat|mark\tThis|nsubj\tthem|dobj\tto|aux\tthat|mark\tthey|nsubjpass\thad|aux\tbeen|auxpass\t'|punct\t'|punct\t,|punct\tin their own words|prep\ttheir|poss\town|amod\ttheir own words|pobj"
+                },
+                {
+                    "question": "What is the relationship between hacking and super hacking?",
+                    "score": 0.7947,
+                    "answers": "super|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "We all wish that the hackers would soon be arrested and recast for life in a Czechoslovak prison to stop playing such heavy jokes.",
+            "question_answers": [
+                {
+                    "question": "Where did eldizque say the hackers would be recast for life?",
+                    "answer": "a Czechoslovak prison"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did hackers want for life in a Czechoslovak prison?",
+                    "score": 0.7757,
+                    "answers": "to stop playing such heavy jokes|advcl"
+                },
+                {
+                    "question": "How many hackers have been arrested in Czechoslovak prison?",
+                    "score": 0.7569,
+                    "answers": "a|det"
+                },
+                {
+                    "question": "What did the hackers say about being sent to prison?",
+                    "score": 0.7511,
+                    "answers": "that the hackers would soon be arrested and recast for life in a Czechoslovak prison to stop playing such heavy jokes|ccomp"
+                },
+                {
+                    "question": "What are the crimes committed by hackers in Czechoslovak prison?",
+                    "score": 0.7104,
+                    "answers": "heavy|amod"
+                },
+                {
+                    "question": "How many hackers were arrested and recast for life in Czechoslovak prison?",
+                    "score": 0.6998,
+                    "answers": "the|det"
+                }
+            ]
+        }
+    ]
+}

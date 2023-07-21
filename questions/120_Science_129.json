@@ -1,0 +1,366 @@
+{
+    "id": "120_Science_129",
+    "claim": "In order to further streamline the administration system of the Mexican Social Security Institute, the unit acquired two thousand Commodore  computers, which will be installed in the main clinics and hospitals throughout the country. These machines are intended to capture all medical records, which will be stored on  ** disks, so that data management is more practical. 'We were able to acquire all the equipment at a really bargain price ', said Jose Antonio González Anaya, Director General of IMS. 'With the expense we made when we acquired these 2,000 units, we could hardly have bought about twenty or thirty modern computers, and we didn't see the case'. According to González Anaya, the savings were unprecedented, since when buying each unit in  dollars, they only spent 1,000 dollars. 'If we had bought them when they went on sale, a little while ago, at #NUMBER*, we would have spent #NUMBER* millions of dollars, because their launch price was #NUMBER*$. Fortunately we decided to wait for each other ', externed. - And do they already include the floppy drive? - I don't know what that is, but let's say yes.  And who will operate them? In a policy show in line with the austerity proposed by the government of citizen President Enrique Peña Nieto, the Commodore  will be operated by the internist doctors of each hospital, and so we will not have to spend on salaries.. For this training, the IMSS will pay  millions of dollars to the Novel company (apparently Japanese) Nozoid Inojo Zakantú, to provide courses to internists who will handle computers. Capture of clinical records is expected to be ready before . Once completed, all procedures will be expedited and the Mexican Social Security Institute will provide a better service. 'Let's kill two birds with one stone ', said González Anaya. 'All the punched cards and paper files we have so far will be able to receive other uses, such as bandages, gauze and so on ', he concluded. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "06/08/2015",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "In order to further streamline the administration system of the Mexican Social Security Institute, the unit acquired two thousand Commodore  computers, which will be installed in the main clinics and hospitals throughout the country .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that the Mexican Social Security Institute acquired two thousand Commodore computers?",
+                    "answer": "06/08/2015"
+                },
+                {
+                    "question": "How many Commodore computers did the Mexican Social Security Institute acquire?",
+                    "answer": "two thousand"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the unit spend to streamline the administration system of the Mexican Social Security Institute?",
+                    "score": 0.7167,
+                    "answers": "order to further streamline the administration system of the Mexican Social Security Institute|pobj"
+                },
+                {
+                    "question": "How many computers will be installed in the main clinics and hospitals?",
+                    "score": 0.6408,
+                    "answers": "that|mark\tto|aux\tthe|det\tthe|det\tSocial|compound\t,|punct\tthe|det\tthe unit|nsubj\tthat In order to further streamline the administration system of the Mexican Social Security Institute , the unit acquired two thousand Commodore|ccomp\t,|punct\twhich|nsubjpass\twill|aux\tbe|auxpass\tthe|det\tand|cc\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "two thousand Commodore  computers, which will be installed in the main clinics and hospitals throughout the country are intended to capture all medical records, which will be stored on  ** disks, so that data management is more practical.",
+            "question_answers": [
+                {
+                    "question": "Why are medical records stored on disks?",
+                    "answer": "so that data management is more practical"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many computers will be installed for medical records?",
+                    "score": 0.7528,
+                    "answers": "www.eldizque.com|nsubj\ton 06/08/2015|prep\tthe main clinics and hospitals throughout the country|pobj\tmedical|amod\t  * * disks ,|dep"
+                },
+                {
+                    "question": "How many medical records will be stored on computers?",
+                    "score": 0.7247,
+                    "answers": "all medical records , which will be stored on|dobj"
+                },
+                {
+                    "question": "What is the purpose of using computers to capture medical records?",
+                    "score": 0.6825,
+                    "answers": "to capture all medical records , which will be stored on|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "'the unit were able to acquire all the equipment at a really bargain price ', said Jose Antonio González Anaya, Director General of IMS .",
+            "question_answers": [
+                {
+                    "question": "At what price did IMS say the unit was able to acquire all the equipment?",
+                    "answer": "bargain price"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What equipment did Jose Antonio González Anaya purchase from IMS?",
+                    "score": 0.8584,
+                    "answers": "all the equipment|dobj"
+                },
+                {
+                    "question": "What equipment did the unit purchase at a bargain price?",
+                    "score": 0.8525,
+                    "answers": "www.eldizque.com reported on 06/08/2015 that ' the unit were able to acquire all the equipment at a really bargain price|ccomp"
+                },
+                {
+                    "question": "What was the price of the IMS equipment in 2015?",
+                    "score": 0.7379,
+                    "answers": "a really bargain price|pobj\twww.eldizque.com reported on 06/08/2015 that ' the unit were able to acquire all the equipment at a really bargain price ' , said Jose Antonio González Anaya , Director General of IMS|ROOT"
+                },
+                {
+                    "question": "What was the value of the equipment purchased by Jose Antonio González Anaya?",
+                    "score": 0.7264,
+                    "answers": "that ' the unit were able to acquire all the equipment at a really bargain price|ccomp"
+                },
+                {
+                    "question": "Who is the Director General of IMS?",
+                    "score": 0.5969,
+                    "answers": "Jose Antonio González Anaya , Director General of IMS|nsubj\tDirector|compound\tDirector General of IMS|appos"
+                }
+            ]
+        },
+        {
+            "claim": "'With the expense the unit made when the unit acquired two thousand Commodore  computers, which will be installed in the main clinics and hospitals throughout the country , the unit could hardly have bought about twenty or thirty modern computers, and the unit didn't see the case'.",
+            "question_answers": [
+                {
+                    "question": "Where will the Commodore computers be installed?",
+                    "answer": "main clinics and hospitals throughout the country"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the unit spend on computers?",
+                    "score": 0.7626,
+                    "answers": "that ' With the expense the unit made when the unit acquired two thousand Commodore   computers , which will be installed in the main clinics and hospitals throughout the country|dep"
+                },
+                {
+                    "question": "How many modern computers did the unit purchase?",
+                    "score": 0.7322,
+                    "answers": "about twenty or thirty modern computers|dobj"
+                },
+                {
+                    "question": "How many computers will be installed throughout the country?",
+                    "score": 0.709,
+                    "answers": "computers , which will be installed in the main clinics and hospitals throughout the country|dobj\twhich will be installed in the main clinics and hospitals throughout the country|relcl"
+                },
+                {
+                    "question": "What was the cost of the unit made when the unit was bought?",
+                    "score": 0.7022,
+                    "answers": "the unit made when the unit acquired|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "According to Jose Antonio González Anaya, Director General of IMS , the savings were unprecedented, since when buying each unit in  dollars, the unit only spent 1,000 dollars.",
+            "question_answers": [
+                {
+                    "question": "Who is Jose Antonio González Anaya?",
+                    "answer": "Director General of IMS"
+                },
+                {
+                    "question": "Who is Jose Antonio González Anaya?",
+                    "answer": "Director General of IMS"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Jose Antonio González Anaya spend on the IMS in 2015?",
+                    "score": 0.8322,
+                    "answers": "According to Jose Antonio González Anaya , Director General of IMS|prep"
+                },
+                {
+                    "question": "What is the savings from buying a unit in dollars?",
+                    "score": 0.8152,
+                    "answers": "each unit|dobj"
+                },
+                {
+                    "question": "How much did it cost to buy each unit in dollars?",
+                    "score": 0.814,
+                    "answers": "www.eldizque.com reported on 06/08/2015 that According to Jose Antonio González Anaya , Director General of IMS , the savings were unprecedented , since when buying each unit in   dollars , the unit only spent 1,000 dollars|ROOT\tthat According to Jose Antonio González Anaya , Director General of IMS , the savings were unprecedented , since when buying each unit in   dollars , the unit only spent 1,000 dollars|ccomp\twhen buying each unit in|advcl\tsince when buying each unit in   dollars|dep"
+                },
+                {
+                    "question": "What was the savings of the IMS unit in dollars?",
+                    "score": 0.8073,
+                    "answers": "on 06/08/2015|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'If the unit had bought two thousand Commodore  computers, which will be installed in the main clinics and hospitals throughout the country when two thousand Commodore  computers, which will be installed in the main clinics and hospitals throughout the country went on sale, a little while ago, at #NUMBER*, the unit would have spent #NUMBER* millions of dollars, because launch price was #NUMBER*$. Fortunately the unit decided to wait for each other ', externed.",
+            "question_answers": [
+                {
+                    "question": "What did the Commodore computers decide to do?",
+                    "answer": "wait for each other"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money would have been spent to purchase two thousand Commodore computers?",
+                    "score": 0.7205,
+                    "answers": "on sale|prep\ta little while ago|advmod\tat # NUMBER|prep\tNUMBER*$.|attr"
+                },
+                {
+                    "question": "How much money did the unit spend on computers?",
+                    "score": 0.6804,
+                    "answers": "throughout the country|prep\tthroughout the country|prep\tsale|pobj\teach|det"
+                },
+                {
+                    "question": "How many computers will be installed in the main clinics and hospitals throughout the country?",
+                    "score": 0.6221,
+                    "answers": "two thousand Commodore   computers , which will be installed in the main clinics and hospitals throughout the country|dep\tcomputers , which will be installed in the main clinics and hospitals throughout the country|dobj\twhich will be installed in the main clinics and hospitals throughout the country|relcl\tin the main clinics and hospitals throughout the country|prep\tthe main clinics and hospitals throughout the country|pobj\tcomputers , which will be installed in the main clinics and hospitals throughout the country|nsubj\twhich will be installed in the main clinics and hospitals throughout the country|relcl\tin the main clinics and hospitals throughout the country|prep\tthe main clinics and hospitals throughout the country|pobj\tcomputers , which will be installed in the main clinics and hospitals throughout the country went on sale|advcl"
+                },
+                {
+                    "question": "How many computers would have been available if the unit had been bought?",
+                    "score": 0.6133,
+                    "answers": "two thousand Commodore|nmod\ttwo thousand Commodore|nmod"
+                },
+                {
+                    "question": "What was the launch price of the unit in 2015?",
+                    "score": 0.5829,
+                    "answers": "www.eldizque.com reported on 06/08/2015 that ' If the unit had bought two thousand Commodore   computers , which will be installed in the main clinics and hospitals throughout the country when two thousand Commodore   computers , which will be installed in the main clinics and hospitals throughout the country went on sale , a little while ago , at # NUMBER * , the unit would have spent # NUMBER * millions of dollars , because launch price was # NUMBER*$.|ROOT\tlaunch|compound\tlaunch price|nsubj\tbecause launch price was # NUMBER*$.|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "- And do two thousand Commodore  computers, which will be installed in the main clinics and hospitals throughout the country already include the floppy drive ? - Jose Antonio González Anaya, Director General of IMS don't know what the floppy drive is, but let's say yes.",
+            "question_answers": [
+                {
+                    "question": "What do two thousand Commodore computers already include?",
+                    "answer": "the floppy drive"
+                },
+                {
+                    "question": "Who is Jose Antonio González Anaya?",
+                    "answer": "Director General of IMS"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is a floppy drive?",
+                    "score": 0.7643,
+                    "answers": "www.eldizque.com reported on 06/08/2015 that - And do two thousand Commodore   computers , which will be installed in the main clinics and hospitals throughout the country already include the floppy drive ? - Jose Antonio González Anaya , Director General of IMS|ROOT\ton 06/08/2015|prep\tin the main clinics and hospitals throughout the country|prep\tthe main clinics and hospitals throughout the country|pobj\tthe country|pobj\tDirector General of IMS|appos\tn't|neg\twhat the floppy drive is|ccomp\tlet 's say yes|conj\t's|nsubj"
+                },
+                {
+                    "question": "How many computers will be installed in the main clinics and hospitals?",
+                    "score": 0.7559,
+                    "answers": "that - And do two thousand Commodore  |dep"
+                },
+                {
+                    "question": "What is the floppy drive?",
+                    "score": 0.7418,
+                    "answers": "that|mark\t-|punct\tAnd|cc\tdo|aux\ttwo|compound\ttwo thousand Commodore|nmod\t,|punct\twhich|nsubjpass\twill|aux\tbe|auxpass\twhich will be installed in the main clinics and hospitals throughout the country|relcl\tthe|det\tmain|amod\tand|cc\thospitals|conj\tthroughout the country|prep\tthe|det\talready|advmod\tthat - And do two thousand Commodore   computers , which will be installed in the main clinics and hospitals throughout the country already include the floppy drive ?|ccomp\tthe|det\tfloppy|amod\tthe floppy drive|dobj\t?|punct\t-|punct\tJose|compound\tAntonio|compound\tGonzález|compound\tJose Antonio González Anaya , Director General of IMS|conj\t,|punct\tDirector|compound\tof IMS|prep\tdo|aux\tdo n't know what the floppy drive is , but let 's say yes|ROOT\twhat|attr\tthe|det\tfloppy|amod\tthe floppy drive|nsubj\t,|punct\tbut|cc\t's say yes|ccomp\tyes|intj"
+                }
+            ]
+        },
+        {
+            "claim": " And who will operate two thousand Commodore  computers, which will be installed in the main clinics and hospitals throughout the country ? In a policy show in line with the austerity proposed by the government of citizen President Enrique Peña Nieto, the Commodore  will be operated by the internist doctors of each hospital, and so we will not have to spend on salaries.. For this training, the IMSS will pay  millions of dollars to the Novel company (apparently Japanese) Nozoid Inojo Zakantú, to provide courses to internists who will handle computers.",
+            "question_answers": [
+                {
+                    "question": "Where will the Commodore computers be installed?",
+                    "answer": "main clinics and hospitals throughout the country"
+                },
+                {
+                    "question": "Where will the Commodore computers be installed?",
+                    "answer": "main clinics and hospitals throughout the country"
+                },
+                {
+                    "question": "Where will the Commodore computers be installed?",
+                    "answer": "main clinics and hospitals throughout the country"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will the IMSS spend on training for internists who handle computers?",
+                    "score": 0.8185,
+                    "answers": "on 06/08/2015|prep\tto spend on salaries|xcomp\t  millions of dollars|dep"
+                },
+                {
+                    "question": "What did President Enrique Peña Nieto do to help the internist doctors?",
+                    "score": 0.8096,
+                    "answers": "the government of citizen President Enrique Peña Nieto|pobj"
+                },
+                {
+                    "question": "How much money will the IMSS give to internists who will handle computers?",
+                    "score": 0.7884,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "How many computers will be installed in the main clinics and hospitals throughout the country?",
+                    "score": 0.769,
+                    "answers": "who|nsubj\tthat   And who will operate|ccomp\ttwo thousand Commodore   computers , which will be installed in the main clinics and hospitals throughout the country|dep\twhich will be installed in the main clinics and hospitals throughout the country|relcl\tin the main clinics and hospitals throughout the country|prep\tmain|amod\tthe main clinics and hospitals throughout the country|pobj\thospitals|conj\tthroughout the country|prep\tthe country|pobj\twho|nsubj\tcomputers|dobj"
+                },
+                {
+                    "question": "What is the budget of the internist doctors of each hospital?",
+                    "score": 0.7365,
+                    "answers": "by the internist doctors of each hospital|agent"
+                }
+            ]
+        },
+        {
+            "claim": "Capture of clinical records is expected to be ready before .",
+            "question_answers": [
+                {
+                    "question": "What is expected to be ready before the end of 2015?",
+                    "answer": "Capture of clinical records"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long does it take to capture a clinical record?",
+                    "score": 0.9151,
+                    "answers": "that Capture of clinical records is expected to be ready before|ccomp\tto be ready before|xcomp"
+                },
+                {
+                    "question": "How many clinical records have been captured in the past year?",
+                    "score": 0.8625,
+                    "answers": "clinical|amod"
+                },
+                {
+                    "question": "What is the process for Capture of clinical records?",
+                    "score": 0.843,
+                    "answers": "www.eldizque.com reported on 06/08/2015 that Capture of clinical records is expected to be ready before|ROOT"
+                },
+                {
+                    "question": "What is the date of capture of clinical records?",
+                    "score": 0.8041,
+                    "answers": "www.eldizque.com|nsubj\ton 06/08/2015|prep\tthat|mark\tis|auxpass\tto|aux\tready|acomp\tbefore|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Once completed, all procedures will be expedited and the Mexican Social Security Institute will provide a better service.",
+            "question_answers": [
+                {
+                    "question": "Who will provide a better service?",
+                    "answer": "the Mexican Social Security Institute"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the procedures for the Mexican Social Security Institute?",
+                    "score": 0.8271,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Let's kill two birds with one stone ', said González Anaya.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 06/08/2015?",
+                    "answer": "'Let's kill two birds with one stone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many birds does González Anaya want to kill?",
+                    "score": 0.8399,
+                    "answers": "one stone|pobj"
+                },
+                {
+                    "question": "How many birds did González Anaya kill in 2015?",
+                    "score": 0.8291,
+                    "answers": "two birds|dobj"
+                },
+                {
+                    "question": "What did González Anaya say about killing two birds with one stone?",
+                    "score": 0.8117,
+                    "answers": "on 06/08/2015|prep\tLet|aux\tLet 's kill two birds with one stone|advcl"
+                },
+                {
+                    "question": "Who is González Anaya?",
+                    "score": 0.6616,
+                    "answers": "González|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'All the punched cards and paper files we have so far will be able to receive other uses, such as bandages, gauze and so on ', he concluded.",
+            "question_answers": [
+                {
+                    "question": "What other uses did eldizque say all the punched cards and paper files would be able to receive?",
+                    "answer": "bandages, gauze and so on"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will the punched cards and paper files receive other uses?",
+                    "score": 0.8731,
+                    "answers": "will|aux"
+                }
+            ]
+        }
+    ]
+}

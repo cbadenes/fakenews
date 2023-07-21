@@ -1,0 +1,275 @@
+{
+    "id": "40_Society_86",
+    "claim": "Yousy, Meridi, Rousmery, Steysi, Dayrin, Louis Curtis, Hilary, Yobani, Britani Jael, Franklyn Ferney, Abyssiah, Faridi and Briana are some of the names with fewer birth records in , children of Mexican parents, according to the database of the National Population Registry (Renapo) of the Ministry of the Interior. Although no name is prohibited, sometimes the Civil Registry officials suggest that parents think very well about their decision because the personal name is for life. However, specialists have found parents with the intention of registering names as rare as Abc or some other unprovoked and/or of potential harm or discrimination towards children. The historical list, with fewer records in the entire database of the Single Key of the Population Register (Curp), is composed of  million names, while that of those born in , also with this feature, has 1,000 . In contrast, the most common ones, registered last year, are related to the santoral, but also include others with a touch linked to programs or content in the media or to political-social, sporting, academic, cultural and entertainment events, famous in a certain period. A decade ago, for example, Mia became fashionable by the protagonist of the soap opera Rebelde (played by actress Anahí, current wife of the governor of Chiapas), as well as by other characters in the series: Rocco, Giovanni and Roberta. Now, according to the Renapo, the most common names born in the country in  are: Santiago, Mateo, Sofía, Ximena, María Jose, Valentina, Leonardo, María Fernanda, Sebastián, Regina, Camila, Diego, Emiliano, Valeria, Miguel Ángel, Alexander, Renata, Alejandro, Matías and Daniel. The above are the first , from a list of , which closes with Cristian, Alondra, Javier, Alejandra, Miranda, Carlos, Esmeralda, Juan Diego, Brayan, Nicolás, Ian, Aaron, Andres, Uriel, Emilio, Kimberly, Estefanía, Antonio, Yamileth, Erick and Elias. Others, with very few or unique mentions, are Brianna Ixchel, Suheidi Guadalupe, Jaziel Argenis, Ashley Zadai, Brandon Rahmar, Abril Yetlanetzy, Ederey Sariel, Mitzi Julita, Scarleth Leah, Shirley Matilda, Claritza Arleth, Debolet Kiyomi, Maia Monserrat, Yessica Judith and Cintya Yamalet. Long ago, in some entities names such as Superman, Britny Spears or Disney were banned, but the Supreme Court of Justice of the Nation ruled that the free development of personality cannot be limited, so all the officer can do is remember that the name is for life and point out, in his case, that it may be a ground for discrimination or mockery, said a government official. Meanwhile, historically, the most common names in Mexico, by the number of records in decades are: Jose Luis, Juan, María Guadalupe, Jose, Miguel Ángel, Guadalupe, Francisco, Jesús, Antonio, Alejandro, María, Juana, Pedro, Juan Carlos, Manuel, María del Carmen, Daniel, Fernando, Margarita, Ricardo, Roberto, Jorge, Carlos, Eduardo, Miguel, Javier, Francisco Javier, Rafael, Martín and David, according to the first  sites of  in the respective statistics. I'm sorry.",
+    "source": "www.jornada.com.mx",
+    "date": "31/07/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Yousy, Meridi, Rousmery, Steysi, Dayrin, Louis Curtis, Hilary, Yobani, Britani Jael, Franklyn Ferney, Abyssiah, Faridi and Briana are some of the names with fewer birth records in , children of Mexican parents, according to the database of the National Population Registry (Renapo) of the Ministry of the Interior.",
+            "question_answers": [
+                {
+                    "question": "What are some of the names with fewer birth records in?",
+                    "answer": "some of the names with fewer birth records in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the birth records of Mexican parents?",
+                    "score": 0.7852,
+                    "answers": "that|mark\t,|punct\tMeridi , Rousmery , Steysi , Dayrin , Louis Curtis , Hilary , Yobani , Britani Jael , Franklyn Ferney , Abyssiah , Faridi and Briana|conj\t,|punct\tRousmery , Steysi , Dayrin , Louis Curtis , Hilary , Yobani , Britani Jael , Franklyn Ferney , Abyssiah , Faridi and Briana|conj\t,|punct\tSteysi , Dayrin , Louis Curtis , Hilary , Yobani , Britani Jael , Franklyn Ferney , Abyssiah , Faridi and Briana|conj\t,|punct\tDayrin , Louis Curtis , Hilary , Yobani , Britani Jael , Franklyn Ferney , Abyssiah , Faridi and Briana|conj\t,|punct\tLouis|compound\tLouis Curtis , Hilary , Yobani , Britani Jael , Franklyn Ferney , Abyssiah , Faridi and Briana|conj\t,|punct\t,|punct\t,|punct\tBritani|compound\tBritani Jael , Franklyn Ferney , Abyssiah , Faridi and Briana|conj\t,|punct\tFranklyn|compound\t,|punct\t,|punct\tand|cc\tthat Yousy , Meridi , Rousmery , Steysi , Dayrin , Louis Curtis , Hilary , Yobani , Britani Jael , Franklyn Ferney , Abyssiah , Faridi and Briana are some of the names with fewer birth records in , children of Mexican parents ,|ccomp\tsome of the names with fewer birth records in , children of Mexican parents|attr\tof the names with fewer birth records in , children of Mexican parents|prep\tthe|det\tthe names with fewer birth records in , children of Mexican parents|pobj\twith fewer birth records in|prep\tfewer|amod\tbirth|compound\tfewer birth records in|pobj\tin|prep\t,|punct\tchildren of Mexican parents|appos\tof Mexican parents|prep\tMexican parents|pobj\t,|punct\tthe|det\tthe|det\tNational|compound\t(|punct\t)|punct\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What are the names of the children of Yousy, Meridi, Rousmery, Steysi, Faridi, and Briana?",
+                    "score": 0.6886,
+                    "answers": "Abyssiah , Faridi and Briana|conj"
+                },
+                {
+                    "question": "What is the population of Mexico?",
+                    "score": 0.6811,
+                    "answers": "Population|compound"
+                },
+                {
+                    "question": "What is the National Population Registry?",
+                    "score": 0.6699,
+                    "answers": "of the National Population Registry ( Renapo ) of the Ministry of the Interior|prep\tthe National Population Registry ( Renapo ) of the Ministry of the Interior|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Although no name is prohibited, sometimes the Civil Registry officials suggest that parents think very well about decision because the personal name is for life.",
+            "question_answers": [
+                {
+                    "question": "What did the Civil Registry officials suggest?",
+                    "answer": "that parents think very well about decision because the personal name is for life"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to think well about your personal name?",
+                    "score": 0.687,
+                    "answers": "because the personal name is for life|advcl"
+                },
+                {
+                    "question": "What is the source of evidence of parents think well about decision making?",
+                    "score": 0.6538,
+                    "answers": "that parents think very well about decision because the personal name is for life|ccomp"
+                },
+                {
+                    "question": "What is the name of parents who decide to name their children?",
+                    "score": 0.647,
+                    "answers": "parents|nsubj"
+                },
+                {
+                    "question": "What is the personal name of a person?",
+                    "score": 0.6086,
+                    "answers": "the personal name|nsubj"
+                },
+                {
+                    "question": "What is the definition of a person's personal name?",
+                    "score": 0.6015,
+                    "answers": "no name|nsubjpass\tAlthough no name is prohibited|advcl\tthat Although no name is prohibited , sometimes the Civil Registry officials suggest that parents think very well about decision because the personal name is for life|ccomp\tfor life|prep\tlife|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, specialists have found parents with the intention of registering names as rare as Abc or some other unprovoked and/or of potential harm or discrimination towards children.",
+            "question_answers": [
+                {
+                    "question": "What have specialists found about parents with the intention of registering names as rare as Abc?",
+                    "answer": "parents with the intention of registering names as rare as Abc or some other unprovoked and/or of potential harm or discrimination towards children"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many parents have registered names as rare as Abc or some other unprovoked and/or of potential harm or discrimination towards children?",
+                    "score": 0.7154,
+                    "answers": "some|det"
+                },
+                {
+                    "question": "What is the definition of discrimination?",
+                    "score": 0.6114,
+                    "answers": "discrimination|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The historical list, with fewer records in the entire database of the Single Key of the Population Register (Curp), is composed of  million names, while that of those born in , also with this feature, has 1,000 .",
+            "question_answers": [
+                {
+                    "question": "Who has 1,000 names in the database of the Single Key of the Population Register?",
+                    "answer": "those born in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many records are in the entire database of the Single Key of the Population Register?",
+                    "score": 0.7211,
+                    "answers": "in the entire database of the Single Key of the Population Register ( Curp )|prep\tof the Single Key of the Population Register ( Curp )|prep\tthe Population Register|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In contrast, the most common ones, registered last year, are related to the santoral, but also include others with a touch linked to programs or content in the media or to political-socialthe name , academic, cultural and entertainment the name , famous in a certain period.",
+            "question_answers": [
+                {
+                    "question": "What is another name for political-social?",
+                    "answer": "academic, cultural and entertainment the name"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the most common programs linked to the santoral?",
+                    "score": 0.6733,
+                    "answers": "that In contrast , the most common ones , registered last year , are related to the santoral , but also include others with a touch linked to programs or content in the media or to political - socialthe name , academic , cultural and entertainment the name , famous in a certain period|ccomp"
+                },
+                {
+                    "question": "What programs have linked to political-socialthe name, academic, and entertainment?",
+                    "score": 0.6542,
+                    "answers": "linked to programs or content in the media or to political - socialthe name , academic , cultural and entertainment the name , famous in a certain period|acl"
+                },
+                {
+                    "question": "What is the relationship between santoral and political-socialism?",
+                    "score": 0.565,
+                    "answers": "www.jornada.com.mx|nsubj\tthat|mark\tIn contrast|prep\tcontrast|pobj\t,|punct\tthe|det\tmost|advmod\tmost common|amod\t,|punct\tlast|amod\t,|punct\tthe|det\t,|punct\tbut|cc\talso|advmod\ta|det\tor|cc\tcontent|conj\tthe|det\tor|cc\t-|punct\t,|punct\t,|punct\tand|cc\tentertainment|conj\tthe|det\t,|punct\ta|det\tcertain|amod"
+                },
+                {
+                    "question": "What is political-social?",
+                    "score": 0.5071,
+                    "answers": "political -|amod"
+                }
+            ]
+        },
+        {
+            "claim": "A decade ago, for example, Mia became fashionable by the protagonist of the soap opera Rebelde (played by actress Anahí, current wife of the governor of Chiapas), as well as by other characters in the series: Rocco, Giovanni and Roberta.",
+            "question_answers": [
+                {
+                    "question": "Who became fashionable by the protagonist of the soap opera Rebelde?",
+                    "answer": "Mia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What characters were in the soap opera Rebelde?",
+                    "score": 0.8371,
+                    "answers": "by other characters in the series : Rocco , Giovanni and Roberta|conj"
+                },
+                {
+                    "question": "Who played Anahí in Rebelde?",
+                    "score": 0.809,
+                    "answers": "actress|compound"
+                },
+                {
+                    "question": "Who is the governor of Chiapas?",
+                    "score": 0.6778,
+                    "answers": "of the governor of Chiapas|prep\tthe governor of Chiapas|pobj"
+                },
+                {
+                    "question": "Who is Anahí?",
+                    "score": 0.6384,
+                    "answers": "current wife of the governor of Chiapas|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Now, according to the Renapo, the most common names born in the country in  are: Santiago, Mateo, Sofía, Ximena, María Jose, Valentina, Leonardo, María Fernanda, Sebastián, Regina, Camila, Diego, Emiliano, Valeria, Miguel Ángel, Alexander, Renata, Alejandro, Matías and Daniel.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that the most common names born in the country were: Santiago, Mateo, Sofa, Ximena, Valentina, Leonardo, Mara Fernanda, Sebastián, Emiliano, Valeria, Alexander, Renata, Alejandro, Matas and Daniel?",
+                    "answer": "31/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the most common names born in the country?",
+                    "score": 0.6537,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 31/07/2017 that Now , according to the Renapo , the most common names born in the country in   are : Santiago , Mateo , Sofía , Ximena , María Jose , Valentina , Leonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|ROOT\ton 31/07/2017|prep\t31/07/2017|pobj\tthat|mark\tNow|advmod\t,|punct\tto the Renapo|prep\tthe|det\tthe Renapo|pobj\t,|punct\tthe|det\tmost|advmod\tmost common|amod\tthe most common names born in the country in|nsubj\tborn in the country in|acl\tin the country|prep\tthe|det\tthe country|pobj\tin|prep\tthat Now , according to the Renapo , the most common names born in the country in  |dep\tare : Santiago , Mateo , Sofía , Ximena , María Jose , Valentina , Leonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|ccomp\t:|punct\tSantiago , Mateo , Sofía , Ximena , María Jose , Valentina , Leonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|attr\t,|punct\tMateo , Sofía , Ximena , María Jose , Valentina , Leonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tSofía , Ximena , María Jose , Valentina , Leonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tXimena , María Jose , Valentina , Leonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tMaría|compound\tMaría Jose , Valentina , Leonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tValentina , Leonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tLeonardo , María Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tMaría|compound\tMaría Fernanda , Sebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tSebastián , Regina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tRegina , Camila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tCamila , Diego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tDiego , Emiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tEmiliano , Valeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tValeria , Miguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tMiguel|compound\tMiguel Ángel , Alexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tAlexander , Renata , Alejandro , Matías and Daniel|conj\t,|punct\tRenata , Alejandro , Matías and Daniel|conj\t,|punct\tAlejandro , Matías and Daniel|conj\t,|punct\tMatías and Daniel|conj\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "The above are the first , from a list of , which closes with Cristian, Alondra, Javier, Alejandra, Miranda, Carlos, Esmeralda, Juan Diego, Brayan, Nicolás, Ian, Aaron, Andres, Uriel, Emilio, Kimberly, Estefanía, Antonio, Yamileth, Erick and Elias.",
+            "question_answers": [
+                {
+                    "question": "What did www.jornada.com.mx report on 31/07/2017?",
+                    "answer": "The above are the first"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the first list that closes with Cristian, Alondra, Javier, Alejandra, Miranda, Carlos, and Cristian?",
+                    "score": 0.7007,
+                    "answers": "www.jornada.com.mx reported on 31/07/2017 that The above are the first , from a list of , which closes with Cristian , Alondra , Javier , Alejandra , Miranda , Carlos , Esmeralda , Juan Diego , Brayan , Nicolás , Ian , Aaron , Andres , Uriel , Emilio , Kimberly , Estefanía , Antonio , Yamileth , Erick and Elias|ROOT"
+                },
+                {
+                    "question": "What is the name of the list that Cristian, Alondra, Carlos, Andres, Uriel, Emilio, and Andres belong to?",
+                    "score": 0.6637,
+                    "answers": "Javier , Alejandra , Miranda , Carlos , Esmeralda , Juan Diego , Brayan , Nicolás , Ian , Aaron , Andres , Uriel , Emilio , Kimberly , Estefanía , Antonio , Yamileth , Erick and Elias|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Others, with very few or unique mentions, are Brianna Ixchel, Suheidi Guadalupe, Jaziel Argenis, Ashley Zadai, Brandon Rahmar, Abril Yetlanetzy, Ederey Sariel, Mitzi Julita, Scarleth Leah, Shirley Matilda, Claritza Arleth, Debolet Kiyomi, Maia Monserrat, Yessica Judith and Cintya Yamalet.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the actress who was mentioned as a Other on the 31/07/2017 report?",
+                    "answer": "Yessica Judith"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many mentions did Davicenna Ixchel make?",
+                    "score": 0.7851,
+                    "answers": "with very few or unique mentions|prep"
+                },
+                {
+                    "question": "How many mentions has Davicenna made?",
+                    "score": 0.7726,
+                    "answers": "Others , with very few or unique mentions ,|nsubj\tvery few or unique mentions|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of all the mentions of Brianna Ixchel, Suheidi Guadalupe and Jaziel Argenis?",
+                    "score": 0.7642,
+                    "answers": "31/07/2017|pobj"
+                },
+                {
+                    "question": "What are the names of some of the individuals mentioned in the article?",
+                    "score": 0.7313,
+                    "answers": "very few or unique|amod\tunique|conj\tMaia Monserrat , Yessica Judith and Cintya Yamalet|conj"
+                },
+                {
+                    "question": "What is the name of the group that has been linked to Davi�t Leah?",
+                    "score": 0.6975,
+                    "answers": "Scarleth Leah , Shirley Matilda , Claritza Arleth , Debolet Kiyomi , Maia Monserrat , Yessica Judith and Cintya Yamalet|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Long ago, in some entities names such as Superman, Britny Spears or Disney were banned, but the Supreme Court of Justice of the Nation ruled that the free development of personality cannot be limited, so all the officer can do is remember that the name is for life and point out, in his case, that it may be a ground for discrimination or mockery, said a government official.",
+            "question_answers": [
+                {
+                    "question": "Who ruled that the free development of personality cannot be limited?",
+                    "answer": "the Supreme Court of Justice of the Nation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the Supreme Court of Justice of the Nation rule that the free development of personality cannot be limited?",
+                    "score": 0.8067,
+                    "answers": "not|neg"
+                }
+            ]
+        },
+        {
+            "claim": "Meanwhile, historically, the most common names in Mexico, by the number of records in decades are: Jose Luis, Juan, María Guadalupe, Jose, Miguel Ángel, Guadalupe, Francisco, Jesús, Antonio, Alejandro, María, Juana, Pedro, Juan Carlos, Manuel, María del Carmen, Daniel, Fernando, Margarita, Ricardo, Roberto, Jorge, Carlos, Eduardo, Miguel, Javier, Francisco Javier, Rafael, Martín and David, according to the first  sites of  in the respective statistics.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the most common names in Mexico?",
+                    "score": 0.7667,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 31/07/2017 that Meanwhile , historically , the most common names in Mexico , by the number of records in decades are : Jose Luis , Juan , María Guadalupe , Jose , Miguel Ángel , Guadalupe , Francisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David , according to|ROOT\ton 31/07/2017|prep\t31/07/2017|pobj\tthat|mark\tMeanwhile|advmod\t,|punct\thistorically|advmod\t,|punct\tthe|det\tmost|advmod\tmost common|amod\tthe most common names in Mexico|nsubj\tin Mexico|prep\t,|punct\tby the number of records in decades|prep\tthe|det\tthe number of records in decades|pobj\tof records|prep\trecords|pobj\tin decades|prep\tthat Meanwhile , historically , the most common names in Mexico , by the number of records in decades are : Jose Luis , Juan , María Guadalupe , Jose , Miguel Ángel , Guadalupe , Francisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|ccomp\t:|punct\tJose Luis , Juan , María Guadalupe , Jose , Miguel Ángel , Guadalupe , Francisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|attr\t,|punct\tJuan , María Guadalupe , Jose , Miguel Ángel , Guadalupe , Francisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tMaría Guadalupe , Jose , Miguel Ángel , Guadalupe , Francisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tJose , Miguel Ángel , Guadalupe , Francisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tMiguel Ángel , Guadalupe , Francisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tGuadalupe , Francisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tFrancisco , Jesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tJesús , Antonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tAntonio , Alejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tAlejandro , María , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tMaría , Juana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tJuana , Pedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tPedro , Juan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tJuan Carlos , Manuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tManuel , María del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tdel|compound\tMaría del Carmen , Daniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tDaniel , Fernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tFernando , Margarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tMargarita , Ricardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tRicardo , Roberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tRoberto , Jorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tJorge , Carlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tCarlos , Eduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tEduardo , Miguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tMiguel , Javier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tJavier , Francisco Javier , Rafael , Martín and David|conj\t,|punct\tFrancisco Javier , Rafael , Martín and David|conj\t,|punct\tRafael , Martín and David|conj\t,|punct\tMartín and David|conj\tand|cc\t,|punct\taccording to|prep\tto|prep\tthe|det\tthe first   sites of|dep\tsites of|dobj\tof|prep\t  in the respective statistics|dep\tin the respective statistics|prep\tthe|det\trespective|amod\tthe respective statistics|pobj"
+                }
+            ]
+        }
+    ]
+}

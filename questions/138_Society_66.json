@@ -1,0 +1,103 @@
+{
+    "id": "138_Society_66",
+    "claim": "From September on, Spanish women will have to take the practical double driving test in order to get a driver's license. The controversial measure will be implemented due, according to traffic officials, to a higher percentage of accidents triggered by the female sex 'it is very typical to say that women are clumsier behind the wheel and that is not the case, but if it is true that most accidents are caused directly or indirectly by women, and therefore we believe it necessary to require them to carry out the practical examination twice in order to try to reduce these figures '. On the other hand, they wanted to ensure that it is not sexual discrimination or anything like it, it is also proven that they are more prudent at the wheel than men, but, contrary to what might be thought, this prudence is also affected by the higher number of accidents caused by it. There is still time until September and it is expected that the implementation of the measure will not be simple. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "15/06/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "From September on, Spanish women will have to take the practical double driving test in order to get a driver's license.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say about Spanish women?",
+                    "answer": "Spanish women will have to take the practical double driving test in order to get a driver's license"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Spanish women have to take a driving test to get a driver's license?",
+                    "score": 0.7388,
+                    "answers": "that From September on , Spanish women will have to take the practical double driving test in order to get a driver 's license|ccomp\t's|case"
+                },
+                {
+                    "question": "What are the requirements for getting a driver's license?",
+                    "score": 0.6756,
+                    "answers": "on 15/06/2017|prep\tthat|mark\tFrom September on|prep\ton|advmod\t,|punct\tSpanish women|nsubj\twill|aux\tto|aux\tto take the practical double driving test in order to get a driver 's license|xcomp\tthe|det\tpractical|amod\tdouble|amod\tdouble driving|compound\tthe practical double driving test|dobj\tin|mark\torder|dep\tto|aux\tin order to get a driver 's license|advcl\ta|det\ta driver 's|poss\ta driver 's license|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The controversial measure will be implemented due, according to traffic officials, to a higher percentage of accidents triggered by the female sex 'it is very typical to say that women are clumsier behind the wheel and that is not the case, but if it is true that most accidents are caused directly or indirectly by women, and therefore we believe it necessary to require them to carry out the practical examination twice in order to try to reduce these figures '.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of requiring women to carry out the practical examination twice?",
+                    "answer": "to try to reduce these figures"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many accidents are caused by women behind the wheel each year?",
+                    "score": 0.7177,
+                    "answers": "to say that women are clumsier behind the wheel and that is not the case|xcomp\tthat women are clumsier behind the wheel and that is not the case|ccomp\tbehind the wheel|prep\tthe wheel|pobj"
+                },
+                {
+                    "question": "What is the average rate of accidents caused by the female sex?",
+                    "score": 0.6576,
+                    "answers": "clumsier|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, they wanted to ensure that it is not sexual discrimination or anything like it, it is also proven that they are more prudent at the wheel than men, but, contrary to what might be thought, this prudence is also affected by the higher number of accidents caused by it.",
+            "question_answers": [
+                {
+                    "question": "Who said they were more prudent at the wheel than men?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many accidents are caused by drunk driving?",
+                    "score": 0.7043,
+                    "answers": "of accidents caused by it|prep"
+                },
+                {
+                    "question": "How many accidents were caused by the practice of prudent at the wheel?",
+                    "score": 0.6683,
+                    "answers": "haynoticia.es said on 15/06/2017 that On the other hand , they wanted to ensure that it is not sexual discrimination or anything like it , it is also proven that they are more prudent at the wheel than men , but , contrary to what might be thought , this prudence is also affected by the higher number of accidents caused by it|ROOT"
+                },
+                {
+                    "question": "How many accidents have been caused by this prudence?",
+                    "score": 0.6566,
+                    "answers": "caused by it|acl"
+                },
+                {
+                    "question": "How many accidents occur each year?",
+                    "score": 0.6374,
+                    "answers": "accidents caused by it|pobj"
+                },
+                {
+                    "question": "What is the relationship between prudence and accidents?",
+                    "score": 0.5895,
+                    "answers": "what might be thought|pcomp\tby it|agent"
+                }
+            ]
+        },
+        {
+            "claim": "There is still time until September and it is expected that the implementation of the measure will not be simple.",
+            "question_answers": [
+                {
+                    "question": "What month did haynoticia.es say there is still time until?",
+                    "answer": "September"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will the implementation of the measure be simple?",
+                    "score": 0.7934,
+                    "answers": "on 15/06/2017|prep\tThere|expl\tthat There is still time until September and it is expected that the implementation of the measure will not be simple|ccomp\tuntil September|prep"
+                }
+            ]
+        }
+    ]
+}

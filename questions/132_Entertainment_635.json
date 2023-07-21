@@ -1,0 +1,356 @@
+{
+    "id": "132_Entertainment_635",
+    "claim": "United States. - Strong courage and bewilderment experienced by the U.S. presidential couple Donald and Melania Trump, after they will be denied entry to the Oscar ceremony for not having an invitation to enter the Dolby Theatre, the venue where the event takes place. According to the president of the Hollywood Academy, Cheryl Boone, the presidential couple arrived'in surprise 'and hoped to be able to enter the theater without invitation, however he made the decision not to allow them to enter to avoid a political conflict: 'We were the first surprised when they arrived at the ceremony without invitation. I was inside the theater supervising that everything was fine and suddenly my assistant communicated to tell me that Donald and Melania were marching on the red carpet; I was completely frozen because they had no invitation to attend. My assistant told me that Trump was pushing her to tell her what seat they would give her at the theater, and she had even bothered because they had asked her for her invitations and it was obvious that they didn't have. It was a very tense situation, the red carpet guards let them in because they were intimidated, but I wasn't going to let them into the Dolby Theatre if they hadn't been required. They may be the presidential couple, but if they had no invitation we could do nothing ', he said. I'm sorry. The president comments that they allowed Trump and Melania to pose on the red carpet, however at the entrance of the theater they were sharp and told that they could not enter:'I went personally to warn them that without invitation they could not enter. Trump didn't even take it as a joke, he knew it was true, and he was furious right away, he told me (in an intimidating way) that I was just going to give myself a chance to let it go, and what I did was ask him for his invitation again. He just got red with courage and Melania tried to calm him down, told me that tomorrow he would meet me and explain to me my situation as director of The Academy. Of course he tried to intimidate me and that I was afraid, I publish his threats because I will not let him continue to want to use his power to do whatever he wants ', he pointed out. According to several witnesses, Donald could cancel the event the  years he is in power, forcing The Academy to deliver the Oscar, but not at a ceremony if not at a simple press conference, as he is extremely upset that he did not let it happen. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "27/02/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "United States.",
+            "question_answers": [
+                {
+                    "question": "When did elruinaversal.com report that the United States was in the U.S.?",
+                    "answer": "27/02/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the United States and the Soviet Union?",
+                    "score": 0.6395,
+                    "answers": "www.elruinaversal.com reported on 27/02/2017 that United States|ROOT"
+                },
+                {
+                    "question": "What is the website \"elruinaversal.com\"?",
+                    "score": 0.6001,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "- Strong courage and bewilderment experienced by the U.S. presidential couple Donald and Melania Trump , after the U.S. presidential couple Donald and Melania Trump will be denied entry to the Oscar ceremony for not having an invitation to enter the Dolby Theatre, the venue where the event takes place .",
+            "question_answers": [
+                {
+                    "question": "Who was denied entry to the Oscar ceremony for not having an invitation to enter the Dolby Theatre?",
+                    "answer": "Donald and Melania Trump"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why were Donald and Melania Trump denied entry to the Oscars?",
+                    "score": 0.855,
+                    "answers": "www.elruinaversal.com reported on 27/02/2017 that - Strong courage and bewilderment experienced by the U.S. presidential couple Donald and Melania Trump , after the U.S. presidential couple Donald and Melania Trump will be denied entry to the Oscar ceremony for not having an invitation to enter the Dolby Theatre , the venue where the event takes place|ROOT\ton 27/02/2017|prep\tthat - Strong courage and bewilderment experienced by the U.S. presidential couple Donald and Melania Trump , after the U.S. presidential couple Donald and Melania Trump will be denied entry to the Oscar ceremony for not having an invitation to enter the Dolby Theatre , the venue where the event takes place|npadvmod\tby the U.S. presidential couple Donald and Melania Trump|agent\tafter the U.S. presidential couple Donald and Melania Trump will be denied entry to the Oscar ceremony for not having an invitation to enter the Dolby Theatre , the venue where the event takes place|advcl\tentry to the Oscar ceremony|dobj\tto the Oscar ceremony|prep\tthe Oscar ceremony|pobj"
+                },
+                {
+                    "question": "Where did the event take place?",
+                    "score": 0.729,
+                    "answers": "to enter the Dolby Theatre , the venue where the event takes place|acl\tthe Dolby Theatre , the venue where the event takes place|dobj\twhere the event takes place|relcl"
+                },
+                {
+                    "question": "Where is the Dolby Theatre?",
+                    "score": 0.7211,
+                    "answers": "the venue where the event takes place|appos"
+                },
+                {
+                    "question": "What is the relationship between Donald and Melania Trump?",
+                    "score": 0.6715,
+                    "answers": "www.elruinaversal.com|nsubj\tthat|mark\t-|punct\tStrong|amod\tand|cc\tbewilderment|conj\texperienced by the U.S. presidential couple Donald and Melania Trump|acl\tthe|det\tpresidential|amod\tthe U.S. presidential couple Donald and Melania Trump|pobj\tDonald and Melania|nmod\tand|cc\tMelania|conj\tDonald and Melania Trump|appos\t,|punct\tafter|mark\tthe|det\tpresidential|amod\tthe U.S. presidential couple Donald and Melania Trump|nsubjpass\tDonald and Melania|nmod\tand|cc\tMelania|conj\tDonald and Melania Trump|appos\twill|aux\tbe|auxpass\tthe|det\tnot|neg\tan|det\tto|aux\tthe|det\t,|punct\tthe|det\tthe|det\tplace|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the president of the Hollywood Academy, Cheryl Boone , the U.S. presidential couple Donald and Melania Trump arrived'in surprise 'and hoped to be able to enter the Dolby Theatre, the venue where the event takes place without invitation, however the president of the Hollywood Academy, Cheryl Boone made the decision not to allow the U.S. presidential couple Donald and Melania Trump to enter to avoid a political conflict: 'my assistant were the first surprised when the U.S. presidential couple Donald and Melania Trump arrived at the Oscar ceremony without invitation.",
+            "question_answers": [
+                {
+                    "question": "Who is the president of the Hollywood Academy?",
+                    "answer": "Cheryl Boone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the president of the Hollywood Academy invite Donald and Melania Trump to attend the Oscars?",
+                    "score": 0.9018,
+                    "answers": "not to allow the U.S. presidential couple Donald and Melania Trump to enter|acl"
+                },
+                {
+                    "question": "Who was the first to arrive at the Hollywood Academy?",
+                    "score": 0.8115,
+                    "answers": "that According to the president of the Hollywood Academy , Cheryl Boone , the U.S. presidential couple Donald and Melania Trump arrived'in surprise '|punct"
+                },
+                {
+                    "question": "Where did the event take place?",
+                    "score": 0.7642,
+                    "answers": "able to enter the Dolby Theatre , the venue where the event takes place without invitation|acomp\tto enter the Dolby Theatre , the venue where the event takes place without invitation|xcomp\tthe Dolby Theatre , the venue where the event takes place without invitation|dobj\twhere the event takes place without invitation|relcl"
+                },
+                {
+                    "question": "What is the relationship between Donald and Melania Trump?",
+                    "score": 0.7311,
+                    "answers": "www.elruinaversal.com reported on 27/02/2017 that According to the president of the Hollywood Academy , Cheryl Boone , the U.S. presidential couple Donald and Melania Trump arrived'in surprise ' and hoped to be able to enter the Dolby Theatre , the venue where the event takes place without invitation|ROOT\tthat|mark\tof the Hollywood Academy|prep\t,|punct\tCheryl|compound\t,|punct\tpresidential|amod\tand|cc\tMelania|conj\tDonald and Melania Trump|appos\tsurprise '|pobj\t'|punct\tand|cc\tto|aux\tto be able to enter the Dolby Theatre , the venue where the event takes place without invitation|xcomp\tto|aux\t,|punct\twhere|advmod\tthe event|nsubj\tplace|dobj\t,|punct\tof the Hollywood Academy|prep\t,|punct\tCheryl|compound\tto|aux\tpresidential|amod\tand|cc\tMelania|conj\tDonald and Melania Trump|appos\tto|aux\tto|aux\tto avoid a political conflict|advcl\ta|det\tpolitical|amod\ta political conflict|dobj\t:|punct\t'|punct\tpresidential|amod\tand|cc\tMelania|conj\tDonald and Melania Trump|appos"
+                },
+                {
+                    "question": "What is the location of the Hollywood Academy?",
+                    "score": 0.7307,
+                    "answers": "the venue where the event takes place without invitation|appos"
+                }
+            ]
+        },
+        {
+            "claim": "the president of the Hollywood Academy, Cheryl Boone was inside the Dolby Theatre, the venue where the event takes place supervising that everything was fine and suddenly Melania Trump communicated to tell the president of the Hollywood Academy, Cheryl Boone that the U.S. presidential couple Donald and Melania Trump were marching on the red carpet; the president of the Hollywood Academy, Cheryl Boone was completely frozen because the U.S. presidential couple Donald and Melania Trump had no invitation to attend.",
+            "question_answers": [
+                {
+                    "question": "Who was the president of the Hollywood Academy, Cheryl Boone?",
+                    "answer": "Melania Trump"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why was the president of the Hollywood Academy frozen?",
+                    "score": 0.8035,
+                    "answers": "because the U.S. presidential couple Donald and Melania Trump had no invitation to attend|advcl"
+                },
+                {
+                    "question": "Where did the event take place?",
+                    "score": 0.7186,
+                    "answers": "inside the Dolby Theatre , the venue where the event takes place|prep\tthe Dolby Theatre , the venue where the event takes place|pobj\tthe venue where the event takes place|appos\twhere the event takes place|relcl"
+                },
+                {
+                    "question": "What was the relationship between Donald and Melania Trump at the Hollywood Academy?",
+                    "score": 0.6822,
+                    "answers": "supervising that everything was fine|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Melania Trump told the president of the Hollywood Academy, Cheryl Boone that Donald was pushing Melania Trump to tell Melania Trump what seat the U.S. presidential couple Donald and Melania Trump would give Melania Trump at the Dolby Theatre, the venue where the event takes place , and Melania Trump had even bothered because the U.S. presidential couple Donald and Melania Trump had asked Melania Trump for invitations and it was obvious that the U.S. presidential couple Donald and Melania Trump didn't have.",
+            "question_answers": [
+                {
+                    "question": "What is the Dolby Theatre?",
+                    "answer": "the venue where the event takes place"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Donald and Melania Trump ask for an invite to the Hollywood Academy?",
+                    "score": 0.9113,
+                    "answers": "because the U.S. presidential couple Donald and Melania Trump had asked Melania Trump for invitations and it was obvious that the U.S. presidential couple Donald and Melania Trump did n't have|advcl"
+                },
+                {
+                    "question": "What did Donald Trump tell Melania Trump about the event?",
+                    "score": 0.7828,
+                    "answers": "www.elruinaversal.com|nsubj"
+                },
+                {
+                    "question": "Where did the event take place?",
+                    "score": 0.7505,
+                    "answers": "at the Dolby Theatre , the venue where the event takes place|prep\tDolby|compound\tthe Dolby Theatre , the venue where the event takes place|pobj\tthe venue where the event takes place|appos\twhere the event takes place|relcl"
+                },
+                {
+                    "question": "What was the relationship between Donald and Melania Trump?",
+                    "score": 0.7024,
+                    "answers": "Melania Trump had even bothered because the U.S. presidential couple Donald and Melania Trump had asked Melania Trump for invitations and it was obvious that the U.S. presidential couple Donald and Melania Trump did n't have|conj\tit was obvious that the U.S. presidential couple Donald and Melania Trump did n't have|conj\tthat the U.S. presidential couple Donald and Melania Trump did n't have|ccomp"
+                },
+                {
+                    "question": "Who is the president of the Hollywood Academy?",
+                    "score": 0.6722,
+                    "answers": "the president of the Hollywood Academy , Cheryl Boone|dobj\tof the Hollywood Academy|prep\tCheryl|compound"
+                }
+            ]
+        },
+        {
+            "claim": "It was a very tense situation, the red carpet guards let the U.S. presidential couple Donald and Melania Trump in because the U.S. presidential couple Donald and Melania Trump were intimidated, but the president of the Hollywood Academy, Cheryl Boone wasn't going to let the U.S. presidential couple Donald and Melania Trump into the Dolby Theatre, the venue where the event takes place if the U.S. presidential couple Donald and Melania Trump hadn't been required.",
+            "question_answers": [
+                {
+                    "question": "Who is the president of the Hollywood Academy?",
+                    "answer": "Cheryl Boone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why were the red carpet guards letting Donald and Melania Trump into the Hollywood Academy?",
+                    "score": 0.9217,
+                    "answers": "www.elruinaversal.com reported on 27/02/2017 that It was a very tense situation , the red carpet guards let the U.S. presidential couple Donald and Melania Trump in because the U.S. presidential couple Donald and Melania Trump were intimidated , but the president of the Hollywood Academy , Cheryl Boone was n't going to let the U.S. presidential couple Donald and Melania Trump into the Dolby Theatre , the venue where the event takes place if the U.S. presidential couple Donald and Melania Trump had n't been required|ROOT\tbut|cc\tif the U.S. presidential couple Donald and Melania Trump had n't been required|advcl"
+                },
+                {
+                    "question": "Where did the event take place?",
+                    "score": 0.8024,
+                    "answers": "into the Dolby Theatre , the venue where the event takes place|prep\tDolby|compound\tthe Dolby Theatre , the venue where the event takes place|pobj\tthe venue where the event takes place|appos\twhere the event takes place|relcl"
+                },
+                {
+                    "question": "Where was the event held?",
+                    "score": 0.7768,
+                    "answers": "where|advmod"
+                },
+                {
+                    "question": "What is the relationship between Donald and Melania Trump?",
+                    "score": 0.671,
+                    "answers": "www.elruinaversal.com|nsubj\ton 27/02/2017|prep\tIt was a very tense situation|ccomp\tvery tense|amod\ta very tense situation|attr\tred|amod\tred carpet|compound\tthe red carpet guards|nsubj\tpresidential|amod\tthe U.S. presidential couple Donald and Melania Trump|dobj\tDonald and Melania|nmod\tMelania|conj\tDonald and Melania Trump|appos\tpresidential|amod\tthe U.S. presidential couple Donald and Melania Trump|nsubjpass\tDonald and Melania|nmod\tMelania|conj\tDonald and Melania Trump|appos\tthe president of the Hollywood Academy , Cheryl Boone|nsubj\tof the Hollywood Academy|prep\tHollywood|compound\tCheryl|compound\tto let the U.S. presidential couple Donald and Melania Trump into the Dolby Theatre , the venue where the event takes place|xcomp\tpresidential|amod\tthe U.S. presidential couple Donald and Melania Trump into the Dolby Theatre , the venue where the event takes place|dobj\tDonald and Melania|nmod\tMelania|conj\tDonald and Melania Trump|appos\tthe event|nsubj\tpresidential|amod\tthe U.S. presidential couple Donald and Melania Trump|nsubjpass\tDonald and Melania|nmod\tMelania|conj\tDonald and Melania Trump|appos"
+                }
+            ]
+        },
+        {
+            "claim": "the U.S. presidential couple Donald and Melania Trump may be the presidential couple, but if the U.S. presidential couple Donald and Melania Trump had no invitation my assistant could do nothing ', the president of the Hollywood Academy, Cheryl Boone said.",
+            "question_answers": [
+                {
+                    "question": "What did the president of the Hollywood Academy, Cheryl Boone, say if the Donald and Melania Trump had no invitation?",
+                    "answer": "my assistant could do nothing"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Donald and Melania Trump?",
+                    "score": 0.6844,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 27/02/2017 that the U.S. presidential couple Donald and Melania Trump may be the presidential couple , but if the U.S. presidential couple Donald and Melania Trump had no invitation my assistant could do nothing ' , the president of the Hollywood Academy ,|ccomp\ton 27/02/2017|prep\tthat|mark\tthe|det\tpresidential|amod\tthe U.S. presidential couple Donald and Melania Trump|nsubj\tDonald and Melania|nmod\tand|cc\tMelania|conj\tDonald and Melania Trump|appos\tmay|aux\tthat the U.S. presidential couple Donald and Melania Trump may be the presidential couple , but if the U.S. presidential couple Donald and Melania Trump had no invitation my assistant could do nothing ' , the president of the Hollywood Academy ,|ccomp\tthe|det\tpresidential|amod\tthe presidential couple|attr\t,|punct\tbut|cc\tif|mark\tthe|det\tpresidential|amod\tthe U.S. presidential couple Donald and Melania Trump|nsubj\tDonald and Melania|nmod\tand|cc\tMelania|conj\tDonald and Melania Trump|appos\tif the U.S. presidential couple Donald and Melania Trump had no invitation|advcl\tno|det\tno invitation|dobj\tmy|poss\tmy assistant|nsubj\tcould|aux\tif the U.S. presidential couple Donald and Melania Trump had no invitation my assistant could do nothing ' , the president of the Hollywood Academy|conj\tnothing|dobj\t'|prep\t,|dep\tthe|det\t, the president of the Hollywood Academy|dep\tof the Hollywood Academy|prep\tthe|det\tHollywood|compound\t,|punct\tCheryl|compound\twww.elruinaversal.com reported on 27/02/2017 that the U.S. presidential couple Donald and Melania Trump may be the presidential couple , but if the U.S. presidential couple Donald and Melania Trump had no invitation my assistant could do nothing ' , the president of the Hollywood Academy , Cheryl Boone said|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The president comments that they allowed Trump and Melania to pose on the red carpet, however at the entrance of the theater they were sharp and told that they could not enter:'I went personally to warn them that without invitation they could not enter.",
+            "question_answers": [
+                {
+                    "question": "Where were Trump and Melania told they could not enter?",
+                    "answer": "at the entrance of the theater"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Trump and Melania pose at the opening of the red carpet?",
+                    "score": 0.8224,
+                    "answers": "the theater|pobj\tnot|neg\tnot|neg"
+                },
+                {
+                    "question": "What did Trump say about inviting Melania and Trump to the red carpet?",
+                    "score": 0.8147,
+                    "answers": "went personally to warn them that without invitation they could not enter|ROOT"
+                },
+                {
+                    "question": "Who warned Trump and Melania they could not enter the red carpet?",
+                    "score": 0.7421,
+                    "answers": "that|mark\tThe|det\tthat|mark\tand|cc\tto|aux\tthe|det\t,|punct\thowever|advmod\tthe|det\tof the theater|prep\tthe|det\tand|cc\ttold that they could not enter:'I|conj\tthat|mark\tthat they could not enter:'I|ccomp\tpersonally|advmod\tto|aux\tthat|mark"
+                },
+                {
+                    "question": "What did the president say about posing on the red carpet?",
+                    "score": 0.7199,
+                    "answers": "www.elruinaversal.com reported on 27/02/2017 that The president comments that they allowed Trump and Melania to pose on the red carpet , however at the entrance of the theater they were sharp and told that they could not enter:'I|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Trump didn't even take it as a joke, he knew it was true, and he was furious right away, he told me (in an intimidating way) that I was just going to give myself a chance to let it go, and what I did was ask him for his invitation again.",
+            "question_answers": [
+                {
+                    "question": "How did Trump react to the news?",
+                    "answer": "he told me (in an intimidating way) that I was just going to give myself a chance to let it go,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Trump ask for an invite?",
+                    "score": 0.8632,
+                    "answers": "what I did was ask him for his invitation again|conj"
+                },
+                {
+                    "question": "What did Trump say about the joke?",
+                    "score": 0.7975,
+                    "answers": "www.elruinaversal.com|nsubj\ton 27/02/2017|prep\tthat|mark\tTrump|nsubj\tdid|aux\tit|dobj\tas a joke|prep\tit|nsubj\ttrue|acomp\tthat Trump did n't even take it as a joke , he knew it was true , and he was furious right away , he told me ( in an intimidating way ) that I was just going to give myself a chance to let it go , and what I did was ask him for his invitation again|ccomp\tme|dobj\tthat|mark\tto give myself a chance to let it go|xcomp\tmyself|dative\ta chance to let it go|dobj\tit|nsubj\twhat|dobj"
+                },
+                {
+                    "question": "What was Trump's response to the joke?",
+                    "score": 0.7565,
+                    "answers": "www.elruinaversal.com reported on 27/02/2017 that Trump did n't even take it as a joke , he knew it was true , and he was furious right away , he told me ( in an intimidating way ) that I was just going to give myself a chance to let it go , and what I did was ask him for his invitation again|ROOT\t27/02/2017|pobj\tn't|neg\teven|advmod\tTrump did n't even take it as a joke , he knew it was true , and he was furious right away|ccomp\ta|det\ta joke|pobj\t,|punct\the|nsubj\the knew it was true , and he was furious right away|conj\tit was true|ccomp\t,|punct\tand|cc\the|nsubj\the was furious right away|conj\tright|advmod\tright away|advmod\t,|punct\the|nsubj\t(|punct\tin an intimidating way|prep\tan|det\tintimidating|amod\tan intimidating way|pobj\t)|punct\tI|nsubj\twas|aux\tjust|advmod\tthat I was just going to give myself a chance to let it go ,|ccomp\tto|aux\ta|det\tto|aux\tto let it go|acl\tit go|ccomp\t,|punct\tand|cc\tI|nsubj\twhat I did|csubj\thim|dobj\tfor his invitation|prep\this|poss\this invitation|pobj\tagain|advmod"
+                },
+                {
+                    "question": "What was Trump's reaction to the joke?",
+                    "score": 0.7558,
+                    "answers": "furious|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "He just got red with courage and Melania tried to calm him down, told me that tomorrow he would meet me and explain to me my situation as director of The Academy.",
+            "question_answers": [
+                {
+                    "question": "Who tried to calm him down?",
+                    "answer": "Melania"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about his position as director of the Academy?",
+                    "score": 0.7631,
+                    "answers": "www.elruinaversal.com reported on 27/02/2017 that He just got red with courage and Melania tried to calm him down , told me that tomorrow he would meet me and explain to me my situation as director of The Academy|ROOT\tmy situation as director of The Academy|dobj"
+                },
+                {
+                    "question": "What did Melania say to Trump about his situation as director of The Academy?",
+                    "score": 0.6931,
+                    "answers": "with courage|prep\tto me|prep"
+                },
+                {
+                    "question": "Who was the director of The Academy in 2017?",
+                    "score": 0.5646,
+                    "answers": "The|det"
+                },
+                {
+                    "question": "What is the relationship between Trump and Melania?",
+                    "score": 0.5607,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Of course he tried to intimidate me and that I was afraid, I publish his threats because I will not let him continue to want to use his power to do whatever he wants ', he pointed out.",
+            "question_answers": [
+                {
+                    "question": "Why did Elruinaversal publish his threats?",
+                    "answer": "I will not let him continue to want to use his power to do whatever he wants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the threats made by Trump?",
+                    "score": 0.6568,
+                    "answers": "www.elruinaversal.com reported on 27/02/2017 that Of course he tried to intimidate me and that I was afraid , I publish his threats because I will not let him continue to want to use his power to do whatever he wants|ccomp\twhatever he wants|ccomp\twww.elruinaversal.com reported on 27/02/2017 that Of course he tried to intimidate me and that I was afraid , I publish his threats because I will not let him continue to want to use his power to do whatever he wants ' , he pointed out|ROOT"
+                },
+                {
+                    "question": "What was the name of the person who threatened to publish his threats?",
+                    "score": 0.647,
+                    "answers": "Of course|advmod\tme|dobj\tI|nsubj\tI|nsubj\tI|nsubj\this power|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to several witnesses, Donald could cancel the event the  years he is in power, forcing The Academy to deliver the Oscar, but not at a ceremony if not at a simple press conference, as he is extremely upset that he did not let it happen.",
+            "question_answers": [
+                {
+                    "question": "Why did Donald cancel the Oscar ceremony?",
+                    "answer": "he is extremely upset that he did not let it happen"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Donald cancel the Academy event?",
+                    "score": 0.8679,
+                    "answers": "extremely upset that he did not let it happen|acomp\tthat he did not let it happen|ccomp"
+                },
+                {
+                    "question": "What did Donald do to cancel the Oscars?",
+                    "score": 0.841,
+                    "answers": "the   years he is in power , forcing The Academy to deliver the Oscar , but not at a ceremony if not at a simple press conference , as he is extremely upset that he did not let it happen|dep\tyears he is in power , forcing The Academy to deliver the Oscar , but not at a ceremony if not at a simple press conference , as he is extremely upset that he did not let it happen|npadvmod\tin power|prep\tpower|pobj\tto deliver the Oscar , but not at a ceremony if not at a simple press conference|xcomp\tthe Oscar|dobj"
+                },
+                {
+                    "question": "Where was the ceremony held?",
+                    "score": 0.7421,
+                    "answers": "but not at a ceremony if not at a simple press conference|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Donald's decision to cancel the Academy?",
+                    "score": 0.6938,
+                    "answers": "www.elruinaversal.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Donald Trump and the Academy?",
+                    "score": 0.6844,
+                    "answers": "he is in power|relcl"
+                }
+            ]
+        }
+    ]
+}

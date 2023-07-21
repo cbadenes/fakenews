@@ -1,0 +1,252 @@
+{
+    "id": "56_Education_6",
+    "claim": "Near  university students from six European universities participate in the last phase of testing a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams, jobs or other tests. The project is in the third and final phase of pilot testing, in which the'final'version of the software is tested, which includes facial, voice and other recognition tools that capture writing patterns, detect plagiarism and analyze language and writing style, according to its drivers. In this phase there is a first test in which  students are participating and in which the Universitat Oberta de Catalunya (UOC) participates with  students,  teachers and  teachers; and a second test in which they will participate between  and  students. 'The balance of the two [previous] tests is very positive. In the first we examined all the instruments in isolation, and in the second we tested the first almost complete version of the system ', explained the project managers. The initiative, coordinated by the UOC, is named after TeSLA and has been promoted by a consortium formed by  organisations, between universities, research groups, companies and quality agencies, under the umbrella of the European Commission, with a budget of  million euros. In addition to the Spanish university, the Open University (OU, United Kingdom), the Open Universiteit Nederlands (OUNL, Netherlands), the Anadolu University (AU, Turkey), the University of Jyväskylä (JYU, Finland), the University St. Kliment Ohridski of Sofia (SU, Bulgaria) and Technical University of Sofia (TUS, Bulgaria). Together with these, the TeSLA consortium is completed by the University of Namur (UNamur), Belgium; the Imperial College of London, United Kingdom, the Mines-Telecom Institute (IMT), France; the National Institute of Optical Astrophysics and Electronics (INAOE), Mexico; the IDIAP Research Institute Foundation, Switzerland; and the ENQA, AQU Cataluña and EQANIE quality agencies; in addition to three technological companies: LPLUS GmbH (Germany), Protos Sistemas de Informacion, S. L. (Spain) and WFSW SA (Watchful), Portugal. I'm sorry.",
+    "source": "www.heraldo.es",
+    "date": "27/11/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Near  university students from six European universities participate in the last phase of testing a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams, jobs or other tests .",
+            "question_answers": [
+                {
+                    "question": "How many European universities are participating in the last phase of testing a computer program?",
+                    "answer": "six European universities"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many European universities participate in the last phase of testing a computer program?",
+                    "score": 0.7267,
+                    "answers": "six European universities|pobj"
+                },
+                {
+                    "question": "What is the name of the computer program that students from six European universities participate in?",
+                    "score": 0.6225,
+                    "answers": "www.heraldo.es said on 27/11/2017 that Near   university students from six European universities participate in the last phase of testing a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams , jobs or other tests|ROOT\tthat|mark\tuniversity|compound\tthat Near   university students from six European universities participate in the last phase of testing a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams , jobs or other tests|ccomp\tthe|det\tlast|amod\ta|det\tcomputer|compound\tthat|nsubj\twill|aux\tthat will allow to certify the identity and authorship of students when performing online activities such as exams , jobs or other tests|relcl\tto|aux\tthe|det\tand|cc\tauthorship|conj\tstudents|pobj\twhen|advmod\twhen performing online activities such as exams , jobs or other tests|advcl\tonline|amod\tonline activities such as exams , jobs or other tests|dobj\tsuch|amod\tsuch as exams , jobs or other tests|prep\t,|punct\tjobs or other tests|conj\tor|cc\tother|amod\tother tests|conj"
+                },
+                {
+                    "question": "What is the purpose of a computer program that certifies the identity and authorship of students when performing online activities such as exams, jobs or other tests?",
+                    "score": 0.608,
+                    "answers": "a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams , jobs or other tests|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The project is in the third and final phase of pilot testing, in which the'final'version of a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams, jobs or other tests is tested, which includes facial, voice and other recognition tools that capture writing patterns, detect plagiarism and analyze language and writing style, according to drivers.",
+            "question_answers": [
+                {
+                    "question": "What types of tools are included in the final phase of the pilot testing?",
+                    "answer": "facial, voice and other recognition tools"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of the program that certifies the identity and authorship of students?",
+                    "score": 0.623,
+                    "answers": "a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams , jobs or other tests|nsubjpass"
+                },
+                {
+                    "question": "What are the features of the program?",
+                    "score": 0.5841,
+                    "answers": "which includes facial , voice and other recognition tools that capture writing patterns , detect plagiarism and analyze language and writing style|relcl\tfacial , voice and other|amod"
+                },
+                {
+                    "question": "What is plagiarism?",
+                    "score": 0.5819,
+                    "answers": "plagiarism|dobj"
+                },
+                {
+                    "question": "What is the third phase of pilot testing?",
+                    "score": 0.5743,
+                    "answers": "that The project is in the third and final phase of pilot testing , in which the'final'version of a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams , jobs or other tests is tested , which includes facial , voice and other recognition tools that capture writing patterns , detect plagiarism and analyze language and writing style , according to drivers|ccomp\tthird and final|amod\tthe third and final phase of pilot testing , in which the'final'version of a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams , jobs or other tests is tested , which includes facial , voice and other recognition tools that capture writing patterns , detect plagiarism and analyze language and writing style|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In this phase there is a first test in which  students are participating and in which the Universitat Oberta de Catalunya (UOC) participates with  students,  teachers and  teachers; and a second test in which they will participate between  and  students.",
+            "question_answers": [
+                {
+                    "question": "What does UOC stand for?",
+                    "answer": "Universitat Oberta de Catalunya"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many students participate in the University of Oberta de Catalunya (UOC)?",
+                    "score": 0.7144,
+                    "answers": "Oberta|compound"
+                },
+                {
+                    "question": "How many students participated in the first test?",
+                    "score": 0.6715,
+                    "answers": "on 27/11/2017|prep"
+                },
+                {
+                    "question": "How many students will participate in the second test?",
+                    "score": 0.6643,
+                    "answers": "www.heraldo.es said on 27/11/2017 that In this phase there is a first test in which   students are participating and in which the Universitat Oberta de Catalunya ( UOC ) participates with   students ,   teachers and   teachers ; and a second test in which they will participate between   and   students|ROOT\tthat In this phase there is a first test in which   students are participating and in which the Universitat Oberta de Catalunya ( UOC ) participates with   students ,   teachers and   teachers ; and a second test in which they will participate between   and   students|ccomp\tin which|prep\twhich|pobj\tand|cc\tin which|prep\twhich|pobj\twith|prep\t  students ,   teachers and   teachers ; and a second test in which they will participate between|dep\tstudents ,   teachers and   teachers ; and a second test in which they will participate between|pobj\t,|punct\t  teachers and   teachers ; and a second test in which they will participate between|dep\tteachers and   teachers ; and a second test in which they will participate between|pobj\tand|cc\t;|punct\tand|cc\ta second test in which they will participate between|conj\tin which|prep\twhich|pobj\tthey|nsubj\twill|aux\tin which they will participate between|relcl\tbetween|prep\tand|cc\tand   students|dep"
+                },
+                {
+                    "question": "What does UOC stand for?",
+                    "score": 0.6473,
+                    "answers": "in which   students are participating and in which the Universitat Oberta de Catalunya ( UOC ) participates with|relcl\tin which the Universitat Oberta de Catalunya ( UOC ) participates with|conj"
+                },
+                {
+                    "question": "What is UOC?",
+                    "score": 0.6048,
+                    "answers": "the Universitat Oberta de Catalunya ( UOC )|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'The balance of the two [previous] tests is very positive.",
+            "question_answers": [
+                {
+                    "question": "When did www.heraldo.es say 'The balance of the two [previous] tests is very positive'?",
+                    "answer": "27/11/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the balance of the two [previous] tests?",
+                    "score": 0.7857,
+                    "answers": "www.heraldo.es|nsubj\twww.heraldo.es said on 27/11/2017 that ' The balance of the two [ previous ] tests is very positive|ROOT\ton 27/11/2017|prep\tthat|mark\t'|punct\tThe|det\tThe balance of the two [ previous ] tests|nsubj\tof the two [ previous ] tests|prep\tthe|det\t[|punct\tprevious|amod\t]|punct\tthe two [ previous ] tests|pobj\tthat ' The balance of the two [ previous ] tests is very positive|ccomp\tvery|advmod\tvery positive|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "In the first we examined all the instruments in isolation, and in the second we tested the first almost complete version of a computer program that will allow to certify the identity and authorship of students when performing online activities such as exams, jobs or other tests ', explained the project managers.",
+            "question_answers": [
+                {
+                    "question": "What is an example of an online program that will allow students to certify their identity and authorship?",
+                    "answer": "exams, jobs or other tests"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the first computer program do to test the identity and authorship of students when performing online activities like exams?",
+                    "score": 0.7007,
+                    "answers": "all the instruments|dobj"
+                },
+                {
+                    "question": "What is the purpose of a computer program that allows student identity and authorship to be certified?",
+                    "score": 0.6137,
+                    "answers": "such as exams , jobs or other tests|prep"
+                },
+                {
+                    "question": "Who are project managers?",
+                    "score": 0.6019,
+                    "answers": "the project managers|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The initiative, coordinated by the Universitat Oberta de Catalunya (UOC) , is named after TeSLA and has been promoted by a consortium formed by  organisations, between universities, research groups, companies and quality agencies, under the umbrella of the European Commission, with a budget of  million euros.",
+            "question_answers": [
+                {
+                    "question": "Who coordinated the TeSLA initiative?",
+                    "answer": "Universitat Oberta de Catalunya (UOC)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the project that is named after TeSLA?",
+                    "score": 0.7301,
+                    "answers": "that The initiative , coordinated by the Universitat Oberta de Catalunya ( UOC ) , is named after TeSLA and has been promoted by a consortium formed by|ccomp"
+                },
+                {
+                    "question": "What is the budget of the European Commission?",
+                    "score": 0.642,
+                    "answers": "with a budget of|prep\ta budget of|pobj\t  million euros|dep\tmillion|nummod"
+                },
+                {
+                    "question": "What does UOC stand for?",
+                    "score": 0.6397,
+                    "answers": "www.heraldo.es said on 27/11/2017 that The initiative , coordinated by the Universitat Oberta de Catalunya ( UOC ) , is named after TeSLA and has been promoted by a consortium formed by   organisations , between universities , research groups , companies and quality agencies , under the umbrella of the European Commission , with a budget of   million euros|ROOT\ton 27/11/2017|prep\tcoordinated by the Universitat Oberta de Catalunya ( UOC )|acl\tby the Universitat Oberta de Catalunya ( UOC )|agent\tOberta|compound\tde|compound\tOberta de Catalunya|appos\tafter TeSLA|prep\tuniversities , research groups , companies and quality agencies|pobj\tresearch groups , companies and quality agencies|conj"
+                },
+                {
+                    "question": "What is the European Commission?",
+                    "score": 0.6202,
+                    "answers": "under the umbrella of the European Commission|prep\tthe umbrella of the European Commission|pobj\tof the European Commission|prep\tEuropean|compound"
+                },
+                {
+                    "question": "What is the purpose of UOC?",
+                    "score": 0.5928,
+                    "answers": "has been promoted by a consortium formed by|conj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition to the Universitat Oberta de Catalunya (UOC) , the Open University (OU, United Kingdom), the Open Universiteit Nederlands (OUNL, Netherlands), the Anadolu University (AU, Turkey), the University of Jyväskylä (JYU, Finland), the University St. Kliment Ohridski of Sofia (SU, Bulgaria ) and Technical University of Sofia (TUS, Bulgaria ).",
+            "question_answers": [
+                {
+                    "question": "What is the name of the university in Catalunya?",
+                    "answer": "Universitat Oberta de Catalunya (UOC)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is the University of Jyväskylä located?",
+                    "score": 0.8166,
+                    "answers": "the Open University ( OU , United Kingdom ) , the Open Universiteit Nederlands ( OUNL , Netherlands ) , the Anadolu University ( AU , Turkey ) , the University of Jyväskylä ( JYU , Finland ) , the University St. Kliment Ohridski of Sofia ( SU , Bulgaria ) and Technical University of Sofia ( TUS , Bulgaria )|conj\tthe Anadolu University ( AU , Turkey ) , the University of Jyväskylä ( JYU , Finland ) , the University St. Kliment Ohridski of Sofia ( SU , Bulgaria ) and Technical University of Sofia ( TUS , Bulgaria )|conj\tthe University of Jyväskylä ( JYU , Finland ) , the University St. Kliment Ohridski of Sofia ( SU , Bulgaria ) and Technical University of Sofia ( TUS , Bulgaria )|conj\tof Jyväskylä|prep\t( JYU , Finland )|appos"
+                },
+                {
+                    "question": "Where is the Open University of Nederlands located?",
+                    "score": 0.7989,
+                    "answers": "addition to the Universitat Oberta de Catalunya ( UOC ) , the Open University ( OU , United Kingdom ) , the Open Universiteit Nederlands ( OUNL , Netherlands ) , the Anadolu University ( AU , Turkey ) , the University of Jyväskylä ( JYU , Finland ) , the University St. Kliment Ohridski of Sofia ( SU , Bulgaria ) and Technical University of Sofia ( TUS , Bulgaria )|pobj\tthe Open Universiteit Nederlands ( OUNL , Netherlands )|conj"
+                },
+                {
+                    "question": "Where is the Technical University of Sofia located?",
+                    "score": 0.7852,
+                    "answers": "Technical University of Sofia ( TUS , Bulgaria )|conj"
+                },
+                {
+                    "question": "Where is the Anadolu University located?",
+                    "score": 0.7788,
+                    "answers": "( AU , Turkey )|appos"
+                },
+                {
+                    "question": "What is the Open Universiteit Nederlands (OU, Netherlands)?",
+                    "score": 0.7408,
+                    "answers": "OUNL , Netherlands )|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Together with these, the TeSLA consortium is completed by the University of Namur (UNamur), Belgium; the Imperial College of London, United Kingdom, the Mines-Telecom Institute (IMT), France; the National Institute of Optical Astrophysics and Electronics (INAOE), Mexico; the IDIAP Research Institute Foundation, Switzerland; and the ENQA, AQU Cataluña and EQANIE quality agencies; in addition to three technological companies: LPLUS GmbH (Germany), Protos Sistemas de Informacion, S. L. (Spain) and WFSW SA (Watchful), Portugal.",
+            "question_answers": [
+                {
+                    "question": "What are the names of the three companies that are part of the TeSLA consortium?",
+                    "answer": "LPLUS GmbH (Germany), Protos Sistemas de Informacion, S. L. (Spain) and WFSW SA"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the names of the companies that are part of the TeSLA consortium?",
+                    "score": 0.7383,
+                    "answers": "AQU Cataluña and EQANIE|conj"
+                },
+                {
+                    "question": "What is the purpose of the TeSLA Consortium?",
+                    "score": 0.712,
+                    "answers": "the Imperial College of London , United Kingdom , the Mines - Telecom Institute ( IMT ) , France ; the National Institute of Optical Astrophysics and Electronics ( INAOE ) , Mexico ; the IDIAP Research Institute Foundation , Switzerland ; and the ENQA , AQU Cataluña and EQANIE quality agencies|conj\tof Optical Astrophysics and Electronics|prep\tthe ENQA , AQU Cataluña and EQANIE quality agencies|conj"
+                },
+                {
+                    "question": "What is the TeSLA Consortium?",
+                    "score": 0.6992,
+                    "answers": "www.heraldo.es|nsubj\twww.heraldo.es said on 27/11/2017 that Together with these , the TeSLA consortium is completed by the University of Namur ( UNamur ) , Belgium ; the Imperial College of London , United Kingdom , the Mines - Telecom Institute ( IMT ) , France ; the National Institute of Optical Astrophysics and Electronics ( INAOE ) , Mexico ; the IDIAP Research Institute Foundation , Switzerland ; and the ENQA , AQU Cataluña and EQANIE quality agencies ; in addition to three technological companies : LPLUS GmbH ( Germany ) , Protos Sistemas de Informacion , S. L. ( Spain ) and WFSW SA ( Watchful ) , Portugal|ROOT\ton 27/11/2017|prep\tthat|mark\tTogether with these|advmod\twith these|prep\tthese|pobj\t,|punct\tthe|det\tthe TeSLA consortium|nsubjpass\tis|auxpass\tthat Together with these , the TeSLA consortium is completed by the University of Namur ( UNamur ) , Belgium ; the Imperial College of London , United Kingdom , the Mines - Telecom Institute ( IMT ) , France ; the National Institute of Optical Astrophysics and Electronics ( INAOE ) , Mexico ; the IDIAP Research Institute Foundation , Switzerland ; and the ENQA , AQU Cataluña and EQANIE quality agencies ; in addition to three technological companies : LPLUS GmbH ( Germany ) , Protos Sistemas de Informacion , S. L. ( Spain ) and WFSW SA ( Watchful ) , Portugal|ccomp\tby the University of Namur ( UNamur ) , Belgium ; the Imperial College of London , United Kingdom , the Mines - Telecom Institute ( IMT ) , France ; the National Institute of Optical Astrophysics and Electronics ( INAOE ) , Mexico ; the IDIAP Research Institute Foundation , Switzerland ; and the ENQA , AQU Cataluña and EQANIE quality agencies ; in addition to three technological companies : LPLUS GmbH ( Germany ) , Protos Sistemas de Informacion , S. L. ( Spain ) and WFSW SA ( Watchful ) , Portugal|agent\tthe|det\tthe University of Namur ( UNamur ) , Belgium ; the Imperial College of London , United Kingdom , the Mines - Telecom Institute ( IMT ) , France ; the National Institute of Optical Astrophysics and Electronics ( INAOE ) , Mexico ; the IDIAP Research Institute Foundation , Switzerland ; and the ENQA , AQU Cataluña and EQANIE quality agencies ; in addition to three technological companies : LPLUS GmbH ( Germany ) , Protos Sistemas de Informacion , S. L. ( Spain ) and WFSW SA ( Watchful ) , Portugal|pobj\tof Namur|prep\tNamur|pobj\t(|punct\t)|punct\t,|punct\t;|punct\tthe|det\tImperial|compound\tof London|prep\tLondon|pobj\t,|punct\tUnited|compound\t,|punct\tthe|det\t-|punct\t(|punct\t)|punct\t,|punct\t;|punct\tthe|det\tNational|compound\tthe National Institute of Optical Astrophysics and Electronics ( INAOE ) , Mexico ; the IDIAP Research Institute Foundation , Switzerland ; and the ENQA , AQU Cataluña and EQANIE quality agencies|conj\tOptical|compound\tOptical Astrophysics and Electronics|pobj\tand|cc\t(|punct\t)|punct\t,|punct\t;|punct\tthe|det\t,|punct\t;|punct\tand|cc\tthe|det\tENQA , AQU Cataluña and EQANIE|nmod\t,|punct\tand|cc\tquality|compound\t;|punct\t:|punct\t(|punct\t)|punct\t,|punct\tProtos|compound\tSistemas|nmod\tde|nmod\tProtos Sistemas de Informacion , S. L. ( Spain ) and WFSW SA ( Watchful ) , Portugal|conj\t,|punct\tS.|compound\tS. L. ( Spain )|conj\t(|punct\t)|punct\tand|cc\t(|punct\t)|punct\t,|punct"
+                },
+                {
+                    "question": "What is the IDIAP Research Institute Foundation?",
+                    "score": 0.6475,
+                    "answers": "IDIAP|compound\tResearch|compound\tResearch Institute|compound\tthe IDIAP Research Institute Foundation , Switzerland ; and the ENQA , AQU Cataluña and EQANIE quality agencies|conj"
+                },
+                {
+                    "question": "What is LPLUS GmbH and WFSW SA?",
+                    "score": 0.6243,
+                    "answers": "technological|amod\tthree technological companies : LPLUS GmbH ( Germany ) , Protos Sistemas de Informacion , S. L. ( Spain ) and WFSW SA ( Watchful ) , Portugal|pobj"
+                }
+            ]
+        }
+    ]
+}

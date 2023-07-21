@@ -1,0 +1,444 @@
+{
+    "id": "154_Society_63",
+    "claim": "The new tech gurus hack their brains to travel to infinity and beyond Something they didn't understand in the empire of new technology when they explained to them how to have breakfast to give up all day long. In Silicon Valley the days are long and the working days of  hours do not exist. Either you get on the wheel or you stay out. Work pressure and the pursuit of excellence get some to bet on the fast way and decide to wake up the wit with extra gasoline or, what is the same thing, a little bit of good morning stimulant drugs. The practice is known as 'microdose 'and aims to be a more productive worker by taking small amounts of psychedelic drugs, such as LSD acid, magic mushrooms or peyote mescaline. But flirting in front of the screen isn't what the techies want to get. More energy, more creativity and more concentration are the three aces with which all employees dream. And let legend tell you that Steve Jobs and Bill Gates joined the biohacking cart in order to create their technological empires enlarge the myth of this dangerous practice. In particular, LSD mimics the effects of serotonin, known for improving mood, which in turn activates the prefrontal cortex. Broadly put, it stimulates the learning and memory sectors. But these are not the only effects of taking these drugs at small doses, because they also offer better resistance to stress, anxiety, and ease of sleep. According to Dr. James Fadiman, microdose makes users more comfortable in social situations, more creative, less prone to migraines, the urge to smoke or take Adderall, a medicine used by those who suffer from attention deficit disorder and for those who want to work longer than the bill. Nevertheless, they are still drugs that change brain activity and Fadiman himself says that there are still no conclusive clinical studies to estimate the benefits and damages that can still be caused at small doses. Because according to Dr. Barry L. Jacobs, of the Department of Psychology of Princeton University, distinguishes two effects that recreational LSD can cause: psychodelia and euphoria or paranoia and psychosis. And playing with these two monsters at work can cost you your job and your health. I'm sorry.",
+    "source": "www.playgroundmag.net",
+    "date": "20/06/2023",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The new tech gurus hack brains to travel to infinity and beyond Something The new tech gurus didn't understand in the empire of new technology when The new tech gurus explained to The new tech gurus how to have breakfast to give up all day long.",
+            "question_answers": [
+                {
+                    "question": "Who explained to The new tech gurus how to have breakfast to give up all day long?",
+                    "answer": "The new tech gurus"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What technology did the new tech gurus understand?",
+                    "score": 0.8131,
+                    "answers": "that|mark\tinfinity and beyond|pobj\tand|cc\tbeyond|conj\tSomething|npadvmod\tthe|det"
+                },
+                {
+                    "question": "What new tech gurus didn't understand in the empire of new technology?",
+                    "score": 0.7705,
+                    "answers": "of new technology|prep\tnew technology|pobj"
+                },
+                {
+                    "question": "What did tech gurus explain to the new techgurus about how to have breakfast to give up all day?",
+                    "score": 0.7306,
+                    "answers": "to|aux\tto|aux\tto|aux"
+                },
+                {
+                    "question": "What are the new tech gurus' plans for travel to infinity and beyond?",
+                    "score": 0.7088,
+                    "answers": "to travel to infinity and beyond|advcl\tto infinity and beyond|prep"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.5558,
+                    "answers": "www.playgroundmag.net|nsubj\twww.playgroundmag.net reported on 20/06/2023 that The new tech gurus hack brains to travel to infinity and beyond Something|ROOT\ton 20/06/2023|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In Silicon Valley the days are long and the working days of  hours do not exist.",
+            "question_answers": [
+                {
+                    "question": "When did www.playgroundmag.net report that in Silicon Valley the days are long and the working days of hours do not exist?",
+                    "answer": "20/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long are the working days in Silicon Valley?",
+                    "score": 0.8222,
+                    "answers": "www.playgroundmag.net reported on 20/06/2023 that In Silicon Valley the days are long and the working days of   hours do not exist|ROOT\ton 20/06/2023|prep\tthat|mark\tSilicon|compound\tthe|det\tthe days|nsubj\tthat In Silicon Valley the days are long and the working days of   hours do not exist|ccomp\tlong|acomp\tand|cc\tthe|det\tworking|amod\tthe working days of|nsubj\tof|prep\tthe working days of   hours do not exist|dep\thours|nsubj\tdo|aux\tnot|neg\thours do not exist|ccomp"
+                },
+                {
+                    "question": "What is the average working time in Silicon Valley?",
+                    "score": 0.7667,
+                    "answers": "In Silicon Valley|prep"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.5671,
+                    "answers": "www.playgroundmag.net|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Either you get on the wheel or you stay out.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 20/06/2023 that either you get on the wheel or stay out?",
+                    "answer": "www.playgroundmag.net"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people get on the wheel or stay out of the car?",
+                    "score": 0.7227,
+                    "answers": "on the wheel|prep"
+                },
+                {
+                    "question": "What is the relationship between getting on the wheel and staying out?",
+                    "score": 0.6329,
+                    "answers": "the wheel|pobj\tyou stay out|conj\tout|prt"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.5802,
+                    "answers": "www.playgroundmag.net|nsubj\twww.playgroundmag.net reported on 20/06/2023 that Either you get on the wheel or you stay out|ROOT\ton 20/06/2023|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Work pressure and the pursuit of excellence get some to bet on the fast way and decide to wake up the wit with extra gasoline or, what is the same thing, a little bit of good morning stimulant drugs.",
+            "question_answers": [
+                {
+                    "question": "What did www.playgroundmag.net report that work pressure and the pursuit of excellence get some to bet on the fast way and decide to do?",
+                    "answer": "wake up the wit with extra gasoline"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What kind of good morning stimulant drugs are available?",
+                    "score": 0.696,
+                    "answers": "a little bit of good morning stimulant drugs|conj"
+                },
+                {
+                    "question": "What are good morning stimulant drugs?",
+                    "score": 0.6706,
+                    "answers": "of good morning stimulant drugs|prep\tgood morning stimulant drugs|pobj"
+                },
+                {
+                    "question": "What type of stimulant drugs are available in the morning?",
+                    "score": 0.6612,
+                    "answers": "stimulant|amod"
+                },
+                {
+                    "question": "What are the benefits of work pressure and the pursuit of excellence?",
+                    "score": 0.6394,
+                    "answers": "on the fast way|prep"
+                },
+                {
+                    "question": "What is a good morning stimulant?",
+                    "score": 0.6255,
+                    "answers": "good morning|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "The practice is known as 'microdose 'and aims to be a more productive worker by taking small amounts of psychedelic drugs, such as LSD acid , magic mushrooms or peyote mescaline.",
+            "question_answers": [
+                {
+                    "question": "What is an example of a psychedelic drug called microdose?",
+                    "answer": "LSD acid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of drugs are used for \"microdose\"?",
+                    "score": 0.7219,
+                    "answers": "peyote mescaline|conj"
+                },
+                {
+                    "question": "What is the purpose of taking small amounts of psychedelic drugs?",
+                    "score": 0.6825,
+                    "answers": "that The practice is known as ' microdose ' and aims to be a more productive worker by taking small amounts of psychedelic drugs , such as LSD acid , magic mushrooms or peyote mescaline|ccomp\taims to be a more productive worker by taking small amounts of psychedelic drugs , such as LSD acid , magic mushrooms or peyote mescaline|conj\tto be a more productive worker by taking small amounts of psychedelic drugs , such as LSD acid , magic mushrooms or peyote mescaline|xcomp\tmore|advmod\tby taking small amounts of psychedelic drugs , such as LSD acid , magic mushrooms or peyote mescaline|prep\ttaking small amounts of psychedelic drugs , such as LSD acid , magic mushrooms or peyote mescaline|pcomp\tsmall amounts of psychedelic drugs , such as LSD acid , magic mushrooms or peyote mescaline|dobj"
+                },
+                {
+                    "question": "What are the sources of evidence of the use of LSD acid,magic mushrooms and peyote mescaline?",
+                    "score": 0.6633,
+                    "answers": "such as LSD acid , magic mushrooms or peyote mescaline|prep"
+                },
+                {
+                    "question": "What is the practice of \"microdose\"?",
+                    "score": 0.6609,
+                    "answers": "The practice|nsubjpass\tmagic|compound"
+                },
+                {
+                    "question": "What is the definition of a microdose?",
+                    "score": 0.6179,
+                    "answers": "as ' microdose '|prep\tmicrodose '|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "But flirting in front of the screen isn't what the techies want to get.",
+            "question_answers": [
+                {
+                    "question": "What isn't what the techies want?",
+                    "answer": "flirting in front of the screen"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What techies want to flirting in front of the screen?",
+                    "score": 0.7844,
+                    "answers": "the techies|nsubj"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.566,
+                    "answers": "www.playgroundmag.net|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "More energy, more creativity and more concentration are the three aces with which all employees dream.",
+            "question_answers": [
+                {
+                    "question": "What are the three aces with which all employees dream?",
+                    "answer": "More energy, more creativity and more concentration"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the three aces with which all employees dream?",
+                    "score": 0.7276,
+                    "answers": "More energy , more creativity and more concentration|nsubj\tmore creativity and more concentration|conj\twith which all employees dream|relcl"
+                },
+                {
+                    "question": "What doesplaygroundmag.net say about energy, creativity and concentration?",
+                    "score": 0.6969,
+                    "answers": "that|mark\tMore|amod\t,|punct\tmore|amod\tand|cc\tmore|amod\tthe|det\twith which|prep\twhich|pobj\tall|det"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.5575,
+                    "answers": "www.playgroundmag.net|nsubj\ton 20/06/2023|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And let legend tell you that Steve Jobs and Bill Gates joined the biohacking cart in order to create technological empires enlarge the myth of The practice .",
+            "question_answers": [
+                {
+                    "question": "Who joined the biohacking cart?",
+                    "answer": "Steve Jobs and Bill Gates"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Steve Jobs and Bill Gates do to create technological empires?",
+                    "score": 0.737,
+                    "answers": "that And let legend tell you that Steve Jobs and Bill Gates joined the biohacking cart in order to create technological empires|parataxis\tSteve Jobs and Bill Gates|nsubj\tthat Steve Jobs and Bill Gates joined the biohacking cart in order to create technological empires|ccomp\tin order to create technological empires|prep\torder to create technological empires|pobj\tto create technological empires|acl\ttechnological empires|dobj\tenlarge the myth of The practice|dep\tthe myth of The practice|dobj\tof The practice|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Steve Jobs joining the biohacking cart?",
+                    "score": 0.6698,
+                    "answers": "Steve|compound"
+                },
+                {
+                    "question": "What is the practice of biohacking?",
+                    "score": 0.653,
+                    "answers": "biohacking|compound"
+                },
+                {
+                    "question": "What was the purpose of the biohacking cart?",
+                    "score": 0.6149,
+                    "answers": "the biohacking cart|dobj"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.5115,
+                    "answers": "www.playgroundmag.net|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In particular, LSD acid mimics the effects of serotonin, known for improving mood, which in turn activates the prefrontal cortex.",
+            "question_answers": [
+                {
+                    "question": "What part of the brain is activated by LSD acid?",
+                    "answer": "prefrontal cortex"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What effects does LSD acid have on mood?",
+                    "score": 0.8892,
+                    "answers": "that In particular , LSD acid mimics the effects of serotonin , known for improving mood , which in turn activates the prefrontal cortex|ccomp"
+                },
+                {
+                    "question": "What does LSD acid do to improve mood?",
+                    "score": 0.8429,
+                    "answers": "for improving mood|prep"
+                },
+                {
+                    "question": "What are the effects of LSD acid on mood?",
+                    "score": 0.8141,
+                    "answers": "on 20/06/2023|prep\tthe effects of serotonin , known for improving mood , which in turn activates the prefrontal cortex|dobj\tof serotonin , known for improving mood , which in turn activates the prefrontal cortex|prep\tserotonin , known for improving mood , which in turn activates the prefrontal cortex|pobj\tknown for improving mood|acl"
+                },
+                {
+                    "question": "What is the relationship between LSD acid and the effects of serotonin?",
+                    "score": 0.7671,
+                    "answers": "www.playgroundmag.net reported on 20/06/2023 that In particular , LSD acid mimics the effects of serotonin , known for improving mood , which in turn activates the prefrontal cortex|ROOT\tthe prefrontal cortex|dobj"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.5484,
+                    "answers": "www.playgroundmag.net|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Broadly put, LSD acid stimulates the learning and memory sectors.",
+            "question_answers": [
+                {
+                    "question": "When did www.playgroundmag.net report that LSD acid stimulates the learning and memory sectors?",
+                    "answer": "20/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How does LSD acid stimulate learning and memory sectors?",
+                    "score": 0.9259,
+                    "answers": ",|punct"
+                },
+                {
+                    "question": "What is the relationship between LSD acid and learning?",
+                    "score": 0.7934,
+                    "answers": "learning and memory|nmod"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.629,
+                    "answers": "www.playgroundmag.net|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But these are not the only effects of taking these drugs at small doses, because these drugs also offer better resistance to stress, anxiety, and ease of sleep.",
+            "question_answers": [
+                {
+                    "question": "When did www.playgroundmag.net report on the effects of these drugs?",
+                    "answer": "20/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the effects of taking these drugs at small doses?",
+                    "score": 0.7807,
+                    "answers": "the only effects of taking these drugs at small doses|attr"
+                },
+                {
+                    "question": "What are the side effects of taking small doses?",
+                    "score": 0.7593,
+                    "answers": "small doses|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to Dr. James Fadiman, microdose makes users more comfortable in social situations, more creative, less prone to migraines, the urge to smoke or take Adderall, a medicine used by those who suffer from attention deficit disorder and for those who want to work longer than the bill.",
+            "question_answers": [
+                {
+                    "question": "Adderall is used by those who suffer from what?",
+                    "answer": "attention deficit disorder"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Dr. James Fadiman say about taking Adderall?",
+                    "score": 0.7586,
+                    "answers": "who suffer from attention deficit disorder|relcl"
+                },
+                {
+                    "question": "What are the side effects of taking Adderall?",
+                    "score": 0.6834,
+                    "answers": "users more comfortable in social situations , more creative , less prone to migraines , the urge to smoke or take Adderall , a medicine used by those who suffer from attention deficit disorder and for those who want to work longer than the bill|ccomp\tto smoke or take Adderall , a medicine used by those who suffer from attention deficit disorder and for those who want to work longer than the bill|acl"
+                },
+                {
+                    "question": "What are the benefits of taking Adderall?",
+                    "score": 0.6686,
+                    "answers": "users|nsubj\tto|aux\ta|det\twho want to work longer than the bill|relcl\tto|aux"
+                },
+                {
+                    "question": "What is Adderall for those who suffer from attention deficit disorder?",
+                    "score": 0.6492,
+                    "answers": "by those who suffer from attention deficit disorder and for those who want to work longer than the bill|prep"
+                },
+                {
+                    "question": "What are the symptoms of attention deficit disorder?",
+                    "score": 0.622,
+                    "answers": "from attention deficit disorder|prep\tattention|compound\tattention deficit|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Nevertheless, they are still drugs that change brain activity and Fadiman himself says that there are still no conclusive clinical studies to estimate the benefits and damages that can still be caused at small doses.",
+            "question_answers": [
+                {
+                    "question": "What does Fadiman say about drugs that change brain activity?",
+                    "answer": "there are still no conclusive clinical studies to estimate the benefits and damages that can still be caused"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Fadiman say about the effects of drugs on brain activity?",
+                    "score": 0.8063,
+                    "answers": "Fadiman himself|nsubj"
+                },
+                {
+                    "question": "What are the side effects of drugs that change brain activity?",
+                    "score": 0.7849,
+                    "answers": "that change brain activity|relcl"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.5391,
+                    "answers": "www.playgroundmag.net|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Because according to Dr. Barry L. Jacobs, of the Department of Psychology of Princeton University, distinguishes two effects that recreational LSD can cause: psychodelia and euphoria or paranoia and psychosis.",
+            "question_answers": [
+                {
+                    "question": "What are the two effects that recreational LSD can cause?",
+                    "answer": "psychodelia and euphoria or paranoia and psychosis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the effects of recreational LSD?",
+                    "score": 0.8209,
+                    "answers": "www.playgroundmag.net|nsubj\twww.playgroundmag.net reported on 20/06/2023 that Because according to Dr. Barry L. Jacobs , of the Department of Psychology of Princeton University , distinguishes two effects that recreational LSD can cause : psychodelia and euphoria or paranoia and psychosis|ROOT\tthat Because according to Dr. Barry L. Jacobs , of the Department of Psychology of Princeton University , distinguishes two effects that recreational LSD can cause : psychodelia and euphoria or paranoia and psychosis|ccomp\ttwo effects that recreational LSD can cause : psychodelia and euphoria or paranoia and psychosis|dobj\trecreational LSD|nsubj\tthat recreational LSD can cause|relcl\tpsychodelia and euphoria or paranoia and psychosis|appos\teuphoria|conj"
+                },
+                {
+                    "question": "What is Dr. Barry L. Jacobs' position on recreational LSD?",
+                    "score": 0.7607,
+                    "answers": "on 20/06/2023|prep\tthat|mark\tBecause|mark\taccording to Dr. Barry L. Jacobs , of the Department of Psychology of Princeton University|prep\tDr.|compound\tBarry|compound\tL.|compound\t,|punct\tthe|det\tof Psychology|prep\tPsychology|pobj\tof Princeton University|prep\tPrinceton|compound\t,|punct\tthat|dobj\trecreational|amod\tcan|aux\t:|punct\tand|cc\tor|cc\tparanoia and psychosis|conj\tand|cc\tpsychosis|conj"
+                }
+            ]
+        },
+        {
+            "claim": "And playing with these two monsters at work can cost you your job and your health.",
+            "question_answers": [
+                {
+                    "question": "When did www.playgroundmag.net report that playing with two monsters at work can cost you your job and health?",
+                    "answer": "20/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does playing with the two monsters at work cost you your job and health?",
+                    "score": 0.77,
+                    "answers": "these two monsters|pobj"
+                },
+                {
+                    "question": "What are the benefits of playing with two monsters at work?",
+                    "score": 0.7426,
+                    "answers": "that|mark\tAnd|cc\tthese|det\tat work|prep\twork|pobj\tcan|aux\tyou|dative\tyour|poss\tyour job and your health|dobj\tand|cc\tyour|poss\tyour health|conj"
+                },
+                {
+                    "question": "What isplaygroundmag.net?",
+                    "score": 0.5417,
+                    "answers": "www.playgroundmag.net|nsubj"
+                }
+            ]
+        }
+    ]
+}

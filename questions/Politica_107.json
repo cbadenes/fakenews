@@ -1,0 +1,308 @@
+{
+    "id": "Politica_107",
+    "claim": "VOX denounces the granting of development aid money to LGTBI associations and feminists at national level. He asked the Government what projects justified such national associations to be financed with money for international cooperation. For the period from 3 February 2016 to 30 May 2019, the Government of Spain has granted, through the Ministry of Foreign Affairs, European Union and Cooperation, 1. 884 grants worth more than EUR 630 million (631. 179. EUR 143.19). The chollo of being feminist in Spain: 93 million euros in grantsThese grants, especially those granted through the Spanish Agency for International Cooperation for Development, should be focused on the purposes that are specific to the aforementioned public institutions – Ministry of Foreign Affairs, Agency for International Cooperation.. – and, however, among these more than 600 million euros there are numerous items intended for LGTBI associations and feminist associations at national level. Why?What projects justify the granting of this money to all Spaniards?The State subsidizes with 77. 277 euros to a feminist activist who is in favor of paedophiliaIt is the question that raises to the Government the deputy of the VOX Parliamentary Group for Madrid and member of the Commission for International Cooperation for Development, Carla Toscano:- Which associations LGTBI and feminists at national level have received grants from the Ministry of Foreign Affairs, Union Europe and Cooperation, in particular from the Spanish Agency for International Cooperation for Development destined for Development Cooperation?The 'chiringuito' of the 2. 000 feminist associations that want to close VOX in Andalusia-What concrete activities, services and/or projects are carried out by these associations that have justified the receipt of subsidies by the aforementioned public bodies?The government now has, according to News 190 of the Rules of Procedure of the Congress, a period of 20 days to respond, being able to extend this period at the request of the Executive for another 20 days more. I'm sorry.",
+    "source": "www.mediterraneodigital.com",
+    "date": "13/08/2019",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "VOX denounces the granting of development aid money to LGTBI associations and feminists at national level.",
+            "question_answers": [
+                {
+                    "question": "Who denounced the granting of development aid money to LGTBI associations and feminists?",
+                    "answer": "VOX"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Does VOX denounces the granting of development aid money to LGTBI associations?",
+                    "score": 0.8944,
+                    "answers": "www.mediterraneodigital.com reported on 13/08/2019 that VOX denounces the granting of development aid money to LGTBI associations and feminists at national level|ROOT"
+                },
+                {
+                    "question": "How much development aid money does VOX give to the LGBT community?",
+                    "score": 0.8926,
+                    "answers": "the granting of development aid money to LGTBI associations and feminists at national level|dobj"
+                },
+                {
+                    "question": "What does VOX say about development aid money?",
+                    "score": 0.888,
+                    "answers": "that VOX denounces the granting of development aid money to LGTBI associations and feminists at national level|ccomp"
+                },
+                {
+                    "question": "What is the definition of development aid?",
+                    "score": 0.7179,
+                    "answers": "development|compound\tdevelopment aid|compound\tfeminists|conj"
+                },
+                {
+                    "question": "What is the national level of VOX?",
+                    "score": 0.5609,
+                    "answers": "at national level|prep\tnational level|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "VOX asked the Government what projects justified such national associations to be financed with money for international cooperation.",
+            "question_answers": [
+                {
+                    "question": "Who reported that VOX asked the Government what projects justified national associations to be financed with money for international cooperation?",
+                    "answer": "www.mediterraneodigital.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the government ask the government for help with foreign aid?",
+                    "score": 0.8544,
+                    "answers": "that VOX asked the Government what projects justified such national associations to be financed with money for international cooperation|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the government's funding for national associations?",
+                    "score": 0.7603,
+                    "answers": "www.mediterraneodigital.com reported on 13/08/2019 that VOX asked the Government what projects justified such national associations to be financed with money for international cooperation|ROOT\twhat projects justified such national associations to be financed with money for international cooperation|ccomp"
+                },
+                {
+                    "question": "What is the purpose of international cooperation?",
+                    "score": 0.7236,
+                    "answers": "international cooperation|pobj"
+                },
+                {
+                    "question": "What is the relationship between the government and the National Association?",
+                    "score": 0.6627,
+                    "answers": "such national associations|nsubjpass"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.5596,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "For the period from 3 February 2016 to 30 May 2019, the Government has granted, through the Ministry of Foreign Affairs , European Union and Cooperation, 1.",
+            "question_answers": [
+                {
+                    "question": "Through which ministry did the Government grant the European Union and Cooperation?",
+                    "answer": "Ministry of Foreign Affairs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the Government of Foreign Affairs and European Union Cooperation?",
+                    "score": 0.6855,
+                    "answers": "through the Ministry of Foreign Affairs , European Union and Cooperation|prep"
+                },
+                {
+                    "question": "What is the Ministry of Foreign Affairs, European Union and Cooperation?",
+                    "score": 0.6289,
+                    "answers": "the Ministry of Foreign Affairs , European Union and Cooperation|pobj"
+                },
+                {
+                    "question": "What was the time period from 3 February 2016 to 30 May 2019?",
+                    "score": 0.5894,
+                    "answers": "For the period from 3 February 2016 to 30 May 2019|prep"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.4521,
+                    "answers": "www.mediterraneodigital.com|nsubj\twww.mediterraneodigital.com reported on 13/08/2019 that For the period from 3 February 2016 to 30 May 2019 , the Government has granted , through the Ministry of Foreign Affairs , European Union and Cooperation , 1|ROOT\ton 13/08/2019|prep\tthat|mark\tthe|det\t3|nummod\t2016|pobj\t30|nummod\t2019|nummod\t,|punct\tthe|det\thas|aux\t,|punct\tthe|det\t,|punct\tand|cc\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "884 grants worth more than EUR 630 million (631.",
+            "question_answers": [
+                {
+                    "question": "How many grants were reported on 13/08/2019 by www.mediterraneodigital.com?",
+                    "answer": "884"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many grants were awarded in 2019?",
+                    "score": 0.7653,
+                    "answers": "that 884 grants worth more than EUR 630 million ( 631|dobj"
+                },
+                {
+                    "question": "How much money did Mediterraneodigital.com receive in grants in 2019?",
+                    "score": 0.7096,
+                    "answers": "worth more than EUR 630 million ( 631|amod\tmore than EUR 630 million ( 631|npadvmod"
+                },
+                {
+                    "question": "How many grants has Mediterraneodigital.com received?",
+                    "score": 0.6928,
+                    "answers": "www.mediterraneodigital.com reported on 13/08/2019 that 884 grants worth more than EUR 630 million ( 631|ROOT\ton 13/08/2019|prep\tthat|mark\tmore|amod\tthan|quantmod\t630|compound\t(|punct"
+                },
+                {
+                    "question": "What is the source of evidence of the grant money?",
+                    "score": 0.6921,
+                    "answers": "EUR|quantmod"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.5317,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 143.19).",
+            "question_answers": [
+                {
+                    "question": "On what date did www.mediterraneodigital.com report EUR 143.19)?",
+                    "answer": "13/08/2019"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of EUR 143.19?",
+                    "score": 0.7914,
+                    "answers": "that|mark\t)|punct"
+                },
+                {
+                    "question": "What is the value of Mediterraneodigital.com?",
+                    "score": 0.6408,
+                    "answers": "www.mediterraneodigital.com reported on 13/08/2019 that EUR 143.19 )|ROOT"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.5918,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The chollo of being feminist in the Government : 93 million euros in grantsThese grants, especially those granted through the Spanish Agency for International Cooperation for Development , should be focused on the purposes that are specific to the aforementioned public institutions – Ministry of Foreign Affairs, Agency for International Cooperation .. – and, however, among 93 million euros in grantsThese there are numerous items intended for LGTBI associations and feminist associations at national level.",
+            "question_answers": [
+                {
+                    "question": "What agency is responsible for grants for the chollo of being feminist in the Government?",
+                    "answer": "Spanish Agency for International Cooperation for Development"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Spanish Agency for International Cooperation for Development do?",
+                    "score": 0.7059,
+                    "answers": "especially those granted through the Spanish Agency for International Cooperation for Development|appos\tgranted through the Spanish Agency for International Cooperation for Development|acl\tthrough the Spanish Agency for International Cooperation for Development|prep\tSpanish|compound\tfor International Cooperation for Development|prep\tInternational|compound\tInternational Cooperation for Development|pobj\tfor Development|prep\tDevelopment|pobj\tfor International Cooperation|prep\tInternational|compound\tInternational Cooperation|pobj"
+                },
+                {
+                    "question": "What is the purpose of these grants?",
+                    "score": 0.6207,
+                    "answers": "www.mediterraneodigital.com reported on 13/08/2019 that The chollo of being feminist in the Government : 93 million euros in grantsThese grants , especially those granted through the Spanish Agency for International Cooperation for Development|ROOT\ton 13/08/2019|prep\tthat|mark\tThe|det\tin the Government|prep\tthe|det\tthe Government|pobj\t:|punct\t93|compound\t93 million|nummod\t93 million euros in grantsThese|appos\tin grantsThese|prep\tgrantsThese|pobj\tgrants , especially those granted through the Spanish Agency for International Cooperation for Development|punct\t,|punct\tespecially|advmod\tthe|det\t,|punct\tshould|aux\tbe|auxpass\t, should be focused on the purposes that are specific to the aforementioned public institutions – Ministry of Foreign Affairs , Agency for International Cooperation .. – and , however , among 93 million euros in grantsThese there are numerous items intended for LGTBI associations and feminist associations at national level|ROOT\ton the purposes that are specific to the aforementioned public institutions – Ministry of Foreign Affairs , Agency for International Cooperation .. –|prep\tthe|det\tthe purposes that are specific to the aforementioned public institutions – Ministry of Foreign Affairs , Agency for International Cooperation .. –|pobj\tthat|nsubj\tthat are specific to the aforementioned public institutions – Ministry of Foreign Affairs , Agency for International Cooperation ..|relcl\tspecific to the aforementioned public institutions – Ministry of Foreign Affairs , Agency for International Cooperation ..|acomp\tto the aforementioned public institutions – Ministry of Foreign Affairs , Agency for International Cooperation ..|prep\tthe|det\taforementioned|amod\tpublic|amod\tthe aforementioned public institutions – Ministry of Foreign Affairs , Agency for International Cooperation ..|pobj\t–|punct\tMinistry of Foreign Affairs , Agency for International Cooperation|appos\tof Foreign Affairs|prep\tForeign|compound\tForeign Affairs|pobj\t,|punct\t..|punct\t–|punct\tand|cc\t,|punct\thowever|advmod\t,|punct\tamong 93 million euros in grantsThese|prep\t93|compound\t93 million|nummod\t93 million euros in grantsThese|pobj\tin grantsThese|prep\tgrantsThese|pobj\tthere|expl\t, however , among 93 million euros in grantsThese there are numerous items intended for LGTBI associations and feminist associations at national level|conj\tnumerous|amod\tnumerous items intended for LGTBI associations and feminist associations at national level|attr\tintended for LGTBI associations and feminist associations at national level|acl\tfor LGTBI associations and feminist associations at national level|prep\tLGTBI associations and feminist associations at national level|pobj\tand|cc\tfeminist|amod\tfeminist associations|conj\tat national level|prep\tnational|amod\tnational level|pobj"
+                },
+                {
+                    "question": "What is the chollo of being feminist in the Government?",
+                    "score": 0.6075,
+                    "answers": "that The chollo of being feminist in the Government : 93 million euros in grantsThese|parataxis"
+                }
+            ]
+        },
+        {
+            "claim": "Why?What projects justify the granting of development aid money to all Spaniards?The State subsidizes with 77.",
+            "question_answers": [
+                {
+                    "question": "How many projects does the State subsidize?",
+                    "answer": "77"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money does the state subsidize development aid money to all Spaniards?",
+                    "score": 0.8445,
+                    "answers": "development aid money|pobj"
+                },
+                {
+                    "question": "What projects justify the granting of development aid to all Spaniards?",
+                    "score": 0.8248,
+                    "answers": "to all Spaniards?The|prep"
+                },
+                {
+                    "question": "What projects are granted to all Spaniards?",
+                    "score": 0.8237,
+                    "answers": "the granting of development aid money to all Spaniards?The|dobj"
+                },
+                {
+                    "question": "What projects does the state subsidize?",
+                    "score": 0.8213,
+                    "answers": "projects|nsubj\tthe|det\tdevelopment|compound\tall|det"
+                },
+                {
+                    "question": "What projects are given to all Spaniards?",
+                    "score": 0.8163,
+                    "answers": "on 13/08/2019|prep"
+                }
+            ]
+        },
+        {
+            "claim": "277 euros to a feminist activist who is in favor of paedophiliaIt is the question that raises to the Government VOX Which associations LGTBI and feminists at national level have received grants from the Ministry of Foreign Affairs , Union Europe and Cooperation, in particular from the Spanish Agency for International Cooperation for Development destined for Development Cooperation?The 'chiringuito' of the 2. 000 feminist associations that want to close VOX in Andalusia .",
+            "question_answers": [
+                {
+                    "question": "Who has given grants to feminists in Andalusia?",
+                    "answer": "Ministry of Foreign Affairs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Spanish Agency for International Cooperation for Development destined for Development Cooperation do?",
+                    "score": 0.679,
+                    "answers": "in particular from the Spanish Agency for International Cooperation for Development destined for Development|prep\tthe Spanish Agency for International Cooperation for Development destined for Development|pobj"
+                },
+                {
+                    "question": "What does it mean to be in favor of paedophilia?",
+                    "score": 0.6539,
+                    "answers": "favor of paedophiliaIt|pobj\tof paedophiliaIt|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the money given to the lesbian activist who is in favor of paedophilia in Andalusia?",
+                    "score": 0.6391,
+                    "answers": "at national level|prep\tCooperation?The|punct"
+                },
+                {
+                    "question": "What are the names of the 2.000 feminist associations that want to close VOX in Andalusia?",
+                    "score": 0.6345,
+                    "answers": "of the 2 . 000 feminist associations that want to close VOX in Andalusia|prep\tthe 2 . 000 feminist associations that want to close VOX in Andalusia|pobj"
+                },
+                {
+                    "question": "What is the name of the group that received grants from the Ministry of Foreign Affairs, Union Europe and Cooperation?",
+                    "score": 0.6167,
+                    "answers": "Which associations LGTBI and feminists at national level have received grants from the Ministry of Foreign Affairs , Union Europe and Cooperation , in particular from the Spanish Agency for International Cooperation for Development destined for Development Cooperation?The|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "the 2. 000 feminist associations that want to close VOX in Andalusia -What concrete activities, services and/or projects are carried out by the 2. 000 feminist associations that want to close VOX in Andalusia that have justified the receipt of subsidies by the aforementioned public institutions – Ministry of Foreign Affairs, Agency for International Cooperation government now has, according to News 190 of the Rules of Procedure of the Congress, a period of 20 days to respond, being able to extend a period of 20 days at the request of the Executive for another 20 days more.",
+            "question_answers": [
+                {
+                    "question": "What is the number of feminist associations that want to close VOX in Andalusia?",
+                    "answer": "2. 000 feminist associations that want to close VOX in Andalusia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money has been given to the associations that want to close VOX in Andalusia?",
+                    "score": 0.7606,
+                    "answers": "of subsidies|prep"
+                },
+                {
+                    "question": "How long does it take to respond to the request of the executive for another 20 days?",
+                    "score": 0.7172,
+                    "answers": "of Procedure of the Congress|prep\ta period of 20 days to respond|dobj\ta period of 20 days|dobj\tof the Executive|prep"
+                },
+                {
+                    "question": "How long did it take for the executive to extend a period of 20 days?",
+                    "score": 0.6864,
+                    "answers": "at the request of the Executive|prep"
+                },
+                {
+                    "question": "How long is the time limit to respond to requests from the executive?",
+                    "score": 0.667,
+                    "answers": "the request of the Executive|pobj"
+                },
+                {
+                    "question": "What are the functions of the Committee on Foreign Relations and Cooperation?",
+                    "score": 0.6181,
+                    "answers": "according to News 190 of the Rules of Procedure of the Congress|prep"
+                }
+            ]
+        }
+    ]
+}

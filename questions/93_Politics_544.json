@@ -1,0 +1,180 @@
+{
+    "id": "93_Politics_544",
+    "claim": "The party that emerged after the dissolution of the Revolutionary Armed Forces of Colombia said that the'wrote triumph'of the darkist filled with hope to Mexico and Latin America. The demobilized Colombian guerrilla of the Revolutionary Alternative Common Force (FARC) congratulated in a statement Andres Manuel Lopez Obrador, for being virtual winner of the presidential election, and entrusted him with continuing to support the peace process in Colombia. 'The National Political Council of the Fuerza Alternativa Revolucionaria del Común (FARC) party congratulates the new elected president of Mexico, Andres Manuel Lopez Obrador, the Morena party and the Mexican people for the loose electoral triumph, which fills the Aztec country with hopes; as well as the whole of Latin America ', details the message issued by the political party that was born of the dissolution of the former Revolutionary Armed Forces of Colombia. The political institute highlighted that the descendants of Moctezuma, Pancho Villa, Emiliano Zapata, Lázaro Cárdenas and all Mexican patriots stopped the electoral streak of the right in Latin America. He also called for both the government and the Mexican state to continue to support the peace process in Colombia, which is at the implementation stage, threatened by forces that want to ignore what was agreed in the Havana agreement, he said. The FARC left arms in , based on the peace agreement signed in November by  with the government of President Juan Manuel Santos, who managed to stop a war of  years that left close to  a thousand dead and eight million victims. I'm sorry.",
+    "source": "www.elfinanciero.com.mx",
+    "date": "04/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The party that emerged after the dissolution of the Revolutionary Armed Forces of Colombia said that the'wrote triumph'of the darkist filled with hope to Mexico and Latin America .",
+            "question_answers": [
+                {
+                    "question": "The party emerged after the dissolution of what?",
+                    "answer": "the Revolutionary Armed Forces of Colombia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who wrote triumph'of the darkist filled with hope to Mexico and Latin America?",
+                    "score": 0.6956,
+                    "answers": "of the Revolutionary Armed Forces of Colombia|prep\tfilled with hope to Mexico and Latin America|acl\tMexico and Latin America|pobj"
+                },
+                {
+                    "question": "What happened to the Revolutionary Armed Forces of Colombia?",
+                    "score": 0.6864,
+                    "answers": "after the dissolution of the Revolutionary Armed Forces of Colombia|prep\tthe dissolution of the Revolutionary Armed Forces of Colombia|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The National Political Council of the Fuerza Alternativa Revolucionaria del Común (FARC) party congratulated in a statement Andres Manuel Lopez Obrador , for being virtual winner of the presidential election, and entrusted Andres Manuel Lopez Obrador with continuing to support the peace process in The demobilized Colombian guerrilla of the Revolutionary Alternative Common Force (FARC) .",
+            "question_answers": [
+                {
+                    "question": "Who did the National Political Council of the Fuerza Alternativa Revolucionaria del Comn (FARC)congratulate in a statement?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Andres Manuel Lopez Obrador support the peace process?",
+                    "score": 0.8227,
+                    "answers": "with continuing to support the peace process in The demobilized Colombian guerrilla of the Revolutionary Alternative Common Force ( FARC )|prep"
+                },
+                {
+                    "question": "What did the National Political Council say about Andres Manuel Lopez Obrador?",
+                    "score": 0.6667,
+                    "answers": "on 04/07/2018|prep"
+                },
+                {
+                    "question": "What was the result of Andres Manuel Lopez Obrador's election in 2018?",
+                    "score": 0.6009,
+                    "answers": "demobilized|amod"
+                },
+                {
+                    "question": "What does FARC stand for?",
+                    "score": 0.6002,
+                    "answers": "Fuerza Alternativa Revolucionaria del Común ( FARC )|nmod\tAlternative|compound"
+                },
+                {
+                    "question": "What is FARC?",
+                    "score": 0.5186,
+                    "answers": "Alternativa|nmod\tRevolutionary|compound\tCommon|compound\tthe Revolutionary Alternative Common Force ( FARC )|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'the Revolutionary Armed Forces of Colombia congratulates Andres Manuel Lopez Obrador , the Morena party and the Mexican people for the loose electoral triumph, which fills Mexico with hopes; as well as the whole of Latin America ', details a statement .",
+            "question_answers": [
+                {
+                    "question": "Who did the Revolutionary Armed Forces of Colombiacongratulate?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many votes did Andres Manuel Lopez Obrador win?",
+                    "score": 0.8276,
+                    "answers": "the loose electoral triumph , which fills Mexico with hopes ; as well as the whole of Latin America|pobj"
+                },
+                {
+                    "question": "What does the Revolutionary Armed Forces of Colombia say about Andres Manuel Lopez Obrador?",
+                    "score": 0.8041,
+                    "answers": "which fills Mexico with hopes ; as well as the whole of Latin America|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of Andres Manuel Lopez Obrador's electoral victory?",
+                    "score": 0.752,
+                    "answers": "Latin|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the Revolutionary Armed Forces of Colombia highlighted that the descendants of Moctezuma, Pancho Villa, Emiliano Zapata, Lázaro Cárdenas and all Mexican patriots stopped the electoral streak of the right in Latin America .",
+            "question_answers": [
+                {
+                    "question": "Who highlighted that the descendants of Moctezuma, Pancho Villa, Emiliano Zapata, Lázaro Cárdenas and all Mexican patriots stopped the electoral streak of right in Latin America?",
+                    "answer": "the Revolutionary Armed Forces of Colombia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Revolutionary Armed Forces of Colombia say about Moctezuma?",
+                    "score": 0.7732,
+                    "answers": "Lázaro|compound"
+                },
+                {
+                    "question": "What is the electoral streak of the right in Latin America?",
+                    "score": 0.6451,
+                    "answers": "that the descendants of Moctezuma , Pancho Villa , Emiliano Zapata , Lázaro Cárdenas and all Mexican patriots stopped the electoral streak of the right in Latin America|ccomp\tthe electoral streak of the right in Latin America|dobj\tof the right|prep\tthe right|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The National Political Council of the Fuerza Alternativa Revolucionaria del Común (FARC) party also called for both the government and Mexico to continue to support the peace process in The demobilized Colombian guerrilla of the Revolutionary Alternative Common Force (FARC) , which is at the implementation stage, threatened by forces that want to ignore what was agreed in the Havana agreement, The National Political Council of the Fuerza Alternativa Revolucionaria del Común (FARC) party said.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the demobilized Colombian guerrilla?",
+                    "answer": "Revolutionary Alternative Common Force (FARC)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the National Political Council of the Fuerza Alternativa Revolucionaria del Comn (FARC) party say about the peace process?",
+                    "score": 0.7446,
+                    "answers": "to support the peace process|xcomp"
+                },
+                {
+                    "question": "What did FARC say about the Havana agreement?",
+                    "score": 0.7031,
+                    "answers": "threatened by forces that want to ignore what was agreed in the Havana agreement|advcl\tto ignore what was agreed in the Havana agreement|xcomp\tin the Havana agreement|prep\tthe Havana agreement|pobj"
+                },
+                {
+                    "question": "What was agreed in the Havana agreement?",
+                    "score": 0.6541,
+                    "answers": "what was agreed in the Havana agreement|ccomp"
+                },
+                {
+                    "question": "What does FARC stand for?",
+                    "score": 0.6367,
+                    "answers": "The National Political Council of the Fuerza Alternativa Revolucionaria del Común ( FARC ) party|nsubj\tof the Fuerza Alternativa Revolucionaria del Común ( FARC ) party|prep\tthe Fuerza Alternativa Revolucionaria del Común ( FARC ) party|pobj\tThe National Political Council of the Fuerza Alternativa Revolucionaria del Común ( FARC ) party|nsubj\tof the Fuerza Alternativa Revolucionaria del Común ( FARC ) party|prep\tthe Fuerza Alternativa Revolucionaria del Común ( FARC ) party|pobj\tThe National Political Council of the Fuerza Alternativa Revolucionaria del Común ( FARC ) party said|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of FARC funding?",
+                    "score": 0.6205,
+                    "answers": "www.elfinanciero.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The party that emerged after the dissolution of the Revolutionary Armed Forces of Colombia left arms in , based on the peace agreement signed in November by  with the government of President Juan Manuel Santos, who managed to stop a war of  years that left close to  a thousand dead and eight million victims.",
+            "question_answers": [
+                {
+                    "question": "What did the party that emerged after the dissolution of the Revolutionary Armed Forces of Colombia do?",
+                    "answer": "The party that emerged after the dissolution of the Revolutionary Armed Forces of Colombia left arms in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who signed the peace agreement with the Revolutionary Armed Forces of Colombia?",
+                    "score": 0.7408,
+                    "answers": "the peace agreement signed in November by|pobj"
+                },
+                {
+                    "question": "What was the peace agreement signed by President Juan Manuel Santos?",
+                    "score": 0.6365,
+                    "answers": "  with the government of President Juan Manuel Santos , who managed to stop a war of   years that left close to   a thousand dead and eight million victims|dep\twith the government of President Juan Manuel Santos , who managed to stop a war of   years that left close to   a thousand dead and eight million victims|prep\tthe government of President Juan Manuel Santos , who managed to stop a war of   years that left close to   a thousand dead and eight million victims|pobj\tof President Juan Manuel Santos , who managed to stop a war of   years that left close to   a thousand dead and eight million victims|prep\tPresident Juan Manuel Santos , who managed to stop a war of   years that left close to   a thousand dead and eight million victims|pobj\twho managed to stop a war of   years that left close to   a thousand dead and eight million victims|relcl\tyears that left close to   a thousand dead and eight million victims|pobj"
+                },
+                {
+                    "question": "How many people were killed in the war?",
+                    "score": 0.601,
+                    "answers": "  a thousand dead and eight million victims|dep"
+                },
+                {
+                    "question": "What is the history of the war of years?",
+                    "score": 0.5536,
+                    "answers": "a war of   years that left close to   a thousand dead and eight million victims|dobj"
+                }
+            ]
+        }
+    ]
+}

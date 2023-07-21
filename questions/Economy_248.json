@@ -1,0 +1,575 @@
+{
+    "id": "Economy_248",
+    "claim": "Audi expects to grow in the Premium segment, as it could move from a sales volume of just over  units to  vehicles in the long term. Announces Price Increase in August. For automotive manufacturer Audi, Mexico is the main market in Latin America, above Brazil and Argentina, so the company will continue to invest in the country, despite the impact it has seen from the depreciation of the peso against the dollar, said Walter Hanek, general manager of the company in the country. Through the new launches that the firm has had during the end of last year and in the first half of , the strengthening of the Premium sector and the new plant in Puebla that will begin to produce the next  September, the company hopes to face the exchange rate impact in the country. 'I'm sure we'll grow up (in Mexico). The second part of the year will be very hard, but we have a new release of a car from the A3 family in October, with which we will have more impulses for the market, although we also see clouds a little gray because of the exchange rate ', commented the director in interview with Forbes Mexico. Hanek admitted that they have seen pressure for the depreciation of the weight, especially with regard to the import of cars, so they expect to increase the price of their vehicles between % and % with the change of year-model from August of . The weakness of the Mexican currency 'is not something that affects only Audi, also the whole industry will have movements due to the pressure of the exchange rate ', commented. Globally, the brand has grown close to % in the first six months of the year, while in Mexico it has increased around %, with  consecutive months of record sales.'We're still number one in the premium segment in the country. The automotive industry is growing quite strong, and we see that the total market has grown % during the first semester, while the luxury segment also grew %. And we are more or less in line with segment growth ', he shared. . In October  the automotive firm launched the second generation of its U7 truck and in February  put on sale the A4 model, which has given additional volumes to the brand, said the manager. In May of this year the Audi Sport sub-brand was launched, which includes all high sports models such as the R8 and RSQ3 models, and the firm is about to launch the RS7 performance. Regarding the new luxury car plant in Puebla, the manager reiterated that it will start operations next September  and will produce Audi Q5 vans for everyone, therefore the importance of this factory. The complex will produce at least  units per year, of which % will be to meet the needs of Europe, the United States, Canada, Latin America, Asia, among other foreign markets. Only  vehicles will remain in the national territory. In the long run, the possibility of starting to manufacture a new model in the Puebla complex, which will have an extension of  hectares, where production could also be doubled in the future, Hanek said. Audi bets on the Premium sectorIn the Mexican market, Audi has a market share of % in the Premium segment, where they are sold around  units in total in the country. 'We believe that this segment will continue to grow, because more and more people have the chance to buy a car from this segment ', said the director. Faced with this scenario, Audi could move from a sales volume of just over  units to  vehicles in the long run, Walter Hanek estimated. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "01/08/2016",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Audi expects to grow in the Premium segment, as Audi could move from a only Audi of the whole industry to  vehicles in the long term.",
+            "question_answers": [
+                {
+                    "question": "What segment did Audi expect to grow in?",
+                    "answer": "Premium"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Audi say about the Premium segment?",
+                    "score": 0.8981,
+                    "answers": "to grow in the Premium segment ,|xcomp"
+                },
+                {
+                    "question": "What did Audi do to grow in the Premium segment?",
+                    "score": 0.8978,
+                    "answers": "www.forbes.com.mx reported on 01/08/2016 that Audi expects to grow in the Premium segment , as Audi could move from a only Audi of the whole industry to   vehicles in the long term|ROOT\tthat Audi expects to grow in the Premium segment , as Audi could move from a only Audi of the whole industry to|ccomp\tcould|aux\tas Audi could move from a only Audi of the whole industry to|advcl\tlong|amod"
+                },
+                {
+                    "question": "What was Audi's revenue growth in the Premium segment in 2016?",
+                    "score": 0.8826,
+                    "answers": "from a only Audi of the whole industry|prep"
+                },
+                {
+                    "question": "What is Audi's revenue growth rate in the long term?",
+                    "score": 0.8595,
+                    "answers": "www.forbes.com.mx|nsubj\tthe whole industry|pobj"
+                },
+                {
+                    "question": "What is Audi's current premium segment?",
+                    "score": 0.8469,
+                    "answers": "on 01/08/2016|prep\tPremium|compound\t,|punct\ta|det\tonly|amod\twhole|amod\tvehicles|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Announces Price Increase in August.",
+            "question_answers": [
+                {
+                    "question": "On what date did Forbes announce a price increase?",
+                    "answer": "01/08/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the price increase in August occur?",
+                    "score": 0.927,
+                    "answers": "in August|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For Audi , Mexico is the main market in Latin America, the year and Argentinaonly Audi so Audi will continue to invest in Mexico , despite the impact Audi has seen from the depreciation of the Mexico the whole industry Walter Hanek, general manager of the company in the country only Audi Walter Hanek, general manager of the company in the country .",
+            "question_answers": [
+                {
+                    "question": "What is the main market in Latin America?",
+                    "answer": "For Audi"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Audi invest in Mexico in 2016?",
+                    "score": 0.837,
+                    "answers": "the depreciation of the Mexico the whole industry|pobj\tWalter|compound\tWalter|compound"
+                },
+                {
+                    "question": "How many countries have Audi invested in?",
+                    "score": 0.8053,
+                    "answers": "despite the impact Audi has seen from the depreciation of the Mexico the whole industry|prep"
+                },
+                {
+                    "question": "What is the impact of Audi investing in Mexico?",
+                    "score": 0.7673,
+                    "answers": "Audi will continue to invest in Mexico , despite the impact Audi has seen from the depreciation of the Mexico the whole industry|conj\tthe impact Audi has seen from the depreciation of the Mexico the whole industry|pobj\tof the Mexico the whole industry|prep\twhole|amod\tthe whole industry|appos"
+                },
+                {
+                    "question": "What is the main market for Audi in Latin America?",
+                    "score": 0.7427,
+                    "answers": "in Latin America ,|prep\tLatin America ,|pobj"
+                },
+                {
+                    "question": "What is Audi's business in Mexico?",
+                    "score": 0.7306,
+                    "answers": "from the depreciation of the Mexico the whole industry|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Through the new launches that Audi has had during the end of last year and in the only Audi half of , the strengthening of the Premium sector and the new plant in only Audi begin to produce the next  Septemberonly Audi Audi hopes to face the exchange rate impact in Mexico .",
+            "question_answers": [
+                {
+                    "question": "In what part of the year did Audi begin to produce a new plant in Mexico City?",
+                    "answer": "Audi half of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the exchange rate for Audi Audi in Mexico in 2016?",
+                    "score": 0.7649,
+                    "answers": "of last year|prep\tlast|amod\tlast year|pobj\tand|cc\tthe only Audi|compound\tand|cc\tin only Audi|prep\tthe next|dobj\tAudi Audi|nsubj"
+                },
+                {
+                    "question": "What is the exchange rate impact of Audi Audi in Mexico?",
+                    "score": 0.7292,
+                    "answers": "Septemberonly Audi Audi hopes to face the exchange rate impact in Mexico|ccomp\tto face the exchange rate impact in Mexico|xcomp\tin Mexico|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'Walter Hanek, general manager of the company in the country 'm sure Audi 'll grow up only Audi ).",
+            "question_answers": [
+                {
+                    "question": "What did Walter Hanek say about Audi?",
+                    "answer": "sure Audi 'll grow up only Audi"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Audi's did Walter Hanek work for?",
+                    "score": 0.8779,
+                    "answers": "only|advmod"
+                },
+                {
+                    "question": "Who is Audi's current general manager?",
+                    "score": 0.8319,
+                    "answers": "m sure Audi 'll grow up only Audi|dep\tAudi 'll grow up only Audi|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Audi and Audi?",
+                    "score": 0.8203,
+                    "answers": "sure Audi 'll grow up only Audi|acomp"
+                },
+                {
+                    "question": "Who is the general manager of Audi?",
+                    "score": 0.8094,
+                    "answers": "www.forbes.com.mx|nsubj\tthat|mark\t'|punct\t,|punct\tgeneral|amod\tgeneral manager of the company in the country|appos\tof the company in the country|prep\tthe|det\tthe company in the country|pobj\tin the country|prep\tthe|det\tthe country|pobj\t'll|aux\t)|punct"
+                },
+                {
+                    "question": "Who is Audi's general manager in the country?",
+                    "score": 0.8092,
+                    "answers": "only Audi|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The he of the year the year very hard, but Audi have a new release of a car from the A3 family in October, with which Audi will have more impulses only Audi market, although Audi also see clouds a little gray the new luxury car plant in Puebla he Walter Hanek, general manager of the company in the country in interview with Forbes Mexico.",
+            "question_answers": [
+                {
+                    "question": "Where is the new luxury car plant located?",
+                    "answer": "Puebla"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Audi release a car from the A3 family in October 2016?",
+                    "score": 0.856,
+                    "answers": "in October|prep"
+                },
+                {
+                    "question": "What market does Audi have?",
+                    "score": 0.7956,
+                    "answers": "with which Audi will have more impulses only Audi market|advcl\tmore impulses only Audi market|dobj\tonly Audi market|appos"
+                },
+                {
+                    "question": "What will Audi do with the A3 family?",
+                    "score": 0.7569,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What was the release date of Audi's new luxury car plant in Puebla?",
+                    "score": 0.7219,
+                    "answers": "from the A3 family|prep"
+                },
+                {
+                    "question": "What is Audi's relationship with Forbes Mexico?",
+                    "score": 0.654,
+                    "answers": "Forbes Mexico|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Walter Hanek, general manager of the company in the country admitted that Audi have seen only Audi for the depreciation of the weight, especially the new luxury car plant in Puebla of cars, so Audi expect to increase the price of vehicles between % and % with the change of year-model from August of .",
+            "question_answers": [
+                {
+                    "question": "How much does Audi expect to increase the price of vehicles with the change of year-model from August of 2016?",
+                    "answer": "between % and %"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much did Audi spend on developing new luxury cars?",
+                    "score": 0.7962,
+                    "answers": "for the depreciation of the weight , especially the new luxury car plant in Puebla of cars|prep"
+                },
+                {
+                    "question": "What did Walter Hanek say about Audi's 2018 model?",
+                    "score": 0.7259,
+                    "answers": "with the change of year - model from August of|prep"
+                },
+                {
+                    "question": "What is Audi doing to improve the price of vehicles?",
+                    "score": 0.7094,
+                    "answers": "to increase the price of vehicles between % and % with the change of year - model from August of|xcomp"
+                },
+                {
+                    "question": "What was Audi's revenue in 2016?",
+                    "score": 0.7071,
+                    "answers": "that|mark\t,|punct\tthe|det\tthe|det\tthat|mark\thave|aux\tonly|advmod\tonly Audi|dobj\tthe|det\tthe|det\t,|punct\tespecially|advmod\tthe|det\tcars|pobj\t,|punct\tto|aux\tthe|det\t% and %|pobj\tand|cc\t%|conj\tthe|det\tyear|compound\t-|punct\tfrom August of|prep\tof|prep"
+                },
+                {
+                    "question": "What was Audi's profit in the year 2015?",
+                    "score": 0.6796,
+                    "answers": "www.forbes.com.mx reported on 01/08/2016 that Walter Hanek , general manager of the company in the country admitted that Audi have seen only Audi for the depreciation of the weight , especially the new luxury car plant in Puebla of cars , so Audi expect to increase the price of vehicles between % and % with the change of year - model from August of|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The weakness of the Mexican currency 'is not something that affects only Audi, also the whole industry will have movements due to the pressure of the exchange rate ', commented.",
+            "question_answers": [
+                {
+                    "question": "The weakness of the Mexican currency affects the whole industry due to what?",
+                    "answer": "the pressure of the exchange rate"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What impact does the strength of the Mexican currency have on Audi?",
+                    "score": 0.8963,
+                    "answers": "something that affects only Audi|attr\tmovements|dobj"
+                },
+                {
+                    "question": "What is the impact of the exchange rate on the Mexican currency?",
+                    "score": 0.8395,
+                    "answers": "due to the pressure of the exchange rate|prep"
+                },
+                {
+                    "question": "What is the current exchange rate of the Mexican currency?",
+                    "score": 0.8345,
+                    "answers": "that|mark\tThe|det\t'|punct\tnot|neg\tthat|nsubj\t,|punct\talso|advmod\twill|aux\tthe exchange rate|pobj\t'|punct\t,|punct"
+                },
+                {
+                    "question": "What is the source of evidence of the strength of Mexican currency?",
+                    "score": 0.8302,
+                    "answers": "the|det\tthe|det\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the pressure of the exchange rate?",
+                    "score": 0.7836,
+                    "answers": "the pressure of the exchange rate|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Globally, the brand has grown close to % in the first six months of the year, while in Mexico it has increased around %, with  consecutive months of record sales.",
+            "question_answers": [
+                {
+                    "question": "How much has the Forbes brand grown in the first six months of 2016?",
+                    "answer": "close to"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the GDP of the brand in Mexico in the first six months of 2016?",
+                    "score": 0.8142,
+                    "answers": "in the first six months of the year|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'We're still number one in the premium segment in the country.",
+            "question_answers": [
+                {
+                    "question": "What segment did Forbes say we're still number one in?",
+                    "answer": "premium segment"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the premium segment of the country?",
+                    "score": 0.7991,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 01/08/2016 that ' We 're still number one in the premium segment in the country|ROOT\ton 01/08/2016|prep\tthat|mark\t'|punct\tWe|nsubj\tthat ' We 're still number one in the premium segment in the country|ccomp\tstill|advmod\tnumber one|attr\tin the premium segment|prep\tthe|det\tpremium|compound\tthe premium segment|pobj\tin the country|prep\tthe|det\tthe country|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The automotive industry is growing quite strong, and we see that the total market has grown % during the first semester, while the luxury segment also grew %.",
+            "question_answers": [
+                {
+                    "question": "What segment grew % during the first semester?",
+                    "answer": "luxury segment"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much did the luxury segment grow during the first semester of 2016?",
+                    "score": 0.9232,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 01/08/2016 that The automotive industry is growing quite strong , and we see that the total market has grown % during the first semester , while the luxury segment also grew %|ROOT\tthat|mark\tThe|det\tis|aux\tquite|advmod\tquite strong|advmod\t,|punct\tand|cc\twe|nsubj\tthat|mark\tthe|det\ttotal|amod\thas|aux\t%|npadvmod\tduring the first semester|prep\tthe|det\tfirst|amod\t,|punct\twhile|mark\tthe|det\tluxury|compound\tthe luxury segment|nsubj\talso|advmod\twhile the luxury segment also grew %|advcl\t%|npadvmod"
+                },
+                {
+                    "question": "What was the total market for the automotive industry in 2016?",
+                    "score": 0.9108,
+                    "answers": "the total market|nsubj"
+                },
+                {
+                    "question": "What is the current growth rate of the auto industry?",
+                    "score": 0.9078,
+                    "answers": "automotive|amod\tThe automotive industry|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And we are more or less in line with segment growth ', he shared.",
+            "question_answers": [
+                {
+                    "question": "What did forbes say we were more or less in line with?",
+                    "answer": "segment growth"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the segment growth rate of the Canadian economy?",
+                    "score": 0.89,
+                    "answers": "And|cc"
+                },
+                {
+                    "question": "What is the trend of segment growth?",
+                    "score": 0.8779,
+                    "answers": "that|mark\tor|cc\t,|punct\the|nsubj"
+                },
+                {
+                    "question": "What is segment growth?",
+                    "score": 0.8672,
+                    "answers": "we|nsubj\tthat And we are more or less in line with segment growth|ccomp\tmore or less|advmod\tless|conj\tmore or less in line with segment growth|prep\tline with segment growth|pobj\twith segment growth|prep\tsegment|compound\tsegment growth|pobj\twww.forbes.com.mx reported on 01/08/2016 that And we are more or less in line with segment growth ' , he shared|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "In October  the automotive firm launched the second generation of its U7 truck and in February  put on sale the A4 model, which has given additional volumes to the brand, said the manager.",
+            "question_answers": [
+                {
+                    "question": "What truck did Forbes launch in October of 2016?",
+                    "answer": "U7"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the A4 model launched?",
+                    "score": 0.8131,
+                    "answers": "In October|prep\tIn October  |dep\tin February  |dep"
+                },
+                {
+                    "question": "How many volumes did the A4 model sell in February 2016?",
+                    "score": 0.761,
+                    "answers": "in February   put on sale the A4 model , which has given additional volumes to the brand|conj"
+                },
+                {
+                    "question": "What was the name of the second generation of U7 truck?",
+                    "score": 0.7126,
+                    "answers": "www.forbes.com.mx|nsubj\tthe automotive firm|nsubj\tthe automotive firm launched the second generation of its U7 truck and in February   put on sale the A4 model , which has given additional volumes to the brand|ccomp"
+                },
+                {
+                    "question": "What is the A4 model of U7?",
+                    "score": 0.6735,
+                    "answers": "of its U7 truck|prep"
+                },
+                {
+                    "question": "Who is the manager of Forbes.com.mx?",
+                    "score": 0.5605,
+                    "answers": "the manager|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In May of this year the Audi Sport sub-brand was launched, which includes all high sports models such as the R8 and RSQ3 models, and the firm is about to launch the RS7 performance.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the performance model that Audi is about to launch?",
+                    "answer": "RS7"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Audi Sport sub-brand launched?",
+                    "score": 0.9011,
+                    "answers": "In May of this year|prep"
+                },
+                {
+                    "question": "What was the release date of Audi Sport sub-brand in May 2016?",
+                    "score": 0.7747,
+                    "answers": "about to launch the RS7 performance|acomp"
+                },
+                {
+                    "question": "What are the features of the Audi Sport sub-brand?",
+                    "score": 0.7706,
+                    "answers": "the RS7 performance|dobj"
+                },
+                {
+                    "question": "What is Audi Sport sub-brand?",
+                    "score": 0.7696,
+                    "answers": "www.forbes.com.mx|nsubj\ton 01/08/2016|prep\tthat|mark\tof this year|prep\tthis|det\tthis year|pobj\tthe|det\tAudi|compound\tthe Audi Sport sub which includes all high sports models such as the R8 and RSQ3 models|nsubjpass\t-|nsubjpass\tbrand|nsubjpass\twas|auxpass\t,|punct\twhich|nsubj\tall|det\thigh|amod\tsports|compound\tall high sports models such as the R8 and RSQ3 models|dobj\tsuch|amod\tsuch as the R8 and RSQ3 models|prep\tthe|det\tand|cc\tthe R8 and RSQ3 models|pobj\t,|punct\tand|cc\tthe|det\tthe firm|nsubj\tthe firm is about to launch the RS7 performance|conj\tto|aux\tthe|det"
+                },
+                {
+                    "question": "What is the Audi Sport sub brand?",
+                    "score": 0.7601,
+                    "answers": "that In May of this year the Audi Sport sub which includes all high sports models such as the R8 and RSQ3 models - brand was launched , , and the firm is about to launch the RS7 performance|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Regarding the new luxury car plant in Puebla, the manager reiterated that it will start operations next September  and will produce Audi Q5 vans for everyone, therefore the importance of this factory.",
+            "question_answers": [
+                {
+                    "question": "What type of vans will be produced at the new luxury car plant in Puebla?",
+                    "answer": "Audi Q5"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Audi's Puebla plant start operations?",
+                    "score": 0.8479,
+                    "answers": "that it will start operations next September|ccomp"
+                },
+                {
+                    "question": "When did the new luxury car plant open in Puebla?",
+                    "score": 0.8249,
+                    "answers": "that Regarding the new luxury car plant in Puebla , the manager reiterated that it will start operations next September|ccomp"
+                },
+                {
+                    "question": "What is the name of the Audi luxury car plant in Puebla?",
+                    "score": 0.6771,
+                    "answers": "Audi Q5|compound\tAudi Q5 vans|dobj"
+                },
+                {
+                    "question": "What is the importance of the Audi Q5 van?",
+                    "score": 0.645,
+                    "answers": "operations|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The complex will produce at least  units per year, of which % will be to meet the needs of Europe, the United States, Canada, Latin America, Asia, among other foreign markets.",
+            "question_answers": [
+                {
+                    "question": "What percentage of units will be to meet the needs of Europe, the United States, Canada, Latin America, and Asia?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will the complex produce per year?",
+                    "score": 0.9031,
+                    "answers": "that The complex will produce at least   units per year , of which % will be to meet the needs of Europe , the United States , Canada , Latin America , Asia , among other foreign markets|ccomp\tLatin|compound"
+                },
+                {
+                    "question": "How much money will be spent on the construction of the complex?",
+                    "score": 0.8957,
+                    "answers": "of which % will be to meet the needs of Europe , the United States , Canada , Latin America , Asia , among other foreign markets|relcl"
+                },
+                {
+                    "question": "What is the purpose of the complex?",
+                    "score": 0.7519,
+                    "answers": "to meet the needs of Europe , the United States , Canada , Latin America , Asia , among other foreign markets|advcl\tthe needs of Europe , the United States , Canada , Latin America , Asia , among other foreign markets|dobj\tof Europe , the United States , Canada , Latin America , Asia , among other foreign markets|prep\tEurope , the United States , Canada , Latin America , Asia , among other foreign markets|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Only  vehicles will remain in the national territory.",
+            "question_answers": [
+                {
+                    "question": "When did forbes report that only vehicles will remain in the national territory?",
+                    "answer": "01/08/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many vehicles will remain in the national territory?",
+                    "score": 0.8855,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 01/08/2016 that Only   vehicles will remain in the national territory|ROOT\ton 01/08/2016|prep\tthat|mark\tOnly|advmod\tOnly  |dep\tvehicles|nsubj\twill|aux\tthat Only   vehicles will remain in the national territory|ccomp\tin the national territory|prep\tthe|det\tnational|amod\tthe national territory|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In the long run, the possibility of starting to manufacture a new model in the Puebla complex, which will have an extension of  hectares, where production could also be doubled in the future, Hanek said.",
+            "question_answers": [
+                {
+                    "question": "When did www.forbes.com.mx report that in the long run, the possibility of starting to manufacture a new model in the Puebla complex could be doubled?",
+                    "answer": "01/08/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much would it cost to build a new model in Puebla?",
+                    "score": 0.8266,
+                    "answers": "hectares , where production could also be doubled in the future|dobj"
+                },
+                {
+                    "question": "How much will the Puebla complex cost to build in the future?",
+                    "score": 0.8041,
+                    "answers": "of|prep\tcould|aux"
+                },
+                {
+                    "question": "How much would the Puebla complex add in the future?",
+                    "score": 0.7798,
+                    "answers": "  hectares , where production could also be doubled in the future|dep\twhere production could also be doubled in the future|relcl"
+                },
+                {
+                    "question": "How many new model will be made in the Puebla complex?",
+                    "score": 0.7659,
+                    "answers": "a new model|dobj"
+                },
+                {
+                    "question": "What will happen if the Puebla complex is extended?",
+                    "score": 0.7533,
+                    "answers": "the future|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Audi bets on the Premium sectorIn the Mexican market, Audi has a market share of % in the Premium segment, where they are sold around  units in total in the country.",
+            "question_answers": [
+                {
+                    "question": "What is Audi's market share in the Premium segment in Mexico City?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Audi's market share in the Mexican market?",
+                    "score": 0.7877,
+                    "answers": "a market share of %|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We believe that this segment will continue to grow, because more and more people have the chance to buy a car from this segment ', said the director.",
+            "question_answers": [
+                {
+                    "question": "Why did Forbes say the segment will continue to grow?",
+                    "answer": "more and more people have the chance to buy a car from this segment"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were able to buy a car from this segment?",
+                    "score": 0.7861,
+                    "answers": "that this segment will continue to grow , because more and more people have the chance to buy a car from this segment|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Faced with this scenario, Audi could move from a sales volume of just over  units to  vehicles in the long run, Walter Hanek estimated.",
+            "question_answers": [
+                {
+                    "question": "Who estimated that Audi could move from a sales volume of just over units to vehicles in the long run?",
+                    "answer": "Walter Hanek"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Audi's sales volume in the long run?",
+                    "score": 0.7963,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 01/08/2016 that Faced with this scenario , Audi could move from a sales volume of just over   units to   vehicles in the long run|ccomp\ton 01/08/2016|prep\tthat|mark\tFaced with this scenario|advcl\twith this scenario|prep\tthis|det\tthis scenario|pobj\t,|punct\tcould|aux\tthat Faced with this scenario , Audi could move from a sales volume of just over|ccomp\tfrom a sales volume of just over|prep\ta|det\tsales|compound\ta sales volume of just over|pobj\tof just over|prep\tjust|advmod\tjust over|pcomp\t  units|dep\tunits|pobj\tto|prep\t  vehicles|dep\tvehicles|dobj\tin the long run|prep\tthe|det\tlong|amod\tthe long run|pobj\t,|punct\tWalter|compound\twww.forbes.com.mx reported on 01/08/2016 that Faced with this scenario , Audi could move from a sales volume of just over   units to   vehicles in the long run , Walter Hanek estimated|ROOT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,543 @@
+{
+    "id": "26_Health_204",
+    "claim": "It is made from honey and semen proteins and nutrients. Cleopatra and the Japanese geishas were already using it. It should be used at night and when the moon is in increasing phase. It needs to be applied at night and with a clean face. A cream made from proteins and nutrients that contains semen has become the most revolutionary treatment in Colombia. Already in one of the oldest documents of Egyptian culture, known as the Papyrus of Ebers, one of the most extravagant but effective methods that Cleopatra used to preserve his youth and beauty was revealed. After researching for more than three years, Martín Carrillo, a Colombian surgeon specialized in aesthetic medicine, checked the benefits of this treatment and after perfecting the formula he decided to launch it to the market. It is a thick white cream made from honey and the proteins and nutrients that the semen contains. Carrillo read hundreds of books in which there was every luxury of details that Cleopatra had a slave dedicated exclusively to this task, for every night a little of this liquid that possesses extraordinary powers of rejuvenation had to be applied. A peculiar practice also carried out by Japanese geishas. Semen has astringent, rehabilitative and antioxidant properties 'Semen has astringent, rehabilitative and antioxidant properties ', says Carrillo, who a month after testing the cream on his own skin began to notice the results: the lines of expression on his face began to disappear, his skin was softer and hydrated and the fine wrinkles on his forehead were practically imperceptible. Faced with these strong tests, he contacted a well-known laboratory to develop this product, which has become the revelation of cosmetic treatments in Colombia. But for this cream to be effective in men and women older than  years, it needs to be applied at night, with a clean face, and when the moon is in increasing phase. 'During this period the body is more receptive and this favors the nutrition of any tissue, since the pores open ', explains Carrillo. People between  and  years should be given this treatment, which functions as a topical botox, every day for four lunar periods and those with more than  should do so for six lunar periods. The effect lasts two years. Carrillo ensures that to have a smooth and toned complexion during a party, you can apply the cream at any time of the day. The effect will last about  hours. In addition, it is a product that can be used to prevent and combat aging in different areas of the body such as buttocks, bust and neck. I'm sorry.",
+    "source": "amp.20minutos.es",
+    "date": "05/02/2009",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "It is made from honey and semen proteins and nutrients.",
+            "question_answers": [
+                {
+                    "question": "What are the ingredients of amp.20minutos.es?",
+                    "answer": "honey and semen proteins"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the origin of amp.20minutos?",
+                    "score": 0.6124,
+                    "answers": "honey and semen|nmod"
+                },
+                {
+                    "question": "What is amp.20minutos?",
+                    "score": 0.591,
+                    "answers": "on 05/02/2009|prep\tIt|nsubjpass\tfrom honey and semen proteins and nutrients|prep\tsemen|conj\thoney and semen proteins and nutrients|pobj"
+                },
+                {
+                    "question": "What is amp.20minutos.es?",
+                    "score": 0.505,
+                    "answers": "amp.20minutos.es|nsubj\tamp.20minutos.es said on 05/02/2009 that It is made from honey and semen proteins and nutrients|ROOT\tthat|mark\tis|auxpass\tthat It is made from honey and semen proteins and nutrients|ccomp\tand|cc\tand|cc\tnutrients|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Cleopatra and the Japanese geishas were already using It .",
+            "question_answers": [
+                {
+                    "question": "Who were already using Italia, according to amp.20minutos.es?",
+                    "answer": "Cleopatra and the Japanese geishas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Japanese geishas use amp.20minutos?",
+                    "score": 0.8533,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that Cleopatra and the Japanese geishas were already using It|ROOT"
+                },
+                {
+                    "question": "How many geishas have been used by Cleopatra and the Japanese since 2009?",
+                    "score": 0.7946,
+                    "answers": "the Japanese geishas|conj"
+                }
+            ]
+        },
+        {
+            "claim": "It should be used at night and when the moon is in increasing phase.",
+            "question_answers": [
+                {
+                    "question": "When should amp.20minutos.es be used?",
+                    "answer": "at night"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current phase of the moon?",
+                    "score": 0.6827,
+                    "answers": "in increasing phase|prep"
+                },
+                {
+                    "question": "What does amp.20minutos.es mean?",
+                    "score": 0.676,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that It should be used at night and when the moon is in increasing phase|ROOT"
+                },
+                {
+                    "question": "What is the effect of amp.20minutos on moon?",
+                    "score": 0.6479,
+                    "answers": "when the moon is in increasing phase|conj"
+                },
+                {
+                    "question": "What is the relationship between the moon and night time?",
+                    "score": 0.6198,
+                    "answers": "the moon|nsubj\tincreasing phase|pobj"
+                },
+                {
+                    "question": "What are the benefits of using amp.20minutos.es?",
+                    "score": 0.5934,
+                    "answers": "should|aux"
+                }
+            ]
+        },
+        {
+            "claim": "It needs to be applied at night and with a clean face.",
+            "question_answers": [
+                {
+                    "question": "Who said it needs to be applied at night and with a clean face?",
+                    "answer": "amp.20minutos.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to have a clean face?",
+                    "score": 0.6713,
+                    "answers": "a clean face|pobj"
+                },
+                {
+                    "question": "What does amp.20minutos.es do?",
+                    "score": 0.5866,
+                    "answers": "amp.20minutos.es|nsubj\tamp.20minutos.es said on 05/02/2009 that It needs to be applied at night and with a clean face|ROOT\ton 05/02/2009|prep"
+                },
+                {
+                    "question": "What does amp.20minutos.es say about clean face?",
+                    "score": 0.5827,
+                    "answers": "that It needs to be applied at night and with a clean face|ccomp"
+                },
+                {
+                    "question": "What does amp.20minutos.es do for a clean face?",
+                    "score": 0.5672,
+                    "answers": "at night and with a clean face|prep\twith a clean face|conj"
+                },
+                {
+                    "question": "What is the best way to apply at night and at night?",
+                    "score": 0.564,
+                    "answers": "night|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It has become the most revolutionary treatment in Colombia.",
+            "question_answers": [
+                {
+                    "question": "When did amp.20minutos.es say it has become the most revolutionary treatment in Colombia?",
+                    "answer": "05/02/2009"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the treatment for amp.20minutos?",
+                    "score": 0.781,
+                    "answers": "on 05/02/2009|prep"
+                },
+                {
+                    "question": "What is amp.20minutos.es?",
+                    "score": 0.6137,
+                    "answers": "amp.20minutos.es|nsubj\tamp.20minutos.es said on 05/02/2009 that It has become the most revolutionary treatment in Colombia|ROOT\tthat|mark\tIt|nsubj\thas|aux\tthat It has become the most revolutionary treatment in Colombia|ccomp\tthe|det\tmost|advmod\tmost revolutionary|amod\tthe most revolutionary treatment in Colombia|attr\tin Colombia|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Already in one of the oldest documents of Egyptian culture, known as the Papyrus of Ebers, one of the most extravagant but effective methods that Cleopatra used to preserve youth and beauty was revealed.",
+            "question_answers": [
+                {
+                    "question": "Who used the Papyrus of Ebers to preserve youth and beauty?",
+                    "answer": "Cleopatra"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What methods did Cleopatra use to preserve youth and beauty?",
+                    "score": 0.8762,
+                    "answers": "effective|conj"
+                },
+                {
+                    "question": "What is the Papyrus of Ebers?",
+                    "score": 0.7651,
+                    "answers": "amp.20minutos.es|nsubj\tamp.20minutos.es said on 05/02/2009 that Already in one of the oldest documents of Egyptian culture , known as the Papyrus of Ebers , one of the most extravagant but effective methods that Cleopatra used to preserve youth and beauty was revealed|ROOT\ton 05/02/2009|prep\tthat|mark\tAlready|advmod\tthat Already in one of the oldest documents of Egyptian culture , known as the Papyrus of Ebers , one of the most extravagant but effective methods that Cleopatra used to preserve youth and beauty was revealed|prep\tone of the oldest documents of Egyptian culture , known as the Papyrus of Ebers , one of the most extravagant but effective methods that Cleopatra used to preserve youth and beauty was revealed|pobj\tof the oldest documents of Egyptian culture|prep\tthe|det\toldest|amod\tthe oldest documents of Egyptian culture|pobj\tof Egyptian culture|prep\tEgyptian culture|pobj\t,|punct\tknown as the Papyrus of Ebers|acl\tas the Papyrus of Ebers|prep\tthe|det\tof Ebers|prep\tEbers|pobj\t,|punct\tone of the most extravagant but effective methods that Cleopatra used to preserve youth and beauty|nsubjpass\tof the most extravagant but effective methods that Cleopatra used to preserve youth and beauty|prep\tthe|det\tmost|advmod\tmost extravagant but effective|amod\tbut|cc\tthe most extravagant but effective methods that Cleopatra used to preserve youth and beauty|pobj\tthat|dobj\tthat Cleopatra used to preserve youth and beauty|relcl\tto|aux\tto preserve youth and beauty|xcomp\tyouth and beauty|dobj\tand|cc\tbeauty|conj\twas|auxpass\tone of the most extravagant but effective methods that Cleopatra used to preserve youth and beauty was revealed|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "After researching for more than three years, Martín Carrillo, a Colombian surgeon specialized in aesthetic medicine , checked the benefits of this treatment and after perfecting the formula Martín Carrillo, a Colombian surgeon specialized in aesthetic medicine decided to launch this treatment to the market.",
+            "question_answers": [
+                {
+                    "question": "What is the specialty of Martn Carrillo?",
+                    "answer": "aesthetic medicine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Martín Carrillo decide to launch amp.20minutos?",
+                    "score": 0.8208,
+                    "answers": "to launch this treatment to the market|xcomp"
+                },
+                {
+                    "question": "Did Martín Carrillo check the benefits of the treatment for aesthetic medicine?",
+                    "score": 0.805,
+                    "answers": "the benefits of this treatment|dobj"
+                },
+                {
+                    "question": "What did Martín Carrillo do to improve the formula?",
+                    "score": 0.7528,
+                    "answers": "that After researching for more than three years , Martín Carrillo , a Colombian surgeon specialized in aesthetic medicine , checked the benefits of this treatment and after perfecting the formula Martín Carrillo , a Colombian surgeon specialized in aesthetic medicine decided to launch this treatment to the market|ccomp\tperfecting the formula|pcomp\tafter perfecting the formula Martín Carrillo , a Colombian surgeon specialized in aesthetic medicine decided to launch this treatment to the market|conj"
+                },
+                {
+                    "question": "What was Martín Carrillo's career in medicine?",
+                    "score": 0.7159,
+                    "answers": "aesthetic|amod\taesthetic|amod"
+                },
+                {
+                    "question": "What is the name of the formula Martin Carrillo created?",
+                    "score": 0.6736,
+                    "answers": "the formula|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "this treatment is a thick white cream made from honey and the proteins and nutrients that the semen contains.",
+            "question_answers": [
+                {
+                    "question": "What did amp.20minutos.es say the cream was made from?",
+                    "answer": "honey"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of amp.20minutos?",
+                    "score": 0.487,
+                    "answers": "that the semen contains|relcl"
+                },
+                {
+                    "question": "What is amp.20minutos?",
+                    "score": 0.4825,
+                    "answers": "on 05/02/2009|prep\tthat this treatment is a thick white cream made from honey and the proteins and nutrients that the semen contains|ccomp\ta|det\tthick|amod\tand|cc\tthe|det\tand|cc\tnutrients|conj\tthe|det\tthe semen|nsubj"
+                },
+                {
+                    "question": "What is amp.20minutos.es?",
+                    "score": 0.4314,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that this treatment is a thick white cream made from honey and the proteins and nutrients that the semen contains|ROOT\tthat|mark\tthis|det\tthis treatment|nsubj\twhite|amod\ta thick white cream made from honey and the proteins and nutrients that the semen contains|attr\tmade from honey and the proteins and nutrients that the semen contains|acl\tfrom honey and the proteins and nutrients that the semen contains|prep\thoney and the proteins and nutrients that the semen contains|pobj\tthe proteins and nutrients that the semen contains|conj\tthat|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Martín Carrillo, a Colombian surgeon specialized in aesthetic medicine read hundreds of books in which there was every luxury of details that Cleopatra had a slave dedicated exclusively to this task, for every night a little of this treatment had to be applied.",
+            "question_answers": [
+                {
+                    "question": "Who had a slave dedicated exclusively to this task?",
+                    "answer": "Cleopatra"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of medicine did Martín Carrillo specialize in?",
+                    "score": 0.7821,
+                    "answers": "aesthetic|amod\taesthetic medicine|pobj"
+                },
+                {
+                    "question": "How many books did Cleopatra have a slave dedicated to?",
+                    "score": 0.7538,
+                    "answers": "hundreds of books in which there was every luxury of details that Cleopatra had a slave dedicated exclusively to this task|dobj\tbooks in which there was every luxury of details that Cleopatra had a slave dedicated exclusively to this task|pobj\tin which there was every luxury of details that Cleopatra had a slave dedicated exclusively to this task|relcl\tevery luxury of details that Cleopatra had a slave dedicated exclusively to this task|attr"
+                },
+                {
+                    "question": "What was the purpose of Cleopatra's slave?",
+                    "score": 0.6731,
+                    "answers": "a slave dedicated exclusively to this task|dobj\texclusively to this task|prep"
+                },
+                {
+                    "question": "Who was Cleopatra's slave?",
+                    "score": 0.6701,
+                    "answers": "that Cleopatra had a slave dedicated exclusively to this task|acl"
+                },
+                {
+                    "question": "Who is Martín Carrillo?",
+                    "score": 0.6037,
+                    "answers": "Martín Carrillo , a Colombian surgeon specialized in aesthetic medicine|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "A peculiar practice also carried out by the Japanese geishas .",
+            "question_answers": [
+                {
+                    "question": "What did amp.20minutos.es say about the Japanese geishas?",
+                    "answer": "peculiar practice also carried out by the Japanese geishas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the practice carried out by the Japanese geishas?",
+                    "score": 0.8533,
+                    "answers": "on 05/02/2009|prep\tthat A peculiar practice also carried out by the Japanese geishas|ccomp\talso carried out by the Japanese geishas|acl\tby the Japanese geishas|agent\tthe Japanese geishas|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Semen has astringent, rehabilitative and antioxidant properties 'Semen has astringent, rehabilitative and antioxidant properties ', says Carrillo, who a month after testing this treatment on own skin began to notice the results: the lines of expression on face began to disappear, skin was softer and hydrated and the fine wrinkles on forehead were practically imperceptible.",
+            "question_answers": [
+                {
+                    "question": "What did amp.20minutos.es say about Semen?",
+                    "answer": "'Semen has astringent, rehabilitative and antioxidant properties"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Carrillo say about Semen?",
+                    "score": 0.7749,
+                    "answers": "amp.20minutos.es|nsubj\tamp.20minutos.es said on 05/02/2009 that Semen has astringent , rehabilitative and antioxidant properties|ROOT\ton 05/02/2009|prep\tCarrillo , who a month after testing this treatment on own skin began to notice the results|nsubj\twho a month after testing this treatment on own skin|nsubj\ta month after testing this treatment on own skin|amod\ttesting this treatment on own skin|pcomp\twho a month after testing this treatment on own skin began to notice the results|relcl\tto notice the results|xcomp\tthe results|dobj\tthe lines of expression on face|nsubj\tto disappear|xcomp\tskin was softer and hydrated and the fine wrinkles on forehead were practically imperceptible|conj\tthe fine wrinkles on forehead were practically imperceptible|conj\tpractically imperceptible|acomp"
+                },
+                {
+                    "question": "What are the properties of Semen?",
+                    "score": 0.704,
+                    "answers": "astringent , rehabilitative and antioxidant|amod\tastringent , rehabilitative and antioxidant properties|dobj\tastringent , rehabilitative and antioxidant|amod\tastringent , rehabilitative and antioxidant properties|dobj"
+                },
+                {
+                    "question": "What is Semen?",
+                    "score": 0.6761,
+                    "answers": "that|mark\tSemen|nsubj\tthat Semen has astringent , rehabilitative and antioxidant properties|ccomp\t,|punct\trehabilitative and antioxidant|conj\tand|cc\tantioxidant|conj\t'|punct\tSemen|nsubj\tSemen has astringent , rehabilitative and antioxidant properties|ccomp\t,|punct\trehabilitative and antioxidant|conj\tand|cc\tantioxidant|conj\t'|punct\t,|punct\t' Semen has astringent , rehabilitative and antioxidant properties ' , says Carrillo , who a month after testing this treatment on own skin began to notice the results|ccomp\t,|punct\ta|det\tthis|det\tthis treatment|dobj\ton own skin|prep\town|amod\town skin|pobj\tto|aux\tthe|det\t:|punct\tthe|det\tof expression on face|prep\texpression on face|pobj\ton face|prep\tface|pobj\t' Semen has astringent , rehabilitative and antioxidant properties ' , says Carrillo , who a month after testing this treatment on own skin began to notice the results : the lines of expression on face began to disappear , skin was softer and hydrated and the fine wrinkles on forehead were practically imperceptible|ROOT\tto|aux\t,|punct\tskin|nsubj\tsofter and hydrated|acomp\tand|cc\thydrated|conj\tand|cc\tthe|det\tfine|amod\tthe fine wrinkles on forehead|nsubj\ton forehead|prep\tforehead|pobj\tpractically|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Faced with these strong tests, he contacted a well-known laboratory to develop this product, which has become the revelation of cosmetic treatments in Colombia.",
+            "question_answers": [
+                {
+                    "question": "When did amp.20minutos.es say he contacted a well-known laboratory to develop his product?",
+                    "answer": "05/02/2009"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of tests were done to develop the product?",
+                    "score": 0.7048,
+                    "answers": "strong|amod"
+                },
+                {
+                    "question": "What is amp.20minutos?",
+                    "score": 0.5445,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that Faced with these strong tests , he contacted a well - known laboratory to develop this product , which has become the revelation of cosmetic treatments in Colombia|ROOT"
+                },
+                {
+                    "question": "What is the name of the company that developed the amp.20minutos.es?",
+                    "score": 0.5108,
+                    "answers": "that|mark\tthese|det\t,|punct\the|nsubj\ta|det\twell|advmod\t-|punct\tto|aux\tthis|det\t,|punct\twhich|nsubj\thas|aux\tthe|det"
+                },
+                {
+                    "question": "What is amp.20minutos.es?",
+                    "score": 0.4812,
+                    "answers": "amp.20minutos.es|nsubj\ton 05/02/2009|prep\tFaced with these strong tests|advcl\twith these strong tests|prep\tthese strong tests|pobj\tthat Faced with these strong tests , he contacted a well - known laboratory to develop this product , which has become the revelation of cosmetic treatments in Colombia|ccomp\twell - known|amod\tto develop this product , which has become the revelation of cosmetic treatments in Colombia|advcl\tthis product , which has become the revelation of cosmetic treatments in Colombia|dobj\twhich has become the revelation of cosmetic treatments in Colombia|relcl\tthe revelation of cosmetic treatments in Colombia|attr\tof cosmetic treatments in Colombia|prep\tcosmetic|amod\tcosmetic treatments in Colombia|pobj\tin Colombia|prep"
+                }
+            ]
+        },
+        {
+            "claim": "But for this cream to be effective in men and women older than  years, it needs to be applied at night, with a clean face, and when the moon is in increasing phase.",
+            "question_answers": [
+                {
+                    "question": "Who said that for this cream to be effective in men and women older than years, it needs to be applied at night, with a clean face, and when the moon is in increasing phase?",
+                    "answer": "amp.20minutos.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How effective is amp.20minutos cream for men and women?",
+                    "score": 0.7974,
+                    "answers": "effective in men and women older than|acomp"
+                },
+                {
+                    "question": "What age group does amp.20minutos belong to?",
+                    "score": 0.7587,
+                    "answers": "in men and women older than|prep\tolder than|amod"
+                },
+                {
+                    "question": "What age group is amp.20minutos.es used for?",
+                    "score": 0.6364,
+                    "answers": "years|pobj"
+                },
+                {
+                    "question": "What is the current usage of amp.20minutos?",
+                    "score": 0.5906,
+                    "answers": "increasing phase|pobj"
+                },
+                {
+                    "question": "What are the benefits of amp.20minutos?",
+                    "score": 0.5849,
+                    "answers": "on 05/02/2009|prep\twhen the moon is in increasing phase|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'During this period the body is more receptive and this favors the nutrition of any tissue, since the pores open ', explains Carrillo.",
+            "question_answers": [
+                {
+                    "question": "What happens to the pores during this period?",
+                    "answer": "the pores open"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much nutrition did the body receive during this period?",
+                    "score": 0.7114,
+                    "answers": "more|advmod"
+                },
+                {
+                    "question": "What did Carrillo say about the relationship between pores and nutrition?",
+                    "score": 0.7016,
+                    "answers": "this favors the nutrition of any tissue , since the pores open|conj"
+                },
+                {
+                    "question": "What is the relationship between the body being more receptive and nutrition of any tissue?",
+                    "score": 0.6077,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that ' During this period the body is more receptive and this favors the nutrition of any tissue , since the pores open|ccomp\tamp.20minutos.es said on 05/02/2009 that ' During this period the body is more receptive and this favors the nutrition of any tissue , since the pores open ' , explains Carrillo|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the nutrition of any tissue during this period?",
+                    "score": 0.5977,
+                    "answers": "the nutrition of any tissue|dobj"
+                },
+                {
+                    "question": "What are the pores of the body?",
+                    "score": 0.5971,
+                    "answers": "the pores|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "People between  and  years should be given this treatment, which functions as a topical botox, every day for four lunar periods and those with more than  should do so for six lunar periods.",
+            "question_answers": [
+                {
+                    "question": "How many lunar periods did amp.20minutos.es say people should be given botox every day?",
+                    "answer": "four lunar periods"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is a topical botox?",
+                    "score": 0.6593,
+                    "answers": "as a topical botox|prep\ta topical botox|pobj"
+                },
+                {
+                    "question": "What is the purpose of topical botox?",
+                    "score": 0.6426,
+                    "answers": "that People between   and   years should be given this treatment , which functions as a topical botox , every day for four lunar periods and those with more than   should do so for six lunar periods|ccomp\tthis treatment , which functions as a topical botox|dobj"
+                },
+                {
+                    "question": "How many people should be treated for botox every day for four lunar periods?",
+                    "score": 0.6423,
+                    "answers": "People between  |nmod"
+                },
+                {
+                    "question": "What are the benefits of the botox treatment?",
+                    "score": 0.6352,
+                    "answers": "years|npadvmod\tthose with more than  |dep"
+                },
+                {
+                    "question": "What is the relationship between the botox treatment and the lunar period?",
+                    "score": 0.5807,
+                    "answers": "those with more than|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The effect lasts two years.",
+            "question_answers": [
+                {
+                    "question": "How long does the effect last?",
+                    "answer": "two years"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the effect of amp.20minutos?",
+                    "score": 0.6736,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that The effect lasts two years|ROOT\ton 05/02/2009|prep\tthat|mark\tThe|det\tThe effect|nsubj\tthat The effect lasts two years|ccomp\ttwo|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "Carrillo ensures that to have a smooth and toned complexion during a party, you can apply the cream at any time of the day.",
+            "question_answers": [
+                {
+                    "question": "What cream ensures a smooth and toned complexion during a party?",
+                    "answer": "Carrillo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much cream can Carrillo apply during parties?",
+                    "score": 0.734,
+                    "answers": "amp.20minutos.es|nsubj"
+                },
+                {
+                    "question": "What type of cream does Carrillo use to apply during parties?",
+                    "score": 0.7328,
+                    "answers": "toned|conj"
+                },
+                {
+                    "question": "What time of day does Carrillo apply cream?",
+                    "score": 0.7218,
+                    "answers": "at any time of the day|prep"
+                },
+                {
+                    "question": "How long can it take to apply the cream?",
+                    "score": 0.6302,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that Carrillo ensures that to have a smooth and toned complexion during a party , you can apply the cream at any time of the day|ROOT\tthat Carrillo ensures that to have a smooth and toned complexion during a party , you can apply the cream at any time of the day|ccomp\tthat to have a smooth and toned complexion during a party , you can apply the cream at any time of the day|ccomp\tthe cream|dobj"
+                },
+                {
+                    "question": "What is Carrillo's definition of a smooth and toned complexion during parties?",
+                    "score": 0.6291,
+                    "answers": "to have a smooth and toned complexion during a party|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The effect will last about  hours.",
+            "question_answers": [
+                {
+                    "question": "Who said the effect will last about hours?",
+                    "answer": "amp.20minutos.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long will the effect of amp.20minutos last?",
+                    "score": 0.7492,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that The effect will last|ROOT\ton 05/02/2009|prep\tthat|mark\tThe effect|nsubj\twill|aux\tabout|advmod\thours|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, it is a product that can be used to prevent and combat aging in different areas of the body such as buttocks, bust and neck.",
+            "question_answers": [
+                {
+                    "question": "How can amp.20minutos.es be used in different areas of the body?",
+                    "answer": "to prevent and combat aging"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can amp.20minutos.es prevent and combat aging?",
+                    "score": 0.7437,
+                    "answers": "can|aux"
+                },
+                {
+                    "question": "What is amp.20minutos?",
+                    "score": 0.5836,
+                    "answers": "a product that can be used to prevent and combat aging in different areas of the body such as buttocks , bust and neck|attr\tof the body|prep\tsuch as buttocks , bust and neck|prep\tbust and neck|conj"
+                },
+                {
+                    "question": "What is amp.20minutos.es?",
+                    "score": 0.5144,
+                    "answers": "amp.20minutos.es said on 05/02/2009 that In addition , it is a product that can be used to prevent and combat aging in different areas of the body such as buttocks , bust and neck|ROOT\ton 05/02/2009|prep\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\tit|nsubj\tthat In addition , it is a product that can be used to prevent and combat aging in different areas of the body such as buttocks , bust and neck|ccomp\ta|det\tthat|nsubjpass\tbe|auxpass\tthat can be used to prevent and combat aging in different areas of the body such as buttocks , bust and neck|relcl\tto|aux\tto prevent and combat aging in different areas of the body such as buttocks , bust and neck|xcomp\tand|cc\tcombat aging in different areas of the body such as buttocks , bust and neck|conj\taging in different areas of the body such as buttocks , bust and neck|dobj\tin different areas of the body such as buttocks , bust and neck|prep\tdifferent|amod\tdifferent areas of the body such as buttocks , bust and neck|pobj\tthe|det\tthe body|pobj\tsuch|amod\tbuttocks , bust and neck|pobj\t,|punct\tand|cc\tneck|conj"
+                }
+            ]
+        }
+    ]
+}

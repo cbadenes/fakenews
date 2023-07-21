@@ -1,0 +1,341 @@
+{
+    "id": "Sport_308",
+    "claim": "Last weekend, in an official party, the farewell of one of the Americanist idols took place, a tribute in life to Cuauhtemoc Blanco. What nobody knew until today, is that Zinedine Zidane, the coach of Real Madrid, came to this game in order to talk with Blanco. Apparently they've reached a millionaire deal, whose figure hasn't come to light, but it'll be more than what they earn as mayor of Cuernavaca. In a telephone interview with El, Cuauhtemoc Blanco stated:'Pus look, I just know it's going to be okay ching.. this, because I still have pin.. I want to do things on the court, and that with Ronaldo's put forward, as long as he doesn't hang out. I'm sorry. All the pins.. teams in the world are gonna peel it off.\". For his part, Zidane said he is eager to see Cuauhtemoc:'With him we have guaranteed not only the Spanish league championship, but the King's Cup and Champions. We will not lose a single match all year round, because with the couple of Blanco-Ronaldo, neither Barcelona will win us'.  From what I see, he likes Cuauhtemoc's style very much. Don't you care about age? - I hope it's not a problem. I've never actually seen him play. According to a Real Madrid waterman who asked for anonymity, the decision to hire Blanco is due to the fact that until Spain came the news that Blanco, alone, had defeated all the political parties and with it had won the mayor's office of Cuernvaca, but Zidane understood that Blanco, alone, had won in all the parties of the Cuernavaca league. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "09/03/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Last weekend, in an official party, the farewell of one of the Americanist idols took place, a tribute in life to one of the Americanist idols .",
+            "question_answers": [
+                {
+                    "question": "What did one of the Americanist idols say to him?",
+                    "answer": "farewell"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the farewell of a Americanist idol take place?",
+                    "score": 0.8321,
+                    "answers": "to one of the Americanist idols|prep"
+                },
+                {
+                    "question": "When was the farewell of one of the Americanist idols?",
+                    "score": 0.8309,
+                    "answers": "of one of the Americanist idols|prep"
+                },
+                {
+                    "question": "What is the meaning of the farewell of an Americanist idol?",
+                    "score": 0.6972,
+                    "answers": "the farewell of one of the Americanist idols a tribute in life to one of the Americanist idols|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "What nobody knew until today, is that Zinedine Zidane, the coach of Real Madrid , came to this game in order to talk with one of the Americanist idols .",
+            "question_answers": [
+                {
+                    "question": "What team did Zinedine Zidane coach?",
+                    "answer": "Real Madrid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Zinedine Zidane come to the game with Real Madrid?",
+                    "score": 0.8734,
+                    "answers": "What nobody knew until today|csubj\tuntil today|prep"
+                },
+                {
+                    "question": "What did Zinedine Zidane do to talk with one of the Americanist idols?",
+                    "score": 0.8297,
+                    "answers": "in order to talk with one of the Americanist idols|prep"
+                },
+                {
+                    "question": "What is Zinedine Zidane's relationship with Real Madrid?",
+                    "score": 0.785,
+                    "answers": "to this game|prep"
+                },
+                {
+                    "question": "Who is Zinedine Zidane the coach of Real Madrid?",
+                    "score": 0.7403,
+                    "answers": "of Real Madrid|prep\tReal|compound"
+                },
+                {
+                    "question": "Who is Zinedine Zidane?",
+                    "score": 0.7101,
+                    "answers": "www.eldizque.com|nsubj\ton 09/03/2016|prep\tthat|mark\tWhat|dobj\t,|punct\tthat|mark\tZinedine|compound\tZinedine Zidane , the coach of Real Madrid|nsubj\t,|punct\tthe coach of Real Madrid|appos\t,|punct\tthis|det\torder to talk with one of the Americanist idols|pobj\tto|aux\tto talk with one of the Americanist idols|acl\twith one of the Americanist idols|prep\tone of the Americanist idols|pobj\tof the Americanist idols|prep\tthe Americanist idols|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Apparently they've reached a millionaire deal , whose figure hasn't come to light, but a millionaire deal 'll be more than what they earn as mayor of Cuernavaca.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 09/03/2016?",
+                    "answer": "Apparently they've reached a millionaire deal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the mayor of Cuernavaca receive as mayor?",
+                    "score": 0.7857,
+                    "answers": "that Apparently they 've reached a millionaire deal , whose figure has n't come to light , but a millionaire deal 'll be more than what they earn as mayor of Cuernavaca|ccomp\ta millionaire deal 'll be more than what they earn as mayor of Cuernavaca|conj"
+                },
+                {
+                    "question": "What is the salary of the mayor of Cuernavaca?",
+                    "score": 0.6714,
+                    "answers": "millionaire|compound\tmillionaire|compound\tmore than what they earn as mayor of Cuernavaca|acomp\tthan what they earn as mayor of Cuernavaca|prep\twhat they earn as mayor of Cuernavaca|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "In a telephone interview with El, one of the Americanist idols stated:'Pus look, one of the Americanist idols just know it's going to be okay ching.. this, because one of the Americanist idols still have pin.. one of the Americanist idols want to do things on the court, and that with Ronaldo 's put forward, as long as Ronaldo doesn't hang out.",
+            "question_answers": [
+                {
+                    "question": "Who is one of the Americanist idols that wants to do things on the court?",
+                    "answer": "Ronaldo"
+                },
+                {
+                    "question": "Who is one of the Americanist idols that wants to do things on the court?",
+                    "answer": "Ronaldo"
+                },
+                {
+                    "question": "Who is one of the Americanist idols that wants to do things on the court?",
+                    "answer": "Ronaldo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did El say about Pus looking like an Americanist idol?",
+                    "score": 0.7579,
+                    "answers": "telephone|compound"
+                },
+                {
+                    "question": "What did the Americanist idols say about pus?",
+                    "score": 0.7333,
+                    "answers": "look|parataxis"
+                },
+                {
+                    "question": "How many Americanist idols still have pins?",
+                    "score": 0.7055,
+                    "answers": "because one of the Americanist idols still have pin|advcl"
+                },
+                {
+                    "question": "What are the Americanist idols wanting to do on the court?",
+                    "score": 0.6822,
+                    "answers": "things|dobj"
+                },
+                {
+                    "question": "What are the names of the Americanist idols?",
+                    "score": 0.6821,
+                    "answers": "www.eldizque.com|nsubj\tone of the Americanist idols|nsubj\tthe Americanist idols|pobj\tone of the Americanist idols|nsubj\tthe Americanist idols|pobj\tthis , because one of the Americanist idols still have pin|intj\tone of the Americanist idols|nsubj\tthe Americanist idols|pobj\tpin|dobj\tone of the Americanist idols|nsubj\tthe Americanist idols|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "All the pins.. teams in the world are gonna peel it off.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that All the pins. teams in the world are gonna peel it off?",
+                    "answer": "09/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many pins does the world have?",
+                    "score": 0.8783,
+                    "answers": "the world|pobj"
+                },
+                {
+                    "question": "How many pins are there?",
+                    "score": 0.873,
+                    "answers": "www.eldizque.com reported on 09/03/2016 that All the pins .. teams in the world are gon na peel it off|ROOT"
+                },
+                {
+                    "question": "What is the number of pins in the world?",
+                    "score": 0.8142,
+                    "answers": "All the pins .. teams in the world|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "For part, Zinedine Zidane, the coach of Real Madrid said Zinedine Zidane, the coach of Real Madrid is eager to see one of the Americanist idols Real Madrid have guaranteed not only the Spanish league championship, but the King's Cup and Champions.",
+            "question_answers": [
+                {
+                    "question": "Along with the Spanish league championship, what other trophy did Zinedine Zidane hope to win?",
+                    "answer": "King's Cup"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Zinedine Zidane want Real Madrid to win?",
+                    "score": 0.7829,
+                    "answers": "league|compound\tnot only the Spanish league championship , but the King 's Cup and Champions|dobj\tthe King 's|poss\tthe King 's Cup and Champions|conj\tChampions|conj"
+                },
+                {
+                    "question": "What did Zinedine Zidane say about Real Madrid?",
+                    "score": 0.7822,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\tFor part|prep\tpart|pobj\t,|punct\t,|punct\tthe|det\t,|punct\tthe|det\tto|aux\tthe|det\tnot only|preconj\tthe|det\t,|punct\tbut|cc\tthe|det\t's|case\tand|cc"
+                },
+                {
+                    "question": "What is Zinedine Zidane's interest in Real Madrid?",
+                    "score": 0.7081,
+                    "answers": "that For part , Zinedine Zidane , the coach of Real Madrid said Zinedine Zidane , the coach of Real Madrid is eager to see one of the Americanist idols Real Madrid have guaranteed not only the Spanish league championship , but the King 's Cup and Champions|ccomp"
+                },
+                {
+                    "question": "Who is Zinedine Zidane the coach of Real Madrid?",
+                    "score": 0.6951,
+                    "answers": "Zinedine Zidane , the coach of Real Madrid|nsubj\tthe coach of Real Madrid|appos\tZinedine Zidane , the coach of Real Madrid|nsubj\tthe coach of Real Madrid|appos"
+                },
+                {
+                    "question": "What is the relationship between Zinedine Zidane and Real Madrid?",
+                    "score": 0.6795,
+                    "answers": "on 09/03/2016|prep\tof Real Madrid|prep\tReal|compound\tof Real Madrid|prep\tReal|compound\tReal|compound\thave|aux\tonly|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Real Madrid will not lose a single match all year round, because with the couple of one of the Americanist idols -Ronaldo , neither Barcelona will win Real Madrid '.",
+            "question_answers": [
+                {
+                    "question": "Who is the Americanist idol of Real Madrid?",
+                    "answer": "-Ronaldo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Real Madrid lose a single match all year round?",
+                    "score": 0.9114,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "What are Real Madrid's Americanist idols?",
+                    "score": 0.8715,
+                    "answers": "the Americanist idols|pobj"
+                },
+                {
+                    "question": "How many match did Real Madrid lose to Real Madrid in 2016?",
+                    "score": 0.8709,
+                    "answers": "a single match|dobj"
+                },
+                {
+                    "question": "What is the relationship between Ronaldo and Real Madrid?",
+                    "score": 0.7948,
+                    "answers": "with the couple of one of the Americanist idols -Ronaldo|prep\tthe couple of one of the Americanist idols -Ronaldo|pobj\tone of the Americanist idols -Ronaldo|pobj\tbecause with the couple of one of the Americanist idols -Ronaldo , neither Barcelona will win Real Madrid '|advcl"
+                }
+            ]
+        },
+        {
+            "claim": " From what I see, Zinedine Zidane, the coach of Real Madrid likes one of the Americanist idols style very much.",
+            "question_answers": [
+                {
+                    "question": "What team does Zinedine Zidane coach?",
+                    "answer": "Real Madrid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What style of idols does Zinedine Zidane like?",
+                    "score": 0.8674,
+                    "answers": "of the Americanist idols style|prep"
+                },
+                {
+                    "question": "What does Zinedine Zidane like about Americanist idols style?",
+                    "score": 0.8442,
+                    "answers": "what I see|pcomp"
+                },
+                {
+                    "question": "What is Zinedine Zidane's opinion on Americanist idols?",
+                    "score": 0.7798,
+                    "answers": "Americanist idols|compound"
+                },
+                {
+                    "question": "Who is Zinedine Zidane the coach of Real Madrid?",
+                    "score": 0.7443,
+                    "answers": "Zinedine|compound\tZinedine Zidane , the coach of Real Madrid|nsubj\tthe coach of Real Madrid|appos\tof Real Madrid|prep\tReal|compound"
+                },
+                {
+                    "question": "Who is Zinedine Zidane?",
+                    "score": 0.7169,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 09/03/2016|ROOT\ton 09/03/2016|prep\tthat|mark\tthat   From what I see , Zinedine Zidane , the coach of Real Madrid likes one of the Americanist idols style very much|dep\tFrom what I see|prep\twhat|dobj\tI|nsubj\t,|punct\t,|punct\tthe|det\tFrom what I see , Zinedine Zidane , the coach of Real Madrid likes one of the Americanist idols style very much|ccomp\tthe|det\tvery|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Don't one of the Americanist idols care about age ? - Zinedine Zidane, the coach of Real Madrid hope age 's not a problem.",
+            "question_answers": [
+                {
+                    "question": "What does Zinedine Zidane hope isn't a problem?",
+                    "answer": "age"
+                },
+                {
+                    "question": "What does Zinedine Zidane believe about age?",
+                    "answer": "hope age"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Does Zinedine Zidane care about age?",
+                    "score": 0.9249,
+                    "answers": "not|neg\ta problem|attr"
+                },
+                {
+                    "question": "What age does Zinedine Zidane care about?",
+                    "score": 0.8842,
+                    "answers": "www.eldizque.com reported on 09/03/2016 that Do n't one of the Americanist idols care about age|ccomp\tthat|mark\tDo|aux\tn't|neg\tthe|det\tabout age|prep\tage|pobj\t?|punct\t-|punct\t,|punct\tthe|det\tReal|compound\twww.eldizque.com reported on 09/03/2016 that Do n't one of the Americanist idols care about age ? - Zinedine Zidane , the coach of Real Madrid hope age 's not a problem|ROOT\tage|nsubj\tage 's not a problem|ccomp\ta|det"
+                },
+                {
+                    "question": "What age is Zinedine Zidane?",
+                    "score": 0.8573,
+                    "answers": "that Do n't one of the Americanist idols care about age|ccomp"
+                },
+                {
+                    "question": "What are Zinedine Zidane's views on age?",
+                    "score": 0.817,
+                    "answers": "the Americanist idols|pobj"
+                },
+                {
+                    "question": "What is Zinedine Zidane's opinion on age?",
+                    "score": 0.7909,
+                    "answers": "of the Americanist idols|prep"
+                }
+            ]
+        },
+        {
+            "claim": "According to a Real Madrid waterman who asked for anonymity, the decision to hire Blanco is due to the fact that until Spain came the news that Blanco, alone, had defeated all the political parties and with it had won the mayor's office of Cuernvaca, but Zidane understood that Blanco, alone, had won in all the parties of the Cuernavaca league.",
+            "question_answers": [
+                {
+                    "question": "What did Zidane believe Blanco had won in the Cuernavaca league?",
+                    "answer": "all the parties"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Blanco win the Cuernavaca league?",
+                    "score": 0.8751,
+                    "answers": "until Spain|prep"
+                },
+                {
+                    "question": "Did Blanco win in all the parties of the Cuernavaca league?",
+                    "score": 0.865,
+                    "answers": "to the fact that until Spain came the news that Blanco , alone , had defeated all the political parties and with it had won the mayor 's office of Cuernvaca , but Zidane understood that Blanco , alone , had won in all the parties of the Cuernavaca league|prep"
+                },
+                {
+                    "question": "What political party did Blanco belong to?",
+                    "score": 0.8255,
+                    "answers": "political|amod"
+                },
+                {
+                    "question": "What political parties have won the Cuernavaca league?",
+                    "score": 0.8198,
+                    "answers": "all the political parties|dobj"
+                },
+                {
+                    "question": "What did Blanco do to win the mayor's office of Cuernvaca?",
+                    "score": 0.7783,
+                    "answers": "www.eldizque.com reported on 09/03/2016 that According to a Real Madrid waterman who asked for anonymity , the decision to hire Blanco is due to the fact that until Spain came the news that Blanco , alone , had defeated all the political parties and with it had won the mayor 's office of Cuernvaca , but Zidane understood that Blanco , alone , had won in all the parties of the Cuernavaca league|ROOT\ton 09/03/2016|prep\tthat According to a Real Madrid waterman who asked for anonymity , the decision to hire Blanco is due to the fact that until Spain came the news that Blanco , alone , had defeated all the political parties and with it had won the mayor 's office of Cuernvaca , but Zidane understood that Blanco , alone , had won in all the parties of the Cuernavaca league|ccomp\talone|advmod\twith it|prep\twith it had won the mayor 's office of Cuernvaca|conj\t's|case\talone|advmod"
+                }
+            ]
+        }
+    ]
+}

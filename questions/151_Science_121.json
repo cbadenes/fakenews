@@ -1,0 +1,289 @@
+{
+    "id": "151_Science_121",
+    "claim": "The app, in partnership with Canadian firm Nekso, is now available in digital stores, but will start working until the end of March. Mexico's taxi drivers partnered with the Nekso mobility app to recover the lost ground in the face of private car applications with drivers like Uber and Cabify, and for this they will also offer their service through a digital platform, with which they add to the trend that in the moment caused users to put them aside. Aware of the need to modernize to compete against this ecosystem, the National Movement of Taxi Drivers issued a public tender to find a company that would help them recover the lost clientele. The winner was Nekso, a Canadian company dedicated to providing technological solutions to the public sector. Through this alliance, the group will train and evaluate its affiliated taxi drivers, in addition to supporting them with new units to be a preferred option for users against those transnationals, who from their point of view operate outside the law. The National Taxi Movement was one of the main groups that opposed the entry of mobility apps. Nekso, which also operates in other Latin American countries, works in a similar way to Uber or Cabify apps. The user downloads the application, registers and registers some form of payment, selects a destination and a starting point; and unlike its competence, it will allow the client to select the driver (from six options) with whom he wishes to travel. The payment method will be through credit and debit cards, as well as with p2p technology, thus removing the user from the need to charge cash. Nekso intends to start its operations with  units, which already meet the requirements determined by the app and the taxi drivers association, and are part of the  affiliates with which this grouping counts. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "20/02/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The app, in partnership with Canadian firm Nekso , is now available in digital stores, but will start working until the end of March.",
+            "question_answers": [
+                {
+                    "question": "What Canadian company was a partner in the release of the Forbes app?",
+                    "answer": "Nekso"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Nekso partner with the app?",
+                    "score": 0.8846,
+                    "answers": "working until the end of March|xcomp\tof March|prep\tMarch|pobj"
+                },
+                {
+                    "question": "When did Nekso start working on the Canadian app?",
+                    "score": 0.8827,
+                    "answers": "until the end of March|prep"
+                },
+                {
+                    "question": "When will the Canadian firm Nekso start working?",
+                    "score": 0.8441,
+                    "answers": "that The app , in partnership with Canadian firm Nekso , is now available in digital stores , but will start working until the end of March|ccomp\twill start working until the end of March|conj"
+                },
+                {
+                    "question": "How many digital stores does Nekso have?",
+                    "score": 0.8172,
+                    "answers": "in digital stores|prep"
+                },
+                {
+                    "question": "What is Nekso's relationship with the Apple iPhone app?",
+                    "score": 0.7844,
+                    "answers": "The app|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico's taxi drivers partnered with The app, in partnership with Canadian firm Nekso to recover the lost ground in the face of private car applications with drivers like Uber and Cabify , and for partnered Mexico's taxi drivers will also offer service through a digital platform, with which Mexico's taxi drivers add to the trend that in the moment caused users to put them aside.",
+            "question_answers": [
+                {
+                    "question": "What are two private car applications that Mexico's taxi drivers partnered with to recover the lost ground in the face of private car applications?",
+                    "answer": "Uber and Cabify"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Mexican taxi drivers partner with Nekso to recover lost ground?",
+                    "score": 0.722,
+                    "answers": "the trend that in the moment caused users to put them aside|pobj"
+                },
+                {
+                    "question": "What did Nekso do to recover lost ground in the face of private car applications?",
+                    "score": 0.7171,
+                    "answers": "'s|case\ttaxi|compound\twith The app|prep\tprivate|amod\tcar|compound\t's|case\ttaxi|compound\ta|det\t's|case\ttaxi|compound\tthem|dobj"
+                },
+                {
+                    "question": "What is the trend of Mexican taxi drivers using a digital platform?",
+                    "score": 0.71,
+                    "answers": "to the trend that in the moment caused users to put them aside|prep"
+                },
+                {
+                    "question": "What is Nekso's relationship with Mexico's taxi drivers?",
+                    "score": 0.6831,
+                    "answers": "in the moment|prep"
+                },
+                {
+                    "question": "What is the relationship between Mexico's taxi drivers and Uber and Cabify?",
+                    "score": 0.6461,
+                    "answers": "Mexico 's|poss\tMexico 's taxi drivers|nsubj\tMexico 's|poss\tMexico 's taxi drivers|nsubj\tMexico 's|poss\tMexico 's taxi drivers|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Aware of the need to modernize to compete against this ecosystem, the National Movement of Taxi Drivers issued a public tender to find a company that would help the National Movement of Taxi Drivers recover the lost clientele.",
+            "question_answers": [
+                {
+                    "question": "What did the National Movement of Taxi Drivers do to find a company?",
+                    "answer": "issued a public tender"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the National Movement of Taxi Drivers?",
+                    "score": 0.6247,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 20/02/2018 that Aware of the need to modernize to compete against this ecosystem , the National Movement of Taxi Drivers issued a public tender to find a company that would help the National Movement of Taxi Drivers recover the lost clientele|ROOT\ton 20/02/2018|prep\tthat|mark\tAware of the need to modernize to compete against this ecosystem|advcl\tof the need to modernize to compete against this ecosystem|prep\tthe|det\tthe need to modernize to compete against this ecosystem|pobj\tto|aux\tto modernize to compete against this ecosystem|acl\tto|aux\tto compete against this ecosystem|advcl\tagainst this ecosystem|prep\tthis|det\tthis ecosystem|pobj\t,|punct\tthe|det\tNational|compound\tof Taxi Drivers|prep\tTaxi|compound\tTaxi Drivers|pobj\tthat Aware of the need to modernize to compete against this ecosystem , the National Movement of Taxi Drivers issued a public tender to find a company that would help the National Movement of Taxi Drivers recover the lost clientele|ccomp\ta|det\tpublic|amod\ta public tender to find a company that would help the National Movement of Taxi Drivers recover the lost clientele|dobj\tto|aux\tto find a company that would help the National Movement of Taxi Drivers recover the lost clientele|acl\ta|det\ta company that would help the National Movement of Taxi Drivers recover the lost clientele|dobj\tthat|nsubj\twould|aux\tthat would help the National Movement of Taxi Drivers recover the lost clientele|relcl\tthe|det\tNational|compound\tof Taxi Drivers|prep\tTaxi|compound\tTaxi Drivers|pobj\tthe National Movement of Taxi Drivers recover the lost clientele|ccomp\tthe|det\tlost|amod\tthe lost clientele|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The winner was Canadian firm Nekso .",
+            "question_answers": [
+                {
+                    "question": "What nationality was Nekso?",
+                    "answer": "Canadian"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Nekso's net worth?",
+                    "score": 0.8744,
+                    "answers": "www.forbes.com.mx|nsubj"
+                },
+                {
+                    "question": "Who was the winner of the Canadian firm Nekso?",
+                    "score": 0.8575,
+                    "answers": "The winner|nsubj"
+                },
+                {
+                    "question": "Who is Nekso?",
+                    "score": 0.7825,
+                    "answers": "on 20/02/2018|prep\tthat|mark\tThe|det\tthat The winner was Canadian firm Nekso|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Through partnered , the National Movement of Taxi Drivers will train and evaluate its affiliated taxi drivers , in addition to supporting its affiliated taxi drivers with new units to be a preferred option for users against those transnationals, who from point of view operate outside the law.",
+            "question_answers": [
+                {
+                    "question": "How did the National Movement of Taxi Drivers train and evaluate its affiliated taxi drivers?",
+                    "answer": "Through partnered"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the National Movement of Taxi Drivers do to evaluate affiliated taxi drivers?",
+                    "score": 0.7587,
+                    "answers": "evaluate its affiliated taxi drivers , in addition to supporting its affiliated taxi drivers with new units to be a preferred option for users against those transnationals , who from point of view operate outside the law|conj"
+                }
+            ]
+        },
+        {
+            "claim": "the National Movement of Taxi Drivers was one of the main groups that opposed the entry of mobility apps.",
+            "question_answers": [
+                {
+                    "question": "What was one of the main groups that opposed the entry of mobility apps?",
+                    "answer": "National Movement of Taxi Drivers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the National Movement of Taxi Drivers oppose the entry of mobility apps?",
+                    "score": 0.8911,
+                    "answers": "mobility|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Canadian firm Nekso , works in a similar way to Uber or Cabify apps.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the Canadian firm that works similar to Uber or Cabify?",
+                    "answer": "Nekso"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is Nekso similar to Uber or Cabify apps?",
+                    "score": 0.9052,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "How similar is Nekso to Uber or Cabify?",
+                    "score": 0.8991,
+                    "answers": "a similar way to Uber or Cabify apps|pobj"
+                },
+                {
+                    "question": "What is Nekso's relationship with Uber?",
+                    "score": 0.8397,
+                    "answers": "on 20/02/2018|prep\tto Uber or Cabify apps|prep\tUber or Cabify apps|pobj"
+                },
+                {
+                    "question": "What is Nekso?",
+                    "score": 0.7885,
+                    "answers": "Canadian firm|compound\tCanadian firm Nekso|nsubj\tthat Canadian firm Nekso , works in a similar way to Uber or Cabify apps|ccomp\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "The user downloads The app, in partnership with Canadian firm Nekso , registers and registers some form of payment, selects a destination and a starting point; and unlike competence, The app, in partnership with Canadian firm Nekso will allow the client to select the driver (from six options) with whom the client wishes to travel.",
+            "question_answers": [
+                {
+                    "question": "The app is in partnership with what Canadian firm?",
+                    "answer": "Nekso"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How is the Canadian firm Nekso involved in developing the app?",
+                    "score": 0.7476,
+                    "answers": "registers some form of payment|conj"
+                },
+                {
+                    "question": "What are the features of the Canadian driver app?",
+                    "score": 0.6892,
+                    "answers": "that The user downloads The app , in partnership with Canadian firm Nekso , registers and registers some form of payment , selects a destination and a starting point ; and unlike competence , The app , in partnership with Canadian firm Nekso will allow the client to select the driver ( from six options ) with whom the client wishes to travel|ccomp"
+                },
+                {
+                    "question": "What is the purpose of the Canadian firm Nekso's app?",
+                    "score": 0.6515,
+                    "answers": "selects a destination and a starting point|dep\ta|det\ta|det\ta starting point|conj\tunlike competence|prep\twith whom the client wishes to travel|relcl"
+                },
+                {
+                    "question": "What is Nekso's relationship with the Canadian app?",
+                    "score": 0.6466,
+                    "answers": "that|mark\tThe|det\tThe user|nsubj\tThe|det\t,|punct\t,|punct\tand|cc\tsome|det\tof payment|prep\tpayment|pobj\t,|punct\tand|cc\t;|punct\tand|cc\t,|punct\tThe|det\tThe app|nsubj\t,|punct\twill|aux\tthe|det\tthe client|nsubj\tto|aux\tthe|det\t(|punct\t)|punct\twith whom|dep\tthe|det\tthe client|nsubj\tto|aux"
+                },
+                {
+                    "question": "What is the relationship between Nekso and the Canadian app?",
+                    "score": 0.6293,
+                    "answers": "partnership with Canadian firm Nekso|pobj\twith Canadian firm Nekso|prep\tpartnership with Canadian firm Nekso|pobj\twith Canadian firm Nekso|prep\twhom|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The payment method will be through credit and debit cards, as well as with p2p technology, thus removing the user from the need to charge cash.",
+            "question_answers": [
+                {
+                    "question": "What technology is being used by Forbes in order to remove the user from the need to charge cash?",
+                    "answer": "p2p"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How are credit and debit cards connected to p2p technology?",
+                    "score": 0.902,
+                    "answers": "credit and debit cards|pobj"
+                },
+                {
+                    "question": "How will the payment method be funded?",
+                    "score": 0.893,
+                    "answers": "www.forbes.com.mx reported on 20/02/2018 that The payment method will be through credit and debit cards , as well as with p2p technology , thus removing the user from the need to charge cash|ROOT\tThe|det\tpayment|compound\tthe user|dobj"
+                },
+                {
+                    "question": "What is the payment method for p2p technology?",
+                    "score": 0.7997,
+                    "answers": "on 20/02/2018|prep\tThe payment method|nsubj"
+                },
+                {
+                    "question": "What is the use of p2p technology to charge cash?",
+                    "score": 0.7703,
+                    "answers": "from the need to charge cash|prep\tthe need to charge cash|pobj\tto charge cash|acl"
+                },
+                {
+                    "question": "What is p2p technology?",
+                    "score": 0.7419,
+                    "answers": "through credit and debit cards , as well as with p2p technology|prep\twith p2p technology|conj\tp2p|compound\tp2p technology|pobj\tthus|advmod\tto|aux"
+                }
+            ]
+        },
+        {
+            "claim": "Nekso intends to start its operations with  units, which already meet the requirements determined by the app and the taxi drivers association, and are part of the  affiliates with which this grouping counts.",
+            "question_answers": [
+                {
+                    "question": "What group does Nekso belong to?",
+                    "answer": "affiliates"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What requirements do the app and the taxi drivers association meet?",
+                    "score": 0.8642,
+                    "answers": "the requirements determined by the app and the taxi drivers association|dobj\tdetermined by the app and the taxi drivers association|acl"
+                },
+                {
+                    "question": "How many affiliates does Nekso intend to start its operations with?",
+                    "score": 0.8591,
+                    "answers": "  units , which already meet the requirements determined by the app and the taxi drivers association , and are part of the   affiliates with which this grouping counts|dep\tunits , which already meet the requirements determined by the app and the taxi drivers association , and are part of the   affiliates with which this grouping counts|pobj\twhich already meet the requirements determined by the app and the taxi drivers association , and are part of the   affiliates with which this grouping counts|relcl"
+                },
+                {
+                    "question": "What are the requirements for Nekso to start its operations?",
+                    "score": 0.8286,
+                    "answers": "by the app and the taxi drivers association|agent"
+                },
+                {
+                    "question": "What is Nekso's affiliation with the taxi drivers association?",
+                    "score": 0.7993,
+                    "answers": "are part of|conj\tpart of|attr\tthis grouping|nsubj"
+                }
+            ]
+        }
+    ]
+}

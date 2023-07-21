@@ -1,0 +1,567 @@
+{
+    "id": "Covid-19_58",
+    "claim": "As a result of the Covid-19 pandemic, many of the inhabitants not only of the country, but of the world already know that precautions must be taken with some care as they are; washing hands frequently, disinfecting surfaces, using mouth covers, etc., but little is said about the importance of drinking safe water to keep the immune system healthy. In this regard, the doctors, Homero Martínez Salgado, physician surgeon at the Universidad Nacional Autonoma de Mexico and Sergio Javier Fernández Ortiz, Gastropediatra, Director of the Pediatrics Institute of the Hospital Zambrano-Hellion TecSalud, told EL UNIVERSAL that water intake is also important to combat the virus that caused the pandemic. “We need to make sure not only to drink water, but to make sure that the water we drink is safe, that it meets the characteristics of the Official Water Standard for the Use of Human Consumption NOM12755A1-1994, because sometimes the water that is not well treated is the cause of some intestinal diseases,” said Martínez Salgado. In this sense, both specialists commented that we should remember that some people who became ill with Covid-19, manifested gastrointestinal symptoms such as vomiting or diarrhea, which, they claim, can be prevented with adequate water intake. To this problem, it is added that, according to studies, only one in three Mexicans consumes the water that should be eaten per day, and the experts assured, that the other Mexicans prefer to replace the water with sugary drinks such as soft drinks, waters with some sweetening or coloring, same that do not fulfill the function that simple water. “It should be remembered that the intake of these soft drinks, or sweetened ones, are potential to develop diseases such as diabetes, weights, obesity and hypertension, which, now with the new coronavirus, is proving that people who have this type of condition, are more likely to have complications,” said Homero Martínez, who also has a PhD in International Nutrition from Cornell University, New York. This is why specialists recommend that people not only consume simple water, but also review the quality of the water they are consuming. They stressed that we are all exposed to dehydration or to complications resulting from the low intake of this fluid. In response, Dr. Homero Martínez expressed concern about two issues, the first being that in Mexico most of the public network that supplies water for human consumption is extremely contaminated and the other is the excessive consumption of bottled water. “A worrying issue in Mexico is the public water network is contaminated, bacteria leaked and often contaminated with faeces, so it is not recommended that people consume the water directly from the key, in this case some filters that are placed directly help clean the water, but they stop working if they are not maintained or are not constantly cleaned,” he said. The specialist recommended that people who cannot access a filter of this type, because he said, are very expensive, they boil the water, then let it cool in clean containers, so that they can be consumed. With regard to bottled water, he said that according to a study at the National Polytechnic Institute, about two thousand small companies usually fill 20-litre potabilizer plants in Mexico City. However, he said, the results of this study showed that much of that water was unfit for human consumption, since water still contained bacteria or faeces, or the washing of claws was not adequate and therefore put the population at risk. In this regard, it recommended that the population that consumes this type of water ensure that businesses comply with the necessary sanitary requirements, as well as that they constantly clean water containers and ensure that the people who fill them do so. It also recommended that the use of plastic to contain water, in the long run, may be harmful to health, so that water garraferons should be constantly changed. Finally, he pointed out that the best way to know how hydrated a person is is by means of urine coloring; “the darker it is, the less hydrated we are, that's why it's important to pay attention especially to children and older adults.”. In case of dehydration or mild symptoms of diarrhea he called on the population to drink more water, eat well, maintain good hygiene in hands and food and check the water consumed. I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "30/06/2020",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "As a result of the Covid-19 pandemic , many of the inhabitants not only of the country, but of the world already know that precautions must be taken with some care as precautions are; washing hands frequently, disinfecting surfaces, using mouth covers, etc.",
+            "question_answers": [
+                {
+                    "question": "Why did many of the inhabitants of the country know that precautions must be taken?",
+                    "answer": "As a result of the Covid-19 pandemic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What precautions must be taken to disinfecting surfaces during the Covid-19 pandemic?",
+                    "score": 0.863,
+                    "answers": "using mouth covers , etc|conj"
+                },
+                {
+                    "question": "What was the Covid-19 pandemic?",
+                    "score": 0.821,
+                    "answers": "As a result of the Covid-19 pandemic|prep\ta result of the Covid-19 pandemic|pobj\tof the Covid-19 pandemic|prep\tCovid-19|nmod\tthe Covid-19 pandemic|pobj"
+                },
+                {
+                    "question": "How many people have been affected by the Covid-19 pandemic?",
+                    "score": 0.7964,
+                    "answers": "many of the inhabitants not only of the country , but of the world|nsubj\tof the inhabitants not only of the country , but of the world|prep\tthe inhabitants not only of the country , but of the world|pobj\tof the world|conj"
+                },
+                {
+                    "question": "What is the Covid-19 pandemic?",
+                    "score": 0.7803,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 30/06/2020 that As a result of the Covid-19 pandemic , many of the inhabitants not only of the country , but of the world already know that precautions must be taken with some care as precautions are ; washing hands frequently , disinfecting surfaces , using mouth covers , etc|ROOT\ton 30/06/2020|prep\tthat|mark\ta|det\tthe|det\t,|punct\tthe|det\tonly|advmod\tthe|det\t,|punct\tbut|cc\tthe|det\tthat As a result of the Covid-19 pandemic , many of the inhabitants not only of the country , but of the world already know that precautions must be taken with some care as precautions are ; washing hands frequently , disinfecting surfaces , using mouth covers , etc|ccomp\tthat|mark\tsome|det\tas|mark\t;|punct\t,|punct\tsurfaces|dobj\t,|punct\tmouth|compound\t,|punct\tetc|conj"
+                }
+            ]
+        },
+        {
+            "claim": ", but little is said about the importance of drinking safe Homero Martínez, who also has a PhD in International Nutrition from Cornell University, New York .",
+            "question_answers": [
+                {
+                    "question": "When did eluniversal.com.mx report on the importance of drinking safe?",
+                    "answer": "30/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Homero Martínez attend school?",
+                    "score": 0.8601,
+                    "answers": "who also has a PhD in International Nutrition from Cornell University , New York|relcl\tInternational Nutrition|pobj\tfrom Cornell University , New York|prep\tCornell|compound\tCornell University , New York|pobj"
+                },
+                {
+                    "question": "What did Homero Martínez say about drinking safe?",
+                    "score": 0.8305,
+                    "answers": "about the importance of drinking safe Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|prep"
+                },
+                {
+                    "question": "What is Homero Martínez's history of drinking safe?",
+                    "score": 0.7886,
+                    "answers": "but|cc"
+                },
+                {
+                    "question": "What is the relationship between drinking safe Homero Martínez and drinking safe safe?",
+                    "score": 0.7879,
+                    "answers": ", but little is said about the importance of drinking safe Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|conj"
+                },
+                {
+                    "question": "Who is Homero Martínez?",
+                    "score": 0.7337,
+                    "answers": "on 30/06/2020|prep\tof drinking safe Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|prep\tdrinking safe Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|pcomp\tHomero|compound\tHomero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|dobj\twho|nsubj\ta|det\tNew|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Homero Martínez, who also has a PhD in International Nutrition from Cornell University, New York Homero Martínez Salgado, physician surgeon at the Universidad Nacional Autonoma de Mexico specialists Homero Martínez Salgado, physician surgeon at the Universidad Nacional Autonoma de Mexico people Homero Martínez Salgado, physician surgeon at the Universidad Nacional Autonoma de Mexico and Sergio Javier Fernández Ortiz, Gastropediatra, Director of the Pediatrics specialists of the Hospital Zambrano-Hellion TecSalud, told EL UNIVERSAL that water intake is also important to combat the virus that Homero Martínez, who also has a PhD in International Nutrition from Cornell University, New York .",
+            "question_answers": [
+                {
+                    "question": "Where is Homero Martnez Salgado a physician surgeon?",
+                    "answer": "Universidad Nacional Autonoma de Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where does Homero Martínez Salgado attend school?",
+                    "score": 0.7423,
+                    "answers": "from Cornell University , New York|prep\tCornell|compound\tCornell University , New York|pobj\tfrom Cornell University , New York|prep\tCornell|compound\tCornell University , New York|pobj"
+                },
+                {
+                    "question": "Where is Homero Martínez Salgado from?",
+                    "score": 0.7148,
+                    "answers": "Mexico|pobj\tMexico|pobj\tMexico|pobj"
+                },
+                {
+                    "question": "What is Homero Martínez Salgado's role in the Hospital Zambrano-Hellion TecSalud?",
+                    "score": 0.7035,
+                    "answers": "the Pediatrics specialists of the Hospital Zambrano - Hellion TecSalud|pobj\tof the Hospital Zambrano - Hellion TecSalud|prep\tthe Hospital Zambrano - Hellion TecSalud|pobj"
+                },
+                {
+                    "question": "Who is Homero Martínez Salgado?",
+                    "score": 0.6988,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 30/06/2020 that Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York Homero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico specialists Homero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico people|ROOT\ton 30/06/2020|prep\t30/06/2020|pobj\tthat|mark\tHomero|compound\tthat Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York Homero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico specialists Homero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico people|ccomp\t,|punct\twho|nsubj\talso|advmod\ta|det\t,|punct\tHomero|compound\tMartínez|compound\tHomero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico specialists Homero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico|appos\t,|punct\tphysician surgeon at the Universidad Nacional Autonoma de Mexico specialists|appos\tat the Universidad Nacional Autonoma de Mexico specialists|prep\tthe|det\tNacional|compound\tde Mexico|prep\tthe Universidad Nacional Autonoma de Mexico specialists|pobj\tHomero|compound\tMartínez|compound\tHomero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico|appos\t,|punct\tphysician surgeon at the Universidad Nacional Autonoma de Mexico|appos\tat the Universidad Nacional Autonoma de Mexico|prep\tthe|det\tNacional|compound\tde Mexico|prep\tpeople|appos\tHomero|compound\tMartínez|compound\tHomero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico and Sergio Javier Fernández Ortiz , Gastropediatra , Director of the Pediatrics specialists of the Hospital Zambrano - Hellion TecSalud ,|nsubj\t,|punct\tphysician surgeon at the Universidad Nacional Autonoma de Mexico|appos\tat the Universidad Nacional Autonoma de Mexico|prep\tthe|det\tNacional|compound\tde Mexico|prep\tand|cc\tSergio|compound\tJavier|compound\tFernández|compound\t,|punct\tGastropediatra|appos\t,|punct\tDirector of the Pediatrics specialists of the Hospital Zambrano - Hellion TecSalud|appos\tof the Pediatrics specialists of the Hospital Zambrano - Hellion TecSalud|prep\tthe|det\tthe|det\tZambrano|compound\t-|punct\tHellion|compound\tZambrano - Hellion TecSalud|appos\t,|punct\tHomero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico and Sergio Javier Fernández Ortiz , Gastropediatra , Director of the Pediatrics specialists of the Hospital Zambrano - Hellion TecSalud , told EL UNIVERSAL that water intake is also important to combat the virus that Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|ROOT\tEL|compound\tthat|mark\talso|advmod\tto|aux\tto combat the virus that Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|xcomp\tthe|det\tthe virus that Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|dobj\tthat Homero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|relcl\tHomero|compound\tHomero Martínez , who also has a PhD in International Nutrition from Cornell University , New York|appos\t,|punct\twho|nsubj\talso|advmod\ta|det\t,|punct"
+                },
+                {
+                    "question": "What is the profession of Homero Martínez Salgado?",
+                    "score": 0.6939,
+                    "answers": "physician|compound\tphysician|compound\tphysician|compound"
+                }
+            ]
+        },
+        {
+            "claim": "“We need to make sure not only to drink water, but to make Mexico that the water we drink is safe, that the water we drink meets the characteristics of the Official Water Standard for the Use of Human Consumption NOM12755A1-1994, because sometimes the water Mexico is not well treated is the cause of some intestinal diseases,” said Homero Martínez Salgado, physician surgeon at the Universidad Nacional Autonoma de Mexico .",
+            "question_answers": [
+                {
+                    "question": "Where did Homero Martnez Salgado work?",
+                    "answer": "Universidad Nacional Autonoma de Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How is the water in Mexico treated?",
+                    "score": 0.7766,
+                    "answers": "the water Mexico is not well treated|nsubj"
+                },
+                {
+                    "question": "What are the safety standards for drinking water in Mexico?",
+                    "score": 0.7668,
+                    "answers": "that the water we drink is safe|advcl"
+                },
+                {
+                    "question": "What is the official water standard in Mexico for human consumption?",
+                    "score": 0.749,
+                    "answers": "www.eluniversal.com.mx|nsubj\tthat|mark\tWe|nsubj\tthat “ We need to make sure not only to drink water , but to make Mexico that the water we drink is safe , that the water we drink meets the characteristics of the Official Water Standard for the Use of Human Consumption NOM12755A1 - 1994 , because sometimes the water Mexico is not well treated is the cause of some intestinal diseases|ccomp\tto|aux\tto make sure not only to drink water , but to make Mexico that the water we drink is safe , that the water we drink meets the characteristics of the Official Water Standard for the Use of Human Consumption NOM12755A1 - 1994 , because sometimes the water Mexico is not well treated is the cause of some intestinal diseases|xcomp\tsure not only to drink water , but to make Mexico that the water we drink is safe , that the water we drink meets the characteristics of the Official Water Standard for the Use of Human Consumption NOM12755A1 - 1994 , because sometimes the water Mexico is not well treated is the cause of some intestinal diseases|acomp\tonly|advmod\tto|aux\twater|dobj\t,|punct\tbut|cc\tto|aux\tto make Mexico that the water we drink is safe , that the water we drink meets the characteristics of the Official Water Standard for the Use of Human Consumption NOM12755A1 - 1994 , because sometimes the water Mexico is not well treated is the cause of some intestinal diseases|conj\tthat|mark\tthe|det\twe|nsubj\tsafe|acomp\t,|punct\tthat|mark\tthe|det\twe|nsubj\tthat the water we drink is safe , that the water we drink meets the characteristics of the Official Water Standard for the Use of Human Consumption NOM12755A1 - 1994|advcl\tthe|det\tthe|det\tOfficial|compound\tWater|compound\tthe Official Water Standard for the Use of Human Consumption NOM12755A1 - 1994|pobj\tthe|det\tHuman|compound\t-|punct\t1994|npadvmod\t,|punct\tbecause|mark\tthe|det\tis|auxpass\tnot|neg\tthe|det\tsome|det\t,|punct\twww.eluniversal.com.mx reported on 30/06/2020 that “ We need to make sure not only to drink water , but to make Mexico that the water we drink is safe , that the water we drink meets the characteristics of the Official Water Standard for the Use of Human Consumption NOM12755A1 - 1994 , because sometimes the water Mexico is not well treated is the cause of some intestinal diseases , ” said Homero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico|ROOT\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What are the symptoms of human consumption in Mexico?",
+                    "score": 0.6788,
+                    "answers": "of Human Consumption|prep"
+                },
+                {
+                    "question": "Who is Dr. Homero Martínez Salgado?",
+                    "score": 0.6234,
+                    "answers": "Homero Martínez Salgado , physician surgeon at the Universidad Nacional Autonoma de Mexico|nsubj\tphysician|compound\tphysician surgeon at the Universidad Nacional Autonoma de Mexico|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In this sense, both specialists commented that we should remember that some people who became ill with some filters that are placed directly symptoms such as vomiting some filters that are placed directly , which, both specialists claim, can be prevented with adequate water intake.",
+            "question_answers": [
+                {
+                    "question": "What symptoms can be prevented with adequate water intake?",
+                    "answer": "symptoms such as vomiting some filters that are placed directly"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the symptoms of the flu?",
+                    "score": 0.6646,
+                    "answers": "www.eluniversal.com.mx|nsubj\tthat we should remember that some people who became ill with some filters that are placed directly symptoms such as vomiting some filters that are placed directly , which , both specialists claim , can be prevented with adequate water intake|ccomp\tsome|det\tthat some people who became ill with some filters that are placed directly symptoms such as vomiting some filters that are placed directly , which , both specialists claim , can be prevented with adequate water intake|ccomp\twho became ill with some filters that are placed directly symptoms such as vomiting some filters that are placed directly , which , both specialists claim , can be prevented with adequate water intake|relcl\tsome|det\tsome filters that are placed directly symptoms such as vomiting some filters that are placed directly , which , both specialists claim , can be prevented with adequate water intake|pobj\tvomiting some filters that are placed directly , which , both specialists claim , can be prevented with adequate water intake|pcomp\tsome|det\twhich , both specialists claim , can be prevented with adequate water intake|advcl"
+                },
+                {
+                    "question": "What is the source of evidence of the number of people who became ill with some filters?",
+                    "score": 0.6171,
+                    "answers": "that are placed directly|relcl\tthat are placed directly|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Homero Martínez, who also has a PhD in International Nutrition from Cornell University, New York this problemHomero Martínez, who also has a PhD in International Nutrition from Cornell University, New York added that, according people who cannot access a filter of this type, because he said, are very expensive per people who cannot access a filter of this type, because he said, are very expensive , and the water assuredthe water that the other Mexicans prefer to replace the water with sugary drinks such as soft drinks, waters with some sweetening or coloring, same that do not fulfill the function that simple water.",
+            "question_answers": [
+                {
+                    "question": "What did Homero Martnez say about filters?",
+                    "answer": "are very expensive"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Homero Martínez attend school?",
+                    "score": 0.8153,
+                    "answers": "Cornell University , New York|pobj\tCornell University , New York|pobj"
+                },
+                {
+                    "question": "What did Homero Martínez say about the water that Mexicans prefer to replace it with?",
+                    "score": 0.8092,
+                    "answers": "the water assuredthe water that the other Mexicans prefer to replace the water with sugary drinks such as soft drinks , waters with some sweetening or coloring , same that do not fulfill the function that simple water|ROOT"
+                },
+                {
+                    "question": "What does Homero Martínez do with sugary drinks?",
+                    "score": 0.8072,
+                    "answers": "with sugary drinks such as soft drinks , waters with some sweetening or coloring , same that do not fulfill the function that simple water|prep\tsugary drinks such as soft drinks , waters with some sweetening or coloring , same that do not fulfill the function that simple water|pobj\twith some sweetening or coloring|prep\tsome sweetening or coloring|pobj\tcoloring|conj"
+                },
+                {
+                    "question": "What type of filter does Homero Martínez have?",
+                    "score": 0.7934,
+                    "answers": "a filter of this type|dobj\tthis type|pobj\ta filter of this type|dobj\tthis type|pobj\tsugary|amod\tsuch as soft drinks|prep\tsoft|amod\tsoft drinks|pobj\tsimple|amod"
+                },
+                {
+                    "question": "What is Homero Martínez's opinion on sugary drinks?",
+                    "score": 0.7747,
+                    "answers": "who can not access a filter of this type , because he said ,|relcl\twho can not access a filter of this type , because he said ,|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "“It should be remembered that the intake of these soft drinks, or sweetened ones, are potential to develop diseases such as diabetes, weights, obesity and hypertension, which, now with the new coronavirus, is proving that people who have this type of condition, are more likely to have complications,” said Homero Martínez, who also has a PhD in International Nutrition from Cornell University, New York.",
+            "question_answers": [
+                {
+                    "question": "What field of study does Homero Martnez have a PhD in?",
+                    "answer": "International Nutrition"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Homero Martínez attend school?",
+                    "score": 0.7821,
+                    "answers": "Cornell University , New York|pobj"
+                },
+                {
+                    "question": "What does Homero Martínez believe about soft drink?",
+                    "score": 0.7528,
+                    "answers": "Homero|compound"
+                },
+                {
+                    "question": "What did Homero Martínez do to develop the new coronavirus?",
+                    "score": 0.7385,
+                    "answers": "a PhD in International Nutrition from Cornell University , New York|dobj"
+                },
+                {
+                    "question": "What does the new coronavirus do to people who have this type of condition?",
+                    "score": 0.6985,
+                    "answers": "potential to develop diseases such as diabetes , weights , obesity and hypertension , which , now with the new coronavirus , is proving that people who have this type of condition , are more likely to have complications|acomp\tto develop diseases such as diabetes , weights , obesity and hypertension , which , now with the new coronavirus , is proving that people who have this type of condition , are more likely to have complications|xcomp\tdiseases such as diabetes , weights , obesity and hypertension , which , now with the new coronavirus , is proving that people who have this type of condition , are more likely to have complications|dobj\tsuch as diabetes , weights , obesity and hypertension , which , now with the new coronavirus , is proving that people who have this type of condition , are more likely to have complications|prep"
+                },
+                {
+                    "question": "What is Homero Martínez's position on diets of soft drink?",
+                    "score": 0.6884,
+                    "answers": "New|compound"
+                }
+            ]
+        },
+        {
+            "claim": "This is why specialists recommend that people not only consume simple water, but also review the quality of the water they are consuming.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report?",
+                    "answer": "30/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the quality of water that people consume?",
+                    "score": 0.8382,
+                    "answers": "not only|preconj\tonly|advmod\tbut also|cc\tthe|det\tthe quality of the water they are consuming|dobj\tthe|det\tare|aux\tthey are consuming|relcl"
+                },
+                {
+                    "question": "What is the difference between simple water and simple water?",
+                    "score": 0.7874,
+                    "answers": "simple|amod\tsimple water|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the quality of the water they consume?",
+                    "score": 0.774,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 30/06/2020 that This is why specialists recommend that people not only consume simple water , but also review the quality of the water they are consuming|ROOT\tthat This is why specialists recommend that people not only consume simple water , but also review the quality of the water they are consuming|ccomp\tspecialists|nsubj\tpeople|nsubj\tthat people not only consume simple water , but also review the quality of the water they are consuming|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "They stressed that we are all exposed to dehydration or to complications resulting from the low intake of this fluid.",
+            "question_answers": [
+                {
+                    "question": "What is one of the complications that we are all exposed to from a low intake of fluid?",
+                    "answer": "dehydration"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people are exposed to dehydration or to complications from low intake of fluid?",
+                    "score": 0.7988,
+                    "answers": "www.eluniversal.com.mx reported on 30/06/2020 that They stressed that we are all exposed to dehydration or to complications resulting from the low intake of this fluid|ROOT\tthat They stressed that we are all exposed to dehydration or to complications resulting from the low intake of this fluid|ccomp\tthat we are all exposed to dehydration or to complications resulting from the low intake of this fluid|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In response, Dr. Homero Martínez expressed concern about two issues, the first being that in Mexico most of the public network that supplies water for human consumption is extremely contaminated and the other is the excessive consumption of bottled water.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the water used for human consumption in Mexico?",
+                    "score": 0.6725,
+                    "answers": "of the public network that supplies water for human consumption|prep\tthe public network that supplies water for human consumption|pobj\tthat in Mexico most of the public network that supplies water for human consumption is extremely contaminated|ccomp"
+                },
+                {
+                    "question": "What is Dr. Homero Martínez's stance on bottled water?",
+                    "score": 0.6669,
+                    "answers": "www.eluniversal.com.mx reported on 30/06/2020 that In response , Dr. Homero Martínez expressed concern about two issues , the first being that in Mexico most of the public network that supplies water for human consumption is extremely contaminated and the other is the excessive consumption of bottled water|ROOT\t30/06/2020|pobj\tDr.|compound\tDr. Homero Martínez|nsubj\tthat In response , Dr. Homero Martínez expressed concern about two issues , the first being that in Mexico most of the public network that supplies water for human consumption is extremely contaminated and the other is the excessive consumption of bottled water|ccomp\tthe other is the excessive consumption of bottled water|conj\tthe excessive consumption of bottled water|attr\tof bottled water|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Dr. Homero Martínez's concerns about bottled water?",
+                    "score": 0.6559,
+                    "answers": "bottled water|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "“A worrying issue in Mexico is the public water network is contaminated, bacteria leaked and often contaminated with faeces, so it is not recommended that people consume the water directly from the key, in this case some filters that are placed directly help clean the water, but they stop working if they are not maintained or are not constantly cleaned,” he said.",
+            "question_answers": [
+                {
+                    "question": "Why do some filters stop working?",
+                    "answer": "if they are not maintained or are not constantly cleaned,”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is it not recommended to consume water directly from the key?",
+                    "score": 0.748,
+                    "answers": ", so it is not recommended that people consume the water directly from the key|ccomp"
+                },
+                {
+                    "question": "What is the process used to clean water in Mexico?",
+                    "score": 0.6795,
+                    "answers": "some filters that are placed directly|nsubj\tthey stop working if they are not maintained or are not constantly cleaned|conj"
+                },
+                {
+                    "question": "How many filter systems are there in Mexico?",
+                    "score": 0.6737,
+                    "answers": "working|xcomp"
+                },
+                {
+                    "question": "What is the health of the public water network in Mexico?",
+                    "score": 0.6694,
+                    "answers": "on 30/06/2020|prep\t30/06/2020|pobj\tworrying|amod\tA worrying issue in Mexico|nsubj\tin Mexico|prep\tA worrying issue in Mexico is the public water network is contaminated , bacteria leaked and often contaminated with faeces , so it is not recommended that people consume the water directly from the key , in this case some filters that are placed directly help clean the water , but they stop working if they are not maintained or are not constantly cleaned|ccomp\tthe public water network|nsubjpass\tthe public water network is contaminated , bacteria leaked and often contaminated with faeces|ccomp\tbacteria leaked and often contaminated with faeces|conj\toften contaminated with faeces|conj"
+                },
+                {
+                    "question": "What is the source of evidence of the pollution in the public water network?",
+                    "score": 0.6311,
+                    "answers": "public|amod\tthat people consume the water directly from the key|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The specialist recommended that people who cannot access a filter of this type, because he said, are very expensive, they boil the water, then let it cool in clean containers, so that they can be consumed.",
+            "question_answers": [
+                {
+                    "question": "When did eluniversal.com.mx report that the specialist recommended that people who cannot access a filter of this type, because they are very expensive, boil the water and cool it in clean containers?",
+                    "answer": "30/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of filter is available to people who cannot access a filter?",
+                    "score": 0.7188,
+                    "answers": "people who can not access a filter of this type|nsubj"
+                },
+                {
+                    "question": "What is the cost of a filter?",
+                    "score": 0.6538,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 30/06/2020|prep\t30/06/2020|pobj\tpeople who can not access a filter of this type , because he said , are very expensive|ccomp"
+                },
+                {
+                    "question": "What are the requirements for using a filter?",
+                    "score": 0.642,
+                    "answers": "of this type|prep\tthis type|pobj"
+                },
+                {
+                    "question": "What are the benefits of using a filter?",
+                    "score": 0.637,
+                    "answers": "The specialist|nsubj\tcan|aux\tcan|aux"
+                },
+                {
+                    "question": "What is the difference between a filter and a filter?",
+                    "score": 0.6088,
+                    "answers": "he said ,|parataxis"
+                }
+            ]
+        },
+        {
+            "claim": "With regard to bottled water, he said that according to a study at the National Polytechnic Institute, about two thousand small companies usually fill 20-litre potabilizer plants in Mexico City.",
+            "question_answers": [
+                {
+                    "question": "How many litres of bottled water do small companies fill in Mexico City?",
+                    "answer": "20-litre potabilizer plants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did a study by the National Polytechnic Institute find about bottled water?",
+                    "score": 0.7428,
+                    "answers": "a study at the National Polytechnic Institute|pobj"
+                },
+                {
+                    "question": "How many small companies fill 20-litre potabilizer plants in Mexico City?",
+                    "score": 0.7159,
+                    "answers": "that|mark\t,|punct\the|nsubj\tthat|mark\ta|det\tthe|det\tNational|compound\t,|punct\tabout|advmod\ttwo|compound\tsmall|amod\tusually|advmod\t-|punct\tin Mexico City|prep\tMexico|compound"
+                },
+                {
+                    "question": "How many potabilizer plants are in Mexico City?",
+                    "score": 0.7124,
+                    "answers": "that according to a study at the National Polytechnic Institute , about two thousand small companies usually fill 20 - litre potabilizer plants in Mexico City|ccomp"
+                },
+                {
+                    "question": "What is bottled water?",
+                    "score": 0.6642,
+                    "answers": "With regard to bottled water|prep\tregard to bottled water|pobj\tto bottled water|prep\tbottled|amod\tbottled water|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of bottled water in Mexico City?",
+                    "score": 0.642,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 30/06/2020|prep\t20|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "However, he said, the results of this study showed that much of that water was unfit for human consumption, since water still contained bacteria or faeces, or the washing of claws was not adequate and therefore put the population at risk.",
+            "question_answers": [
+                {
+                    "question": "What was not adequate and put the population at risk?",
+                    "answer": "the washing of claws"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What bacteria or faeces are in human water?",
+                    "score": 0.8125,
+                    "answers": "bacteria or faeces|dobj"
+                },
+                {
+                    "question": "How much water was unfit for human consumption?",
+                    "score": 0.7847,
+                    "answers": "www.eluniversal.com.mx|nsubj\tthat However , he said , the results of this study showed that much of that water was unfit for human consumption , since water still contained bacteria or faeces , or the washing of claws was not adequate and therefore put the population at risk|ccomp\tmuch of that water|nsubj\tof that water|prep\tthat water|pobj\tunfit for human consumption|acomp\tfor human consumption|prep"
+                },
+                {
+                    "question": "What bacteria and faeces can be found in water?",
+                    "score": 0.776,
+                    "answers": "faeces|conj"
+                },
+                {
+                    "question": "What did the study say about human consumption of water?",
+                    "score": 0.7577,
+                    "answers": "he|nsubj\tsince|mark\tstill|advmod\tor|cc\tor|cc\tnot|neg\trisk|pobj"
+                },
+                {
+                    "question": "How many bacteria and faeces are in water?",
+                    "score": 0.6916,
+                    "answers": "since water still contained bacteria or faeces|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "In this regard, it recommended that the population that consumes this type of water ensure that businesses comply with the necessary sanitary requirements, as well as that they constantly clean water containers and ensure that the people who fill them do so.",
+            "question_answers": [
+                {
+                    "question": "What did the report recommend that the population that consumes this type of water do to ensure that businesses comply with the necessary sanitary requirements?",
+                    "answer": "that they constantly clean water containers and ensure that the people who fill them do so"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the sanitary requirements for businesses that consume this type of water?",
+                    "score": 0.7656,
+                    "answers": "www.eluniversal.com.mx|nsubj\tthat|mark\tthis|det\tthis regard|pobj\t,|punct\tit|nsubj\tthat|mark\tthe|det\tthat|nsubj\tthat consumes this type of water|relcl\tthis|det\tof water|prep\twater|pobj\tthat|mark\tbusinesses|nsubj\tthe|det\tnecessary|amod\t,|punct\tas|advmod\twell|advmod\tas well as|cc\tthat|mark\tthey|nsubj\tconstantly|advmod\twater|compound\tand|cc\tthat|mark\tthe|det\twho|nsubj\tthem|dobj\tso|advmod"
+                },
+                {
+                    "question": "What percentage of the population consume sanitary requirements?",
+                    "score": 0.7532,
+                    "answers": "the population that consumes this type of water|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "It also recommended that the use of plastic to contain water, in the long run, may be harmful to health, so that water garraferons should be constantly changed.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report that plastic could be harmful to health?",
+                    "answer": "30/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are water garraferons?",
+                    "score": 0.795,
+                    "answers": "water garraferons|nsubjpass"
+                },
+                {
+                    "question": "What is the use of plastic to contain water?",
+                    "score": 0.7873,
+                    "answers": "the use of plastic to contain water|nsubj"
+                },
+                {
+                    "question": "What should be done with water garraferons?",
+                    "score": 0.7804,
+                    "answers": "so that water garraferons should be constantly changed|advcl"
+                },
+                {
+                    "question": "What is water garraferons?",
+                    "score": 0.7564,
+                    "answers": "water|dobj\twater|compound"
+                },
+                {
+                    "question": "What is the source of evidence of water garraferons being harmful to health?",
+                    "score": 0.7526,
+                    "answers": "to health|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Finally, he pointed out that the best way to know how hydrated a person is is by means of urine coloring; “the darker it is, the less hydrated we are, that's why it's important to pay attention especially to children and older adults.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report that urine coloring is the best way to know how hydrated a person is?",
+                    "answer": "30/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are children and older adults more hydrated by urine coloring?",
+                    "score": 0.829,
+                    "answers": "older|amod"
+                },
+                {
+                    "question": "How much hydrated a person is by means of urine coloring?",
+                    "score": 0.7912,
+                    "answers": "how hydrated|acomp\tless|advmod"
+                },
+                {
+                    "question": "What is the best way to know how hydrated a person is?",
+                    "score": 0.7012,
+                    "answers": "the|det\tthe best way to know how hydrated a person is|nsubj\thow hydrated a person is|ccomp\tthat the best way to know how hydrated a person is is by means of urine coloring|ccomp\tthe|advmod\tthe|advmod\tthe less hydrated|acomp\twhy it 's important to pay attention especially to children and older adults|ccomp\tolder adults|conj"
+                },
+                {
+                    "question": "What is urine coloring?",
+                    "score": 0.6961,
+                    "answers": "a person|nsubj\tby means of urine coloring|prep\tmeans of urine coloring|pobj\tof urine coloring|prep\turine|compound\turine coloring|pobj\tthe darker|amod\tthe darker it is|advcl\tthe less hydrated we are|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In case of dehydration or mild symptoms of diarrhea he called on the population to drink more water, eat well, maintain good hygiene in hands and food and check the water consumed.",
+            "question_answers": [
+                {
+                    "question": "What did www.eluniversal.com.mx report on 30/06/2020",
+                    "answer": "In case of dehydration or mild symptoms of diarrhea he called on the population to drink more water, eat well, maintain good hygiene in hands and food"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the symptoms of diarrhea in Swaziland?",
+                    "score": 0.708,
+                    "answers": "eat well , maintain good hygiene in hands and food and check the water consumed|conj"
+                },
+                {
+                    "question": "What is the population of the United States?",
+                    "score": 0.6175,
+                    "answers": "on the population|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the number of cases of dehydration and mild symptoms of diarrhea?",
+                    "score": 0.5856,
+                    "answers": "the water consumed|dobj"
+                },
+                {
+                    "question": "What iseluniversal.com.mx?",
+                    "score": 0.5119,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        }
+    ]
+}

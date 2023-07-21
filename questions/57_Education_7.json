@@ -1,0 +1,232 @@
+{
+    "id": "57_Education_7",
+    "claim": "Mexico. - The rector of the Autonomous University of Mexico, Enrique Graue Wiechers, revealed in a press conference that from the next school year, students from the Sociology and Philosophy courses will be subjected to an antidoping examination that will be applied to them every  months, and students who give positive will be definitively expelled from the institution, with the aim of stopping the sale and consumption of drugs within the facilities, in addition to cleaning up the fame that these degrees have to be 'for pure marijuana and drunk '. Enrique left it clear that it is well known to everyone that in these faculties it is where the most illicit substances are consumed within the facilities, since even the students have taken over certain areas to go to drugs in class hours: 'We have been very tolerant to the students in general: when we discover a student (regardless of the faculty in which he is) consuming alcoholic beverages or committing a foul of the rules, immediately he is transferred to rectory to impose a punishment (which can even reach expulsion), however the guards and security corps of Sociology and Philosophy prefer to turn a blind eye because in such careers it is already common for students to be drugged all day long, and it is impossible to control them all. The previous rectors gave these students many freedoms but it is time to stop them, one thing is that they want to fight the system, and another to break the rules and then become the offended ones ', he commented. Graue recalled the case of 'El Yorch ', a student who was arrested months ago for drug trafficking in the vicinity of the Philosophy auditorium: 'That is the best known case but it is not the only one that has been registered, the reality is that dozens of students in these careers sell, buy, traffic and use drugs inside the facilities as if nothing. The sale and consumption occurs in all careers I will not deny, but in Philosophy and Sociology they do it in a brazen way. It's a fact that we're going to do the doping tests and whoever doesn't like it getting out, some already threatened to go to Human Rights, but we're free to implement any rule as long as we don't physically or psychologically violate anyone. Pupils who choose to continue to get drugged will be forced to leave the institution to give their place to someone who really wants to go to school, and not to grab the faculty as a canteen or bar to get rid of their churros de mota or take their crazy waters ', he said. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "06/05/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Mexico.",
+            "question_answers": [
+                {
+                    "question": "When did elruinaversal.com report that Mexico's economy was in decline?",
+                    "answer": "06/05/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the relationship between Mexico and the United States?",
+                    "score": 0.7392,
+                    "answers": "on 06/05/2017|prep\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "- The rector of the Autonomous University of Mexico, Enrique Graue Wiechers , revealed in a press conference that from the next school year, students from the Sociology and Philosophy courses will be subjected to an antidoping examination that will be applied to students from the Sociology and Philosophy courses every  months, and students who give positive will be definitively expelled from the Autonomous University of Mexico , with the aim of stopping the sale and consumption of drugs within the facilities , in addition to cleaning up the fame that these degrees have to be 'for pure marijuana and drunk '.",
+            "question_answers": [
+                {
+                    "question": "What does the antidoping examination at the Autonomous University of Mexico aim to clean up?",
+                    "answer": "'for pure marijuana and drunk"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What courses will students from the Sociology and Philosophy courses be subjected to?",
+                    "score": 0.8866,
+                    "answers": "Sociology and Philosophy|nmod\tSociology and Philosophy|nmod"
+                },
+                {
+                    "question": "How many students will be expelled from Autonomous University of Mexico in 2017?",
+                    "score": 0.8375,
+                    "answers": "www.elruinaversal.com|nsubj\tstudents from the Sociology and Philosophy courses|nsubjpass\tPhilosophy|conj\tto an antidoping examination that will be applied to students from the Sociology and Philosophy courses|prep\tan antidoping examination that will be applied to students from the Sociology and Philosophy courses|pobj\tto students from the Sociology and Philosophy courses|prep\tstudents from the Sociology and Philosophy courses|pobj\tPhilosophy|conj\tmonths|npadvmod"
+                },
+                {
+                    "question": "What will happen to students who give positive drugs within the Autonomous University of Mexico?",
+                    "score": 0.8024,
+                    "answers": "of drugs|prep\tdrugs|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The rector of the Autonomous University of Mexico, Enrique Graue Wiechers left it clear that it is well known to everyone that in these faculties it is where the most illicit substances are consumed within the facilities , since even the students have taken over certain areas to go to drugs in class hours: 'We have been very tolerant to the students in general: when We discover a student (regardless of the faculty in which a student is) consuming alcoholic beverages or committing a foul of the rules, immediately a student is transferred to rectory to impose a punishment (which can even reach expulsion), however the guards and security corps of these faculties prefer to turn a blind eye because in such careers it is already common for students to be drugged all day long, and it is impossible to control them all .",
+            "question_answers": [
+                {
+                    "question": "What does the rector of the Autonomous University of Mexico say is well known to everyone?",
+                    "answer": "where the most illicit substances are consumed within the facilities"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the punishments for students consuming alcoholic beverages or committing a foul of the rules?",
+                    "score": 0.8761,
+                    "answers": "of the faculty in which a student is|prep\tthe faculty in which a student is|pobj"
+                },
+                {
+                    "question": "How many illicit drugs are there in the University of Mexico?",
+                    "score": 0.8485,
+                    "answers": "that in these faculties it is where the most illicit substances are consumed within the facilities , since even the students have taken over certain areas to go to drugs in class hours|ccomp"
+                },
+                {
+                    "question": "How many students are taking drugs during classes at Autonomous University of Mexico?",
+                    "score": 0.8305,
+                    "answers": "even the students|nsubj"
+                },
+                {
+                    "question": "What are the rules for taking drugs in class hours?",
+                    "score": 0.8295,
+                    "answers": "to go to drugs in class hours|advcl"
+                },
+                {
+                    "question": "What does it mean to be drugged all day long?",
+                    "score": 0.822,
+                    "answers": "impossible|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "The previous rectors gave them all many freedoms but it is time to stop them all , one thing is that them all want to fight the system, and another to break the rules and then become the offended ones ', The rector of the Autonomous University of Mexico, Enrique Graue Wiechers commented.",
+            "question_answers": [
+                {
+                    "question": "What did www.elruinaversal.com report on 06/05/2017?",
+                    "answer": "it is time to stop them all"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the rector of the Autonomous University of Mexico say about the reforms?",
+                    "score": 0.759,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 06/05/2017|ccomp\ton 06/05/2017|prep\tthat|mark\tThe|det\tprevious|amod\tThe previous rectors|nsubj\tmany|amod\tbut|cc\tit|nsubj\tit is time to stop them all|conj\ttime to stop them all|attr\tto|aux\tto stop them all|relcl\t,|punct\tthat|mark\tthat them all want to fight the system ,|ccomp\tto|aux\tto fight the system|xcomp\tthe|det\t,|punct\tand|cc\tto|aux\tthe|det\tand|cc\tthen|advmod\tthen become the offended ones|conj\tthe|det\t'|punct\t,|punct\tThe|det\tthe|det\t,|punct\tEnrique|compound\tGraue|compound"
+                },
+                {
+                    "question": "What did the previous rectors say about the new rectors?",
+                    "score": 0.7566,
+                    "answers": "that The previous rectors gave them all many freedoms but it is time to stop them all|ccomp"
+                },
+                {
+                    "question": "Who is Enrique Graue Wiechers?",
+                    "score": 0.5822,
+                    "answers": "of the Autonomous University of Mexico|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Graue recalled the case of 'El Yorch ', a student who was arrested months ago for drug trafficking in the vicinity of the Philosophy auditorium: 'That is the best known case but it is not the only one that has been registered, the reality is that dozens of students in these careers sell, buy, traffic and use drugs inside the facilities as if nothing.",
+            "question_answers": [
+                {
+                    "question": "Who was arrested for drug trafficking in the vicinity of the Philosophy auditorium?",
+                    "answer": "'El Yorch"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was El Yorch arrested for drug trafficking?",
+                    "score": 0.713,
+                    "answers": "www.elruinaversal.com reported on 06/05/2017 that Graue recalled the case of ' El Yorch ' , a student who was arrested months ago for drug trafficking in the vicinity of the Philosophy auditorium :|ROOT\tof ' El Yorch ' , a student who was arrested months ago for drug trafficking in the vicinity of the Philosophy auditorium|prep\t' El Yorch ' , a student who was arrested months ago for drug trafficking in the vicinity of the Philosophy auditorium|pobj"
+                },
+                {
+                    "question": "How many students have been arrested in the area of the Philosophy auditorium for drug trafficking?",
+                    "score": 0.6683,
+                    "answers": "that dozens of students in these careers sell , buy , traffic and use drugs inside the facilities as if nothing|ccomp"
+                },
+                {
+                    "question": "What was the name of the student who was arrested months ago for drug trafficking?",
+                    "score": 0.6289,
+                    "answers": "best|advmod"
+                },
+                {
+                    "question": "How many students use drugs inside of the Philosophy auditorium?",
+                    "score": 0.6234,
+                    "answers": "students in these careers|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The sale and consumption occurs in all careers I will not deny, but in Philosophy and Sociology they do it in a brazen way.",
+            "question_answers": [
+                {
+                    "question": "Which careers do they do it in a brazen way?",
+                    "answer": "Philosophy and Sociology"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How does the sale and consumption occur in all careers?",
+                    "score": 0.9097,
+                    "answers": "that The sale and consumption occurs in all careers|ccomp"
+                },
+                {
+                    "question": "What is the process of selling and consumption in Philosophy and Sociology?",
+                    "score": 0.765,
+                    "answers": "in all careers|prep\tin Philosophy and Sociology they do it in a brazen way|conj\ta brazen way|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It's a fact that we're going to do the doping tests and whoever doesn't like it getting out, some already threatened to go to Human Rights, but we're free to implement any rule as long as we don't physically or psychologically violate anyone.",
+            "question_answers": [
+                {
+                    "question": "Who gets out of the doping tests?",
+                    "answer": "whoever doesn't like it"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the rules for taking part in doping tests?",
+                    "score": 0.784,
+                    "answers": "the doping tests|dobj\tn't|neg\tany rule|dobj\tn't|neg"
+                },
+                {
+                    "question": "What are the requirements for implementing a doping rule?",
+                    "score": 0.7774,
+                    "answers": "as long as we do n't physically or psychologically violate anyone|advmod"
+                },
+                {
+                    "question": "What does it mean to be banned from taking a drug test?",
+                    "score": 0.7644,
+                    "answers": "whoever does n't like it getting out|conj"
+                },
+                {
+                    "question": "What is the definition of a doping test?",
+                    "score": 0.7541,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 06/05/2017|ccomp\ton 06/05/2017|prep\tthat|mark\tIt|nsubj\ta|det\tthat|mark\twe|nsubj\tto|aux\tthe|det\tdoping|compound\tand|cc\tit|nsubj\tout|prt\t,|punct\tsome|nsubj\talready|advmod\tto|aux\t,|punct\tbut|cc\twe|nsubj\tto|aux\tany|det\tas|advmod\tas|mark\twe|nsubj\tor|cc\tanyone|dobj"
+                },
+                {
+                    "question": "What is the punishment for not physically or psychologically violating anyone?",
+                    "score": 0.6447,
+                    "answers": "as we do n't physically or psychologically violate anyone|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Pupils who choose to continue to get drugged will be forced to leave the institution to give their place to someone who really wants to go to school, and not to grab the faculty as a canteen or bar to get rid of their churros de mota or take their crazy waters ', he said.",
+            "question_answers": [
+                {
+                    "question": "Why would a student be forced to leave the school?",
+                    "answer": "to get rid of their churros de mota or take their crazy waters"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Pupils who choose to continue to get drugged are forced to leave the institution?",
+                    "score": 0.7375,
+                    "answers": "someone who really wants to go to school|pobj\twho really wants to go to school|relcl\tschool|pobj\tde|nmod"
+                },
+                {
+                    "question": "What does it mean to give your place to someone who wants to go to school?",
+                    "score": 0.7126,
+                    "answers": "to leave the institution to give their place to someone who really wants to go to school , and not to grab the faculty as a canteen or bar to get rid of their churros de mota or take their crazy waters|xcomp"
+                },
+                {
+                    "question": "What are Pupils who decide to get drugged?",
+                    "score": 0.7046,
+                    "answers": "that Pupils who choose to continue to get drugged will be forced to leave the institution to give their place to someone who really wants to go to school , and not to grab the faculty as a canteen or bar to get rid of their churros de mota or take their crazy waters|ccomp"
+                },
+                {
+                    "question": "What is the punishment for being drugged at a school?",
+                    "score": 0.6631,
+                    "answers": "Pupils who choose to continue to get drugged|nsubjpass\tto continue to get drugged|xcomp\tto get drugged|xcomp\ttheir place|dobj"
+                }
+            ]
+        }
+    ]
+}

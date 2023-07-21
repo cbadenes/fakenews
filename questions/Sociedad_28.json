@@ -1,0 +1,403 @@
+{
+    "id": "Sociedad_28",
+    "claim": "While Minga moved to the capital of the Republic, the State security forces have taken advantage of it to enter the indigenous-dominant Cauca territories to destroy more than 63 coca processing laboratories protected by indigenous people and belonging to illegal armed groups in the Cauca and Caquetá areas. As revealed by the Anti-Narcotics Directorate of the Police, the laboratories intervened were found in the municipalities of Piedmont (Cauca), San Jose del Fragua, Puerto Rico, Valparaíso and Milan (Caquetá), border area of the two departments and indigenous domain. The operation of the anti-narcotics group was called “Resplandor II” and yet with the aerial support of operational commands deployed from Florence by the National Police aviation. The destroyed laboratories had the capacity to produce up to one ton of coca base per month, according to the police in the monthly value that interferes in coca production is $1. 683 million pesos and that will affect the finances of the dissidences. Share this content:The Anti-Narcotics Police achieved the seizure and subsequent destruction of 2. 664 gallons of liquid inputs (ACPM, petrol and sulphuric acid), 1. 198 kilos of solid inputs (ammonium sulfate, cement, lime, bicarbonate and nutrient), 2. 547 kilograms of macerated coca leaf and 574 kilograms of cocaine base in solution. “The judicial proceedings were left at the disposal of the Attorney General's Office based in Mocoa and Florence,” the Anti-Narcotics Directorate said. The investigations determined that each of these laboratories had the capacity to produce about one ton of coca base per month, which, according to the police, represents an impact on the logistics chain of drug trafficking organizations at a value close to $1. 683 million pesos. According to the Anti-Narcotics Directorate of the Police, a large part of the cocaine laboratories are located in this area, since the location of the department is key to getting the drug off the Pacific coast to Central America and the United States. USA. I'm sorry.",
+    "source": "politika.com.co",
+    "date": "19/10/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "While Minga moved to the capital of the Republic, the State security forces have taken advantage of moved to enter the indigenous-dominant Cauca territories to destroy more than 63 coca processing laboratories protected by indigenous people and belonging to illegal armed groups in the Cauca and Caquetá areas .",
+            "question_answers": [
+                {
+                    "question": "How many coca processing laboratories were destroyed in the Cauca territories?",
+                    "answer": "more than 63"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the state security forces do to destroy 63 coca processing laboratories?",
+                    "score": 0.6337,
+                    "answers": "on 19/10/2020|prep\tto the capital of the Republic|prep\tthe Republic|pobj"
+                },
+                {
+                    "question": "How many coca processing labs have been destroyed in the Cauca territories?",
+                    "score": 0.5991,
+                    "answers": "coca processing|compound"
+                },
+                {
+                    "question": "What is the capital of the Republic?",
+                    "score": 0.4925,
+                    "answers": "the capital of the Republic|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "As revealed by the Anti-Narcotics Directorate of the Police , more than 63 coca processing laboratories protected by indigenous people and belonging to illegal armed groups in the Cauca and Caquetá areas were found in the municipalities of Piedmont (Cauca), San Jose del Fragua, Puerto Rico, Valparaíso and Milan (Caquetá), border area of the two departments and indigenous domain.",
+            "question_answers": [
+                {
+                    "question": "Who revealed that more than 63 coca processing laboratories were found in the Cauca and Caqueta areas?",
+                    "answer": "Anti-Narcotics Directorate of the Police"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Anti-Narcotics Directorate of the Police say about the coca processing labs?",
+                    "score": 0.6336,
+                    "answers": "by the Anti - Narcotics Directorate of the Police|agent"
+                },
+                {
+                    "question": "How many coca processing labs were found in Piedmont (Cauca)?",
+                    "score": 0.6297,
+                    "answers": "the Anti - Narcotics Directorate of the Police|pobj\tin the municipalities of Piedmont ( Cauca ) , San Jose del Fragua , Puerto Rico , Valparaíso and Milan ( Caquetá ) , border area of the two departments and indigenous domain|prep\tthe municipalities of Piedmont ( Cauca ) , San Jose del Fragua , Puerto Rico , Valparaíso and Milan ( Caquetá ) , border area of the two departments and indigenous domain|pobj\tof Piedmont ( Cauca ) , San Jose del Fragua , Puerto Rico , Valparaíso and Milan ( Caquetá ) , border area of the two departments and indigenous domain|prep\tPiedmont ( Cauca ) , San Jose del Fragua , Puerto Rico , Valparaíso and Milan ( Caquetá ) , border area of the two departments and indigenous domain|pobj\tSan Jose|compound\tValparaíso and Milan ( Caquetá )|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The operation of the Anti-Narcotics Directorate of the Police was called “Resplandor II” and yet with the aerial support of operational commands deployed from Florence by the National Police aviation.",
+            "question_answers": [
+                {
+                    "question": "From what city did the National Police deploy the aerial support of the operation of the Anti-Narcotics Directorate of the Police?",
+                    "answer": "Florence"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the operation of the Anti-Narcotics Directorate of Police called \"Resplandor II\"?",
+                    "score": 0.6479,
+                    "answers": "The|det\tthe|det\tthe|det\twas|auxpass\t“|punct\t”|punct\tthe|det\tfrom Florence|prep\tthe|det\tNational|compound\tNational Police|compound"
+                },
+                {
+                    "question": "What is Resplandor II?",
+                    "score": 0.4742,
+                    "answers": "politika.com.co reported on 19/10/2020 that The operation of the Anti - Narcotics Directorate of the Police was called “ Resplandor II ” and yet with the aerial support of operational commands deployed from Florence by the National Police aviation|ROOT\tAnti|compound\tthat The operation of the Anti - Narcotics Directorate of the Police was called “ Resplandor II ” and yet with the aerial support of operational commands deployed from Florence by the National Police aviation|ccomp\t“ Resplandor II|oprd"
+                }
+            ]
+        },
+        {
+            "claim": "more than 63 coca processing laboratories protected by indigenous people and belonging to illegal armed groups in the Cauca and Caquetá areas had the capacity to produce up to one ton of coca base per month, according to the police in the monthly value that interferes in coca production is $1.",
+            "question_answers": [
+                {
+                    "question": "How many tons of coca base did the coca processing laboratories in the Cauca and Caqueta areas produce per month?",
+                    "answer": "one ton"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the annual cost of coca production?",
+                    "score": 0.6453,
+                    "answers": "that interferes in coca production|relcl"
+                },
+                {
+                    "question": "How many coca processing labs are there in Cauca and Caquetá?",
+                    "score": 0.6382,
+                    "answers": "to illegal armed groups in the Cauca and Caquetá areas|prep"
+                },
+                {
+                    "question": "What is the production capacity of coca base per month?",
+                    "score": 0.6067,
+                    "answers": "the Cauca and Caquetá areas|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "683 million pesos and that will affect the finances of the dissidences.",
+            "question_answers": [
+                {
+                    "question": "How many pesos did politika.com.co report on 19/10/2020?",
+                    "answer": "683 million pesos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will the finances of dissidences be affected by the dissidences?",
+                    "score": 0.7477,
+                    "answers": "that|mark\t683 million|nummod\tand|cc\tthat|nsubj\twill|aux\tthe|det\tthe|det"
+                },
+                {
+                    "question": "How many million pesos will be spent on dissidences?",
+                    "score": 0.6809,
+                    "answers": "683|compound"
+                },
+                {
+                    "question": "What are the finances of dissidences?",
+                    "score": 0.6629,
+                    "answers": "of the dissidences|prep\tthe dissidences|pobj"
+                },
+                {
+                    "question": "What is Politika.com.co?",
+                    "score": 0.4784,
+                    "answers": "politika.com.co|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Share this content:the Anti-Narcotics Directorate of the Police achieved the seizure and subsequent destruction of 2.",
+            "question_answers": [
+                {
+                    "question": "Who achieved the seizure and subsequent destruction of 2 drugs?",
+                    "answer": "the Anti-Narcotics Directorate of the Police"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Anti-Narcotics Directorate of the Police achieve?",
+                    "score": 0.6955,
+                    "answers": "politika.com.co|nsubj\tpolitika.com.co reported on 19/10/2020 that Share this content : the Anti - Narcotics Directorate of the Police achieved the seizure and subsequent destruction of 2|ROOT\ton 19/10/2020|prep\t19/10/2020|pobj\tthat|mark\tShare this content :|advcl\tthis|det\tthis content|dobj\t:|punct\tthe|det\t-|compound\tNarcotics|compound\tof the Police|prep\tthe|det\tthe Police|pobj\tthat Share this content : the Anti - Narcotics Directorate of the Police achieved the seizure and subsequent destruction of 2|ccomp\tthe|det\tthe seizure and subsequent destruction of 2|dobj\tand|cc\tsubsequent|amod\tsubsequent destruction|conj\tof 2|prep"
+                }
+            ]
+        },
+        {
+            "claim": "664 gallons of liquid inputs (ACPM, petrol and sulphuric acid), 1.",
+            "question_answers": [
+                {
+                    "question": "How many gallons of liquid inputs were reported on 19/10/2020?",
+                    "answer": "664 gallons"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many gallons of ACPM, petrol and sulphuric acid are available per day?",
+                    "score": 0.648,
+                    "answers": "politika.com.co reported on 19/10/2020 that 664 gallons of liquid inputs ( ACPM , petrol and sulphuric acid ) , 1|ROOT"
+                },
+                {
+                    "question": "What is the amount of liquid inputs per gallon?",
+                    "score": 0.6028,
+                    "answers": "that 664 gallons of liquid inputs ( ACPM , petrol and sulphuric acid ) , 1|dobj"
+                },
+                {
+                    "question": "What is sulphuric acid?",
+                    "score": 0.5702,
+                    "answers": "sulphuric|amod\tsulphuric acid|conj"
+                },
+                {
+                    "question": "What is Politika.com?",
+                    "score": 0.4379,
+                    "answers": "politika.com.co|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "198 kilos of solid inputs (ammonium sulfate, cement, lime, bicarbonate and nutrient), 2.",
+            "question_answers": [
+                {
+                    "question": "How many kilos of solid inputs did politika.com.co report on 19/10/2020?",
+                    "answer": "198 kilos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many kilos of solid inputs are there per year?",
+                    "score": 0.5812,
+                    "answers": "198|nummod\tthat 198 kilos of solid inputs ( ammonium sulfate , cement , lime , bicarbonate and nutrient ) , 2|dobj\tsolid|amod\tammonium|compound"
+                },
+                {
+                    "question": "What is the purpose of solid inputs?",
+                    "score": 0.5314,
+                    "answers": "nutrient|conj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of solid inputs in the country?",
+                    "score": 0.5081,
+                    "answers": "solid inputs ( ammonium sulfate , cement , lime , bicarbonate and nutrient )|pobj"
+                },
+                {
+                    "question": "What is Politika.com?",
+                    "score": 0.4225,
+                    "answers": "politika.com.co|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "547 kilograms of macerated coca leaf and 574 kilograms of cocaine base in solution.",
+            "question_answers": [
+                {
+                    "question": "How much cocaine base was found in a solution on 19/10/2020?",
+                    "answer": "574 kilograms"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much cocaine do coca leafs have in solution?",
+                    "score": 0.8881,
+                    "answers": "politika.com.co reported on 19/10/2020 that 547 kilograms of macerated coca leaf and 574 kilograms of cocaine base in solution|ROOT"
+                },
+                {
+                    "question": "How much cocaine is in solution?",
+                    "score": 0.8654,
+                    "answers": "547|nummod\tthat 547 kilograms of macerated coca leaf and 574 kilograms of cocaine base in solution|dobj\tcocaine|compound\tin solution|prep"
+                },
+                {
+                    "question": "How much cocaine base is in the coca leaf?",
+                    "score": 0.8638,
+                    "answers": "that|mark\tof macerated coca leaf|prep"
+                },
+                {
+                    "question": "How much coca leaf is in solution?",
+                    "score": 0.857,
+                    "answers": "macerated|amod"
+                },
+                {
+                    "question": "How many kilograms of coca leaf and 574 kilograms of cocaine base are in solution?",
+                    "score": 0.8147,
+                    "answers": "on 19/10/2020|prep"
+                }
+            ]
+        },
+        {
+            "claim": "“The judicial proceedings were left at the disposal of the Attorney General's Office based in Mocoa and Florence,” the Anti-Narcotics Directorate said.",
+            "question_answers": [
+                {
+                    "question": "Who said the judicial proceedings were left at the disposal of the Attorney General's Office?",
+                    "answer": "the Anti-Narcotics Directorate"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Anti-Narcotics Directorate say about Mocoa and Florence?",
+                    "score": 0.6691,
+                    "answers": "The|det"
+                },
+                {
+                    "question": "Where was the Attorney General's Office located in Mocoa and Florence?",
+                    "score": 0.631,
+                    "answers": "Mocoa and Florence|pobj"
+                },
+                {
+                    "question": "Where is the Anti-Narcotics Directorate located?",
+                    "score": 0.5981,
+                    "answers": "based in Mocoa and Florence|acl\tin Mocoa and Florence|prep"
+                },
+                {
+                    "question": "What is the Anti-Narcotics Directorate?",
+                    "score": 0.5678,
+                    "answers": "politika.com.co|nsubj\tAnti|compound\tNarcotics|compound\tthe Anti - Narcotics Directorate|nsubj"
+                },
+                {
+                    "question": "Where is the Attorney General's office located?",
+                    "score": 0.5432,
+                    "answers": "at the disposal of the Attorney General 's Office based in Mocoa and Florence|prep\tof the Attorney General 's Office based in Mocoa and Florence|prep\tthe Attorney General 's Office based in Mocoa and Florence|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The investigations determined that each of these laboratories had the capacity to produce about one ton of coca base per month, which, according to the police, represents an impact on the logistics chain of drug trafficking organizations at a value close to $1.",
+            "question_answers": [
+                {
+                    "question": "How much coca base did each of the laboratories produce per month?",
+                    "answer": "one ton"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money do drug trafficking organizations make per month?",
+                    "score": 0.7099,
+                    "answers": "an impact on the logistics chain of drug trafficking organizations at a value close to $ 1|dobj"
+                },
+                {
+                    "question": "How much coca base does each lab produce per month?",
+                    "score": 0.6968,
+                    "answers": "to produce about one ton of coca base per month ,|acl\tabout one ton of coca base per month|dobj\tof coca base|prep\tcoca|compound\tcoca base|pobj"
+                },
+                {
+                    "question": "How many coca base per month does each of these labs produce per month?",
+                    "score": 0.6423,
+                    "answers": "each of these laboratories|nsubj\tthese laboratories|pobj"
+                },
+                {
+                    "question": "What is the production capacity of coca base per month?",
+                    "score": 0.6188,
+                    "answers": "on 19/10/2020|prep\tthat The investigations determined that each of these laboratories had the capacity to produce about one ton of coca base per month , which , according to the police , represents an impact on the logistics chain of drug trafficking organizations at a value close to $ 1|ccomp\tper month|prep"
+                },
+                {
+                    "question": "What is the chain of drug trafficking organizations?",
+                    "score": 0.6009,
+                    "answers": "the logistics chain of drug trafficking organizations|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "683 million pesos.",
+            "question_answers": [
+                {
+                    "question": "How many pesos did politika.com.co report on 19/10/2020?",
+                    "answer": "683 million pesos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the total amount of pesos in dollars?",
+                    "score": 0.7038,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is politika.com.co?",
+                    "score": 0.472,
+                    "answers": "politika.com.co|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the Anti-Narcotics Directorate of the Police, a large part of the cocaine laboratories are located in this area, since the location of the department is key to getting the drug off the Pacific coast to Central America and the United States.",
+            "question_answers": [
+                {
+                    "question": "When did politika.com.co report that a large part of the cocaine laboratories are located in this area?",
+                    "answer": "19/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where are the cocaine labs located?",
+                    "score": 0.7567,
+                    "answers": "politika.com.co reported on 19/10/2020 that According to the Anti - Narcotics Directorate of the Police , a large part of the cocaine laboratories are located in this area , since the location of the department is key to getting the drug off the Pacific coast to Central America and the United States|ROOT\tthat|mark\tto the Anti - Narcotics Directorate of the Police|prep\tthe|det\tAnti|compound\t-|compound\tNarcotics|compound\tthe|det\t,|punct\ta|det\tthe|det\tcocaine|compound\tthe cocaine laboratories|pobj\tare|auxpass\tin this area|prep\tthis|det\tthis area|pobj\t,|punct\tsince|mark\tthe|det\tthe|det\tthe department|pobj\tthe|det\tthe|det\tthe Pacific coast to Central America and the United States|pobj\tCentral|compound\tand|cc\tthe|det\tUnited|compound"
+                },
+                {
+                    "question": "How many cocaine labs are located in this area?",
+                    "score": 0.7515,
+                    "answers": "the drug|dobj"
+                },
+                {
+                    "question": "Where is the cocaine lab located?",
+                    "score": 0.7268,
+                    "answers": "politika.com.co|nsubj\ton 19/10/2020|prep\tthe Anti - Narcotics Directorate of the Police|pobj\tof the Police|prep\tthe Police|pobj\tof the department|prep\toff the Pacific coast to Central America and the United States|prep\tto Central America and the United States|prep\tCentral America and the United States|pobj"
+                },
+                {
+                    "question": "What is the purpose of getting cocaine off the Pacific coast to Central America?",
+                    "score": 0.7176,
+                    "answers": "key to getting the drug off the Pacific coast to Central America and the United States|acomp\tto getting the drug off the Pacific coast to Central America and the United States|prep\tgetting the drug off the Pacific coast to Central America and the United States|pcomp"
+                },
+                {
+                    "question": "What is the location of the cocaine lab?",
+                    "score": 0.6872,
+                    "answers": "According to the Anti - Narcotics Directorate of the Police|prep\tlarge|amod\ta large part of the cocaine laboratories|nsubjpass\tof the cocaine laboratories|prep\tthe location of the department|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "USA.",
+            "question_answers": [
+                {
+                    "question": "On what date did politika.com.co report that the USA was in the US?",
+                    "answer": "19/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Politika.com.co say about USA?",
+                    "score": 0.5859,
+                    "answers": "that USA|dobj"
+                },
+                {
+                    "question": "What is Politika.com?",
+                    "score": 0.4766,
+                    "answers": "politika.com.co reported on 19/10/2020 that USA|ROOT"
+                },
+                {
+                    "question": "What is Politika.com.co?",
+                    "score": 0.4651,
+                    "answers": "politika.com.co|nsubj\ton 19/10/2020|prep\tthat|mark"
+                }
+            ]
+        }
+    ]
+}

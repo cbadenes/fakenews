@@ -1,0 +1,232 @@
+{
+    "id": "98_Society_73",
+    "claim": "The savings of using an electric car seem not to have been such for Rafael, a user who received an invoice from the electric company of more than  euros after having loaded his vehicle into a plug of his home. Rafael acquired an electric car a month ago, sponsored by the advice of his brother-in-law who assured him that he could charge at home for a couple of euros. After several attempts in which the differential of the electric panel jumped, he finally managed to connect the vehicle with an elongator to the socket of the nightstand. Quickly the charge was complete but the surprise to arrive. Upon seeing the bill, Rafael telephoned his brother-in-law.'He told me that's what he had told him in the bar, the cousin of one who was about to buy an electric one.\". In the company of the light they merely congratulated him on being the best customer of the month, promising him that they would send him a ham at the end of the year if he continued like this. With disgust in the body, man has decided to turn off all the electrical devices in his home. Now they manage with candles and gas camping kitchens. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "28/03/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The savings of using an electric car seem not to have been such for Rafael, a user who received an invoice from the electric company of more than  euros after having loaded his vehicle into a plug of his home.",
+            "question_answers": [
+                {
+                    "question": "Who said that the savings of using an electric car seem not to have been such for Rafael?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the savings of using an electric car?",
+                    "score": 0.6872,
+                    "answers": "into a plug of his home|prep\ta plug of his home|pobj"
+                },
+                {
+                    "question": "How much money did Rafael receive from electric car company in 2018?",
+                    "score": 0.6726,
+                    "answers": "to|aux"
+                }
+            ]
+        },
+        {
+            "claim": "Rafael acquired an electric car a month ago, sponsored by the advice of his brother-in-law who assured him that he could charge at home for a couple of euros.",
+            "question_answers": [
+                {
+                    "question": "Who sponsored Rafael to buy an electric car?",
+                    "answer": "his brother-in-law"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Rafael purchase an electric car a month ago?",
+                    "score": 0.8101,
+                    "answers": "on 28/03/2018|prep"
+                },
+                {
+                    "question": "How much did Rafael charge for his electric car?",
+                    "score": 0.7535,
+                    "answers": "euros|pobj"
+                },
+                {
+                    "question": "What type of electric car did Rafael purchase a month ago?",
+                    "score": 0.7471,
+                    "answers": "electric|amod\tan electric car|dobj"
+                },
+                {
+                    "question": "How much money did Rafael receive from his brother-in-law?",
+                    "score": 0.6784,
+                    "answers": "haynoticia.es said on 28/03/2018 that Rafael acquired an electric car a month ago , sponsored by the advice of his brother - in - law who assured him that he could charge at home for a couple of euros|ROOT\tthat|mark\tthat Rafael acquired an electric car a month ago , sponsored by the advice of his brother - in - law who assured him that he could charge at home for a couple of euros|ccomp\tan|det\t,|punct\tsponsored by the advice of his brother - in - law who assured him that he could charge at home for a couple of euros|advcl\tby the advice of his brother - in - law who assured him that he could charge at home for a couple of euros|agent\tthe advice of his brother - in - law who assured him that he could charge at home for a couple of euros|pobj\tof his brother - in - law who assured him that he could charge at home for a couple of euros|prep\this brother - in - law who assured him that he could charge at home for a couple of euros|pobj\t-|punct\t-|punct\twho|nsubj\twho assured him that he could charge at home for a couple of euros|relcl\tthat|mark\the|nsubj\tcould|aux"
+                },
+                {
+                    "question": "What is the relationship between Rafael and his brother-in-law?",
+                    "score": 0.5619,
+                    "answers": "in - law|prep"
+                }
+            ]
+        },
+        {
+            "claim": "After several attempts in which the differential of the electric panel jumped, he finally managed to connect the vehicle with an elongator to the socket of the nightstand.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es use to connect the vehicle to the socket of the nightstand?",
+                    "answer": "an elongator"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did the electric panel connect to the socket of the nightstand?",
+                    "score": 0.6102,
+                    "answers": "haynoticia.es said on 28/03/2018 that After several attempts in which the differential of the electric panel jumped , he finally managed to connect the vehicle with an elongator to the socket of the nightstand|ROOT\tof the electric panel|prep\tthe electric panel|pobj\tthat After several attempts in which the differential of the electric panel jumped , he finally managed to connect the vehicle with an elongator to the socket of the nightstand|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the electric panel?",
+                    "score": 0.5054,
+                    "answers": "in which the differential of the electric panel jumped|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Quickly the charge was complete but the surprise to arrive.",
+            "question_answers": [
+                {
+                    "question": "Who said on 28/03/2018 that Quickly the charge was complete but the surprise to arrive?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take to arrive in the country?",
+                    "score": 0.6886,
+                    "answers": "Quickly|advmod\tto arrive|relcl"
+                },
+                {
+                    "question": "How long was the charge of Haynoticia?",
+                    "score": 0.6219,
+                    "answers": "the|det\tthe charge|nsubj\tthe|det"
+                },
+                {
+                    "question": "What was the time frame of the charge?",
+                    "score": 0.6195,
+                    "answers": "on 28/03/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Upon seeing the bill, Rafael telephoned his brother-in-law.",
+            "question_answers": [
+                {
+                    "question": "Who did Rafael call after seeing the bill?",
+                    "answer": "his brother-in-law"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Rafael telphoned his brother-in-law about the bill?",
+                    "score": 0.6169,
+                    "answers": "haynoticia.es said on 28/03/2018 that Upon seeing the bill , Rafael telephoned his brother - in - law|ROOT"
+                },
+                {
+                    "question": "What did Rafael say to his brother-in-law?",
+                    "score": 0.6004,
+                    "answers": "that Upon seeing the bill , Rafael telephoned his brother - in - law|ccomp"
+                },
+                {
+                    "question": "What was the name of Rafael's brother-in-law?",
+                    "score": 0.553,
+                    "answers": "on 28/03/2018|prep\tthat|mark\t,|punct\this|poss\this brother -|dobj\t-|punct\t-|dobj"
+                },
+                {
+                    "question": "What is Haynoticia?",
+                    "score": 0.4321,
+                    "answers": "law|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'He told me that's what he had told him in the bar, the cousin of one who was about to buy an electric one.",
+            "question_answers": [
+                {
+                    "question": "Who was haynoticia.es?",
+                    "answer": "the cousin of one who was about to buy an electric one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the cousin of one who was about to buy an electric one?",
+                    "score": 0.6611,
+                    "answers": "on 28/03/2018|prep\tthat ' He told me that 's what he had told him in the bar the cousin of one who was about to buy an electric one ,|ccomp\tthat 's what he had told him in the bar the cousin of one who was about to buy an electric one ,|ccomp\twhat he had told him in the bar the cousin of one who was about to buy an electric one ,|ccomp\thim in the bar the cousin of one who was about to buy an electric one|dobj\tin the bar|prep\tthe bar|pobj\tthe cousin of one who was about to buy an electric one|appos\tof one who was about to buy an electric one|prep\tone who was about to buy an electric one|pobj\twho was about to buy an electric one|relcl\tabout to buy an electric one|acomp\tto buy an electric one|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "In the company of the light they merely congratulated him on being the best customer of the month, promising him that they would send him a ham at the end of the year if he continued like this.",
+            "question_answers": [
+                {
+                    "question": "When did haynoticia.es say he was the best customer of the month?",
+                    "answer": "28/03/2018"
+                },
+                {
+                    "question": "What did haynoticia.es promise to send to him at the end of the year?",
+                    "answer": "a ham"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the company of light say about the ham?",
+                    "score": 0.6494,
+                    "answers": "the company of the light|pobj"
+                },
+                {
+                    "question": "What was the name of the ham they promised to deliver to the man?",
+                    "score": 0.57,
+                    "answers": "promising him that they would send him a ham at the end of the year if he continued like this|advcl"
+                },
+                {
+                    "question": "Who was the best customer of the month in 2018?",
+                    "score": 0.5578,
+                    "answers": "him|dobj\thim|dobj\thim|dative"
+                }
+            ]
+        },
+        {
+            "claim": "With disgust in the body, man has decided to turn off all the electrical devices in his home.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say a man felt in his body when he decided to turn off all electrical devices in his home?",
+                    "answer": "disgust"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the man who turned off all the electrical devices in his home?",
+                    "score": 0.5304,
+                    "answers": "haynoticia.es said on 28/03/2018 that With disgust in the body , man has decided to turn off all the electrical devices in his home|ROOT\ton 28/03/2018|prep\tthat|mark\tthe|det\tthe body|pobj\t,|punct\thas|aux\tthat With disgust in the body , man has decided to turn off all the electrical devices in his home|ccomp\tto|aux\tall|predet\tthe|det\telectrical|amod\tall the electrical devices in his home|dobj\this|poss\this home|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Now they manage with candles and gas camping kitchens.",
+            "question_answers": [
+                {
+                    "question": "What kind of candles did haynoticia.es use?",
+                    "answer": "candles"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many gas camps does the company manage?",
+                    "score": 0.7612,
+                    "answers": "gas camping kitchens|conj"
+                },
+                {
+                    "question": "How many candles and gas camps are there in Mexico?",
+                    "score": 0.7402,
+                    "answers": "that|mark\tthey|nsubj\tand|cc\tcamping|compound"
+                },
+                {
+                    "question": "What is the use of candles and gas in camps?",
+                    "score": 0.6853,
+                    "answers": "candles and gas camping kitchens|pobj"
+                }
+            ]
+        }
+    ]
+}

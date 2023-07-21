@@ -1,0 +1,246 @@
+{
+    "id": "16_Science_148",
+    "claim": "The social network Hi5, founded in  and which was very popular more than a decade ago among young people, changed and now has a strategy very similar to that of Tinder, the popular application of meetings. Hi5 sells packages of  monthly dollars,  quarterly or  semiannual dollars. With this you can know the list of those who like you; those who look at your profile; access popular people and contact new users, as a way to seek to relate. According to Statista's data as of April , Facebook has a reach of  percent on social media, well above  percent on Hi5, the sum exceeds  percent because many people have more than one social media account. For Efren Páez, an analyst at Mediatelecom, the evolution of Hi5 is not surprising, because by not attending to the universe of social media users as an application, he sought a niche specialized to be more profitable. 'Many times users are the ones who dictate how to run a social network, even, it is possible that developers have seen a business opportunity in that way, as finding a niche opens up a market of networks in origin similar to Facebook, which they cannot cover ', he added. Hi5 was so popular that even in  Televisa invested in it around  millions of dollars. I'm sorry.",
+    "source": "www.elfinanciero.com.mx",
+    "date": "07/02/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The social network Hi5, founded in  and which was very popular more than a decade ago among young people , changed and now has a strategy very similar to that of Tinder, the popular application of meetings.",
+            "question_answers": [
+                {
+                    "question": "Hi5 was very popular among what group of people?",
+                    "answer": "young people"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who founded the social network Hi5?",
+                    "score": 0.7873,
+                    "answers": "The social network Hi5 , founded in   and which was very popular more than a decade ago among young people|nsubj"
+                },
+                {
+                    "question": "What was the purpose of Hi5?",
+                    "score": 0.625,
+                    "answers": "founded in|acl\tthat The social network Hi5 , founded in   and which was very popular more than a decade ago among young people , changed and now has a strategy very similar to that of Tinder , the popular application of meetings|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Facebook and Hi5?",
+                    "score": 0.6228,
+                    "answers": "which was very popular more than a decade ago among young people|relcl\tnow has a strategy very similar to that of Tinder , the popular application of meetings|conj\ta strategy very similar to that of Tinder , the popular application of meetings|dobj"
+                },
+                {
+                    "question": "What is the application of Tinder?",
+                    "score": 0.5977,
+                    "answers": "of Tinder , the popular application of meetings|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The social network Hi5, founded in  and which was very popular more than a decade ago among young people sells packages of  monthly dollars,  quarterly or  semiannual dollars .",
+            "question_answers": [
+                {
+                    "question": "How long ago was the social network Hi5 popular among young people?",
+                    "answer": "more than a decade ago"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Hi5 founded?",
+                    "score": 0.8233,
+                    "answers": "founded in|acl"
+                },
+                {
+                    "question": "What is the source of evidence of Hi5's revenue?",
+                    "score": 0.7151,
+                    "answers": "on 07/02/2018|prep\tthat|mark\t,|punct\tin|prep\t  and|dep\tand|cc\twhich|nsubj\tvery|advmod\tvery popular|acomp\tmore|advmod\tthan|quantmod\ta|det\ta decade|npadvmod\tyoung|amod\tyoung people|pobj\tof|prep\t  monthly dollars ,   quarterly or   semiannual dollars|dep\tmonthly dollars ,   quarterly or   semiannual dollars|pobj\t,|punct\t |dep\tquarterly or|amod\tor|cc\t |dep\t  quarterly or   semiannual dollars|appos"
+                },
+                {
+                    "question": "What is the name of the social network Hi5?",
+                    "score": 0.6483,
+                    "answers": "www.elfinanciero.com.mx|nsubj\twww.elfinanciero.com.mx reported on 07/02/2018 that The social network Hi5 , founded in   and which was very popular more than a decade ago among young people sells packages of   monthly dollars ,   quarterly or   semiannual dollars|ROOT\tThe|det\tsocial|amod\tThe social network Hi5 , founded in   and which was very popular more than a decade ago among young people|nsubj\twhich was very popular more than a decade ago among young people|relcl\tamong young people|prep\tthat The social network Hi5 , founded in   and which was very popular more than a decade ago among young people sells packages of|ccomp\tpackages of|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "With packages of  monthly dollars,  quarterly or  semiannual dollars you can know the list of those who like you; those who look at your profile; access popular people and contact new users, as a way to seek to relate.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 07/02/2018 that with packages of monthly dollars, quarterly or semiannual dollars, you can know the list of those who like you?",
+                    "answer": "www.elfinanciero.com.mx"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can you access popular people and contact new users?",
+                    "score": 0.8577,
+                    "answers": "access popular people and contact new users , as a way to seek to relate|dep"
+                },
+                {
+                    "question": "How much money does it cost to contact new users?",
+                    "score": 0.8469,
+                    "answers": "www.elfinanciero.com.mx|nsubj"
+                },
+                {
+                    "question": "What does it mean to know the list of those who like you?",
+                    "score": 0.7682,
+                    "answers": "as a way to seek to relate|prep\tto relate|xcomp"
+                },
+                {
+                    "question": "What is the purpose of using this website?",
+                    "score": 0.7033,
+                    "answers": "a way to seek to relate|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the monthly dollars that you receive?",
+                    "score": 0.6786,
+                    "answers": "monthly dollars ,   quarterly or   semiannual dollars|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to Statista's data as of April , Facebook has a reach of  percent on social media, well above  percent on The social network Hi5, founded in  and which was very popular more than a decade ago among young people , the sum exceeds  percent because many people have more than one social media account.",
+            "question_answers": [
+                {
+                    "question": "What demographic was Hi5 popular with more than a decade ago?",
+                    "answer": "young people"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many followers does Facebook have on social media?",
+                    "score": 0.9074,
+                    "answers": "on 07/02/2018|prep\tStatista 's|poss"
+                },
+                {
+                    "question": "How many social media accounts does Facebook have?",
+                    "score": 0.8919,
+                    "answers": "  percent because many people have more than one social media account|dep\tmore than one social media account|dobj"
+                },
+                {
+                    "question": "What percentage of Facebook users are connected to social media?",
+                    "score": 0.8915,
+                    "answers": "  percent|dep\twhich was very popular more than a decade ago among young people|ccomp\tyoung|amod"
+                },
+                {
+                    "question": "What was Facebook's reach on social media in April 2018?",
+                    "score": 0.8441,
+                    "answers": "as of April|prep"
+                },
+                {
+                    "question": "How many young people use Facebook every day?",
+                    "score": 0.8428,
+                    "answers": "young people|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "For Efren Páez, an analyst at Mediatelecom , the evolution of The social network Hi5, founded in  and which was very popular more than a decade ago among young people is not surprising, because by not attending to the universe of social media users as an application, The social network Hi5, founded in  and which was very popular more than a decade ago among young people sought a niche specialized to be more profitable.",
+            "question_answers": [
+                {
+                    "question": "Where did Efren Páez work?",
+                    "answer": "Mediatelecom"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the social network Hi5 founded?",
+                    "score": 0.8235,
+                    "answers": "The social network Hi5 , founded in   and which was very popular more than a decade ago among young people|nsubj"
+                },
+                {
+                    "question": "Who founded the social network Hi5?",
+                    "score": 0.7717,
+                    "answers": "The social network Hi5 , founded in|pobj"
+                },
+                {
+                    "question": "What did Efren Páez say about Hi5?",
+                    "score": 0.731,
+                    "answers": "on 07/02/2018|prep\tthat|mark\t,|punct\tan|det\t,|punct\tthe|det\tThe|det\tsocial|amod\t,|punct\tin|prep\tand|cc\twhich|nsubj\tvery|advmod\tvery popular|acomp\tmore|advmod\tthan|quantmod\ta|det\tamong young people|prep\tyoung people|pobj\twhich was very popular more than a decade ago among young people is not surprising , because by not attending to the universe of social media users as an application , The social network Hi5 , founded in   and which was very popular more than a decade ago among young people sought a niche specialized to be more profitable|conj\tnot|neg\tnot surprising|acomp\t,|punct\tbecause|mark\tnot|neg\tthe|det\tof social media users|prep\tsocial|amod\tan|det\t,|punct\tThe|det\tsocial|amod\t,|punct\tin|prep\t  and|dep\tand|cc\twhich|nsubj\tvery|advmod\tvery popular|acomp\tmore than|advmod\tthan|prep\ta|det\tamong young people|prep\tyoung people|pobj\tbecause by not attending to the universe of social media users as an application , The social network Hi5 , founded in   and which was very popular more than a decade ago among young people sought a niche specialized to be more profitable|advcl\ta|det\tto|aux\tmore|advmod\tmore profitable|acomp"
+                },
+                {
+                    "question": "What was the purpose of Hi5?",
+                    "score": 0.662,
+                    "answers": "founded in|acl\tto the universe of social media users|prep\tsocial media|compound\tsocial media users|pobj\tan application|pobj\tHi5 , founded in|appos\tfounded in|acl"
+                },
+                {
+                    "question": "What is the history of Hi5?",
+                    "score": 0.6503,
+                    "answers": "a decade|npadvmod\tyoung|amod\ta decade|npadvmod\tyoung|amod"
+                }
+            ]
+        },
+        {
+            "claim": "'Many times users are the ones who dictate how to run a social network, even, it is possible that developers have seen a business opportunity in that way, as finding a niche opens up a market of networks in origin similar to Facebook , which developers cannot cover ', Efren Páez, an analyst at Mediatelecom added.",
+            "question_answers": [
+                {
+                    "question": "What is a similar market to which developers can't cover?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many users are the ones who dictate how to run a social network?",
+                    "score": 0.8427,
+                    "answers": "users are the ones who dictate how to run a social network|ccomp"
+                },
+                {
+                    "question": "What are the business opportunities for developers to run social networks?",
+                    "score": 0.8235,
+                    "answers": "social|amod"
+                },
+                {
+                    "question": "What is the business opportunity for developers to create social networks?",
+                    "score": 0.7846,
+                    "answers": "that way|pobj"
+                },
+                {
+                    "question": "What is the market of networks in origin similar to Facebook?",
+                    "score": 0.764,
+                    "answers": "finding a niche|csubj\ta niche|dobj"
+                },
+                {
+                    "question": "What is a social network?",
+                    "score": 0.7426,
+                    "answers": "how to run a social network|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "The social network Hi5, founded in  and which was very popular more than a decade ago among young people was so popular that even in  Televisa invested in The social network Hi5, founded in  and which was very popular more than a decade ago among young people around  millions of dollars.",
+            "question_answers": [
+                {
+                    "question": "Who invested millions of dollars in The social network Hi5?",
+                    "answer": "Televisa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What social network was Hi5 founded in?",
+                    "score": 0.7627,
+                    "answers": "www.elfinanciero.com.mx reported on 07/02/2018 that The social network Hi5 , founded in   and which was very popular more than a decade ago among young people was so popular that even in   Televisa invested in The social network Hi5 , founded in   and which was very popular more than a decade ago among young people around   millions of dollars|ROOT\tthat|mark\tThe|det\tsocial|amod\tThe social network Hi5 , founded in   and which was very popular more than a decade ago among young people|nsubj\t,|punct\tin|prep\t  and|dep\tand|cc\twhich|nsubj\tvery|advmod\tvery popular|acomp\tmore|advmod\tthan|quantmod\ta|det\tthat The social network Hi5 , founded in   and which was very popular more than a decade ago among young people was so popular that even in   Televisa invested in The social network Hi5 , founded in|ccomp\tso|advmod\tso popular that even in   Televisa invested in The social network Hi5 , founded in|acomp\tthat|mark\teven|advmod\teven in|prep\tthat even in   Televisa invested in The social network Hi5 , founded in|dep\tTelevisa invested in The social network Hi5 , founded in|pcomp\tin The social network Hi5 , founded in|prep\tThe|det\tsocial|amod\tThe social network Hi5 , founded in|pobj\t,|punct\tin|prep\t  and which was very popular more than a decade ago among young people around|dep\tand|cc\twhich|nsubj\tvery|advmod\tmore|amod\tthan|quantmod\taround|prep"
+                },
+                {
+                    "question": "How much did Hi5 invest in the social network Hi5?",
+                    "score": 0.7559,
+                    "answers": "of dollars|prep"
+                },
+                {
+                    "question": "What age group is Hi5 affiliated with?",
+                    "score": 0.7125,
+                    "answers": "young|amod\tyoung|amod"
+                },
+                {
+                    "question": "What was the social network Hi5 founded in?",
+                    "score": 0.7016,
+                    "answers": "which was very popular more than a decade ago among young people|relcl\ta decade|npadvmod\twhich was very popular more than a decade ago among young people around|conj\tvery popular more than a decade ago|acomp"
+                },
+                {
+                    "question": "How many young people were connected to Hi5?",
+                    "score": 0.6218,
+                    "answers": "young people|pobj\tyoung people|pobj"
+                }
+            ]
+        }
+    ]
+}

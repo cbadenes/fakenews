@@ -1,0 +1,395 @@
+{
+    "id": "79_Science_138",
+    "claim": "The IMAGE ship was launched on March  of the year  and the contact had been unexpectedly lost on December  of  NASA has regained lost contact  years ago with the IMAGE satellite, whose mission was to take images of the Earth's magnetosphere, thanks to the help of an amateur astronomer. In mid-January, this astronomer, whose name has not been revealed, reported that he believed he had made contact with this satellite from the US space agency and aeronautics. IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) launched the March  of  and the contact was unexpectedly lost on December  of . Trying to determine if the signal came from IMAGE, the Goddard Space Flight Center coordinated the use of five separate antennas to acquire radio frequency signals from this ship. From this Monday  January, observations from the five sites were consistent with the radio frequency characteristics expected from IMAGE. The radio frequency showed a peak in the expected central frequency, as well as lateral bands where they should be for this satellite. The signal oscillation was also consistent with the last known rotational velocity for IMAGE. On Tuesday afternoon  January, the Johns Hopkins Applied Physics Laboratory successfully collected satellite telemetry data. The signal showed that the spaceship ID was , the same one that had this mission. NASA's team has been able to read some basic data on the spacecraft's maintenance, suggesting that at least the main control system is in operation. Scientists and engineers at Goddard Center will continue to try to analyze the spacecraft's data to learn more about its state. This process will take a week or two to complete, as it requires the attempt to adapt the old software and information databases to the most modern systems. NASA will attempt to activate the now deactivated payload of science to understand the state of the various scientific instruments. IMAGE was designed to obtain images of the Earth's magnetosphere and produce the first comprehensive global images of plasma populations in this region. After successfully completing and extending its initial two-year mission to , the satellite was unexpectedly unable to make contact on a routine pass on  December . After a  eclipse did not induce the restart, the mission was declared completed. I'm sorry.",
+    "source": "elpais.com",
+    "date": "01/02/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The IMAGE ship was launched on March  of the year  and the contact had been unexpectedly lost on December  of  NASA has regained lost contact  years ago with The IMAGE ship , thanks to the help of an amateur astronomer .",
+            "question_answers": [
+                {
+                    "question": "What ship was launched in March of 2018?",
+                    "answer": "The IMAGE ship"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was IMAGE ship launched?",
+                    "score": 0.7904,
+                    "answers": "on March|prep"
+                },
+                {
+                    "question": "When was the IMAGE ship lost contact with NASA?",
+                    "score": 0.7713,
+                    "answers": "lost contact|dobj"
+                },
+                {
+                    "question": "What happened to the IMAGE ship in March 2018?",
+                    "score": 0.6502,
+                    "answers": "lost|amod"
+                },
+                {
+                    "question": "What is the IMAGE ship?",
+                    "score": 0.6065,
+                    "answers": "elpais.com reported on 01/02/2018 that The IMAGE ship was launched on March   of the year   and the contact had been unexpectedly lost on December   of   NASA has regained lost contact   years ago with The IMAGE ship , thanks to the help of an amateur astronomer|ROOT\ton 01/02/2018|prep\tThe IMAGE ship|nsubjpass\t  of|dep\tNASA has regained lost contact|ccomp\t  years ago with The IMAGE ship , thanks to the help of an amateur astronomer|dep\twith The IMAGE ship , thanks to the help of an amateur astronomer|prep\tThe IMAGE ship|pobj\tthanks to the help of an amateur astronomer|npadvmod\tto the help of an amateur astronomer|prep\tthe help of an amateur astronomer|pobj\tof an amateur astronomer|prep\tamateur|amod\tan amateur astronomer|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In mid-January, an amateur astronomer , reported that an amateur astronomer believed an amateur astronomer had made contact with The IMAGE ship .",
+            "question_answers": [
+                {
+                    "question": "Who believed an amateur astronomer had made contact with The IMAGE ship?",
+                    "answer": "an amateur astronomer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the IMAGE ship?",
+                    "score": 0.6279,
+                    "answers": "elpais.com reported on 01/02/2018 that In mid - January , an amateur astronomer , reported that an amateur astronomer believed an amateur astronomer had made contact with The IMAGE ship|ROOT\ton 01/02/2018|prep\tthat|mark\tIn mid - January|prep\tmid|pobj\t-|pobj\tJanuary|pobj\t,|punct\tan|det\tamateur|amod\tan amateur astronomer|nsubj\t,|punct\tthat|mark\tan|det\tamateur|amod\tan amateur astronomer|nsubj\tthat an amateur astronomer believed an amateur astronomer had made contact with The IMAGE ship|ccomp\tan|det\tamateur|amod\tan amateur astronomer|nsubj\thad|aux\tan amateur astronomer had made contact with The IMAGE ship|ccomp\tThe|det"
+                },
+                {
+                    "question": "What is IMAGE?",
+                    "score": 0.611,
+                    "answers": "that In mid - January , an amateur astronomer , reported that an amateur astronomer believed an amateur astronomer had made contact with The IMAGE ship|ccomp\tcontact with The IMAGE ship|dobj\twith The IMAGE ship|prep\tThe IMAGE ship|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The IMAGE ship launched the March  of  and the contact was unexpectedly lost on December  of .",
+            "question_answers": [
+                {
+                    "question": "Who reported that The IMAGE ship launched the March of and the contact was unexpectedly lost on December of 2018?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the IMAGE ship launched?",
+                    "score": 0.8264,
+                    "answers": "that The IMAGE ship launched the March|ccomp\tthe March|dobj\tthe contact|nsubjpass"
+                },
+                {
+                    "question": "When did the IMAGE ship get lost?",
+                    "score": 0.7731,
+                    "answers": "elpais.com reported on 01/02/2018 that The IMAGE ship launched the March   of   and the contact was unexpectedly lost on December   of|ROOT\ton 01/02/2018|prep\tThe|det\tthe|det\t  of|dep\tthe|det\tthe contact was unexpectedly lost on December|conj\t  of|dep"
+                },
+                {
+                    "question": "What was the date of the IMAGE ship crash?",
+                    "score": 0.666,
+                    "answers": "of|prep\tof|pcomp"
+                },
+                {
+                    "question": "What is the IMAGE ship?",
+                    "score": 0.5764,
+                    "answers": "The IMAGE ship|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Trying to determine if the signal came from The IMAGE ship , the Goddard Space Flight Center coordinated the use of five separate antennas to acquire radio frequency signals from The IMAGE ship .",
+            "question_answers": [
+                {
+                    "question": "Where did the Goddard Space Flight Center try to determine if the signal came from?",
+                    "answer": "The IMAGE ship"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many separate antennas did the IMAGE ship use to receive radio frequency signals?",
+                    "score": 0.6707,
+                    "answers": "of five separate antennas|prep"
+                },
+                {
+                    "question": "What was the purpose of the IMAGE ship?",
+                    "score": 0.5851,
+                    "answers": "elpais.com reported on 01/02/2018 that Trying to determine if the signal came from The IMAGE ship , the Goddard Space Flight Center coordinated the use of five separate antennas to acquire radio frequency signals from The IMAGE ship|ROOT\tthat|mark\tTrying to determine if the signal came from The IMAGE ship|advcl\tto|aux\tto determine if the signal came from The IMAGE ship|xcomp\tif|mark\tthe|det\tthe signal|nsubj\tfrom The IMAGE ship|prep\tThe|det\t,|punct\tthe|det\tGoddard|compound\tSpace|compound\tSpace Flight|compound\tthat Trying to determine if the signal came from The IMAGE ship , the Goddard Space Flight Center coordinated the use of five separate antennas to acquire radio frequency signals from The IMAGE ship|ccomp\tthe|det\tthe use of five separate antennas to acquire radio frequency signals from The IMAGE ship|dobj\tfive separate antennas|pobj\tto|aux\tto acquire radio frequency signals from The IMAGE ship|acl\tradio|compound\tradio frequency|compound\tradio frequency signals|dobj\tfrom The IMAGE ship|prep\tThe|det"
+                },
+                {
+                    "question": "What is the IMAGE ship?",
+                    "score": 0.5698,
+                    "answers": "if the signal came from The IMAGE ship|ccomp\tThe IMAGE ship|pobj\tThe IMAGE ship|pobj"
+                },
+                {
+                    "question": "What is the relationship between the IMAGE ship and the Goddard Space Flight Center?",
+                    "score": 0.5545,
+                    "answers": "separate|amod"
+                }
+            ]
+        },
+        {
+            "claim": "From this Monday  January , observations from five separate antennas were consistent with the radio frequency characteristics expected from The IMAGE ship .",
+            "question_answers": [
+                {
+                    "question": "What month did elpais.com report that observations from five separate antennas were consistent with the radio frequency characteristics expected from The IMAGE ship?",
+                    "answer": "January"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the radio frequency characteristics of the IMAGE ship?",
+                    "score": 0.6686,
+                    "answers": "that|mark\tFrom this Monday|prep\tthis|det\tthis Monday|pobj\tJanuary|npadvmod\t,|punct\tobservations from five separate antennas|nsubj\tfrom five separate antennas|prep\tseparate|amod\tfive separate antennas|pobj\tthat From this Monday   January , observations from five separate antennas were consistent with the radio frequency characteristics expected from The IMAGE ship|ccomp\tconsistent with the radio frequency characteristics expected from The IMAGE ship|acomp\twith the radio frequency characteristics expected from The IMAGE ship|prep\tthe|det\tradio|compound\tradio frequency|compound\tthe radio frequency characteristics expected from The IMAGE ship|pobj\tfrom The IMAGE ship|prep\tThe|det\tThe IMAGE ship|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The radio frequency showed a peak in the expected central frequency, as well as lateral bands where they should be for The IMAGE ship .",
+            "question_answers": [
+                {
+                    "question": "Who reported that The radio frequency showed a peak in the expected central frequency?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the radio frequency of IMAGE ships?",
+                    "score": 0.6648,
+                    "answers": "elpais.com reported on 01/02/2018 that The radio frequency showed a peak in the expected central frequency , as well as lateral bands where they should be for The IMAGE ship|ROOT\ton 01/02/2018|prep\tthat|mark\tradio|compound\tThe radio frequency|nsubj\tthat The radio frequency showed a peak in the expected central frequency , as well as lateral bands where they should be for The IMAGE ship|ccomp\ta|det\ta peak in the expected central frequency , as well as lateral bands where they should be for The IMAGE ship|dobj\tin the expected central frequency , as well as lateral bands where they should be for The IMAGE ship|prep\tthe|det\texpected|amod\tcentral|amod\tthe expected central frequency , as well as lateral bands where they should be for The IMAGE ship|pobj\t,|punct\tas|advmod\twell|advmod\tas well as|cc\tlateral bands where they should be for The IMAGE ship|conj\twhere|advmod\tthey|nsubj\twhere they should be for The IMAGE ship|relcl\tfor The IMAGE ship|prep\tThe IMAGE ship|pobj"
+                },
+                {
+                    "question": "What is the current radio frequency of the IMAGE ship?",
+                    "score": 0.632,
+                    "answers": "The|det\tThe|det"
+                },
+                {
+                    "question": "What is the relationship between radio frequency and lateral bands?",
+                    "score": 0.6146,
+                    "answers": "lateral|amod\tshould|aux"
+                }
+            ]
+        },
+        {
+            "claim": "The signal oscillation was also consistent with the last known rotational velocity for The IMAGE ship .",
+            "question_answers": [
+                {
+                    "question": "Who reported that the signal oscillation was consistent with the last known rotational velocity for The IMAGE ship?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the last known rotational velocity for IMAGE ships?",
+                    "score": 0.7144,
+                    "answers": "elpais.com reported on 01/02/2018 that The signal oscillation was also consistent with the last known rotational velocity for The IMAGE ship|ROOT\talso|advmod\tknown|amod"
+                },
+                {
+                    "question": "What is the rotational velocity for the IMAGE ship?",
+                    "score": 0.6807,
+                    "answers": "on 01/02/2018|prep\tThe signal oscillation|nsubj\tthat The signal oscillation was also consistent with the last known rotational velocity for The IMAGE ship|ccomp\tthe last known rotational velocity for The IMAGE ship|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "On Tuesday afternoon  January , the Johns Hopkins Applied Physics Laboratory successfully collected satellite telemetry data.",
+            "question_answers": [
+                {
+                    "question": "When did the Johns Hopkins Applied Physics Laboratory collect satellite telemetry data?",
+                    "answer": "January"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the Johns Hopkins Applied Physics Laboratory collect satellite telemetry data?",
+                    "score": 0.8544,
+                    "answers": "on 01/02/2018|prep\tOn Tuesday afternoon|prep\tTuesday afternoon|pobj\tOn Tuesday afternoon   January|dep"
+                },
+                {
+                    "question": "Who collected satellite telemetry data from Johns Hopkins?",
+                    "score": 0.8231,
+                    "answers": "Johns Hopkins|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The signal showed that the spaceship ID was , the same one that had this mission.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 01/02/2018?",
+                    "answer": "the spaceship ID was"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the spaceship ID?",
+                    "score": 0.6578,
+                    "answers": "that|mark\tThe|det\tThe signal|nsubj\tthat|mark\tthe|det\tspaceship|compound\tthe spaceship ID|nsubj\tthat the spaceship ID was , the same one that had this mission|ccomp\t,|punct\tthe|det\tsame|amod\tthat|nsubj\tthis|det\tthis mission|dobj"
+                },
+                {
+                    "question": "What is the name of the ship ID?",
+                    "score": 0.6193,
+                    "answers": "elpais.com reported on 01/02/2018 that The signal showed that the spaceship ID was , the same one that had this mission|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "NASA team has been able to read some basic data on The IMAGE ship maintenance, suggesting that at least the main control system is in operation.",
+            "question_answers": [
+                {
+                    "question": "Who has been able to read some basic data on The IMAGE ship maintenance?",
+                    "answer": "NASA"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is IMAGE ship maintenance?",
+                    "score": 0.7048,
+                    "answers": "on The IMAGE ship maintenance|prep\tThe IMAGE ship maintenance|pobj"
+                },
+                {
+                    "question": "What was the purpose of the IMAGE ship maintenance program?",
+                    "score": 0.7034,
+                    "answers": "some|det\tbasic|amod\tThe|det"
+                },
+                {
+                    "question": "What is the purpose of IMAGE ship maintenance?",
+                    "score": 0.6887,
+                    "answers": "elpais.com reported on 01/02/2018 that NASA team has been able to read some basic data on The IMAGE ship maintenance , suggesting that at least the main control system is in operation|ROOT"
+                },
+                {
+                    "question": "What is the IMAGE ship control system?",
+                    "score": 0.6734,
+                    "answers": "able to read some basic data on The IMAGE ship maintenance , suggesting that at least the main control system is in operation|acomp"
+                },
+                {
+                    "question": "What is the main control system for the IMAGE ship?",
+                    "score": 0.6623,
+                    "answers": "the|det\tmain|amod\tcontrol|compound\tin operation|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Scientists and engineers at Goddard Center will continue to try to analyze the spacecraft's data to learn more about its state.",
+            "question_answers": [
+                {
+                    "question": "Where did scientists and engineers continue to try to analyze the spacecraft's data?",
+                    "answer": "Goddard Center"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did scientists and engineers at the Goddard Center do to learn more about the spacecraft's data?",
+                    "score": 0.7299,
+                    "answers": "elpais.com reported on 01/02/2018 that Scientists and engineers at Goddard Center will continue to try to analyze the spacecraft 's data to learn more about its state|ROOT\tthat|mark\tScientists and engineers at Goddard Center|nsubj\tand|cc\tat Goddard Center|prep\tGoddard|compound\twill|aux\tto|aux\tto|aux\tthe|det\t's|case\tto|aux\tmore|dobj\tits|poss"
+                },
+                {
+                    "question": "What is the purpose of analyzing a spacecraft's data?",
+                    "score": 0.7186,
+                    "answers": "to try to analyze the spacecraft 's data to learn more about its state|xcomp\tto analyze the spacecraft 's data to learn more about its state|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "This process will take a week or two to complete, as it requires the attempt to adapt the old software and information databases to the most modern systems.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/02/2018 that it will take a week or two to adapt the old software and information databases to the most modern systems?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long will it take to update old software and information databases?",
+                    "score": 0.6771,
+                    "answers": "as it requires the attempt to adapt the old software and information databases to the most modern systems|advcl\tthe attempt to adapt the old software and information databases to the most modern systems|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "NASA will attempt to activate the now deactivated payload of science to understand the state of the various scientific instruments.",
+            "question_answers": [
+                {
+                    "question": "Who reported that NASA will try to activate the now deactivated payload of science?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the deactivated payload of science?",
+                    "score": 0.6635,
+                    "answers": "now deactivated|amod"
+                }
+            ]
+        },
+        {
+            "claim": "IMAGE was designed to obtain images of the Earth's magnetosphere and produce the first comprehensive global images of plasma populations in this region.",
+            "question_answers": [
+                {
+                    "question": "Who reported that IMAGE was designed to obtain images of the Earth's magnetosphere and produce the first comprehensive global images of plasma populations in this region?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is IMAGE?",
+                    "score": 0.5954,
+                    "answers": "elpais.com reported on 01/02/2018 that IMAGE was designed to obtain images of the Earth 's magnetosphere and produce the first comprehensive global images of plasma populations in this region|ROOT\ton 01/02/2018|prep\tthat|mark\twas|auxpass\tthat IMAGE was designed to obtain images of the Earth 's magnetosphere and produce the first comprehensive global images of plasma populations in this region|ccomp\tto|aux\tto obtain images of the Earth 's magnetosphere and produce the first comprehensive global images of plasma populations in this region|xcomp\timages of the Earth 's magnetosphere|dobj\tof the Earth 's magnetosphere|prep\tthe|det\tthe Earth 's|poss\t's|case\tthe Earth 's magnetosphere|pobj\tand|cc\tproduce the first comprehensive global images of plasma populations in this region|conj\tthe|det\tcomprehensive|amod\tglobal|amod\tthe first comprehensive global images of plasma populations in this region|dobj\tof plasma populations in this region|prep\tplasma|compound\tplasma populations in this region|pobj\tin this region|prep\tthis|det\tthis region|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "After successfully completing and extending its initial two-year mission to , the satellite was unexpectedly unable to make contact on a routine pass on  December .",
+            "question_answers": [
+                {
+                    "question": "How long did the Elpais satellite last?",
+                    "answer": "successfully completing and extending its initial two-year mission to"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the satellite make contact with the satellite?",
+                    "score": 0.8062,
+                    "answers": ",|punct\ton a routine pass|prep\t  December|dep"
+                },
+                {
+                    "question": "What was the purpose of the satellite mission?",
+                    "score": 0.6626,
+                    "answers": "its initial two - year mission to|dobj"
+                },
+                {
+                    "question": "What was the location of the satellite that was unable to make contact?",
+                    "score": 0.626,
+                    "answers": "on 01/02/2018|prep\tthat|mark\tand|cc\tits|poss\ttwo|nummod\t-|punct\tto|prep\tthe|det\tto|aux\ta|det\troutine|amod\ton|prep"
+                },
+                {
+                    "question": "What was the date of the first contact between the satellite and the satellite?",
+                    "score": 0.6121,
+                    "answers": "initial|amod"
+                },
+                {
+                    "question": "What was the cause of contact between elpais.com and a satellite in 2018?",
+                    "score": 0.5583,
+                    "answers": "unable to make contact on a routine pass on|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "After a  eclipse did not induce the restart, the mission was declared completed.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/02/2018 that after an eclipse did not induce the restart, the mission was declared completed?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the restart of the mission after a solar eclipse?",
+                    "score": 0.8776,
+                    "answers": "that After a   eclipse did not induce the restart , the mission was declared completed|dep"
+                },
+                {
+                    "question": "What was the purpose of the restart after the eclipse?",
+                    "score": 0.7112,
+                    "answers": "the restart|dobj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.5398,
+                    "answers": "elpais.com reported on 01/02/2018|ROOT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "id": "24_Entertainment_671",
+    "claim": "With his award for Best Dramatic Movie, 'Three Ads for a Crime 'won the most anticipated award at the Golden Globes gala, the awards given by the Hollywood Foreign Press Association to the best film and television works. 'Lady Bird 'received the Golden Globe for Best Comedy and Mexican Guillermo del Toro was elected best director for'The Shape of Water'. The miniseries Big Little Lies was the great winner in the television categories. The gala was held this Sunday at The Beverly Hilton Hotel in Los Angeles, California. List of winnersCineBest movie (drama): 'Three ads for a crime 'Best movie (comedy or musical): Lady BirdBest director: Guillermo del Toro, The Shape of Water or 'The shape of the water 'Best star actress (drama): Frances McDormand, 'Three ads for a crime 'Best star actor (drama): Gary Oldman, Darkest HourBest star actress (comedy or musical): Saoirse Ronan, Lady BirdBest star actor (comedy or musical): James Franco, The Disaster ArtistBest cast actress: Allison Janney, I, TonyaBest cast actor: Sam Rockwell, 'Three ads for a crime 'Best script: Martin McDonagh, 'Three ads for a crime 'Best non-English-speaking film: Aus Dem Nichts, In the FadeBest animated film: 'Coco 'Best original soundtrack: Alexandre Desplat, 'The shape of water 'Best original song:This is Me, The Greatest ShowmanTelevisionBest television series (drama):The Handmaids Tale, or TV'The Best maid\". MaiselBest Limited Edition TV Series:Big Little LiesBest Dramatic Serial Actress: Elisabeth Moss, The Handmaid's Tale or 'The Handmaid's Tale 'Best Dramatic Serial Actor: Sterling K. Brown, This is UsBest TV actress (musical or comedy): Rachel Brosnahan, The Marvelous Mrs. MaiselBest TV Actor (Musical or Comedy): Aziz Ansari, Master of NoneBest cast actress in a series: Laura Dern, Big Little LiesBest cast actor in a series: Alexander Skarsgård, Big Little LiesBest limited-edition serial actress: Nicole Kidman, Big Little LiesBest limited-edition television series actor: Ewan McGregor, by FargoWomen's RevindicationThey were, therefore, awards widely distributed in an edition starring women's vindication from the very beginning, in the usual parade of artists on the red carpet. This year, black was the predominant color as a gesture of solidarity with women who have suffered sexual harassment or abuse and also as a cry against violence and inequality. The master of ceremonies of this a edition of the awards was the comedian and television presenter Seth Meyers.'This looks like a room full of elite people but when you're on stage you need make-up, assistants, cameramen. I'm sorry. I'm sorry. people who work long hours, these people are not there thanks to their rich dad ', Seth Meyers said as part of his opening monologue. As I had warned, Meyers was not shy in addressing the issue of sexual scandals that has gained great relevance since numerous accusations against film producer Harvey Weinstein came to light last October. I'm sorry.",
+    "source": "www.bbc.com",
+    "date": "08/01/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "MaiselBest for Best Dramatic MovieBig Little LiesBest Crime 'won the most anticipated award at the Golden Globes gala, the awards given by the Hollywood Foreign Press Association to the best film and television works .",
+            "question_answers": [
+                {
+                    "question": "What was the most anticipated award at the Golden Globes gala?",
+                    "answer": "MaiselBest for Best Dramatic MovieBig Little LiesBest Crime"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What award did Maisel win at the Golden Globes gala?",
+                    "score": 0.8538,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 08/01/2018 that MaiselBest for Best Dramatic MovieBig Little LiesBest Crime ' won the most anticipated award at the Golden Globes gala , the awards given by the Hollywood Foreign Press Association to the best film and television works|ROOT\ton 08/01/2018|prep\tthat|mark\tBest|amod\tDramatic|amod\tLittle|compound\tLiesBest|amod\t'|punct\tthe|det\tmost|advmod\tmost anticipated|amod\tthe most anticipated award|dobj\tthe|det\tGolden|compound\tGolden Globes|compound\t,|punct\tthe|det\tgiven by the Hollywood Foreign Press Association to the best film and television works|acl\tby the Hollywood Foreign Press Association|agent\tthe|det\tHollywood|compound\tForeign|compound\tto the best film and television works|dative\tthe|det\tbest|amod\tfilm and television|nmod\tand|cc\tthe best film and television works|pobj"
+                },
+                {
+                    "question": "What award did the Hollywood Foreign Press Association give to the best film and television works?",
+                    "score": 0.8353,
+                    "answers": "the Golden Globes gala , the awards given by the Hollywood Foreign Press Association to the best film and television works|pobj\ttelevision|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'Lady Bird ' received the Golden Globe MaiselBest Mexican Guillermo del Toro was elected best director for'The Shape of Water'.",
+            "question_answers": [
+                {
+                    "question": "Who received the Golden Globe on 08/01/2018?",
+                    "answer": "'Lady Bird"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What award did Lady Bird receive in 2018?",
+                    "score": 0.871,
+                    "answers": "www.bbc.com reported on 08/01/2018 that ' Lady Bird ' received the Golden Globe Mexican Guillermo del Toro was elected best director for'The Shape of Water ' MaiselBest|ROOT\ton 08/01/2018|prep\tLady|compound\t' Lady Bird '|nsubj\tthat ' Lady Bird ' received the Golden Globe Mexican Guillermo del Toro was elected best director for'The Shape of Water '|ccomp\tMexican Guillermo del Toro|nsubjpass\tfor'The|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Lady Bird receiving the Golden Globe Maisel?",
+                    "score": 0.7508,
+                    "answers": "www.bbc.com|nsubj"
+                },
+                {
+                    "question": "What is Lady Bird's role in The Shape of Water?",
+                    "score": 0.7393,
+                    "answers": "of Water|prep"
+                },
+                {
+                    "question": "Who is Guillermo del Toro?",
+                    "score": 0.7043,
+                    "answers": "Guillermo|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The miniseries Big Little Lies Big Little LiesBest in the television categories.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the miniseries?",
+                    "answer": "Big Little Lies Big Little LiesBest"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What category does Big Little Lies fall into?",
+                    "score": 0.9055,
+                    "answers": "in the television categories|prep"
+                },
+                {
+                    "question": "What is Big Little Lies?",
+                    "score": 0.7589,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 08/01/2018 that The miniseries Big Little Lies Big Little LiesBest in the television categories|ROOT\ton 08/01/2018|prep\tthat|mark\tThe|det\tthat The miniseries Big Little Lies Big Little LiesBest in the television categories|npadvmod\tBig|compound\tLittle|compound\tBig|compound\tLittle|compound\tthe|det\ttelevision|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the Golden Globes gala, the awards given by the Hollywood Foreign Press Association to the best film and television works was Big Little LiesBest at The Beverly Hilton Hotel in Los Angeles, California.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the Golden Globes gala?",
+                    "answer": "Big Little LiesBest"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What awards did the Hollywood Foreign Press Association give to the best film and television works?",
+                    "score": 0.8443,
+                    "answers": "the awards given by the Hollywood Foreign Press Association to the best film and television works|appos"
+                },
+                {
+                    "question": "Where was the Golden Globes gala held?",
+                    "score": 0.8134,
+                    "answers": "at The Beverly Hilton Hotel in Los Angeles , California|prep\tThe Beverly Hilton Hotel in Los Angeles , California|pobj"
+                },
+                {
+                    "question": "What award did Big Little Lies receive at The Beverly Hilton Hotel in Los Angeles?",
+                    "score": 0.7773,
+                    "answers": "Beverly|compound"
+                },
+                {
+                    "question": "What is the Golden Globes gala?",
+                    "score": 0.7555,
+                    "answers": "on 08/01/2018|prep\tthat|mark\tGolden|compound\tGolden Globes|compound\tthe Golden Globes gala , the awards given by the Hollywood Foreign Press Association to the best film and television works|nsubj\tto the best film and television works|dative"
+                },
+                {
+                    "question": "How many Golden Globes has Big Little Lies won?",
+                    "score": 0.7532,
+                    "answers": "Hollywood|compound\tthat the Golden Globes gala , the awards given by the Hollywood Foreign Press Association to the best film and television works was Big Little LiesBest at The Beverly Hilton Hotel in Los Angeles , California|ccomp\tin Los Angeles , California|prep\tLos Angeles , California|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Big Little LiesBest movie (drama): 'Three ads for a crime 'Best movie (comedy or musical): 'Lady Bird ' director: Mexican Guillermo del Toro , The Shape of Water or 'The shape of the water 'Best star actress (drama): Frances McDormand, 'Three ads for a crime 'Best star actor (drama): Gary Oldman, Darkest HourBest star actress (comedy or musical): Saoirse Ronan, 'Lady Bird ' star actor (comedy or musical): James Franco, The Disaster ArtistBest cast actress: Allison Janney, I, TonyaBest cast actor: Sam the comedian and television presenter Seth Meyers Martin McDonagh, 'Three ads for a crime 'Best non-English-speaking film: Aus Dem Nichts, In the FadeBest animated film: 'Coco 'Best original people who work long hours The Shape of Water 'Best original song:This the comedian and television presenter Seth Meyers Greatest ShowmanTelevisionBest television series (drama):The Handmaids Tale, or TV'The Best maid\".",
+            "question_answers": [
+                {
+                    "question": "Who was the director of 'Lady Bird'?",
+                    "answer": "Mexican Guillermo del Toro"
+                },
+                {
+                    "question": "Who is Martin McDonagh's cast actor?",
+                    "answer": "Sam"
+                },
+                {
+                    "question": "What is the name of the animated film that aired on bbc on 08/01/2018?",
+                    "answer": "'Coco"
+                },
+                {
+                    "question": "Who was the director of 'Lady Bird'?",
+                    "answer": "Mexican Guillermo del Toro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many ads did Martin McDonagh get for a crime?",
+                    "score": 0.7641,
+                    "answers": "Martin McDonagh , ' Three ads for a crime|appos"
+                },
+                {
+                    "question": "What type of crime film is The Handmaids Tale?",
+                    "score": 0.7581,
+                    "answers": "drama):The|appos"
+                },
+                {
+                    "question": "Who directed The Shape of Water?",
+                    "score": 0.7573,
+                    "answers": "Mexican Guillermo del Toro , The Shape of Water or ' The shape of the water|appos"
+                },
+                {
+                    "question": "Who directed the movie \"The Shape of Water\"?",
+                    "score": 0.7501,
+                    "answers": "' Lady Bird ' director : Mexican Guillermo del Toro , The Shape of Water or ' The shape of the water|appos\tGuillermo|compound"
+                },
+                {
+                    "question": "Who made the film \"The Handmaids Tale\"?",
+                    "score": 0.7494,
+                    "answers": "www.bbc.com reported on 08/01/2018 that Big Little LiesBest movie ( drama ): ' Three ads for a crime ' Best movie ( comedy or musical ): ' Lady Bird ' director : Mexican Guillermo del Toro , The Shape of Water or ' The shape of the water ' Martin McDonagh , ' Three ads for a crime Best star actress ( drama ): Frances McDormand , ' Three ads for a crime ' Best star actor ( drama ): Gary Oldman , Darkest HourBest star actress ( comedy or musical ): Saoirse Ronan , ' Lady Bird ' star actor ( comedy or musical ): James Franco , The Disaster ArtistBest cast actress : Allison Janney , I , TonyaBest cast actor : Sam the comedian and television presenter Seth Meyers ' Best non - English - speaking film : Aus Dem Nichts , In the FadeBest animated film : ' Coco ' Best original people who work long hours The Shape of Water ' Best original song : This the comedian and television presenter Seth Meyers Greatest ShowmanTelevisionBest television series ( drama):The Handmaids Tale , or TV'The Best maid \"|ROOT\tBig Little|poss\tLittle|case\tLiesBest|amod\tLady Bird|nmod\tSaoirse|compound\tLady Bird|nmod\tJames Franco ,|appos\tI ,|appos\tThis the comedian and television presenter Seth Meyers|appos\tthe comedian and television presenter Seth Meyers|appos"
+                }
+            ]
+        },
+        {
+            "claim": "MaiselBest Limited Edition TV Series:Big Little LiesBest Dramatic Serial Actress: Elisabeth Moss, The Handmaid's Tale or 'The Handmaid's Tale 'Best Dramatic Serial Actor: Sterling K. Brown, This is UsBest TV actress (musical or comedy): Rachel Brosnahan, The Marvelous Mrs. MaiselBest TV Actor (Musical or Comedy): Aziz Ansari, Master of NoneBest cast actress in a series: Laura Dern, Big Little LiesBest cast actor in a series: Alexander Skarsgård, Big Little LiesBest limited-edition serial actress: Nicole Kidman, Big Little LiesBest limited-edition television series actor: Ewan McGregor, by FargoWomen's RevindicationThey were, therefore, awards widely distributed in an edition starring women's vindication from the very beginning, in the usual parade of artists on the red carpet.",
+            "question_answers": [
+                {
+                    "question": "What was Sterling K. Brown's show called?",
+                    "answer": "The Handmaid's Tale or 'The Handmaid's Tale"
+                },
+                {
+                    "question": "What was the name of the show that won the Best Dramatic Serial Actor award?",
+                    "answer": "The Handmaid's Tale"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What series has Elisabeth Moss been in?",
+                    "score": 0.7619,
+                    "answers": "Limited Edition TV Series : Big Little LiesBest Dramatic Serial Actress : Elisabeth Moss , The Handmaid 's Tale or ' The Handmaid 's Tale ' Best Dramatic Serial Actor : Sterling K. Brown , This is UsBest TV actress ( musical or comedy ): Rachel Brosnahan ,|ROOT"
+                },
+                {
+                    "question": "What series did Elisabeth Moss star in?",
+                    "score": 0.759,
+                    "answers": "Serial|compound\tSerial|compound"
+                },
+                {
+                    "question": "Who wrote The Handmaid's Tale?",
+                    "score": 0.7568,
+                    "answers": "The Handmaid 's|poss\tThe Handmaid 's Tale or ' The Handmaid 's Tale '|appos\tThe Handmaid 's|poss\t' The Handmaid 's Tale '|conj"
+                },
+                {
+                    "question": "Who is The Marvelous Mrs. Maisel best cast actress?",
+                    "score": 0.7502,
+                    "answers": "The Marvelous Mrs. MaiselBest TV Actor ( Musical or Comedy ): Aziz Ansari , Master of NoneBest cast actress in a series : Laura Dern , Big Little LiesBest cast actor in a series : Alexander Skarsgård , Big Little LiesBest limited - edition serial actress : Nicole Kidman , Big Little LiesBest limited - edition television series actor : Ewan McGregor , by FargoWomen 's RevindicationThey were , therefore , awards widely distributed in an edition starring women 's vindication from the very beginning , in the usual parade of artists on the red carpet|ROOT"
+                },
+                {
+                    "question": "What is the name of the award given to Elizabeth Warren for her role in The Handmaid's Tale?",
+                    "score": 0.7499,
+                    "answers": "awards widely distributed in an edition starring women 's vindication from the very beginning , in the usual parade of artists on the red carpet|attr"
+                }
+            ]
+        },
+        {
+            "claim": "This year, black was the predominant color as a gesture of solidarity with women who have suffered sexual harassment or abuse and also as a cry against violence and inequality.",
+            "question_answers": [
+                {
+                    "question": "Why was black the predominant color on bbc?",
+                    "answer": "as a gesture of solidarity with women who have suffered sexual harassment or abuse"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was black being the predominant color this year?",
+                    "score": 0.7756,
+                    "answers": "that This year , black was the predominant color as a gesture of solidarity with women who have suffered sexual harassment or abuse and also as a cry against violence and inequality|ccomp"
+                },
+                {
+                    "question": "How many women have suffered sexual harassment or abuse?",
+                    "score": 0.6941,
+                    "answers": "with women who have suffered sexual harassment or abuse|prep\twomen who have suffered sexual harassment or abuse|pobj\twho have suffered sexual harassment or abuse|relcl"
+                },
+                {
+                    "question": "What is black as a color?",
+                    "score": 0.6926,
+                    "answers": "on 08/01/2018|prep\tthat|mark\tThis|det\t,|punct\tblack|nsubj\tthe|det\tpredominant|amod\ta|det\twho|nsubj\thave|aux\tor|cc\tand|cc\talso|advmod\ta|det\ta cry against violence and inequality|pobj\tand|cc"
+                },
+                {
+                    "question": "What is black?",
+                    "score": 0.6262,
+                    "answers": "the predominant color|attr"
+                }
+            ]
+        },
+        {
+            "claim": "The master of ceremonies of this a edition of the awards was the comedian and television presenter Seth Meyers.",
+            "question_answers": [
+                {
+                    "question": "Who was the master of ceremonies of the bbc awards?",
+                    "answer": "Seth Meyers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many awards has Seth Meyers received?",
+                    "score": 0.8825,
+                    "answers": "of the awards|prep"
+                },
+                {
+                    "question": "Who was the master of ceremonies for the 2008 Academy Awards?",
+                    "score": 0.8123,
+                    "answers": "of ceremonies|prep\tceremonies|pobj"
+                },
+                {
+                    "question": "Who is Seth Meyers?",
+                    "score": 0.7301,
+                    "answers": "www.bbc.com reported on 08/01/2018 that The master of ceremonies of this a edition of the awards was the comedian and television presenter Seth Meyers|ROOT\tThe|det\ta|det\tthe comedian and television presenter Seth Meyers|attr\tand|cc\ttelevision|compound\ttelevision presenter|conj\tSeth|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'This looks like a room full of elite people but when you're on stage you need make-up, assistants, cameramen.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com say about the makeup, assistants, and cameramen?",
+                    "answer": "when you're on stage you need make-up, assistants, cameramen"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people need to make-up, assistant, and cameramen for a stage show?",
+                    "score": 0.7362,
+                    "answers": "on 08/01/2018|prep"
+                },
+                {
+                    "question": "How many make-up, assistants, and cameramen are needed to perform on stage?",
+                    "score": 0.7031,
+                    "answers": "when you 're on stage you need make - up , assistants , cameramen|conj"
+                },
+                {
+                    "question": "Who are the elite people that are on stage?",
+                    "score": 0.6834,
+                    "answers": "full of elite people|amod"
+                },
+                {
+                    "question": "How many elite people are in the audience when you're on stage?",
+                    "score": 0.6746,
+                    "answers": "a room full of elite people|pobj"
+                },
+                {
+                    "question": "What are the requirements for making-up, assistants, and cameramen on stage?",
+                    "score": 0.6505,
+                    "answers": "make - up , assistants , cameramen|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "people who work long hours, these people are not there thanks to their rich dad ', Seth Meyers said as part of his opening monologue.",
+            "question_answers": [
+                {
+                    "question": "Why are people who work long hours not there?",
+                    "answer": "their rich dad"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Seth Meyers say about working long hours?",
+                    "score": 0.8111,
+                    "answers": "long|amod\tthat people who work long hours , these people are not there thanks to their rich dad|ccomp\tthanks to their rich dad|npadvmod\ttheir|poss\trich|amod\ttheir rich dad|pobj\twww.bbc.com reported on 08/01/2018 that people who work long hours , these people are not there thanks to their rich dad ' , Seth Meyers said as part of his opening monologue|ROOT"
+                },
+                {
+                    "question": "How many people work long hours?",
+                    "score": 0.7894,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 08/01/2018 that people who work long hours , these people are not there thanks to their rich dad '|ccomp\ton 08/01/2018|prep\tpeople who work long hours|dep\twho work long hours|relcl\tthese people|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "As I had warned, Meyers was not shy in addressing the issue of sexual scandals that has gained great relevance since numerous accusations against film producer Harvey Weinstein came to light last October.",
+            "question_answers": [
+                {
+                    "question": "What film producer was accused of sexual misconduct?",
+                    "answer": "Harvey Weinstein"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What scandals has Harvey Weinstein been involved in?",
+                    "score": 0.9042,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 08/01/2018 that As I had warned , Meyers was not shy in addressing the issue of sexual scandals that has gained great relevance since numerous accusations against film producer Harvey Weinstein came to light last October|ROOT\ton 08/01/2018|prep\tthat|mark\tAs|mark\thad|aux\t,|punct\tthat As I had warned , Meyers was not shy in addressing the issue of sexual scandals that has gained great relevance since numerous accusations against film producer Harvey Weinstein came to light last October|ccomp\tnot|neg\tin addressing the issue of sexual scandals that has gained great relevance since numerous accusations against film producer Harvey Weinstein came to light last October|prep\taddressing the issue of sexual scandals that has gained great relevance since numerous accusations against film producer Harvey Weinstein came to light last October|pcomp\tthe|det\tthe issue of sexual scandals that has gained great relevance since numerous accusations against film producer Harvey Weinstein came to light last October|dobj\tof sexual scandals|prep\tsexual|amod\tsexual scandals|pobj\tthat|nsubj\thas|aux\tthat has gained great relevance since numerous accusations against film producer Harvey Weinstein came to light last October|relcl\tsince|mark\tnumerous|amod\tnumerous accusations against film producer Harvey Weinstein|nsubj\tagainst film producer Harvey Weinstein|prep\tfilm|compound\tHarvey|compound\tfilm producer Harvey Weinstein|pobj\tsince numerous accusations against film producer Harvey Weinstein came to light last October|advcl\tlight|pobj\tlast|amod"
+                },
+                {
+                    "question": "What did Meyers say about Harvey Weinstein?",
+                    "score": 0.8691,
+                    "answers": "I|nsubj\tAs I had warned|advcl\tshy|acomp\tgreat|amod\tgreat relevance|dobj\tto light|prep"
+                },
+                {
+                    "question": "Who is Harvey Weinstein?",
+                    "score": 0.7119,
+                    "answers": "film producer|compound"
+                }
+            ]
+        }
+    ]
+}

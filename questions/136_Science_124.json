@@ -1,0 +1,250 @@
+{
+    "id": "136_Science_124",
+    "claim": "The well-known entrepreneur Mark Zuckerberg announced that while Facebook will remain free, a series of measures are planned to encourage user participation. In a press conference in front of a select group of reporters, he said that, starting next month, a minimum quota of posts will be established per month, and that in case it is not covered, the user will be charged the account handling.'We have noticed that many people open accounts and leave them abandoned, or publish only once or twice a month, and that goes against Facebook's goals. Therefore, all those who do not publish or share at least on  occasions per month will be charged the equivalent of  dollars in their local currency. As you may realize, it is an almost symbolic amount, for we do not seek to gain a profit, but only to encourage people to use their accounts. Zuckerberg assured that the collection would be made in various ways, according to each user, either directly from their payrolls, from their credit cards, or even from their bank savings.  But Mark  we ask you at this time of the conference  what do you intend to do if users refuse to give you that data?  It is the best part of everything, my friend. It's not necessary, because we already have all that. So it'll be a simple formality. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "28/04/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The well-known entrepreneur Mark Zuckerberg announced that while Facebook will remain free, a series of measures are planned to encourage user participation.",
+            "question_answers": [
+                {
+                    "question": "Who announced that Facebook would remain free?",
+                    "answer": "Mark Zuckerberg"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures are being taken to encourage user participation?",
+                    "score": 0.8545,
+                    "answers": "www.eldizque.com|nsubj\ton 28/04/2018|prep\tthat|mark\tThe|det\twell|advmod\t-|punct\twell - known|amod\tThe well - known entrepreneur Mark Zuckerberg|nsubj\tMark|compound\tthat The well - known entrepreneur Mark Zuckerberg announced that while Facebook will remain free , a series of measures are planned to encourage user participation|ccomp\tthat|mark\twhile|mark\tfree|acomp\t,|punct\ta|det\ta series of measures|nsubjpass\tof measures|prep\tmeasures|pobj\tare|auxpass\tthat while Facebook will remain free , a series of measures are planned to encourage user participation|ccomp\tto|aux\tto encourage user participation|advcl\tuser|compound\tuser participation|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In a press conference in front of a select group of reporters, The well-known entrepreneur Mark Zuckerberg said that, starting next month, a minimum quota of posts will be established per month, and that in case a minimum quota of posts is not covered, the user will be charged the account handling.",
+            "question_answers": [
+                {
+                    "question": "Who said that a minimum quota of posts would be established per month?",
+                    "answer": "Mark Zuckerberg"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will the minimum quota of posts be established per month?",
+                    "score": 0.6117,
+                    "answers": "starting next month|prep"
+                },
+                {
+                    "question": "Who is Mark Zuckerberg?",
+                    "score": 0.4992,
+                    "answers": "The well - known entrepreneur Mark Zuckerberg|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'We have noticed that many people open accounts and leave accounts abandoned, or publish only once or twice a month, and that goes against Facebook goals.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that many people open accounts and leave accounts abandoned?",
+                    "answer": "28/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are Facebook goals on leaving accounts and leave accounts?",
+                    "score": 0.8144,
+                    "answers": "that ' We have noticed that many people open accounts and leave accounts abandoned , or publish only once or twice a month , and that goes against Facebook goals|ccomp"
+                },
+                {
+                    "question": "How many Facebook goals are there?",
+                    "score": 0.8137,
+                    "answers": "against Facebook goals|prep"
+                },
+                {
+                    "question": "How many Facebook followers are there each month?",
+                    "score": 0.8003,
+                    "answers": "only once or twice a month|advmod"
+                },
+                {
+                    "question": "What are the Facebook goals?",
+                    "score": 0.7716,
+                    "answers": "publish only once or twice a month|conj\tFacebook goals|pobj"
+                },
+                {
+                    "question": "How many people open accounts and leave accounts abandoned or publish only once or twice a month?",
+                    "score": 0.736,
+                    "answers": "many people|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, all those who do not publish or share at least on  occasions per month will be charged the equivalent of  dollars in their local currency .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How much is the equivalent of in their local currency?",
+                    "score": 0.7268,
+                    "answers": "the equivalent of|dobj"
+                },
+                {
+                    "question": "What is the exchange rate for those who do not publish or share their local currency?",
+                    "score": 0.6846,
+                    "answers": "on 28/04/2018|prep"
+                },
+                {
+                    "question": "What is the amount of dollars in local currency for those who publish or share at least on average per month?",
+                    "score": 0.6352,
+                    "answers": "at least on|prep"
+                },
+                {
+                    "question": "What is the local currency of the United States?",
+                    "score": 0.624,
+                    "answers": "the|det\tdollars|pobj\tin their local currency|prep\tlocal|amod"
+                },
+                {
+                    "question": "What is the dollar amount that is being charged on average for every month in local currency?",
+                    "score": 0.6188,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "As you may realize, the equivalent of  dollars in their local currency is an almost symbolic amount, for Facebook do not seek to gain a profit, but only to encourage people to use accounts.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of Facebook?",
+                    "answer": "to encourage people to use accounts"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money do Facebook encourage people to use accounts?",
+                    "score": 0.889,
+                    "answers": "is an almost symbolic amount , for Facebook do not seek to gain a profit , but only to encourage people to use accounts|punct\tonly to encourage people to use accounts|conj\tpeople|dobj\tto use accounts|xcomp\taccounts|dobj"
+                },
+                {
+                    "question": "What is the value of Facebook's local currency?",
+                    "score": 0.7502,
+                    "answers": "on 28/04/2018|prep\tAs you may realize|advcl\tnot|neg"
+                },
+                {
+                    "question": "What is the average amount of dollars in local currency for Facebook?",
+                    "score": 0.744,
+                    "answers": "almost symbolic|amod"
+                },
+                {
+                    "question": "What is the local currency of Facebook?",
+                    "score": 0.7231,
+                    "answers": "dollars in their local currency|dobj\tin their local currency|prep\tlocal|amod\ttheir local currency|pobj"
+                },
+                {
+                    "question": "What is the difference between local currency and local currency?",
+                    "score": 0.654,
+                    "answers": "that As you may realize , the equivalent of   dollars in their local currency|dep"
+                }
+            ]
+        },
+        {
+            "claim": "The well-known entrepreneur Mark Zuckerberg assured that the collection would be made in various ways, according to each user , either directly from payrolls, from credit cards, or even from bank savings.",
+            "question_answers": [
+                {
+                    "question": "What did Mark Zuckerberg assure that the collection would be made in various ways according to each user?",
+                    "answer": "the collection would be made in various ways, according to each user"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mark Zuckerberg promise to do with bank savings?",
+                    "score": 0.7562,
+                    "answers": "the collection|nsubjpass"
+                },
+                {
+                    "question": "How much money did Mark Zuckerberg make from payrolls, credit cards, or bank savings?",
+                    "score": 0.7281,
+                    "answers": "that The well - known entrepreneur Mark Zuckerberg assured that the collection would be made in various ways , according to each user , either directly from payrolls , from credit cards , or even from bank savings|ccomp"
+                },
+                {
+                    "question": "What is the process used to collect money from bank savings?",
+                    "score": 0.6625,
+                    "answers": "that the collection would be made in various ways , according to each user , either directly from payrolls , from credit cards , or even from bank savings|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of all the money that Mark Zuckerberg collected from bank savings?",
+                    "score": 0.6286,
+                    "answers": "www.eldizque.com reported on 28/04/2018 that The well - known entrepreneur Mark Zuckerberg assured that the collection would be made in various ways , according to each user , either directly from payrolls , from credit cards , or even from bank savings|ROOT"
+                },
+                {
+                    "question": "Who is Mark Zuckerberg?",
+                    "score": 0.5623,
+                    "answers": "The well - known entrepreneur Mark Zuckerberg|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": " But The well-known entrepreneur Mark Zuckerberg  we ask The well-known entrepreneur Mark Zuckerberg at this time of the conference  what do The well-known entrepreneur Mark Zuckerberg intend to do if users refuse to give Facebook that data ?  that data is the best part of everything, The well-known entrepreneur Mark Zuckerberg .",
+            "question_answers": [
+                {
+                    "question": "What does the well-known entrepreneur Mark Zuckerberg intend to do if users do what?",
+                    "answer": "refuse to give Facebook that data"
+                },
+                {
+                    "question": "What does the well-known entrepreneur Mark Zuckerberg intend to do if users do what?",
+                    "answer": "refuse to give Facebook that data"
+                },
+                {
+                    "question": "What does the well-known entrepreneur Mark Zuckerberg intend to do if users do what?",
+                    "answer": "refuse to give Facebook that data"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mark Zuckerberg intend to do if users refuse to give Facebook data?",
+                    "score": 0.83,
+                    "answers": " |dep\t |dep\t |dep"
+                },
+                {
+                    "question": "What is Mark Zuckerberg's relationship with Facebook?",
+                    "score": 0.7007,
+                    "answers": "www.eldizque.com reported on 28/04/2018|ROOT"
+                },
+                {
+                    "question": "What is the best part of Facebook?",
+                    "score": 0.6932,
+                    "answers": "the best part of everything|attr"
+                },
+                {
+                    "question": "Who is Mark Zuckerberg?",
+                    "score": 0.6498,
+                    "answers": "Mark|compound\tThe well - known entrepreneur Mark Zuckerberg|dobj\tMark|compound\tat this time of the conference|prep\tof the conference|prep\tThe well - known entrepreneur Mark Zuckerberg|nsubj\tMark|compound\tThe well - known entrepreneur Mark Zuckerberg|dep\tMark|compound"
+                }
+            ]
+        },
+        {
+            "claim": "So it'll be a simple formality.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 28/04/2018 that it'll be a simple formality?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What doesldizque.com say about formality?",
+                    "score": 0.8725,
+                    "answers": "'ll|aux"
+                },
+                {
+                    "question": "What is the formality of a simple formality?",
+                    "score": 0.8334,
+                    "answers": "that So it 'll be a simple formality|ccomp\ta|det\tsimple|amod\ta simple formality|attr"
+                },
+                {
+                    "question": "What is the definition of simple formality?",
+                    "score": 0.8303,
+                    "answers": "that|mark\tSo|advmod\tit|nsubj"
+                }
+            ]
+        }
+    ]
+}

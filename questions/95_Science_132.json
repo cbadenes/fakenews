@@ -1,0 +1,361 @@
+{
+    "id": "95_Science_132",
+    "claim": "International. - In the collective financing site Kickstarter we find very interesting projects like hoverboard or some totally useless like that famous potato salad. Now we show you the No Phone, a'device'that does nothing but helps you live with your mobile addiction. He's already raised a thousand dollars. In addition, we tell you relevant data about smartphones in the world. By the end of this year, millions of people around the world are expected to use mobile phones, according to eMarketer estimates. In the case of smartphones, as of September this year,  percent are made by Samsung,  percent are manufactured by Apple and  percent are made by Nokia brand. So large is the number of gadget users that some generate addiction to gadgets. The most recent case was the report of the first case of Google Glass addiction, but since before there are thousands of cases of phone addicts. For all those addicts to bringing the phone in hand, a Kickstarter project was created that offers a technology-free alternative. It's the No Phone, a'device'you can bring in your hand but it won't distract you from concerts, cinemas, or make you crash when you walk down the sidewalk. Some of the features of the No Phone:Doesn't use batteryNo need to upgradesA shockproof WaterproofNo cameraNo bluetooth does not make callsDo not doubleThis fun parody product is real and set a goal of a thousand dollars in Kickstarter but so far it has raised close to a thousand dollars. In addition, it offers a version that allows you to make selfies. I'm sorry.",
+    "source": "www.merca20.com",
+    "date": "29/10/2014",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "International.",
+            "question_answers": [
+                {
+                    "question": "On what date did www.merca20.com report that the International Chamber of Commerce was founded?",
+                    "answer": "29/10/2014"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.604,
+                    "answers": "www.merca20.com|nsubj\twww.merca20.com reported on 29/10/2014 that International|ROOT\ton 29/10/2014|prep\tthat|mark"
+                },
+                {
+                    "question": "What is the source of evidence of the date of the article?",
+                    "score": 0.5705,
+                    "answers": "that International|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "- In the collective financing site Kickstarter we find very interesting projects like hoverboard or some totally useless like that famous potato salad.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that a hoverboard was found on the collective financing site Kickstarter?",
+                    "answer": "29/10/2014"
+                },
+                {
+                    "question": "What is the name of the crowdfunding site?",
+                    "answer": "Kickstarter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the funding for projects like the hoverboard or the famous potato salad?",
+                    "score": 0.6895,
+                    "answers": "some totally useless like that famous potato salad|conj"
+                },
+                {
+                    "question": "What is a hoverboard?",
+                    "score": 0.6714,
+                    "answers": "like hoverboard or some totally useless like that famous potato salad|prep"
+                },
+                {
+                    "question": "What is the name of the collective financing site that we find very interesting projects like hoverboard or some useless projects like that famous potato salad?",
+                    "score": 0.6424,
+                    "answers": "collective|amod"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.5393,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Now we show you the No Phone, a'device'that does nothing but helps you live with your mobile addiction .",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that Now we show you the No Phone?",
+                    "answer": "29/10/2014"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does a'device'that do for your mobile addiction?",
+                    "score": 0.7449,
+                    "answers": "that Now we show you the No Phone , a'device'that does nothing but helps you live with your mobile addiction|ccomp\tnothing|dobj"
+                },
+                {
+                    "question": "What is the No Phone program?",
+                    "score": 0.6472,
+                    "answers": "on 29/10/2014|prep\tthat|mark\tNow|advmod\twe|nsubj\tNow we show you the No Phone|ccomp\tyou|dative\tthe|det\tNo|compound\t,|punct\tbut|cc\tyou|nsubj\tyou live with your mobile addiction|ccomp\twith your mobile addiction|prep\tyour|poss\tmobile|amod\tyour mobile addiction|pobj"
+                },
+                {
+                    "question": "What is a'device'that?",
+                    "score": 0.6262,
+                    "answers": "www.merca20.com reported on 29/10/2014 that Now we show you the No Phone , a'device'that does nothing but helps you live with your mobile addiction|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "He's already raised a thousand dollars.",
+            "question_answers": [
+                {
+                    "question": "How much money has merca20 already raised?",
+                    "answer": "a thousand dollars"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money has he raised?",
+                    "score": 0.9004,
+                    "answers": "that He 's already raised a thousand dollars|ccomp"
+                },
+                {
+                    "question": "What is the amount of money raised for Barack Obama's campaign?",
+                    "score": 0.8731,
+                    "answers": "a thousand|nummod"
+                },
+                {
+                    "question": "What is the source of evidence of the amount raised by Barack Obama?",
+                    "score": 0.8382,
+                    "answers": "www.merca20.com reported on 29/10/2014 that He 's already raised a thousand dollars|ROOT\tthat|mark\tHe|nsubjpass\t's|auxpass\ta|quantmod"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.7568,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, we tell you relevant data about smartphones in the world .",
+            "question_answers": [
+                {
+                    "question": "What do we tell you about smartphones in the world?",
+                    "answer": "relevant data"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What information is available about smartphones in the world?",
+                    "score": 0.8669,
+                    "answers": "about smartphones in the world|prep"
+                },
+                {
+                    "question": "What is the world's largest smartphone?",
+                    "score": 0.8599,
+                    "answers": "smartphones in the world|pobj"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.7073,
+                    "answers": "www.merca20.com|nsubj\twww.merca20.com reported on 29/10/2014 that In addition , we tell you relevant data about smartphones in the world|ROOT\ton 29/10/2014|prep"
+                }
+            ]
+        },
+        {
+            "claim": "By the end of this year, millions of people around the world are expected to use mobile phones, according to eMarketer estimates.",
+            "question_answers": [
+                {
+                    "question": "Who estimated that millions of people around the world are expected to use mobile phones by the end of 2014?",
+                    "answer": "eMarketer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were using mobile phones by the end of 2014?",
+                    "score": 0.815,
+                    "answers": "www.merca20.com reported on 29/10/2014 that By the end of this year , millions of people around the world are expected to use mobile phones , according to eMarketer estimates|ROOT\ton 29/10/2014|prep\tthat|mark\tBy the end of this year|prep\tthe|det\tof this year|prep\tthis|det\tthis year|pobj\t,|punct\tmillions of people around the world|nsubjpass\tof people around the world|prep\tpeople around the world|pobj\taround the world|prep\tthe|det\tthe world|pobj\tare|auxpass\tthat By the end of this year , millions of people around the world are expected to use mobile phones , according to eMarketer estimates|ccomp\tto|aux\tto use mobile phones|xcomp\tmobile|amod\tmobile phones|dobj\t,|punct\taccording to eMarketer estimates|prep\tto eMarketer estimates|prep\teMarketer estimates|pobj"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.6335,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In the case of smartphones, as of September this year,  percent are made by Samsung,  percent are manufactured by Apple and  percent are made by Nokia brand.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that percent of smartphones were made by Samsung?",
+                    "answer": "29/10/2014"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many smartphones are made by Samsung?",
+                    "score": 0.8713,
+                    "answers": "www.merca20.com|nsubj\ton 29/10/2014|prep\t29/10/2014|pobj\tthat|mark\tIn the case of smartphones|prep\tthe|det\tthe case of smartphones|pobj\tsmartphones|pobj\t,|punct\tas of September this year|prep\tof September this year|prep\tthis|det\tthis year|npadvmod\t,|punct\tthat In the case of smartphones , as of September this year ,  |dep\tpercent|nsubjpass\tare|auxpass\tby Samsung|agent\t,|punct\t |dep\tpercent|nsubjpass\tare|auxpass\tand|cc\t |dep\tpercent|nsubjpass\tare|auxpass\t  percent are made by Nokia brand|conj\tNokia brand|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "So large is the number of gadget users that some generate addiction to gadgets.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that there was a large number of gadget users?",
+                    "answer": "29/10/2014"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the number of gadget users that generate addiction to gadgets?",
+                    "score": 0.885,
+                    "answers": "www.merca20.com reported on 29/10/2014 that So large is the number of gadget users that some generate addiction to gadgets|ROOT\ton 29/10/2014|prep\tthat|mark\tSo|advmod\tSo large|acomp\tthe|det\tof gadget users|prep\tgadget|compound\tgadget users|pobj\tthat|mark\tsome|nsubj\tto gadgets|prep\tgadgets|pobj"
+                },
+                {
+                    "question": "What is the addiction to gadgets?",
+                    "score": 0.8643,
+                    "answers": "that some generate addiction to gadgets|ccomp\taddiction to gadgets|dobj"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.7733,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The most recent case was the report of the first case of Google Glass addiction, but since before there are thousands of cases of phone addicts.",
+            "question_answers": [
+                {
+                    "question": "How many cases of phone addicts have been reported?",
+                    "answer": "thousands"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the first case of Google Glass addiction?",
+                    "score": 0.8915,
+                    "answers": "on 29/10/2014|prep\tthe report of the first case of Google Glass addiction|attr\tthe first case of Google Glass addiction|pobj"
+                },
+                {
+                    "question": "How many cases of Google Glass addiction have there been since 2014?",
+                    "score": 0.8914,
+                    "answers": "since before|prep"
+                },
+                {
+                    "question": "How many phone addicts are there each year?",
+                    "score": 0.8911,
+                    "answers": "thousands of cases of phone addicts|attr\tof cases of phone addicts|prep\tcases of phone addicts|pobj\tof phone addicts|prep"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.8021,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "For all those addicts to bringing the phone in hand, the No Phone, a'device'that does nothing but helps you live with your mobile addiction was created that offers a technology-free alternative.",
+            "question_answers": [
+                {
+                    "question": "What is the No Phone?",
+                    "answer": "a'device'that does nothing but helps you live with your mobile addiction"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the No Phone do to help addicts with their mobile addiction?",
+                    "score": 0.7803,
+                    "answers": "with your mobile addiction|prep"
+                },
+                {
+                    "question": "What are the benefits of using a phone in hand?",
+                    "score": 0.6991,
+                    "answers": "all those addicts to bringing the phone in hand|pobj"
+                },
+                {
+                    "question": "What is the technology-free alternative to using a phone?",
+                    "score": 0.6952,
+                    "answers": "that|mark\tto bringing the phone in hand|prep\tbringing the phone in hand|pcomp\thand|pobj\t,|punct\tNo|compound\t,|punct\tyou|nsubj\tyou live with your mobile addiction|ccomp\tyour|poss\tmobile|amod\tthat|nsubj\ta|det\t-|punct"
+                },
+                {
+                    "question": "What is the No Phone program?",
+                    "score": 0.6628,
+                    "answers": "For all those addicts to bringing the phone in hand , the No Phone , a'device'that does nothing but helps you live with your mobile addiction|nsubjpass"
+                },
+                {
+                    "question": "What is a'device'that?",
+                    "score": 0.6425,
+                    "answers": "For all those addicts to bringing the phone in hand|prep\ta'device'that|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the No Phone, a'device'that does nothing but helps you live with your mobile addiction 's the No Phone, a'device'you can bring in your hand but the No Phone, a'device'that does nothing but helps you live with your mobile addiction won't distract you from concerts, cinemas, or make you crash when you walk down the sidewalk.",
+            "question_answers": [
+                {
+                    "question": "What does the No Phone do?",
+                    "answer": "helps you live with your mobile addiction"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does a'device'that do to help you live with your mobile addiction?",
+                    "score": 0.7493,
+                    "answers": "that the No Phone , a'device'that does nothing but helps you live with your mobile addiction 's the No Phone , a'device'you can bring in your hand but the No Phone , a'device'that does nothing but helps you live with your mobile addiction|ccomp"
+                },
+                {
+                    "question": "What is a'device?",
+                    "score": 0.6383,
+                    "answers": "concerts|nmod"
+                },
+                {
+                    "question": "What is the No Phone?",
+                    "score": 0.6257,
+                    "answers": "www.merca20.com|nsubj\twww.merca20.com reported on 29/10/2014 that the No Phone , a'device'that does nothing but helps you live with your mobile addiction 's the No Phone , a'device'you can bring in your hand but the No Phone , a'device'that does nothing but helps you live with your mobile addiction wo n't distract you from concerts , cinemas , or make you crash when you walk down the sidewalk|ROOT\ton 29/10/2014|prep\t29/10/2014|pobj\tthat|mark\tthe|det\tNo|compound\tthe No Phone , a'device'that|nsubj\t,|punct\ta'device'that|appos\tnothing|dobj\tbut|cc\thelps you live with your mobile addiction 's the No Phone|conj\tyou|nsubj\tyou live with your mobile addiction 's the No Phone|ccomp\twith your mobile addiction 's the No Phone|prep\tyour|poss\tmobile|compound\tyour mobile addiction 's the No Phone|pobj\t's|case\tthe|det\tNo|compound\tthe No Phone|appos\t,|punct\ta'device'you|nsubj\tcan|aux\ta'device'you can bring in your hand but the No Phone , a'device'that does nothing but helps you live with your mobile addiction|dep\tin your hand|prep\tyour|poss\tyour hand|pobj\tbut|cc\tthe|det\tNo|compound\tthe No Phone , a'device'that|nsubj\t,|punct\ta'device'that|appos\tthe No Phone , a'device'that does nothing but helps you live with your mobile addiction|conj\tnothing|dobj\tbut|cc\thelps you live with your mobile addiction|conj\tyou|nsubj\tyou live with your mobile addiction|ccomp\twith your mobile addiction|prep\tyour|poss\tmobile|amod\tyour mobile addiction|pobj\two|aux\tn't|neg\two n't distract you from concerts , cinemas , or make you crash when you walk down the sidewalk|dep\tyou|dobj\tfrom concerts , cinemas|prep\t,|punct\tconcerts , cinemas|pobj\t,|punct\tor|cc\tmake you crash when you walk down the sidewalk|conj\tyou|nsubj\tyou crash when you walk down the sidewalk|ccomp\twhen|advmod\tyou|nsubj\twhen you walk down the sidewalk|advcl\tdown the sidewalk|prep\tthe|det\tthe sidewalk|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Some of the features of the No Phone, a'device'that does nothing but helps you live with your mobile addiction :Doesn't use batteryNo need to upgradesA shockproof WaterproofNo cameraNo bluetooth does not make callsDo not the No Phone, a'device'that does nothing but helps you live with your mobile addiction is real and set a goal of a thousand dollars in the collective financing site Kickstarter but so far it has raised close to a thousand dollars.",
+            "question_answers": [
+                {
+                    "question": "What does the No Phone do?",
+                    "answer": "helps you live with your mobile addiction"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money does a'device'that need to raise to live with your mobile addiction?",
+                    "score": 0.7799,
+                    "answers": "set a goal of a thousand dollars in the collective financing site Kickstarter|conj"
+                },
+                {
+                    "question": "How much money did the No Phone project raise?",
+                    "score": 0.742,
+                    "answers": "collective financing|compound"
+                },
+                {
+                    "question": "How much money has been raised on the collective financing site Kickstarter?",
+                    "score": 0.691,
+                    "answers": "in the collective financing site Kickstarter|prep\tthe collective financing site Kickstarter|pobj"
+                },
+                {
+                    "question": "What are the features of a'device'that?",
+                    "score": 0.6512,
+                    "answers": ",|punct\ta'device'that|nsubj\tnothing|dobj\thelps you live with your mobile addiction|conj\twith your mobile addiction|prep\tyour|poss\tmobile|amod\t:|punct\tthat Some of the features of the No Phone , a'device'that does nothing but helps you live with your mobile addiction : Does n't use batteryNo need to|ccomp\tto|prep\tshockproof|amod\tdoes|aux\tupgradesA shockproof WaterproofNo cameraNo bluetooth does not make callsDo not|dep\t,|punct\ta'device'that|nsubj\ta'device'that does nothing but helps you live with|dep\tnothing|dobj\thelps you live with|conj\twith|prep\tyour|poss\tmobile|compound\tyour mobile addiction is real and set a goal of a thousand dollars in the collective financing site Kickstarter|ccomp\treal|acomp\ta|det\ta|quantmod\tto|quantmod\ta|quantmod"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, it offers a version that allows you to make selfies.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that it offered a version that allowed you to make selfies?",
+                    "answer": "29/10/2014"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What features doesmerca20.com offer?",
+                    "score": 0.8753,
+                    "answers": "that|mark\tIn addition|prep\taddition|pobj\t,|punct\tthat In addition , it offers a version that allows you to make selfies|ccomp\ta|det\ta version that allows you to make selfies|dobj\tthat|nsubj\tthat allows you to make selfies|relcl\tyou|nsubj\tto|aux\tyou to make selfies|ccomp"
+                },
+                {
+                    "question": "What is the name of the app that allows you to make selfies?",
+                    "score": 0.73,
+                    "answers": "selfies|dobj"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.7125,
+                    "answers": "www.merca20.com|nsubj\twww.merca20.com reported on 29/10/2014 that In addition , it offers a version that allows you to make selfies|ROOT\ton 29/10/2014|prep\tit|nsubj"
+                }
+            ]
+        }
+    ]
+}

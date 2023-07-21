@@ -1,0 +1,253 @@
+{
+    "id": "Sociedad_108",
+    "claim": "The alleged irregularities in the accounts of the United Nations Podemos are not the only ones that concern the Court of Auditors (TC). In a report on the situation of dependence in Spain, the TC has pointed out the director appointed by the current president of the Junta de Andalucía, Juan Manuel Moreno Bonilla, for a multitude of irregularities. The report, which points from overcosts of 1.7 million euros for cutting contracts to contacts prior to the competition with a company that finally earns it, passing by external staff who work without contract, has taken little time to reach the Parliament of Andalusia. As stated by La Voz del Sur , the Socialist spokesman in the Committee on Tourism, Regeneration, Justice and Local Administration in the Andalusian Parliament, Felipe Lopez, has called on the President of the Board to “explain immediately” on the report submitted by El País. The importance of this report should be stressed, since in the words of the spokesperson “recurring contracts awarded to the same companies and also an absolute lack of control over the personnel outside the Imserso, who had access to sensitive information about natural persons”. In addition, the report, which can still receive claims as it is a preliminary draft, points out that decisions from 2012 to 2018 not only harm the public treasury, but also contribute to the poor management of the dependency system in Spain. “Moreno Bonilla was the secretary of state on which the Imserso  and also the one who appointed the director of that time, Cesar Anton  depended at that time and that, therefore, as president of the Junta de Andalucía is obliged to explain and tell everything he knows about this matter,” he said. However, he asked that the popular Moreno Bonilla also respond to “the irregularities detected in the Imserso's own computer services contracts, which are being investigated by the Anti-Corruption Prosecutor's Office since 2018”. Likewise, the PSOE stresses that it may be one of the reasons why the president of the Board does not'want to go to the Andalusian Parliament'to give the necessary explanations, an occasion that they have taken to recriminate that'he, who has been so quick to demand explanations from all the others, is now hidden and does not want to give his face\". I'm sorry.",
+    "source": "www.elplural.com",
+    "date": "29/08/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The alleged irregularities in the accounts of the United Nations Podemos are not the only ones that concern the Court of Auditors (TC) .",
+            "question_answers": [
+                {
+                    "question": "What are not the only ones that concern the Court of Auditors?",
+                    "answer": "The alleged irregularities in the accounts of the United Nations Podemos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are there irregularities in the accounts of the United Nations Podemos?",
+                    "score": 0.8805,
+                    "answers": "that|mark\tThe|det\tThe alleged irregularities in the accounts of the United Nations Podemos|nsubj\tin the accounts of the United Nations Podemos|prep\tthe|det\tthe|det\tUnited|compound\tnot|neg\tthe|det\tonly|amod\tthat|nsubj\tthe|det\t(|punct\t)|punct"
+                },
+                {
+                    "question": "What is the relationship between the United Nations Podemos and the Court of Auditors?",
+                    "score": 0.6809,
+                    "answers": "the only ones that concern the Court of Auditors ( TC )|attr"
+                }
+            ]
+        },
+        {
+            "claim": "In a report on the situation of dependence in Spain , the Court of Auditors (TC) has pointed out the director appointed by the current president of the Junta de Andalucía, Juan Manuel Moreno Bonilla, for a multitude of irregularities.",
+            "question_answers": [
+                {
+                    "question": "What did the Court of Auditors (TC) point out in a report?",
+                    "answer": "the situation of dependence in Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the director of the Junta de Andalucia?",
+                    "score": 0.6735,
+                    "answers": "the director appointed by the current president of the Junta de Andalucía , Juan Manuel Moreno Bonilla , for a multitude of irregularities|dobj"
+                },
+                {
+                    "question": "What is the relationship between dependence and dependence in Spain?",
+                    "score": 0.6465,
+                    "answers": "In a report on the situation of dependence in Spain|prep\ta report on the situation of dependence in Spain|pobj\ton the situation of dependence in Spain|prep\tthe situation of dependence in Spain|pobj\tof dependence|prep\tdependence|pobj"
+                },
+                {
+                    "question": "What was the relationship between Juan Manuel Moreno Bonilla and the Junta de Andalucía?",
+                    "score": 0.644,
+                    "answers": "Auditors|pobj\tfor a multitude of irregularities|prep\ta multitude of irregularities|pobj\tof irregularities|prep"
+                },
+                {
+                    "question": "Who is Juan Manuel Moreno Bonilla?",
+                    "score": 0.6155,
+                    "answers": "Andalucía|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The report, which points from overcosts of 1.7 million euros for cutting contracts to contacts prior to the competition with a company that finally earns it, passing by external staff who work without contract, has taken little time to reach the Parliament of Andalusia .",
+            "question_answers": [
+                {
+                    "question": "How much did the report point to overcosts for cutting contracts?",
+                    "answer": "1.7 million euros"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much time does it take to cut contracts?",
+                    "score": 0.7139,
+                    "answers": "little|amod\tlittle time|dobj"
+                },
+                {
+                    "question": "How much time did it take to reach the Parliament of Andalusia?",
+                    "score": 0.6428,
+                    "answers": "to reach the Parliament of Andalusia|xcomp"
+                },
+                {
+                    "question": "What was the cost of cutting contracts to contacts prior to the competition?",
+                    "score": 0.6167,
+                    "answers": "on 29/08/2020|prep\tthat|mark\tThe|det\t,|punct\twhich|nsubj\t1.7|compound\tprior to the competition with a company that finally earns it , passing by external staff who work without contract|advmod\tthe|det\ta|det\tthat|nsubj\tfinally|advmod\tit|dobj\t,|punct\twho|nsubj\t,|punct\thas|aux\tto|aux\tthe|det\tof Andalusia|prep\tAndalusia|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "As stated by La Voz del Sur , the Socialist spokesman in the Committee on Tourism, Regeneration, Justice and Local Administration in the Andalusian Parliament, Felipe Lopez , has called on the President of the Board to “explain immediately” on a report on the situation of dependence in Spain .",
+            "question_answers": [
+                {
+                    "question": "Who stated that Felipe Lopez was the Socialist spokesman in the Committee on Tourism, Regeneration, Justice and Local Administration in the Andalusian Parliament?",
+                    "answer": "La Voz del Sur"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Lopez say about the situation of dependence in Spain?",
+                    "score": 0.6465,
+                    "answers": "to “ explain immediately ” on a report on the situation of dependence in Spain|xcomp"
+                },
+                {
+                    "question": "What did La Voz del Sur call for the President of the Andalusian Parliament to do?",
+                    "score": 0.6182,
+                    "answers": "of the Board|prep\t“|punct\t”|punct"
+                },
+                {
+                    "question": "Who is the Socialist spokesman in the Committee on Tourism, Regeneration, Justice and Local Administration in Andalusian Parliament?",
+                    "score": 0.57,
+                    "answers": "the Socialist spokesman in the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament , Felipe Lopez|nsubj"
+                },
+                {
+                    "question": "What is the relationship between dependence and dependence in Spain?",
+                    "score": 0.5454,
+                    "answers": "of dependence|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The importance of a report on the situation of dependence in Spain should be stressed, since in the words of the Socialist spokesman in the Committee on Tourism, Regeneration, Justice and Local Administration in the Andalusian Parliament, Felipe Lopez “recurring contracts awarded to the same companies and also an absolute lack of control over the personnel outside the Imserso, who had access to sensitive information about natural persons”.",
+            "question_answers": [
+                {
+                    "question": "Who was Felipe Lopez?",
+                    "answer": "the Socialist spokesman in the Committee on Tourism, Regeneration, Justice and Local Administration in the Andalusian Parliament,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What companies received contracts from Felipe Lopez?",
+                    "score": 0.8282,
+                    "answers": "awarded to the same companies|acl"
+                },
+                {
+                    "question": "What companies did Felipe Lopez get contracts from?",
+                    "score": 0.8182,
+                    "answers": "to the same companies|dative\tthe same companies|pobj"
+                },
+                {
+                    "question": "What is the importance of a report on the situation of dependence in Spain?",
+                    "score": 0.7084,
+                    "answers": "www.elplural.com|nsubj\twww.elplural.com reported on 29/08/2020 that The importance of a report on the situation of dependence in Spain should be stressed , since in the words of the Socialist spokesman in the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament , Felipe Lopez “ recurring contracts awarded to the same companies and also an absolute lack of control over the personnel outside the Imserso , who had access to sensitive information about natural persons ”|ROOT\ton 29/08/2020|prep\tthat|mark\tThe|det\tThe importance of a report on the situation of dependence in Spain|nsubjpass\tof a report on the situation of dependence in Spain|prep\ta|det\ta report on the situation of dependence in Spain|pobj\ton the situation of dependence in Spain|prep\tthe|det\tthe situation of dependence in Spain|pobj\tof dependence in Spain|prep\tdependence in Spain|pobj\tin Spain|prep\tshould|aux\tbe|auxpass\tthat The importance of a report on the situation of dependence in Spain should be stressed , since in the words of the Socialist spokesman in the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament , Felipe Lopez “ recurring contracts awarded to the same companies and also an absolute lack of control over the personnel outside the Imserso , who had access to sensitive information about natural persons ”|ccomp\t,|punct\tsince|mark\tin the words of the Socialist spokesman in the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament|prep\tthe|det\tthe words of the Socialist spokesman in the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament|pobj\tof the Socialist spokesman in the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament|prep\tthe|det\tthe Socialist spokesman in the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament|pobj\tin the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament|prep\tthe|det\tthe Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament|pobj\ton Tourism , Regeneration , Justice and Local Administration|prep\tTourism , Regeneration , Justice and Local Administration|pobj\t,|punct\tRegeneration , Justice and Local Administration|conj\t,|punct\tJustice and Local Administration|conj\tand|cc\tLocal|compound\tLocal Administration|conj\tin the Andalusian Parliament|prep\tthe|det\tAndalusian|compound\t,|punct\tFelipe|compound\t“|punct\tsince in the words of the Socialist spokesman in the Committee on Tourism , Regeneration , Justice and Local Administration in the Andalusian Parliament , Felipe Lopez “ recurring contracts awarded to the same companies and also an absolute lack of control over the personnel outside the Imserso , who had access to sensitive information about natural persons ”|advcl\tcontracts awarded to the same companies and also an absolute lack of control over the personnel outside the Imserso , who had access to sensitive information about natural persons|dobj\tthe|det\tsame|amod\tand|cc\talso|advmod\tan|det\tabsolute|amod\talso an absolute lack of control over the personnel outside the Imserso , who had access to sensitive information about natural persons|conj\tof control over the personnel outside the Imserso , who had access to sensitive information about natural persons|prep\tcontrol over the personnel outside the Imserso , who had access to sensitive information about natural persons|pobj\tover the personnel outside the Imserso , who had access to sensitive information about natural persons|prep\tthe|det\tthe personnel outside the Imserso , who had access to sensitive information about natural persons|pobj\toutside the Imserso|prep\tthe|det\tthe Imserso|pobj\t,|punct\twho|nsubj\twho had access to sensitive information about natural persons|relcl\taccess to sensitive information about natural persons|dobj\tto sensitive information about natural persons|prep\tsensitive|amod\tsensitive information about natural persons|pobj\tabout natural persons|prep\tnatural|amod\tnatural persons|pobj\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, a report on the situation of dependence in Spain , points out that decisions from 2012 to 2018 not only harm the public treasury, but also contribute to the poor management of the dependency system in Spain .",
+            "question_answers": [
+                {
+                    "question": "What did www.elplural.com report on on 29/08/2020?",
+                    "answer": "a report on the situation of dependence in Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What decisions were made from 2012 to 2018 to aid the public treasury?",
+                    "score": 0.7753,
+                    "answers": "decisions from 2012 to 2018|nsubj"
+                },
+                {
+                    "question": "What was the result of the report on the situation of dependence in Spain from 2012 to 2018?",
+                    "score": 0.6766,
+                    "answers": "a report on the situation of dependence in Spain|nsubj"
+                },
+                {
+                    "question": "What is the relationship between dependence and dependence in Spain?",
+                    "score": 0.6595,
+                    "answers": "the situation of dependence in Spain|pobj\tof dependence in Spain|prep"
+                },
+                {
+                    "question": "What is the management of the dependency system in Spain?",
+                    "score": 0.64,
+                    "answers": "poor|amod"
+                }
+            ]
+        },
+        {
+            "claim": "“Moreno Bonilla was the secretary of state on which the Imserso  and also the one who appointed the director of that time, Cesar Anton  depended at that time and that, therefore, as president of the Junta de Andalucía is obliged to explain and tell everything he knows about this matter,” he said.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What position did Cesar Anton hold?",
+                    "score": 0.7418,
+                    "answers": "state|pobj"
+                },
+                {
+                    "question": "What did Cesar Anton do to explain and tell everything he knows about the Junta de Andalucía?",
+                    "score": 0.6669,
+                    "answers": "tell everything he knows about this matter|conj"
+                },
+                {
+                    "question": "Who was the director of the Junta de Andalucia?",
+                    "score": 0.641,
+                    "answers": "president of the Junta de Andalucía|pobj"
+                },
+                {
+                    "question": "What was the relationship between Moreno Bonilla and Cesar Anton?",
+                    "score": 0.6407,
+                    "answers": "www.elplural.com reported on 29/08/2020 that “ Moreno Bonilla was the secretary of state on which the Imserso   and also the one who appointed the director of that time , Cesar Anton   depended at that time and that , therefore , as president of the Junta de Andalucía is obliged to explain and tell everything he knows about this matter|ccomp"
+                },
+                {
+                    "question": "Who was the secretary of state that Cesar Anton worked for?",
+                    "score": 0.6142,
+                    "answers": "the secretary of state on which the Imserso|attr"
+                }
+            ]
+        },
+        {
+            "claim": "However, he asked that the popular Moreno Bonilla also respond to “the irregularities detected in the Imserso's own computer services contracts, which are being investigated by the Anti-Corruption Prosecutor's Office since 2018”.",
+            "question_answers": [
+                {
+                    "question": "Who did elplural.com ask to respond to the irregularities detected in the Imserso's own computer services contracts?",
+                    "answer": "Moreno Bonilla"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who investigated the irregularities in the Imserso computer services contracts?",
+                    "score": 0.7856,
+                    "answers": "the Anti - Corruption Prosecutor 's|poss"
+                },
+                {
+                    "question": "What are the irregularities detected in Imserso's computer services contracts?",
+                    "score": 0.7711,
+                    "answers": "the Imserso 's own computer services contracts , which are being investigated by the Anti - Corruption Prosecutor 's Office since 2018|pobj"
+                },
+                {
+                    "question": "How many irregularities were detected in Imserso's own computer services contracts?",
+                    "score": 0.759,
+                    "answers": "since 2018|prep"
+                },
+                {
+                    "question": "How many computer services contracts were investigated by the Anti-Corruption Prosecutor's Office since 2018?",
+                    "score": 0.7445,
+                    "answers": "in the Imserso 's own computer services contracts , which are being investigated by the Anti - Corruption Prosecutor 's Office since 2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Likewise, the PSOE stresses that it may be one of the reasons why the president of the Board does not'want to go to the Andalusian Parliament'to give the necessary explanations, an occasion that they have taken to recriminate that'he, who has been so quick to demand explanations from all the others, is now hidden and does not want to give his face\".",
+            "question_answers": [
+                {
+                    "question": "When did www.elplural.com report that the PSOE stresses that it may be one of the reasons why the president of the Board does not want to go to the Andalusian Parliament?",
+                    "answer": "29/08/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the president of the Board want to go to Andalusian Parliament?",
+                    "score": 0.8528,
+                    "answers": "one of the reasons why the president of the Board does not'want to go to the Andalusian Parliament'to give the necessary explanations , an occasion that they have taken to recriminate that'he , who has been so quick to demand explanations from all the others , is now hidden and does not want to give his face|attr\tof the reasons why the president of the Board does not'want to go to the Andalusian Parliament'to give the necessary explanations , an occasion that they have taken to recriminate that'he , who has been so quick to demand explanations from all the others , is now hidden and does not want to give his face|prep\tthe reasons why the president of the Board does not'want to go to the Andalusian Parliament'to give the necessary explanations , an occasion that they have taken to recriminate that'he , who has been so quick to demand explanations from all the others , is now hidden and does not want to give his face|pobj\twhy the president of the Board does not'want to go to the Andalusian Parliament'to give the necessary explanations , an occasion that they have taken to recriminate that'he , who has been so quick to demand explanations from all the others , is now hidden and does not want to give his face|relcl"
+                }
+            ]
+        }
+    ]
+}

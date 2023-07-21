@@ -1,0 +1,227 @@
+{
+    "id": "15_Health_205",
+    "claim": "A Valencian semen bank has denounced one of its regular donors for allegedly defrauding thousands of euros. The method used was to fill the bottles with condensed milk instead of semen. Fraudulent donations could amount to more than twenty. The bank manager explained that as the samples freeze for several months, until they were thawed they did not notice the deception.'What surprised us most was that he filled four jars in ten minutes, when normal is one, but he told us that he was a cattleman's son and therefore ejaculated like a percheron horse'. The defendant faces a crime of continued fraud for which the clinic claims full return of the money delivered, although the most serious is that condensed milk was introduced vaginally to a woman when the deception was not yet known. Fortunately, the director explains,'I sucked her milk myself quickly without further complication'. After the discredit that the clinic is suffering after the incident, the man is relieved by saying that, at least, they use condensed milk to snack for a month, although on one occasion they confused and seasoned the coffee with semen. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "07/03/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A Valencian semen bank has denounced one of its regular donors for allegedly defrauding thousands of euros.",
+            "question_answers": [
+                {
+                    "question": "How many euros did the Valencian semen bank allegedly defraud?",
+                    "answer": "thousands"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money has A Valencian semen bank allegedly cheated on its regular donors?",
+                    "score": 0.8751,
+                    "answers": "euros|pobj"
+                },
+                {
+                    "question": "How much money did a Valencian semen bankraud?",
+                    "score": 0.8469,
+                    "answers": "allegedly defrauding thousands of euros|pcomp"
+                },
+                {
+                    "question": "What did the Valencian semen bank say about its regular donors?",
+                    "score": 0.7887,
+                    "answers": "one of its regular donors|dobj"
+                },
+                {
+                    "question": "What is the name of the Valencian semen bank?",
+                    "score": 0.708,
+                    "answers": "A Valencian semen bank|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The method used was to fill the bottles with condensed milk instead of semen.",
+            "question_answers": [
+                {
+                    "question": "What type of milk did haynoticia.es use instead of semen?",
+                    "answer": "condensed milk"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What method was used to fill bottles with condensed milk instead of semen?",
+                    "score": 0.8208,
+                    "answers": "on 07/03/2018|prep\tthat|mark\tThe|det\tThe method used|nsubj\tused|acl\tto|aux\tthe|det\tcondensed milk instead of semen|pobj\tinstead|advmod\tinstead of|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Fraudulent donations could amount to more than twenty.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say could amount to more than twenty dollars?",
+                    "answer": "Fraudulent donations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many fraud donations are there each year?",
+                    "score": 0.842,
+                    "answers": "haynoticia.es said on 07/03/2018 that Fraudulent donations could amount to more than twenty|ROOT\ton 07/03/2018|prep\tthat|mark\tthat Fraudulent donations could amount to more than twenty|ccomp"
+                },
+                {
+                    "question": "How many fraudulent donations can be made each year?",
+                    "score": 0.7921,
+                    "answers": "to more than twenty|prep\tmore|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The bank manager explained that as the samples freeze for several months, until they were thawed they did not notice the deception.",
+            "question_answers": [
+                {
+                    "question": "Who said on 07/03/2018 that the bank manager explained that as the samples freeze for several months until they were thawed they did not notice the deception?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did the freeze freeze for?",
+                    "score": 0.6548,
+                    "answers": "haynoticia.es said on 07/03/2018 that The bank manager explained that as the samples freeze for several months , until they were thawed they did not notice the deception|ROOT\ton 07/03/2018|prep\tthat The bank manager explained that as the samples freeze for several months , until they were thawed they did not notice the deception|ccomp\tas the samples freeze for several months|advcl\tfor several months|prep\tuntil|mark\tuntil they were thawed|advcl\tthat as the samples freeze for several months , until they were thawed they did not notice the deception|ccomp"
+                },
+                {
+                    "question": "What did the bank manager say about the freeze?",
+                    "score": 0.6318,
+                    "answers": "bank|compound"
+                },
+                {
+                    "question": "How many samples were frozen for several months?",
+                    "score": 0.6029,
+                    "answers": "the|det\tthe samples|nsubj\tseveral|amod\t,|punct\twere|auxpass\tdid|aux\tnot|neg\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'What surprised us most was that he filled four jars in ten minutes, when normal is one, but he told us that he was a cattleman's son and therefore ejaculated like a percheron horse'.",
+            "question_answers": [
+                {
+                    "question": "Who said 'What surprised us most was that he filled four jars in ten minutes'?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did a cattleman ejaculate like a percheron horse?",
+                    "score": 0.726,
+                    "answers": "that he was a cattleman 's son and therefore ejaculated like a percheron horse|ccomp\ttherefore ejaculated like a percheron horse|conj"
+                },
+                {
+                    "question": "What is the normal size of a cattleman's son?",
+                    "score": 0.6442,
+                    "answers": "when normal is one|advcl"
+                },
+                {
+                    "question": "What was the name of the cattleman's son?",
+                    "score": 0.6218,
+                    "answers": "a cattleman 's son|attr"
+                }
+            ]
+        },
+        {
+            "claim": "The defendant faces a crime of continued fraud for which the clinic claims full return of the money delivered, although the most serious is that condensed milk was introduced vaginally to a woman when the deception was not yet known.",
+            "question_answers": [
+                {
+                    "question": "What was introduced vaginally to a woman when the deception was not yet known?",
+                    "answer": "condensed milk"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the evidence of the fraud committed by the defendant in regards to condensed milk?",
+                    "score": 0.6625,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "How much money did the clinic claim to deliver to the woman?",
+                    "score": 0.6596,
+                    "answers": "of continued fraud for which the clinic claims full return of the money delivered|prep\tfor which the clinic claims full return of the money delivered|relcl"
+                },
+                {
+                    "question": "What was the purpose of the conspiracy to deliver condensed milk?",
+                    "score": 0.6363,
+                    "answers": "delivered|acl"
+                },
+                {
+                    "question": "What is the method used to deliver condensed milk to a woman?",
+                    "score": 0.6265,
+                    "answers": "a woman|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Fortunately, the director explains,'I sucked her milk myself quickly without further complication'.",
+            "question_answers": [
+                {
+                    "question": "Who said 'I sucked her milk myself quickly without further complication'?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did I suck her milk?",
+                    "score": 0.8334,
+                    "answers": "quickly|advmod\tfurther|amod"
+                },
+                {
+                    "question": "What did the director do to suck her milk?",
+                    "score": 0.7243,
+                    "answers": "her|poss"
+                },
+                {
+                    "question": "What is the source of evidence of Haynoticia's milk?",
+                    "score": 0.5872,
+                    "answers": "her milk|dobj"
+                },
+                {
+                    "question": "What is the relationship between the director and the director?",
+                    "score": 0.5069,
+                    "answers": "Fortunately|advmod\tthe|det\tthe director|nsubj\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "After the discredit that the clinic is suffering after the incident, the man is relieved by saying that, at least, they use condensed milk to snack for a month, although on one occasion they confused and seasoned the coffee with semen.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say they used to snack for a month?",
+                    "answer": "condensed milk"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the doctor say about condensed milk?",
+                    "score": 0.5619,
+                    "answers": "that|mark\tthe|det\tthat|dobj\tthe|det\tthe|det\t,|punct\tthe|det\tthat|mark\t,|punct\t,|punct\t,|punct\talthough|mark\tand|cc\tthe|det"
+                },
+                {
+                    "question": "What did they use condensed milk for during the incident?",
+                    "score": 0.5087,
+                    "answers": "by saying that , at least , they use condensed milk to snack for a month , although on one occasion they confused and seasoned the coffee with semen|prep"
+                },
+                {
+                    "question": "How many times did they confuse and seasoned coffee with semen?",
+                    "score": 0.5001,
+                    "answers": "on one occasion|prep\tone occasion|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of how much condensed milk was used to make coffee?",
+                    "score": 0.4949,
+                    "answers": "the coffee|dobj"
+                },
+                {
+                    "question": "What is the name of the clinic that was suffering after the incident?",
+                    "score": 0.4854,
+                    "answers": "After the discredit that the clinic is suffering after the incident|prep\tthe clinic|nsubj"
+                }
+            ]
+        }
+    ]
+}

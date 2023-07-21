@@ -1,0 +1,174 @@
+{
+    "id": "Sport_293",
+    "claim": "Today, at a press conference, the Director General of the National Council of Physical Culture and Sport, Alfredo Castillo Cervantes, presented the medals of consolation prepared by this body for the delegation that will compete in the Olympic Games of Rio . 'Competing in an Olympiad is an unrepeatable and very important event in the life of any athlete, so coming back empty-handed is frustrating. Therefore, we have produced the so-called aluminum medal, which will be delivered to all our competitors in the same bedroom, after they have competed. In this way, they will return motivated, and we will certainly be the only delegation in which everyone will return with a presse'The same coach will be in charge of taking them to Brazil, will hand them over as soon as the event in which they participate, as soon as possible, emphasizing the importance of having participated, and noting the already known national philosophy of the Ya merito, that to say of Castillo,'has not taken us very far, but if it takes a weight off us'.  And what will they do if one of our athletes does win a medal?After a few laughs, the press conference ended. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "14/06/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Today, at a press conference, the Director General of the National Council of Physical Culture and Sport, Alfredo Castillo Cervantes, presented the medals of consolation prepared by this body for the delegation that will compete in the Olympic Games of Rio .",
+            "question_answers": [
+                {
+                    "question": "What did the Director General of the National Council of Physical Culture and Sport do?",
+                    "answer": "presented the medals of consolation prepared by this body for the delegation that will compete in the Olympic Games of Rio"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What medals did Alfredo Castillo Cervantes receive from the National Council of Physical Culture and Sport?",
+                    "score": 0.7499,
+                    "answers": "Rio|pobj"
+                },
+                {
+                    "question": "What is the name of the body that presented the medals of consolation to Cervantes?",
+                    "score": 0.5765,
+                    "answers": "this body|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Competing in an Olympiad is an unrepeatable and very important event in the life of any athlete, so coming back empty-handed is frustrating.",
+            "question_answers": [
+                {
+                    "question": "What is frustrating about competing in an Olympiad?",
+                    "answer": "coming back empty-handed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be empty-handed in an Olympiad?",
+                    "score": 0.8551,
+                    "answers": "www.eldizque.com reported on 14/06/2016 that ' Competing in an Olympiad is an unrepeatable and very important event in the life of any athlete , so coming back empty - handed is frustrating|ROOT"
+                },
+                {
+                    "question": "What is the purpose of compete in an Olympiad?",
+                    "score": 0.8352,
+                    "answers": "in an Olympiad|prep\tthe life of any athlete|pobj"
+                },
+                {
+                    "question": "What is the history of winning an Olympiad?",
+                    "score": 0.8259,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the outcome of an Olympiad?",
+                    "score": 0.8124,
+                    "answers": "14/06/2016|pobj\tCompeting in an Olympiad|csubj\tthat ' Competing in an Olympiad is an unrepeatable and very important event in the life of any athlete , so coming back empty - handed is frustrating|ccomp"
+                },
+                {
+                    "question": "What is an Olympiad?",
+                    "score": 0.8049,
+                    "answers": "an Olympiad|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, we have produced the so-called aluminum medal, which will be delivered to all our competitors in the same bedroom, after they have competed.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 14/06/2016 that we have produced the aluminum medal?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of medal will be produced for all competitors in the same room?",
+                    "score": 0.7789,
+                    "answers": "aluminum|compound"
+                },
+                {
+                    "question": "How many competitors will receive the aluminum medal?",
+                    "score": 0.7785,
+                    "answers": "to all our competitors|prep\tall our competitors|pobj"
+                },
+                {
+                    "question": "What is the aluminum medal?",
+                    "score": 0.7457,
+                    "answers": "the|det\tthe|det"
+                },
+                {
+                    "question": "What is the source of evidence of the aluminum medal produced by the USA?",
+                    "score": 0.7419,
+                    "answers": "that|mark\tTherefore|advmod\t,|punct\tso|advmod\t,|punct\twhich|nsubjpass\t,|punct"
+                },
+                {
+                    "question": "What is the purpose of the aluminum medal?",
+                    "score": 0.7339,
+                    "answers": "www.eldizque.com reported on 14/06/2016 that Therefore , we have produced the so - called aluminum medal , which will be delivered to all our competitors in the same bedroom , after they have competed|ROOT\ton 14/06/2016|prep\tthat Therefore , we have produced the so - called aluminum medal , which will be delivered to all our competitors in the same bedroom , after they have competed|ccomp\tso - called|amod\tthe so - called aluminum medal , which will be delivered to all our competitors in the same bedroom , after they have competed|dobj\twill|aux\tbe|auxpass\twhich will be delivered to all our competitors in the same bedroom , after they have competed|relcl\tall|predet\tin the same bedroom|prep\tsame|amod\tthe same bedroom|pobj\tafter|mark\tthey|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In this way, they will return motivated, and we will certainly be the only delegation in which everyone will return with a presse'The same coach will be in charge of taking them to Brazil, will hand them over as soon as the event in which they participate, as soon as possible, emphasizing the importance of having participated, and noting the already known national philosophy of the Ya merito, that to say of Castillo,'has not taken us very far, but if it takes a weight off us'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that they would return motivated?",
+                    "answer": "14/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Castillan say about the importance of having participated in Brazil?",
+                    "score": 0.8099,
+                    "answers": "we will certainly be the only delegation in which everyone will return with a presse'The same coach will be in charge of taking them to Brazil , will hand them over as soon as the event in which they participate , as soon as possible , emphasizing the importance of having participated , and noting the already known national philosophy of the Ya merito , that to say of Castillo,'has not taken us very far , but if it takes a weight off us '|conj"
+                },
+                {
+                    "question": "What did Castillo say about the Ya merito philosophy?",
+                    "score": 0.7839,
+                    "answers": "Castillo,'has|dobj"
+                },
+                {
+                    "question": "How much will it cost to return a delegation to Brazil?",
+                    "score": 0.7801,
+                    "answers": "if it takes a weight off us|advcl"
+                },
+                {
+                    "question": "How long will it take for a delegation to return to Brazil?",
+                    "score": 0.765,
+                    "answers": "as the event in which they participate|prep"
+                },
+                {
+                    "question": "What was the purpose of the delegation that went to Brazil in 2016?",
+                    "score": 0.7495,
+                    "answers": "as soon as possible|advmod\tvery far|advmod\toff us|prep"
+                }
+            ]
+        },
+        {
+            "claim": " And what will they do if one of our athletes does win a medal?After a few laughs, the press conference ended.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 14/06/2016 that What will they do if one of our athletes wins a medal?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to win a medal?",
+                    "score": 0.8807,
+                    "answers": "if one of our athletes does win|advcl"
+                },
+                {
+                    "question": "How many athletes have won a medal from the University of Michigan?",
+                    "score": 0.8717,
+                    "answers": "one of our athletes|nsubj\tour athletes|pobj"
+                },
+                {
+                    "question": "What did the press conference say about the medal?",
+                    "score": 0.8512,
+                    "answers": "our|poss\tdoes|aux"
+                },
+                {
+                    "question": "What will happen if one of the athletes does not win a medal?",
+                    "score": 0.8205,
+                    "answers": "will|aux\tthey|nsubj\tthat   And what will they do if one of our athletes does win|dep\tif|mark"
+                },
+                {
+                    "question": "What was the outcome of the press conference?",
+                    "score": 0.7718,
+                    "answers": "www.eldizque.com reported on 14/06/2016 that   And what will they do if one of our athletes does win a medal?After a few laughs , the press conference ended|ROOT\tthat|mark\tthat  |dep\tAnd|cc\twhat|dobj\ta few laughs|dobj\t,|punct\tthe|det\tpress|compound\tthe press conference|nsubj\t, the press conference ended|parataxis"
+                }
+            ]
+        }
+    ]
+}

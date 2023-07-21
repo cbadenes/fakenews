@@ -1,0 +1,286 @@
+{
+    "id": "45_Politics_543",
+    "claim": "For years, football has been criticized as a tool to keep people distracted and alienated, as well as representing a paradigm of consumerism and intellectual backwardness of the masses. With such arguments, the independent deputy Sofocles Pacheco managed to get a law passed so that this sport would be declared illegal throughout Mexico. In an exclusive interview, Congressman Pacheco did not say:'We all know that it is enough to have football on television, mainly when playing America or when playing the Selection, and how!From one moment to another, no one cares what is going on in the country. He doesn't care about crises or fuellings or an increase in crime or anything.. That's why I presented this initiative, which fortunately was approved by overwhelming majority.\".  And how did you get the whole chamber to give such an unexpected answer, Member of Parliament?  It was simple. I only told the comrades, about five minutes before the end of the session, that I had a very important proposal about football. 'Being a football player, you know it's approved,' a PRI said. 'What's more, I set up my house if someone else puts the snacks,' added one of the PAN. The deputy finished with pride by saying: 'The system works!'. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "08/03/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "For years, football has been criticized as a tool to keep people distracted and alienated, as well as representing a paradigm of consumerism and intellectual backwardness of the masses.",
+            "question_answers": [
+                {
+                    "question": "What does football represent for the masses?",
+                    "answer": "intellectual backwardness"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has football been criticized as a tool to keep people distracted and alienated?",
+                    "score": 0.8774,
+                    "answers": "www.eldizque.com reported on 08/03/2018 that For years , football has been criticized as a tool to keep people distracted and alienated , as well as representing a paradigm of consumerism and intellectual backwardness of the masses|ROOT\tFor years|prep\thas|aux\tbeen|auxpass\tas a tool to keep people distracted and alienated , as well as representing a paradigm of consumerism and intellectual backwardness of the masses|prep\ta tool to keep people distracted and alienated|pobj\talienated|conj\ta paradigm of consumerism and intellectual backwardness of the masses|dobj\tof consumerism and intellectual backwardness of the masses|prep\tconsumerism and intellectual backwardness of the masses|pobj"
+                },
+                {
+                    "question": "What doesldizque.com say about football?",
+                    "score": 0.8307,
+                    "answers": "as well as|cc"
+                },
+                {
+                    "question": "What is the meaning of football?",
+                    "score": 0.7683,
+                    "answers": "of the masses|prep"
+                },
+                {
+                    "question": "What is the relationship between football and social media?",
+                    "score": 0.735,
+                    "answers": "to keep people distracted and alienated|relcl"
+                },
+                {
+                    "question": "What is the definition of intellectual backwardness of the masses?",
+                    "score": 0.6796,
+                    "answers": "intellectual backwardness|conj"
+                }
+            ]
+        },
+        {
+            "claim": "With such arguments, the independent deputy Sofocles Pacheco managed to get a law passed so that this sport would be declared illegal throughout Mexico.",
+            "question_answers": [
+                {
+                    "question": "Who managed to get a law passed so that this sport would be declared illegal throughout Mexico?",
+                    "answer": "Sofocles Pacheco"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Sofocles Pacheco get a law that would make the sport illegal throughout Mexico?",
+                    "score": 0.8747,
+                    "answers": "www.eldizque.com reported on 08/03/2018 that With such arguments , the independent deputy Sofocles Pacheco managed to get a law passed so that this sport would be declared illegal throughout Mexico|ROOT\tthat|mark\tsuch|amod\t,|punct\tthe|det\tindependent|amod\tthe independent deputy Sofocles Pacheco|nsubj\tthat With such arguments , the independent deputy Sofocles Pacheco managed to get a law passed so that this sport would be declared illegal throughout Mexico|ccomp\tto|aux\ta|det\ta law passed so that this sport would be declared illegal throughout Mexico|ccomp\tso|mark\tthat|mark\tthis|det\twould|aux\tbe|auxpass\tso that this sport would be declared illegal throughout Mexico|advcl\tillegal|oprd"
+                },
+                {
+                    "question": "What did Sofocles Pacheco do to get a law passed?",
+                    "score": 0.733,
+                    "answers": "a law|nsubj"
+                },
+                {
+                    "question": "What is Sofocles Pacheco's political affiliation?",
+                    "score": 0.6779,
+                    "answers": "Sofocles|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In an exclusive interview, Congressman Pacheco did not say:'We all know that it is enough to have football on television, mainly when playing America or when playing the Selection, and how!From one moment to another, no one cares what is going on in the country.",
+            "question_answers": [
+                {
+                    "question": "Who said in an exclusive interview that 'We all know that it is enough to have football on television'?",
+                    "answer": "Congressman Pacheco"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Congressman Pacheco say about football on television?",
+                    "score": 0.8049,
+                    "answers": "that|mark\tan|det\texclusive|amod\t,|punct\tdid|aux\tnot|neg\tall|appos\tthat|mark\tit|nsubj\tthat it is enough to have football on television , mainly when playing America or when playing the Selection ,|ccomp\tenough|acomp\tto|aux\ton television|prep\ttelevision|pobj\t,|punct\tmainly|advmod\twhen|advmod\tmainly when playing America or when playing the Selection ,|advcl\tor|cc\twhen|advmod\tthe|det\tthe Selection|dobj\t,|punct\tand|cc\tone moment|pobj\tanother|pobj\t,|punct\tno|det\twhat|nsubj\tis|aux\ton|prt\tthe|det"
+                },
+                {
+                    "question": "What is the definition of football on television?",
+                    "score": 0.6784,
+                    "answers": "football|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "He doesn't care about crises or fuellings or an increase in crime or anything.. That's why I presented this initiative, which fortunately was approved by overwhelming majority.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that he didn't care about crises or fuellings?",
+                    "answer": "08/03/2018"
+                },
+                {
+                    "question": "What was the majority of approval for the initiative?",
+                    "answer": "overwhelming majority"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about crisis or fuellings or increased crime or anything?",
+                    "score": 0.9256,
+                    "answers": "He|nsubj\tdoes|aux\tor|cc\tor|cc\tor|cc\tanything|conj\tThat|nsubj\tI|nsubj\tfortunately|advmod"
+                },
+                {
+                    "question": "What was the crime rate before Trump took office?",
+                    "score": 0.9146,
+                    "answers": "about crises or fuellings or an increase in crime or anything|prep\tcrises or fuellings or an increase in crime or anything|pobj\tfuellings or an increase in crime or anything|conj\tan increase in crime or anything|conj\tcrime|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Trump's crime rate?",
+                    "score": 0.8153,
+                    "answers": "on 08/03/2018|prep"
+                },
+                {
+                    "question": "What was Scott Walker's position on the Ebola crisis?",
+                    "score": 0.8051,
+                    "answers": "That 's why I presented this initiative , which fortunately was approved by overwhelming majority|ROOT"
+                },
+                {
+                    "question": "What is the crime rate in Florida?",
+                    "score": 0.7859,
+                    "answers": "in crime|prep"
+                }
+            ]
+        },
+        {
+            "claim": " And how did you get the whole chamber to give such an unexpected answer, Member of Parliament?  It was simple.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report?",
+                    "answer": "08/03/2018"
+                },
+                {
+                    "question": "How did you get the whole chamber to give such an unexpected answer?",
+                    "answer": "simple"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Members of Parliament do to give an unexpected answer?",
+                    "score": 0.8827,
+                    "answers": "how|advmod\tthe|det\tan|det\tsimple|acomp"
+                },
+                {
+                    "question": "What was the purpose of the meeting?",
+                    "score": 0.8511,
+                    "answers": "unexpected|amod\tsuch an unexpected answer|dobj"
+                },
+                {
+                    "question": "How many people attended the session of Parliament in 2018?",
+                    "score": 0.8203,
+                    "answers": "the whole chamber|nsubj"
+                },
+                {
+                    "question": "Who is the Member of Parliament?",
+                    "score": 0.785,
+                    "answers": "Member of Parliament|npadvmod"
+                },
+                {
+                    "question": "What is the name of the member of Parliament?",
+                    "score": 0.7773,
+                    "answers": "on 08/03/2018|prep\tthat  |dep\tof Parliament|prep\t |dep"
+                }
+            ]
+        },
+        {
+            "claim": "I only told the comrades, about five minutes before the end of the session, that I had a very important proposal about football.",
+            "question_answers": [
+                {
+                    "question": "What sport did I have a proposal about?",
+                    "answer": "football"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Obama tell comrades about football?",
+                    "score": 0.876,
+                    "answers": "that I only told the comrades , about five minutes before the end of the session , that I had a very important proposal about football|ccomp"
+                },
+                {
+                    "question": "What did the comrades say about the proposal about football?",
+                    "score": 0.8141,
+                    "answers": "www.eldizque.com reported on 08/03/2018 that I only told the comrades , about five minutes before the end of the session , that I had a very important proposal about football|ROOT\tthat|mark\tI|nsubj\tonly|advmod\tthe|det\tthe comrades|dobj\t,|punct\tabout|advmod\tabout five|nummod\tthe|det\tthe|det\t,|punct\tthat|mark\tI|nsubj\ta|det\tvery|advmod\tvery important|amod"
+                },
+                {
+                    "question": "What was the purpose of the proposal?",
+                    "score": 0.7444,
+                    "answers": "of the session|prep"
+                },
+                {
+                    "question": "What was the time frame of the session?",
+                    "score": 0.7286,
+                    "answers": "the end of the session|pobj"
+                },
+                {
+                    "question": "What is the name of the proposal that he made five minutes before the end of the session about football?",
+                    "score": 0.6562,
+                    "answers": "that I had a very important proposal about football|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'Being a football player, you know it's approved,' a PRI said.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'Being a football player, you know it's approved'?",
+                    "answer": "08/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be a football player?",
+                    "score": 0.8827,
+                    "answers": "a|det\ta football player|attr\tBeing a football player , you know it 's approved|advcl\tit 's approved|ccomp\ta|det\tthat ' Being a football player , you know it 's approved , ' a PRI said|ccomp"
+                },
+                {
+                    "question": "What is the definition of being a football player?",
+                    "score": 0.7867,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 08/03/2018 that ' Being a football player , you know it 's approved , ' a PRI said|ROOT\ton 08/03/2018|prep\tthat|mark\t'|punct\tBeing a football player|advcl\tfootball|compound\tyou|nsubj\tit|nsubjpass\t's|auxpass\t'|punct"
+                },
+                {
+                    "question": "What is the relationship between being a football player and being approved?",
+                    "score": 0.7719,
+                    "answers": ",|punct\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "'What's more, I set up my house if someone else puts the snacks,' added one of the PAN.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'What's more, I set up my house if someone else puts the snacks?",
+                    "answer": "08/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many snacks does a person put into their house?",
+                    "score": 0.8902,
+                    "answers": "'|punct\tWhat|nsubj\tWhat 's more|advcl\t,|punct\tI|nsubj\telse|advmod\t,|punct\t'|punct"
+                },
+                {
+                    "question": "What does it mean to set up your house if someone else puts the snacks?",
+                    "score": 0.8562,
+                    "answers": "www.eldizque.com reported on 08/03/2018 that ' What 's more , I set up my house if someone else puts the snacks , ' added one of the PAN|ROOT"
+                },
+                {
+                    "question": "What is the name of the website \"eldizque.com\"?",
+                    "score": 0.6041,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The deputy finished with pride by saying: 'The system works!'.",
+            "question_answers": [
+                {
+                    "question": "What did the deputy say on 08/03/2018?",
+                    "answer": "'The system works!'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the deputy say about the system?",
+                    "score": 0.8281,
+                    "answers": "www.eldizque.com reported on 08/03/2018 that The deputy finished with pride by saying : ' The system works ! '|ROOT\tthat|mark\tthat The deputy finished with pride by saying : ' The system works|ccomp\twith pride|prep\tby saying : ' The system works|prep\tsaying : ' The system works|pcomp\t:|punct\tThe system works|ccomp\t!|punct"
+                },
+                {
+                    "question": "What was the name of the deputy who said that the system works?",
+                    "score": 0.7676,
+                    "answers": "on 08/03/2018|prep\tThe deputy|nsubj\tpride|pobj"
+                },
+                {
+                    "question": "What are the benefits of theldizque.com system?",
+                    "score": 0.7443,
+                    "answers": "The system|nsubj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "id": "15_Education_14",
+    "claim": "The Ministry of Education has finally announced in today's morning the new conditions for the new selectivity, now known as EBAU by its acronym Baccalaureate Assessment for University Access. One of the most innovative conditions that have attracted the most attention is that the test can be done from home, online and without attending the examiner center.'We believe that this is the best way to update ourselves to the new times. If today everything can be done online why not this test? 'explains the spokesman of the Ministry of Education 'we trust that students do not look at books or consult on Google during the test, would be wrong and would deceive themselves. But we don't think anyone would do anything like this..'The dates of the call for the EBAU will take place during the first half of June, depending on the Autonomous Community, and access must be requested to do the online test on the website of the Ministry of Education before the end of May. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "22/05/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The Ministry of Education has finally announced in today's morning the new conditions for the new selectivity, now known as EBAU by its acronym Baccalaureate Assessment for University Access.",
+            "question_answers": [
+                {
+                    "question": "What is the acronym for EBAU?",
+                    "answer": "Baccalaureate Assessment for University Access"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is EBAU?",
+                    "score": 0.4778,
+                    "answers": "haynoticia.es said on 22/05/2017 that The Ministry of Education has finally announced in today 's morning the new conditions for the new selectivity , now known as EBAU by its acronym Baccalaureate Assessment for University Access|ROOT\ton 22/05/2017|prep\tthat|mark\tThe|det\tof Education|prep\tEducation|pobj\thas|aux\tfinally|advmod\tthat The Ministry of Education has finally announced in today 's morning the new conditions for the new selectivity , now known as EBAU by its acronym Baccalaureate Assessment for University Access|ccomp\tin today 's morning|prep\ttoday 's|poss\t's|case\ttoday 's morning|pobj\tthe|det\tnew|amod\tthe new conditions for the new selectivity , now known as EBAU by its acronym Baccalaureate Assessment for University Access|dobj\tfor the new selectivity , now known as EBAU by its acronym Baccalaureate Assessment for University Access|prep\tthe|det\tnew|amod\tthe new selectivity , now known as EBAU by its acronym Baccalaureate Assessment for University Access|pobj\t,|punct\tnow|advmod\tnow known as EBAU by its acronym Baccalaureate Assessment for University Access|acl\tas EBAU|prep\tby its acronym Baccalaureate Assessment for University Access|prep\tits|poss\tits acronym Baccalaureate Assessment for University Access|pobj\tBaccalaureate|compound\tfor University Access|prep\tUniversity|compound\tUniversity Access|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "One of the most innovative conditions that have attracted the most attention is that the test can be done from home, online and without attending the examiner center.",
+            "question_answers": [
+                {
+                    "question": "Who said that one of the most innovative conditions that attracted the most attention was that the test can be done from home, online and without attending the examiner center?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long can it take to complete a test?",
+                    "score": 0.6842,
+                    "answers": "that the test can be done from home , online and without attending the examiner center|ccomp"
+                },
+                {
+                    "question": "What is the best way to test a student's test?",
+                    "score": 0.625,
+                    "answers": "on 22/05/2017|prep\thome|pobj\tonline|advmod"
+                },
+                {
+                    "question": "What is one of the most innovative conditions that can be done from home, online, and without attending the examiner center?",
+                    "score": 0.6067,
+                    "answers": "that One of the most innovative conditions that have attracted the most attention is that the test can be done from home , online and without attending the examiner center|ccomp"
+                },
+                {
+                    "question": "What is the purpose of online and online exams?",
+                    "score": 0.5901,
+                    "answers": "online and without attending the examiner center|conj"
+                },
+                {
+                    "question": "What are the requirements for being an examiner in Mexico City?",
+                    "score": 0.5291,
+                    "answers": "examiner|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'We believe that this is the best way to update ourselves to the new times.",
+            "question_answers": [
+                {
+                    "question": "When did haynoticia.es say that it was the best way to update ourselves to the new times?",
+                    "answer": "22/05/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the best way to update ourselves to the new times?",
+                    "score": 0.6479,
+                    "answers": "haynoticia.es said on 22/05/2017 that ' We believe that this is the best way to update ourselves to the new times|ROOT\tthat ' We believe that this is the best way to update ourselves to the new times|ccomp\tthat this is the best way to update ourselves to the new times|ccomp\tthe best way to update ourselves to the new times|attr\tto update ourselves to the new times|relcl\tourselves|dobj\tto the new times|prep\tnew|amod\tthe new times|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the quotes from Haynoticia.es?",
+                    "score": 0.5149,
+                    "answers": "We|nsubj"
+                },
+                {
+                    "question": "What is Haynoticia.es?",
+                    "score": 0.4866,
+                    "answers": "that|mark\tthat|mark\tthe|det\tto|aux\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "If today everything can be done online why not this test? 'explains the spokesman of the Ministry of Education 'we trust that students do not look at books or consult on Google during the test, would be wrong and would deceive themselves.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say on 22/05/2017?",
+                    "answer": "everything can be done online"
+                },
+                {
+                    "question": "Who spokesman said that students should not look at books or consult on Google during the test?",
+                    "answer": "Ministry of Education"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the spokesman of the Ministry of Education say about online testing?",
+                    "score": 0.6667,
+                    "answers": "If today everything can be done online|advcl\tthat If today everything can be done online why not this test ?|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "But we don't think anyone would do anything like this..'The dates of the call for the EBAU will take place during the first half of June, depending on the Autonomous Community, and access must be requested to do the online test on the website of the Ministry of Education before the end of May.",
+            "question_answers": [
+                {
+                    "question": "Who said 'We don't think anyone would do anything like this'?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the call for the EBAU take place?",
+                    "score": 0.5705,
+                    "answers": "the call for the EBAU|pobj\tduring the first half of June|prep"
+                },
+                {
+                    "question": "When did the EBAU call for the first half of June?",
+                    "score": 0.553,
+                    "answers": "'The dates of the call for the EBAU will take place during the first half of June , depending on the Autonomous Community , and access must be requested to do the online test on the website of the Ministry of Education before the end of May|ROOT"
+                },
+                {
+                    "question": "What are the dates of the call for EBAU?",
+                    "score": 0.5248,
+                    "answers": "haynoticia.es said on 22/05/2017 that But we do n't think anyone would do anything like this ..|ROOT"
+                }
+            ]
+        }
+    ]
+}

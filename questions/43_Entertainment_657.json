@@ -1,0 +1,579 @@
+{
+    "id": "43_Entertainment_657",
+    "claim": "Mexico. - Actress Karla Souza summoned the media to a conference this evening to report that 'after taking courage and analyzing things ', she decided that it was time to reveal the name of the producer who sexually abused her years ago by exploiting her power, orienting her to have relationships to keep her work. Karla points out that one of the things that encouraged her to reveal the name of the culprit was that innocent people were being blamed, like producer Gustavo Loza with whom she has a good friendship, and with whom for years she had an intense engagement:'People ask me why I didn't denounce at the time, and while I don't think it's my fault I admit that I should have put a stop since first there was my dignity than my desire to work. My main intention in revealing the facts was to sensitize all those who have passed a case similar to mine. By raising my voice I can encourage those affected not to let it happen to them as I lived. Unfortunately everything got out of hand, not giving names several friends got hurt, being the most affected my friend Gustavo Loza with whom I worked several times but never put a finger on me. It is not fair to him or to the other innocent producers to be tried, for I have decided to reveal the name of my aggressor ', he commented fearfully. Souza pointed out that in the  he was offered to participate in a production directed by a Mexican but financed in Hollywood, which would open the doors to international cinema: 'although I was going to have a small role I was excited about the idea of working in Hollywood. It was a project led by Mexicans but financed by an American company, they were going to give it a lot of promotion and distribution. That movie was No Returns Accepted, which became an international success. Unfortunately in that production it was where I lived my hell at the hands of Eugenio Derbez who was the producer. He is the protagonist of this chilling story ', he commented crying. The actress said she will not give any more statements, but she is willing to take the risks that her revelation entails: 'I know Derbez and be perfect how he behaves: like a lamb in sheepskin, I know what his tricks are and I know how he will act ', she told. Souza pointed out that he was even about to get out of the film because he did not agree to Eugene's sexual innuendo:'The main idea was that my character would appear in the whole plot, but in the end I only go out in  scenes. That was because Derbez, noting that he would not agree to his proposals, decided to cut me off from history. It was until the end that I unfortunately agreed to have a meeting that recorded last minute the shots where I appeared. That's why I'm on the tape, otherwise my participation would have been totally eliminated. Many people judge me, assures that finally I also took advantage of him to climb as an actress. We're all afraid of losing our job and especially losing something we've fought for for years. At the time I did not sue because in part I know that I could have avoided the situation, but that does not mean that there is psychologically against my will, and this regret of what I did, which translates to rape ', he pointed out. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "24/02/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "producer Gustavo Loza with whom she has a good friendship, and with whom for years she had an intense engagement:'People .",
+            "question_answers": [
+                {
+                    "question": "Who did Elruinaversal have a good friendship with?",
+                    "answer": "Gustavo Loza"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Loza and Gustavo Loza?",
+                    "score": 0.7779,
+                    "answers": "she|nsubj\ta good friendship|dobj\tshe|nsubj"
+                },
+                {
+                    "question": "Who is Gustavo Loza?",
+                    "score": 0.7646,
+                    "answers": "producer|compound\tGustavo|compound"
+                },
+                {
+                    "question": "What is Loza's relationship with people?",
+                    "score": 0.7371,
+                    "answers": "with whom for years she had an intense engagement:'People|conj\tan intense engagement:'People|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Loza's relationship with her producer?",
+                    "score": 0.7236,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "- Actress Karla Souza summoned the media to a conference Hollywood the name of the producer who sexually abused her years ago by exploiting her power, orienting her to have relationships to keep her work Souza Hollywood the name of the producer who sexually abused her years ago by exploiting her power, orienting her to have relationships to keep her work .",
+            "question_answers": [
+                {
+                    "question": "Who was the name of the producer who sexually abused her years ago?",
+                    "answer": "Actress Karla Souza"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Souza Hollywood do to gain her power?",
+                    "score": 0.6615,
+                    "answers": "who sexually abused her years ago by exploiting her power|relcl\twho sexually abused her years ago by exploiting her power|relcl"
+                },
+                {
+                    "question": "What did Souza do to keep her power?",
+                    "score": 0.6464,
+                    "answers": "to have relationships to keep her work|xcomp\tto have relationships to keep her work|xcomp"
+                },
+                {
+                    "question": "What was the name of the producer who sexually abused Souza Hollywood?",
+                    "score": 0.6317,
+                    "answers": "on 24/02/2018|prep\tKarla|compound\tthe media|dobj\ta|det\ta conference Hollywood|pobj\tsexually|advmod\tyears|npadvmod\tby exploiting her power|prep\texploiting her power|pcomp\ther power|dobj\ther work|dobj\tsexually|advmod\tyears|npadvmod\tby exploiting her power|prep\texploiting her power|pcomp\ther power|dobj\ther work|dobj"
+                },
+                {
+                    "question": "Who is Souza Hollywood?",
+                    "score": 0.5786,
+                    "answers": "the producer who sexually abused her years ago by exploiting her power|pobj\tSouza Hollywood|nmod\tSouza Hollywood the name of the producer who sexually abused her years ago by exploiting her power , orienting her to have relationships to keep her work|punct\tthe producer who sexually abused her years ago by exploiting her power|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Actress Karla Souza points out that one of the things that encouraged Actress Karla Souza to reveal the name of the producer who sexually abused her years ago by exploiting her power, orienting her to have relationships to keep her work Hollywood innocent people were being blamed, like those affected Hollywood those affected Hollywood those affected a production directed by a Mexican but financed in Hollywood, which would open the doors to international cinema at the time, and while Actress Karla Souza don't think itproducer Gustavo Loza with whom she has a good friendship, and with whom for years she had an intense engagement:'People fault Actress Karla Souza admit Eugenio Derbez who was the producer have Eugenio Derbez who was the producer a stop since first there was dignity than desire to work.",
+            "question_answers": [
+                {
+                    "question": "Who was the producer?",
+                    "answer": "Eugenio Derbez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the producer who sexually abused Karla Souza?",
+                    "score": 0.6941,
+                    "answers": "good|amod\twith whom for years she had an intense engagement:'People|conj"
+                },
+                {
+                    "question": "What was the name of the film directed by a Mexican but financed Hollywood?",
+                    "score": 0.6919,
+                    "answers": "a production directed by a Mexican but financed in Hollywood , which would open the doors to international cinema at the time|dobj"
+                },
+                {
+                    "question": "Who did Karla Souza break up with?",
+                    "score": 0.6919,
+                    "answers": "and while Actress Karla Souza do n't think itproducer Gustavo Loza with whom she has a good friendship , and with whom for years she had an intense engagement:'People|cc"
+                },
+                {
+                    "question": "Who was Eugenio Derbez?",
+                    "score": 0.6909,
+                    "answers": "Eugenio|compound\tEugenio|compound"
+                },
+                {
+                    "question": "What did Eugenio Derbez say about being a producer?",
+                    "score": 0.6878,
+                    "answers": "admit Eugenio Derbez who was the producer have Eugenio Derbez who was the producer a stop since first there was dignity than desire to work|dep"
+                }
+            ]
+        },
+        {
+            "claim": "main intention in revealing the facts was a production directed by a Mexican but financed in Hollywood, which would open the doors to international cinema all those who have passed a case similar to Actress Karla Souza .",
+            "question_answers": [
+                {
+                    "question": "Who was a similar case to the one reported by elruinaversal?",
+                    "answer": "Actress Karla Souza"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who financed the production directed by a Mexican but financed Hollywood?",
+                    "score": 0.8146,
+                    "answers": "by a Mexican|agent"
+                },
+                {
+                    "question": "What is the name of the film that was directed by a Mexican?",
+                    "score": 0.6859,
+                    "answers": "Actress Karla Souza|pobj"
+                },
+                {
+                    "question": "What is the nationality of the director who directed the film?",
+                    "score": 0.666,
+                    "answers": "a Mexican|pobj"
+                },
+                {
+                    "question": "What was the purpose of the film?",
+                    "score": 0.6434,
+                    "answers": "main intention in revealing the facts|nsubj"
+                },
+                {
+                    "question": "Who is Karla Souza?",
+                    "score": 0.6308,
+                    "answers": "all those who have passed a case similar to Actress Karla Souza|appos\twho have passed a case similar to Actress Karla Souza|relcl\tActress|compound"
+                }
+            ]
+        },
+        {
+            "claim": "By raising voice Actress Karla Souza can encourage the producer who sexually abused her years ago by exploiting her power, orienting her to have relationships to keep her work a production directed by a Mexican but financed in Hollywood, which would open the doors to international cinema not to Eugenio Derbez who was the producer it happen to the producer who sexually abused her years ago by exploiting her power, orienting her to have relationships to keep her work as Actress Karla Souza lived.",
+            "question_answers": [
+                {
+                    "question": "Who was the producer?",
+                    "answer": "Eugenio Derbez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the producers do to encourage Karla Souza to have relationships?",
+                    "score": 0.8088,
+                    "answers": "the doors|dobj"
+                },
+                {
+                    "question": "Who paid for the producer who sexually abused Karla Souza?",
+                    "score": 0.8016,
+                    "answers": "directed by a Mexican but financed in Hollywood|acl"
+                },
+                {
+                    "question": "What was the relationship between the producer and Actress Karla Souza?",
+                    "score": 0.734,
+                    "answers": "orienting her to have relationships to keep her work|advcl\twhich would open the doors to international cinema not to Eugenio Derbez who was the producer it happen to the producer who sexually abused her years ago by exploiting her power , orienting her to have relationships to keep her work as Actress Karla Souza lived|relcl\torienting her to have relationships to keep her work as Actress Karla Souza lived|advcl\tto have relationships to keep her work as Actress Karla Souza lived|xcomp\tto keep her work as Actress Karla Souza lived|advcl\tas Actress Karla Souza lived|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Unfortunately everything got Hollywood , not producer Gustavo Loza with whom she has a good friendship, and with whom for years she had an intense engagement:'People names several a production directed by a Mexican but financed in Hollywood, which would open the doors to international cinema got hurt, being the most affected friend Gustavo Loza with whom Actress Karla Souza worked several times but never producer Gustavo Loza with whom she has a good friendship, and with whom for years she had an intense engagement:'People a finger on Actress Karla Souza .",
+            "question_answers": [
+                {
+                    "question": "Where did Karla Souza's relationship with producer Gustavo Loza end?",
+                    "answer": "Hollywood"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the relationship between Gustavo Loza and Actress Karla Souza?",
+                    "score": 0.7625,
+                    "answers": "Gustavo|compound\ta production directed by a Mexican but financed in Hollywood , which would open the doors to international cinema got hurt , being the most affected friend Gustavo Loza with whom Actress Karla Souza worked several times but never producer Gustavo Loza she has with whom a good friendship , and with whom for years she had an intense engagement:'People a finger on Actress Karla Souza|ROOT\tdirected by a Mexican but financed in Hollywood|acl\twhich would open the doors to international cinema|relcl\tinternational|amod\tGustavo|compound\tGustavo|compound"
+                },
+                {
+                    "question": "Who is the most affected friend of Gustavo Loza?",
+                    "score": 0.7181,
+                    "answers": "the most affected friend Gustavo Loza with whom Actress Karla Souza worked several times|attr"
+                },
+                {
+                    "question": "What is the nationality of director Gustavo Loza?",
+                    "score": 0.7162,
+                    "answers": "a Mexican|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It is The actress fair to those affected or a production directed by a Mexican but financed in Hollywood, which would open the doors to international cinema other innocent producers to be tried, for Actress Karla Souza have decided to reveal the name of the producer who sexually abused her years ago by exploiting her power, orienting her to have relationships to keep her work ', Actress Karla Souza commented fearfully.",
+            "question_answers": [
+                {
+                    "question": "What did Karla Souza want her to do?",
+                    "answer": "have relationships to keep her work"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the producer that sexually abused Karla Souza?",
+                    "score": 0.6928,
+                    "answers": "a production directed by a Mexican but financed in Hollywood , which would open the doors to international cinema other innocent producers to be tried , for Actress Karla Souza have decided to reveal the name of the producer who sexually abused her years ago by exploiting her power , orienting her to have relationships to keep her work|conj\tfor Actress Karla Souza have decided to reveal the name of the producer who sexually abused her years ago by exploiting her power , orienting her to have relationships to keep her work|advcl"
+                },
+                {
+                    "question": "What is the name of the producer who sexually abused Actress Karla Souza?",
+                    "score": 0.6689,
+                    "answers": "www.elruinaversal.com reported on 24/02/2018|ccomp\tto those affected|prep\tdirected by a Mexican but financed in Hollywood|acl\twhich would open the doors to international cinema other innocent producers to be tried|relcl\tto international cinema other innocent producers to be tried|prep\tother innocent producers to be tried|relcl\twho sexually abused her years ago by exploiting her power , orienting her to have relationships to keep her work|relcl\tby exploiting her power , orienting her to have relationships to keep her work|prep\tto keep her work|advcl\twww.elruinaversal.com reported on 24/02/2018 that It is The actress fair to those affected or a production directed by a Mexican but financed in Hollywood , which would open the doors to international cinema other innocent producers to be tried , for Actress Karla Souza have decided to reveal the name of the producer who sexually abused her years ago by exploiting her power , orienting her to have relationships to keep her work ' , Actress Karla Souza commented fearfully|ROOT"
+                },
+                {
+                    "question": "What is the relationship between the producer and Actress Karla Souza?",
+                    "score": 0.6149,
+                    "answers": "exploiting her power , orienting her to have relationships to keep her work|pcomp\torienting her to have relationships to keep her work|dep\tto have relationships to keep her work|xcomp\trelationships|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Souza pointed out that in the  he was offered to participate in a production directed by a Mexican but financed in Hollywood, which would open the doors to international cinema: 'although I was going to have a small role I was excited about the idea of working in Hollywood.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Did Souza participate in a production directed by a Mexican?",
+                    "score": 0.8378,
+                    "answers": "a Mexican|pobj\tfinanced in Hollywood|conj\tworking in Hollywood|pcomp"
+                },
+                {
+                    "question": "What role did Souza play in Hollywood?",
+                    "score": 0.7307,
+                    "answers": "although I was going to have a small role|advcl\tto have a small role|xcomp\tsmall|amod\ta small role|dobj"
+                },
+                {
+                    "question": "What did Souza say about working in Hollywood?",
+                    "score": 0.7199,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 24/02/2018 that Souza pointed out that in the   he was offered to participate in a production directed by a Mexican but financed in Hollywood , which would open the doors to international cinema : ' although I was going to have a small role I was excited about the idea of working in Hollywood|ROOT\tthat Souza pointed out that in the   he was offered to participate in a production directed by a Mexican but financed in Hollywood , which would open the doors to international cinema : ' although I was going to have a small role I was excited about the idea of working in Hollywood|ccomp\twhich would open the doors to international cinema|relcl\the was offered to participate in a production directed by a Mexican but financed in Hollywood , which would open the doors to international cinema : ' although I was going to have a small role I was excited about the idea of working in Hollywood|ccomp\texcited about the idea of working in Hollywood|acomp\tabout the idea of working in Hollywood|prep\tthe idea of working in Hollywood|pobj\tof working in Hollywood|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It was a project led by Mexicans but financed by an American company, they were going to give it a lot of promotion and distribution.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 24/02/2018 that it was a project led by Mexicans but financed by an American company?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who funded the project led by Mexicans but financed it by an American company?",
+                    "score": 0.7956,
+                    "answers": "an American company|pobj"
+                },
+                {
+                    "question": "What was the purpose of the project?",
+                    "score": 0.6626,
+                    "answers": "to give it a lot of promotion and distribution|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "That movie was No Returns Accepted, which became an international success.",
+            "question_answers": [
+                {
+                    "question": "When did Elruinaversal report that No Returns Accepted was released?",
+                    "answer": "24/02/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who made the movie \"No Returns Accepted\"?",
+                    "score": 0.8928,
+                    "answers": "That movie|nsubj"
+                },
+                {
+                    "question": "Who made the film \"No Returns Accepted\"?",
+                    "score": 0.8924,
+                    "answers": "that|mark\tThat|det\tNo|compound\t,|punct"
+                },
+                {
+                    "question": "What was the success of No Returns Accepted?",
+                    "score": 0.8504,
+                    "answers": "No Returns Accepted , which became an international success|attr"
+                },
+                {
+                    "question": "What was the name of the movie No Returns Accepted?",
+                    "score": 0.8018,
+                    "answers": "No Returns|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Unfortunately in that production it was where I lived my hell at the hands of Eugenio Derbez who was the producer.",
+            "question_answers": [
+                {
+                    "question": "Who was the producer of elruinaversal?",
+                    "answer": "Eugenio Derbez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Eugenio Derbez live during his time as a producer?",
+                    "score": 0.7405,
+                    "answers": "on 24/02/2018|prep\tit|nsubj\twhere|advmod"
+                },
+                {
+                    "question": "What did Eugenio Derbez do during the production of the film?",
+                    "score": 0.7167,
+                    "answers": "in that production|prep\tthat production|pobj"
+                },
+                {
+                    "question": "Who was Eugenio Derbez?",
+                    "score": 0.7006,
+                    "answers": "my|poss"
+                },
+                {
+                    "question": "Who was the producer of the film \"Eugenio Derbez\"?",
+                    "score": 0.6855,
+                    "answers": "that|mark\tUnfortunately|advmod\tthat|det\tI|nsubj\tthe|det\tthe hands of Eugenio Derbez who was the producer|pobj\tof Eugenio Derbez who was the producer|prep\tEugenio|compound\twho|nsubj\twho was the producer|relcl\tthe|det\tthe producer|attr"
+                }
+            ]
+        },
+        {
+            "claim": "He is the protagonist of this chilling story ', he commented crying.",
+            "question_answers": [
+                {
+                    "question": "What did Elruinaversal report on 24/02/2018?",
+                    "answer": "He is the protagonist of this chilling story"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the author of the story say about crying?",
+                    "score": 0.843,
+                    "answers": "crying|advcl"
+                },
+                {
+                    "question": "Who is the protagonist of the chilling story?",
+                    "score": 0.827,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 24/02/2018 that He is the protagonist of this chilling story|ccomp\ton 24/02/2018|prep\tthat|mark\tHe|nsubj\tthat He is the protagonist of this chilling story|ccomp\tthe|det\tthe protagonist of this chilling story|attr\tof this chilling story|prep\tthis|det\tchilling|amod\tthis chilling story|pobj\t'|punct\t,|punct\the|nsubj\twww.elruinaversal.com reported on 24/02/2018 that He is the protagonist of this chilling story ' , he commented crying|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The actress said she will not give any more statements, but she is willing to take the risks that her revelation entails: 'I know Derbez and be perfect how he behaves: like a lamb in sheepskin, I know what his tricks are and I know how he will act ', she told.",
+            "question_answers": [
+                {
+                    "question": "What did Elruinaversal say about Derbez?",
+                    "answer": "like a lamb in sheepskin, I know what his tricks are and I know how he will act"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What statements did the actress make about Derbez?",
+                    "score": 0.7823,
+                    "answers": "any more statements|dobj"
+                },
+                {
+                    "question": "What did the actress say about her relationship with Derbez?",
+                    "score": 0.7224,
+                    "answers": "that The actress said she will not give any more statements , but she is willing to take the risks that her revelation entails|ccomp"
+                },
+                {
+                    "question": "What does the actress know about Derbez?",
+                    "score": 0.6854,
+                    "answers": "what his tricks are|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Derbez and Elizabeth Antony?",
+                    "score": 0.6281,
+                    "answers": "I know Derbez and be perfect how he behaves|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Elizabeth Antony's relationship with Derbez?",
+                    "score": 0.6144,
+                    "answers": "in sheepskin|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Souza pointed out that he was even about to get out of the film because he did not agree to Eugene's sexual innuendo:'The main idea was that my character would appear in the whole plot, but in the end I only go out in  scenes.",
+            "question_answers": [
+                {
+                    "question": "When did elruinaversal.com report that Souza was about to get out of the film?",
+                    "answer": "24/02/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Souza get out of the film because he did not agree to Eugene's sexual innuendo?",
+                    "score": 0.8005,
+                    "answers": "on 24/02/2018|prep\tout of the film|advmod\tof the film|prep\tthe film|pobj\t's|case\tmy character|nsubj\tthe end|pobj\t  scenes|dep"
+                },
+                {
+                    "question": "What did Souza say about Eugene's sexual innuendo?",
+                    "score": 0.7625,
+                    "answers": "because he did not agree to Eugene 's sexual innuendo:'The|advcl\tto Eugene 's sexual innuendo:'The|prep\tEugene 's|poss\tEugene 's sexual innuendo:'The|pobj\tin the end I only go out in|conj"
+                },
+                {
+                    "question": "What was Souza's main idea for the film?",
+                    "score": 0.6626,
+                    "answers": "main idea|nsubj"
+                },
+                {
+                    "question": "What was Souza�s role in the film?",
+                    "score": 0.6463,
+                    "answers": "about to get out of the film|acomp\tmain idea was that my character would appear in the whole plot , but in the end I only go out in|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Souza's involvement in the film?",
+                    "score": 0.6195,
+                    "answers": "www.elruinaversal.com|nsubj\tsexual|amod\tmain|amod"
+                }
+            ]
+        },
+        {
+            "claim": "That was because Derbez, noting that he would not agree to his proposals, decided to cut me off from history.",
+            "question_answers": [
+                {
+                    "question": "On what date did elruinaversal.com report that Derbez decided to cut me off from history?",
+                    "answer": "24/02/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Derbez cut off from history?",
+                    "score": 0.8361,
+                    "answers": "to cut me off from history|xcomp"
+                },
+                {
+                    "question": "What did Derbez say about his proposals?",
+                    "score": 0.7898,
+                    "answers": "noting that he would not agree to his proposals|advcl\tthat he would not agree to his proposals|ccomp\this proposals|pobj"
+                },
+                {
+                    "question": "What did Derbez decide to do with his proposals?",
+                    "score": 0.758,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 24/02/2018 that That was because Derbez , noting that he would not agree to his proposals , decided to cut me off from history|ROOT\ton 24/02/2018|prep\tthat|mark\tThat|nsubj\tbecause|mark\t,|punct\tthat|mark\the|nsubj\twould|aux\tnot|neg\tto his proposals|prep\this|poss\t,|punct\tbecause Derbez , noting that he would not agree to his proposals , decided to cut me off from history|advcl\tto|aux\tme|dobj\toff|prt\tfrom history|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It was until the end that I unfortunately agreed to have a meeting that recorded last minute the shots where I appeared.",
+            "question_answers": [
+                {
+                    "question": "When were the shots recorded?",
+                    "answer": "last minute"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take for the meeting to take place?",
+                    "score": 0.7206,
+                    "answers": "until the end|prep\tthe end|pobj"
+                },
+                {
+                    "question": "What was the purpose of the meeting that took place?",
+                    "score": 0.6083,
+                    "answers": "to have a meeting that recorded last minute the shots where I appeared|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "That's why I'm on the tape, otherwise my participation would have been totally eliminated.",
+            "question_answers": [
+                {
+                    "question": "When did elruinaversal.com report that I'm on the tape?",
+                    "answer": "24/02/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Trump's participation in the 2018 election?",
+                    "score": 0.8575,
+                    "answers": "on 24/02/2018|prep"
+                },
+                {
+                    "question": "What was the purpose of being on the tape?",
+                    "score": 0.8065,
+                    "answers": "that That 's why I 'm on the tape , otherwise my participation would have been totally eliminated|ccomp"
+                },
+                {
+                    "question": "Who was on the tape in 2018?",
+                    "score": 0.7995,
+                    "answers": "That 's why I 'm on the tape|ccomp\twhy I 'm on the tape|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Many people judge me, assures that finally I also took advantage of him to climb as an actress.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 24/02/2018 that Many people judged me?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be an actress?",
+                    "score": 0.8026,
+                    "answers": "that|mark\tthat|mark\tadvantage|dobj\tto|aux\tan|det"
+                },
+                {
+                    "question": "How many people judge Elizabeth Warren as an actress?",
+                    "score": 0.7952,
+                    "answers": "Many people|nsubj"
+                },
+                {
+                    "question": "Who took advantage of him to climb as an actress?",
+                    "score": 0.7235,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 24/02/2018 that Many people judge me , assures that finally I also took advantage of him to climb as an actress|ROOT\ton 24/02/2018|prep\tme|dobj\tfinally|advmod\tI|nsubj"
+                },
+                {
+                    "question": "What is the job of an actress?",
+                    "score": 0.6862,
+                    "answers": "an actress|pobj"
+                },
+                {
+                    "question": "What did the website \"elruinaversal.com\" say about the claim?",
+                    "score": 0.5969,
+                    "answers": "Many|amod\t,|punct\talso|advmod\thim|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "We're all afraid of losing our job and especially losing something we've fought for for years.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 24/02/2018 that we're all afraid of losing our job?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the reasons for fear of losing jobs and losing jobs?",
+                    "score": 0.6717,
+                    "answers": "that We 're all afraid of losing our job and especially losing something we 've fought for for years|ccomp\tafraid of losing our job and especially losing something we 've fought for for years|acomp"
+                },
+                {
+                    "question": "What is the relationship between losing a job and losing something you've fought for for years?",
+                    "score": 0.6118,
+                    "answers": "of losing our job and especially losing something we 've fought for for years|prep\tlosing our job and especially losing something we 've fought for for years|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "At the time I did not sue because in part I know that I could have avoided the situation, but that does not mean that there is psychologically against my will, and this regret of what I did, which translates to rape ', he pointed out.",
+            "question_answers": [
+                {
+                    "question": "What did the regret of what I did translate to?",
+                    "answer": "rape"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does rape mean?",
+                    "score": 0.778,
+                    "answers": "against my will|prep"
+                },
+                {
+                    "question": "What does it mean to be raped?",
+                    "score": 0.7251,
+                    "answers": "the situation|dobj\tthat does not mean that there is psychologically against my will|conj\tthat there is psychologically against my will|ccomp"
+                },
+                {
+                    "question": "What is the relationship between a rape and a rape?",
+                    "score": 0.682,
+                    "answers": "because in part I know that I could have avoided the situation , but that does not mean that there is psychologically against my will|advcl"
+                },
+                {
+                    "question": "What is rape?",
+                    "score": 0.6538,
+                    "answers": "this regret of what I did , which translates to rape|conj\twhich translates to rape|relcl\tto rape|prep\trape|pobj"
+                }
+            ]
+        }
+    ]
+}

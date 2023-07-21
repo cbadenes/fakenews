@@ -1,0 +1,900 @@
+{
+    "id": "129_Society_60",
+    "claim": "% of Mexican teenagers acknowledge having been the object of mockery, beatings or pushes several times a month, more than the average of OECD countries.School bullying appears in Mexican schools as one of the most visible obstacles to education. % of students from  years of age acknowledge having suffered several times a month some kind of abuse: mockery or unpleasant rumors, pushes or blows. And peer violence directly affects grades: those who suffer from it get worse grades, concludes a report prepared by the Organisation for Economic Cooperation and Development (OECD). Mexico is among the countries where bullying is most frequent. And their results in the PISA study haven't raised their heads for years. In the last PISA report, published in December of , the organization put on the table a well-known topic: the deficiencies in Mexican education. Teenagers in Mexico failed all exams: science, reading and mathematics. And its rulers had no choice but to compare bad grades with worse ones: Mexico, still rejected, scored better than Costa Rica, Colombia, Brazil and Peru in mathematics. Something that happens with each report. This is the last educational comfort. Bullying figures show 'fractured social relations and the development of a way of relating that is harmful ', explains Gabriela Ramos, OECD Director of Staff, on Tuesday's report on the well-being of students. This is not the first time that the organism has warned about this problem. In  he placed Mexico as the country with the highest level of bullying, according to the International Survey on Teaching and Learning. The document added some testimonies from teachers and principals pointed to the use of drugs and alcohol in schools, as well as vandalism and theft. Among the other points where Mexico stands out negatively, is the low sense of belonging to the school. % of students feel marginalized at school (when the OECD average is %) and % feel lonely (average %). However, the report presented this Tuesday stresses that if students had to take note of their lives, they would get almost an outstanding: . This is the highest level among OECD countries and the second among all PISA participating countries, after the Dominican Republic. In addition, there is a higher than average level of motivation: % of adolescents declared that they want to be the best, do what they do and % is motivated to get the highest grades. This motivation was also evident in the results of the last PISA report. Despite poor science scores, a large part of Mexican teenagers wanted to be scientists. At least one % of respondents referred to this, the highest proportion of students with this expectation among OECD countries. Taking into account that only one % of them achieved acceptable science performance and one % did not even get a minimum level, it was a response that surprised the report itself:'These positive attitudes are weakly associated with student performance in mathematics'. Mexican students get more nervous than those in other countries. Anxiety for study above average, a % of them recognize getting very tense when studying and % cares about poor grades. Being a doctor is the most popular professional aspiration among girls, while they prefer to be engineers. The level of school segregation in Mexico is higher than the OECD average: only one % of children from working-class families can afford a private school. The document also states that % of students from wealthy families expect to complete university, compared to % of the most disadvantaged students. Mexico invests  dollars in educating every student from six to  years, according to the agency's data. This level of expenditure represents % of the OECD average. The per capita GDP of Mexico is  dollars (data of ), % of the average of the agency. The report notes that what Mexico spends on education relative to the country's GDP is lower than in many other Latin American countries, such as Costa Rica, Brazil, Chile, Colombia, Dominican Republic and Peru. But higher than Uruguay. The country allocates % of GDP to the public education system, according to an OECD study from  which collects data from . It is one of the countries that devote most to this departure of all those that make up the body, ahead of Germany and Spain and very similar to that of France. But % is used to pay teachers' payrolls. I'm sorry.",
+    "source": "elpais.com",
+    "date": "19/04/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "% of Mexican teenagers acknowledge the organism the object of mockery, beatings or pushes several times a month, more than the average of OECD countries.",
+            "question_answers": [
+                {
+                    "question": "What percentage of Mexican teenagers acknowledge the object of mockery, beatings or pushes several times a month?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of Mexican teenagers acknowledge the organism the object of mockery?",
+                    "score": 0.7905,
+                    "answers": "that % of Mexican teenagers acknowledge the organism the object of mockery , beatings or pushes several times a month , more than the average of OECD countries|ccomp"
+                },
+                {
+                    "question": "What is the average OECD countries?",
+                    "score": 0.5343,
+                    "answers": "the organism|nsubj\tmore than the average of OECD countries|dep\tthan the average of OECD countries|prep\tthe average of OECD countries|pobj\tof OECD countries|prep\tOECD countries|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "School bullying the report itself:'These schools as one of the most visible obstacles to education.",
+            "question_answers": [
+                {
+                    "question": "What website reported on school bullying on 19/04/2017?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the impact of school bullying on education?",
+                    "score": 0.8929,
+                    "answers": "most visible|amod"
+                },
+                {
+                    "question": "What are the main problems with school bullying?",
+                    "score": 0.8906,
+                    "answers": "as one of the most visible obstacles to education|prep"
+                },
+                {
+                    "question": "What is the school bullying report?",
+                    "score": 0.8904,
+                    "answers": "elpais.com reported on 19/04/2017 that School bullying the report itself:'These schools as one of the most visible obstacles to education|ROOT\tthat School bullying the report itself:'These schools as one of the most visible obstacles to education|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of school bullying?",
+                    "score": 0.8727,
+                    "answers": "on 19/04/2017|prep\tthat|mark\tSchool|nsubj\tthe|det\tthe report|dobj\titself:'These|meta\tthe|det\tmost|advmod\tto education|prep\teducation|pobj"
+                },
+                {
+                    "question": "What are the most visible obstacles to education?",
+                    "score": 0.8167,
+                    "answers": "schools as one of the most visible obstacles to education|dep\tone of the most visible obstacles to education|pobj\tof the most visible obstacles to education|prep\tthe most visible obstacles to education|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "% of Mexican teenagers Mexican students having suffered several times a month some kind of abuse: mockery or unpleasant rumorsMexican students pushes or blows.",
+            "question_answers": [
+                {
+                    "question": "What percentage of Mexican teenagers suffered several times a month some kind of abuse?",
+                    "answer": "% of Mexican teenagers Mexican students having suffered several times a month some kind of abuse: mockery or unpleasant rumorsMexican students"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of Mexican teenagers suffer from abuse?",
+                    "score": 0.8301,
+                    "answers": "elpais.com reported on 19/04/2017 that % of Mexican teenagers Mexican students having suffered several times a month some kind of abuse : mockery or unpleasant rumorsMexican students pushes or blows|ROOT\t% of Mexican teenagers Mexican students|nsubj\tof Mexican teenagers Mexican students|prep\tMexican teenagers Mexican students|pobj\tMexican students|appos\ta month|npadvmod"
+                },
+                {
+                    "question": "How many times a month are Mexican teenagers being abused?",
+                    "score": 0.7788,
+                    "answers": "several times a month|npadvmod"
+                },
+                {
+                    "question": "How many Mexican teenagers have suffered from abuse?",
+                    "score": 0.7726,
+                    "answers": "having|aux\tseveral|amod\ta|det\tsome|det\tof abuse|prep\t:|punct\tor|cc\tunpleasant|amod\tor|cc\tblows|conj"
+                },
+                {
+                    "question": "What is the source of evidence of the abuse of Mexican teenagers by Mexican students?",
+                    "score": 0.724,
+                    "answers": "some kind of abuse : mockery or unpleasant rumorsMexican students pushes or blows|dobj\tmockery or unpleasant rumorsMexican students pushes or blows|appos\tunpleasant rumorsMexican students pushes or blows|conj"
+                },
+                {
+                    "question": "What is the relationship between Mexican teenagers and Mexican students?",
+                    "score": 0.6741,
+                    "answers": "unpleasant rumorsMexican students|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And peer violence directly affects grades: those who suffer from peer violence get worse grades, concludes a report prepared by the OECD for girls Cooperation and Development (OECD).",
+            "question_answers": [
+                {
+                    "question": "Who reported that peer violence directly affects grades?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does peer violence do to students who suffer from peer violence?",
+                    "score": 0.8309,
+                    "answers": "directly|advmod\twho|nsubj\tthat And peer violence directly affects grades : those who suffer from peer violence get worse grades|ccomp"
+                },
+                {
+                    "question": "What does the OECD report say about peer violence and peer violence?",
+                    "score": 0.7684,
+                    "answers": "on 19/04/2017|prep"
+                },
+                {
+                    "question": "What did the OECD report prepared by the OECD for girls Cooperation and Development (OECD)?",
+                    "score": 0.7002,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is peer violence?",
+                    "score": 0.6498,
+                    "answers": "peer violence|nsubj\tthose who suffer from peer violence|nsubj\twho suffer from peer violence|relcl\tfrom peer violence|prep\tpeer violence|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico is among Mexico where bullying the OECD average .",
+            "question_answers": [
+                {
+                    "question": "What organization reported that Mexico is among the countries where bullying is higher than the average?",
+                    "answer": "OECD"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the OECD average for bullying?",
+                    "score": 0.8913,
+                    "answers": "elpais.com reported on 19/04/2017 that Mexico is among Mexico where bullying the OECD average|ROOT\ton 19/04/2017|prep\tthat|mark\tamong Mexico where bullying the OECD average|prep\tMexico where bullying the OECD average|pobj\twhere|advmod\twhere bullying|nsubj\twhere bullying the OECD average|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "And results students the PISA students haven't almost an outstanding: .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 19/04/2017 that And results students the PISA students haven't almost an outstanding?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many PISA students were there in 2017?",
+                    "score": 0.9204,
+                    "answers": "And|cc"
+                },
+                {
+                    "question": "How many students are eligible for PISA?",
+                    "score": 0.9061,
+                    "answers": "students the PISA students|nsubj"
+                },
+                {
+                    "question": "What are the results of PISA students?",
+                    "score": 0.9049,
+                    "answers": "results|dep\tthe PISA students|appos\tthat And results students the PISA students have n't almost an outstanding|ccomp\tn't|neg\talmost an outstanding|dobj"
+                },
+                {
+                    "question": "What is the average PISA score for a student?",
+                    "score": 0.904,
+                    "answers": "on 19/04/2017|prep\tthat|mark\tthe|det\talmost|advmod\tan|det\t:|punct"
+                },
+                {
+                    "question": "What does elpais.com say about PISA students?",
+                    "score": 0.902,
+                    "answers": "elpais.com reported on 19/04/2017 that And results students the PISA students have n't almost an outstanding :|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "the report itself:'These PISA report, OECD countries of , OECD put on the table a well-known topic: the deficiencies in Mexican education.",
+            "question_answers": [
+                {
+                    "question": "Who put on the table a well-known topic: the deficiencies in Mexican education?",
+                    "answer": "OECD countries of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did OECD countries say about the PISA report?",
+                    "score": 0.8429,
+                    "answers": "elpais.com reported on 19/04/2017 that the report itself:'These PISA report , OECD countries of , OECD put on the table a well - known topic : the deficiencies in Mexican education|ROOT\tthat|mark\tthe|det\t,|punct\tof , OECD|prep\t,|punct\tthe|det\tthe table|pobj\ta|det\twell|advmod\t-|punct\t:|punct\tthe|det"
+                },
+                {
+                    "question": "What is the PISA report on education in Mexico?",
+                    "score": 0.8087,
+                    "answers": "in Mexican education|prep"
+                },
+                {
+                    "question": "What was the purpose of the PISA report?",
+                    "score": 0.7379,
+                    "answers": "on the table|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Teenagers a higher than average level of motivation % of adolescents .",
+            "question_answers": [
+                {
+                    "question": "What percentage of adolescents have a higher than average level of motivation?",
+                    "answer": "higher than average level of motivation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does elpais.com say about teen motivation?",
+                    "score": 0.889,
+                    "answers": "elpais.com reported on 19/04/2017 that Teenagers a higher than average level of motivation % of adolescents|ROOT\ton 19/04/2017|prep\tthat|mark\tTeenagers|nsubj\tthat Teenagers a higher than average level of motivation % of adolescents|dobj"
+                },
+                {
+                    "question": "What is the average level of motivation for teenagers?",
+                    "score": 0.8788,
+                    "answers": "a|det\thigher than average|amod\tthan average|prep\taverage|amod\tmotivation|compound"
+                }
+            ]
+        },
+        {
+            "claim": "And rulers OECD but to compare bad grades with worse ones: Mexico the OECD average a higher than average level of motivation than Mexico Rica, Colombia, Brazil and Peru PISA mathematics.",
+            "question_answers": [
+                {
+                    "question": "What group of rulers did elpais.com report on 19/04/2017?",
+                    "answer": "OECD"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average level of motivation in Mexico Rica, Colombia, Brazil, Peru PISA mathematics?",
+                    "score": 0.7572,
+                    "answers": "Peru PISA mathematics|conj"
+                },
+                {
+                    "question": "What is the OECD average level of motivation?",
+                    "score": 0.7509,
+                    "answers": "that|mark\tAnd|cc\trulers|dep\tbut|cc\tto|aux\tto compare bad grades with worse ones :|advcl\tbad|amod\tbad grades|dobj\tworse|amod\t:|punct\tthe|det\tthe OECD|compound\tthat And rulers OECD but to compare bad grades with worse ones : Mexico the OECD average a higher than average level of motivation than Mexico Rica , Colombia , Brazil and Peru PISA mathematics|ccomp\ta|det\tthan average|prep\taverage|amod\ta higher than average level of motivation than Mexico Rica , Colombia , Brazil and Peru PISA mathematics|dobj\tof motivation|prep\tmotivation|pobj\tthan Mexico Rica , Colombia , Brazil and Peru PISA mathematics|prep\t,|punct\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "OECD the report itself:'These with each report.",
+            "question_answers": [
+                {
+                    "question": "Who wrote the report on 19/04/2017?",
+                    "answer": "OECD"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the OECD report?",
+                    "score": 0.7899,
+                    "answers": "elpais.com reported on 19/04/2017 that OECD the report itself:'These with each report|ROOT\ton 19/04/2017|prep\tthat|mark\tthat OECD the report itself:'These with each report|ccomp\tthe|det\tthe report|appos\titself:'These|appos\twith each report|prep\teach|det\teach report|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This is the last educational comfort.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that This was the last educational comfort?",
+                    "answer": "19/04/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current education budget per pupil per year?",
+                    "score": 0.8671,
+                    "answers": "educational|amod"
+                },
+                {
+                    "question": "How many educational resources does elpais.com offer?",
+                    "score": 0.7528,
+                    "answers": "last|amod"
+                },
+                {
+                    "question": "What is the last educational comfort for children?",
+                    "score": 0.7229,
+                    "answers": "This|nsubj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.5133,
+                    "answers": "elpais.com reported on 19/04/2017 that This is the last educational comfort|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico figures show 'fractured social relations wanted the development of a way of relating that is harmful ', explains OECD countries , OECD Director of Staff, on Tuesday's report on the well-being of students.",
+            "question_answers": [
+                {
+                    "question": "Who is the Director of Staff of the OECD?",
+                    "answer": "OECD countries"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the OECD report on the well-being of students?",
+                    "score": 0.6092,
+                    "answers": "that|mark\t'|punct\tfractured|amod\tsocial|amod\tfractured social relations|nsubj\tthe|det\tthe development of a way of relating that is harmful|dobj\tof a way of relating that is harmful|prep\ta|det\ta way of relating that is harmful|pobj\trelating|pcomp\tthat|nsubj\tharmful|acomp\t'|punct\t,|punct\t,|punct\t,|punct\ton Tuesday 's report on the well - being of students|prep\t's|case\tTuesday 's report on the well - being of students|pobj\ton the well - being of students|prep\tthe|det\twell|compound\t-|punct\tthe well - being of students|pobj\tof students|prep\tstudents|pobj"
+                },
+                {
+                    "question": "What does the OECD director of staff say about the relationship between economic and social relations?",
+                    "score": 0.5778,
+                    "answers": "Mexico figures|nsubj"
+                },
+                {
+                    "question": "What is the relationship between fractured social relations and developing a way of relating that is harmful?",
+                    "score": 0.5489,
+                    "answers": "fractured social relations wanted the development of a way of relating that is harmful|ccomp"
+                },
+                {
+                    "question": "Who is OECD director of staff?",
+                    "score": 0.4986,
+                    "answers": "OECD countries , OECD Director of Staff ,|nsubj\tOECD Director of Staff|appos"
+                }
+            ]
+        },
+        {
+            "claim": "This is not the first time that the organism has warned about this problem.",
+            "question_answers": [
+                {
+                    "question": "Who reported that this was not the first time that the organism had warned about this problem?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many warnings has the organism warned about the problem?",
+                    "score": 0.8215,
+                    "answers": "that This is not the first time that the organism has warned about this problem|ccomp\tthe first time that the organism has warned about this problem|attr\tthat the organism has warned about this problem|relcl"
+                },
+                {
+                    "question": "How many scientists have warned about the problem of the organism?",
+                    "score": 0.8077,
+                    "answers": "about this problem|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In  he placed Mexico as the country with the highest level of bullying, according to the International Survey on Teaching and Learning.",
+            "question_answers": [
+                {
+                    "question": "Who reported that In placed Mexico as the country with the highest level of bullying?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current bullying rate in Mexico?",
+                    "score": 0.7595,
+                    "answers": "according to the International Survey on Teaching and Learning|prep\tLearning|conj"
+                },
+                {
+                    "question": "What is the country with the highest level of bullying?",
+                    "score": 0.7323,
+                    "answers": "as the country with the highest level of bullying|prep\tthe country with the highest level of bullying|pobj"
+                },
+                {
+                    "question": "What does the International Survey on Teaching and Learning do?",
+                    "score": 0.6436,
+                    "answers": "to the International Survey on Teaching and Learning|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The document added some testimonies from teachers and principals pointed to the use of drugs and alcohol in schools, as well as vandalism and theft.",
+            "question_answers": [
+                {
+                    "question": "Along with theft and vandalism, what other crime was mentioned in the document?",
+                    "answer": "vandalism"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did teachers and principals say about using drugs and alcohol in schools?",
+                    "score": 0.7696,
+                    "answers": "teachers and principals|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Among the other points where Mexico stands out negatively, is the low sense of belonging to the school.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the low sense of belonging to the school?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have a low sense of belonging to school?",
+                    "score": 0.7418,
+                    "answers": "other|amod\twhere|advmod"
+                },
+                {
+                    "question": "What are the other points that Mexico stands out negatively?",
+                    "score": 0.7116,
+                    "answers": "Among the other points where Mexico stands out negatively|prep\tthe other points where Mexico stands out negatively|pobj"
+                },
+                {
+                    "question": "What is the relationship between Mexico and school?",
+                    "score": 0.6233,
+                    "answers": "where Mexico stands out negatively|relcl\tnegatively|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "% of students feel marginalized at school (when the OECD average is %) and % feel lonely (average %).",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 19/04/2017?",
+                    "answer": "% of students feel marginalized at school (when the OECD average is %)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of students feel marginalized at school?",
+                    "score": 0.8597,
+                    "answers": "that|mark\t% of students|nsubj\tof students|prep\tstudents|pobj\tthat % of students feel marginalized at school ( when the OECD average is % ) and % feel lonely ( average % )|ccomp\tmarginalized|acomp\tat school|prep\tschool|pobj\t(|punct\twhen|advmod\tthe|det\t%|attr\t)|punct\tand|cc\t%|nsubj\t% feel lonely ( average % )|conj\tlonely|acomp\t(|punct\t)|punct"
+                }
+            ]
+        },
+        {
+            "claim": "However, the report presented this Tuesday stresses that if students had to take note of their lives, they would get almost an outstanding: .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 19/04/2017 that if students had to take note of their lives, they would get almost an outstanding?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the report say about students taking note of their lives?",
+                    "score": 0.6722,
+                    "answers": "elpais.com reported on 19/04/2017 that However , the report presented this Tuesday stresses that if students had to take note of their lives , they would get almost an outstanding :|ROOT\ton 19/04/2017|prep\tthat|mark\tHowever|advmod\t,|punct\tthe|det\tthe report presented this Tuesday|nsubj\tpresented this Tuesday|acl\tthis|det\tthat However , the report presented this Tuesday stresses that if students had to take note of their lives , they would get almost an outstanding|ccomp\tthat|mark\tstudents|nsubj\tif students had to take note of their lives|advcl\tto|aux\ttheir|poss\t,|punct\tthey|nsubj\twould|aux\tthat if students had to take note of their lives , they would get almost an outstanding|ccomp\t:|punct"
+                },
+                {
+                    "question": "What is the relationship between student attendance and school safety?",
+                    "score": 0.6082,
+                    "answers": "their lives|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This is the highest level among OECD countries and the second among all PISA participating countries, after the Dominican Republic.",
+            "question_answers": [
+                {
+                    "question": "Where does the Dominican Republic rank among PISA participating countries?",
+                    "answer": "second"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the PISA participation rate among OECD countries?",
+                    "score": 0.8511,
+                    "answers": "This|nsubj\tthe|det\thighest|amod\tthe|det\tall|det\tthe|det"
+                },
+                {
+                    "question": "What are the OECD countries compared to PISA countries?",
+                    "score": 0.8127,
+                    "answers": "OECD countries|pobj"
+                },
+                {
+                    "question": "What is the highest level of PISA participating countries?",
+                    "score": 0.7866,
+                    "answers": "elpais.com reported on 19/04/2017 that This is the highest level among OECD countries and the second among all PISA participating countries , after the Dominican Republic|ROOT\ton 19/04/2017|prep\tthat|mark\tthat This is the highest level among OECD countries and the second among all PISA participating countries , after the Dominican Republic|ccomp\tamong OECD countries|prep\tand|cc\t,|punct\tafter the Dominican Republic|prep\tDominican|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, there is a higher than average level of motivation: % of adolescents declared that they want to be the best, do what they do and % is motivated to get the highest grades.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 19/04/2017?",
+                    "answer": "% of adolescents declared that they want to be the best, do what they do and % is motivated to get the highest grades"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of adolescents want to be the best, do what they do?",
+                    "score": 0.8964,
+                    "answers": "that they want to be the best , do what they do|ccomp\tthe highest grades|dobj"
+                },
+                {
+                    "question": "What does elpais.com say about motivation?",
+                    "score": 0.8675,
+                    "answers": "elpais.com reported on 19/04/2017 that In addition , there is a higher than average level of motivation :|ccomp\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\tthere|expl\ta|det\t:|punct\tthat|mark\tto|aux\tthe|det\t,|punct\tto|aux\tthe|det"
+                },
+                {
+                    "question": "What is the average level of motivation for adolescents to achieve the best grades?",
+                    "score": 0.8219,
+                    "answers": "higher than average|amod"
+                }
+            ]
+        },
+        {
+            "claim": "This motivation was also evident in the results of the last PISA report.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 19/04/2017 that This motivation was evident in the results of the last PISA report?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the motivation for the last PISA report?",
+                    "score": 0.8805,
+                    "answers": "elpais.com reported on 19/04/2017 that This motivation was also evident in the results of the last PISA report|ROOT\ton 19/04/2017|prep\tthat|mark\tThis|det\tThis motivation|nsubj\tthat This motivation was also evident in the results of the last PISA report|ccomp\talso|advmod\tevident in the results of the last PISA report|acomp\tthe|det\tthe|det\tlast|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Despite poor science scores, a large part of Mexican teenagers wanted to be scientists.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 19/04/2017 that a large part of Mexican teenagers wanted to be scientists?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of Mexican teenagers want to be scientists?",
+                    "score": 0.8927,
+                    "answers": "elpais.com reported on 19/04/2017 that Despite poor science scores , a large part of Mexican teenagers wanted to be scientists|ROOT\ton 19/04/2017|prep\tthat|mark\tDespite poor science scores|prep\tpoor|amod\tscience|compound\tpoor science scores|pobj\t,|punct\ta|det\tlarge|amod\ta large part of Mexican teenagers|nsubj\tof Mexican teenagers|prep\tMexican teenagers|pobj\tthat Despite poor science scores , a large part of Mexican teenagers wanted to be scientists|ccomp\tto|aux\tto be scientists|xcomp\tscientists|attr"
+                }
+            ]
+        },
+        {
+            "claim": "At least one % of respondents referred to this, the highest proportion of students with this expectation among OECD countries.",
+            "question_answers": [
+                {
+                    "question": "What percentage of students in the OECD countries were referred to by elpais.com on 19/04/2017?",
+                    "answer": "one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of students are expected to meet their expectations in OECD countries?",
+                    "score": 0.8764,
+                    "answers": "of students with this expectation|prep"
+                },
+                {
+                    "question": "What is the OECD's expectations for students?",
+                    "score": 0.8366,
+                    "answers": "the highest proportion of students with this expectation among OECD countries|appos"
+                },
+                {
+                    "question": "How many OECD countries have students with expectations?",
+                    "score": 0.8319,
+                    "answers": "students with this expectation|pobj"
+                },
+                {
+                    "question": "What is the OECD countries' expectations for students?",
+                    "score": 0.8037,
+                    "answers": "At least one % of respondents the highest proportion of students with this expectation among OECD countries|nsubj\twith this expectation|prep\tthis expectation|pobj"
+                },
+                {
+                    "question": "What is the percentage of students with expectations among OECD countries?",
+                    "score": 0.7612,
+                    "answers": "on 19/04/2017|prep\tthat|mark\tAt|advmod\trespondents|pobj\tto this|prep\tthis|pobj\t,|punct\tthe|det\thighest|amod\tthis|det"
+                }
+            ]
+        },
+        {
+            "claim": "Taking into account that only one % of them achieved acceptable science performance and one % did not even get a minimum level, it was a response that surprised the report itself:'These positive attitudes are weakly associated with student performance in mathematics'.",
+            "question_answers": [
+                {
+                    "question": "How many students achieved acceptable science performance?",
+                    "answer": "one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of students achieve acceptable science performance?",
+                    "score": 0.9015,
+                    "answers": "elpais.com reported on 19/04/2017 that Taking into account that only one % of them achieved acceptable science performance and one % did not even get a minimum level , it was a response that surprised the report itself:'These positive attitudes are weakly associated with student performance in mathematics '|ROOT\ton 19/04/2017|prep\tthat|mark\tthat|mark\tonly|advmod\tthem|pobj\tscience|compound\tacceptable science performance|dobj\tone|nummod\tdid|aux\tnot|neg\teven|advmod\ta|det\tit|nsubj\ta|det\tthat|nsubj\tthe|det\tpositive|amod\tare|auxpass\tstudent|compound\t'|punct"
+                },
+                {
+                    "question": "What percent of students in mathematics achieve a minimum level?",
+                    "score": 0.8841,
+                    "answers": "only one|nummod\tof them|prep"
+                },
+                {
+                    "question": "What was the percentage of students who achieved acceptable science performance?",
+                    "score": 0.8554,
+                    "answers": "a response that surprised the report|attr"
+                },
+                {
+                    "question": "What is the relationship between mathematics and student performance in mathematics?",
+                    "score": 0.7758,
+                    "answers": "itself:'These positive attitudes are weakly associated with student performance in mathematics '|ccomp"
+                },
+                {
+                    "question": "What is the minimum level of mathematics?",
+                    "score": 0.764,
+                    "answers": "a minimum level|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexican students get more nervous than those in other countries.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 19/04/2017?",
+                    "answer": "nervous"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have a higher rate of fear than Mexico?",
+                    "score": 0.8323,
+                    "answers": "other countries|pobj"
+                },
+                {
+                    "question": "What is the rate of anxiety among students in other countries compared to Mexico?",
+                    "score": 0.7996,
+                    "answers": "in other countries|prep"
+                },
+                {
+                    "question": "What is the relationship between Mexican students and students in other countries?",
+                    "score": 0.734,
+                    "answers": "on 19/04/2017|prep\tMexican students|nsubj\tthose in other countries|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Anxiety for study above average, a % of them recognize getting very tense when studying and % cares about poor grades.",
+            "question_answers": [
+                {
+                    "question": "What do a % of students recognize?",
+                    "answer": "getting very tense when studying"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of students recognize getting very tense when studying and care about poor grades?",
+                    "score": 0.7946,
+                    "answers": "about poor grades|prep"
+                },
+                {
+                    "question": "What is the average anxiety for students who study above average?",
+                    "score": 0.7101,
+                    "answers": "getting very tense when studying|xcomp\twhen studying|advcl"
+                },
+                {
+                    "question": "What does elpais.com say about anxiety for study?",
+                    "score": 0.6686,
+                    "answers": "on 19/04/2017|prep\tthat|mark\tfor study|prep\tstudy|pobj\taverage|amod\t,|punct\twhen|advmod\tand|cc\t% cares about poor grades|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Being a doctor is the most popular professional aspiration among girls, while they prefer to be engineers.",
+            "question_answers": [
+                {
+                    "question": "Who reported that being a doctor is the most popular professional aspiration among girls?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the most popular professional aspiration among girls who prefer to be engineers?",
+                    "score": 0.714,
+                    "answers": "on 19/04/2017|prep\twhile they prefer to be engineers|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The level of school segregation in Mexico is higher than the OECD average: only one % of children from working-class families can afford a private school.",
+            "question_answers": [
+                {
+                    "question": "How many children from working-class families can afford a private school in Mexico City?",
+                    "answer": "one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of children from working class families can afford a private school?",
+                    "score": 0.8915,
+                    "answers": "only one % of children from working - class families|nsubj\tof children from working - class families|prep\tchildren from working - class families|pobj\tfrom working - class families|prep"
+                },
+                {
+                    "question": "What is the OECD average for school segregation in Mexico?",
+                    "score": 0.8037,
+                    "answers": "on 19/04/2017|prep\tthat|mark\tThe|det\tThe level of school segregation in Mexico|nsubj\tof school segregation in Mexico|prep\tschool|compound\tin Mexico|prep\tThe level of school segregation in Mexico is higher than the OECD average|ccomp\thigher than the OECD average|acomp\tthan the OECD average|prep\tthe|det\tthe OECD average|pobj\t:|punct\tonly|advmod\tonly one|nummod\tworking|amod\t-|punct\tworking - class|compound\tworking - class families|pobj\tcan|aux\ta|det\tprivate|amod\ta private school|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The document also states that % of students from wealthy families expect to complete university, compared to % of the most disadvantaged students.",
+            "question_answers": [
+                {
+                    "question": "What is the percentage of students from wealthy families expect to complete university?",
+                    "answer": "% of students from wealthy families expect to complete university, compared to % of the most disadvantaged students"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of students from wealthy families expect to complete university?",
+                    "score": 0.8845,
+                    "answers": "elpais.com reported on 19/04/2017 that The document also states that % of students from wealthy families expect to complete university , compared to % of the most disadvantaged students|ROOT\ton 19/04/2017|prep\tthat|mark\tThe|det\tThe document|nsubj\talso|advmod\tthat The document also states that % of students from wealthy families expect to complete university , compared to % of the most disadvantaged students|ccomp\tthat|mark\t% of students from wealthy families|nsubj\tof students from wealthy families|prep\tstudents from wealthy families|pobj\tfrom wealthy families|prep\twealthy|amod\twealthy families|pobj\tthat % of students from wealthy families expect to complete university , compared to % of the most disadvantaged students|ccomp\tto|aux\tto complete university|xcomp\tuniversity|dobj\t,|punct\tcompared to % of the most disadvantaged students|prep\tto % of the most disadvantaged students|prep\t% of the most disadvantaged students|pobj\tof the most disadvantaged students|prep\tthe|det\tmost|advmod\tmost disadvantaged|amod\tthe most disadvantaged students|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico invests  dollars in educating every student from six to  years, according to the agency's data.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Mexico invests dollars in educating every student?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money does Mexico invest in education?",
+                    "score": 0.9149,
+                    "answers": "elpais.com reported on 19/04/2017 that Mexico invests   dollars in educating every student from six to   years , according to the agency 's data|ROOT\ton 19/04/2017|prep\tthat Mexico invests   dollars in educating every student from six to   years , according to the agency 's data|ccomp\t  dollars in educating every student from six to|dep\tin educating every student from six to|prep\teducating every student from six to|pcomp\tevery student from six to|dobj\tfrom six to|prep\taccording to the agency 's data|prep"
+                },
+                {
+                    "question": "How much money is spent on education every year in Mexico?",
+                    "score": 0.8499,
+                    "answers": "six|pobj\tyears|pobj\tthe agency 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "This level of expenditure represents % of the OECD average.",
+            "question_answers": [
+                {
+                    "question": "What percentage of the OECD average does this level of expenditure represent?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the OECD average expenditure?",
+                    "score": 0.8467,
+                    "answers": "elpais.com reported on 19/04/2017 that This level of expenditure represents % of the OECD average|ROOT\ton 19/04/2017|prep\tthat|mark\tThis|det\tThis level of expenditure|nsubj\tof expenditure|prep\texpenditure|pobj\tthat This level of expenditure represents % of the OECD average|ccomp\t% of the OECD average|dobj\tof the OECD average|prep\tthe|det\tthe OECD average|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The per capita GDP of Mexico is  dollars (data of ), % of the average of the agency.",
+            "question_answers": [
+                {
+                    "question": "What is the per capita GDP of Mexico?",
+                    "answer": "dollars (data of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the per capita GDP of Mexico per capita?",
+                    "score": 0.8386,
+                    "answers": "per capita|nmod\t  dollars ( data of ) , % of the average of the agency|dep\tdollars ( data of ) , % of the average of the agency|attr"
+                }
+            ]
+        },
+        {
+            "claim": "The report notes that what Mexico spends on education relative to the country's GDP is lower than in many other Latin American countries, such as Costa Rica, Brazil, Chile, Colombia, Dominican Republic and Peru.",
+            "question_answers": [
+                {
+                    "question": "What does Mexico spend less on than other Latin American countries?",
+                    "answer": "education"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the GDP of Mexico compared to other Latin American countries?",
+                    "score": 0.7931,
+                    "answers": "elpais.com reported on 19/04/2017 that The report notes that what Mexico spends on education relative to the country 's GDP is lower than in many other Latin American countries , such as Costa Rica , Brazil , Chile , Colombia , Dominican Republic and Peru|ROOT\tthat|mark\tThe|det\tThe report|nsubj\tthat|mark\twhat|dobj\ton education|prep\tthe|det\t's|case\tthat what Mexico spends on education relative to the country 's GDP is lower than in many other Latin American countries , such as Costa Rica , Brazil , Chile , Colombia , Dominican Republic and Peru|ccomp\tthan in many other Latin American countries , such as Costa Rica , Brazil , Chile , Colombia , Dominican Republic and Peru|prep\tmany|amod\tLatin|amod\t,|punct\tsuch|amod\t,|punct\t,|punct\tChile , Colombia , Dominican Republic and Peru|conj\t,|punct\t,|punct\tDominican|compound\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "But higher than Uruguay.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 19/04/2017?",
+                    "answer": "higher than Uruguay"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the GDP of Uruguay?",
+                    "score": 0.8383,
+                    "answers": "than Uruguay|prep"
+                },
+                {
+                    "question": "What is the relationship between Uruguay and the United States?",
+                    "score": 0.6432,
+                    "answers": "on 19/04/2017|prep\tthat|mark\tBut|cc\tthat But higher than Uruguay|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The country allocates % of GDP to the public education system, according to an OECD study from  which collects data from .",
+            "question_answers": [
+                {
+                    "question": "What organization collected data from the country on the allocation of % of GDP to the public education system?",
+                    "answer": "OECD"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of GDP is allocated to the public education system?",
+                    "score": 0.909,
+                    "answers": "% of GDP|dobj"
+                },
+                {
+                    "question": "What data does elpais.com collect?",
+                    "score": 0.8377,
+                    "answers": "  which collects data from|dep"
+                },
+                {
+                    "question": "What does the OECD study say about the expenditure on education?",
+                    "score": 0.8174,
+                    "answers": "according to an OECD study from|prep"
+                },
+                {
+                    "question": "What does elpais.com collect data from?",
+                    "score": 0.7669,
+                    "answers": "elpais.com reported on 19/04/2017 that The country allocates % of GDP to the public education system , according to an OECD study from   which collects data from|ROOT"
+                },
+                {
+                    "question": "What is the data collected from the OECD study?",
+                    "score": 0.7051,
+                    "answers": "which collects data from|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "It is one of the countries that devote most to this departure of all those that make up the body, ahead of Germany and Spain and very similar to that of France.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 19/04/2017 that It is one of the countries that devote most to this departure of all those that make up the body?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries spend most of their money on body parts?",
+                    "score": 0.7828,
+                    "answers": "all those that make up the body|pobj"
+                },
+                {
+                    "question": "What countries spend the most money on the repatriation of bodies?",
+                    "score": 0.7194,
+                    "answers": "one of the countries that devote most to this departure of all those that make up the body ,|attr\tthat devote most to this departure of all those that make up the body|relcl"
+                },
+                {
+                    "question": "What countries do the most to leave the body?",
+                    "score": 0.6492,
+                    "answers": "Germany and Spain|pobj"
+                },
+                {
+                    "question": "What countries devote most to the departure of all those that make up the body?",
+                    "score": 0.6324,
+                    "answers": "the countries that devote most to this departure of all those that make up the body|pobj"
+                },
+                {
+                    "question": "How many bodies do the countries of France and Spain spend on?",
+                    "score": 0.5909,
+                    "answers": "the body|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "But % is used to pay teachers' payrolls.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that But % is used to pay teachers' payrolls?",
+                    "answer": "19/04/2017"
+                },
+                {
+                    "question": "What percentage is used to pay teachers' payrolls?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is used to pay teachers' payrolls?",
+                    "score": 0.9074,
+                    "answers": "elpais.com reported on 19/04/2017 that But % is used to pay teachers ' payrolls|ROOT\ton 19/04/2017|prep\tthat|mark\tBut|cc\t%|nsubjpass\tis|auxpass\tto|aux\tto pay teachers ' payrolls|xcomp\tteachers '|poss\t'|case\tteachers ' payrolls|dobj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "id": "46_Security_178",
+    "claim": "Immortal Heroes in their version , will pass into history as the wrestling event where The Pattern did not appear. This, as expected, caused the anger of the audience who attended with the intention of seeing former WWE. The Potosino, for his part, waited a full day before justifying his failureAccording to the lawyer of the Patron Alberto, it's all because he was assaulted and wounded leaving a restaurant heading for the airport where he would take the plane to Monterrey. 'My client has instructed me to say that this is what happened ', sentenced the graduate Trastupijes, cousin and lawyer of the wrestler. But in his eternal search for the truth, El's special investigation team, was given the task of collecting more information, specifically regarding the identity of the aggressor, although no data was found in the police databases. That is why we came to the lawyer of the fighter, and after much insisting, and after the promise of a cheeseburger, he gave us, exclusively, the data of the aggressor: 'Whoever attacked the Patron was a type of fortified complexion, of approximately  meters of stature, with evident Israeli military training and knowledge in Chinese and Korean martial arts, in addition to full control of the Japanese sabre'. Faced with all this, he added, a world-class professional wrestler like Alberto el Patron, who has also practiced MMA,'was practically helpless, but was able to overcome himself, disarming the gigantic evildoer before the applause of the crowd gathered there'. The assailant managed to escape, but they are already looking for him: 'Apparently Stallone wants him for the Expandables  ', the lawyer concluded. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "04/10/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Immortal Heroes in version , will pass into history as the wrestling event where The Pattern did not appear.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the wrestling event where The Pattern did not appear?",
+                    "answer": "Immortal Heroes in version"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the history of wrestling events?",
+                    "score": 0.7769,
+                    "answers": "history|pobj"
+                },
+                {
+                    "question": "What is the name of the wrestling event that The Pattern did not appear in?",
+                    "score": 0.6976,
+                    "answers": "in version|prep\tversion|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This, as expected, caused the anger of the audience who attended with the intention of seeing former WWE.",
+            "question_answers": [
+                {
+                    "question": "What did this cause the audience to have?",
+                    "answer": "anger"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the audience that attended the former WWE event?",
+                    "score": 0.8199,
+                    "answers": "with the intention of seeing former WWE|prep\tthe intention of seeing former WWE|pobj\tseeing former WWE|pcomp\tformer WWE|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The Potosino , for part, waited a full day before justifying failureAccording to the lawyer of the Patron Alberto , it's all because The Potosino was assaulted and wounded leaving a restaurant heading for the airport where The Potosino would take the plane to Monterrey.",
+            "question_answers": [
+                {
+                    "question": "Who said The Potosino waited a full day before justifying failure?",
+                    "answer": "the lawyer of the Patron Alberto"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did The Potosino wait a full day for a plane to Monterrey?",
+                    "score": 0.8077,
+                    "answers": "for the airport where The Potosino would take the plane to Monterrey|prep\tthe airport where The Potosino would take the plane to Monterrey|pobj"
+                },
+                {
+                    "question": "Where did The Potosino take the plane to Monterrey?",
+                    "score": 0.7334,
+                    "answers": "where The Potosino would take the plane to Monterrey|relcl"
+                },
+                {
+                    "question": "What did the lawyer of the Patron Alberto say about The Potosino?",
+                    "score": 0.7048,
+                    "answers": "of the Patron Alberto|prep"
+                },
+                {
+                    "question": "Where was The Potosino when he was assaulted and wounded?",
+                    "score": 0.7011,
+                    "answers": "because The Potosino was assaulted and wounded leaving a restaurant heading for the airport where The Potosino would take the plane to Monterrey|advcl"
+                },
+                {
+                    "question": "How long did The Potosino wait to leave a restaurant heading for the airport?",
+                    "score": 0.7005,
+                    "answers": "on 04/10/2016|prep\tthat|mark\tThe|det\tThe Potosino|nsubj\t,|punct\tpart|pobj\t,|punct\tfull|amod\tjustifying|pcomp\tthe|det\tthe lawyer of the Patron Alberto|pobj\tthe|det\tPatron|compound\t,|punct\tit|nsubj\tall|dep\tbecause|mark\tThe|det\tThe Potosino|nsubjpass\twas|auxpass\tand|cc\tthe|det\tThe|det\tThe Potosino|nsubj\twould|aux\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'The Potosino has instructed the lawyer of the Patron Alberto to say that this is what happened ', sentenced the lawyer of the Patron Alberto .",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 04/10/2016?",
+                    "answer": "'The Potosino has instructed the lawyer of the Patron Alberto to say that this is what happened"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Potosino tell the lawyer of Alberto?",
+                    "score": 0.7461,
+                    "answers": "on 04/10/2016|prep\tto say that this is what happened|xcomp"
+                },
+                {
+                    "question": "What did The Potosino instruct the lawyer of the Patron Alberto to do?",
+                    "score": 0.7279,
+                    "answers": "www.eldizque.com reported on 04/10/2016 that ' The Potosino has instructed the lawyer of the Patron Alberto to say that this is what happened ' , sentenced the lawyer of the Patron Alberto|ROOT\tthat ' The Potosino has instructed the lawyer of the Patron Alberto to say that this is what happened ' , sentenced the lawyer of the Patron Alberto|ccomp\tthat this is what happened|ccomp\twhat happened|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Alberto's sentence?",
+                    "score": 0.6321,
+                    "answers": "www.eldizque.com|nsubj\twhat|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But in his eternal search for the truth, El's special investigation team, was given the task of collecting more information, specifically regarding the identity of the aggressor , although no data was found in the police databases.",
+            "question_answers": [
+                {
+                    "question": "What was El's special investigation team given the task of collecting more information about?",
+                    "answer": "identity of the aggressor"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did El's special investigation team do?",
+                    "score": 0.664,
+                    "answers": "in his eternal search for the truth|prep\tinvestigation|compound\tEl 's special investigation team|nsubjpass"
+                },
+                {
+                    "question": "Where was El's investigation team located?",
+                    "score": 0.6311,
+                    "answers": "in the police databases|prep\tthe police databases|pobj"
+                },
+                {
+                    "question": "What was the identity of the aggressor?",
+                    "score": 0.6134,
+                    "answers": "www.eldizque.com reported on 04/10/2016 that But in his eternal search for the truth , El 's special investigation team , was given the task of collecting more information , specifically regarding the identity of the aggressor , although no data was found in the police databases|ROOT\ton 04/10/2016|prep\tthat|mark\tBut|cc\this|poss\teternal|amod\tthe|det\tthe truth|pobj\t,|punct\tEl 's|poss\t's|case\tspecial|amod\t,|punct\twas|auxpass\tthat But in his eternal search for the truth , El 's special investigation team , was given the task of collecting more information , specifically regarding the identity of the aggressor , although no data was found in the police databases|ccomp\tthe|det\tmore|amod\tmore information , specifically regarding the identity of the aggressor|dobj\t,|punct\tspecifically|advmod\tspecifically regarding the identity of the aggressor|prep\tthe|det\tthe identity of the aggressor|pobj\tof the aggressor|prep\tthe|det\tthe aggressor|pobj\t,|punct\talthough|mark\tno|det\tno data|nsubjpass\twas|auxpass\talthough no data was found in the police databases|advcl\tthe|det\tpolice|compound"
+                },
+                {
+                    "question": "What was the purpose of El's special investigation team?",
+                    "score": 0.5775,
+                    "answers": "the task of collecting more information , specifically regarding the identity of the aggressor|dobj\tof collecting more information , specifically regarding the identity of the aggressor|prep"
+                },
+                {
+                    "question": "What is El's search for the truth?",
+                    "score": 0.5757,
+                    "answers": "his eternal search for the truth|pobj\tfor the truth|prep"
+                }
+            ]
+        },
+        {
+            "claim": "That is why we came to the lawyer of the Patron Alberto , and after much insisting, and after the promise of a cheeseburger, the lawyer of the Patron Alberto gave we , exclusively, the data of the aggressor : 'Whoever attacked The Potosino was a type of fortified complexion, of approximately  meters of stature, with evident Israeli military training and knowledge in Chinese and Korean martial arts, in addition to full control of the Japanese sabre'.",
+            "question_answers": [
+                {
+                    "question": "What did the lawyer of the Patron Alberto give us?",
+                    "answer": "the data of the aggressor"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What knowledge did the lawyer of the Patron Alberto have about Chinese martial arts?",
+                    "score": 0.8441,
+                    "answers": "knowledge in Chinese and Korean martial arts|conj"
+                },
+                {
+                    "question": "Who attacked the Potosino?",
+                    "score": 0.7795,
+                    "answers": "www.eldizque.com reported on 04/10/2016 that That is why we came to the lawyer of the Patron Alberto , and after much insisting , and after the promise of a cheeseburger , the lawyer of the Patron Alberto gave we , exclusively , the data of the aggressor : ' Whoever attacked The Potosino was a type of fortified complexion , of approximately   meters of stature , with evident Israeli military training and knowledge in Chinese and Korean martial arts , in addition to full control of the Japanese sabre '|ROOT\tthat|mark\twe|nsubj\tthe|det\tthe|det\t,|punct\tand|cc\tmuch|amod\t,|punct\tand|cc\tthe|det\t,|punct\tthe|det\tthe|det\twe|dative\t,|punct\texclusively|advmod\t,|punct\tthe|det\tthe|det\tWhoever|nsubj\tof fortified complexion|prep\tfortified|amod\tfortified complexion|pobj\t,|punct\t,|punct\tmilitary|amod\tand|cc\tand|cc\tmartial|amod\t,|punct\tfull|amod\tthe|det"
+                },
+                {
+                    "question": "Who attacked The Potosino?",
+                    "score": 0.7795,
+                    "answers": "after much insisting , and after the promise of a cheeseburger , the lawyer of the Patron Alberto gave we , exclusively , the data of the aggressor : ' Whoever attacked The Potosino was a type of fortified complexion , of approximately   meters of stature , with evident Israeli military training and knowledge in Chinese and Korean martial arts , in addition to full control of the Japanese sabre '|conj\tthe data of the aggressor : ' Whoever attacked The Potosino was a type of fortified complexion , of approximately|dobj\tWhoever attacked The Potosino|csubj\tThe|det\tThe Potosino|dobj\tWhoever attacked The Potosino was a type of fortified complexion , of approximately|acl\ta type of fortified complexion , of approximately|attr"
+                },
+                {
+                    "question": "What is the size of the lawyer who attacked The Potosino?",
+                    "score": 0.6982,
+                    "answers": "  meters of stature , with evident Israeli military training and knowledge in Chinese and Korean martial arts , in addition to full control of the Japanese sabre|dep\tmeters of stature , with evident Israeli military training and knowledge in Chinese and Korean martial arts , in addition to full control of the Japanese sabre|pobj"
+                },
+                {
+                    "question": "Who was the aggressor?",
+                    "score": 0.6122,
+                    "answers": "the aggressor|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Faced with all this, the lawyer of the Patron Alberto added, a world-class professional wrestler like The Potosino , who has also practiced MMA,'was practically helpless, but was able to overcome himself, disarming the gigantic evildoer before the applause of the crowd gathered there'.",
+            "question_answers": [
+                {
+                    "question": "Who was a world-class professional wrestler?",
+                    "answer": "The Potosino"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did The Potosino defeat the evildoer?",
+                    "score": 0.7798,
+                    "answers": "was able to overcome himself , disarming the gigantic evildoer before the applause of the crowd gathered there '|conj\table to overcome himself , disarming the gigantic evildoer before the applause of the crowd gathered there|acomp\tto overcome himself , disarming the gigantic evildoer before the applause of the crowd gathered there|xcomp"
+                },
+                {
+                    "question": "What did the lawyer of the Patron Alberto add to The Potosino's victory?",
+                    "score": 0.7227,
+                    "answers": "all this|pobj\tgathered there|acl"
+                },
+                {
+                    "question": "What did The Potosino do to stop the evildoer?",
+                    "score": 0.6905,
+                    "answers": "of the Patron|prep\tthat Faced with all this , the lawyer of the Patron Alberto added , a world - class professional wrestler like The Potosino , who has also practiced MMA,'was practically helpless , but was able to overcome himself , disarming the gigantic evildoer before the applause of the crowd gathered there '|parataxis\tThe|det\twho has also practiced|relcl\ta world - class professional wrestler like The Potosino , who has also practiced MMA,'was practically helpless ,|ccomp\tbefore the applause of the crowd gathered there|advcl"
+                },
+                {
+                    "question": "What is the name of the website that The Potosino is a professional wrestler?",
+                    "score": 0.6429,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "Who was The Potosino?",
+                    "score": 0.6142,
+                    "answers": "like The Potosino|prep\tthe gigantic evildoer|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The assailant managed to escape, but they are already looking for him: 'Apparently Stallone wants him for the Expandables  ', the lawyer concluded.",
+            "question_answers": [
+                {
+                    "question": "What did the lawyer say about the assailant?",
+                    "answer": "'Apparently Stallone wants him for the Expandables"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Stallone want to do with Stallone?",
+                    "score": 0.8727,
+                    "answers": "on 04/10/2016|prep"
+                },
+                {
+                    "question": "Who did Stallone want him for the Expandables?",
+                    "score": 0.8504,
+                    "answers": "for him|prep\thim|pobj\thim|dobj"
+                },
+                {
+                    "question": "What was the name of the assailant that tried to escape?",
+                    "score": 0.8295,
+                    "answers": "The assailant|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of Stallone wanting to escape?",
+                    "score": 0.8073,
+                    "answers": "www.eldizque.com|nsubj\tThe|det\tbut|cc\tthey|nsubj\tthe|det\tthe Expandables|pobj\tthe|det"
+                },
+                {
+                    "question": "What is Stallone's relationship with Stallone?",
+                    "score": 0.7978,
+                    "answers": "the lawyer|nsubj"
+                }
+            ]
+        }
+    ]
+}

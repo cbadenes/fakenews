@@ -1,0 +1,782 @@
+{
+    "id": "36_Society_104",
+    "claim": "The 'Lagarde list' reveals the existence of  people with bank accounts in SwitzerlandThe Greek investigative journalist Kostas Vaxevanis will go to trial for disclosing the so-called 'Lagarde list', which contains the names of  Greeks with bank accounts in Switzerland. In the relationship, whose authenticity the Athens Government refuses to confirm, there are at least three politicians - two of them from New Democracy, the party of the Prime Minister, the conservative Andonis Samarás - as account holders of the HSBC entity. Journalist will appear Monday in Athens court on charges of violating confidential data. Vaxevanis has been arrested this Sunday morning at a friend's home in Athens, amid a security display typical of a 'fascist militia ', as he himself recounted on his Twitter account. This Saturday, Hot Doc, the fortnightly magazine he directs, had published on the cover an exclusive under the headline'All the Names of the 'Lagarde List\". History comes from afar. In the autumn of  – six months after the first rescue to Greece – then French Minister of Economy, Christine Lagarde, handed over to her Greek counterpart, Yorgos Papaconstantinu, a list with  names of citizens with accounts in Switzerland as documentary proof of the long-standing habit of evading taxes by Greek professionals and entrepreneurs. The fight against tax fraud was one of the banners of the government of socialist Yorgos Papandreou, in addition to a clamorous demand on the part of international lenders, the troika formed by the European Commission, the European Central Bank and the International Monetary Fund (the latter currently led by Lagarde). But the 'Lagarde list' apparently fell into oblivion and did not surface until the beginning of this month, when the successor of Papaconstantu to the head of the portfolio of Economy and today leader of a drifting party, the also socialist Evanguelos Venizelos, handed it over to the authorities. Both of them stated that they did not know the whereabouts of the data, but they went into contradictory versions, according to Hot Doc journalist Mijalis Samozraki on the phone: 'In recent months there has been much controversy about the matter. Papaconstantinu and Venizelos were summoned by an extraordinary parliamentary commission, but they deviated from what they had said before: one, who did not know where [the list] was; another, who could not use it because it was confidential.. They were changing their excuses. But Greek society felt deceived, felt that it was being teased ', says Samozraki, who denounces the arrest of his colleague as 'an act of total censorship '. Sources of the magazine claim that they received a copy of the 'Lagarde list' anonymously and Vaxevanis himself claimed his obligation to disclose it, despite the threat of judicial action: 'I have done nothing other than what a journalist is obliged to do: reveal the truth that some were hiding ', says in a video sent to Reuters.'If there is someone prosecuted ex officio are the ministers who hid the list, 'lost' it and said it did not exist. I just did my job. I'm a journalist and that's my job.\". The list published by Hot Doc includes the names of at least three politicians, including two former ministers of New Democracy – one of them has already died – and a current advisor from Samaras. Former Minister Yorgos Vulgarakis has denied having money in Switzerland, despite being listed. Since the last hour of this Saturday was known the arrest warrant issued against Vaxevanis by the prosecution, the investigative journalist, who uncovered the Vatopedi case - one of the biggest corruption scandals in the last five years - and also encourages the news website koutipanadoras. gr (Pandora's Box), narrated the police harassment and detention he was subjected to via Twitter.'They enter the house [policemen] with a prosecutor. They're stopping me. Spread the word ', he wrote early this Sunday morning. Images of the exterior of the building where it was located showed a police cordon of greater efforts, in the midst of a climate of social unrest marked by a new batch of cuts – to be voted on Wednesday in Parliament – and the excessive police zeal against undocumented immigrants ( arrested in Athens on Friday, in the framework of an operation in progress since the end of August). This Sunday the country also celebrated one of its most important dates, the Day of No, a day of patriotic exaltation that commemorates the rejection of the ultimatum of surrender by the Italy of Mussolini, but that on this occasion, and in the midst of an unprecedented deployment of security, became numerous cities in show of anti-fascist resistance against the abuses of the extreme right. In such a breeding ground, with an increasingly visible social fracture, the revelation of the list of suspected evaders, and the consequent finding that the authorities have looked the other way for two years, have contributed to fueling discontent. I'm sorry.",
+    "source": "elpais.com",
+    "date": "28/10/2012",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The 'Lagarde list' the 'Lagarde list' the existence of  people with bank accounts Vaxevanis himself SwitzerlandThe Greek investigative journalist Kostas Vaxevanis the list Papaconstantu to the head of the portfolio of Economy and today leader of a drifting party, the also socialist Evanguelos Venizelos Vaxevanis himself the head of the portfolio of Economy and today leader of a drifting party, the also socialist Evanguelos Venizelos .",
+            "question_answers": [
+                {
+                    "question": "Who is the socialist Vaxevanis himself the head of the portfolio of Economy and today leader of a drifting party?",
+                    "answer": "Evanguelos Venizelos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What bank accounts does Vaxevanis have?",
+                    "score": 0.738,
+                    "answers": "with bank accounts|prep"
+                },
+                {
+                    "question": "What political party does Vaxevanis belong to?",
+                    "score": 0.6781,
+                    "answers": "today leader of a drifting party , the also socialist|conj"
+                },
+                {
+                    "question": "What did Vaxevanis do with bank accounts?",
+                    "score": 0.673,
+                    "answers": "investigative|amod"
+                },
+                {
+                    "question": "What does the \"Lagarde list\" list include?",
+                    "score": 0.6603,
+                    "answers": "the also socialist|conj\tthe also socialist|amod\tthe also socialist Evanguelos Venizelos|appos"
+                },
+                {
+                    "question": "How many people have bank accounts with Vaxevanis?",
+                    "score": 0.6239,
+                    "answers": "SwitzerlandThe|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "I refuses to confirm, there are the 'Lagarde list' at least three politicians Both of them - two of at least three politicians from New Democracy, the party of the Prime Minister, the conservative Andonis Samarás - as account holders of the HSBC entity.",
+            "question_answers": [
+                {
+                    "question": "Who is the conservative politician on the 'Lagarde list'?",
+                    "answer": "Andonis Samarás"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many politicians are on the \"Lagarde list\"?",
+                    "score": 0.5824,
+                    "answers": "Both of them - two of at least three politicians from New Democracy , the party of the Prime Minister , the conservative Andonis Samarás -|appos"
+                },
+                {
+                    "question": "Who are the three politicians from New Democracy who are account holders of the bank?",
+                    "score": 0.571,
+                    "answers": "account holders of the HSBC entity|pobj"
+                },
+                {
+                    "question": "What is Andonis Samaras' political affiliation?",
+                    "score": 0.5416,
+                    "answers": "conservative|amod"
+                },
+                {
+                    "question": "Who is Andonis Samaras?",
+                    "score": 0.5151,
+                    "answers": "Andonis|compound\tthe conservative Andonis Samarás|appos"
+                },
+                {
+                    "question": "What is the relationship between Andonis Samaras and Andonis Adamas?",
+                    "score": 0.5144,
+                    "answers": "as account holders of the HSBC entity|prep"
+                }
+            ]
+        },
+        {
+            "claim": "SwitzerlandThe Greek investigative journalist Kostas Vaxevanis will Both of them the list Both of them on charges of violating confidential data.",
+            "question_answers": [
+                {
+                    "question": "Who is the Greek investigative journalist?",
+                    "answer": "Kostas Vaxevanis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Kostas Vaxevanis accused of?",
+                    "score": 0.738,
+                    "answers": "on charges of violating confidential data|prep"
+                },
+                {
+                    "question": "What did Kostas Vaxevanis do to violate confidential data?",
+                    "score": 0.7233,
+                    "answers": "SwitzerlandThe|det\tinvestigative|amod\tBoth of them|dep\tof them|prep\tBoth of them|dobj\tof them|prep\tviolating confidential data|pcomp\tconfidential data|dobj"
+                },
+                {
+                    "question": "What is Kostas Vaxevanis accused of violating confidential data?",
+                    "score": 0.6901,
+                    "answers": "that SwitzerlandThe Greek investigative journalist Kostas Vaxevanis will Both of them the list Both of them on charges of violating confidential data|dobj\twill|appos"
+                },
+                {
+                    "question": "What are the charges against Kostas Vaxevanis for violating confidential data?",
+                    "score": 0.6511,
+                    "answers": "of violating confidential data|prep"
+                },
+                {
+                    "question": "Who is Kostas Vaxevanis?",
+                    "score": 0.5727,
+                    "answers": "Kostas|compound"
+                }
+            ]
+        },
+        {
+            "claim": "SwitzerlandThe Greek investigative journalist Kostas Vaxevanis has been arrested this Sunday morning at a friend's home in Athens , amid a security the 'Lagarde list' of a 'fascist militia ', as the 'Lagarde list' SwitzerlandThe Greek investigative journalist Kostas Vaxevanis the 'Lagarde list' on Twitter account.",
+            "question_answers": [
+                {
+                    "question": "Where was Kostas Vaxevanis arrested?",
+                    "answer": "at a friend's home in Athens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Kostas Vaxevanis arrested?",
+                    "score": 0.7644,
+                    "answers": "Sunday|compound"
+                },
+                {
+                    "question": "What did Kostas Vaxevanis do to be arrested?",
+                    "score": 0.6954,
+                    "answers": "been|auxpass"
+                },
+                {
+                    "question": "What does the \"Lagarde list\" list include?",
+                    "score": 0.6433,
+                    "answers": "has|aux"
+                },
+                {
+                    "question": "What is Kostas Vaxevanis's political affiliation?",
+                    "score": 0.622,
+                    "answers": "fascist|amod"
+                },
+                {
+                    "question": "What is Kostas Vaxevanis on the Lagarde list?",
+                    "score": 0.609,
+                    "answers": "elpais.com reported on 28/10/2012 that SwitzerlandThe Greek investigative journalist Kostas Vaxevanis has been arrested this Sunday morning at a friend 's home in Athens , amid a security the ' Lagarde list ' of a ' fascist militia ' , as the ' Lagarde list ' SwitzerlandThe Greek investigative journalist Kostas Vaxevanis the ' Lagarde list ' on Twitter account|ROOT\tthat SwitzerlandThe Greek investigative journalist Kostas Vaxevanis has been arrested this Sunday morning at a friend 's home in Athens , amid a security the ' Lagarde list ' of a ' fascist militia ' , as the ' Lagarde list ' SwitzerlandThe Greek investigative journalist Kostas Vaxevanis the ' Lagarde list ' on Twitter account|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "This Saturday, Hot Docthe list the Greek society magazine SwitzerlandThe Greek investigative journalist Kostas Vaxevanis directs, had two former ministers of New Democracy – one of them has already died on the cover an exclusive Samozraki, who denounces the arrest of his colleague as 'an act of total censorship ' the list Samozraki, who denounces the arrest of his colleague as 'an act of total censorship ' .",
+            "question_answers": [
+                {
+                    "question": "What did Samozraki denounce the arrest of his colleague as an act of?",
+                    "answer": "total censorship"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Samozraki denounce the arrest of his colleague as an act of total censorship?",
+                    "score": 0.7863,
+                    "answers": "that This Saturday , Hot Docthe list the Greek society magazine SwitzerlandThe Greek investigative journalist Kostas Vaxevanis directs , had two former ministers of New Democracy – one of them has already died on the cover an exclusive Samozraki , who denounces the arrest of his colleague as ' an act of total censorship ' the list Samozraki , who denounces the arrest of his colleague as ' an act of total censorship '|ccomp\ttwo former ministers of New Democracy – one of them has already died on the cover an exclusive Samozraki , who denounces the arrest of his colleague as ' an act of total censorship ' the list Samozraki , who denounces the arrest of his colleague as ' an act of total censorship '|dobj\tone of them has already died on the cover an exclusive Samozraki , who denounces the arrest of his colleague as ' an act of total censorship ' the list Samozraki , who denounces the arrest of his colleague as ' an act of total censorship '|relcl\tan exclusive Samozraki , who denounces the arrest of his colleague as ' an act of total censorship ' the list Samozraki , who denounces the arrest of his colleague as ' an act of total censorship '|dobj\tthe arrest of his colleague|dobj\tthe list Samozraki , who denounces the arrest of his colleague as ' an act of total censorship '|appos\tthe arrest of his colleague|dobj"
+                },
+                {
+                    "question": "Who directed Hot Docthe list the Greek investigative journalist Kostas Vaxevanis?",
+                    "score": 0.7177,
+                    "answers": "Greek investigative journalist Kostas Vaxevanis directs|parataxis"
+                },
+                {
+                    "question": "What is the name of the Greek society magazine Switzerland?",
+                    "score": 0.5829,
+                    "answers": "the Greek society magazine SwitzerlandThe Greek investigative journalist Kostas Vaxevanis directs|appos"
+                },
+                {
+                    "question": "Who is Kostas Vaxevanis?",
+                    "score": 0.5697,
+                    "answers": "Hot Docthe list the Greek society magazine SwitzerlandThe Greek investigative journalist Kostas Vaxevanis directs ,|nsubj\tSwitzerlandThe Greek investigative journalist Kostas Vaxevanis directs|appos\tKostas|compound"
+                },
+                {
+                    "question": "What is the relationship between Kostas Vaxevanis and Samozraki?",
+                    "score": 0.56,
+                    "answers": "investigative|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Samozraki, who denounces the arrest of his colleague as 'an act of total censorship ' .",
+            "question_answers": [
+                {
+                    "question": "What did Samozraki call the arrest of his colleague?",
+                    "answer": "total censorship"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Samozraki denounces the arrest of his colleague as an act of total censorship?",
+                    "score": 0.7833,
+                    "answers": "elpais.com reported on 28/10/2012 that Samozraki , who denounces the arrest of his colleague as ' an act of total censorship '|ROOT"
+                },
+                {
+                    "question": "What did Samozraki say about arresting his colleague?",
+                    "score": 0.738,
+                    "answers": "as ' an act of total censorship|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Sources of the magazine six months after the first rescue to the 'Lagarde list' Lagarde Lagarde Lagarde , Lagarde over to Greek counterpart, Yorgos Papaconstantinu, a list with  names of citizens with accounts in Switzerland as documentary proof of the long-standing habit of evading taxes by Greek professionals and entrepreneurs.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is Lagarde Lagarde's history of evading taxes by Greek professionals and entrepreneurs?",
+                    "score": 0.6194,
+                    "answers": "Lagarde Lagarde Lagarde ,|appos"
+                },
+                {
+                    "question": "What is the relationship between Lagarde Lagarde and Lagarde?",
+                    "score": 0.5983,
+                    "answers": "long|advmod"
+                },
+                {
+                    "question": "What is the name of the list Lagarde Lagarde gave to Yorgos Papaconstantinu?",
+                    "score": 0.5816,
+                    "answers": "six months after the first rescue to the ' Lagarde list ' Lagarde Lagarde Lagarde , Lagarde over to Greek counterpart , Yorgos Papaconstantinu , a list with|appos"
+                },
+                {
+                    "question": "What is Yorgos Papaconstantinu's history of evading taxes?",
+                    "score": 0.5642,
+                    "answers": "as documentary proof of the long - standing habit of evading taxes by Greek professionals and entrepreneurs|prep\tdocumentary proof of the long - standing habit of evading taxes by Greek professionals and entrepreneurs|pobj\tof the long - standing habit of evading taxes by Greek professionals and entrepreneurs|prep\tof evading taxes|prep\tevading taxes|pcomp"
+                },
+                {
+                    "question": "What is the Lagarde list?",
+                    "score": 0.547,
+                    "answers": "six months after the first rescue to the ' Lagarde list ' Lagarde Lagarde Lagarde , Lagarde over to Greek counterpart , Yorgos Papaconstantinu|prep\tto the ' Lagarde list '|prep\tthe ' Lagarde list '|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The fight against tax fraud was one of the banners of the government of socialist Yorgos Papandreou, in addition to a clamorous demand on the part of international lenders, the troika formed by the European Commission, the European Central Bank and the International Monetary Fund (the International Monetary Fund currently led by Lagarde ).",
+            "question_answers": [
+                {
+                    "question": "Who leads the International Monetary Fund?",
+                    "answer": "Lagarde"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Yorgos Papandreou say about tax fraud?",
+                    "score": 0.809,
+                    "answers": "elpais.com reported on 28/10/2012 that The fight against tax fraud was one of the banners of the government of socialist Yorgos Papandreou , in addition to a clamorous demand on the part of international lenders , the troika formed by the European Commission , the European Central Bank and the International Monetary Fund ( the International Monetary Fund currently led by Lagarde )|ROOT\ttax fraud|pobj"
+                },
+                {
+                    "question": "What demand did Yorgos Papandreou make on the part of international lenders?",
+                    "score": 0.7934,
+                    "answers": "clamorous|amod"
+                },
+                {
+                    "question": "What was Yorgos Papandreou's stance on tax fraud?",
+                    "score": 0.7455,
+                    "answers": "socialist|compound"
+                },
+                {
+                    "question": "What did Lagarde say about Yorgos Papandreou?",
+                    "score": 0.6995,
+                    "answers": "by Lagarde|agent"
+                },
+                {
+                    "question": "What was the name of Yorgos Papandreou's campaign against tax fraud?",
+                    "score": 0.6985,
+                    "answers": "that The fight against tax fraud was one of the banners of the government of socialist Yorgos Papandreou|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "But the 'Lagarde list' apparently fell into oblivion and did not surface until the beginning of this month, when the successor of Papaconstantu to the head of the portfolio of Economy and today leader of a drifting party, the also socialist Evanguelos Venizelos, handed it over to the authorities.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Lagarde list fell into oblivion?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What party did Evanguelos Venizelos lead?",
+                    "score": 0.6461,
+                    "answers": "today leader of a drifting party|conj\tof a drifting party|prep\ta drifting party|pobj"
+                },
+                {
+                    "question": "When did the Lagarde list fall into oblivion?",
+                    "score": 0.6361,
+                    "answers": "elpais.com reported on 28/10/2012 that But the ' Lagarde list ' apparently fell into oblivion and did not surface until the beginning of this month , when the successor of Papaconstantu to the head of the portfolio of Economy and today leader of a drifting party , the also socialist Evanguelos Venizelos , handed it over to the authorities|ROOT\ton 28/10/2012|prep\tthat|mark\tBut|cc\tthe|det\t'|punct\t'|punct\tapparently|advmod\tthat But the ' Lagarde list ' apparently fell into oblivion and did not surface until the beginning of this month , when the successor of Papaconstantu to the head of the portfolio of Economy and today leader of a drifting party , the also socialist Evanguelos Venizelos , handed it over to the authorities|ccomp\toblivion|pobj\tand|cc\tdid|aux\tnot|neg\tdid not surface until the beginning of this month , when the successor of Papaconstantu to the head of the portfolio of Economy and today leader of a drifting party , the also socialist Evanguelos Venizelos , handed it over to the authorities|conj\tuntil the beginning of this month , when the successor of Papaconstantu to the head of the portfolio of Economy and today leader of a drifting party , the also socialist Evanguelos Venizelos , handed it over to the authorities|prep\tthe|det\tthe beginning of this month , when the successor of Papaconstantu to the head of the portfolio of Economy and today leader of a drifting party , the also socialist Evanguelos Venizelos , handed it over to the authorities|pobj\tof this month ,|prep\tthis|det\tthis month ,|pobj\t,|punct\twhen|advmod\tthe|det\tthe|det\tthe|det\tof Economy|prep\tand|cc\ta|det\t,|punct\tthe|det\talso|advmod\t,|punct\tit|dobj\tover|prt\tthe|det"
+                },
+                {
+                    "question": "Who did the successor of Papaconstantu hand over the portfolio of economy to?",
+                    "score": 0.6269,
+                    "answers": "the authorities|pobj"
+                },
+                {
+                    "question": "What did Evanguelos Venizelos do to the authorities?",
+                    "score": 0.5491,
+                    "answers": "to the authorities|prep"
+                },
+                {
+                    "question": "What was the purpose of the Lagarde list?",
+                    "score": 0.5196,
+                    "answers": "the portfolio of Economy|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Both of them stated that they did not know the whereabouts of the data, but they went into contradictory versions, according to Hot Doc journalist Mijalis Samozraki on the phone: 'In recent months there has been much controversy about the matter.",
+            "question_answers": [
+                {
+                    "question": "Who was a Hot Doc journalist?",
+                    "answer": "Mijalis Samozraki"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mijalis Samozraki say about the missing data?",
+                    "score": 0.6434,
+                    "answers": "did|aux\tthat they did not know the whereabouts of the data , but they went into contradictory versions , according to Hot Doc journalist Mijalis Samozraki on the phone|ccomp\trecent|amod\tmuch|amod"
+                },
+                {
+                    "question": "How many versions of the data were there?",
+                    "score": 0.6223,
+                    "answers": "into contradictory versions|prep"
+                },
+                {
+                    "question": "What is the evidence of the whereabouts of the data?",
+                    "score": 0.5639,
+                    "answers": "elpais.com reported on 28/10/2012 that Both of them stated that they did not know the whereabouts of the data , but they went into contradictory versions , according to Hot Doc journalist Mijalis Samozraki on the phone|ccomp\tthe whereabouts of the data|dobj\tcontradictory versions|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the location of the data that Mijalis Samozraki collected?",
+                    "score": 0.5416,
+                    "answers": "the phone|pobj"
+                },
+                {
+                    "question": "What was the relationship between Mijalis Samozraki and the Hot Doc journalist?",
+                    "score": 0.5201,
+                    "answers": "that Both of them stated that they did not know the whereabouts of the data , but they went into contradictory versions , according to Hot Doc journalist Mijalis Samozraki on the phone|ccomp\tthey went into contradictory versions , according to Hot Doc journalist Mijalis Samozraki on the phone|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Papaconstantinu and Venizelos were summoned by an extraordinary parliamentary commission, but they deviated from what they had said before: one, who did not know where [the list] was; another, who could not use it because it was confidential.. They were changing their excuses.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Papaconstantinu and Venizelos were summoned by an extraordinary parliamentary commission?",
+                    "answer": "elpais.com"
+                },
+                {
+                    "question": "What happened to Papaconstantinu and Venizelos when they were summoned by an extraordinary parliamentary commission?",
+                    "answer": "They were changing their excuses"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why were Papaconstantinu and Venizelos being summoned by an extraordinary parliamentary commission?",
+                    "score": 0.8285,
+                    "answers": "because|mark"
+                },
+                {
+                    "question": "Did Papaconstantinu and Venizelos use the secret list?",
+                    "score": 0.8214,
+                    "answers": "elpais.com reported on 28/10/2012 that Papaconstantinu and Venizelos were summoned by an extraordinary parliamentary commission , but they deviated from what they had said before : one , who did not know where [ the list ] was ; another , who could not use it because it was confidential ..|ROOT"
+                },
+                {
+                    "question": "What did Papaconstantinu and Venizelos say about the election?",
+                    "score": 0.7091,
+                    "answers": "that Papaconstantinu and Venizelos were summoned by an extraordinary parliamentary commission , but they deviated from what they had said before : one , who did not know where [ the list ] was ; another , who could not use it because it was confidential|ccomp\twhat they had said before|pcomp\tThey were changing their excuses|ROOT"
+                },
+                {
+                    "question": "What was the purpose of the election of Papaconstantinu and Venizelos?",
+                    "score": 0.6171,
+                    "answers": "by an extraordinary parliamentary commission|agent\tan extraordinary parliamentary commission|pobj"
+                },
+                {
+                    "question": "What was the relationship between Papaconstantinu and Venizelos?",
+                    "score": 0.5899,
+                    "answers": "that|mark\tand|cc\twere|auxpass\t,|punct\tbut|cc\tthey|nsubj\tthey deviated from what they had said before : one , who did not know where [ the list ] was ; another , who could not use it because it was confidential|conj\twhat|dobj\tthey|nsubj\thad|aux\tbefore|advmod\t:|punct\tone ,|meta\t,|punct\twho|nsubj\tdid|aux\tnot|neg\twhere|advmod\t[|punct\tthe|det\t]|punct\t;|punct\tanother|meta\t,|punct\twho|nsubj\tcould|aux\tnot|neg\tone , who did not know where [ the list ] was ; another , who could not use it because it was confidential|advcl\tit|dobj\tit|nsubj\tbecause it was confidential|advcl\tconfidential|acomp\t..|punct\tThey|nsubj\twere|aux\ttheir|poss"
+                }
+            ]
+        },
+        {
+            "claim": "But Greek society felt deceived, felt that it was being teased ', says Samozraki, who denounces the arrest of his colleague as 'an act of total censorship '.",
+            "question_answers": [
+                {
+                    "question": "What did Samozraki call the arrest of his colleague?",
+                    "answer": "total censorship"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Samozraki denounce the arrest of his colleague as an act of total censorship?",
+                    "score": 0.8561,
+                    "answers": "elpais.com reported on 28/10/2012 that But Greek society felt deceived , felt that it was being teased ' , says Samozraki , who denounces the arrest of his colleague as ' an act of total censorship '|ROOT"
+                },
+                {
+                    "question": "What did Samozraki say about his colleague being arrested?",
+                    "score": 0.7538,
+                    "answers": "his colleague|pobj"
+                },
+                {
+                    "question": "What was the relationship between Samozraki and the Greek society?",
+                    "score": 0.6373,
+                    "answers": "elpais.com reported on 28/10/2012 that But Greek society felt deceived , felt that it was being teased|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Sources of the magazine claim that they received a copy of the 'Lagarde list' anonymously and Vaxevanis himself claimed his obligation to disclose it, despite the threat of judicial action: 'I have done nothing other than what a journalist is obliged to do: reveal the truth that some were hiding ', says in a video sent to Reuters.",
+            "question_answers": [
+                {
+                    "question": "What did Vaxevanis say he was obliged to do?",
+                    "answer": "reveal the truth that some were hiding"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Vaxevanis get a copy of the Lagarde list?",
+                    "score": 0.8254,
+                    "answers": "that they received a copy of the ' Lagarde list ' anonymously and Vaxevanis himself claimed his obligation to disclose it , despite the threat of judicial action|ccomp"
+                },
+                {
+                    "question": "What did Vaxevanis say about the leaked list?",
+                    "score": 0.7402,
+                    "answers": "that|mark\tSources of the magazine|nsubj\tof the magazine|prep\tthe|det\tthe magazine|pobj\tthat|mark\tthey|nsubj\ta|det\tthe|det\t'|punct\t'|punct\tanonymously|advmod\tand|cc\tVaxevanis himself|nsubj\thimself|appos\this|poss\this obligation to disclose it|dobj\tto|aux\tto disclose it|acl\tit|dobj\t,|punct\tdespite the threat of judicial action|prep\tthe|det\tthe threat of judicial action|pobj\t:|punct\t'|punct\tI|nsubj\thave|aux\tI have done nothing other than a journalist is obliged what to do : reveal the truth that some were hiding|ccomp\tnothing other than a journalist is obliged what to do : reveal the truth that some were hiding|dobj\tthan a journalist is obliged what to do : reveal the truth that some were hiding|prep\twhat|dobj\ta|det\tis|auxpass\ta journalist is obliged what to do|pcomp\tto|aux\twhat to do|xcomp\t:|punct\tthe|det\tthe truth that some were hiding|dobj\tthat|dobj\tsome|nsubj\twere|aux\tthat some were hiding|relcl\t'|punct\t,|punct\ta|det\tto Reuters|dative"
+                },
+                {
+                    "question": "What did Vaxevanis threaten to do?",
+                    "score": 0.673,
+                    "answers": "of judicial action|prep\tjudicial|amod\tjudicial action|pobj"
+                },
+                {
+                    "question": "What is the Lagarde list?",
+                    "score": 0.5848,
+                    "answers": "the ' Lagarde list '|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'If there is someone prosecuted ex officio are the ministers who hid the list, 'lost' it and said it did not exist.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 28/10/2012 that 'If there is someone prosecuted ex officio are the ministers who hid the list, 'lost' it and said it did not exist?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the ministers do with the list?",
+                    "score": 0.7816,
+                    "answers": "lost ' it and said it did not exist|conj"
+                },
+                {
+                    "question": "What was the name of the ministers that hid the list, lost it and said it did not exist?",
+                    "score": 0.6215,
+                    "answers": "the list|dobj"
+                },
+                {
+                    "question": "What is the definition of ex officio?",
+                    "score": 0.6165,
+                    "answers": "officio|dep"
+                }
+            ]
+        },
+        {
+            "claim": "I just did my job.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that I did my job?",
+                    "answer": "28/10/2012"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Scott Walker's job?",
+                    "score": 0.6424,
+                    "answers": "that|mark\tI|nsubj\tjust|advmod\tmy|poss\tmy job|dobj"
+                },
+                {
+                    "question": "What is the name of the website that posted the story of the job?",
+                    "score": 0.5609,
+                    "answers": "that I just did my job|ccomp"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4896,
+                    "answers": "elpais.com reported on 28/10/2012 that I just did my job|ROOT\ton 28/10/2012|prep"
+                }
+            ]
+        },
+        {
+            "claim": "I'm a journalist and that's my job.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 28/10/2012 that I'm a journalist?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the job of a journalist?",
+                    "score": 0.7203,
+                    "answers": "elpais.com reported on 28/10/2012 that I 'm a journalist and that 's my job|ROOT\ton 28/10/2012|prep\tthat|mark\tI|nsubj\tthat I 'm a journalist and that 's my job|ccomp\ta|det\ta journalist|attr\tand|cc\tthat|nsubj\tthat 's my job|conj\tmy|poss\tmy job|attr"
+                }
+            ]
+        },
+        {
+            "claim": "The list published by Hot Doc includes the names of at least three politicians, including two former ministers of New Democracy – one of them has already died – and a current advisor from Samaras.",
+            "question_answers": [
+                {
+                    "question": "Who are the names of the politicians on the Hot Doc list?",
+                    "answer": "two former ministers of New Democracy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many former ministers of New Democracy have died?",
+                    "score": 0.6332,
+                    "answers": "that The list published by Hot Doc includes the names of at least three politicians , including two former ministers of New Democracy – one of them has already died – and a current advisor from Samaras|ccomp\tthe names of at least three politicians , including two former ministers of New Democracy – one of them has already died – and a current advisor from Samaras|dobj\tof at least three politicians , including two former ministers of New Democracy – one of them has already died – and a current advisor from Samaras|prep\tat least|advmod\tat least three politicians , including two former ministers of New Democracy – one of them has already died – and a current advisor from Samaras|pobj\tincluding two former ministers of New Democracy – one of them has already died – and a current advisor from Samaras|prep\tformer|amod\ttwo former ministers of New Democracy – one of them has already died – and a current advisor from Samaras|pobj\tof New Democracy|prep\talready|advmod"
+                },
+                {
+                    "question": "What is the name of the list published by Hot Doc?",
+                    "score": 0.528,
+                    "answers": "The list published by Hot Doc|nsubj"
+                },
+                {
+                    "question": "Who is the current advisor from Samaras?",
+                    "score": 0.5237,
+                    "answers": "elpais.com reported on 28/10/2012 that The list published by Hot Doc includes the names of at least three politicians , including two former ministers of New Democracy – one of them has already died – and a current advisor from Samaras|ROOT\ton 28/10/2012|prep\tNew|compound\t–|punct\t–|punct\tand|cc\ta|det\tcurrent|amod\ta current advisor from Samaras|conj\tfrom Samaras|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Former Minister Yorgos Vulgarakis has denied having money in Switzerland, despite being listed.",
+            "question_answers": [
+                {
+                    "question": "Who denied having money in Switzerland?",
+                    "answer": "Yorgos Vulgarakis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money has Yorgos Vulgarakis received from Switzerland?",
+                    "score": 0.819,
+                    "answers": "money|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Yorgos Vulgarakis having money in Switzerland?",
+                    "score": 0.7407,
+                    "answers": "having money in Switzerland|xcomp"
+                },
+                {
+                    "question": "Where is Yorgos Vulgarakis from?",
+                    "score": 0.7128,
+                    "answers": "that Former Minister Yorgos Vulgarakis has denied having money in Switzerland , despite being listed|ccomp\tin Switzerland|prep"
+                },
+                {
+                    "question": "Who is Yorgos Vulgarakis?",
+                    "score": 0.6447,
+                    "answers": "elpais.com reported on 28/10/2012 that Former Minister Yorgos Vulgarakis has denied having money in Switzerland , despite being listed|ROOT\ton 28/10/2012|prep\tFormer Minister|compound\tYorgos|compound\tFormer Minister Yorgos Vulgarakis|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Yorgos Vulgarakis and Switzerland?",
+                    "score": 0.6007,
+                    "answers": "that|mark\tFormer|amod\thas|aux\tdespite being listed|prep\tbeing|auxpass\tbeing listed|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Since the last hour of this Saturday was known the arrest warrant issued against Vaxevanis by the prosecution, the investigative journalist, who uncovered the Vatopedi case - one of the biggest corruption scandals in the last five years - and also encourages the news website koutipanadoras.",
+            "question_answers": [
+                {
+                    "question": "What was the Vatopedi case?",
+                    "answer": "one of the biggest corruption scandals in the last five years"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Vaxevanis arrested?",
+                    "score": 0.7209,
+                    "answers": "the last hour of this Saturday|pobj"
+                },
+                {
+                    "question": "What type of corruption did Vaxevanis commit?",
+                    "score": 0.6861,
+                    "answers": "corruption|compound"
+                },
+                {
+                    "question": "Who uncovered the Vatopedi case?",
+                    "score": 0.6667,
+                    "answers": "investigative|amod\twho uncovered the Vatopedi case - one of the biggest corruption scandals in the last five years - and also encourages the news website koutipanadoras|relcl\tthe Vatopedi case - one of the biggest corruption scandals in the last five years -|dobj"
+                },
+                {
+                    "question": "What did Vaxevanis do with the Vatopedi case?",
+                    "score": 0.6308,
+                    "answers": "elpais.com reported on 28/10/2012 that Since the last hour of this Saturday was known the arrest warrant issued against Vaxevanis by the prosecution , the investigative journalist , who uncovered the Vatopedi case - one of the biggest corruption scandals in the last five years - and also encourages the news website koutipanadoras|ROOT\tthe prosecution , the investigative journalist , who uncovered the Vatopedi case - one of the biggest corruption scandals in the last five years - and also encourages the news website koutipanadoras|pobj\tthe investigative journalist|appos\twho|nsubj\t-|punct\tfive|nummod\t-|punct\tand|cc"
+                },
+                {
+                    "question": "What did the prosecution say about Vaxevanis?",
+                    "score": 0.591,
+                    "answers": "last|amod\tlast|amod"
+                }
+            ]
+        },
+        {
+            "claim": "gr (Pandora's Box), narrated the police harassment and detention he was subjected to via Twitter.",
+            "question_answers": [
+                {
+                    "question": "Who reported that gr (Pandora's Box) narrated the police harassment and detention?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the \"Pandora's Box\"?",
+                    "score": 0.4961,
+                    "answers": "that gr ( Pandora 's Box ) , narrated the police harassment and detention he was subjected to via Twitter|ccomp"
+                },
+                {
+                    "question": "What is the name of the Pandora's Box?",
+                    "score": 0.4826,
+                    "answers": "Pandora 's Box|appos"
+                },
+                {
+                    "question": "What was the relationship between the police harassment and detention he was subjected to via Twitter?",
+                    "score": 0.4792,
+                    "answers": "the police harassment and detention he was subjected to|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'They enter the house [policemen] with a prosecutor.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that police entered the house?",
+                    "answer": "28/10/2012"
+                },
+                {
+                    "question": "Who does elpais.com report that the police enter the house with?",
+                    "answer": "a prosecutor"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between a prosecutor and a prosecutor?",
+                    "score": 0.6559,
+                    "answers": "with a prosecutor|prep\ta prosecutor|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Spread the word ', he wrote early this Sunday morning.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 28/10/2012?",
+                    "answer": "Spread the word"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who spread the word 'lpais' on Sunday morning?",
+                    "score": 0.7124,
+                    "answers": "that|mark\tSpread the word|advcl\tthe|det\t'|punct\t,|punct\the|nsubj\tthat Spread the word ' , he wrote early this Sunday morning|ccomp\tthis|det"
+                },
+                {
+                    "question": "What does elpais.com say about the word spread?",
+                    "score": 0.5669,
+                    "answers": "on 28/10/2012|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the word 'lpais' spread?",
+                    "score": 0.5388,
+                    "answers": "the word|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Images of the exterior of the building where it was located showed a police cordon of greater efforts, in the midst of a climate of social unrest marked by a new batch of cuts – to be voted on Wednesday in Parliament – and the excessive police zeal against undocumented immigrants ( arrested in Athens on Friday, in the framework of an operation in progress since the end of August).",
+            "question_answers": [
+                {
+                    "question": "What happened to the undocumented immigrants on Friday?",
+                    "answer": "arrested in Athens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many undocumented immigrants were arrested in Athens on Friday?",
+                    "score": 0.6015,
+                    "answers": "in the midst of a climate of social unrest marked by a new batch of cuts – to be voted on Wednesday in Parliament – and the excessive police zeal against undocumented immigrants ( arrested in Athens on Friday , in the framework of an operation in progress since the end of August|prep\tmarked by a new batch of cuts – to be voted on Wednesday in Parliament – and the excessive police zeal against undocumented immigrants ( arrested in Athens on Friday , in the framework of an operation in progress since the end of August|acl\tarrested in Athens on Friday , in the framework of an operation in progress since the end of August|acl"
+                },
+                {
+                    "question": "What cuts were made to the police cordon where it was located?",
+                    "score": 0.5644,
+                    "answers": "of cuts|prep"
+                },
+                {
+                    "question": "What was the crime rate in the building where it was located in 2012?",
+                    "score": 0.4916,
+                    "answers": "greater|amod"
+                },
+                {
+                    "question": "What is the climate of social unrest?",
+                    "score": 0.4403,
+                    "answers": "of social unrest|prep\tsocial|amod\tsocial unrest|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This Sunday the country also celebrated one of its most important dates, the Day of No, a day of patriotic exaltation that commemorates the rejection of the ultimatum of surrender by the Italy of Mussolini, but that on this occasion, and in the midst of an unprecedented deployment of security, became numerous cities in show of anti-fascist resistance against the abuses of the extreme right.",
+            "question_answers": [
+                {
+                    "question": "What type of resistance did Italy show on the Day of No?",
+                    "answer": "anti-fascist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What ultimatum did Italy give to Mussolini?",
+                    "score": 0.7805,
+                    "answers": "the ultimatum of surrender by the Italy of Mussolini|pobj\tof surrender|prep"
+                },
+                {
+                    "question": "What ultimatum was given by Italy of Mussolini?",
+                    "score": 0.7253,
+                    "answers": "surrender|pobj"
+                },
+                {
+                    "question": "What was the ultimatum of surrender by the Italy of Mussolini?",
+                    "score": 0.6975,
+                    "answers": "the rejection of the ultimatum of surrender by the Italy of Mussolini , but that on this occasion , and in the midst of an unprecedented deployment of security , became numerous cities in show of anti - fascist resistance against the abuses of the extreme right|dobj\tof Mussolini|prep"
+                },
+                {
+                    "question": "How many cities were involved in the anti-fascist resistance?",
+                    "score": 0.5815,
+                    "answers": "of security|prep\tsecurity|pobj"
+                },
+                {
+                    "question": "What is the date of the Day of No?",
+                    "score": 0.552,
+                    "answers": "that This Sunday the country also celebrated one of its most important dates , the Day of No , a day of patriotic exaltation that commemorates the rejection of the ultimatum of surrender by the Italy of Mussolini , but that on this occasion , and in the midst of an unprecedented deployment of security , became numerous cities in show of anti - fascist resistance against the abuses of the extreme right|ccomp\tone of its most important dates , the Day of No , a day of patriotic exaltation that commemorates the rejection of the ultimatum of surrender by the Italy of Mussolini , but that on this occasion , and in the midst of an unprecedented deployment of security , became numerous cities in show of anti - fascist resistance against the abuses of the extreme right|dobj\ta day of patriotic exaltation that commemorates the rejection of the ultimatum of surrender by the Italy of Mussolini , but that on this occasion , and in the midst of an unprecedented deployment of security , became numerous cities in show of anti - fascist resistance against the abuses of the extreme right|appos\tthat commemorates the rejection of the ultimatum of surrender by the Italy of Mussolini , but that on this occasion , and in the midst of an unprecedented deployment of security , became numerous cities in show of anti - fascist resistance against the abuses of the extreme right|relcl\tthat on this occasion , and in the midst of an unprecedented deployment of security , became numerous cities in show of anti - fascist resistance against the abuses of the extreme right|conj"
+                }
+            ]
+        },
+        {
+            "claim": "In such a breeding ground, with an increasingly visible social fracture, the revelation of the list of suspected evaders, and the consequent finding that the authorities have looked the other way for two years, have contributed to fueling discontent.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the revelation of the list of suspected evaders has contributed to fueling discontent?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has the authorities done with the list of suspected evaders?",
+                    "score": 0.6465,
+                    "answers": "that|mark\tsuch|amod\ta|det\t,|punct\tan|det\tincreasingly|advmod\tsocial|amod\t,|punct\tthe|det\tthe|det\t,|punct\tand|cc\tthe|det\tthat|mark\tthe|det\thave|aux\tthe|det\tother|amod\ttwo|nummod\t,|punct\thave|aux"
+                },
+                {
+                    "question": "How many suspected evaders were on the list?",
+                    "score": 0.6051,
+                    "answers": "on 28/10/2012|prep"
+                },
+                {
+                    "question": "What is the purpose of breeding ground?",
+                    "score": 0.514,
+                    "answers": "breeding|compound"
+                },
+                {
+                    "question": "What is the relationship between the authorities and the evaders?",
+                    "score": 0.5078,
+                    "answers": "with an increasingly visible social fracture , the revelation of the list of suspected evaders , and the consequent finding that the authorities have looked the other way for two years ,|prep\tincreasingly visible|amod\tan increasingly visible social fracture , the revelation of the list of suspected evaders , and the consequent finding that the authorities have looked the other way for two years ,|pobj\tthe authorities|nsubj\tthat In such a breeding ground , with an increasingly visible social fracture , the revelation of the list of suspected evaders , and the consequent finding that the authorities have looked the other way for two years , have contributed to fueling discontent|ccomp"
+                }
+            ]
+        }
+    ]
+}

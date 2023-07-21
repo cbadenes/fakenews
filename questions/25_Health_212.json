@@ -1,0 +1,859 @@
+{
+    "id": "25_Health_212",
+    "claim": "Perhaps you just learned that processed meat such as bacon, sausages and ham may be the cause of cancer and that red meat 'is likely to cause carcinogenic effects ', as reported by the World Health Organization. Or that cheese and sugar can be addictive. Or that even vegetarian hot-dogs might have some meat. So, considering this, what are the foods we can eat to keep us healthy?Doctors say it's easy: Eat more like a Greek. Yeah, your parents were right when they made you finish your vegetables. The Mediterranean diet, strong in vegetables, nuts and fruit, with limits on daily meat, is the habit you must develop. Studies have shown that this diet is the key to helping you live longer and puts you at low risk for cancer or cardiovascular disease. It even makes your brain younger and healthier. With fruits and vegetables you will feel better, you will potentially live longer, as well as help you maintain a healthy weight and a thinner waist, which is good for your overall health, as well as your self-esteem and mental state. Our heads know this is true even if our hearts (or our stomachs) prefer the taste of bacon. And maybe we'll see these eating habits in Americans trying to reduce the calories they eat, avoiding fast food and soft drinks. (Although developing nations are beginning to adopt our bad eating habits). But so far, few Americans are following a vegetable-based food plan. U.S. children consumed #NUMBER* calories per day in #NUMBER* compared to #NUMBER* calories that ingested daily in #NUMBER*. There is a similar pattern among adults, but that is not enough when you consider that the United States Department of Agriculture (USDA) recommends that vegetable supplements be consumed three to five times a day, and that fruit supplements be eaten two to four times a day. So, for the sake of your health, we present you with a nutritional plan based on the Mediterranean diet. It's very simple and offers you variety, so you don't get bored with what's on your plate. Make your meals have lots of vegetables, beans and cereals. You can eat fish and chicken twice a week. You don't have to do anything extreme to avoid carbohydrates. You can eat up to three desserts a day, especially if it is a variety of whole grains. If you drink, you can enjoy a glass of wine with your dinner. Red is supposed to be good for your heart's health. Kitchen with olive oil and not butter. And it limits the amount of saturated fat, as well as the meat you consume daily. If you can't leave the bacon or burgers, be sure a bite won't kill you. In fact, the National Association of Livestock and Butchers said that scientific evidence does not indicate that there is a casual relationship between red meat or processed meat with cancer. But the International Cancer Research Agency that made the report claims that based on the research it used for its study, an estimated  grams of processed meat increases the risk of colon cancer by %. Those  grams are about three slices of bacon. And of course, just because something raises the risk of getting cancer, doesn't mean you're going to get it. So at the end of the day, if you're going to eat meat, make it something occasional and not a habit. Eat more plants and you'll feel better, you'll have better health and you'll look great. I'm sorry.",
+    "source": "cnnespanol.cnn.com",
+    "date": "27/10/2015",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Perhaps you just learned that processed meat such as bacon, sausages and ham may be the cause of cancer and that red meat 'is likely to cause carcinogenic effects ', as reported by the World Health Organization.",
+            "question_answers": [
+                {
+                    "question": "What does the World Health Organization say about red meat?",
+                    "answer": "likely to cause carcinogenic effects"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the World Health Organization say about processed meat?",
+                    "score": 0.7677,
+                    "answers": "on 27/10/2015|prep\tthat|mark\tyou|nsubj\tjust|advmod\tthat Perhaps you just learned that processed meat such as bacon , sausages and ham may be the cause of cancer and that red meat ' is likely to cause carcinogenic effects ' , as reported by the World Health Organization|ccomp\tthat|mark\tprocessed|amod\tprocessed meat such as bacon , sausages and ham|nsubj\tsuch|amod\tsuch as bacon , sausages and ham|prep\tbacon , sausages and ham|pobj\t,|punct\tand|cc\tthe|det\tand|cc\tthat|mark\tred|amod\t'|punct\tto|aux\tto cause carcinogenic effects|xcomp\tcarcinogenic|amod\tcarcinogenic effects|dobj\t'|punct\t,|punct\tas|mark\tas reported by the World Health Organization|advcl\tby the World Health Organization|agent\tthe|det\tWorld|compound\tHealth|compound"
+                },
+                {
+                    "question": "What are the possible causes of cancer from processed meat?",
+                    "score": 0.6928,
+                    "answers": "Perhaps|advmod\tsausages and ham|conj\tmay|aux\tthat processed meat such as bacon , sausages and ham may be the cause of cancer and that red meat ' is likely to cause carcinogenic effects ' , as reported by the World Health Organization|advcl\tthe cause of cancer|attr\tof cancer|prep\tcancer|pobj"
+                },
+                {
+                    "question": "What is the relationship between processed meat and cancer?",
+                    "score": 0.6327,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that Perhaps you just learned that processed meat such as bacon , sausages and ham may be the cause of cancer and that red meat ' is likely to cause carcinogenic effects ' , as reported by the World Health Organization|ROOT\tlikely to cause carcinogenic effects|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "Or that cheese and sugar can be addictive.",
+            "question_answers": [
+                {
+                    "question": "What two foods were reported to be addictive by cnnespanol.cnn.com?",
+                    "answer": "cheese and sugar"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about cheese and sugar being addictive?",
+                    "score": 0.8949,
+                    "answers": "that Or that cheese and sugar can be addictive|ccomp"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.7696,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 27/10/2015 that Or that cheese and sugar can be addictive|ROOT\ton 27/10/2015|prep\tthat|mark\tOr|cc\tthat|mark\tand|cc\tsugar|conj\tcan|aux\taddictive|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "Or that even vegetarian hot-dogs might have some meat.",
+            "question_answers": [
+                {
+                    "question": "What type of vegetarian food might have some meat in it?",
+                    "answer": "hot-dogs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the meat of hot dogs?",
+                    "score": 0.8258,
+                    "answers": "even vegetarian hot - dogs|nsubj\tthat even vegetarian hot - dogs might have some meat|conj\tsome meat|dobj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.7086,
+                    "answers": "cnnespanol.cnn.com|nsubj\ton 27/10/2015|prep\tOr|cc\tthat|mark\teven|advmod\tvegetarian|amod\thot|amod\t-|punct\tmight|aux\tsome|det"
+                }
+            ]
+        },
+        {
+            "claim": "So, considering this, what are the foods we can eat to keep us healthy?Doctors say it's easy: Eat more like a Greek.",
+            "question_answers": [
+                {
+                    "question": "What do doctors say is easy to do to keep us healthy?",
+                    "answer": "Eat more like a Greek"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the foods we can eat to keep us healthy?",
+                    "score": 0.7368,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that So , considering this , what are the foods we can eat to keep us healthy?Doctors say it 's easy : Eat more like a Greek|ROOT\ton 27/10/2015|prep\tthat|mark\tSo|advmod\t,|punct\tconsidering this|advcl\tthis|dobj\t,|punct\twhat|attr\tthat So , considering this , what are the foods we can eat to keep us|ccomp\tthe|det\tthe foods we can eat to keep us|attr\twe|nsubj\tcan|aux\twe can eat to keep us|relcl\tto|aux\tto keep us|advcl\tus|dobj\thealthy?Doctors|punct\tsay|punct\tit|nsubj\tit 's easy|ccomp\teasy|acomp\t:|punct\tit 's easy : Eat more like a Greek|ccomp\tmore|advmod\tmore like a Greek|prep\ta|det\ta Greek|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Yeah, your parents were right when your parents made you finish your vegetables.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that Yeah, your parents were right when your parents made you finish your vegetables?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many vegetables did your parents make you finish?",
+                    "score": 0.8063,
+                    "answers": "that Yeah , your parents were right when your parents made you finish your vegetables|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of how long it takes to finish vegetables?",
+                    "score": 0.7131,
+                    "answers": "you finish your vegetables|ccomp"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.636,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that Yeah , your parents were right when your parents made you finish your vegetables|ROOT\ton 27/10/2015|prep\tthat|mark\tYeah|intj\t,|punct\tyour|poss\tyour parents|nsubj\tright|acomp\twhen|advmod\tyour|poss\tyour parents|nsubj\tyou|nsubj\tyour|poss\tyour vegetables|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The Mediterranean diet, strong in vegetables, nuts and fruit, with limits on daily meat , is the habit a nutritional plan based on the Mediterranean diet .",
+            "question_answers": [
+                {
+                    "question": "What is the limit of the Mediterranean diet?",
+                    "answer": "daily meat"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Mediterranean diet consist of?",
+                    "score": 0.861,
+                    "answers": "strong in vegetables , nuts and fruit|amod\tin vegetables , nuts and fruit|prep\tvegetables , nuts and fruit|pobj\tnuts and fruit|conj\tfruit|conj\tlimits on daily meat|pobj\tdaily meat|pobj"
+                },
+                {
+                    "question": "What is the Mediterranean diet?",
+                    "score": 0.8089,
+                    "answers": "The Mediterranean diet , strong in vegetables , nuts and fruit , with limits on daily meat|nsubj\tthe Mediterranean diet|pobj"
+                },
+                {
+                    "question": "What is the basis of the Mediterranean diet?",
+                    "score": 0.7713,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 27/10/2015 that The Mediterranean diet , strong in vegetables , nuts and fruit , with limits on daily meat , is the habit a nutritional plan based on the Mediterranean diet|ROOT\ton 27/10/2015|prep\tthat|mark\tThe|det\t,|punct\t,|punct\tand|cc\t,|punct\twith limits on daily meat|prep\ton daily meat|prep\t,|punct\tthat The Mediterranean diet , strong in vegetables , nuts and fruit , with limits on daily meat , is the habit a nutritional plan based on the Mediterranean diet|ccomp\tthe|det\tthe habit a nutritional plan based on the Mediterranean diet|attr\ta|det\tnutritional|amod\ta nutritional plan based on the Mediterranean diet|appos\tbased on the Mediterranean diet|acl\ton the Mediterranean diet|prep\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "a nutritional plan based on the Mediterranean diet The Mediterranean diet, strong in vegetables, nuts and fruit, with limits on daily meat is the key to helping you live longer and puts you at low risk for cancer or cardiovascular disease.",
+            "question_answers": [
+                {
+                    "question": "What is the Mediterranean diet?",
+                    "answer": "Mediterranean diet, strong in vegetables, nuts and fruit, with limits on daily meat"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Mediterranean diet consist of?",
+                    "score": 0.7614,
+                    "answers": "on 27/10/2015|prep\tthat|mark\ta|det\ta nutritional plan based on the Mediterranean diet The Mediterranean diet , strong in vegetables , nuts and fruit , with limits on daily meat|nsubj\tthe|det\tThe|det\tThe Mediterranean diet , strong in vegetables , nuts and fruit|appos\tstrong in vegetables , nuts and fruit|amod\tin vegetables , nuts and fruit|prep\tvegetables , nuts and fruit|pobj\tnuts and fruit|conj\tand|cc\tfruit|conj\ton daily meat|prep\tthat a nutritional plan based on the Mediterranean diet The Mediterranean diet , strong in vegetables , nuts and fruit , with limits on daily meat is the key to helping you live longer and puts you at low risk for cancer or cardiovascular disease|ccomp\tthe|det\tand|cc\tlow|amod\tfor cancer or cardiovascular disease|prep\tor|cc"
+                },
+                {
+                    "question": "What is the source of evidence of the Mediterranean diet's nutritional plan?",
+                    "score": 0.7516,
+                    "answers": "cancer or cardiovascular disease|pobj"
+                },
+                {
+                    "question": "What is the difference between a Mediterranean diet and the Mediterranean diet?",
+                    "score": 0.7193,
+                    "answers": "you live longer|ccomp"
+                },
+                {
+                    "question": "What is the Mediterranean diet?",
+                    "score": 0.7134,
+                    "answers": "based on the Mediterranean diet The Mediterranean diet , strong in vegetables , nuts and fruit ,|prep\ton the Mediterranean diet The Mediterranean diet , strong in vegetables , nuts and fruit ,|prep\tthe Mediterranean diet The Mediterranean diet , strong in vegetables , nuts and fruit ,|pobj"
+                },
+                {
+                    "question": "What are the limits on daily meat on the Mediterranean diet?",
+                    "score": 0.7126,
+                    "answers": "with limits on daily meat|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The Mediterranean diet, strong in vegetables, nuts and fruit, with limits on daily meat even makes your brain younger and healthier.",
+            "question_answers": [
+                {
+                    "question": "What type of diet did cnnespanol.cnn.com report on 27/10/2015?",
+                    "answer": "Mediterranean"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Mediterranean diet consist of?",
+                    "score": 0.8505,
+                    "answers": "strong in vegetables , nuts and fruit|amod\tin vegetables , nuts and fruit|prep\tnuts and fruit|conj\tfruit|conj\ton daily meat|prep\tdaily meat|pobj"
+                },
+                {
+                    "question": "What is the Mediterranean diet?",
+                    "score": 0.782,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that The Mediterranean diet , strong in vegetables , nuts and fruit , with limits on daily meat even makes your brain younger and healthier|ROOT\ton 27/10/2015|prep\tthat|mark\tThe|det\tThe Mediterranean diet , strong in vegetables , nuts and fruit , with limits on daily meat|nsubj\tvegetables , nuts and fruit|pobj\teven|advmod\tthat The Mediterranean diet , strong in vegetables , nuts and fruit , with limits on daily meat even makes your brain younger and healthier|ccomp\tyour|poss\thealthier|conj"
+                },
+                {
+                    "question": "What are the limits on daily meat?",
+                    "score": 0.7281,
+                    "answers": "with limits on daily meat|prep\tlimits on daily meat|pobj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5953,
+                    "answers": "cnnespanol.cnn.com|nsubj\t,|punct\t,|punct\tand|cc\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "With fruits and vegetables you will feel better, you will potentially live longer, as well as help you maintain a healthy weight and a thinner waist, which is good for your overall health, as well as your self-esteem and mental state.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report that fruits and vegetables will help you feel better?",
+                    "answer": "27/10/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about fruits and vegetables?",
+                    "score": 0.7147,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that With fruits and vegetables you will feel better , you will potentially live longer , as well as help you maintain a healthy weight and a thinner waist , which is good for your overall health , as well as your self - esteem and mental state|ROOT\ton 27/10/2015|prep\tthat|mark\tand|cc\tvegetables|conj\t,|punct\t,|punct\tas|advmod\twell|advmod\tas well as|cc\ta|det\thealthy|amod\tand|cc\ta|det\t,|punct\twhich|nsubj\tyour|poss\toverall|amod\t,|punct\tas|advmod\twell|advmod\tas well as|cc\tyour|poss\tself|compound\t-|punct\tyour self - esteem and mental state|conj\tand|cc\tmental|amod"
+                },
+                {
+                    "question": "What is the mental state of a person with fruits and vegetables?",
+                    "score": 0.6608,
+                    "answers": "mental state|conj"
+                },
+                {
+                    "question": "What is the relationship between fruits and vegetables?",
+                    "score": 0.6496,
+                    "answers": "better|advmod\tpotentially|advmod"
+                },
+                {
+                    "question": "What are the benefits of fruits and vegetables on health?",
+                    "score": 0.6389,
+                    "answers": "With fruits and vegetables|prep\tfruits and vegetables|pobj\tyou|nsubj\twill|aux\tWith fruits and vegetables you will feel better|ccomp\tyou|nsubj\twill|aux\tlonger|advmod\tyou|nsubj\tthinner|amod\twhich is good for your overall health , as well as your self - esteem and mental state|advcl\tgood for your overall health , as well as your self - esteem and mental state|acomp\tfor your overall health , as well as your self - esteem and mental state|prep\tyour overall health , as well as your self - esteem and mental state|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Our heads know this is true even if our hearts (or our stomachs) prefer the taste of bacon.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 27/10/2015 that Our heads know this even if our hearts (or our stomachs) prefer the taste of bacon?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about Bacon?",
+                    "score": 0.8562,
+                    "answers": "on 27/10/2015|prep\tbacon|pobj"
+                },
+                {
+                    "question": "What is the taste of bacon?",
+                    "score": 0.7888,
+                    "answers": "Our heads|nsubj\tthat Our heads know this is true even if our hearts ( or our stomachs ) prefer the taste of bacon|ccomp\tour stomachs )|conj\teven if our hearts ( or our stomachs ) prefer the taste of bacon|advcl\tthe taste of bacon|dobj\tof bacon|prep"
+                },
+                {
+                    "question": "What is the relationship between hearts and stomachs of bacon?",
+                    "score": 0.7292,
+                    "answers": "our hearts ( or our stomachs )|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And maybe we'll see a nutritional plan based on the Mediterranean diet eating habits in Americans trying to reduce the calories they eat, avoiding fast food and soft drinks .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that maybe we'll see a nutritional plan based on the Mediterranean diet eating habits?",
+                    "answer": "cnnespanol.cnn.com"
+                },
+                {
+                    "question": "What eating habits did cnnespanol.cnn.com report on?",
+                    "answer": "the Mediterranean diet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the nutritional plan for Americans trying to reduce the calories they eat?",
+                    "score": 0.7721,
+                    "answers": "on the Mediterranean diet eating habits|prep\tthe Mediterranean diet eating habits|pobj\tthe calories they eat|dobj\tthey eat|relcl"
+                },
+                {
+                    "question": "What is the Mediterranean diet eating habits?",
+                    "score": 0.7623,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that And maybe we 'll see a nutritional plan based on the Mediterranean diet eating habits in Americans trying to reduce the calories they eat , avoiding fast food and soft drinks|ROOT\tbased on the Mediterranean diet eating habits|acl"
+                }
+            ]
+        },
+        {
+            "claim": "(Although developing nations are beginning to adopt our bad eating habits).",
+            "question_answers": [
+                {
+                    "question": "What website reported that developing nations are beginning to adopt our bad eating habits?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many countries have adopted bad eating habits?",
+                    "score": 0.8583,
+                    "answers": "eating|compound"
+                },
+                {
+                    "question": "How many developing nations are adopting their bad eating habits?",
+                    "score": 0.852,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that ( Although developing nations are beginning to adopt our bad eating habits )|ROOT\tthat ( Although developing nations are beginning to adopt our bad eating habits )|ccomp"
+                },
+                {
+                    "question": "What is the trend of developing nations adopting bad eating habits?",
+                    "score": 0.8333,
+                    "answers": "bad|amod"
+                }
+            ]
+        },
+        {
+            "claim": "But so far, few Americans are following a vegetable-based food plan.",
+            "question_answers": [
+                {
+                    "question": "How many Americans are following a vegetable-based food plan?",
+                    "answer": "few"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Americans follow a vegetable-based food plan?",
+                    "score": 0.8973,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that But so far , few Americans are following a vegetable - based food plan|ROOT\ton 27/10/2015|prep\tthat|mark\tBut|cc\tso|advmod\tso far|advmod\t,|punct\tfew|amod\tfew Americans|nsubj\tare|aux\tthat But so far , few Americans are following a vegetable - based food plan|ccomp\ta|det\tvegetable|npadvmod\t-|punct\tvegetable - based|amod\tfood|compound\ta vegetable - based food plan|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "U.S. children consumed #NUMBER* calories per day in #NUMBER* compared to #NUMBER* calories that ingested daily in #NUMBER*.",
+            "question_answers": [
+                {
+                    "question": "What type of calories did children in the U.S. consume per day?",
+                    "answer": "#NUMBER*"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the number of calories that children consume per day?",
+                    "score": 0.7459,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that U.S. children consumed # NUMBER * calories per day in # NUMBER * compared to # NUMBER * calories that ingested daily in # NUMBER *|ROOT\ton 27/10/2015|prep\tthat|mark\tU.S. children|nsubj\tthat U.S. children consumed # NUMBER * calories per day in # NUMBER * compared to # NUMBER * calories that ingested daily in # NUMBER *|ccomp\t#|nmod\tNUMBER|nmod\t*|punct\tper day|prep\tday|pobj\tin # NUMBER *|prep\t#|pobj\tNUMBER|pobj\t*|pobj\tcompared to # NUMBER * calories that ingested daily in # NUMBER *|prep\tto # NUMBER * calories that ingested daily in # NUMBER *|prep\t#|nmod\tNUMBER|nmod\t*|punct\t# NUMBER * calories that ingested daily in # NUMBER *|pobj\tthat|nsubj\tthat ingested daily in # NUMBER *|relcl\tdaily|advmod\tin # NUMBER *|prep\t#|pobj\tNUMBER|pobj\t*|pobj"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com do?",
+                    "score": 0.7357,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "There is a similar pattern among adults, but that is not enough when you consider that the United States Department of Agriculture (USDA) recommends that vegetable supplements be consumed three to five times a day, and that fruit supplements be eaten two to four times a day.",
+            "question_answers": [
+                {
+                    "question": "How many times a day are vegetable supplements recommended by the U.S. Department of Agriculture?",
+                    "answer": "three to five"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the US Department of Agriculture (USDA) recommend for vegetable supplements?",
+                    "score": 0.8693,
+                    "answers": "that|mark\ta|det\t,|punct\tthat|nsubj\tnot|neg\tthat|mark\tUnited|compound\tUnited States|compound\tof Agriculture|prep\tAgriculture|pobj\t(|punct\t)|punct\tthat|mark\tvegetable supplements|nsubjpass\tbe|auxpass\tthree|quantmod\tto|quantmod\ta|det\t,|punct\tand|cc\tthat|mark\tbe|auxpass\tto|quantmod\ta|det"
+                },
+                {
+                    "question": "How many times a day do adults consume vegetable supplements?",
+                    "score": 0.8245,
+                    "answers": "that There is a similar pattern among adults , but that is not enough when you consider that the United States Department of Agriculture ( USDA ) recommends that vegetable supplements be consumed three to five times a day , and that fruit supplements be eaten two to four times a day|ccomp\ta similar pattern among adults|attr"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com say about the consumption of vegetable supplements?",
+                    "score": 0.7903,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that There is a similar pattern among adults , but that is not enough when you consider that the United States Department of Agriculture ( USDA ) recommends that vegetable supplements be consumed three to five times a day , and that fruit supplements be eaten two to four times a day|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the consumption of fruit supplements among adults?",
+                    "score": 0.7828,
+                    "answers": "fruit|compound"
+                },
+                {
+                    "question": "What is the relationship between vegetable supplements and fruit supplements?",
+                    "score": 0.774,
+                    "answers": "vegetable|compound"
+                }
+            ]
+        },
+        {
+            "claim": "So, for the sake of your health, we present you with a nutritional plan based on the Mediterranean diet.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that \"for the sake of your health, we present you with a nutritional plan based on the Mediterranean diet\"?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current nutritional plan based on the Mediterranean diet?",
+                    "score": 0.7931,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that So , for the sake of your health , we present you with a nutritional plan based on the Mediterranean diet|ROOT\tthat So , for the sake of your health , we present you with a nutritional plan based on the Mediterranean diet|ccomp"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com say about the Mediterranean diet?",
+                    "score": 0.7779,
+                    "answers": "that|mark\tSo|advmod\t,|punct\tyour|poss\t,|punct\twe|nsubj\tyou|dobj\ta|det\tnutritional|amod"
+                },
+                {
+                    "question": "What is the Mediterranean diet?",
+                    "score": 0.7595,
+                    "answers": "on 27/10/2015|prep\tthe|det\twith a nutritional plan based on the Mediterranean diet|prep\ta nutritional plan based on the Mediterranean diet|pobj\tbased on the Mediterranean diet|acl\ton the Mediterranean diet|prep\tthe|det\tthe Mediterranean diet|pobj"
+                },
+                {
+                    "question": "What is the purpose of the Mediterranean diet?",
+                    "score": 0.7408,
+                    "answers": "for the sake of your health|prep\tthe sake of your health|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It's very simple and offers you variety, so you don't get bored with what's on your plate.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that It's very simple and offers you variety?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com do?",
+                    "score": 0.8077,
+                    "answers": "what 's on your plate|pcomp\ton your plate|prep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6435,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that It 's very simple and offers you variety , so you do n't get bored with what 's on your plate|ROOT\ton 27/10/2015|prep\tthat|mark\tIt|nsubj\tthat It 's very simple and offers you variety , so you do n't get bored with what 's on your plate|ccomp\tvery|advmod\tvery simple|acomp\tand|cc\toffers you variety , so you do n't get bored with what 's on your plate|conj\tyou|dative\tvariety|dobj\t,|punct\tso|mark\tyou|nsubj\tdo|aux\tn't|neg\tso you do n't get bored with what 's on your plate|advcl\twhat|nsubj\tyour|poss\tyour plate|pobj"
+                },
+                {
+                    "question": "What are the features of cnnespanol.cnn.com?",
+                    "score": 0.6319,
+                    "answers": "with what 's on your plate|prep"
+                },
+                {
+                    "question": "What is the purpose of cnnespanol.cnn.com?",
+                    "score": 0.5944,
+                    "answers": "bored with what 's on your plate|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "Make your meals have lots of vegetables, beans and cereals.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that Make your meals have lots of vegetables, beans and cereals?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many vegetables, beans, and cereals are in a meal?",
+                    "score": 0.8309,
+                    "answers": "your meals|nsubj\tyour meals have lots of vegetables , beans and cereals|ccomp"
+                },
+                {
+                    "question": "What type of cereals does cnnespanol.cnn.com contain?",
+                    "score": 0.7394,
+                    "answers": "cereals|conj"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com say about vegetables, beans and cereals?",
+                    "score": 0.7189,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that Make your meals have lots of vegetables , beans and cereals|ROOT"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5543,
+                    "answers": "on 27/10/2015|prep\tthat|mark\tyour|poss\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "You can eat fish and chicken twice a week.",
+            "question_answers": [
+                {
+                    "question": "How many times did cnnespanol.cnn.com report that you can eat fish and chicken a week?",
+                    "answer": "twice"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How often do you eat fish and chicken?",
+                    "score": 0.8826,
+                    "answers": "twice a week|advmod"
+                },
+                {
+                    "question": "What are the benefits of eating fish and chicken twice a week?",
+                    "score": 0.8135,
+                    "answers": "chicken|conj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.7205,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 27/10/2015 that You can eat fish and chicken twice a week|ROOT\ton 27/10/2015|prep\tthat|mark\tYou|nsubj\tcan|aux\tand|cc\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "You don't have to do anything extreme to avoid carbohydrates.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that you don't have to do anything extreme to avoid carbohydrates?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about diets?",
+                    "score": 0.8473,
+                    "answers": "that You do n't have to do anything extreme to avoid carbohydrates|ccomp\tto do anything extreme|xcomp\tto avoid carbohydrates|advcl"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6543,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 27/10/2015 that You do n't have to do anything extreme to avoid carbohydrates|ROOT\ton 27/10/2015|prep\tthat|mark\tYou|nsubj\tdo|aux\tn't|neg\tto|aux\textreme|amod\tto|aux"
+                }
+            ]
+        },
+        {
+            "claim": "You can eat up to three desserts a day, especially if it is a variety of whole grains.",
+            "question_answers": [
+                {
+                    "question": "Who reported that you can eat up to three desserts a day?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many whole grains can you eat a day?",
+                    "score": 0.8752,
+                    "answers": "whole|amod\twhole grains|pobj"
+                },
+                {
+                    "question": "How many desserts a day can you eat?",
+                    "score": 0.8629,
+                    "answers": "You|nsubj\tup to three desserts a day|dobj\ta variety of whole grains|attr"
+                },
+                {
+                    "question": "What is the amount of desserts that you can eat per day?",
+                    "score": 0.821,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that You can eat up to three desserts a day , especially if it is a variety of whole grains|ROOT\tcan|aux\tthat You can eat up to three desserts a day , especially if it is a variety of whole grains|ccomp\tup|quantmod\ta day|npadvmod"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6821,
+                    "answers": "cnnespanol.cnn.com|nsubj\tthat|mark\tto|quantmod\ta|det\t,|punct\tespecially|advmod\tif|mark\tit|nsubj\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "If you drink, you can enjoy a glass of wine with your dinner.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that if you drink, you can enjoy a glass of wine with your dinner?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the benefits of drinking wine with dinner?",
+                    "score": 0.7537,
+                    "answers": "a glass of wine|dobj"
+                },
+                {
+                    "question": "What is the best way to enjoy a glass of wine with your dinner?",
+                    "score": 0.752,
+                    "answers": "with your dinner|prep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.621,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that If you drink , you can enjoy a glass of wine with your dinner|ROOT\ton 27/10/2015|prep\tthat|mark\tIf|mark\tyou|nsubj\t,|punct\tyou|nsubj\tcan|aux\ta|det\twine|pobj\tyour|poss\tyour dinner|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Red is supposed to be good for your heart's health.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report that red is supposed to be good for your heart's health?",
+                    "answer": "27/10/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about red?",
+                    "score": 0.7496,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that Red is supposed to be good for your heart 's health|ROOT\tRed|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of Red health?",
+                    "score": 0.72,
+                    "answers": "to be good for your heart 's health|xcomp\tgood for your heart 's health|acomp\tfor your heart 's health|prep\tyour heart 's health|pobj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5907,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Kitchen with olive oil and not butter.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 27/10/2015 that Kitchen with olive oil and not butter was not working?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What ingredients does cnnespanol.cnn.com use for cooking?",
+                    "score": 0.7869,
+                    "answers": "with olive oil and not butter|prep\tolive oil and not butter|pobj\tnot butter|conj"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com say about cooking with olive oil and not butter?",
+                    "score": 0.7641,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that Kitchen with olive oil and not butter|ROOT"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5543,
+                    "answers": "cnnespanol.cnn.com|nsubj\ton 27/10/2015|prep\tthat|mark\tolive|amod\tand|cc\tnot|neg"
+                }
+            ]
+        },
+        {
+            "claim": "And it limits the amount of saturated fat, as well as the meat you consume daily.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the limits on saturated fat?",
+                    "answer": "cnnespanol.cnn.com"
+                },
+                {
+                    "question": "What type of fat does it limit?",
+                    "answer": "saturated"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about saturated fat?",
+                    "score": 0.8345,
+                    "answers": "of saturated fat|prep\tsaturated fat|pobj"
+                },
+                {
+                    "question": "What is the amount of saturated fat and saturated fat in the meat you consume daily?",
+                    "score": 0.7851,
+                    "answers": "the meat you consume daily|conj"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com do?",
+                    "score": 0.7789,
+                    "answers": "as well as|cc"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6492,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that And it limits the amount of saturated fat , as well as the meat you consume daily|ROOT\ton 27/10/2015|prep\tthat|mark\tAnd|cc\tit|nsubj\tthe|det\t,|punct\tas|advmod\twell|advmod\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "If you can't leave the bacon or burgers, be sure a bite won't kill you.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that if you can't leave the bacon or burgers, be sure a bite won't kill you?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about eating bacon?",
+                    "score": 0.7992,
+                    "answers": "n't|neg\tn't|neg"
+                },
+                {
+                    "question": "What are the benefits of eating bacon and burgers?",
+                    "score": 0.7428,
+                    "answers": "the bacon or burgers|dobj\tthat If you ca n't leave the bacon or burgers , be sure a bite wo n't kill you|ccomp\tsure a bite wo n't kill you|acomp\ta bite|nsubj\ta bite wo n't kill you|ccomp"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5828,
+                    "answers": "on 27/10/2015|prep\tthat|mark\tyou|nsubj\tca|aux\tthe|det\tor|cc\t,|punct\ta|det\two|aux\tyou|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, the National Association of Livestock and Butchers said that scientific evidence does not indicate that there is a casual relationship between red meat or processed meat with cancer.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that the National Association of Livestock and Butchers said that scientific evidence did not indicate that there was a casual relationship between red meat and cancer?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between red meat and processed meat?",
+                    "score": 0.6601,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that In fact , the National Association of Livestock and Butchers said that scientific evidence does not indicate that there is a casual relationship between red meat or processed meat with cancer|ROOT\ton 27/10/2015|prep\tof Livestock and Butchers|prep\tLivestock and Butchers|pobj\tthat In fact , the National Association of Livestock and Butchers said that scientific evidence does not indicate that there is a casual relationship between red meat or processed meat with cancer|ccomp\tthat scientific evidence does not indicate that there is a casual relationship between red meat or processed meat with cancer|ccomp\tthat there is a casual relationship between red meat or processed meat with cancer|ccomp\ta casual relationship between red meat or processed meat with cancer|attr\tbetween red meat or processed meat|prep\tred|amod\tred meat or processed meat|pobj\tprocessed|amod"
+                }
+            ]
+        },
+        {
+            "claim": "But the International Cancer Research Agency that made the report claims that based on the research it used for its study, an estimated  grams of processed meat increases the risk of colon cancer by %.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between processed meat and colon cancer?",
+                    "score": 0.6825,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that But the International Cancer Research Agency that made the report claims that based on the research it used for its study , an estimated   grams of processed meat increases the risk of colon cancer by %|ROOT\ton 27/10/2015|prep\tthat|mark\tBut|cc\tthe|det\tInternational|compound\tCancer|compound\tCancer Research|compound\tthe International Cancer Research Agency that made the report|nsubj\tthat|nsubj\tthat made the report|relcl\tthe|det\tthe report|dobj\tthat But the International Cancer Research Agency that made the report claims that based on the research it used for its study , an estimated   grams of processed meat increases the risk of colon cancer by %|ccomp\tthat|mark\tbased on the research it used for its study|prep\ton the research it used for its study|prep\tthe|det\tthe research it used for its study|pobj\tit|nsubj\tit used for its study|relcl\tfor its study|prep\tits|poss\tits study|pobj\t,|punct\tan estimated|meta\testimated|amod\tthat based on the research it used for its study , an estimated  |dep\tgrams of processed meat|nsubj\tof processed meat|prep\tprocessed|amod\tprocessed meat|pobj\tthat based on the research it used for its study , an estimated   grams of processed meat increases the risk of colon cancer by %|ccomp\tthe|det\tthe risk of colon cancer|dobj\tof colon cancer|prep\tcolon|compound\tcolon cancer|pobj\tby %|prep\t%|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Those  grams are about three slices of bacon.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that those grams were about three slices of bacon?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many slices of bacon are there?",
+                    "score": 0.8928,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that Those   grams are about three slices of bacon|ROOT\ton 27/10/2015|prep\tthat Those   grams are about three slices of bacon|ccomp\tabout three slices of bacon|attr"
+                },
+                {
+                    "question": "What are the grams of bacon?",
+                    "score": 0.8467,
+                    "answers": "grams|nsubj"
+                },
+                {
+                    "question": "What is the weight of bacon?",
+                    "score": 0.8354,
+                    "answers": "Those|det\tabout|advmod\tof bacon|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the number of grams of bacon in the pound?",
+                    "score": 0.8144,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.741,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And of course, just because something raises the risk of getting cancer, doesn't mean you're going to get it.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that something raises the risk of getting cancer?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about getting cancer?",
+                    "score": 0.8585,
+                    "answers": "does|aux"
+                },
+                {
+                    "question": "What is the risk of getting cancer?",
+                    "score": 0.8,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that And of course , just because something raises the risk of getting cancer , does n't mean you 're going to get it|ROOT\ton 27/10/2015|prep\tbecause|mark\tjust because something raises the risk of getting cancer|advcl\tthe risk of getting cancer|dobj\tof getting cancer|prep\tgetting cancer|pcomp\tcancer|dobj\tn't|neg\tthat And of course , just because something raises the risk of getting cancer , does n't mean you 're going to get it|ccomp\tyou 're going to get it|ccomp\tto get it|xcomp"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6801,
+                    "answers": "that|mark\tAnd|cc\tof course|prep\tcourse|pobj\t,|punct\tjust|advmod\tsomething|nsubj\tthe|det\t,|punct\tyou|nsubj\t're|aux\tto|aux\tit|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "So at the end of the day, if you're going to eat meat, make it something occasional and not a habit.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/10/2015 that if you're going to eat meat, make it something occasional and not a habit?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What do you think about eating meat?",
+                    "score": 0.8127,
+                    "answers": "that So at the end of the day , if you 're going to eat meat , make it something occasional and not a habit|ccomp"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com say about eating meat?",
+                    "score": 0.8031,
+                    "answers": "cnnespanol.cnn.com reported on 27/10/2015 that So at the end of the day , if you 're going to eat meat , make it something occasional and not a habit|ROOT\ton 27/10/2015|prep\tthat|mark\tSo|advmod\tof the day|prep\tif|mark\tyou|nsubj\t're|aux\tit|nsubj\tand|cc"
+                },
+                {
+                    "question": "What are the benefits of eating meat?",
+                    "score": 0.74,
+                    "answers": "the day|pobj\tif you 're going to eat meat|advcl\tto eat meat|xcomp\tit something occasional and not a habit|ccomp\toccasional and not a habit|amod"
+                },
+                {
+                    "question": "What is the relationship between eating meat and eating meat?",
+                    "score": 0.6713,
+                    "answers": "at the end of the day|prep\tnot a habit|conj"
+                },
+                {
+                    "question": "What is the source of evidence of meat consumption in the United States?",
+                    "score": 0.6695,
+                    "answers": "meat|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Eat more plants and you'll feel better, you'll have better health and you'll look great.",
+            "question_answers": [
+                {
+                    "question": "What did cnnespanol.cnn.com report on 27/10/2015?",
+                    "answer": "Eat more plants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about diets?",
+                    "score": 0.8077,
+                    "answers": "better health|dobj"
+                },
+                {
+                    "question": "What does cnnespanolcnn.com say about eating more plants?",
+                    "score": 0.7705,
+                    "answers": "you|nsubj\tyou|nsubj\tyou|nsubj\tgreat|acomp"
+                },
+                {
+                    "question": "What are the benefits of eating more plants?",
+                    "score": 0.7612,
+                    "answers": "that Eat more plants and you 'll feel better , you 'll have better health and you 'll look great|ccomp\tmore|amod\tmore plants|dobj\tyou 'll have better health and you 'll look great|conj\tyou 'll look great|conj"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com do?",
+                    "score": 0.7459,
+                    "answers": "that|mark\tand|cc\tand|cc"
+                }
+            ]
+        }
+    ]
+}

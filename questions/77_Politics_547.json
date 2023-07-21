@@ -1,0 +1,233 @@
+{
+    "id": "77_Politics_547",
+    "claim": "According to Ciro Gomez Leyva's news, the former First Lady would have informed her team of collaborators of the decision to leave the game. Margarita Zavala will leave in the next hours the National Action Party (PAN) and register this weekend her independent candidacy to compete for the Presidency of the Republic in . The former First Lady announced that it will be this Friday when she addresses the issue. According to Ciro Gomez Leyva's news, the former First Lady would have communicated to her team of collaborators the decision to leave the party, because there are no guarantees that the competition for the candidacy of the Broad Democratic Front (constituted by the PAN, PRD and Citizen Movement) will be transparent. Hours later, the still panist announced through her Twitter account that at  Friday hours will give a message regarding this topic. Former President Felipe Calderon's wife has before midnight Sunday to present the documents to register as an independent pre-candidate by the Presidency. Last Tuesday, in that same information space, Margarita Zavala said she would do her best to be the standard-bearer of this alliance, but she did not rule out the possibility of standing as an independent candidate. Some of the polls published by various media and specialized agencies place her as the best-placed panist in the presidential contest. This Sunday  October is the deadline for the registration of independent candidates, according to the call established by the National Electoral Institute (INE). I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "05/10/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "According to Ciro Gomez Leyva's , the former First Lady would have informed Ciro Gomez Leyva's news of the decision to leave the game.",
+            "question_answers": [
+                {
+                    "question": "Who said that the former First Lady would have informed Ciro Gomez Leyva of the decision to leave the game?",
+                    "answer": "Ciro Gomez Leyva's"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Ciro Gomez Leyva say about the decision to leave the game?",
+                    "score": 0.8093,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 05/10/2017 that According to Ciro Gomez Leyva 's , the former First Lady would have informed Ciro Gomez Leyva 's news of the decision to leave the game|ROOT\ton 05/10/2017|prep\tthat|mark\tAccording to Ciro Gomez Leyva 's|prep\tto Ciro Gomez Leyva 's|prep\tCiro|compound\tGomez|compound\tCiro Gomez Leyva 's|pobj\t's|case\t,|punct\tthe|det\tformer|amod\tFirst|compound\tthe former First Lady|nsubj\twould|aux\thave|aux\tthat According to Ciro Gomez Leyva 's , the former First Lady would have informed Ciro Gomez Leyva 's news of the decision to leave the game|ccomp\tCiro|compound\tGomez|compound\tCiro Gomez Leyva 's|poss\t's|case\tCiro Gomez Leyva 's news|dobj\tof the decision to leave the game|prep\tthe|det\tthe decision to leave the game|pobj\tto|aux\tto leave the game|acl\tthe|det\tthe game|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "the former First Lady will her team of collaborators in the next hours leave and register this weekend independent candidacy to compete for the Presidency of the Republic in .",
+            "question_answers": [
+                {
+                    "question": "When did forbes.com.mx report that the former First Lady will leave her team of collaborators?",
+                    "answer": "05/10/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the former First Lady do to register for the presidency of the republic?",
+                    "score": 0.8384,
+                    "answers": "the|det\tFirst|compound\twill|aux\tthe|det\tnext|amod\tthat the former First Lady will her team of collaborators in the next hours leave and register this weekend independent candidacy to compete for the Presidency of the Republic in|ccomp\tand|cc\tthis|det\tto|aux\tthe|det\tthe|det\tin|prep"
+                },
+                {
+                    "question": "Who is the former First Lady?",
+                    "score": 0.6943,
+                    "answers": "www.forbes.com.mx reported on 05/10/2017 that the former First Lady will her team of collaborators in the next hours leave and register this weekend independent candidacy to compete for the Presidency of the Republic in|ROOT\tformer|amod\tthe former First Lady|nsubj\ther|poss"
+                },
+                {
+                    "question": "What is the relationship between the First Lady and the republicans?",
+                    "score": 0.6918,
+                    "answers": "on 05/10/2017|prep\tthe Republic|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "the former First Lady announced that it will be this Friday when the former First Lady addresses the issue.",
+            "question_answers": [
+                {
+                    "question": "On what day did the former First Lady announce that she would address the issue?",
+                    "answer": "Friday"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the former First Lady address the issue?",
+                    "score": 0.8826,
+                    "answers": "that the former First Lady announced that it will be this Friday when the former First Lady addresses the issue|ccomp\tthat it will be this Friday when the former First Lady addresses the issue|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "According to Ciro Gomez Leyva's , the former First Lady would have communicated to Ciro Gomez Leyva's news the decision to her team of collaborators leave , because there are no guarantees that the competition for the candidacy of the National Action Party (PAN) will be transparent.",
+            "question_answers": [
+                {
+                    "question": "Who said that the former First Lady would have communicated to Ciro Gomez Leyva's news the decision to her team of collaborators leave?",
+                    "answer": "Ciro Gomez Leyva's"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Ciro Gomez Leyva leave her position as First Lady?",
+                    "score": 0.8644,
+                    "answers": "www.forbes.com.mx|nsubj\ton 05/10/2017|prep\tthat|mark\tAccording to Ciro Gomez Leyva 's|prep\t,|punct\tthe|det\tformer|amod\twould|aux\thave|aux\tthe|det\tto her team of collaborators leave|prep\ther team of collaborators leave|pobj\tof collaborators|prep\tcollaborators|pobj\tleave|acl\t,|punct\tbecause|mark\tthere|expl\tthat|mark\tthe|det\tfor the candidacy of the National Action Party ( PAN )|prep\tthe|det\tof the National Action Party ( PAN )|prep\tthe|det\tNational|compound\tAction|compound\tthe National Action Party ( PAN )|pobj\t(|punct\t)|punct\twill|aux"
+                },
+                {
+                    "question": "What is Ciro Gomez Leyva's position on the PAN candidacy?",
+                    "score": 0.7513,
+                    "answers": "to Ciro Gomez Leyva 's news|prep"
+                },
+                {
+                    "question": "What are the guarantees for the candidacy of the National Action Party (PAN)?",
+                    "score": 0.734,
+                    "answers": "no guarantees that the competition for the candidacy of the National Action Party ( PAN ) will be transparent|attr"
+                },
+                {
+                    "question": "Who is Ciro Gomez Leyva?",
+                    "score": 0.6777,
+                    "answers": "the former First Lady|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Ciro Gomez Leyva and PAN?",
+                    "score": 0.6561,
+                    "answers": "because there are no guarantees that the competition for the candidacy of the National Action Party ( PAN ) will be transparent|advcl\tthe competition for the candidacy of the National Action Party ( PAN )|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Hours later, the former First Lady announced through Twitter account that at  Friday hours will give a message regarding this topic.",
+            "question_answers": [
+                {
+                    "question": "Through what account did the former First Lady announce that she would give a message on Friday?",
+                    "answer": "Twitter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the former First Lady say on Twitter on Friday hours?",
+                    "score": 0.763,
+                    "answers": "that|mark\tHours|npadvmod\t,|punct\tthe|det\tformer|amod\tFirst|compound\tthat Hours later , the former First Lady announced through Twitter account that at   Friday hours will give a message regarding this topic|ccomp\tthrough Twitter account|prep\tTwitter|compound\tTwitter account|pobj\tthat|mark\tthat at  |mark\t |dep\tFriday|compound\tFriday hours|nsubj\twill|aux\ta|det\ta message regarding this topic|dobj\tthis|det\tthis topic|pobj"
+                },
+                {
+                    "question": "What was the message on Friday hours on Twitter?",
+                    "score": 0.7128,
+                    "answers": "that at   Friday hours will give a message regarding this topic|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "the former First Lady has before midnight Sunday to present the documents to register as an independent pre-candidate by the Presidency.",
+            "question_answers": [
+                {
+                    "question": "How long did the former First Lady have to present the documents to register as an independent pre-candidate?",
+                    "answer": "before midnight Sunday to present the documents to register as an independent pre-candidate"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the former First Lady register as an independent pre-candidate by the presidency?",
+                    "score": 0.9043,
+                    "answers": "before midnight Sunday|prep\tSunday|appos"
+                },
+                {
+                    "question": "What is the relationship between the president and the former First Lady?",
+                    "score": 0.7939,
+                    "answers": "independent|amod"
+                },
+                {
+                    "question": "What is the process for registering as an independent pre-party by the presidency?",
+                    "score": 0.7651,
+                    "answers": "www.forbes.com.mx reported on 05/10/2017 that the former First Lady has before midnight Sunday to present the documents to register as an independent pre - candidate by the Presidency|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Last Tuesday, in that same information space, the former First Lady said the former First Lady would do best to be the standard-bearer of the National Action Party (PAN) , but the former First Lady did not rule out the possibility of standing as an independent candidate.",
+            "question_answers": [
+                {
+                    "question": "What party did the former First Lady say she would be the standard-bearer of?",
+                    "answer": "National Action Party (PAN)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the former First Lady say about running as an independent candidate?",
+                    "score": 0.7476,
+                    "answers": "the former First Lady did not rule out the possibility of standing as an independent candidate|conj"
+                },
+                {
+                    "question": "What does PAN stand for?",
+                    "score": 0.6841,
+                    "answers": "the standard - bearer of the National Action Party ( PAN )|attr\tof the National Action Party ( PAN )|prep\tthe National Action Party ( PAN )|pobj"
+                },
+                {
+                    "question": "Who is the standard bearer of the National Action Party (PAN)?",
+                    "score": 0.6131,
+                    "answers": "to be the standard - bearer of the National Action Party ( PAN )|xcomp"
+                },
+                {
+                    "question": "What is PAN?",
+                    "score": 0.5887,
+                    "answers": "National|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Some of the polls published by various media and specialized agencies place the former First Lady as the best-placed panist in the presidential contest.",
+            "question_answers": [
+                {
+                    "question": "Who is the best-placed panist in the presidential contest?",
+                    "answer": "the former First Lady"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What polls have been published by various media and specialized agencies?",
+                    "score": 0.9304,
+                    "answers": "Some of the polls published by various media and specialized agencies|nsubj\tof the polls published by various media and specialized agencies|prep\tthe polls published by various media and specialized agencies|pobj"
+                },
+                {
+                    "question": "What agencies have said the former First Lady is the best placed panist in the presidential election?",
+                    "score": 0.8837,
+                    "answers": "specialized|amod"
+                }
+            ]
+        },
+        {
+            "claim": "This Sunday  October is the deadline for the registration of independent candidates, according to the call established by the National Electoral Institute (INE).",
+            "question_answers": [
+                {
+                    "question": "What does INE stand for?",
+                    "answer": "National Electoral Institute"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the deadline for registering independent candidates?",
+                    "score": 0.7897,
+                    "answers": "www.forbes.com.mx reported on 05/10/2017 that This Sunday   October is the deadline for the registration of independent candidates , according to the call established by the National Electoral Institute ( INE )|ROOT\ton 05/10/2017|prep\t05/10/2017|pobj\tthat This Sunday   October is the deadline for the registration of independent candidates , according to the call established by the National Electoral Institute ( INE )|ccomp\tthe deadline for the registration of independent candidates|attr\tfor the registration of independent candidates|prep\tthe registration of independent candidates|pobj\tof independent candidates|prep\tindependent|amod\tindependent candidates|pobj\taccording to the call established by the National Electoral Institute ( INE )|prep\tto the call established by the National Electoral Institute ( INE )|prep\tthe call established by the National Electoral Institute ( INE )|pobj"
+                },
+                {
+                    "question": "What does INE stand for?",
+                    "score": 0.7535,
+                    "answers": "by the National Electoral Institute ( INE )|agent\tthe National Electoral Institute ( INE )|pobj"
+                },
+                {
+                    "question": "What is the date of registration of independent candidates?",
+                    "score": 0.7527,
+                    "answers": "that|mark\tThis|det\tThis Sunday|nsubj\tThis Sunday  |dep\tOctober|nsubj\tthe|det\tthe|det\t,|punct\tthe|det\testablished by the National Electoral Institute ( INE )|acl\tthe|det\tNational|compound\t(|punct\t)|punct"
+                },
+                {
+                    "question": "What is the National Electoral Institute (INE)?",
+                    "score": 0.7071,
+                    "answers": "www.forbes.com.mx|nsubj\tElectoral|compound"
+                }
+            ]
+        }
+    ]
+}

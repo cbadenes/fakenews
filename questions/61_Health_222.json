@@ -1,0 +1,164 @@
+{
+    "id": "61_Health_222",
+    "claim": "The World Health Organization (WHO), the body responsible for monitoring and preventing situations that could become a health problem in any country in the world, has alerted Mexico to a terrible risk, and has issued the following statement: 'We have been observing that in Mexico there has been a very significant increase in the number of people suffering from nervous diseases, depressions, suicidal tendencies, frustration, detachment from their family, aversion to physical activity and ill-will at work, which causes the body to be unable to create naturally the necessary components for dopamine and other elements to perform its function. 'For this reason, we have determined that if Mexico does not want to have people suffering from the spillage of bile, fatty acid, digestive problems, burning of the colon, gastric ulcers, headache, self-inflicted injuries, hair loss, depression, anxiety, tendency to alcoholism, runny nose and other ills, it is necessary to modify its media policies and prohibit the transmission of matches of the football team called Club Deportivo Cruz Azul. This is because we identify is why many people have these conditions. 'It is not yet determined whether the place where the Blue Stadium is located should be declared a source of infection and thus recommend its closure, but as soon as a complete study is held, it will be made known to the Mexican government, especially to avoid an epidemic that can later become a pandemic worldwide by those foreigners who have been near the area. 'We are at the disposal of the Mexican government to issue any kind of health alert, and to collaborate to help people who for a little longer than  years have suffered from the previous sufferings without seeing an approximate date for conditions to change'. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "16/02/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The World Health Organization (WHO), the body responsible for monitoring and preventing situations that could become a health problem in any country in the world , has alerted Mexico to a terrible risk, and has issued the following statement: 'The World Health Organization (WHO), the body responsible for monitoring and preventing situations that could become a health problem in any country in the world have been observing that in Mexico there has been a very significant increase in the number of people suffering from nervous diseases, depressions, suicidal tendencies, frustration, detachment from their family, aversion to physical activity and ill-will at work, which causes the body to be unable to create naturally the necessary components for dopamine and other elements to perform function.",
+            "question_answers": [
+                {
+                    "question": "Who alerted Mexico to a terrible risk?",
+                    "answer": "The World Health Organization (WHO), the body responsible for monitoring and preventing situations that could become a health problem in any country in the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people suffer from nervous diseases, depressions, suicidal tendencies, frustration, and flu in Mexico?",
+                    "score": 0.7264,
+                    "answers": "work|pobj"
+                },
+                {
+                    "question": "How many people are suffering from nervous diseases, depressions and suicidal tendencies in Mexico?",
+                    "score": 0.7167,
+                    "answers": "any country in the world|pobj\ta terrible risk|pobj\tany country in the world|pobj"
+                },
+                {
+                    "question": "What has the World Health Organization (WHO) done to prevent situations that could become a health problem in any country?",
+                    "score": 0.7064,
+                    "answers": "that The World Health Organization ( WHO ) , the body responsible for monitoring and preventing situations that could become a health problem in any country in the world , has alerted Mexico to a terrible risk , and has issued the following statement : ' The World Health Organization ( WHO ) , the body responsible for monitoring and preventing situations that could become a health problem in any country in the world have been observing that in Mexico there has been a very significant increase in the number of people suffering from nervous diseases , depressions , suicidal tendencies , frustration , detachment from their family , aversion to physical activity and ill - will at work , which causes the body to be unable to create naturally the necessary components for dopamine and other elements to perform function|ccomp"
+                },
+                {
+                    "question": "How many people were suffering from nervous diseases in Mexico in 2018?",
+                    "score": 0.6923,
+                    "answers": "www.eldizque.com reported on 16/02/2018 that The World Health Organization ( WHO ) , the body responsible for monitoring and preventing situations that could become a health problem in any country in the world , has alerted Mexico to a terrible risk , and has issued the following statement : ' The World Health Organization ( WHO ) , the body responsible for monitoring and preventing situations that could become a health problem in any country in the world have been observing that in Mexico there has been a very significant increase in the number of people suffering from nervous diseases , depressions , suicidal tendencies , frustration , detachment from their family , aversion to physical activity and ill - will at work , which causes the body to be unable to create naturally the necessary components for dopamine and other elements to perform function|ROOT\tthe following statement : ' The World Health Organization ( WHO ) , the body responsible for monitoring and preventing situations that could become a health problem in any country in the world have been observing that in Mexico there has been a very significant increase in the number of people suffering from nervous diseases , depressions , suicidal tendencies , frustration , detachment from their family , aversion to physical activity and ill - will at work , which causes the body to be unable to create naturally the necessary components for dopamine and other elements to perform function|dobj"
+                },
+                {
+                    "question": "What is the World Health Organization's stance on preventing health problems in Mexico?",
+                    "score": 0.6909,
+                    "answers": "preventing situations that could become a health problem in any country in the world|conj\tpreventing situations that could become a health problem in any country in the world|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'For this reason, The World Health Organization (WHO), the body responsible for monitoring and preventing situations that could become a health problem in any country in the world have determined that if Mexico does not want to have people suffering from the spillage of bile, fatty acid, digestive problems, burning of the colon, gastric ulcers, headache, self-inflicted injuries, hair loss, depression, anxiety, tendency to alcoholism, runny nose and other ills, it is necessary to modify media policies and prohibit the transmission of matches of the football team called Club Deportivo Cruz Azul.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the football team in Mexico City?",
+                    "answer": "Club Deportivo Cruz Azul"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is it necessary to modify media policies if Mexico doesn't want to have people suffering from spillage of bile, fatty acid, digestive problems, burning of the colon, asthma, tendency to alcoholism, runny nose and other ills?",
+                    "score": 0.8332,
+                    "answers": "that if Mexico does not want to have people suffering from the spillage of bile , fatty acid , digestive problems , burning of the colon , gastric ulcers , headache , self - inflicted injuries , hair loss , depression , anxiety , tendency to alcoholism , runny nose and other ills , it is necessary to modify media policies and prohibit the transmission of matches of the football team called Club Deportivo Cruz Azul|ccomp"
+                },
+                {
+                    "question": "What policies should be modified to prevent the transmission of matches of Club Deportivo Cruz Azul?",
+                    "score": 0.7921,
+                    "answers": "media|compound"
+                },
+                {
+                    "question": "How many people suffer from spillage of bile and fatty acid?",
+                    "score": 0.7403,
+                    "answers": "people suffering from the spillage of bile , fatty acid , digestive problems , burning of the colon , gastric ulcers , headache , self - inflicted injuries , hair loss , depression , anxiety , tendency to alcoholism , runny nose and other ills|ccomp"
+                },
+                {
+                    "question": "What are the symptoms of tuberculosis in Mexico?",
+                    "score": 0.7029,
+                    "answers": "hair loss , depression , anxiety , tendency to alcoholism , runny nose and other ills|conj"
+                },
+                {
+                    "question": "What is the World Health Organization's stance on alcohol abuse in Mexico?",
+                    "score": 0.6887,
+                    "answers": "to alcoholism|prep\talcoholism|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This is because The World Health Organization (WHO), the body responsible for monitoring and preventing situations that could become a health problem in any country in the world identify is why many people have these conditions.",
+            "question_answers": [
+                {
+                    "question": "What is the body responsible for monitoring and preventing situations that could become a health problem in any country in the world?",
+                    "answer": "World Health Organization"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have these conditions?",
+                    "score": 0.8066,
+                    "answers": "in any country in the world|prep\tany country in the world|pobj"
+                },
+                {
+                    "question": "How many people have these conditions?",
+                    "score": 0.7721,
+                    "answers": "that This is because The World Health Organization ( WHO ) , the body responsible for monitoring and preventing situations that could become a health problem in any country in the world identify is why many people have these conditions|ccomp\tbecause The World Health Organization ( WHO ) , the body responsible for monitoring and preventing situations that could become a health problem in any country in the world identify is why many people have these conditions|advcl\tmany people|nsubj\twhy many people have these conditions|ccomp\tthese conditions|dobj"
+                },
+                {
+                    "question": "What is the World Health Organization (WHO) responsible for monitoring and preventing situations that could become a health problem?",
+                    "score": 0.755,
+                    "answers": "www.eldizque.com|nsubj\ton 16/02/2018|prep\tis why many people have these conditions|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "'It is not yet determined whether the place where the Blue Stadium is located should be declared a source of infection and thus recommend closure, but as soon as a complete study is held, it will be made known to Mexico , especially to avoid an epidemic that can later become a pandemic worldwide by those foreigners who have been near the place where the Blue Stadium is located .",
+            "question_answers": [
+                {
+                    "question": "When will the Blue Stadium be closed?",
+                    "answer": "as soon as a complete study is held, it will be made known to Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is the Blue Stadium located?",
+                    "score": 0.7258,
+                    "answers": "the|det\tthe place where the Blue Stadium is located|nsubjpass\twhere|advmod\tthe|det\tBlue|compound\twhere the Blue Stadium is located|relcl\tknown to Mexico|oprd\tto Mexico|prep\tworldwide|advmod\tnear the place where the Blue Stadium is located|prep\tthe|det\tthe place where the Blue Stadium is located|pobj\twhere|advmod\tthe|det\tBlue|compound\twhere the Blue Stadium is located|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of where the Blue Stadium is located?",
+                    "score": 0.7061,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 16/02/2018 that ' It is not yet determined whether the place where the Blue Stadium is located should be declared a source of infection and thus recommend closure , but as soon as a complete study is held , it will be made known to Mexico , especially to avoid an epidemic that can later become a pandemic worldwide by those foreigners who have been near the place where the Blue Stadium is located|ROOT\ton 16/02/2018|prep\tthat|mark\t'|punct\tIt|nsubjpass\tis|auxpass\tnot|neg\tyet|advmod\tthat ' It is not yet determined whether the place where the Blue Stadium is located should be declared a source of infection and thus recommend closure , but as soon as a complete study is held , it will be made known to Mexico , especially to avoid an epidemic that can later become a pandemic worldwide by those foreigners who have been near the place where the Blue Stadium is located|ccomp\twhether|mark\tis|auxpass\tshould|aux\tbe|auxpass\ta|det\tand|cc\tthus|advmod\tthus recommend closure|conj\t,|punct\tbut|cc\tas|advmod\tas soon as a complete study is held|advmod\tas|mark\ta|det\tcomplete|amod\ta complete study|nsubjpass\tis|auxpass\tas a complete study is held|advcl\t,|punct\tit|nsubjpass\twill|aux\tbe|auxpass\tas soon as a complete study is held , it will be made known to Mexico , especially to avoid an epidemic that can later become a pandemic worldwide by those foreigners who have been near the place where the Blue Stadium is located|conj\t,|punct\tespecially|advmod\tto|aux\tespecially to avoid an epidemic that can later become a pandemic worldwide by those foreigners who have been near the place where the Blue Stadium is located|advcl\tan|det\tan epidemic that can later become a pandemic worldwide by those foreigners who have been near the place where the Blue Stadium is located|dobj\tthat|nsubj\tcan|aux\tlater|advmod\tthat can later become a pandemic worldwide by those foreigners who have been near the place where the Blue Stadium is located|relcl\ta|det\ta pandemic|attr\tby those foreigners who have been near the place where the Blue Stadium is located|prep\tthose|det\tthose foreigners who have been near the place where the Blue Stadium is located|pobj\twho|nsubj\thave|aux\twho have been near the place where the Blue Stadium is located|relcl\tis|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "'We are at the disposal of the Mexican government to issue any kind of health alert, and to collaborate to help people who for a little longer than  years have suffered from the previous sufferings without seeing an approximate date for conditions to change'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that they were at the disposal of the Mexican government to issue any kind of health alert?",
+                    "answer": "16/02/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Mexican government do to help people who suffer from the sufferings?",
+                    "score": 0.7783,
+                    "answers": "to issue any kind of health alert , and to collaborate to help people who for a little longer than   years have suffered from the previous sufferings without seeing an approximate date for conditions to change|xcomp\thealth alert|pobj"
+                },
+                {
+                    "question": "How many sufferings have the Mexican government worked to help people?",
+                    "score": 0.7548,
+                    "answers": "We|nsubj\tand|cc\tyears|pobj\tfrom the previous sufferings|prep\tthe previous sufferings|pobj\tfor|mark"
+                },
+                {
+                    "question": "How many sufferings has the Mexican government caused?",
+                    "score": 0.719,
+                    "answers": "previous|amod"
+                },
+                {
+                    "question": "How long has the health alert been going on?",
+                    "score": 0.6684,
+                    "answers": "who for a little longer than   years|dep"
+                },
+                {
+                    "question": "How many people have suffered from the previous sufferings without an approximate date for conditions to change?",
+                    "score": 0.662,
+                    "answers": "www.eldizque.com reported on 16/02/2018 that ' We are at the disposal of the Mexican government to issue any kind of health alert , and to collaborate to help people who for a little longer than   years have suffered from the previous sufferings without seeing an approximate date for conditions to change '|ROOT\tto collaborate to help people who for a little longer than   years have suffered from the previous sufferings without seeing an approximate date for conditions to change|conj\tto help people who for a little longer than   years have suffered from the previous sufferings without seeing an approximate date for conditions to change|advcl\tpeople who for a little longer than   years|dobj"
+                }
+            ]
+        }
+    ]
+}

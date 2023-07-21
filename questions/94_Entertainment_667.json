@@ -1,0 +1,242 @@
+{
+    "id": "94_Entertainment_667",
+    "claim": "Mexico. - The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull, has just announced that he reached an agreement with the little boy Yuawi Lopez, who just jumped to fame after playing the sticky song of'Movimiento Ciudadano 'that achieved what the party never imagined: that people knew them. Pitbull mentions that when he saw that the song was trending topic he immediately communicated with the boy, with whom he took'wonderfully'and reached an agreement with his parents to allow the child to record a duet that will include in his next album:'Wow that the child has candela and talent, you know?, I liked it very well, it reminds me of my as a child, you know?, I also composed and already started dancing all at the age of  years. I see a lot of future, when I heard the song I said, you know, I have to have a duet with that kid. And so Yuawi accepted and his potatoes the same, and we're going to record the song that's going to break the discos this , you know?It's going to be pure dad dynamite ', he commented. Pitbull mentions that he will take the original song of Citizen Movement but he will make a couple of arrangements, and keep the full credit:'Many criticize me because he took past melodies, I make some arrangements and I enclose them as mine with the full credit, but you know?, if I turned those past songs into current hits the credit must be mine dad. The song of the Citizen Movement I already bought it and I am happy that Yuawi interprets it in English with me, I will sing most of it but he will do the choirs you know, we will break it in the records Wuuuuu! ', he said. Pitbull mentioned that the melody will be called'Citizen Movement ', and in addition to the child will participate other important singers: 'Beyonce, Miley Cyrus and the good Maluma are interested in joining the song, we will make an amazing team with the good Yuawi you know?, will be the hit of the summer Daddy, one two three four..to break it!, Citizen Movement na na na na na na, Citizen Movement na na na na na na na ', pouted Pitbull. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "04/01/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Mexico.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 04/01/2018 that Mexico was in a state of flux?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the exchange between Mexico and the United States?",
+                    "score": 0.7269,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 04/01/2018 that Mexico|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "- The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull , has just announced that The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull reached an agreement with the little boy Yuawi Lopez, who just jumped to fame after playing the sticky song of'Movimiento Ciudadano 'that achieved what the party never imagined: that people knew the party .",
+            "question_answers": [
+                {
+                    "question": "Who is the singer and composer expert in performing musical duets with practically all the artists of the world?",
+                    "answer": "Pitbull"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What song did Pitbull perform with Yuawi Lopez?",
+                    "score": 0.8427,
+                    "answers": "of'Movimiento|compound"
+                },
+                {
+                    "question": "What song did the song \"Movimiento Ciudadano\" perform?",
+                    "score": 0.7953,
+                    "answers": "sticky|amod"
+                },
+                {
+                    "question": "How many people know the song \"Movimiento Ciudadano\"?",
+                    "score": 0.6569,
+                    "answers": "that achieved what the party never imagined : that people knew the party|relcl"
+                },
+                {
+                    "question": "What is the relationship between Pitbull and Yuawi Lopez?",
+                    "score": 0.6213,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 04/01/2018 that - The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull , has just announced that The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull reached an agreement with the little boy Yuawi Lopez , who just jumped to fame after playing the sticky song of'Movimiento Ciudadano ' that achieved what the party never imagined : that people knew the party|ROOT\ton 04/01/2018|prep\tthat|mark\t-|punct\tThe|det\tsinger and composer|nmod\tand|cc\tcomposer|conj\tThe singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull|nsubj\tmusical|amod\tmusical duets|dobj\twith practically all the artists of the world|prep\tpractically|advmod\tpractically all|nummod\tthe|det\tpractically all the artists of the world|pobj\tof the world|prep\tthe|det\tthe world|pobj\t,|punct\t,|punct\thas|aux\tjust|advmod\tthat - The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull , has just announced that The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull reached an agreement with the little boy Yuawi Lopez , who just jumped to fame after playing the sticky song of'Movimiento Ciudadano ' that achieved what the party never imagined : that people knew the party|ccomp\tthat|mark\tThe|det\tsinger and composer|nmod\tand|cc\tcomposer|conj\tThe singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull|nsubj\tmusical|amod\tmusical duets|dobj\twith practically all the artists of the world|prep\tpractically|advmod\tpractically all|nummod\tthe|det\tpractically all the artists of the world|pobj\tof the world|prep\tthe|det\tthe world|pobj\t,|punct\tthat The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull reached an agreement with the little boy Yuawi Lopez , who just jumped to fame after playing the sticky song of'Movimiento Ciudadano ' that achieved what the party never imagined : that people knew the party|ccomp\tan|det\tan agreement with the little boy Yuawi Lopez , who just jumped to fame after playing the sticky song of'Movimiento Ciudadano ' that achieved what the party never imagined : that people knew the party|dobj\twith the little boy Yuawi Lopez , who just jumped to fame after playing the sticky song of'Movimiento Ciudadano '|prep\tthe|det\tlittle|amod\tthe little boy Yuawi Lopez , who just jumped to fame after playing the sticky song of'Movimiento Ciudadano '|pobj\tYuawi|compound\t,|punct\twho|nsubj\tjust|advmod\twho just jumped to fame after playing the sticky song of'Movimiento Ciudadano '|relcl\tto fame|prep\tfame|pobj\tthe|det\t'|punct\tthat|nsubj\twhat|dobj\tthe|det\tthe party|nsubj\tnever|neg\twhat the party never imagined|advcl\t:|punct\tthat|mark\tpeople|nsubj\twhat the party never imagined : that people knew the party|ccomp\tthe|det\tthe party|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull mentions that when The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull saw that the song was trending topic The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull immediately communicated with the boy, with whom he took'wonderfully'and reached an agreement with parents to allow the boy, with whom he took'wonderfully'and to record a duet that will include in his next album:'Wow that the boy, with whom he took'wonderfully'and has candela and talent, you know?, The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull liked it very well, it reminds The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull of as a child, you know?, The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull also composed and already started dancing all at the age of  years.",
+            "question_answers": [
+                {
+                    "question": "Who is the expert in performing musical duets with practically all the artists of the world?",
+                    "answer": "singer and composer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many artists has Pitbull performed musical duets with?",
+                    "score": 0.7288,
+                    "answers": "The singer and composer expert in performing musical duets with practically all the artists of the world|dep\tin performing musical duets with practically all the artists of the world|prep\tperforming musical duets with practically all the artists of the world|pcomp\twith practically all the artists of the world|prep\tin performing musical duets with practically all the artists of the world|prep\tperforming musical duets with practically all the artists of the world|pcomp\twith practically all the artists of the world|prep\tThe singer and composer expert in performing musical duets with practically all the artists of the world|dep\tin performing musical duets with practically all the artists of the world|prep\tperforming musical duets with practically all the artists of the world|pcomp\twith practically all the artists of the world|prep\tin performing musical duets with practically all the artists of the world|prep\tperforming musical duets with practically all the artists of the world|pcomp\twith practically all the artists of the world|prep\tin performing musical duets with practically all the artists of the world , Pitbull of as a child|prep\tThe singer and composer expert in performing musical duets with practically all the artists of the world|dep\tin performing musical duets with practically all the artists of the world|prep\tperforming musical duets with practically all the artists of the world|pcomp\twith practically all the artists of the world|prep"
+                },
+                {
+                    "question": "How many artists did Pitbull perform duets with?",
+                    "score": 0.7254,
+                    "answers": "practically all|nummod\tpractically all the artists of the world|pobj\tof the world|prep\tthe world|pobj\tpractically all|nummod\tpractically all the artists of the world|pobj\tof the world|prep\tthe world|pobj\tthat when The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull saw that the song was trending|ccomp\tpractically all|nummod\tpractically all the artists of the world|pobj\tof the world|prep\tthe world|pobj\tThe singer and composer expert in performing musical duets with practically all the artists of the world ,|dobj\tpractically all|nummod\tpractically all the artists of the world|pobj\tof the world|prep\tthe world|pobj\tThe singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull of as a child , you know ?|dobj\tpractically all|nummod\tof the world|prep\tthe world|pobj\tpractically all|nummod\tpractically all the artists of the world|pobj\tof the world|prep\tthe world|pobj\tat the age of|prep\tthe age of|pobj"
+                },
+                {
+                    "question": "What did Pitbull say about his duet with the boy?",
+                    "score": 0.7054,
+                    "answers": "candela and talent|dobj"
+                },
+                {
+                    "question": "What did Pitbull do with his son?",
+                    "score": 0.7027,
+                    "answers": "with parents|prep"
+                },
+                {
+                    "question": "What was the relationship between Pitbull and the boy?",
+                    "score": 0.6848,
+                    "answers": "composer|conj\tcomposer|conj\tcomposer|conj\tcomposer|conj\tThe singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull immediately communicated with the boy , with whom he took'wonderfully'and reached an agreement with parents to allow the boy , with whom he took'wonderfully'and to record a duet that will include in his next album:'Wow that the boy , with whom he took'wonderfully'and has candela and talent , you know ? , The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull liked it very well , it reminds The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull of as a child , you know ? ,|ROOT\tcomposer|conj\tcomposer|conj\t  years|dep"
+                }
+            ]
+        },
+        {
+            "claim": "The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull see a lot of future, when The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull heard the song The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull said, you know, The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull have to have a duet with the boy, with whom he took'wonderfully'and .",
+            "question_answers": [
+                {
+                    "question": "Who saw a lot of future when The singer and composer expert in performing musical duets with practically all the artists of the world?",
+                    "answer": "Pitbull"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who did Pitbull have a duet with?",
+                    "score": 0.8518,
+                    "answers": "The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull have to have a duet with the boy , with whom he took'wonderfully'and|ccomp\tto have a duet with the boy , with whom he took'wonderfully'and|xcomp\ta duet with the boy , with whom he took'wonderfully'and|dobj\twith the boy , with whom he took'wonderfully'and|prep\tthe boy , with whom he took'wonderfully'and|pobj\twith whom he took'wonderfully'and|relcl"
+                },
+                {
+                    "question": "What song did Pitbull perform with almost all the artists of the world?",
+                    "score": 0.8347,
+                    "answers": "that|mark\tThe|det\tand|cc\tThe|det\tand|cc\tThe|det\tand|cc\tThe|det\tand|cc\tto|aux"
+                },
+                {
+                    "question": "How many artists has Pitbull performed duets with?",
+                    "score": 0.8242,
+                    "answers": "practically all the artists of the world|pobj\tof future|prep\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tyou know|parataxis\tpractically all the artists of the world|pobj"
+                },
+                {
+                    "question": "What is the relationship between Pitbull and other artists?",
+                    "score": 0.7383,
+                    "answers": "see a lot of future|dep\twhom|pobj"
+                },
+                {
+                    "question": "What is \"elruinaversal.com\"?",
+                    "score": 0.6982,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And so the boy, with whom he took'wonderfully'and accepted and potatoes the same, and we're going to record a duet that will include in his next album:'Wow , you know?It's going to be pure dad dynamite ', The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull commented.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the duet that Pitbull is going to record?",
+                    "answer": "pure dad dynamite"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What albums have Pitbull performed with other artists?",
+                    "score": 0.8622,
+                    "answers": "next|amod"
+                },
+                {
+                    "question": "What albums has Pitbull recorded with other artists?",
+                    "score": 0.8469,
+                    "answers": "we|nsubj\twill|aux\tthat will include in his next album:'Wow ,|relcl"
+                },
+                {
+                    "question": "How many artists has Pitbull performed duets with?",
+                    "score": 0.7722,
+                    "answers": "' , The singer and composer expert in performing musical duets with practically all the artists of the world|ccomp\tin performing musical duets with practically all the artists of the world|prep\tperforming musical duets with practically all the artists of the world|pcomp"
+                },
+                {
+                    "question": "What did Pitbull do with potatoes?",
+                    "score": 0.7097,
+                    "answers": "with whom he took'wonderfully'and|relcl"
+                },
+                {
+                    "question": "What is the name of the song that Pitbull performed with a boy?",
+                    "score": 0.6383,
+                    "answers": "with whom he|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull mentions that The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull will take the original song of Citizen Movement but The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull will make a couple of arrangements, and keep the full credit:'Many criticize The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull because The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull took past melodies , The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull make some arrangements and The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull enclose some arrangements as The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull with the full credit, but you know?, if The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull turned past melodies into current hits the credit must be The singer and composer expert in performing musical duets with practically all the artists of the world, Pitbull dad.",
+            "question_answers": [
+                {
+                    "question": "What did Pitbull turn into current hits?",
+                    "answer": "past melodies"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many albums has Pitbull performed with other artists?",
+                    "score": 0.8236,
+                    "answers": "that The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull will take the original song of Citizen Movement but The singer and composer expert in performing musical duets with practically all the artists of the world , Pitbull will make a couple of arrangements , and keep the full credit:'Many|ccomp\tkeep the full credit:'Many|conj"
+                },
+                {
+                    "question": "How many songs did Pitbull perform with other artists?",
+                    "score": 0.816,
+                    "answers": "past melodies|dobj\tpast melodies|dobj"
+                },
+                {
+                    "question": "What did Pitbull do to perform musical duets with other artists?",
+                    "score": 0.8112,
+                    "answers": "practically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj\tpractically all the artists of the world|pobj"
+                },
+                {
+                    "question": "How many arrangements did Pitbull make with the artists of the world?",
+                    "score": 0.8072,
+                    "answers": "a couple of arrangements|dobj\tmake some arrangements|conj"
+                },
+                {
+                    "question": "What did Pitbull say about the singer and composer expert in performing musical duets with practically all the artists?",
+                    "score": 0.7958,
+                    "answers": "if|mark"
+                }
+            ]
+        },
+        {
+            "claim": "The song of the Citizen Movement I already bought it and I am happy that Yuawi interprets it in English with me, I will sing most of it but he will do the choirs you know, we will break it in the records Wuuuuu! ', he said.",
+            "question_answers": [
+                {
+                    "question": "Who interprets the song of the Citizen Movement with me?",
+                    "answer": "Yuawi"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the song of the Citizen Movement?",
+                    "score": 0.6432,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 04/01/2018|ccomp\ton 04/01/2018|prep\tthat|mark\tThe|det\tThe song of the Citizen Movement|dobj\tof the Citizen Movement|prep\tthe|det\tCitizen|compound\tI|nsubj\talready|advmod\tThe song of the Citizen Movement I already bought it|ccomp\tit|dobj\tand|cc\tI|nsubj\tand I am happy that Yuawi interprets it in English with me|ccomp\thappy that Yuawi interprets it in English with me|acomp\tthat|mark\tthat Yuawi interprets it in English with me|ccomp\tit|dobj\tin English|prep\twith me|prep\tme|pobj\t,|punct\tI|nsubj\twill|aux\tI will sing most of it but he will do the choirs|ccomp\tmost of it|dobj\tof it|prep\tit|pobj\tbut|cc\the|nsubj\twill|aux\the will do the choirs|conj\tthe|det\tthe choirs|dobj\tyou|nsubj\tyou know|parataxis\t,|punct\twe|nsubj\twill|aux\tthat The song of the Citizen Movement I already bought it and I am happy that Yuawi interprets it in English with me , I will sing most of it but he will do the choirs you know , we will break it in the records Wuuuuu !|ccomp\tit|dobj\tin the records|prep\tthe|det\tthe records|pobj\tWuuuuu|intj\t!|punct\t'|punct\t,|punct\the|nsubj\twww.elruinaversal.com reported on 04/01/2018 that The song of the Citizen Movement I already bought it and I am happy that Yuawi interprets it in English with me , I will sing most of it but he will do the choirs you know , we will break it in the records Wuuuuu ! ' , he said|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Pitbull mentioned that the melody will be called'Citizen Movement ', and in addition to the child will participate other important singers: 'Beyonce, Miley Cyrus and the good Maluma are interested in joining the song, we will make an amazing team with the good Yuawi you know?, will be the hit of the summer Daddy, one two three four..to break it!, Citizen Movement na na na na na na, Citizen Movement na na na na na na na ', pouted Pitbull.",
+            "question_answers": [
+                {
+                    "question": "What is the name of Pitbull's song?",
+                    "answer": "Citizen Movement"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the song \"Citizen Movement\"?",
+                    "score": 0.5669,
+                    "answers": "on 04/01/2018|prep\tthat|mark\tthat|mark\tthe|det\tthe melody|nsubjpass\twill|aux\tbe|auxpass\tthat the melody will be called'Citizen Movement '|ccomp\t'|punct\t,|punct\tand|cc\tin addition|prep\taddition|pobj\tto|mark\tthe|det\twill|aux\t:|punct\t'|punct\t,|punct\tand|cc\tthe|det\tgood|amod\tthe|det\tthe song|dobj\t,|punct\twe|nsubj\twill|aux\twe will make an amazing team with the good Yuawi you know ? ,|ccomp\tan|det\tamazing|amod\tthe|det\tgood|amod\tyou|nsubj\tyou know|parataxis\t?|punct\t,|punct\twill|aux\tthe|det\tthe hit of the summer|attr\tof the summer|prep\tthe|det\tDaddy|npadvmod\t,|punct\tone two|dep\t, one two three four|dep\t..|punct\tto|aux\tDaddy , one two three four .. to break it|conj\tit|dobj\t!|punct\t,|punct\tCitizen Movement na na na na na na , Citizen Movement na na na na na na na|ccomp\tna|nmod\tna|nmod\tna|nmod\tna|nmod\tna|nmod\tna|intj\t,|punct\tCitizen Movement na na na na na na na|appos\tna|intj\tna|intj\tna|intj\tna|intj\tna|intj\tna|intj\t'|punct\t,|punct"
+                },
+                {
+                    "question": "What is the relationship between Beyonce, Miley Cyrus and Maluma?",
+                    "score": 0.5653,
+                    "answers": ": ' Beyonce , Miley Cyrus and the good Maluma are interested in joining the song , we will make an amazing team with the good Yuawi you know ? , will be the hit of the summer Daddy , one two three four .. to break it ! , Citizen Movement na na na na na na , Citizen Movement na na na na na na na ' , pouted Pitbull|ROOT"
+                },
+                {
+                    "question": "What is Citizen Movement?",
+                    "score": 0.5354,
+                    "answers": "Citizen|compound\tCitizen|compound"
+                }
+            ]
+        }
+    ]
+}

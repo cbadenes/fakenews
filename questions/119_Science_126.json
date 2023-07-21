@@ -1,0 +1,406 @@
+{
+    "id": "119_Science_126",
+    "claim": "Microsoft joins Apple to protect users' privacy and will include content blockers in your Edge browser for iOS and Android. Looks like they're all going against Google, but the truth is that in the end it's their business. Since Apple announced plans to introduce anti-trailer systems into iOS's Safari browser and open the door to ad blockers within its app store things have changed in the mobile landscape. And it is close to getting tougher with the new measures it proposes with the arrival of iOS  and Mojave. However, so far Apple was alone in this fight against intrusive ads and user tracking, at least in which it refers to large companies. Yes, Android includes a good list of blockers in its stores, and many of them are able to remove system-level trackers (including third-party apps), but by default the issue remains in Google's hands and not all users use these tools. Logically, Google is not going to boost this industry. While he has collaborated with some adblockers companies for what are called'acceptable ads\", as is logically the bulk of Google's business model is advertising. Now things are going to get a little bit complicated for the company, and we say a little bit because Microsoft's next move is going to increase the firewood to this fight between responsible, invasive advertising and user tracking. And it is that Microsoft has confirmed that its Edge browser for iOS and Android will include a serial advertising blocker activated by default. While the browsing fee is complicated to shade Chrome on Android or Safari on iOS, if it reveals another great company, along with Mozilla, that adds to the blocking of content on the user side activated by default. Chrome for the desktop recently activated a blocked ads, controlled by Google but it's far from what big adblockers do. The question is whether in the short term this movement will be installed on every majority platform, forcing to change diametrically the advertising that users see on the network. I'm sorry.",
+    "source": "hipertextual.com",
+    "date": "25/06/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Microsoft joins Apple to protect users' privacy and will include content blockers in your Edge browser for iOS and Android .",
+            "question_answers": [
+                {
+                    "question": "Why did Microsoft join Apple?",
+                    "answer": "to protect users' privacy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does hipertextual.com say about Microsoft joining Apple?",
+                    "score": 0.7465,
+                    "answers": "that|mark\tto|aux\tand|cc\tcontent|compound\tand|cc"
+                },
+                {
+                    "question": "What are the features of Apple's Edge browser for iOS and Android?",
+                    "score": 0.6839,
+                    "answers": "for iOS and Android|prep"
+                },
+                {
+                    "question": "What are the content blockers?",
+                    "score": 0.6426,
+                    "answers": "content blockers|dobj"
+                },
+                {
+                    "question": "What is the relationship between Microsoft and Apple?",
+                    "score": 0.6275,
+                    "answers": "hipertextual.com reported on 25/06/2018 that Microsoft joins Apple to protect users ' privacy and will include content blockers in your Edge browser for iOS and Android|ROOT\ton 25/06/2018|prep\tthat Microsoft joins Apple to protect users ' privacy and will include content blockers in your Edge browser for iOS and Android|ccomp\tto protect users ' privacy|advcl\twill|aux"
+                },
+                {
+                    "question": "What is hipertextual.com?",
+                    "score": 0.5409,
+                    "answers": "users '|poss\t'|case\tyour|poss"
+                }
+            ]
+        },
+        {
+            "claim": "Looks like they 're all going against Google , but the truth is that in the end it's business.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Google and hipertextual.com?",
+                    "score": 0.5441,
+                    "answers": "on 25/06/2018|prep\tthat|mark\tthat Looks like they 're all going against Google , but the truth is that in the end it 's business|ccomp\tlike|mark\tthey|nsubj\tall|dep\tlike they 're all going against Google|advcl\tbut|cc\tthe|det\tthat|mark\tin the end|prep\tthe|det\tthe end|pobj\tthat in the end it 's business|ccomp"
+                },
+                {
+                    "question": "What is hipertextual.com?",
+                    "score": 0.5162,
+                    "answers": "hipertextual.com reported on 25/06/2018 that Looks like they 're all going against Google , but the truth is that in the end it 's business|ROOT\t're|aux\tagainst Google|prep\t,|punct\tthe truth|nsubj\tthe truth is that in the end it 's business|conj\tit|nsubj\tbusiness|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Since Apple announced plans to introduce anti-trailer systems into iOS Safari browser and open the door to ad blockers within app store things have changed in the mobile landscape.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/06/2018 that since Apple announced plans to introduce anti-trailer systems into iOS Safari browser?",
+                    "answer": "hipertextual.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Apple say about implementing anti-trailer systems into iOS Safari browser?",
+                    "score": 0.7749,
+                    "answers": "on 25/06/2018|prep"
+                },
+                {
+                    "question": "What are the anti-trailer systems in iOS Safari browsers?",
+                    "score": 0.6527,
+                    "answers": "trailer|amod"
+                },
+                {
+                    "question": "What are ad blockers?",
+                    "score": 0.5786,
+                    "answers": "ad blockers|pobj"
+                },
+                {
+                    "question": "What is the current mobile landscape?",
+                    "score": 0.544,
+                    "answers": "mobile|amod"
+                }
+            ]
+        },
+        {
+            "claim": "And Apple is close to getting tougher with the new measures Apple proposes with the arrival of iOS  and Mojave.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/06/2018 that Apple is close to getting tougher with the new measures Apple propose with the arrival of iOS and Mojave?",
+                    "answer": "hipertextual.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures did Apple propose with the arrival of iOS and Mojave?",
+                    "score": 0.8076,
+                    "answers": "hipertextual.com reported on 25/06/2018 that And Apple is close to getting tougher with the new measures Apple proposes with the arrival of iOS   and Mojave|ROOT\ton 25/06/2018|prep\tthat|mark\tthat And Apple is close to getting tougher with the new measures Apple proposes with the arrival of iOS|ccomp\tclose to getting tougher with the new measures Apple proposes with the arrival of iOS|acomp\tto getting tougher with the new measures Apple proposes with the arrival of iOS|prep\tgetting tougher with the new measures Apple proposes with the arrival of iOS|pcomp\twith the new measures Apple proposes with the arrival of iOS|prep\tthe|det\tnew|amod\tthe new measures Apple proposes with the arrival of iOS|pobj\tApple proposes with the arrival of iOS|relcl\twith the arrival of iOS|prep\tthe|det\tthe arrival of iOS|pobj\t  and Mojave|dep\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "However, so far Apple was alone in this fight against intrusive ads and user tracking , at least in which it refers to large companies.",
+            "question_answers": [
+                {
+                    "question": "What did hipertextual.com say Apple was alone in its fight against?",
+                    "answer": "intrusive ads and user tracking"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Apple's stance on intrusive ads and user tracking?",
+                    "score": 0.7132,
+                    "answers": "hipertextual.com reported on 25/06/2018 that However , so far Apple was alone in this fight against intrusive ads and user tracking , at least in which it refers to large companies|ROOT\ton 25/06/2018|prep\tthat|mark\tHowever|advmod\t,|punct\tso|advmod\tthat However , so far Apple was alone in this fight against intrusive ads and user tracking , at least in which it refers to large companies|ccomp\talone|acomp\tthis|det\tthis fight against intrusive ads and user tracking ,|pobj\tagainst intrusive ads and user tracking ,|prep\tand|cc\t,|punct\tat|advmod\tit|nsubj\tat least in which it refers to large companies|advcl\tto large companies|prep\tlarge|amod"
+                },
+                {
+                    "question": "What does hipertextual.com say about Apple and user tracking?",
+                    "score": 0.6727,
+                    "answers": "user tracking|conj"
+                },
+                {
+                    "question": "What are the names of large companies?",
+                    "score": 0.6673,
+                    "answers": "large companies|pobj"
+                },
+                {
+                    "question": "What is the relationship between Apple and Hipertextual.com?",
+                    "score": 0.5804,
+                    "answers": "at least|advmod"
+                },
+                {
+                    "question": "What is hipertextual.com?",
+                    "score": 0.5603,
+                    "answers": "in this fight against intrusive ads and user tracking ,|prep\tin which|prep\twhich|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Yes, Android includes a good list of blockers in stores, and many of a good list of blockers are able to remove system-level trackers (including third-party apps), but by default the issue remains in Google hands and not all users use these tools.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Yes, Android includes a good list of blockers in stores?",
+                    "answer": "hipertextual.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Android do to remove system-level trackers?",
+                    "score": 0.8046,
+                    "answers": "that Yes , Android includes a good list of blockers in stores , and many of a good list of blockers are able to remove system - level trackers ( including third - party apps ) , but by default the issue remains in Google hands and not all users use these tools|ccomp"
+                },
+                {
+                    "question": "How many third-party apps use Android?",
+                    "score": 0.766,
+                    "answers": "the issue|nsubj\tthese tools|dobj"
+                },
+                {
+                    "question": "How many systems-level trackers are available on Android?",
+                    "score": 0.7254,
+                    "answers": "many of a good list of blockers|nsubj\tsystem - level trackers ( including third - party apps )|dobj\tbut|cc\tnot all|nummod"
+                },
+                {
+                    "question": "What does hipertextual.com say about Android's trackers?",
+                    "score": 0.7245,
+                    "answers": "on 25/06/2018|prep"
+                },
+                {
+                    "question": "How many users use the Android blockers?",
+                    "score": 0.7211,
+                    "answers": "by default the issue remains in Google hands and not all users use these tools|conj\tnot all users use these tools|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Logically, Google is not going to boost this industry.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/06/2018 that Google wasn't going to boost this industry?",
+                    "answer": "hipertextual.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Google doing to boost the industry?",
+                    "score": 0.8681,
+                    "answers": "to boost this industry|xcomp"
+                },
+                {
+                    "question": "What does hipertextual.com say about Google?",
+                    "score": 0.7853,
+                    "answers": "on 25/06/2018|prep\tthat|mark\t,|punct\tis|aux\tnot|neg\tto|aux\tthis|det"
+                },
+                {
+                    "question": "What is the relationship between Google and hipertextual.com?",
+                    "score": 0.6225,
+                    "answers": "hipertextual.com reported on 25/06/2018 that Logically , Google is not going to boost this industry|ROOT\tthat Logically , Google is not going to boost this industry|ccomp"
+                },
+                {
+                    "question": "What is hipertextual.com?",
+                    "score": 0.6166,
+                    "answers": "Logically|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "While Google has collaborated with some adblockers companies for what are called'acceptable ads\", as is logically the bulk of Google business model is advertising.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/06/2018 that Google has collaborated with some adblockers companies?",
+                    "answer": "hipertextual.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are acceptable ads?",
+                    "score": 0.7618,
+                    "answers": "for what are called'acceptable ads|prep\twhat are called'acceptable ads|pcomp"
+                },
+                {
+                    "question": "What does hipertextual.com say about ads?",
+                    "score": 0.7477,
+                    "answers": "\"|punct"
+                },
+                {
+                    "question": "What is Google's business model for advertising?",
+                    "score": 0.7271,
+                    "answers": "hipertextual.com reported on 25/06/2018 that While Google has collaborated with some adblockers companies for what are called'acceptable ads \" , as is logically the bulk of Google business model is advertising|ROOT\ton 25/06/2018|prep\tthat|mark\tWhile|mark\thas|aux\tWhile Google has collaborated with some adblockers companies for what are called'acceptable ads|advcl\twith some adblockers companies|prep\tsome|det\tadblockers|compound\tsome adblockers companies|pobj\twhat|nsubjpass\tare|auxpass\tads|oprd\t,|punct\tas|mark\tthat While Google has collaborated with some adblockers companies for what are called'acceptable ads \" , as is logically the bulk of Google business model is advertising|ccomp\tlogically|advmod\tthe|det\tthe bulk of Google business model|nsubj\tbusiness|compound\tthe bulk of Google business model is advertising|ccomp\tadvertising|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Now things are going to get a little bit complicated for Google , and we say a little bit because Microsoft next move is going to increase the firewood to this fight against intrusive ads and user tracking .",
+            "question_answers": [
+                {
+                    "question": "Who did hipertextual.com report that now things are going to get a little bit complicated for?",
+                    "answer": "Google"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will Microsoft increase the firewood to fight against intrusive ads and user tracking?",
+                    "score": 0.7423,
+                    "answers": "and we say a little bit because Microsoft next move is going to increase the firewood to this fight against intrusive ads and user tracking|parataxis\tbecause Microsoft next move is going to increase the firewood to this fight against intrusive ads and user tracking|advcl"
+                },
+                {
+                    "question": "What are the benefits of adding firewood to the fight against intrusive ads?",
+                    "score": 0.6352,
+                    "answers": "user tracking|conj"
+                },
+                {
+                    "question": "What is the purpose of the firewood program?",
+                    "score": 0.5523,
+                    "answers": "to increase the firewood to this fight against intrusive ads and user tracking|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the firewood being added to the program?",
+                    "score": 0.5439,
+                    "answers": "the firewood|dobj"
+                },
+                {
+                    "question": "What is the relationship between Microsoft and Hipertextual.com?",
+                    "score": 0.5168,
+                    "answers": "hipertextual.com reported on 25/06/2018 that Now things are going to get a little bit complicated for Google , and we say a little bit because Microsoft next move is going to increase the firewood to this fight against intrusive ads and user tracking|ROOT\ton 25/06/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And it is that Microsoft has confirmed that its Edge browser for iOS and Android will include a serial advertising blocker activated by default.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/06/2018 that Microsoft has confirmed that its Edge browser will include a serial advertising blocker?",
+                    "answer": "hipertextual.com"
+                },
+                {
+                    "question": "What does the Edge browser include that is activated by default?",
+                    "answer": "a serial advertising blocker"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Microsoft say about its Edge browser for iOS and Android?",
+                    "score": 0.8095,
+                    "answers": "hipertextual.com reported on 25/06/2018 that And it is that Microsoft has confirmed that its Edge browser for iOS and Android will include a serial advertising blocker activated by default|ROOT\tthat Microsoft has confirmed that its Edge browser for iOS and Android will include a serial advertising blocker activated by default|ccomp\tthat its Edge browser for iOS and Android will include a serial advertising blocker activated by default|ccomp"
+                },
+                {
+                    "question": "What does hipertextual.com say about Microsoft's Edge browser?",
+                    "score": 0.745,
+                    "answers": "on 25/06/2018|prep"
+                },
+                {
+                    "question": "What is the serial advertising blocker?",
+                    "score": 0.6208,
+                    "answers": "a serial advertising blocker activated by default|dobj"
+                },
+                {
+                    "question": "What is hipertextual.com?",
+                    "score": 0.5448,
+                    "answers": "advertising|compound"
+                }
+            ]
+        },
+        {
+            "claim": "While the browsing fee is complicated to shade Chrome on Android or Safari on iOS, if it reveals another great company, along with Mozilla, that adds to the blocking of content on the user side activated by default.",
+            "question_answers": [
+                {
+                    "question": "What would happen to Chrome if it reveals another great company, along with Mozilla, that adds to the blocking of content on the user side activated by default?",
+                    "answer": "if it reveals another great company, along with Mozilla, that adds to the blocking of content on the user side activated by default"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it cost to shade Chrome on Android or Safari on iOS?",
+                    "score": 0.8046,
+                    "answers": "that While the browsing fee is complicated to shade Chrome on Android or Safari on iOS|advcl"
+                },
+                {
+                    "question": "What are the benefits of using a browser on Android or Safari?",
+                    "score": 0.7,
+                    "answers": "that While the browsing fee is complicated to shade Chrome on Android or Safari on iOS , if it reveals another great company , along with Mozilla , that adds to the blocking of content on the user side activated by default|ccomp"
+                },
+                {
+                    "question": "What are the features of Android and Safari on iOS?",
+                    "score": 0.6938,
+                    "answers": "to shade Chrome on Android or Safari on iOS|xcomp\tSafari on iOS|conj"
+                },
+                {
+                    "question": "What is the fee for using the Chrome browser?",
+                    "score": 0.6856,
+                    "answers": "the browsing fee|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the Android and Safari companies?",
+                    "score": 0.6291,
+                    "answers": "along with Mozilla|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Chrome for the desktop recently activated a blocked ads, controlled by Google but it's far from what big adblockers do.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Chrome for the desktop recently activated a blocked ads?",
+                    "answer": "hipertextual.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What block ads are blocked by Google?",
+                    "score": 0.8456,
+                    "answers": "from what big adblockers do|prep"
+                },
+                {
+                    "question": "How many blocked ads are there?",
+                    "score": 0.7384,
+                    "answers": "on 25/06/2018|prep\tthat|mark\tthe|det\trecently|advmod\tthat Chrome for the desktop recently activated a blocked ads , controlled by Google but it 's far from what big adblockers do|ccomp\ta|det\tblocked|amod\tcontrolled by Google|acl\tby Google|agent\tbut|cc\tit|nsubj\tfar from what big adblockers do|advmod\twhat|dobj\tbig|amod"
+                },
+                {
+                    "question": "How many ad block ads are there?",
+                    "score": 0.7246,
+                    "answers": "it 's far from what big adblockers do|conj"
+                },
+                {
+                    "question": "What are the blocked ads?",
+                    "score": 0.7207,
+                    "answers": "hipertextual.com reported on 25/06/2018 that Chrome for the desktop recently activated a blocked ads , controlled by Google but it 's far from what big adblockers do|ROOT\ta blocked ads , controlled by Google|dobj"
+                },
+                {
+                    "question": "What are the big ad blockers?",
+                    "score": 0.6224,
+                    "answers": "big adblockers|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The question is whether in the short term this movement will be installed on every majority platform, forcing to change diametrically the advertising that users see on the network.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/06/2018 that the question is whether this movement will be installed on every majority platform?",
+                    "answer": "hipertextual.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current advertising rate on most majority platform?",
+                    "score": 0.6267,
+                    "answers": "that users see on the network|relcl"
+                },
+                {
+                    "question": "What will be installed on every majority platform in the short term?",
+                    "score": 0.5749,
+                    "answers": "that The question is whether in the short term this movement will be installed on every majority platform , forcing to change diametrically the advertising that users see on the network|ccomp"
+                },
+                {
+                    "question": "What is hipertextual.com?",
+                    "score": 0.4761,
+                    "answers": "hipertextual.com reported on 25/06/2018 that The question is whether in the short term this movement will be installed on every majority platform , forcing to change diametrically the advertising that users see on the network|ROOT\ton 25/06/2018|prep\tthat|mark\tThe|det\tThe question|nsubj\twhether|mark\tin the short term|prep\tthe|det\tshort|amod\tthe short term|pobj\tthis|det\tthis movement|nsubjpass\twill|aux\tbe|auxpass\twhether in the short term this movement will be installed on every majority platform , forcing to change diametrically the advertising that users see on the network|ccomp\ton every majority platform|prep\tevery|det\tmajority|compound\tevery majority platform|pobj\t,|punct\tforcing to change diametrically the advertising that users see on the network|advcl\tto|aux\tto change diametrically the advertising that users see on the network|xcomp\tdiametrically|advmod\tthe|det\tthe advertising that users see on the network|dobj\tthat|dobj\tusers|nsubj\ton the network|prep\tthe|det\tthe network|pobj"
+                }
+            ]
+        }
+    ]
+}

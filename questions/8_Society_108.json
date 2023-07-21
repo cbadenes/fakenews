@@ -1,0 +1,119 @@
+{
+    "id": "8_Society_108",
+    "claim": "The Municipal Government today published its call for scholarships for persons with disabilities in the State of Chihuahua, know the dates and requirements here. Through the Directorate of Human Development and Education to promote 'Together a Better City ', a campaign to improve the quality of life of persons with disabilities who are also of limited resources. In addition to personally delivering the requirements is the option to do it online on the official Municipal Government page. These grants run from April to December of , and payments will be three bimonthly and one quarterly, all the necessary requirements can be seen Click Here. The dates of delivery of these calls vary according to the municipality but for the urban areas it will be from  to  of February with schedule of : am a : pm, in the cases of rural areas it will be from  to  of February with places and times shown on the page. I'm sorry.",
+    "source": "www.tiempo.com.mx",
+    "date": "21/01/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The Municipal Government today published its call for scholarships for persons with disabilities in the State of Chihuahua, know the dates and requirements here.",
+            "question_answers": [
+                {
+                    "question": "When did the Municipal Government publish its call for scholarships for persons with disabilities in the State of Chihuahua?",
+                    "answer": "21/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Municipal Government call for scholarships for persons with disabilities in the State of Chihuahua in 2018?",
+                    "score": 0.8277,
+                    "answers": "that The Municipal Government today published its call for scholarships for persons with disabilities in the State of Chihuahua|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Through the Directorate of Human Development and Education to promote 'Together a Better City ', a campaign to improve the quality of life of persons with disabilities who are also of limited resources.",
+            "question_answers": [
+                {
+                    "question": "What is a campaign to improve the quality of life of persons with disabilities?",
+                    "answer": "'Together a Better City"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of the Together a Better City campaign?",
+                    "score": 0.6341,
+                    "answers": "www.tiempo.com.mx|nsubj\tThrough the Directorate of Human Development and Education|prep"
+                },
+                {
+                    "question": "What is Together a Better City?",
+                    "score": 0.6199,
+                    "answers": "www.tiempo.com.mx reported on 21/01/2018 that Through the Directorate of Human Development and Education to promote ' Together a Better City ' , a campaign to improve the quality of life of persons with disabilities who are also of limited resources|ROOT\tthat|mark\tthe|det\tof Human Development and Education|prep\tHuman|compound\tand|cc\tEducation|conj\tthat Through the Directorate of Human Development and Education to promote ' Together a Better City|advcl\t'|punct\tTogether|advmod\ta|det\tBetter|compound\tTogether a Better City|dobj\t'|punct\t,|punct\ta|det\tthat Through the Directorate of Human Development and Education to promote ' Together a Better City ' , a campaign to improve the quality of life of persons with disabilities who are also of limited resources|ccomp\tthe|det\tthe quality of life of persons with disabilities who are also of limited resources|dobj\tof life|prep\tlife|pobj\tof persons with disabilities who are also of limited resources|prep\twith disabilities|prep\tdisabilities|pobj\twho|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition to personally delivering the requirements is the option to do it online on the official Municipal Government page.",
+            "question_answers": [
+                {
+                    "question": "What is the option to do it online on the official Municipal Government page?",
+                    "answer": "personally delivering the requirements"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is it possible to deliver the requirements online or online?",
+                    "score": 0.8644,
+                    "answers": "to do it online on the official Municipal Government page|acl"
+                },
+                {
+                    "question": "What are the requirements for personally delivering the requirements?",
+                    "score": 0.7635,
+                    "answers": "to personally delivering the requirements|prep"
+                },
+                {
+                    "question": "What is the official Municipal Government page?",
+                    "score": 0.6852,
+                    "answers": "on the official Municipal Government page|prep\tthe official Municipal Government page|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "These grants run from April to December of , and payments will be three bimonthly and one quarterly, all the necessary requirements can be seen Click Here.",
+            "question_answers": [
+                {
+                    "question": "When do these grants run?",
+                    "answer": "April to December of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long do grants run from April to December?",
+                    "score": 0.823,
+                    "answers": "from April to December|prep"
+                },
+                {
+                    "question": "How long will it take to apply for grants?",
+                    "score": 0.8145,
+                    "answers": "all the necessary requirements|nsubjpass"
+                },
+                {
+                    "question": "How long will these grants run?",
+                    "score": 0.8061,
+                    "answers": "These grants|nsubj\tone quarterly|conj"
+                },
+                {
+                    "question": "What are the requirements for these grants?",
+                    "score": 0.779,
+                    "answers": "payments will be three bimonthly and one quarterly ,|conj\tnecessary|amod\tthat These grants run from April to December of , and payments will be three bimonthly and one quarterly , all the necessary requirements can be seen Click Here|ccomp\tClick Here|dep"
+                }
+            ]
+        },
+        {
+            "claim": "The dates of delivery of these calls vary according to the municipality but for the urban areas it will be from  to  of February with schedule of : am a : pm, in the cases of rural areas it will be from  to  of February with places and times shown on the page.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the dates of delivery of these calls?",
+                    "score": 0.5881,
+                    "answers": "www.tiempo.com.mx reported on 21/01/2018 that The dates of delivery of these calls vary according to the municipality but for the urban areas it will be from   to   of February with schedule of : am a : pm|ccomp\tthat|mark\tThe|det\tthese|det\tthese calls|pobj\tthe|det\tbut|cc\tthe|det\turban|amod\tthe urban areas|pobj\tit|nsubj\twill|aux\tfrom|prep\tto|prep\t:|punct\ta|nmod\t:|punct\t,|punct\tin the cases of rural areas|prep\tthe|det\tthe cases of rural areas|pobj\tof rural areas|prep\trural|amod\trural areas|pobj\tit|nsubj\twill|aux\twww.tiempo.com.mx reported on 21/01/2018 that The dates of delivery of these calls vary according to the municipality but for the urban areas it will be from   to   of February with schedule of : am a : pm , in the cases of rural areas it will be from   to   of February with places and times shown on the page|ROOT\tfrom|prep\tto|prep\tand|cc\ttimes|conj\tthe|det"
+                },
+                {
+                    "question": "What is the schedule for delivery of calls in rural areas?",
+                    "score": 0.5804,
+                    "answers": "am a : pm|pobj\tshown on the page|acl"
+                }
+            ]
+        }
+    ]
+}

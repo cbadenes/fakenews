@@ -1,0 +1,164 @@
+{
+    "id": "59_Security_189",
+    "claim": "A new measure proposed by the Directorate-General for Traffic (DGT) will also force drivers and drivers' companions to blow in the alcohol test. According to the DGT it is good that even if the pilot did not drink there is another person in the vehicle free of alcohol in case during the trip the driver could feel indisposed. For drivers travelling alone this will not be taken into account, but those who are accompanied must pass the alcohol test so that at least one of the companions can count as an alternative driver.'We think it's the safest way to drive, no one knows if something can happen to the driver during the journey and it's good that there's always a co-driver available,'explains Alberto Bermúdez, DGT communication director. The new measure will be launched from the next  of July so that this summer we can have safer roads in our country. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "19/05/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A new measure proposed by the Directorate-General for Traffic (DGT) will also force drivers and drivers' companions to blow in the alcohol test.",
+            "question_answers": [
+                {
+                    "question": "What will the new measure force drivers and drivers' companions to do?",
+                    "answer": "blow in the alcohol test"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures did the Directorate-General for Traffic propose?",
+                    "score": 0.6717,
+                    "answers": "proposed by the Directorate - General for Traffic ( DGT )|acl"
+                },
+                {
+                    "question": "What is the new measure proposed by the Directorate-General for Traffic?",
+                    "score": 0.5145,
+                    "answers": "new|amod\tfor Traffic|prep\tto blow in the alcohol test|xcomp"
+                },
+                {
+                    "question": "What is the purpose of DGT?",
+                    "score": 0.4577,
+                    "answers": "by the Directorate - General for Traffic ( DGT )|agent\tDirectorate|compound\tthe Directorate - General for Traffic ( DGT )|pobj\tTraffic|pobj\tdrivers ' companions|conj\tto|aux"
+                }
+            ]
+        },
+        {
+            "claim": "According to the DGT it is good that even if the pilot did not drink there is another person in the vehicle free of alcohol in case during the trip the driver could feel indisposed.",
+            "question_answers": [
+                {
+                    "question": "Who said that according to the DGT it is good that even if the pilot did not drink there was another person in the vehicle free of alcohol?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people in a vehicle are free of alcohol?",
+                    "score": 0.6729,
+                    "answers": "that even if the pilot did not drink there is another person in the vehicle free of alcohol in case during the trip the driver could feel indisposed|ccomp"
+                },
+                {
+                    "question": "How many people are in a vehicle free of alcohol?",
+                    "score": 0.6717,
+                    "answers": "another person in the vehicle free of alcohol|attr"
+                },
+                {
+                    "question": "How many people were in the vehicle free of alcohol during the trip?",
+                    "score": 0.6073,
+                    "answers": "the pilot|nsubj\tthe vehicle|pobj\tof alcohol|prep\tduring the trip|prep"
+                },
+                {
+                    "question": "What is the definition of free alcohol?",
+                    "score": 0.5737,
+                    "answers": "free of alcohol|amod"
+                },
+                {
+                    "question": "What is the relationship between a pilot and a drunk driver?",
+                    "score": 0.5621,
+                    "answers": "the driver|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "For drivers travelling alone this will not be taken into account, but those who are accompanied must pass the alcohol test so that at least one of the companions can count as an alternative driver.",
+            "question_answers": [
+                {
+                    "question": "What must a driver do to be considered an alternative driver?",
+                    "answer": "pass the alcohol test"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many companions must pass an alcohol test to become an alternative driver?",
+                    "score": 0.7206,
+                    "answers": "those who are accompanied must pass the alcohol test so that at least one of the companions can count as an alternative driver|conj"
+                },
+                {
+                    "question": "Who must pass the alcohol test to be considered an alternative driver for drivers travelling alone?",
+                    "score": 0.6915,
+                    "answers": "who are accompanied|relcl"
+                },
+                {
+                    "question": "What are the requirements for taking an alcohol test?",
+                    "score": 0.6401,
+                    "answers": "the alcohol test|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We think it's the safest way to drive, no one knows if something can happen to the driver during the journey and it's good that there's always a co-driver available,'explains Alberto Bermúdez, DGT communication director.",
+            "question_answers": [
+                {
+                    "question": "Who said 'We think it's the safest way to drive'?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Alberto Bermudez's stance on driving?",
+                    "score": 0.6119,
+                    "answers": "on 19/05/2017|prep\tthat|mark\t'|punct\tWe|nsubj\tit|nsubj\tthe|det\tto|aux\t,|punct\tno|det\tno one|nsubj\tif|mark\tsomething|nsubj\tcan|aux\tthe|det\tthe|det\tand|cc\tit|nsubj\tgood|acomp\tthat|mark\tthere|expl\talways|advmod\t-|attr\tdriver|attr\tAlberto|compound\t,|punct"
+                },
+                {
+                    "question": "What is the safest way to drive?",
+                    "score": 0.5904,
+                    "answers": "haynoticia.es said on 19/05/2017 that ' We think it 's the safest way to drive , no one knows if something can happen to the driver during the journey and it 's good that there 's always a co - driver|ccomp\tthat ' We think it 's the safest way to drive , no one knows if something can happen to the driver during the journey and it 's good that there 's always a co - driver|ccomp\tit 's the safest way to drive|ccomp\tsafest|amod\tthe safest way to drive|attr\tto drive|relcl\tno one knows if something can happen to the driver during the journey and it 's good that there 's always a co - driver|conj\tif something can happen to the driver during the journey|ccomp\tthe journey|pobj\tthat there 's always a co - driver|ccomp\thaynoticia.es said on 19/05/2017 that ' We think it 's the safest way to drive , no one knows if something can happen to the driver during the journey and it 's good that there 's always a co - driver available,'explains Alberto Bermúdez , DGT communication director|ROOT"
+                },
+                {
+                    "question": "What is the definition of safe way to drive?",
+                    "score": 0.5771,
+                    "answers": "to the driver|prep"
+                },
+                {
+                    "question": "Who is Alberto Bermudez?",
+                    "score": 0.5303,
+                    "answers": "Alberto Bermúdez , DGT communication director|nsubj\tDGT communication director|appos"
+                },
+                {
+                    "question": "What is the relationship between a driver and a co- driver?",
+                    "score": 0.5129,
+                    "answers": "it 's good that there 's always a co - driver|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The new measure will be launched from the next  of July so that this summer we can have safer roads in our country.",
+            "question_answers": [
+                {
+                    "question": "When did haynoticia.es say the new measure will be launched?",
+                    "answer": "19/05/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will the new measure be launched?",
+                    "score": 0.6236,
+                    "answers": "haynoticia.es said on 19/05/2017 that The new measure will be launched from the next   of July so that this summer we can have safer roads in our country|ROOT\ton 19/05/2017|prep\tthat|mark\tThe|det\tnew|amod\tThe new measure|nsubjpass\twill|aux\tbe|auxpass\tthat The new measure will be launched from the next|ccomp\tfrom the next|prep\tthe|det\tthe next|pobj\t  of July|dep\tof July|prep\tJuly|pobj\tso|mark\tthat|mark\tthis|det\twe|nsubj\tsafer roads in our country|dobj\tin our country|prep"
+                },
+                {
+                    "question": "What is the new measure for roads in the country?",
+                    "score": 0.596,
+                    "answers": "safer|amod"
+                },
+                {
+                    "question": "What will be the purpose of this new measure?",
+                    "score": 0.5114,
+                    "answers": "so that this summer we can have safer roads in our country|advcl"
+                },
+                {
+                    "question": "What is the name of the measure that will be launched from the next of July?",
+                    "score": 0.4796,
+                    "answers": "our|poss"
+                }
+            ]
+        }
+    ]
+}

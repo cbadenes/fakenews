@@ -1,0 +1,530 @@
+{
+    "id": "16_Security_198",
+    "claim": "Photographer Bernardino Hernández was injured, as well as reporters Francisco Robles, Carlos Alberto Carbajal, Jacob Morales, Roberto Ramírez Bravo, Hector Briseño and Sergio Robles. Reporters from Acapulco reported having been assaulted, cornered and beaten by elements of the state police, while covering the confrontation between community and state police in the community of La Concepcion last weekend, which left a death toll of . From the  of the morning of Sunday, digital agencies reported a confrontation during the patron party of La Concepcion, located in the area of Acapulco rural, where community police of the Regional Council of Community Authorities-Community Police (CRAC-PC) and armed men faced. In that fight, the balance was #NUMBER* dead. Around #NUMBER* and a half in the morning, there was another confrontation in that community where state police clashed with community police, leaving #NUMBER* dead more in that area. But during the attack, also, Acapulco reporters were beaten by elements of the state police, and their work was obstructed, so they went to the offices of the Public Prosecutor's Office to report the events. Reporter Sergio Robles of the Quadratin agency reported that, during the coverage of the clashes in La Concepcion, the journalists were attacked, and some were beaten, as was the case of Bernardino Hernández, a photojournalist of the Cuaroscuro and Proceso agencies. He explained that Bernardino Hernández, two state police officers, took him three meters from where the events were happening and behind a van, was beaten, in addition to having his cameras and digital memories removed. The communicator demanded that they return his partner's memoirs. For his part, Bernardino said that 'it is not the first time, and the comrades know it, the problem is that we have suffered aggressions by the state government, the state police and it is not worth'. Prosecutor Xavier Olea, who gave a lecture on the events in La Concepcion, simply asked for an apology and asked the attackers to go to the hospital and then file a complaint. The journalists attacked were Francisco Robles de Reforma, Carlos Alberto Carbajal and Jacob Morales of the newspaper El Sur, Roberto Ramírez Bravo of La Jornada Guerrero and La Plaza Diario, Hector Briseño de La Jornada, and Sergio Robles de Quadratin. On his Twitter, Jacob Morales reported that some of the reporters were assaulted, beaten, and gunned down. The armed attack in La Concepcion takes place a week after Marco Antonio Suástegui reported that they had tried to kill him, and that the CRAC Community Police arrested a former military officer, leader of an organized crime gang. Suástegui Muñoz was imprisoned in  to  for his defense in the area of ejidos and communal property of Cacahuatepec, where the Council of Ejidos and Communities Opposed to La Parota Dam (CECOP) is located. In  he was released during the interim term of former governor Rogelio Ortega; however, he is now again arrested and charged. The attack on journalists on Sunday, was given to  days that in Ometepec, Julian Chepe, reporter for Alternative, who was also beaten and psychologically tortured. I'm sorry.",
+    "source": "aristeguinoticias.com",
+    "date": "01/01/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "He Bernardino Bernardino Hernández, two state police officers Francisco Robles, Carlos Alberto Carbajal, Jacob Morales, Roberto Ramírez Bravo, Hector Briseño and Sergio Robles .",
+            "question_answers": [
+                {
+                    "question": "How many state police officers were there on 01/01/2023?",
+                    "answer": "two"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Hernández being a police officer?",
+                    "score": 0.5781,
+                    "answers": "on 01/01/2023|prep"
+                },
+                {
+                    "question": "What are the names of the two police officers Francisco Robles, Carlos Alberto Carbajal, Jacob Morales, and Sergio Robles?",
+                    "score": 0.5379,
+                    "answers": "two state police officers Francisco Robles , Carlos Alberto Carbajal , Jacob Morales , Roberto Ramírez Bravo , Hector Briseño and Sergio Robles|conj"
+                },
+                {
+                    "question": "What is the relationship between Hernández and Jacob Morales?",
+                    "score": 0.5143,
+                    "answers": "that|mark\tHe|nsubj\tBernardino|compound\tBernardino|compound\tthat He Bernardino Bernardino Hernández , two state police officers Francisco Robles , Carlos Alberto Carbajal , Jacob Morales , Roberto Ramírez Bravo , Hector Briseño and Sergio Robles|dobj\t,|punct\tstate police|compound\tFrancisco|compound\t,|punct\tCarlos|compound\tAlberto|compound\t,|punct\t,|punct\tRoberto|compound\tRamírez|compound\t,|punct\tand|cc\tSergio|compound"
+                },
+                {
+                    "question": "Who is Jacob Morales?",
+                    "score": 0.4934,
+                    "answers": "Carlos Alberto Carbajal , Jacob Morales , Roberto Ramírez Bravo , Hector Briseño and Sergio Robles|conj\tJacob|compound\tJacob Morales , Roberto Ramírez Bravo , Hector Briseño and Sergio Robles|conj\tRoberto Ramírez Bravo , Hector Briseño and Sergio Robles|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Reporters from Acapulco reported having He , cornered and Bernardino Hernández, two state police officers by elements of the state police Bernardino Hernández covering Bernardino Hernández the confrontation between community and state police in the community of La Concepcion last weekend, which left a death toll of is the confrontation between community and state police in the community of La Concepcion last weekend, which left a death toll of .",
+            "question_answers": [
+                {
+                    "question": "Who was cornered by Reporters from Acapulco?",
+                    "answer": "He"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Reporters from Acapulco say about Hernández?",
+                    "score": 0.6838,
+                    "answers": "aristeguinoticias.com|nsubj\ton 01/01/2023|prep\tReporters from Acapulco|nsubj\tfrom Acapulco|prep\tcovering Bernardino Hernández|acl"
+                },
+                {
+                    "question": "What did Hernández do to the community of La Concepcion last weekend?",
+                    "score": 0.5968,
+                    "answers": "La|compound\tLa|compound"
+                },
+                {
+                    "question": "Who cornered and Bernardino Hernández?",
+                    "score": 0.5888,
+                    "answers": "Bernardino|compound\tBernardino|compound\tBernardino|compound"
+                },
+                {
+                    "question": "What was the death toll after the confrontation between community and state police in La Concepcion?",
+                    "score": 0.5424,
+                    "answers": "a|det\ta|det\tof|prep"
+                },
+                {
+                    "question": "What was the relationship between Hernández and Hernanez?",
+                    "score": 0.523,
+                    "answers": "cornered and Bernardino Hernández , two state police officers|dep"
+                }
+            ]
+        },
+        {
+            "claim": "From the  of the morning of Sunday, digital agencies reported a confrontation during the patron party of the community of La Concepcion La Concepcion in the area of Acapulco rural, where community police of the Regional Council of Community AuthoritiesThe journalists attacked -PC) and armed men faced.",
+            "question_answers": [
+                {
+                    "question": "When did digital agencies report a confrontation in the area of Acapulco rural?",
+                    "answer": "the patron party of the community of La Concepcion La Concepcion"
+                },
+                {
+                    "question": "What did the community police do during the confrontation?",
+                    "answer": "journalists attacked"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who attacked the police in Acapulco rural?",
+                    "score": 0.5361,
+                    "answers": "AuthoritiesThe journalists|nsubj"
+                },
+                {
+                    "question": "What did the police say about the incident on the morning of Sunday?",
+                    "score": 0.4798,
+                    "answers": "the morning of Sunday|pobj\tof Sunday|prep\tSunday|pobj"
+                },
+                {
+                    "question": "What did the digital agencies say about the incident?",
+                    "score": 0.4457,
+                    "answers": "digital agencies|nsubj"
+                },
+                {
+                    "question": "What was the name of the group that attacked -PC in the area of Acapulco?",
+                    "score": 0.434,
+                    "answers": "the patron party of the community of La Concepcion La Concepcion in the area of Acapulco rural , community police of the Regional Council of Community AuthoritiesThe journalists attacked -PC ) and where armed men faced|pobj"
+                },
+                {
+                    "question": "What is the relationship between the police and the community of La Concepcion?",
+                    "score": 0.419,
+                    "answers": "the community of La Concepcion La Concepcion in the area of Acapulco rural , community police of the Regional Council of Community AuthoritiesThe journalists attacked -PC ) and where armed men faced|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In that fight, the balance was #NUMBERJacob Morales .",
+            "question_answers": [
+                {
+                    "question": "Who was the balance of the fight?",
+                    "answer": "#NUMBERJacob Morales"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Jacob Morales' relationship with Jacob Morales?",
+                    "score": 0.7884,
+                    "answers": "NUMBERJacob Morales|attr"
+                },
+                {
+                    "question": "What was the balance Jacob Morales and Jacob Morales were involved in?",
+                    "score": 0.7053,
+                    "answers": "that In that fight , the balance was # NUMBERJacob Morales|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Jacob Morales andNUMBER Jacob Morales?",
+                    "score": 0.6439,
+                    "answers": "that|mark\tthat|det\t,|punct\tthe|det\t#|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Jacob Morales #NUMBER* and a half in the morning, there was another confrontation in the community of La Concepcion where state police clashed with community police, leaving #NUMBERJacob Morales more in Jacob Morales .",
+            "question_answers": [
+                {
+                    "question": "Who reported that Jacob Morales #NUMBER* and a half in the morning?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jacob Morales do with community police in La Concepcion?",
+                    "score": 0.5687,
+                    "answers": "more|advmod"
+                },
+                {
+                    "question": "What is Jacob Morales' relationship with Jacob Morales?",
+                    "score": 0.521,
+                    "answers": "leaving # NUMBERJacob Morales more in Jacob Morales|advcl"
+                },
+                {
+                    "question": "What is the relationship between Jacob Morales and Jacob Morales?",
+                    "score": 0.4806,
+                    "answers": "NUMBER|quantmod\tNUMBERJacob|intj"
+                }
+            ]
+        },
+        {
+            "claim": "But during the attack, The journalists attacked Acapulco reporters were beaten by elements of the state police , and La Concepcion obstructed, so Acapulco reporters went Marco Antonio Suástegui Prosecutor's Office to report the Marco Antonio Suástegui .",
+            "question_answers": [
+                {
+                    "question": "Who beaten the Acapulco journalists?",
+                    "answer": "elements of the state police"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why were the Acapulco reporters attacked by elements of the state police?",
+                    "score": 0.7474,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that But during the attack , The journalists attacked Acapulco reporters were beaten by elements of the state police , and La Concepcion obstructed , so Acapulco reporters went Marco Antonio Suástegui Prosecutor 's Office to report the Marco Antonio Suástegui|ROOT"
+                },
+                {
+                    "question": "Who attacked the Acapulco reporters?",
+                    "score": 0.6872,
+                    "answers": "on 01/01/2023|prep\tthat|mark\tBut|cc\tduring the attack|prep\tthe|det\t, The journalists attacked|punct\tThe|det\tThe journalists|nsubj\tThe journalists attacked|prep\tAcapulco reporters|nsubjpass\tthat But during the attack , The journalists attacked Acapulco reporters were beaten by elements of the state police , and La Concepcion obstructed , so Acapulco reporters went Marco Antonio Suástegui Prosecutor 's Office to report the Marco Antonio Suástegui|ccomp\tby elements of the state police|agent\telements of the state police|pobj\tof the state police|prep\tthe|det\tstate|compound\tthe state police|pobj\t,|punct\tand|cc\t,|punct\tAcapulco reporters|nsubj\tMarco Antonio Suástegui Prosecutor 's|poss\t's|case\tthe|det"
+                },
+                {
+                    "question": "What crimes were committed against the Acapulco reporters?",
+                    "score": 0.6336,
+                    "answers": "the attack|pobj\twere|auxpass\tLa|compound\tto|aux"
+                },
+                {
+                    "question": "What did Marco Antonio Suacstegui do to report the attack on Acapulco reporters?",
+                    "score": 0.6265,
+                    "answers": "Marco Antonio Suástegui Prosecutor 's Office|npadvmod\tto report the Marco Antonio Suástegui|advcl"
+                },
+                {
+                    "question": "What did La Concepcion do to obstruct the reporters?",
+                    "score": 0.5587,
+                    "answers": "La Concepcion obstructed , so Acapulco reporters went Marco Antonio Suástegui Prosecutor 's Office to report the Marco Antonio Suástegui|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Sergio Robles reported that, during the coverage of the confrontation between community and state police in the community of La Concepcion last weekend, which left a death toll of Marco Antonio Suástegui journalists were attackedMarco Antonio Suástegui some were beaten, as was the case of Bernardino Hernández, a photojournalist of the Cuaroscuro and Proceso agencies.",
+            "question_answers": [
+                {
+                    "question": "Who was killed in the confrontation between police and the community of La Concepcion?",
+                    "answer": "Marco Antonio Suástegui"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the death toll of Marco Antonio Suástegui last weekend?",
+                    "score": 0.4998,
+                    "answers": "between community and state police|prep"
+                }
+            ]
+        },
+        {
+            "claim": "He explained that Bernardino Hernández, two state police officers, took him three meters from where the events were happening and behind a van, was beaten, in addition to having his cameras and digital memories removed.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Hernández was beaten?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Bernardino Hernández get beaten?",
+                    "score": 0.7,
+                    "answers": "three meters from where the events were happening and behind a van|prep\twhere|advmod\twhere the events were happening|pcomp"
+                },
+                {
+                    "question": "Where was Bernardino Hernández when he was beaten by two state police officers?",
+                    "score": 0.6627,
+                    "answers": "the events|nsubj"
+                },
+                {
+                    "question": "What happened to Bernardino Hernández after he was beaten?",
+                    "score": 0.5924,
+                    "answers": "were|aux\tin addition to having his cameras and digital memories removed|conj\taddition to having his cameras and digital memories removed|pobj\tto having his cameras and digital memories removed|prep\thaving his cameras and digital memories removed|pcomp\this cameras and digital memories removed|ccomp"
+                },
+                {
+                    "question": "What kind of memory did Bernardino Hernández have?",
+                    "score": 0.5843,
+                    "answers": "digital|amod"
+                },
+                {
+                    "question": "What did Hernández do with his cameras and digital memory?",
+                    "score": 0.565,
+                    "answers": "He|nsubj\tstate|compound\thim|dobj\this|poss\this cameras and digital memories|nsubj\tdigital memories|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The communicator demanded that they return his partner's memoirs.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that the communicator demanded that they return his partner's memoirs?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the communicator demand that they return his partner's memoirs?",
+                    "score": 0.8602,
+                    "answers": "that they return his partner 's memoirs|ccomp"
+                },
+                {
+                    "question": "Who did the communicator ask for his partner's memoirs?",
+                    "score": 0.7608,
+                    "answers": "on 01/01/2023|prep\tthat|mark\tthat|mark"
+                },
+                {
+                    "question": "What was the name of the communicator?",
+                    "score": 0.61,
+                    "answers": "The communicator|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "For his part, Bernardino said that 'it is not the first time, and the comrades know it, the problem is that we have suffered aggressions by the state government, the state police and it is not worth'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that Bernardino said 'it's not the first time, and the comrades know it'?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Bernardino say about aggressions by the state government?",
+                    "score": 0.6355,
+                    "answers": "his|poss"
+                },
+                {
+                    "question": "How many aggressions were there by the state government, state police, and state police?",
+                    "score": 0.5745,
+                    "answers": "that we have suffered aggressions by the state government , the state police and it is not worth|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the state government and the state police?",
+                    "score": 0.4967,
+                    "answers": "the comrades|nsubj\tthe state government , the state police|pobj\tthe state police|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Prosecutor Xavier Olea, who gave a lecture on the events in La Concepcion, simply asked for an apology and asked the attackers to go to the hospital and then file a complaint.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Prosecutor Xavier Olea asked for an apology?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Prosecutor Xavier Olea ask for an apology?",
+                    "score": 0.859,
+                    "answers": "for an apology|prep\tan apology|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The journalists attacked were Francisco Robles de Reforma, Carlos Alberto Carbajal and Jacob Morales of the newspaper El Sur, Roberto Ramírez Bravo of La Jornada Guerrero and La Plaza Diario, Hector Briseño de La Jornada, and Sergio Robles de Quadratin.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the attack on the journalists?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who were the journalists that attacked Jacob Morales?",
+                    "score": 0.6525,
+                    "answers": "that The journalists attacked were Francisco Robles de Reforma , Carlos Alberto Carbajal and Jacob Morales of the newspaper El Sur , Roberto Ramírez Bravo of La Jornada Guerrero and La Plaza Diario , Hector Briseño de La Jornada , and Sergio Robles de Quadratin|ccomp"
+                },
+                {
+                    "question": "Who was the journalist that was attacked by Francisco Robles de Reforma?",
+                    "score": 0.6323,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that The journalists attacked were Francisco Robles de Reforma , Carlos Alberto Carbajal and Jacob Morales of the newspaper El Sur , Roberto Ramírez Bravo of La Jornada Guerrero and La Plaza Diario , Hector Briseño de La Jornada , and Sergio Robles de Quadratin|ROOT"
+                },
+                {
+                    "question": "What was the name of the journalist that attacked Jacob Morales and Jacob Morales?",
+                    "score": 0.5985,
+                    "answers": "the|det"
+                },
+                {
+                    "question": "Who was Jacob Morales?",
+                    "score": 0.5457,
+                    "answers": "Jacob|compound"
+                },
+                {
+                    "question": "What is El Sur?",
+                    "score": 0.4861,
+                    "answers": "of the newspaper El Sur|prep\tthe newspaper El Sur|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "On his Twitter, Jacob Morales reported that some of the reporters were assaulted, beaten, and gunned down.",
+            "question_answers": [
+                {
+                    "question": "Who reported that some of the reporters were assaulted, beaten, and gunned down?",
+                    "answer": "Jacob Morales"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jacob Morales say about Jacob Morales?",
+                    "score": 0.7315,
+                    "answers": "of the reporters|prep"
+                },
+                {
+                    "question": "What happened to Jacob Morales and Jacob Morales on Twitter?",
+                    "score": 0.6446,
+                    "answers": "that On his Twitter , Jacob Morales reported that some of the reporters were assaulted , beaten , and gunned down|ccomp\tdown|prt"
+                },
+                {
+                    "question": "How many reporters were killed by Jacob Morales?",
+                    "score": 0.6021,
+                    "answers": "some of the reporters|nsubjpass"
+                },
+                {
+                    "question": "What is Jacob Morales' Twitter handle?",
+                    "score": 0.5693,
+                    "answers": "On his Twitter|prep\this Twitter|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The armed attack in La Concepcion takes place a week after Marco Antonio Suástegui reported that they had tried to kill him, and that the CRAC Community Police arrested a former military officer, leader of an organized crime gang.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the armed attack in La Concepcion took place a week after they had tried to kill him?",
+                    "answer": "Marco Antonio Suástegui"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of organized crime was Marco Antonio Suástegui involved in?",
+                    "score": 0.7146,
+                    "answers": "organized crime|compound"
+                },
+                {
+                    "question": "What did Marco Antonio Suástegui say about the armed attack in La Concepcion?",
+                    "score": 0.6495,
+                    "answers": "The|det"
+                },
+                {
+                    "question": "What did the CRAC Community Police say about Marco Antonio Suacstegui?",
+                    "score": 0.6196,
+                    "answers": "a week after Marco Antonio Suástegui reported that they had tried to kill him , and that the CRAC Community Police arrested a former military officer , leader of an organized crime gang|advcl"
+                },
+                {
+                    "question": "What was the name of the organized crime gang that attacked Marco Antonio Suástegui?",
+                    "score": 0.6102,
+                    "answers": "the|det\tCommunity|compound\tmilitary|amod\torganized|amod\tan organized crime gang|pobj"
+                },
+                {
+                    "question": "What was the purpose of the attack on Marco Antonio Suástegui in La Concepcion?",
+                    "score": 0.5772,
+                    "answers": "to kill him|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Suástegui Muñoz was imprisoned in  to  for his defense in the area of ejidos and communal property of Cacahuatepec, where the Council of Ejidos and Communities Opposed to La Parota Dam (CECOP) is located.",
+            "question_answers": [
+                {
+                    "question": "What does CECOP stand for?",
+                    "answer": "Council of Ejidos and Communities Opposed to La Parota Dam"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why was Suástegui Muñoz imprisoned?",
+                    "score": 0.7874,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that Suástegui Muñoz was imprisoned in   to   for his defense in the area of ejidos and communal property of Cacahuatepec , where the Council of Ejidos and Communities Opposed to La Parota Dam ( CECOP ) is located|ROOT\tthat|mark\twas|auxpass\tthat Suástegui Muñoz was imprisoned in|ccomp\tin|prep\t  to|dep\tto|prep\tfor his defense in the area of ejidos and communal property of Cacahuatepec , where the Council of Ejidos and Communities Opposed to La Parota Dam ( CECOP ) is located|prep\this|poss\t,|punct\t(|punct\t)|punct"
+                },
+                {
+                    "question": "Where is the La Parota Dam located?",
+                    "score": 0.547,
+                    "answers": "of Ejidos and Communities|prep\tEjidos and Communities|pobj\tto La Parota Dam|prep\tParota|compound"
+                },
+                {
+                    "question": "Where is CECOP located?",
+                    "score": 0.4881,
+                    "answers": "where|advmod\tOpposed to La Parota Dam|acl\tLa|compound"
+                },
+                {
+                    "question": "What is the relationship between Suástegui Muñoz and La Parota Dam?",
+                    "score": 0.4813,
+                    "answers": "communal|amod"
+                }
+            ]
+        },
+        {
+            "claim": "In  he was released during the interim term of former governor Rogelio Ortega; however, he is now again arrested and charged.",
+            "question_answers": [
+                {
+                    "question": "What website reported that he was released during the interim term of former governor Rogelio Ortega?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Rogelio Ortega arrested?",
+                    "score": 0.8734,
+                    "answers": "on 01/01/2023|prep\the|nsubjpass\twas|auxpass\tthe|det\the|nsubjpass"
+                },
+                {
+                    "question": "What did Rogelio Ortega do to be charged?",
+                    "score": 0.7676,
+                    "answers": "charged|conj"
+                },
+                {
+                    "question": "What was Rogelio Ortega's sentence?",
+                    "score": 0.7478,
+                    "answers": "he was released during the interim term of former governor Rogelio Ortega|ccomp\tduring the interim term of former governor Rogelio Ortega|prep\tthe interim term of former governor Rogelio Ortega|pobj\tformer governor|compound\tformer governor Rogelio Ortega|pobj"
+                },
+                {
+                    "question": "Who was Rogelio Ortega?",
+                    "score": 0.7466,
+                    "answers": "of former governor Rogelio Ortega|prep\tRogelio|compound"
+                },
+                {
+                    "question": "What is Rogelio Ortega's sentence?",
+                    "score": 0.702,
+                    "answers": "is|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "The attack on journalists on Sunday, was given to  days that in Ometepec, Julian Chepe, reporter for Alternative, who was also beaten and psychologically tortured.",
+            "question_answers": [
+                {
+                    "question": "Who reported the attack on journalists on 01/01/2023?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Was Julian Chepe in Ometepec?",
+                    "score": 0.7834,
+                    "answers": "was also beaten and who psychologically tortured|relcl"
+                },
+                {
+                    "question": "Did Julian Chepe get beaten and psychologically tortured in Ometepec?",
+                    "score": 0.7189,
+                    "answers": "in Ometepec|prep"
+                },
+                {
+                    "question": "What day was the attack on Ometepec journalist Julian Chepe on Sunday?",
+                    "score": 0.641,
+                    "answers": "on Sunday|prep\talso|advmod"
+                },
+                {
+                    "question": "What happened to Julian Chepe on Sunday in Ometepec?",
+                    "score": 0.6084,
+                    "answers": "  days that in Ometepec , Julian Chepe , reporter for Alternative , was also beaten and who psychologically tortured|dep"
+                },
+                {
+                    "question": "What was the name of the attack on the journalist on Sunday?",
+                    "score": 0.5766,
+                    "answers": "The attack on journalists on Sunday|nsubjpass\tthat The attack on journalists on Sunday , was given to|ccomp"
+                }
+            ]
+        }
+    ]
+}

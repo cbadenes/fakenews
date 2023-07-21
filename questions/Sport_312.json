@@ -1,0 +1,383 @@
+{
+    "id": "Sport_312",
+    "claim": "The native of Chihuahua lost to Uzbekistan's boxer Bektemir Melikuziev, however, gave Mexico his first medal in the Rio Olympic Games . Mexico already has its first medal in Rio , after the Mexican Misael Rodriguez will win the bronze medal in the Box discipline in the category of  kilograms. The native of Chihuahua lost to Uzbekistan boxer Bektemir Melikuziev. With this medal Mexico is placed in position number . According to the fighting judges, the European fighter won all rounds. A Mexican boxer doesn't make it to a boxing final in Olympic games from Los Angeles , when Púgil Hector Lopez won the silver medal. In the field of boxing, two bronze medals are awarded to the losers in the semifinals, which is why the Mexican athlete will carry a medal back to Mexico even if he does not get a place in the final. After defeating Egyptian Hussein Bakr Abdin, Mexican Misael Rodriguez secured the first medal for Mexico at the Rio de Janeiro Olympics by obtaining a spot in the semifinals. Previously, the Mexican punk defeated Waheed Karaawi by unanimous decision. In an interview with Claro Sports at the end of the match, the pugilist said he went out looking for the win to fight for the gold medal, however, lamented that it was not possible to run into a strong contender with more experience. 'I came (to this fight) to give the best of myself, pity that the victory was not achieved ', Rodriguez said. However, he noted that personally it is a 'triumph 'and a 'feat 'to have reached the semifinals and hang a bronze medal, as it barely has near  fights. When questioned about whether he will be professionally engaged in boxing, Misael said it is a decision he will reflect on in the coming days, during the vacation that he will take after his participation in Rio . 'The body is ground after weeks of very exhausting competition, and now we have to rest ', he said. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "18/08/2016",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The native of Chihuahua lost to Chihuahua , however, gave Mexico first medal in the Mexican athlete .",
+            "question_answers": [
+                {
+                    "question": "Where was the native of Mexico that lost to Chihuahua?",
+                    "answer": "Chihuahua"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many medals has Chihuahua won?",
+                    "score": 0.88,
+                    "answers": "first medal in the Mexican athlete|dobj"
+                },
+                {
+                    "question": "How many medals did Chihuahua give Mexico?",
+                    "score": 0.8771,
+                    "answers": "The|det\thowever|advmod\tgave Mexico first medal in the Mexican athlete|dep\tthe|det"
+                },
+                {
+                    "question": "What did Chihuahua do to win the first gold medal in the Mexican athlete?",
+                    "score": 0.853,
+                    "answers": "to Chihuahua|prep"
+                },
+                {
+                    "question": "What is Chihuahua's ethnicity?",
+                    "score": 0.8349,
+                    "answers": "of Chihuahua|prep"
+                },
+                {
+                    "question": "What is the name of the Mexican athlete that lost to Chihuahua?",
+                    "score": 0.8003,
+                    "answers": "in the Mexican athlete|prep\tthe Mexican athlete|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico already has first medal in Rio , after the bronze medal will win Uzbekistan's in the Box discipline in the category of  kilograms.",
+            "question_answers": [
+                {
+                    "question": "Where did Mexico win its first medal?",
+                    "answer": "Rio"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many medals has Uzbekistan won in the Olympics?",
+                    "score": 0.8847,
+                    "answers": "Uzbekistan 's in the Box discipline|dobj"
+                },
+                {
+                    "question": "What is the bronze medal for Uzbekistan in the Box discipline?",
+                    "score": 0.8151,
+                    "answers": "after the bronze medal will win Uzbekistan 's in the Box discipline in the category of|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The native of Chihuahua lost to Chihuahua .",
+            "question_answers": [
+                {
+                    "question": "Which native lost to Chihuahua?",
+                    "answer": "Chihuahua"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who lost to Chihuahua in 2016?",
+                    "score": 0.888,
+                    "answers": "on 18/08/2016|prep"
+                },
+                {
+                    "question": "Who lost to Chihuahua?",
+                    "score": 0.8816,
+                    "answers": "www.forbes.com.mx reported on 18/08/2016 that The native of Chihuahua lost to Chihuahua|ROOT\tof Chihuahua|prep\tthat The native of Chihuahua lost to Chihuahua|ccomp\tto Chihuahua|prep"
+                },
+                {
+                    "question": "What is the source of evidence of who lost to Chihuahua?",
+                    "score": 0.8377,
+                    "answers": "www.forbes.com.mx|nsubj"
+                },
+                {
+                    "question": "Who is the native of Chihuahua?",
+                    "score": 0.791,
+                    "answers": "The native of Chihuahua|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "With Uzbekistan's Mexico is placed in position number .",
+            "question_answers": [
+                {
+                    "question": "What country is Mexico in position number one?",
+                    "answer": "Uzbekistan's"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Uzbekistan's position with Mexico?",
+                    "score": 0.8743,
+                    "answers": "Uzbekistan 's|pobj"
+                },
+                {
+                    "question": "What is the relationship between Uzbekistan and Mexico?",
+                    "score": 0.8607,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 18/08/2016 that With Uzbekistan 's Mexico is placed in position number|ROOT\ton 18/08/2016|prep\tthat|mark\tWith Uzbekistan 's|prep\t's|case\tis|auxpass\tthat With Uzbekistan 's Mexico is placed in position number|ccomp\tposition|compound"
+                },
+                {
+                    "question": "What is the position number of Uzbekistan's Mexico?",
+                    "score": 0.8533,
+                    "answers": "in position number|prep"
+                }
+            ]
+        },
+        {
+            "claim": "According to the fighting judges, Chihuahua won all rounds.",
+            "question_answers": [
+                {
+                    "question": "Who won all rounds?",
+                    "answer": "Chihuahua"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many rounds did Chihuahua win?",
+                    "score": 0.9098,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 18/08/2016 that According to the fighting judges , Chihuahua won all rounds|ROOT\ton 18/08/2016|prep\tthat|mark\tAccording to the fighting judges|prep\tto the fighting judges|prep\tthe|det\tfighting|compound\tthe fighting judges|pobj\t,|punct\tthat According to the fighting judges , Chihuahua won all rounds|ccomp\tall|det\tall rounds|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "A Mexican boxer doesn't make it to a boxing final in Olympic games from Los Angeles , when Púgil Hector Lopez won the silver medal.",
+            "question_answers": [
+                {
+                    "question": "Where was Pgil Hector Lopez from?",
+                    "answer": "Los Angeles"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Púgil Hector Lopez make it to the Olympics from Los Angeles?",
+                    "score": 0.9029,
+                    "answers": "n't|neg\tthat A Mexican boxer does n't make it to a boxing final in Olympic games from Los Angeles , when Púgil Hector Lopez won the silver medal|ccomp"
+                },
+                {
+                    "question": "What medal did Púgil Hector Lopez win?",
+                    "score": 0.8909,
+                    "answers": "silver|compound\tthe silver medal|dobj"
+                },
+                {
+                    "question": "Who is Púgil Hector Lopez?",
+                    "score": 0.8167,
+                    "answers": "A Mexican boxer|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In the field of boxing, two bronze medals are awarded to the losers in the semifinals, which is why Uzbekistan's boxer Bektemir Melikuziev will carry a medal back to Mexico even if Uzbekistan's boxer Bektemir Melikuziev does not get a place in the final.",
+            "question_answers": [
+                {
+                    "question": "Why will Melikuziev carry a medal back to Mexico?",
+                    "answer": "if Uzbekistan's boxer Bektemir Melikuziev does not get a place in the final"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many bronze medals does Bektemir Melikuziev win?",
+                    "score": 0.8408,
+                    "answers": "www.forbes.com.mx reported on 18/08/2016 that In the field of boxing , two bronze medals are awarded to the losers in the semifinals , which is why Uzbekistan 's boxer Bektemir Melikuziev will carry a medal back to Mexico even if Uzbekistan 's boxer Bektemir Melikuziev does not get a place in the final|ROOT\tthat|mark\tIn the field of boxing|prep\tthe|det\tof boxing|prep\t,|punct\tbronze|compound\ttwo bronze medals|nsubjpass\tare|auxpass\tthat In the field of boxing , two bronze medals are awarded to the losers in the semifinals , which is why Uzbekistan 's boxer Bektemir Melikuziev will carry a medal back to Mexico even if Uzbekistan 's boxer Bektemir Melikuziev does not get a place in the final|ccomp\tto the losers in the semifinals|dative\tthe|det\tthe losers in the semifinals|pobj\tthe|det\tthe semifinals|pobj\t,|punct\twhich|nsubj\twhy|advmod\t's|case\twill|aux\twhy Uzbekistan 's boxer Bektemir Melikuziev will carry a medal back to Mexico even if Uzbekistan 's boxer Bektemir Melikuziev does not get a place in the final|ccomp\ta|det\ta medal|dobj\tto Mexico|prep\teven|advmod\tif|mark\t's|case\tdoes|aux\tnot|neg\teven if Uzbekistan 's boxer Bektemir Melikuziev does not get a place in the final|advcl\ta|det\ta place in the final|dobj\tthe|det\tthe final|pobj"
+                },
+                {
+                    "question": "Who is Bektemir Melikuziev?",
+                    "score": 0.7146,
+                    "answers": "boxing|pobj\tUzbekistan 's boxer|compound\tUzbekistan 's boxer Bektemir Melikuziev|nsubj\tUzbekistan 's boxer|compound\tUzbekistan 's boxer Bektemir Melikuziev|nsubj"
+                },
+                {
+                    "question": "Who is Melikuziev?",
+                    "score": 0.7014,
+                    "answers": "Bektemir|compound\tBektemir|compound"
+                }
+            ]
+        },
+        {
+            "claim": "After defeating Egyptian Hussein Bakr Abdin, the bronze medal secured the first medal for Mexico at the Mexican athlete by obtaining a spot in the semifinals.",
+            "question_answers": [
+                {
+                    "question": "What medal secured the first medal for Mexico?",
+                    "answer": "bronze"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many medals did the Mexican athlete win?",
+                    "score": 0.819,
+                    "answers": "www.forbes.com.mx|nsubj\ton 18/08/2016|prep\tthat|mark\tthe|det\tbronze|compound\tthat After defeating Egyptian Hussein Bakr Abdin , the bronze medal secured the first medal for Mexico at the Mexican athlete by obtaining a spot in the semifinals|ccomp\tthe|det\tthe first medal for Mexico at the Mexican athlete|dobj\tfor Mexico|prep\tat the Mexican athlete|prep\tthe|det\tthe Mexican athlete|pobj\tby obtaining a spot in the semifinals|prep\tobtaining a spot in the semifinals|pcomp\ta|det\ta spot in the semifinals|dobj\tthe|det"
+                },
+                {
+                    "question": "Who won the first medal for Mexico at the Mexican athlete competition?",
+                    "score": 0.8105,
+                    "answers": "defeating Egyptian Hussein Bakr Abdin|pcomp\tBakr|compound"
+                },
+                {
+                    "question": "Who won the bronze medal for Mexico in 2016?",
+                    "score": 0.7938,
+                    "answers": "Egyptian Hussein Bakr Abdin|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Previously, the bronze medal defeated Waheed Karaawi by unanimous decision.",
+            "question_answers": [
+                {
+                    "question": "Who did the bronze medal defeat on 18/08/2016?",
+                    "answer": "Waheed Karaawi"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Waheed Karaawi win the bronze medal?",
+                    "score": 0.9001,
+                    "answers": "Previously|advmod"
+                },
+                {
+                    "question": "Who won the bronze medal for Waheed Karaawi by unanimous decision?",
+                    "score": 0.8776,
+                    "answers": "on 18/08/2016|prep\tthat|mark\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What is Waheed Karaawi's bronze medal?",
+                    "score": 0.8149,
+                    "answers": "www.forbes.com.mx reported on 18/08/2016 that Previously , the bronze medal defeated Waheed Karaawi by unanimous decision|ROOT"
+                },
+                {
+                    "question": "Who is Waheed Karaawi?",
+                    "score": 0.7793,
+                    "answers": "Waheed|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In an interview with Claro Sports at the end of the Mexican Misael Rodriguez , the bronze medal said the bronze medal went out looking for the win to fight for the gold medal, however, lamented that it was not possible to run into a strong contender with more experience.",
+            "question_answers": [
+                {
+                    "question": "Who won the bronze medal?",
+                    "answer": "Mexican Misael Rodriguez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What medal did the Mexican Misael Rodriguez win?",
+                    "score": 0.7528,
+                    "answers": "bronze|compound\tthe bronze medal|nsubj\tbronze|compound\tthe bronze medal|nsubj\tthe gold medal|pobj"
+                },
+                {
+                    "question": "Did the bronze medal go out looking for the win to fight for the gold medal?",
+                    "score": 0.7363,
+                    "answers": "that In an interview with Claro Sports at the end of the Mexican Misael Rodriguez , the bronze medal said the bronze medal went out looking for the win to fight for the gold medal , however , lamented that it was not possible to run into a strong contender with more experience|ccomp"
+                },
+                {
+                    "question": "How many medals did Misael Rodriguez win?",
+                    "score": 0.6989,
+                    "answers": "Misael|compound"
+                },
+                {
+                    "question": "What was the name of the bronze medal awarded to the Mexican Misael Rodriguez?",
+                    "score": 0.6336,
+                    "answers": "the Mexican Misael Rodriguez|pobj"
+                },
+                {
+                    "question": "What did Claro Sports say about the bronze medal?",
+                    "score": 0.6328,
+                    "answers": "www.forbes.com.mx reported on 18/08/2016 that In an interview with Claro Sports at the end of the Mexican Misael Rodriguez , the bronze medal said the bronze medal went out looking for the win to fight for the gold medal , however , lamented that it was not possible to run into a strong contender with more experience|ROOT\tIn an interview with Claro Sports at the end of the Mexican Misael Rodriguez|prep\tan interview with Claro Sports at the end of the Mexican Misael Rodriguez|pobj\twith Claro Sports|prep\tClaro|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'the bronze medal came (to the Mexican Misael Rodriguez ) to give the best of the bronze medal , pity that the victory was not achieved ', the bronze medal said.",
+            "question_answers": [
+                {
+                    "question": "Why did Misael Rodriguez receive the bronze medal?",
+                    "answer": "to give the best of the bronze medal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What medal did the Mexican Misael Rodriguez win?",
+                    "score": 0.8435,
+                    "answers": "on 18/08/2016|prep"
+                },
+                {
+                    "question": "Who won the bronze medal for the Mexican Misael Rodriguez?",
+                    "score": 0.8251,
+                    "answers": "Misael|compound"
+                },
+                {
+                    "question": "What is the bronze medal?",
+                    "score": 0.731,
+                    "answers": "that|mark\t'|punct\tthe|det\tbronze|compound\tthe bronze medal|nsubj\t(|punct\tthe|det\t)|punct\tto|aux\tto give the best of the bronze medal|advcl\tthe|det\tthe best of the bronze medal|dobj\tof the bronze medal|prep\tthe|det\tbronze|compound\tthe bronze medal|pobj\t,|punct\tthat|mark\tthe|det\twas|auxpass\tnot|neg\t'|punct\t,|punct\tthe|det\tbronze|compound\tthe bronze medal|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, he noted that personally it is a 'triumph 'and a 'feat 'to have reached the semifinals and hang a bronze medal, as it barely has near  fights.",
+            "question_answers": [
+                {
+                    "question": "What did 'triumph' and 'feat' mean to Forbes?",
+                    "answer": "'feat"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many bronze medals has the USA won in the 2016 Olympics?",
+                    "score": 0.7738,
+                    "answers": "that However , he noted that personally it is a ' triumph ' and a ' feat ' to have reached the semifinals and hang a bronze medal , as it barely has near|ccomp"
+                },
+                {
+                    "question": "What does it mean to hang a bronze medal?",
+                    "score": 0.7594,
+                    "answers": "it|nsubj\ta|det\ta|det\ta|det\tit|nsubj"
+                },
+                {
+                    "question": "How many fights has there been so far?",
+                    "score": 0.7416,
+                    "answers": "  fights|dep\tfights|dobj"
+                },
+                {
+                    "question": "How many championships has the bronze medal ever won?",
+                    "score": 0.7344,
+                    "answers": "as it barely has near|advcl\tnear|advmod"
+                },
+                {
+                    "question": "What is the significance of winning a bronze medal?",
+                    "score": 0.6875,
+                    "answers": "that|mark\the|nsubj\tthat|mark\tpersonally|advmod\tand|cc\tto|aux\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "When questioned about whether he will be professionally engaged in boxing, Misael said it is a decision he will reflect on in the coming days, during the vacation that he will take after his participation in Rio .",
+            "question_answers": [
+                {
+                    "question": "On what date did Forbes report that Misael would be engaged in boxing?",
+                    "answer": "18/08/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Misael say about whether he was engaged in boxing?",
+                    "score": 0.8491,
+                    "answers": "www.forbes.com.mx|nsubj\tWhen questioned about whether he will be professionally engaged in boxing|advcl\tabout whether he will be professionally engaged in boxing|prep\twhether he will be professionally engaged in boxing|pcomp\tthat When questioned about whether he will be professionally engaged in boxing , Misael said it is a decision he will reflect on in the coming days , during the vacation that he will take after his participation in Rio|ccomp\tit is a decision he will reflect on in the coming days , during the vacation that he will take after his participation in Rio|ccomp\ta decision he will reflect on in the coming days , during the vacation that he will take after his participation in Rio|attr"
+                },
+                {
+                    "question": "What is the source of evidence of Misael's involvement in boxing?",
+                    "score": 0.7362,
+                    "answers": "in boxing|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'The body is ground after weeks of very exhausting competition, and now we have to rest ', he said.",
+            "question_answers": [
+                {
+                    "question": "What did forbes say about the body?",
+                    "answer": "now we have to rest"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the body being ground after weeks of very exhausting competition?",
+                    "score": 0.6817,
+                    "answers": "www.forbes.com.mx reported on 18/08/2016 that ' The body is ground after weeks of very exhausting competition , and now we have to rest ' , he said|ROOT\tThe|det\tThe body|nsubjpass\tis|auxpass\tThe body is ground after weeks of very exhausting competition , and now we have to rest|ccomp\tafter weeks of very exhausting competition|prep\tweeks of very exhausting competition|pobj\tof very exhausting competition|prep\tvery exhausting|amod\tvery exhausting competition|pobj\tand|cc\tnow|advmod\twe|nsubj\tto rest|xcomp\the|nsubj\tthat ' The body is ground after weeks of very exhausting competition , and now we have to rest ' , he said|ccomp"
+                }
+            ]
+        }
+    ]
+}

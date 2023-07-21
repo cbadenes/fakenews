@@ -1,0 +1,312 @@
+{
+    "id": "102_Politics_527",
+    "claim": "Octagon, the master of the eight angles, the man who marked a before and after in the history of Mexican wrestling, the idol, the fighter who, emulating Jose Lopez Portillo, defended his name as a dog, now seeks new goals. Because his association of fighters is proving to be a success, he is now motivated, at such a level as to launch himself for the presidency of the republic.'I've already thought about it, and there's no worse fight than there isn't ', said Octagon.'My followers say to cheer me up, because if I am the greatest idol that the ring cartometer has ever given, if I founded AAA, if I designed my wrestling team, that ten years earlier I was shot by the Kato Kung Lee; and if Chuck Norris paid tribute to me making a movie even before I debuted with this name, there is no reason why I can't go for the big one and split it to AMLO, Zavala and Quadri'. The party of Octagon, will be the Unique Party of Authentic Reintegration (PURA), which will be allied with the Coalition of Brotherhoods affiliated with the Autonomous Neighbourhood Movement (CHAMBA). 'The PURA CHAMBA alliance will be invincible!'cried Octagon. Octagon says he is very happy with this new challenge, and that if he endured so many years between trials for his name and came out winner, he does not doubt that in the elections the same thing will happen.'It's just a matter of being patient, but this won't cause me to neglect my work within my 'Get me Air' association. Pray yes, take care of yourself, Pedrito Sola! ', finished. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "05/07/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Octagon, the master of the eight angles, the man who marked a before and after in the history of Mexican wrestling, the idol, the fighter who, emulating Jose Lopez Portillo, defended his name as a dog, now seeks new goals.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Octagon was the master of the eight angles?",
+                    "answer": "05/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Octagon do to defend his name as a dog?",
+                    "score": 0.6962,
+                    "answers": "a before and after|dobj\tthe fighter who , emulating Jose Lopez Portillo , defended his name as a dog|appos\tas a dog|prep\tnew|amod"
+                },
+                {
+                    "question": "How many angles did Octagon create?",
+                    "score": 0.6785,
+                    "answers": "of the eight angles|prep"
+                },
+                {
+                    "question": "What was Octagon's role in Mexican wrestling?",
+                    "score": 0.6672,
+                    "answers": "after|conj"
+                },
+                {
+                    "question": "What is the history of Mexican wrestling?",
+                    "score": 0.6546,
+                    "answers": "the history of Mexican wrestling|pobj"
+                },
+                {
+                    "question": "Who was Octagon the master of the eight angles?",
+                    "score": 0.6408,
+                    "answers": "the eight angles|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Because association of fighters is proving to be a success, his is now motivated, at such a level as to launch his for the presidency of the republic.",
+            "question_answers": [
+                {
+                    "question": "What is proving to be a success?",
+                    "answer": "association of fighters"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the association of fighters do for the presidency of the republic?",
+                    "score": 0.7731,
+                    "answers": "Because|mark"
+                },
+                {
+                    "question": "What is the purpose of association with fighters?",
+                    "score": 0.7047,
+                    "answers": "as to launch his for the presidency of the republic|advcl"
+                },
+                {
+                    "question": "What is the name of the website that links fighters to the republic?",
+                    "score": 0.6627,
+                    "answers": "that|mark\tis|aux\t,|punct\t,|punct\tas|mark\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the relationship between fighters and the republic?",
+                    "score": 0.6288,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 05/07/2017 that Because association of fighters is proving to be a success , his is now motivated , at such a level as to launch his for the presidency of the republic|ROOT\tof fighters|prep\tfighters|pobj\tBecause association of fighters is proving to be a success|advcl\tthat Because association of fighters is proving to be a success , his is now motivated , at such a level as to launch his for the presidency of the republic|ccomp\tof the republic|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'I've already thought about launch , and there's no worse fight than there isn't ', said his .",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 05/07/2017?",
+                    "answer": ", and there's no worse fight than there isn't"
+                },
+                {
+                    "question": "What did www.eldizque.com say 'I've already thought about'?",
+                    "answer": "launch"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about launching a missile?",
+                    "score": 0.9106,
+                    "answers": "about launch|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Trump's launch plan?",
+                    "score": 0.8158,
+                    "answers": "his|nsubj"
+                },
+                {
+                    "question": "What is the purpose of launching a missile?",
+                    "score": 0.7979,
+                    "answers": "that ' I 've already thought about launch , and there 's no worse fight than there is n't|ccomp\tlaunch|pobj"
+                },
+                {
+                    "question": "What is the name of the fight that Trump is involved in?",
+                    "score": 0.7046,
+                    "answers": "there 's no worse fight than there is n't|conj"
+                },
+                {
+                    "question": "What is the relationship between Trump andldizque.com?",
+                    "score": 0.6506,
+                    "answers": "I|nsubj\talready|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "'My followers say to cheer his up, because if his am the greatest idol that the ring cartometer has ever given, if his founded AAA, if his designed wrestling team, that ten years earlier his was shot by the Kato Kung Lee; and if Chuck Norris paid tribute to his making a movie even before his debuted with his name , there is no reason why his can't go for the big one and split the big one to AMLO, Zavala and Quadri'.",
+            "question_answers": [
+                {
+                    "question": "What did Chuck Norris pay tribute to?",
+                    "answer": "making a movie even before his debuted with his name"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Chuck Norris pay for his wrestling team?",
+                    "score": 0.7397,
+                    "answers": "tribute|dobj"
+                },
+                {
+                    "question": "What did Kato Kung Lee do with his wrestling team?",
+                    "score": 0.7293,
+                    "answers": "if his founded AAA , if his designed wrestling team , that ten years earlier his was shot by the Kato Kung Lee ;|conj"
+                },
+                {
+                    "question": "What is the name of Chuck Norris's wrestling team?",
+                    "score": 0.6341,
+                    "answers": "if Chuck Norris paid tribute to his making a movie even before his debuted with his name , there is no reason his ca n't go for the big one and why split the big one to AMLO , Zavala and Quadri '|conj"
+                },
+                {
+                    "question": "Who is the biggest idol that the ring cartometer has ever given?",
+                    "score": 0.5973,
+                    "answers": "AMLO , Zavala and Quadri|pobj"
+                },
+                {
+                    "question": "Who is Chuck Norris?",
+                    "score": 0.5955,
+                    "answers": "Chuck|compound\this ca n't go for the big one and why split the big one to AMLO , Zavala and Quadri|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The party of his , will be the Unique Party of Authentic Reintegration (PURA), which will be allied with the Coalition of Brotherhoods affiliated with the Autonomous Neighbourhood Movement (CHAMBA).",
+            "question_answers": [
+                {
+                    "question": "What is the Unique Party of Authentic Reintegration?",
+                    "answer": "The party of his"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What political party does PUBRA belong to?",
+                    "score": 0.7319,
+                    "answers": "that The party of his , will be the Unique Party of Authentic Reintegration ( PURA ) , which will be allied with the Coalition of Brotherhoods affiliated with the Autonomous Neighbourhood Movement ( CHAMBA )|ccomp\tthe Unique Party of Authentic Reintegration ( PURA ) , which will be allied with the Coalition of Brotherhoods affiliated with the Autonomous Neighbourhood Movement ( CHAMBA )|attr"
+                },
+                {
+                    "question": "What does PUBRA stand for?",
+                    "score": 0.5662,
+                    "answers": "that|mark\tThe|det\this|pobj\t,|punct\twill|aux\tthe|det\tUnique|compound\tof Authentic Reintegration|prep\tAuthentic Reintegration|pobj\t(|punct\t)|punct\t,|punct\twhich|nsubjpass\twill|aux\tbe|auxpass\tthe|det\tthe|det\t(|punct\t)|punct"
+                },
+                {
+                    "question": "What does CHAMBA stand for?",
+                    "score": 0.5645,
+                    "answers": "of Brotherhoods affiliated with the Autonomous Neighbourhood Movement ( CHAMBA )|prep\tBrotherhoods affiliated with the Autonomous Neighbourhood Movement ( CHAMBA )|pobj\twith the Autonomous Neighbourhood Movement ( CHAMBA )|prep\tthe Autonomous Neighbourhood Movement ( CHAMBA )|pobj"
+                },
+                {
+                    "question": "What is the name of the political party affiliated with CHAMBA?",
+                    "score": 0.5233,
+                    "answers": "the Coalition of Brotherhoods affiliated with the Autonomous Neighbourhood Movement ( CHAMBA )|pobj"
+                },
+                {
+                    "question": "What is the political affiliation of PUBRA?",
+                    "score": 0.5041,
+                    "answers": "The party of his|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'The PURA CHAMBA alliance will be invincible!'cried his .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'The PURA CHAMBA alliance will be invincible?",
+                    "answer": "05/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the author of the article say about the PUBRA CHAMBA alliance being invincible?",
+                    "score": 0.8292,
+                    "answers": "invincible!'cried|punct"
+                },
+                {
+                    "question": "What will the PURA CHAMBA alliance do?",
+                    "score": 0.806,
+                    "answers": "that ' The PURA CHAMBA alliance will be|ccomp"
+                },
+                {
+                    "question": "What is the purpose of the PURA CHAMBA alliance?",
+                    "score": 0.757,
+                    "answers": "The PURA CHAMBA alliance|nsubj"
+                },
+                {
+                    "question": "What does the website \"eldizque.com\" do?",
+                    "score": 0.7021,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between the PUBRA and The PURA?",
+                    "score": 0.6286,
+                    "answers": "his|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "his says his is very happy with this new challenge, and that if his endured so many years between trials for his name and came out winner, his does not doubt that in the elections the same thing will happen.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that he was very happy with his new challenge?",
+                    "answer": "05/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about the election in 2017?",
+                    "score": 0.7488,
+                    "answers": "www.eldizque.com reported on 05/07/2017 that his says his is very happy with this new challenge , and that if his endured so many years between trials for his name and came out winner , his does not doubt that in the elections the same thing will happen|ROOT\tthat his says his is very happy with this new challenge , and that if his endured so many years between trials for his name and came out winner , his does not doubt that in the elections the same thing will happen|advcl\this is very happy with this new challenge , and that if his endured so many years between trials for his name and came out winner , his does not doubt that in the elections the same thing will happen|advcl\tthis|det\tthis new challenge|pobj\tand|cc\tif|mark\tso|advmod\tand|cc\tout|prt\tthe|det\tthe|det\tsame|amod"
+                },
+                {
+                    "question": "How many years did Barack Obama wait for his name and come out winner?",
+                    "score": 0.629,
+                    "answers": "so many years|dobj"
+                },
+                {
+                    "question": "What is the name of the new challenge that Trump came out winner of?",
+                    "score": 0.5991,
+                    "answers": "with this new challenge|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'It's just a matter of being patient, but this won't cause me to neglect my work within my 'Get me Air' association.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'It's just a matter of being patient, but this won't cause me to neglect my work within my 'Get me Air' association?",
+                    "answer": "05/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be patient?",
+                    "score": 0.8446,
+                    "answers": "just a matter of being patient|attr\tme|nsubj\tme|dative"
+                },
+                {
+                    "question": "What does Get Me Air association do?",
+                    "score": 0.8215,
+                    "answers": "Air|dobj"
+                },
+                {
+                    "question": "What does the Get me Air association do?",
+                    "score": 0.8122,
+                    "answers": "on 05/07/2017|prep"
+                },
+                {
+                    "question": "What is the relationship between being patient and being patient?",
+                    "score": 0.7098,
+                    "answers": "of being patient|prep\tbeing patient|pcomp\tpatient|acomp\tbut|cc\tthis|nsubj"
+                },
+                {
+                    "question": "What is the Get Me Air association?",
+                    "score": 0.6882,
+                    "answers": "www.eldizque.com reported on 05/07/2017 that ' It 's just a matter of being patient , but this wo n't cause me to neglect my work within my ' Get me Air ' association|ROOT\tthis wo n't cause me to neglect my work within my ' Get me Air ' association|conj\tmy work within my ' Get me Air ' association|dobj\twithin my ' Get me Air ' association|prep\tmy ' Get me Air ' association|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Pray yes, take care of yourself, Pedrito Sola! ', finished.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 05/07/2017?",
+                    "answer": "Pedrito Sola!"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Pedrito Sola being finished?",
+                    "score": 0.7396,
+                    "answers": "on 05/07/2017|prep"
+                },
+                {
+                    "question": "What is Pedrito Sola?",
+                    "score": 0.7345,
+                    "answers": "that|mark\tyes|intj\t,|punct\tcare|dobj\tof yourself|prep\tyourself|pobj\t,|punct\tPedrito|compound\t!|punct\t'|punct\t,|punct\t, finished|dep"
+                },
+                {
+                    "question": "What is the name of Pedrito Sola?",
+                    "score": 0.6984,
+                    "answers": "that Pray yes , take care of yourself , Pedrito Sola ! '|ccomp"
+                }
+            ]
+        }
+    ]
+}

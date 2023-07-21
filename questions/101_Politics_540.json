@@ -1,0 +1,1094 @@
+{
+    "id": "101_Politics_540",
+    "claim": "Tons and tons of wheat from Russia are coming to Venezuela. The reason?A trade alliance that, according to the government of Nicolás Maduro, seeks'to break with the economic and financial siege that wants to impose unilaterally 'the United States. In fact, it has received the name of Operation Anti-lock. Last August  the president of this country, Donald Trump, signed a decree prohibiting American banks from buying new bonds from the Venezuelan government and its state oil company PDVSA. MIRA: Venezuela's Government Blames the US · Global Voices. USA. for food shortages and says opposition is asking for weaponsThe plan agreed between Venezuela and Russia previews that by December they have arrived in total  tons of wheat and other raw materials. In fact, the first shipment arrived in the Latin American country last September  with  tons. And there is another boat on the way with  more, which is expected to arrive in Venezuelan port next Friday. When the first tons arrived, Venezuela's Vice President Tareck El Aissami said it was a historical fact. 'To  days of having seen, known, the infamous and criminal order that pretended to leave the people without food, today we have received in Puerto Cabello the first expression of love and support to Venezuela from Russia-Power ', assured. The staff member stressed that there will be no shortage of food in the territory 'under any heading, no raw materials'. And he also indicated that'it will not be Trump or the U.S. empire that can stop the unstoppable course of Venezuela-Power'. It was also reported that partnerships with other countries such as India and China continue. However, the measure is not without criticism. Opposition leader and state governor of Miranda Henrique Capriles posted on his Twitter account a message questioning the measure. Capriles called the announcement of the arrival of  tons of wheat'another mockery\". 'That is just over #NUMBER*Kg per person! How long does that last? (sic) ', he said. What will happen to wheat?As the authorities have reported, the first  tonnes will be for  bakeries nationwide. These include some of the Local Supply and Production Committees, a strategy of the Great Sovereign Supply Mission. Minister of Defense Godfather Lopez said last September  that bakeries must allocate % of wheat to bread production. The rest may be used in other products such as 'sweets or desserts'. This supply plan, implemented by Nicolás Maduro in , also controls the entry of food into ports. According to Lopez, the raw material, including the one being sent by Russia, is being distributed directly to bakeries. Last September  reported that the intermediaries in the ports that, it said, were charged a %, which 'impacted on the final price of the cost structure. All that was eliminated.\". Lopez said that the supply plan is guaranteeing food for Venezuelans. The alliance with Russia was announced by Maduro last May. The president reported that they would import  tons of wheat monthly. 'We are already ready and all plant protection and commercial agreements have been signed, and very soon Russia will supply Venezuela, on a stable basis,  tons of monthly wheat starting this year ', he said at that time. Venezuela Blames the U.S. USA. Last August , the president of the National Constituent Assembly, Delcy Rodríguez, blamed the US government for the shortage of food and food that the Latin American country has been living through for months. 'Having us ships on the coast loaded with drugs and food, Venezuela has no way to make payment for those essential goods for the Venezuelan population. Why?Because there is a financial blockade against the country ', Rodriguez said this Sunday during a press conference in Caracas. He added that the decree signed by Trump to ban the purchase of bonds'is intended to lead our country to an international cut-off in order to intensify the economic aggression against the Venezuelan people'. However, Rodriguez's assertion that the United States has propitiated the shortage of food and food that has been affecting Venezuela for months is not true. Hunger, inflation and unemployment have been affecting Venezuelans for a long time: not in vain, Maduro has increased the minimum wage three times in what is going on this year. But unemployment in the Latin American nation is expected to exceed % this year and reach % for . In , this indicator recorded just one %. In addition, the Venezuelan economy contracted a % in , which is the third in recession. The high increase in inflation, which is expected to reach % in , according to the International Monetary Fund, results in massive shortages of food and medicine. Many Venezuelans assured CNN last August that they have lost weight this year, due to lack of food. What supports the findings of a national survey. I'm sorry.",
+    "source": "cnnespanol.cnn.com",
+    "date": "04/09/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Tons and tons of wheat from Russia are coming to Venezuela .",
+            "question_answers": [
+                {
+                    "question": "Who reported that tons of wheat from Russia are coming to Venezuela?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of Russian wheat coming to Venezuela?",
+                    "score": 0.8341,
+                    "answers": "from Russia|prep\tto Venezuela|prep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.691,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The reason?A trade alliance that, according to Venezuela Maduro break Maduro and financial siege that wants to impose unilaterally they the measure the United States .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/09/2017 that the reason is a trade alliance that, according to Venezuela Maduro, breaks Maduro and financial siege that wants to impose unilaterally they the measure the United States?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the measure that the United States wants to impose unilaterally?",
+                    "score": 0.6298,
+                    "answers": "to impose unilaterally they the measure the United States|xcomp"
+                },
+                {
+                    "question": "What is the relationship between Venezuela and the United States?",
+                    "score": 0.6175,
+                    "answers": "that|mark\tThe|det\tThe reason?A|nmod\ttrade|compound\tthat The reason?A trade alliance that , according to Venezuela Maduro break Maduro and financial siege that wants to impose unilaterally they the measure the United States|dobj\tthat|dep\t,|punct\taccording to|prep\tto|prep\tVenezuela Maduro break|nmod\tbreak|appos\taccording to Venezuela Maduro break Maduro and|dep\tand|cc\tfinancial|amod\tthat , according to Venezuela Maduro break Maduro and financial siege|relcl\tthat|nsubj\tto|aux\tunilaterally|advmod\tthey|nmod\tthe|det\tthe|det\tUnited|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, it has received Opposition leader and state governor of Miranda Henrique Capriles .",
+            "question_answers": [
+                {
+                    "question": "Who did cnnespanol.cnn.com receive?",
+                    "answer": "Opposition leader and state governor of Miranda Henrique Capriles"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What political party does Miranda Henrique Capriles belong to?",
+                    "score": 0.7902,
+                    "answers": "Opposition|nmod"
+                },
+                {
+                    "question": "Who is Miranda Henrique Capriles?",
+                    "score": 0.6296,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that In fact , it has received Opposition leader and state governor of Miranda Henrique Capriles|ROOT\ton 04/09/2017|prep\tthat In fact , it has received Opposition leader and state governor of Miranda Henrique Capriles|ccomp\tOpposition leader and state governor of Miranda Henrique Capriles|dobj\tstate|compound\tstate governor of Miranda|conj\tof Miranda|prep\tHenrique|compound"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5299,
+                    "answers": "cnnespanol.cnn.com|nsubj\tthat|mark\tIn fact|prep\tfact|pobj\t,|punct\tit|nsubj\thas|aux\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Opposition leader and state governor of Miranda Henrique Capriles Russia the United States , Venezuela , signed a decree prohibiting the measure Opposition leader and state governor of Miranda Henrique Capriles from this year bonds from Venezuela Venezuela and the U.S. USA company PDVSA.",
+            "question_answers": [
+                {
+                    "question": "What country did the Opposition leader and state governor of Miranda Henrique Capriles sign a decree prohibiting?",
+                    "answer": "Venezuela"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Capriles sign a decree prohibiting the measure from being bonds from Venezuela?",
+                    "score": 0.8657,
+                    "answers": "a decree prohibiting the measure Opposition leader and state governor of Miranda Henrique Capriles from this year bonds from Venezuela Venezuela and the U.S. USA company PDVSA|dobj"
+                },
+                {
+                    "question": "Who is Miranda Henrique Capriles?",
+                    "score": 0.6033,
+                    "answers": "Opposition leader and state governor of Miranda Henrique Capriles|appos"
+                },
+                {
+                    "question": "What is the relationship between the Opposition leader and state governor Miranda Henrique Capriles?",
+                    "score": 0.591,
+                    "answers": "prohibiting the measure Opposition leader and state governor of Miranda Henrique Capriles from this year bonds from Venezuela Venezuela and the U.S. USA company PDVSA|acl"
+                },
+                {
+                    "question": "What is the source of evidence of Capriles' relationship with Russia?",
+                    "score": 0.567,
+                    "answers": "cnnespanol.cnn.com|nsubj\tOpposition|nmod\tOpposition|compound"
+                },
+                {
+                    "question": "What is PDVSA?",
+                    "score": 0.5666,
+                    "answers": "the U.S. USA company PDVSA|appos"
+                }
+            ]
+        },
+        {
+            "claim": "the president of the National Constituent Assembly, Delcy Rodríguez .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Delcy Rodríguez and the National Constituent Assembly?",
+                    "score": 0.6402,
+                    "answers": "the|det\tthe|det"
+                },
+                {
+                    "question": "Who is Delcy Rodríguez?",
+                    "score": 0.6276,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that the president of the National Constituent Assembly , Delcy Rodríguez|ROOT\ton 04/09/2017|prep\tthat|mark\tthat the president of the National Constituent Assembly , Delcy Rodríguez|ccomp\tof the National Constituent Assembly|prep\tNational|compound\tConstituent|compound\t,|punct\tDelcy|compound"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6178,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the president of the National Constituent Assembly, Delcy Rodríguez .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Delcy Rodríguez and the National Constituent Assembly?",
+                    "score": 0.6402,
+                    "answers": "the|det\tthe|det"
+                },
+                {
+                    "question": "Who is Delcy Rodríguez?",
+                    "score": 0.6276,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that the president of the National Constituent Assembly , Delcy Rodríguez|ROOT\ton 04/09/2017|prep\tthat|mark\tthat the president of the National Constituent Assembly , Delcy Rodríguez|ccomp\tof the National Constituent Assembly|prep\tNational|compound\tConstituent|compound\t,|punct\tDelcy|compound"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6178,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the president of the National Constituent Assembly, Delcy Rodríguez food shortages the U.S. USA opposition is asking for weaponsThe plan Venezuela Venezuela and Russia bakeries nationwide by bakeries nationwide Venezuela and Russia have arrived in total  tons of wheat and other raw materials.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why is Delcy Rodríguez asking for weapons?",
+                    "score": 0.6989,
+                    "answers": "food shortages|dep"
+                },
+                {
+                    "question": "What did Delcy Rodríguez say about food shortages?",
+                    "score": 0.6804,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that the president of the National Constituent Assembly , Delcy Rodríguez food shortages the U.S. USA opposition is asking for weaponsThe plan|ROOT\tthat|mark"
+                },
+                {
+                    "question": "How many tons of wheat and other raw materials does Venezuela have?",
+                    "score": 0.6311,
+                    "answers": "tons of wheat and other raw materials|npadvmod"
+                },
+                {
+                    "question": "What is Delcy Rodríguez's plan for food shortages?",
+                    "score": 0.5846,
+                    "answers": "by bakeries nationwide Venezuela and Russia|prep\tbakeries nationwide Venezuela and Russia|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the number of Venezuelans and Russia making bread?",
+                    "score": 0.5798,
+                    "answers": "Venezuela Venezuela and Russia bakeries nationwide by bakeries nationwide Venezuela and Russia|dep"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, the first shipment arrived in Minister of Defense Godfather Lopez the Venezuelan population last September .",
+            "question_answers": [
+                {
+                    "question": "Who was the Minister of Defense?",
+                    "answer": "Minister of Defense Godfather Lopez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the first shipment arrive from Venezuela?",
+                    "score": 0.9208,
+                    "answers": "the first shipment|nsubj"
+                },
+                {
+                    "question": "What is the population of Venezuelans?",
+                    "score": 0.7827,
+                    "answers": "the Venezuelan population|appos"
+                },
+                {
+                    "question": "Who is Minister of Defense Godfather Lopez?",
+                    "score": 0.7236,
+                    "answers": "in Minister of Defense Godfather Lopez the Venezuelan population|prep\tMinister of Defense|nmod\tof Defense|prep\tDefense|pobj\tMinister of Defense Godfather Lopez the Venezuelan population|pobj"
+                },
+                {
+                    "question": "What is the origin of cnnespanol.cnn.com?",
+                    "score": 0.6006,
+                    "answers": "fact|pobj\t,|punct\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "And there is another boat on the way with Venezuela the president of the National Constituent Assembly, Delcy Rodríguez to arrive in Venezuelan port next Friday.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Where is Delcy Rodríguez from?",
+                    "score": 0.7102,
+                    "answers": "Venezuelan port|pobj"
+                },
+                {
+                    "question": "Where is Delcy Rodríguez?",
+                    "score": 0.6842,
+                    "answers": "that And there is another boat on the way with Venezuela the president of the National Constituent Assembly , Delcy Rodríguez to arrive in Venezuelan port next Friday|ccomp"
+                },
+                {
+                    "question": "Who is the president of the National Constituent Assembly?",
+                    "score": 0.6586,
+                    "answers": "And there is another boat on the way with Venezuela|ccomp\tanother boat on the way with Venezuela|attr\ton the way|prep\tin Venezuelan port|prep"
+                },
+                {
+                    "question": "Who is Delcy Rodríguez?",
+                    "score": 0.6187,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 04/09/2017 that And there is another boat on the way with Venezuela the president of the National Constituent Assembly , Delcy Rodríguez to arrive in Venezuelan port next Friday|ROOT\ton 04/09/2017|prep\tthat|mark\tAnd|cc\tthere|expl\tanother|det\tthe|det\tthe|det\tthe president of the National Constituent Assembly , Delcy Rodríguez|nsubj\tthe|det\tNational|compound\t,|punct\tDelcy|compound\tto|aux"
+                },
+                {
+                    "question": "What is the relationship between Delcy Rodríguez and Venezuelans?",
+                    "score": 0.601,
+                    "answers": "the way|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "When the first shipment arrived , Venezuela Vice President Tareck El Aissami said arrived was a historical fact.",
+            "question_answers": [
+                {
+                    "question": "When did Venezuelan Vice President Tareck El Aissami say the first shipment arrived?",
+                    "answer": "When the first shipment arrived"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the first shipment arrive in Venezuela?",
+                    "score": 0.8935,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that When the first shipment arrived , Venezuela Vice President Tareck El Aissami said arrived was a historical fact|ROOT\ton 04/09/2017|prep\tWhen|advmod\tthe first shipment|nsubj\tWhen the first shipment arrived|advcl\tthat When the first shipment arrived , Venezuela Vice President Tareck El Aissami said arrived was a historical fact|ccomp"
+                },
+                {
+                    "question": "How many shipments did Tareck El Aissami receive?",
+                    "score": 0.8527,
+                    "answers": "the|det\ta|det"
+                },
+                {
+                    "question": "What did El Aissami say about the first shipment?",
+                    "score": 0.8338,
+                    "answers": "Tareck|compound"
+                },
+                {
+                    "question": "Who is Tareck El Aissami?",
+                    "score": 0.65,
+                    "answers": "Venezuela Vice President|compound\tVenezuela Vice President Tareck El Aissami|nsubj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6141,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Venezuela of having seen, Minister of Defense Godfather Lopez , the infamous and criminal order that pretended to leave the the Venezuelan population , today Venezuela the president of the National Constituent Assembly, Delcy Rodríguez last September the U.S. USA of love and support to Venezuela from Russia ', assured.",
+            "question_answers": [
+                {
+                    "question": "What country did the U.S. give support to Venezuela?",
+                    "answer": "Russia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Delcy Rodríguez meet with Godfather Lopez?",
+                    "score": 0.6135,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                },
+                {
+                    "question": "What did Venezuelans think about Delcy Rodríguez?",
+                    "score": 0.6128,
+                    "answers": "that pretended to leave the the Venezuelan population|relcl"
+                },
+                {
+                    "question": "Who was the Minister of Defense Godfather Lopez?",
+                    "score": 0.5615,
+                    "answers": "of having seen , Minister of Defense Godfather Lopez , the infamous and criminal order that pretended to leave the the Venezuelan population|prep\thaving seen , Minister of Defense Godfather Lopez , the infamous and criminal order that pretended to leave the the Venezuelan population|pcomp"
+                },
+                {
+                    "question": "What is the relationship between Venezuelans and Russia?",
+                    "score": 0.5431,
+                    "answers": "to leave the the Venezuelan population|xcomp"
+                },
+                {
+                    "question": "What was the relationship between Delcy Rodríguez and Godfather Lopez?",
+                    "score": 0.54,
+                    "answers": "on 04/09/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Venezuela member stressed that there will be no shortage of food in Venezuela 'under any heading, no raw materials'.",
+            "question_answers": [
+                {
+                    "question": "What did a Venezuela member say on 04/09/2017?",
+                    "answer": "there will be no shortage of food in Venezuela"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is there a shortage of food in Venezuela?",
+                    "score": 0.9342,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that Venezuela member stressed that there will be no shortage of food in Venezuela ' under any heading , no raw materials '|ROOT\tthat|mark\tVenezuela member|nsubj\tthat|mark\tthere|expl\twill|aux\tthat there will be no shortage of food in Venezuela ' under any heading , no raw materials '|ccomp\tno|det\tno shortage of food in Venezuela|attr\tof food|prep\tfood|pobj\tin Venezuela|prep\t'|punct\tany|det\t,|punct\tno|det\traw|amod\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "And he also Maduro that'it will not be Trump or the U.S. empire that can stop this year course of Venezuela-Power'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/09/2017 that he also Maduro that 'it will not be Trump or the U.S. empire that can stop this course of Venezuela-Power'?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about the course of Venezuela-power?",
+                    "score": 0.8565,
+                    "answers": "that'it will not be Trump or the U.S. empire that can stop this year course of Venezuela - Power|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Trump and Venezuelans?",
+                    "score": 0.724,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that And he also Maduro that'it will not be Trump or the U.S. empire that can stop this year course of Venezuela - Power '|ROOT\tthat|mark\tAnd|cc\tAnd he also|nmod\talso|advmod\tthat And he also Maduro|ccomp\tthat'it|nsubj\twill|aux\tnot|neg\tor|cc\tthe|det\tthat|nsubj\tcan|aux\tthis|det\t-|punct\t'|punct"
+                },
+                {
+                    "question": "What is the course of Venezuela-Power?",
+                    "score": 0.6634,
+                    "answers": "on 04/09/2017|prep\tthis year course of Venezuela - Power|dobj"
+                },
+                {
+                    "question": "What is the history of the US empire?",
+                    "score": 0.6397,
+                    "answers": "the U.S. empire|conj"
+                }
+            ]
+        },
+        {
+            "claim": "It was also reported that partnerships with other countries such as India and China continue.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the partnership with India and China on 04/09/2017?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have partnerships with India and China?",
+                    "score": 0.9085,
+                    "answers": "other countries such as India and China|pobj"
+                },
+                {
+                    "question": "What is the relationship between India and China?",
+                    "score": 0.7484,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that It was also reported that partnerships with other countries such as India and China continue|ROOT\ton 04/09/2017|prep\tthat|mark\tIt|nsubjpass\twas|auxpass\talso|advmod\tthat It was also reported that partnerships with other countries such as India and China continue|ccomp\tthat|mark\tpartnerships with other countries such as India and China|nsubj\twith other countries such as India and China|prep\tother|amod\tsuch|amod\tsuch as India and China|prep\tIndia and China|pobj\tand|cc\tthat partnerships with other countries such as India and China continue|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, the measure is not without criticism.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the measure was not without criticism?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about criticism?",
+                    "score": 0.9214,
+                    "answers": "without criticism|prep"
+                },
+                {
+                    "question": "What are the criticisms of the measure?",
+                    "score": 0.8574,
+                    "answers": "that However , the measure is not without criticism|ccomp"
+                },
+                {
+                    "question": "What is the measure of criticism?",
+                    "score": 0.8085,
+                    "answers": "criticism|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the measure?",
+                    "score": 0.7834,
+                    "answers": "the measure|nsubj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.7365,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that However , the measure is not without criticism|ROOT\tthat|mark\tHowever|advmod\t,|punct\tthe|det\tnot|neg"
+                }
+            ]
+        },
+        {
+            "claim": "Opposition leader and state governor of Miranda Henrique Capriles posted on his Twitter account a message questioning the measure.",
+            "question_answers": [
+                {
+                    "question": "Who posted a message on Twitter questioning the measure?",
+                    "answer": "Opposition leader and state governor of Miranda Henrique Capriles"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Capriles post a message questioning the measure?",
+                    "score": 0.8681,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that Opposition leader and state governor of Miranda Henrique Capriles posted on his Twitter account a message questioning the measure|ROOT\tthat Opposition leader and state governor of Miranda Henrique Capriles posted on his Twitter account a message questioning the measure|ccomp"
+                },
+                {
+                    "question": "What did Capriles say about the measure?",
+                    "score": 0.7289,
+                    "answers": "that|mark\tOpposition|nmod\tand|cc\tstate|compound\tHenrique|compound\tquestioning the measure|acl\tthe|det\tthe measure|dobj"
+                },
+                {
+                    "question": "What did Capriles post on Twitter in 2017?",
+                    "score": 0.7191,
+                    "answers": "Twitter|compound"
+                },
+                {
+                    "question": "Who is Miranda Henrique Capriles?",
+                    "score": 0.6272,
+                    "answers": "Opposition leader and state governor of Miranda Henrique Capriles|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Capriles and Miranda?",
+                    "score": 0.6121,
+                    "answers": "state governor of Miranda|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Capriles called the announcement of the arrival of  tons of wheat'another mockery\".",
+            "question_answers": [
+                {
+                    "question": "Who reported that Capriles called the announcement of the arrival of tons of wheat'a mockery?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Capriles say about the arrival of wheat?",
+                    "score": 0.8325,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that Capriles called the announcement of the arrival of   tons of wheat'another mockery \"|ROOT\ton 04/09/2017|prep\tthat Capriles called the announcement of the arrival of|ccomp\tthe announcement of the arrival of|dobj\tof the arrival of|prep\tthe arrival of|pobj\t  tons of|dep\ttons of|pobj\twheat'another|punct"
+                }
+            ]
+        },
+        {
+            "claim": "'That is just over #NUMBER*Kg per person! How long does that last? (sic) ', he said.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/09/2017 that 'That's just over #NUMBER*Kg per person!",
+                    "answer": "cnnespanol.cnn.com"
+                },
+                {
+                    "question": "What did cnnespanol.cnn.com report on 04/09/2017?",
+                    "answer": "(sic)"
+                },
+                {
+                    "question": "What did cnnespanol.cnn.com report on 04/09/2017?",
+                    "answer": "(sic)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long does it take to calculate the number of kg per person per person?",
+                    "score": 0.7469,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that ' That is just over # NUMBER*Kg per person ! How long does that last ? ( sic ) ' , he said|ROOT"
+                },
+                {
+                    "question": "What is the average per person per person in the United States?",
+                    "score": 0.6408,
+                    "answers": "on 04/09/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "What will happen to wheat?As the authorities have reported, the first  tonnes will be for  bakeries nationwide.",
+            "question_answers": [
+                {
+                    "question": "Where will the first tonnes of wheat be used?",
+                    "answer": "bakeries nationwide"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much wheat will be grown nationwide?",
+                    "score": 0.9151,
+                    "answers": "tonnes|nsubj"
+                },
+                {
+                    "question": "What will happen to wheat?",
+                    "score": 0.8893,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that What will happen to wheat?As the authorities have reported , the first   tonnes will be for   bakeries nationwide|ROOT\tthat|mark\tWhat|nsubj\twill|aux\tthat What will happen to|ccomp\tto|prep\tthe|det\thave|aux\t,|punct\tthe|det\t, the first  |dep\twill|aux\tfor|prep\t  bakeries nationwide|dep\tnationwide|advmod"
+                },
+                {
+                    "question": "What is the amount of wheat that will be distributed nationwide?",
+                    "score": 0.8718,
+                    "answers": "tonnes will be for|ccomp"
+                },
+                {
+                    "question": "How many wheat farms will be opened nationwide in 2017?",
+                    "score": 0.8705,
+                    "answers": "the first|amod"
+                }
+            ]
+        },
+        {
+            "claim": "These include some of the Local Supply and Production Committees, a strategy of the Great Sovereign Supply Mission.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the Local Supply and Production Committees on 04/09/2017?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Great Sovereign Supply Mission?",
+                    "score": 0.7431,
+                    "answers": "a strategy of the Great Sovereign Supply Mission|appos\tof the Great Sovereign Supply Mission|prep"
+                },
+                {
+                    "question": "What is the Local Supply and Production Committees?",
+                    "score": 0.7115,
+                    "answers": "Local|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "Minister of Defense Godfather Lopez said last September  that bakeries must allocate % of wheat to bread production.",
+            "question_answers": [
+                {
+                    "question": "What did Minister of Defense Godfather Lopez say?",
+                    "answer": "bakeries must allocate % of wheat to bread production"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of wheat is allocated to bread production?",
+                    "score": 0.8819,
+                    "answers": "% of wheat|dobj\tof wheat|prep\tto bread production|prep"
+                },
+                {
+                    "question": "What did Minister of Defense Godfather Lopez say about bread production?",
+                    "score": 0.787,
+                    "answers": "that|mark\tthat Minister of Defense Godfather Lopez said last September|ccomp\tlast|amod\tthat|mark\tbakeries|nsubj\tbread|compound\tbread production|pobj"
+                },
+                {
+                    "question": "Who is Godfather Lopez?",
+                    "score": 0.5916,
+                    "answers": "Godfather|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The rest may be used in other products such as 'sweets or desserts'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/09/2017 that The rest may be used in other products such as'sweets or desserts'?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What products are used in other products?",
+                    "score": 0.9245,
+                    "answers": "in other products such as ' sweets or desserts '|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the ingredients used in desserts?",
+                    "score": 0.8125,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that The rest may be used in other products such as ' sweets or desserts '|ROOT\tsuch as ' sweets or desserts '|prep\tdesserts|conj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6716,
+                    "answers": "that|mark\tThe|det\tbe|auxpass\tsuch|amod\t'|punct\tor|cc\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "This supply plan, implemented by Nicolás Maduro in , also controls the entry of food into ports.",
+            "question_answers": [
+                {
+                    "question": "Who implemented the supply plan?",
+                    "answer": "Nicolás Maduro in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the supply plan?",
+                    "score": 0.7697,
+                    "answers": "implemented by Nicolás Maduro in|acl"
+                },
+                {
+                    "question": "What is the supply plan for ports?",
+                    "score": 0.7637,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that This supply plan , implemented by Nicolás Maduro in , also controls the entry of food into ports|ROOT\ton 04/09/2017|prep\tthat|mark\tThis|det\tsupply|compound\tThis supply plan , implemented by Nicolás Maduro in|nsubj\t,|punct\tby Nicolás Maduro|agent\tNicolás|compound\tin|prep\t,|punct\talso|advmod\tthat This supply plan , implemented by Nicolás Maduro in , also controls the entry of food into ports|ccomp\tthe|det\tthe entry of food into ports|dobj\tinto ports|prep\tports|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to Lopez, the raw material, including the one being sent by Russia, is being distributed directly to bakeries.",
+            "question_answers": [
+                {
+                    "question": "According to Lopez, the raw material is being distributed directly to what?",
+                    "answer": "bakeries"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of raw material is being distributed to bakeries?",
+                    "score": 0.8846,
+                    "answers": "raw|amod"
+                },
+                {
+                    "question": "Who sent the raw material to the bakeries?",
+                    "score": 0.8051,
+                    "answers": "including the one being sent by Russia|prep\tthe one being sent by Russia|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the raw material being sent to bakeries?",
+                    "score": 0.7414,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that According to Lopez , the raw material , including the one being sent by Russia , is being distributed directly to bakeries|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Last September  reported that the intermediaries in the ports that, it said, were charged a %, which 'impacted on the final price of the cost structure.",
+            "question_answers": [
+                {
+                    "question": "What did cnnespanol.cnn.com say about the intermediaries in the ports?",
+                    "answer": "a %, which 'impacted on the final price of the cost structure"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the cost of the construction of ports?",
+                    "score": 0.7079,
+                    "answers": "on the final price of the cost structure|prep"
+                },
+                {
+                    "question": "What was the price of the intermediaries in ports that were charged a %?",
+                    "score": 0.6618,
+                    "answers": "that Last September  |dep\t, it said ,|parataxis"
+                },
+                {
+                    "question": "What is the cost structure of ports?",
+                    "score": 0.6495,
+                    "answers": "of the cost structure|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Lopez said that the supply plan is guaranteeing food for Venezuelans.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Lopez said that the supply plan is guaranteeing food for Venezuelans?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the supply plan for Venezuelans?",
+                    "score": 0.78,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that Lopez said that the supply plan is guaranteeing food for Venezuelans|ROOT\ton 04/09/2017|prep\tthat|mark\tthat Lopez said that the supply plan is guaranteeing food for Venezuelans|ccomp\tthat|mark\tthe|det\tsupply|compound\tthe supply plan|nsubj\tis|aux\tthat the supply plan is guaranteeing food for Venezuelans|ccomp\tfood for Venezuelans|dobj\tfor Venezuelans|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The alliance with Russia was announced by Maduro last May.",
+            "question_answers": [
+                {
+                    "question": "Who announced the alliance with Russia?",
+                    "answer": "Maduro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Russia and Cuba?",
+                    "score": 0.6669,
+                    "answers": "cnnespanol.cnn.com|nsubj\tby Maduro|agent"
+                }
+            ]
+        },
+        {
+            "claim": "The president reported that they would import  tons of wheat monthly.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the president said they would import tons of wheat monthly?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many tons of wheat does the US import annually?",
+                    "score": 0.9033,
+                    "answers": "that they would import|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'We are already ready and all plant protection and commercial agreements have been signed, and very soon Russia will supply Venezuela, on a stable basis,  tons of monthly wheat starting this year ', he said at that time.",
+            "question_answers": [
+                {
+                    "question": "When will Russia begin to supply Venezuela with tons of monthly wheat?",
+                    "answer": "this year"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What agreements have been signed between Russia and Venezuela?",
+                    "score": 0.7983,
+                    "answers": "all plant protection and commercial agreements|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of wheat that Russia will supply Venezuelans?",
+                    "score": 0.6906,
+                    "answers": "monthly wheat|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Venezuela Blames the U.S. USA.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Venezuela Blames the U.S.?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about the USA?",
+                    "score": 0.8936,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the relationship between the US and Venezuela?",
+                    "score": 0.8233,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that Venezuela Blames the U.S. USA|ROOT\ton 04/09/2017|prep\tthat Venezuela Blames the U.S. USA|ccomp\tthe|det\tU.S.|compound"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.771,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Last August , the president of the National Constituent Assembly, Delcy Rodríguez, blamed the US government for the shortage of food and food that the Latin American country has been living through for months.",
+            "question_answers": [
+                {
+                    "question": "When did Delcy Rodrguez blame the US for the shortage of food?",
+                    "answer": "Last August"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Delcy Rodríguez blame the US government for the shortage of food and food?",
+                    "score": 0.7598,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that Last August , the president of the National Constituent Assembly , Delcy Rodríguez , blamed the US government for the shortage of food and food the Latin American country has been living that through for months|ROOT\ton 04/09/2017|prep\tthat|mark\tLast|amod\t,|punct\tthe president of the National Constituent Assembly , Delcy Rodríguez ,|nsubj\tof the National Constituent Assembly|prep\tConstituent|compound\t,|punct\t,|punct\tthat Last August , the president of the National Constituent Assembly , Delcy Rodríguez , blamed the US government for the shortage of food and food the Latin American country has been living that through for months|ccomp\tthe US government|dobj\tfood and food|pobj\tand|cc\tfood|conj\tthat|pobj\thas|aux\tbeen|aux"
+                },
+                {
+                    "question": "How long has the Latin American country been living in poverty?",
+                    "score": 0.7589,
+                    "answers": "the Latin American country has been living that through for months|relcl"
+                },
+                {
+                    "question": "How long has Delcy Rodríguez been living in the US?",
+                    "score": 0.6885,
+                    "answers": "for months|prep"
+                },
+                {
+                    "question": "What is Delcy Rodríguez's ethnicity?",
+                    "score": 0.5964,
+                    "answers": "Latin|amod"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5152,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Having us ships on the coast loaded with drugs and food, Venezuela has no way to make payment for those essential goods for the Venezuelan population.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/09/2017 that Venezuela has no way of making payment for essential goods for the Venezuelan population?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of Venezuelans are living on the coast?",
+                    "score": 0.8267,
+                    "answers": "for the Venezuelan population|prep"
+                },
+                {
+                    "question": "What does Venezuelans need to do to get supplies for their people?",
+                    "score": 0.7959,
+                    "answers": "for those essential goods for the Venezuelan population|prep"
+                },
+                {
+                    "question": "How many Venezuelans are on the coast loaded with drugs and food?",
+                    "score": 0.7712,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that ' Having us ships on the coast loaded with drugs and food , Venezuela has no way to make payment for those essential goods for the Venezuelan population|ROOT\tHaving us ships on the coast loaded with drugs and food|advcl\ton the coast|prep\tus ships on the coast loaded with drugs and food|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of Venezuelans receiving aid from the US and other countries?",
+                    "score": 0.6765,
+                    "answers": "on 04/09/2017|prep\tthat|mark\t'|punct\tthe|det\tand|cc\tfood|conj\t,|punct\tno|det\tto|aux\tpayment for those essential goods for the Venezuelan population|dobj\tthose|det\tessential|amod\tthe|det"
+                },
+                {
+                    "question": "What is the population of Venezuela?",
+                    "score": 0.676,
+                    "answers": "the Venezuelan population|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Why?Because there is a financial blockade against the country ', Rodriguez said this Sunday during a press conference in Caracas.",
+            "question_answers": [
+                {
+                    "question": "Why did Rodriguez say there was a blockade against the country?",
+                    "answer": "financial blockade against the country"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is there a financial blockade against the country?",
+                    "score": 0.914,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that Why?Because there is a financial blockade against the country ' , Rodriguez said this Sunday during a press conference in Caracas|ROOT\ton 04/09/2017|prep\tWhy?Because there is a financial blockade against the country|intj\tthere|expl\tthere is a financial blockade against the country|prep\tfinancial|amod\ta financial blockade against the country|attr\tthe country|pobj\tthat Why?Because there is a financial blockade against the country ' , Rodriguez said this Sunday during a press conference in Caracas|ccomp\tthis|det\tin Caracas|prep"
+                },
+                {
+                    "question": "What did Rodriguez say during a press conference in Caracas?",
+                    "score": 0.8281,
+                    "answers": "during a press conference in Caracas|prep"
+                }
+            ]
+        },
+        {
+            "claim": "He added that the decree signed by Trump to ban the purchase of bonds'is intended to lead our country to an international cut-off in order to intensify the economic aggression against the Venezuelan people'.",
+            "question_answers": [
+                {
+                    "question": "What was the purpose of the ban on the purchase of bonds?",
+                    "answer": "to lead our country to an international cut-off in order to intensify the economic aggression against the Venezuelan people'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Trump ban the purchase of bonds?",
+                    "score": 0.9258,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that He added that the decree signed by Trump to ban the purchase of bonds'is intended to lead our country to an international cut - off in order to intensify the economic aggression against the Venezuelan people '|ROOT\tthat He added that the decree signed by Trump to ban the purchase of bonds'is intended to lead our country to an international cut - off in order to intensify the economic aggression against the Venezuelan people '|ccomp\tto an international cut - off|prep\tin order to intensify the economic aggression against the Venezuelan people|prep\torder to intensify the economic aggression against the Venezuelan people|pobj\tto intensify the economic aggression against the Venezuelan people|acl"
+                }
+            ]
+        },
+        {
+            "claim": "However, Rodriguez's assertion that the United States has propitiated the shortage of food and food that has been affecting Venezuela for months is not true.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Rodriguez's assertion that the United States has propitiated the shortage of food is not true?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has the shortage of food and food been affecting Venezuelans?",
+                    "score": 0.8583,
+                    "answers": "for months|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Hunger, inflation and unemployment have been affecting Venezuelans for a long time: not in vain, Maduro has increased the minimum wage three times in what is going on this year.",
+            "question_answers": [
+                {
+                    "question": "Who has increased the minimum wage three times?",
+                    "answer": "Maduro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many times has Venezuelans increased the minimum wage?",
+                    "score": 0.8873,
+                    "answers": "that Hunger , inflation and unemployment have been affecting Venezuelans for a long time|ccomp"
+                },
+                {
+                    "question": "What is the minimum wage in Venezuela?",
+                    "score": 0.7873,
+                    "answers": "minimum|amod"
+                }
+            ]
+        },
+        {
+            "claim": "But unemployment in the Latin American nation is expected to exceed % this year and reach % for .",
+            "question_answers": [
+                {
+                    "question": "What is the unemployment rate in the Latin American nation expected to exceed?",
+                    "answer": "exceed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the unemployment rate in Latin America in 2017?",
+                    "score": 0.8915,
+                    "answers": "that But unemployment in the Latin American nation is expected to exceed % this year and reach % for|ccomp\tto exceed % this year and reach % for|xcomp\t%|dobj\t% for|dobj"
+                },
+                {
+                    "question": "What is the rate of unemployment in Latin America?",
+                    "score": 0.8832,
+                    "answers": "unemployment in the Latin American nation|nsubjpass\tin the Latin American nation|prep\tthe Latin American nation|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In , this indicator recorded just one %.",
+            "question_answers": [
+                {
+                    "question": "How many % of cnnespanol.cnn.com reported that this indicator recorded on 04/09/2017?",
+                    "answer": "one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between inflation and inflation?",
+                    "score": 0.7623,
+                    "answers": "just one|nummod"
+                },
+                {
+                    "question": "What is the current indicator for the cnnespanol.cnn.com?",
+                    "score": 0.6825,
+                    "answers": "this indicator|nsubj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6814,
+                    "answers": "cnnespanol.cnn.com|nsubj\tthat|mark\tIn|prep\t,|punct\tthis|det\tjust|advmod"
+                },
+                {
+                    "question": "What is the correlation between the cnnespanol.cnn.com and the indicator?",
+                    "score": 0.6607,
+                    "answers": "that In , this indicator recorded just one %|ccomp"
+                },
+                {
+                    "question": "What is cnnespanolcnn.com?",
+                    "score": 0.6429,
+                    "answers": "on 04/09/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, the Venezuelan economy contracted a % in , which is the third in recession.",
+            "question_answers": [
+                {
+                    "question": "What happened to the Venezuelan economy in 2017?",
+                    "answer": "contracted a % in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much did the Venezuelan economy contracted in 2017?",
+                    "score": 0.9141,
+                    "answers": "In addition|prep\taddition|pobj\t,|punct\tthe|det\tthat In addition , the Venezuelan economy contracted a % in , which is the third in recession|ccomp\ta %|dobj\tin|prep\t,|punct\twhich|nsubj\tthe|det"
+                },
+                {
+                    "question": "What was the GDP growth rate of Venezuelans in 2017?",
+                    "score": 0.8776,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What was the effect of the Venezuelans economy in 2017?",
+                    "score": 0.8554,
+                    "answers": "the Venezuelan economy|nsubj\tin recession|prep"
+                },
+                {
+                    "question": "What is the third recession in recession in Venezuelas?",
+                    "score": 0.8359,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                },
+                {
+                    "question": "What is the GDP of Venezuela?",
+                    "score": 0.8273,
+                    "answers": "a|det"
+                }
+            ]
+        },
+        {
+            "claim": "The high increase in inflation, which is expected to reach % in , according to the International Monetary Fund, results in massive shortages of food and medicine.",
+            "question_answers": [
+                {
+                    "question": "According to the International Monetary Fund, what percentage of inflation is expected to increase in 2017?",
+                    "answer": "% in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current inflation rate?",
+                    "score": 0.7873,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that The high increase in inflation , which is expected to reach % in , according to the International Monetary Fund , results in massive shortages of food and medicine|ROOT\ton 04/09/2017|prep\tthat|mark\tThe|det\thigh|amod\t,|punct\tis|auxpass\tto|aux\tto reach % in|xcomp\tin|prep\t,|punct\tthe|det\tInternational|compound\t,|punct\tthat The high increase in inflation , which is expected to reach % in , according to the International Monetary Fund , results in massive shortages of food and medicine|ccomp\tmassive|amod\tand|cc"
+                },
+                {
+                    "question": "What is the rate of inflation?",
+                    "score": 0.7689,
+                    "answers": "which is expected to reach % in|relcl"
+                },
+                {
+                    "question": "What is inflation?",
+                    "score": 0.7459,
+                    "answers": "in inflation|prep\tinflation|pobj\twhich|nsubjpass\t% in|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of inflation in the United States?",
+                    "score": 0.7086,
+                    "answers": "medicine|conj"
+                },
+                {
+                    "question": "What is cnnespanolcnn.com?",
+                    "score": 0.576,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Many Venezuelans assured CNN last August that they have lost weight this year, due to lack of food.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Venezuelans say about their weight this year?",
+                    "score": 0.9093,
+                    "answers": "on 04/09/2017|prep\tthat Many Venezuelans assured CNN last August that they have lost weight this year , due to lack of food|ccomp"
+                },
+                {
+                    "question": "How many Venezuelans have lost weight this year?",
+                    "score": 0.891,
+                    "answers": "Many Venezuelans|nsubj\tdue to lack of food|prep"
+                },
+                {
+                    "question": "How many Venezuelans lost weight this year due to lack of food?",
+                    "score": 0.8706,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that Many Venezuelans assured CNN last August that they have lost weight this year , due to lack of food|ROOT"
+                },
+                {
+                    "question": "What is the weight of Venezuelans?",
+                    "score": 0.8314,
+                    "answers": "weight|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "What supports the findings of a national survey.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/09/2017 that what supports the findings of a national survey?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the national survey?",
+                    "score": 0.8654,
+                    "answers": "cnnespanol.cnn.com reported on 04/09/2017 that What supports the findings of a national survey|ROOT\ton 04/09/2017|prep\tthat|mark\tWhat|nsubj\tthat What supports the findings of a national survey|ccomp\tthe|det\tthe findings of a national survey|dobj\tof a national survey|prep\ta|det\tnational|amod\ta national survey|pobj"
+                }
+            ]
+        }
+    ]
+}

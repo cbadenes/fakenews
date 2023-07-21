@@ -1,0 +1,138 @@
+{
+    "id": "30_Society_83",
+    "claim": "Great controversy has been created with the news of the recent proposal that a Diocese has brought to light with reference among other issues to the collection of fees for baptisms, communions, confirmations and weddings, including in that list the entry price to hear mass. 'We are having problems because each Church charges different fees for each celebration and we have unified criteria for paying the same in Murcia and Vigo for carrying out the celebration of marriage, for example 'the Bishop said. Regarding the euro of entry to listen to Mass, he has reported that it is something symbolic and that it will not matter to any faithful to contribute their grain of sand, thus contributing with the cleaning and maintenance of the Temple, as well as for any rehabilitation that would have to be carried out.'Well if I used to stay outside smoking, now I don't tell you na, I'm going to pay today no, tomorrow 'are some of the comments that has sparked this news. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "08/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Great controversy has been created with the news of the recent proposal that a Diocese has brought to light with reference among other issues to the collection of fees for baptisms, communions, confirmations and weddings, including in that list the entry price to hear mass.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say was created with the news of the recent proposal that a Diocese brought to light regarding the collection of fees for baptisms, communions, confirmations and weddings?",
+                    "answer": "Great controversy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the proposal for baptisms, communions, confirmations, and weddings entail?",
+                    "score": 0.8009,
+                    "answers": "light|pobj"
+                },
+                {
+                    "question": "What are the fees for baptisms, communions, confirmations and weddings?",
+                    "score": 0.7918,
+                    "answers": "among other issues|prep"
+                },
+                {
+                    "question": "What is the entry price to hear mass?",
+                    "score": 0.739,
+                    "answers": "in that list|prep\tthat list|pobj\tentry|compound\tthe entry price to hear mass|dobj\tto hear mass|relcl\tmass|dobj"
+                },
+                {
+                    "question": "What is the purpose of a Diocese?",
+                    "score": 0.7111,
+                    "answers": "a Diocese|nsubj"
+                },
+                {
+                    "question": "What was the name of the proposal that was brought to light by a Diocese?",
+                    "score": 0.6902,
+                    "answers": "and|cc\tto|aux"
+                }
+            ]
+        },
+        {
+            "claim": "'We are having problems because each Church charges different fees for each celebration and we have unified criteria for paying the same in Murcia and Vigo for carrying out the celebration of marriage, for example 'the Bishop said.",
+            "question_answers": [
+                {
+                    "question": "Where did the Bishop say he had a unified criteria for paying the same fees for marriage celebrations?",
+                    "answer": "Murcia and Vigo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many churches charge different fees for each celebration of marriage?",
+                    "score": 0.7168,
+                    "answers": "each Church|nsubj"
+                },
+                {
+                    "question": "What are the fees for every celebration of marriage in Murcia and Vigo?",
+                    "score": 0.6779,
+                    "answers": "are|aux\tproblems|dobj"
+                },
+                {
+                    "question": "What are the criteria for paying the same fees for Murcia and Vigo for carrying out the celebration of marriage?",
+                    "score": 0.6761,
+                    "answers": "the Bishop|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Regarding the euro of entry to listen to Mass, he has reported that it is something symbolic and that it will not matter to any faithful to contribute their grain of sand, thus contributing with the cleaning and maintenance of the Temple, as well as for any rehabilitation that would have to be carried out.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say the sand would be used for in the Temple?",
+                    "answer": "cleaning and maintenance"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the euro for entry to listen to mass?",
+                    "score": 0.6292,
+                    "answers": "Regarding the euro of entry to listen to Mass|prep\tof entry to listen to Mass|prep\tentry to listen to Mass|pobj"
+                },
+                {
+                    "question": "What is the symbolism of entering to listen to Mass?",
+                    "score": 0.6094,
+                    "answers": "on 08/06/2018|prep"
+                },
+                {
+                    "question": "What does it mean to contribute their grain of sand to the Temple?",
+                    "score": 0.5887,
+                    "answers": "to any faithful|prep"
+                },
+                {
+                    "question": "What was the purpose of the conversion of the Temple?",
+                    "score": 0.5388,
+                    "answers": "to be carried out|xcomp"
+                },
+                {
+                    "question": "What would have to be done to rebuild the Temple?",
+                    "score": 0.5387,
+                    "answers": "that would have to be carried out|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "'Well if I used to stay outside smoking, now I don't tell you na, I'm going to pay today no, tomorrow 'are some of the comments that has sparked this news.",
+            "question_answers": [
+                {
+                    "question": "Who said 'Well if I used to stay outside smoking, now I don't tell you na, I'm going to pay today no, tomorrow'?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to stay outside smoking?",
+                    "score": 0.7284,
+                    "answers": "to stay outside smoking|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the comments made by Venezuelans about smoking?",
+                    "score": 0.7019,
+                    "answers": "haynoticia.es said on 08/06/2018 that ' Well if I used to stay outside smoking , now I do n't tell you na , I 'm going to pay today no , tomorrow ' are some of the comments that has sparked this news|ROOT\tI|nsubj\tto|aux\tnow|advmod\tI|nsubj\tdo|aux\tn't|neg\tyou|dobj\tI|nsubj\t'm|aux\tto|aux\ttoday no|dobj\tno|intj\tthat has sparked this news|relcl\tthis news|dobj"
+                },
+                {
+                    "question": "What is the relationship between smoking and living in poverty?",
+                    "score": 0.6452,
+                    "answers": "that ' Well if I used to stay outside smoking , now I do n't tell you na , I 'm going to pay today no , tomorrow '|ccomp"
+                },
+                {
+                    "question": "What are the comments that have sparked this news?",
+                    "score": 0.5142,
+                    "answers": "are some of the comments that has sparked this news|ccomp\tsome of the comments that has sparked this news|attr\tthe comments that has sparked this news|pobj"
+                }
+            ]
+        }
+    ]
+}

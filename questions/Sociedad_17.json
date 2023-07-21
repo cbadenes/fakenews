@@ -1,0 +1,797 @@
+{
+    "id": "Sociedad_17",
+    "claim": "The still second vice president of the government, Pablo Iglesias and the minister of equality, Irene Montero, have declared a joint heritage of 1.6 million euros. The Official Gazette of the State BOE publishes these data this Friday along with those of the other senior officials of the General Administration of the State (AGE). A procedure that is mandatory. The leader of Podemos claims to own 233. EUR 282.15 in real estate, EUR 111. EUR 098.10 in bank deposits and financial accounts, and EUR 187. €500 in 'life insurance and pension schemes'. Churches also declares 8. EUR 000 for 'Other goods and rights of economic content'. Finally, the liability, which generates liabilities and losses, amounts to 231. EUR 156,5. In total, the figure declared by the head of the housing formation as property and property rights amounts to 531. EUR 888. By subtracting the liabilities, the patrimony of Churches remains at 300. 731.75. For her part, the Minister of Equality, Irene Montero, declares 335. EUR 049.49 in real estate and its deposits in bank and financial accounts amount to 107. EUR 420.33. Also, it reflects a further 187. €500 in 'life insurance and pension schemes'. 628. 969.82 euros, which by subtracting the liability of 231. 156.50 euros remains at 398. EUR 813.32. I'm sorry. The joint sum of the patrimony and assets of Iglesias and Montero stands at almost 700. EUR 000. We recall that the leaders of Podemos acquired a 268 m2 villa with a plot of more than 2. 000 m2 valued at about 615. 000 euros in Galapagar, applying for a mortgage of 540. €0000, which was granted by the financial institution Caja de Ingenieros. Treasurer Daniel de Frutos attended the notary with Iglesias and Montero when the deed of the building was signed on May 9, 2018. Questioned by his former companionsCriticisms of Pablo Iglesias and Irene Montero's heritage increase have come through social networks by some of his former companions of ranks. Among them, the former senator and former secretary general of Podemos in Madrid, Ramon Espinar, who asked both explanations for arriving at politics in the case of Iglesias with 45. 000 euros and in Montero with 6. € 000 in the account and get each in 7 years 800. EUR 000. I'm sorry.",
+    "source": "www.libertaddigital.com",
+    "date": "26/03/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The still second vice president of the government, Pablo Iglesias and the minister of equality, Irene Montero , have declared a joint heritage of 1.6 million euros.",
+            "question_answers": [
+                {
+                    "question": "Who is the minister of equality?",
+                    "answer": "Irene Montero"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the history of the second vice president of the government?",
+                    "score": 0.6921,
+                    "answers": "of the government|prep"
+                },
+                {
+                    "question": "What is the relationship between Pablo Iglesias and the minister of equality?",
+                    "score": 0.6803,
+                    "answers": "vice|compound"
+                },
+                {
+                    "question": "Who is Irene Montero?",
+                    "score": 0.6491,
+                    "answers": "the minister of equality , Irene Montero|conj\tIrene|compound"
+                },
+                {
+                    "question": "What islibertaddigital.com?",
+                    "score": 0.5411,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The Official Gazette of the State BOE publishes these data this Friday along with those of the other senior officials of the General Administration of the State (AGE).",
+            "question_answers": [
+                {
+                    "question": "Who publishes the data on 26/03/2021?",
+                    "answer": "The Official Gazette of the State BOE"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Official Gazette of the State BOE publish on Friday?",
+                    "score": 0.742,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that The Official Gazette of the State BOE publishes these data along with those of the other senior officials of the General Administration of the State ( AGE ) this Friday|ROOT\ton 26/03/2021|prep\tthat The Official Gazette of the State BOE publishes these data along with those of the other senior officials of the General Administration of the State ( AGE ) this Friday|ccomp\tthese|det\tthese data along with those of the other senior officials of the General Administration of the State ( AGE )|dobj\tthis|det"
+                },
+                {
+                    "question": "Who are the other senior officials of the General Administration of the State (AGE)?",
+                    "score": 0.6488,
+                    "answers": "those of the other senior officials of the General Administration of the State ( AGE )|pobj\tof the other senior officials of the General Administration of the State ( AGE )|prep\tsenior|amod\tthe other senior officials of the General Administration of the State ( AGE )|pobj"
+                },
+                {
+                    "question": "What is the source of the data of the State BOE?",
+                    "score": 0.6076,
+                    "answers": "the|det\tthe|det\tthe|det\tthe|det\t)|punct"
+                }
+            ]
+        },
+        {
+            "claim": "A procedure that is mandatory.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 26/03/2021 that a procedure that is mandatory was mandatory?",
+                    "answer": "www.libertaddigital.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the procedure that is mandatory?",
+                    "score": 0.7934,
+                    "answers": "www.libertaddigital.com|nsubj\twww.libertaddigital.com reported on 26/03/2021 that A procedure that is mandatory|ROOT\ton 26/03/2021|prep\tthat|mark\tA|det\tthat A procedure that is mandatory|dobj\tthat|nsubj\tthat is mandatory|relcl\tmandatory|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "The still second vice president of the government, Pablo Iglesias claims to own 233.",
+            "question_answers": [
+                {
+                    "question": "Who is the still second vice president of the government?",
+                    "answer": "Pablo Iglesias"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many shares does the second vice president of the government own?",
+                    "score": 0.8943,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that The still second vice president of the government , Pablo Iglesias claims to own 233|ROOT\tto own 233|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 282.15 in real estate, EUR 111.",
+            "question_answers": [
+                {
+                    "question": "When did www.libertaddigital.com report that EUR 282.15 was in real estate?",
+                    "answer": "26/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the amount of money in real estate?",
+                    "score": 0.7787,
+                    "answers": "that|mark\t,|punct"
+                },
+                {
+                    "question": "What is the value of real estate?",
+                    "score": 0.7751,
+                    "answers": "EUR|quantmod\tthat EUR 282.15 in real estate , EUR 111|ccomp\tin real estate|prep\treal|amod\treal estate|pobj\tEUR|quantmod"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 098.10 in bank deposits and financial accounts, and EUR 187.",
+            "question_answers": [
+                {
+                    "question": "What was the amount of money in bank deposits and financial accounts reported by www.libertaddigital.com on 26/03/2021?",
+                    "answer": "EUR 098.10"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is in bank accounts and financial accounts?",
+                    "score": 0.8714,
+                    "answers": "EUR|quantmod\tin bank deposits and financial accounts|prep\tEUR|quantmod"
+                },
+                {
+                    "question": "What is the amount of money in bank deposits and financial accounts?",
+                    "score": 0.8106,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that EUR 098.10 in bank deposits and financial accounts , and EUR 187|ROOT\ton 26/03/2021|prep\tthat EUR 098.10 in bank deposits and financial accounts , and EUR 187|dobj\tbank deposits and financial accounts|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "€500 in 'life insurance and pension schemes'.",
+            "question_answers": [
+                {
+                    "question": "How much money was reported in 'life insurance and pension schemes' on 26/03/2021?",
+                    "answer": "€500"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money doeslibertaddigital.com spend on life insurance and pension schemes?",
+                    "score": 0.8568,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that € 500 in ' life insurance and pension schemes '|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Churches also declares 8.",
+            "question_answers": [
+                {
+                    "question": "On what date was it reported that Churches also declares 8?",
+                    "answer": "26/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What churches have declared 8?",
+                    "score": 0.8155,
+                    "answers": "that Churches also declares 8|ccomp"
+                },
+                {
+                    "question": "What doeslibertaddigital.com say about churches?",
+                    "score": 0.7119,
+                    "answers": "also|advmod"
+                },
+                {
+                    "question": "What does thelibertaddigital.com say about churches?",
+                    "score": 0.7081,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that Churches also declares 8|ROOT\ton 26/03/2021|prep"
+                },
+                {
+                    "question": "What does thelibertaddigital.com do?",
+                    "score": 0.64,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What islibertaddigital.com?",
+                    "score": 0.5572,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 000 for 'Other goods and rights of economic content'.",
+            "question_answers": [
+                {
+                    "question": "What was the amount of money reported on 26/03/2021 for 'Other goods and rights of economic content'?",
+                    "answer": "EUR 000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is allocated for other goods and rights of economic content?",
+                    "score": 0.8817,
+                    "answers": "Other goods and rights of economic content|pobj"
+                },
+                {
+                    "question": "How much money doeslibertaddigital.com receive per year?",
+                    "score": 0.8389,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Finally, the liability, which generates liabilities and losses, amounts to 231.",
+            "question_answers": [
+                {
+                    "question": "When did www.libertaddigital.com report the liability?",
+                    "answer": "26/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the amount of liability generated by the liability and losses?",
+                    "score": 0.7027,
+                    "answers": "the liability , which generates liabilities and losses ,|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of liabilities and losses generated by the liability?",
+                    "score": 0.6671,
+                    "answers": "which generates liabilities and losses|relcl"
+                },
+                {
+                    "question": "What is the liability oflibertaddigital.com?",
+                    "score": 0.5847,
+                    "answers": "www.libertaddigital.com|nsubj\twww.libertaddigital.com reported on 26/03/2021 that Finally , the liability , which generates liabilities and losses , amounts to 231|ROOT\ton 26/03/2021|prep\t,|punct\tthe|det\t,|punct\tand|cc\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 156,5.",
+            "question_answers": [
+                {
+                    "question": "When did www.libertaddigital.com report on EUR 156,5?",
+                    "answer": "26/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the total amount of EUR 156,5?",
+                    "score": 0.7218,
+                    "answers": "that EUR 156,5|ccomp"
+                },
+                {
+                    "question": "What is the value of the website \"libertaddigital.com\"?",
+                    "score": 0.5465,
+                    "answers": "that|mark"
+                }
+            ]
+        },
+        {
+            "claim": "In total, the figure declared by the head of the housing formation as property and property rights amounts to 531.",
+            "question_answers": [
+                {
+                    "question": "Who declared property and property rights?",
+                    "answer": "the head of the housing formation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many property and property rights are there?",
+                    "score": 0.6658,
+                    "answers": "that In total , the figure declared by the head of the housing formation as property and property rights amounts to 531|ccomp"
+                },
+                {
+                    "question": "What did the head of the housing formation say about property rights?",
+                    "score": 0.6618,
+                    "answers": "on 26/03/2021|prep"
+                },
+                {
+                    "question": "What are property and property rights?",
+                    "score": 0.6209,
+                    "answers": "the figure declared by the head of the housing formation as property and property rights|nsubj\tas property and property rights|prep\tproperty and property|nmod\tproperty and property rights|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 888.",
+            "question_answers": [
+                {
+                    "question": "On what date was EUR 888 reported on?",
+                    "answer": "26/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of EUR 888?",
+                    "score": 0.7524,
+                    "answers": "that|mark\tEUR|quantmod"
+                },
+                {
+                    "question": "What is the website \"libertaddigital.com\"?",
+                    "score": 0.5618,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "By subtracting the liabilities, the patrimony of Churches remains at 300.",
+            "question_answers": [
+                {
+                    "question": "By subtracting the liabilities, what remains at 300?",
+                    "answer": "patrimony of Churches"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the total amount of debt in the Church?",
+                    "score": 0.7306,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that By subtracting the liabilities , the patrimony of Churches remains at 300|ROOT"
+                },
+                {
+                    "question": "What are the liabilities of the Church?",
+                    "score": 0.7064,
+                    "answers": "the liabilities|dobj"
+                },
+                {
+                    "question": "What is the history of the patrimony of Churches?",
+                    "score": 0.6908,
+                    "answers": "on 26/03/2021|prep\tthat|mark\tBy subtracting the liabilities|prep\tsubtracting the liabilities|pcomp\tthe|det\t,|punct\tthe|det\tthe patrimony of Churches|nsubj\tof Churches|prep\tthat By subtracting the liabilities , the patrimony of Churches remains at 300|ccomp\tat 300|prep"
+                },
+                {
+                    "question": "What islibertaddigital.com?",
+                    "score": 0.5355,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "For part, the minister of equality, Irene Montero , declares 335.",
+            "question_answers": [
+                {
+                    "question": "Who is the minister of equality?",
+                    "answer": "Irene Montero"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the minister of equality say about the claims of Irene Montero?",
+                    "score": 0.7445,
+                    "answers": "part|pobj"
+                },
+                {
+                    "question": "Who is Irene Montero?",
+                    "score": 0.6773,
+                    "answers": "Irene|compound"
+                },
+                {
+                    "question": "Who is the minister of equality?",
+                    "score": 0.6489,
+                    "answers": "the minister of equality , Irene Montero|nsubj"
+                },
+                {
+                    "question": "What is the definition of equality?",
+                    "score": 0.642,
+                    "answers": "of equality|prep\tequality|pobj"
+                },
+                {
+                    "question": "What islibertaddigital.com?",
+                    "score": 0.5554,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 049.49 in real estate and deposits in bank and financial accounts amount to 107.",
+            "question_answers": [
+                {
+                    "question": "What was the amount of real estate and deposits in bank and financial accounts on 26/03/2021?",
+                    "answer": "EUR 049.49"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is in bank and financial accounts?",
+                    "score": 0.8474,
+                    "answers": "in bank and financial accounts|prep"
+                },
+                {
+                    "question": "What is the amount of money in real estate and financial accounts?",
+                    "score": 0.7703,
+                    "answers": "that EUR 049.49 in real estate and deposits in bank and financial accounts amount to 107|ccomp"
+                },
+                {
+                    "question": "What is the value oflibertaddigital.com?",
+                    "score": 0.5861,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 420.33.",
+            "question_answers": [
+                {
+                    "question": "When did www.libertaddigital.com report on EUR 420.33?",
+                    "answer": "26/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of EUR 420.33?",
+                    "score": 0.7363,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that EUR 420.33|ROOT\tthat|mark\tEUR|quantmod"
+                },
+                {
+                    "question": "What is the value oflibertaddigital.com?",
+                    "score": 0.5205,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "€500 in 'life insurance and pension schemes'.",
+            "question_answers": [
+                {
+                    "question": "How much money was reported in 'life insurance and pension schemes' on 26/03/2021?",
+                    "answer": "€500"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money doeslibertaddigital.com spend on life insurance and pension schemes?",
+                    "score": 0.8568,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that € 500 in ' life insurance and pension schemes '|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "969.82 euros, which by subtracting the liability of 231.",
+            "question_answers": [
+                {
+                    "question": "On what date did www.libertaddigital.com report that 969.82 euros were owed?",
+                    "answer": "26/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the amount of liability of the company?",
+                    "score": 0.6616,
+                    "answers": "of 231|prep"
+                },
+                {
+                    "question": "What is the liability of the website?",
+                    "score": 0.5893,
+                    "answers": "that|mark\t,|punct\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "156.50 euros remains at 398.",
+            "question_answers": [
+                {
+                    "question": "What was the amount of money that remains at 398 euros as of 26/03/2021?",
+                    "answer": "156.50 euros"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the amount of money that is still unaccounted for?",
+                    "score": 0.6843,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that 156.50 euros remains at 398|ROOT\t156.50|nummod\tthat 156.50 euros remains at 398|ccomp\tat 398|prep"
+                },
+                {
+                    "question": "What is the value oflibertaddigital.com?",
+                    "score": 0.5449,
+                    "answers": "www.libertaddigital.com|nsubj\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 813.32.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 26/03/2021 that EUR 813.32 was the amount of EUR 813.32?",
+                    "answer": "www.libertaddigital.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of EUR 813.32?",
+                    "score": 0.7306,
+                    "answers": "EUR|quantmod\tthat EUR 813.32|dobj"
+                },
+                {
+                    "question": "What is the circulation of the website \"libertaddigital.com\"?",
+                    "score": 0.5978,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the value oflibertaddigital.com?",
+                    "score": 0.5208,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The joint sum of the patrimony and assets of Iglesias and Montero stands at almost 700.",
+            "question_answers": [
+                {
+                    "question": "Whose patrimony and assets are in the joint sum of almost 700?",
+                    "answer": "Iglesias and Montero"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the total amount of assets of Iglesias and Montero?",
+                    "score": 0.7639,
+                    "answers": "assets|conj"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 000.",
+            "question_answers": [
+                {
+                    "question": "What was the amount of money reported by www.libertaddigital.com on 26/03/2021?",
+                    "answer": "EUR 000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of money that is in circulation?",
+                    "score": 0.752,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that EUR 000|ROOT\tthat EUR 000|dobj"
+                },
+                {
+                    "question": "What is the website \"libertaddigital.com\"?",
+                    "score": 0.6087,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "We recall that the leaders of Podemos acquired a 268 m2 villa with a plot of more than 2.",
+            "question_answers": [
+                {
+                    "question": "How large was the villa that the leaders of Podemos acquired?",
+                    "answer": "268 m2"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the leaders of Podemos purchase?",
+                    "score": 0.684,
+                    "answers": "a|det\ta|det"
+                },
+                {
+                    "question": "What is the property of the leaders of Podemos?",
+                    "score": 0.5675,
+                    "answers": "than|quantmod"
+                }
+            ]
+        },
+        {
+            "claim": "000 m2 valued at about 615.",
+            "question_answers": [
+                {
+                    "question": "What was the value of the m2 reported on 26/03/2021?",
+                    "answer": "615"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the value of the 2,000 m2?",
+                    "score": 0.6834,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that 000 m2 valued at about 615|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "000 euros in Galapagar, applying for a mortgage of 540.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 26/03/2021 that 000 euros were in Galapagar?",
+                    "answer": "www.libertaddigital.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is required to apply for a mortgage in Galapagar?",
+                    "score": 0.825,
+                    "answers": "www.libertaddigital.com|nsubj"
+                },
+                {
+                    "question": "What is the mortgage rate in Galapagar?",
+                    "score": 0.7812,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that 000 euros in Galapagar , applying for a mortgage of 540|ROOT\tthat 000 euros in Galapagar , applying for a mortgage of 540|dobj\tapplying for a mortgage of 540|acl\tfor a mortgage of 540|prep\ta|det\ta mortgage of 540|pobj\tof 540|prep"
+                },
+                {
+                    "question": "Where is Galapagar located?",
+                    "score": 0.7632,
+                    "answers": "in Galapagar|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Galapagar applying for a mortgage?",
+                    "score": 0.761,
+                    "answers": "on 26/03/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "€0000, which was granted by the financial institution Caja de Ingenieros.",
+            "question_answers": [
+                {
+                    "question": "What financial institution granted €0000?",
+                    "answer": "Caja de Ingenieros"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Caja de Ingenieros grant to the financial institution Caja De Ingenios?",
+                    "score": 0.8728,
+                    "answers": "€|nmod"
+                },
+                {
+                    "question": "What is Caja de Ingenieros?",
+                    "score": 0.7044,
+                    "answers": "the financial institution Caja de Ingenieros|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Treasurer Daniel de Frutos attended the notary with Iglesias and Montero when the deed of the building was signed on May 9, 2018.",
+            "question_answers": [
+                {
+                    "question": "Who did Daniel de Frutos attend the notary with when the deed of the building was signed?",
+                    "answer": "Iglesias and Montero"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Daniel de Frutos attend the notary with Iglesias and Montero?",
+                    "score": 0.8473,
+                    "answers": "on May 9 , 2018|prep\tMay 9 , 2018|pobj"
+                },
+                {
+                    "question": "When was the deed of the building signed?",
+                    "score": 0.8301,
+                    "answers": "when the deed of the building was signed on May 9 , 2018|advcl"
+                },
+                {
+                    "question": "What is the relationship between Daniel de Frutos and Montero?",
+                    "score": 0.6642,
+                    "answers": "that|mark\tTreasurer|compound\tDaniel|compound\tde|compound\tthe|det\tthe notary|dobj\tand|cc\twhen|advmod\tthe|det\tthe|det\twas|auxpass\t9|nummod\t,|punct\t2018|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Questioned by his former companionsCriticisms of Pablo Iglesias and Irene Montero's heritage increase have come through social networks by some of his former companions of ranks.",
+            "question_answers": [
+                {
+                    "question": "What did some of Pablo Iglesias's former companions use to increase his criticisms of Irene Montero's heritage?",
+                    "answer": "social networks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did Criticisms of Pablo Iglesias and Irene Montero's heritage increase?",
+                    "score": 0.8064,
+                    "answers": "through social networks|prep"
+                },
+                {
+                    "question": "What did the former companions of Pablo Iglesias say about Montero's heritage increase?",
+                    "score": 0.7097,
+                    "answers": "Irene Montero 's|conj\theritage|compound"
+                },
+                {
+                    "question": "What islibertaddigital.com?",
+                    "score": 0.5106,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Among them, the former senator and former secretary general of Podemos in Madrid, Ramon Espinar, who asked both explanations for arriving at politics in the case of Iglesias with 45.",
+            "question_answers": [
+                {
+                    "question": "How many explanations did Ramon Espinar give for arriving at politics in the case of Iglesias?",
+                    "answer": "45"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Ramon Espinar ask for explanations for arriving at politics in the case of Iglesias?",
+                    "score": 0.6721,
+                    "answers": "both explanations for arriving at politics in the case of Iglesias with 45|dobj"
+                },
+                {
+                    "question": "What position did Ramon Espinar hold in Podemos?",
+                    "score": 0.6664,
+                    "answers": "secretary|compound"
+                },
+                {
+                    "question": "Who did the former senator and former secretary general of Podemos ask for help with?",
+                    "score": 0.5927,
+                    "answers": "Ramon|compound"
+                },
+                {
+                    "question": "What was the relationship between Ramon Espinar and Iglesias?",
+                    "score": 0.545,
+                    "answers": "them|pobj"
+                },
+                {
+                    "question": "Who is Ramon Espinar?",
+                    "score": 0.5426,
+                    "answers": "former|amod\tformer|amod"
+                }
+            ]
+        },
+        {
+            "claim": "000 euros and in Montero with 6.",
+            "question_answers": [
+                {
+                    "question": "On what date was the reported amount of euros in Montero?",
+                    "answer": "26/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the amount of money in Montero?",
+                    "score": 0.638,
+                    "answers": "000|nummod\tthat 000 euros|dep\tin Montero|prep\tthat 000 euros and in Montero with 6|prep"
+                },
+                {
+                    "question": "What is the value oflibertaddigital.com in Montero?",
+                    "score": 0.5187,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that 000 euros and in Montero with 6|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "€ 000 in the account and get each in 7 years 800.",
+            "question_answers": [
+                {
+                    "question": "What was the amount of money in the account that was reported by www.libertaddigital.com on 26/03/2021?",
+                    "answer": "€ 000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money do you get per account?",
+                    "score": 0.7989,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that € 000 in the account and get each in 7 years 800|ROOT\tthe account|pobj"
+                },
+                {
+                    "question": "What is the average amount of money in an account?",
+                    "score": 0.7547,
+                    "answers": "that € 000 in the account and get each in 7 years 800|dobj"
+                },
+                {
+                    "question": "How many years does it take to get the money?",
+                    "score": 0.7449,
+                    "answers": "get each in 7 years 800|conj"
+                },
+                {
+                    "question": "How much money does thelibertaddigital.com receive per year?",
+                    "score": 0.7418,
+                    "answers": "www.libertaddigital.com|nsubj\tin 7 years 800|prep"
+                },
+                {
+                    "question": "What is the amount of money that can be spent on accounts?",
+                    "score": 0.6968,
+                    "answers": "that|mark\t€|quantmod"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 000.",
+            "question_answers": [
+                {
+                    "question": "What was the amount of money reported by www.libertaddigital.com on 26/03/2021?",
+                    "answer": "EUR 000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of money that is in circulation?",
+                    "score": 0.752,
+                    "answers": "www.libertaddigital.com reported on 26/03/2021 that EUR 000|ROOT\tthat EUR 000|dobj"
+                },
+                {
+                    "question": "What is the website \"libertaddigital.com\"?",
+                    "score": 0.6087,
+                    "answers": "www.libertaddigital.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

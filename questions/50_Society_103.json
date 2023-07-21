@@ -1,0 +1,653 @@
+{
+    "id": "50_Society_103",
+    "claim": "One of the goals imposed by the authorities of Mexico City is to renovate part of the park of taxis that circulate in the capital of the country and exchange traditional units for hybrid or electric cars. This way, around  a thousand taxi drivers are forced to change their taxis this year. The problem, say the owners of the vehicles, is that each hybrid or electric car costs more than twice as much as a traditional car. Since May last year, the city has been running a program in which the owners of taxis that fulfill  years of service receive  a thousand pesos in exchange for their old unit, which must be destroyed. However, taxi drivers argue that the support given to them is insufficient, despite the fact that the change represents an increase of between  and % in the revenues of taxi drivers, according to estimates by the Secretary of Mobility, Hector Serrano. 'The most used taxi car costs  a thousand pesos, but the most economical hybrid costs more than  a thousand pesos. It is like having to pay for the equivalent of two vehicles, but winning only for the rate of one ', explains Ignacio Rodríguez, spokesman for organized taxi drivers in Mexico City, who are against the measure. Although the program began since last year, the number of taxi drivers who have accessed it is minimal: 'I think they must be like  taxis that have made the change, the comrades are not being able to pay ', says Rodríguez. So far, cars from companies such as Uber and Cabify are not considered within the same measure. Representatives of both transport companies acknowledged that the Secretariat of Mobility (Semovi) will not include them in the processes of modernization of the rental cars, so they will not have to include in their fleet some percentage of cars less polluting. This exception was not well received by taxi drivers, who argue that this is unfair competition. 'Between the cars of the companies and the pirates there are, more or less,  a thousand vehicles doing competition in unequal conditions, that also has us without the economic capacity to make the change that the government wants ', Rodríguez accuses. Although it is not mandatory for them, Cabify already has hybrid cars on its platform; however, the company does not consider it to become a profound change within its fleet. The main reason is that there are still technical difficulties for electric cars in Mexico City, such as charging zones and the cost of vehicles. The last resort of taxisThe measure is the result of a commitment made by the head of government of Mexico City, Miguel Ángel Mancera, during the summit of the C40, in which it was emphasized to renew the transport to more sustainable technologies. However, taxi drivers still seek protection to prevent the change of units from being mandatory. Its main argument is the high cost of the vehicles, in addition to the technical difficulties involved in their maintenance, from the spare parts, to the lack of charging stations, which are located in private spaces. The modernization of the units also obliges taxi drivers to make a series of updates in the service they provide. For example, you will have to use a new digital taximeter that will work on a tablet and includes GPS location, so you will no longer have to calibrate in establishments dedicated to taximeters. In addition, drivers will be able to use a platform similar to those of Uber and Cabify, where they will even be able to decide in advance what trips they make and which ones they do not. This update also opens the possibility that taxis can accept payment via debit or credit card for their services. In figures:–  a thousand hybrid or electric taxis is the goal to replace the government of the City of Mexico. –  1,000 pesos costs the most economical hybrid car; electrics cost almost twice as much. –  electric charging stations are in Mexico City, most in private areas. I'm sorry.",
+    "source": "www.animalpolitico.com",
+    "date": "21/06/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "One of the goals imposed by the authorities Uber and Cabify Mexico City is to renovate part the same measure taxis that circulate Uber and Cabify and exchange traditional units for hybrid or electric cars.",
+            "question_answers": [
+                {
+                    "question": "What type of cars will the Uber and Cabify taxis be replaced with?",
+                    "answer": "hybrid or electric"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of renovating part of the same measure as taxis?",
+                    "score": 0.6829,
+                    "answers": "that|mark\tthe|det\tthe|det\tand|cc\tto|aux\tthe|det\tthat|nsubj\tand|cc\tand|cc\tor|cc\telectric|conj"
+                },
+                {
+                    "question": "What are Uber and Cabify's goals in exchange for hybrid or electric cars?",
+                    "score": 0.6526,
+                    "answers": "exchange traditional units for hybrid or electric cars|conj"
+                },
+                {
+                    "question": "What are the goals of Uber and Cabify?",
+                    "score": 0.6304,
+                    "answers": "Mexico|compound"
+                },
+                {
+                    "question": "What is Uber and Cabify?",
+                    "score": 0.6011,
+                    "answers": "the goals imposed by the authorities Uber and Cabify Mexico City|pobj\tUber and Cabify Mexico City|appos\tthe same measure taxis that circulate Uber and Cabify|dobj\ttaxis that circulate Uber and Cabify|appos\tthat circulate Uber and Cabify|relcl\tUber and Cabify|dobj"
+                },
+                {
+                    "question": "What is the relationship between Uber and Cabify?",
+                    "score": 0.5993,
+                    "answers": "www.animalpolitico.com|nsubj\tpart|dobj\tsame|amod\ttraditional|amod"
+                }
+            ]
+        },
+        {
+            "claim": "This wayUber and Cabify around  a thousand taxi drivers are forced to change Uber and Cabify this year.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many taxi drivers were forced to change Uber and Cabify this year?",
+                    "score": 0.7105,
+                    "answers": "a thousand|nummod"
+                },
+                {
+                    "question": "What is the relationship between Uber and Cabify?",
+                    "score": 0.6531,
+                    "answers": "www.animalpolitico.com|nsubj\ton 21/06/2023|prep\tthat|mark\tThis|det\tThis wayUber and Cabify around  |nsubjpass\tand|cc\taround|prep\t |dep\ta|quantmod\ttaxi|compound\tare|auxpass\tthat This wayUber and Cabify around   a thousand taxi drivers are forced to change Uber and Cabify this year|ccomp\tto|aux\tto change Uber and Cabify this year|xcomp\tUber and Cabify|dobj\tand|cc\tthis|det"
+                }
+            ]
+        },
+        {
+            "claim": "The problem, say Uber and Cabify owners of their taxis , is that each hybrid or This exception more than twice as much as a traditional car.",
+            "question_answers": [
+                {
+                    "question": "Who said that hybrid cars cost more than twice as much as traditional cars?",
+                    "answer": "Uber and Cabify owners of their taxis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Uber and Cabify owners of their taxis?",
+                    "score": 0.7274,
+                    "answers": "on 21/06/2023|prep\tThe problem|nsubj"
+                },
+                {
+                    "question": "What is the difference between a hybrid and a traditional car?",
+                    "score": 0.6826,
+                    "answers": "www.animalpolitico.com reported on 21/06/2023 that The problem , say Uber and Cabify owners of their taxis , is that each hybrid or This exception more than twice as much as a traditional car|ROOT\tthat|mark\tThe|det\t,|punct\tand|cc\tof their taxis|prep\ttheir|poss\ttheir taxis|pobj\t,|punct\tthat The problem , say Uber and Cabify owners of their taxis , is that each hybrid or This exception more than twice as much as a traditional car|ccomp\tthat|mark\teach|det\teach hybrid or This exception|nsubj\tor|cc\tThis|det\tThis exception|conj\tthat each hybrid or This exception more than twice as much as a traditional car|ccomp\tthan twice as much as a traditional car|prep\ttwice|advmod\tas|advmod\ttwice as much as a traditional car|pobj\tas a traditional car|prep\ta|det\ttraditional|amod\ta traditional car|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Since This exception last year , Mexico City has been running a program Uber and Cabify the owners of taxis that fulfill  years of service receive  a thousand pesos in exchange for old unit, which must be destroyed.",
+            "question_answers": [
+                {
+                    "question": "When was this exception made?",
+                    "answer": "last year"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What program has Uber and Cabify been running?",
+                    "score": 0.7425,
+                    "answers": "a program Uber and Cabify the owners of taxis that fulfill|dobj"
+                },
+                {
+                    "question": "How much money does Uber and Cabify give the owners of taxis that fulfill years of service?",
+                    "score": 0.7383,
+                    "answers": "a thousand|nummod"
+                },
+                {
+                    "question": "What is the cost of the program Uber and Cabify?",
+                    "score": 0.6286,
+                    "answers": "exchange for old unit , which must be destroyed|pobj"
+                },
+                {
+                    "question": "What is Uber and Cabify?",
+                    "score": 0.5847,
+                    "answers": "Uber and Cabify|nmod\tUber and Cabify the owners of taxis that fulfill|appos\tservice|pobj"
+                },
+                {
+                    "question": "What is the relationship between Uber and Cabify?",
+                    "score": 0.5822,
+                    "answers": "www.animalpolitico.com|nsubj\ton 21/06/2023|prep\tthat|mark\tThis|det\tlast|amod\t,|punct\tMexico|compound\thas|aux\tbeen|aux\ta|det\tand|cc\tthe|det\tof taxis that fulfill|prep\ttaxis that fulfill|pobj\tthat|nsubj\tthat fulfill|relcl\t  years of service|dep\tyears of service|dobj\tof service|prep\treceive|advcl\ta|quantmod\told|amod\t,|punct\twhich|nsubjpass\tmust|aux\tbe|auxpass\twhich must be destroyed|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "However, taxi drivers argue that the support given to taxi drivers is insufficient, despite the fact that change represents an Cabify of between  and % in the Cabify of taxi driversCabify to estimates by the Secretary of Mobility, Hector Serrano.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the amount of support given to taxi drivers?",
+                    "score": 0.6984,
+                    "answers": "the support given to taxi drivers|nsubj"
+                },
+                {
+                    "question": "What is the Cabify of taxi drivers?",
+                    "score": 0.6623,
+                    "answers": "www.animalpolitico.com|nsubj\ton 21/06/2023|prep\tthat|mark\tHowever|advmod\t,|punct\ttaxi|compound\ttaxi drivers|nsubj\tthat However , taxi drivers argue that the support given to taxi drivers is insufficient , despite the fact that change represents an Cabify of between|ccomp\tthat|mark\tthe|det\tgiven to taxi drivers|acl\tto taxi drivers|dative\ttaxi|compound\ttaxi drivers|pobj\tthat the support given to taxi drivers is insufficient , despite the fact that change represents an Cabify of between|ccomp\tinsufficient|acomp\t,|punct\tdespite the fact that change represents an Cabify of between|prep\tthe|det\tthe fact that change represents an Cabify of between|pobj\tthat|mark\tchange|nsubj\tthat change represents an Cabify of between|acl\tan|det\tof between|prep\tbetween|pobj\tand|cc\tand %|dobj\tin the Cabify of taxi driversCabify to estimates by the Secretary of Mobility , Hector Serrano|prep\tthe|det\tthe Cabify of taxi driversCabify to estimates by the Secretary of Mobility , Hector Serrano|pobj\tof taxi driversCabify|prep\ttaxi|compound\ttaxi driversCabify|pobj\tto estimates by the Secretary of Mobility , Hector Serrano|prep\testimates by the Secretary of Mobility , Hector Serrano|pobj\tthe|det\tof Mobility|prep\tMobility|pobj\t,|punct\tHector|compound"
+                },
+                {
+                    "question": "Who is Hector Serrano?",
+                    "score": 0.6027,
+                    "answers": "the Secretary of Mobility , Hector Serrano|pobj"
+                },
+                {
+                    "question": "What is the relationship between Cabify and Cabify?",
+                    "score": 0.5912,
+                    "answers": "an Cabify of between|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'The most used taxi car costs  a thousand pesos, but the most economical hybrid costs more Mexico City pesos.",
+            "question_answers": [
+                {
+                    "question": "What type of car costs more in Mexico City pesos?",
+                    "answer": "hybrid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average cost of a hybrid car?",
+                    "score": 0.8374,
+                    "answers": "a thousand|nummod"
+                },
+                {
+                    "question": "What is the most used taxi car in Mexico City?",
+                    "score": 0.8137,
+                    "answers": "The most used taxi car|nsubj\tthat ' The most used taxi car costs|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It is like having to pay for the equivalent of two vehiclesthe same measure only for the rate of one ', explains Ignacio Rodríguez, spokesman for organized taxi drivers in Mexico City, who are against the measure Mexico City Ignacio Rodríguez, spokesman for organized taxi drivers in Mexico City, who are against the measure .",
+            "question_answers": [
+                {
+                    "question": "What is it like to have to pay for the equivalent of two vehicles only for the rate of one?",
+                    "answer": "having to pay for the equivalent of two vehiclesthe same measure only for the rate of one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why are organized taxi drivers in Mexico City against the measure?",
+                    "score": 0.737,
+                    "answers": "for organized taxi drivers in Mexico City , who are against the measure|prep\torganized taxi drivers in Mexico City , who are against the measure|pobj"
+                },
+                {
+                    "question": "What is the rate of vehiclesthe in Mexico City?",
+                    "score": 0.6406,
+                    "answers": "www.animalpolitico.com reported on 21/06/2023 that It is like having to pay for the equivalent of two vehiclesthe same measure only for the rate of one '|ccomp\tthat|mark\tIt|nsubj\tto|aux\tto pay for the equivalent of two vehiclesthe same measure only for the rate of one|xcomp\tfor the equivalent of two vehiclesthe same measure only for the rate of one|prep\tthe|det\tthe equivalent of two vehiclesthe same measure only for the rate of one|pobj\tof two vehiclesthe same measure only for the rate of one|prep\ttwo vehiclesthe|nmod\tsame|amod\ttwo vehiclesthe same measure only for the rate of one|pobj\tonly|advmod\tthe|det\t'|punct\t,|punct\t,|punct\tMexico|compound\t,|punct\tthe|det\tMexico|compound\t,|punct\tMexico|compound\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What is the cost of transportation in Mexico City?",
+                    "score": 0.6217,
+                    "answers": "that It is like having to pay for the equivalent of two vehiclesthe same measure only for the rate of one|ccomp\tlike having to pay for the equivalent of two vehiclesthe same measure only for the rate of one|prep\thaving to pay for the equivalent of two vehiclesthe same measure only for the rate of one|pcomp\tagainst the measure|prep\tagainst the measure|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Although the program began since last year , the number of taxi drivers who have accessed it is minimal: 'Ignacio Rodríguez, spokesman for organized taxi drivers in Mexico City, who are against the measure think the number of taxi drivers who have accessed it must be like  taxis that have made change , the comrades are not being able to pay ', says Ignacio Rodríguez, spokesman for organized taxi drivers in Mexico City, who are against the measure .",
+            "question_answers": [
+                {
+                    "question": "What does Ignacio Rodrguez think the number of taxi drivers who have accessed the program must be like?",
+                    "answer": "taxis that have made change"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many taxi drivers have accessed the program?",
+                    "score": 0.6787,
+                    "answers": "of taxi drivers who have accessed it|prep\ttaxi drivers who have accessed it|pobj\tof taxi drivers who have accessed it|prep\ttaxi drivers who have accessed it|pobj\tare|aux\t'|punct"
+                },
+                {
+                    "question": "What is the number of organized taxi drivers in Mexico City?",
+                    "score": 0.6443,
+                    "answers": "Ignacio|compound\tspokesman for organized taxi drivers in Mexico City|appos\tfor organized taxi drivers in Mexico City|prep\torganized|amod\torganized taxi drivers in Mexico City|pobj\ttaxis that have made change|pobj\tIgnacio|compound\tfor organized taxi drivers in Mexico City , who are against the measure|prep\torganized|amod\torganized taxi drivers in Mexico City , who are against the measure|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "So far, cars from companies such as Uber and Cabify are not considered within the same measure.",
+            "question_answers": [
+                {
+                    "question": "What are two companies that are not considered within the same measure?",
+                    "answer": "Uber and Cabify"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Uber and Cabify?",
+                    "score": 0.7169,
+                    "answers": "www.animalpolitico.com|nsubj\twww.animalpolitico.com reported on 21/06/2023 that So far , cars from companies such as Uber and Cabify are not considered within the same measure|ROOT\ton 21/06/2023|prep\tthat|mark\tSo|advmod\tSo far|advmod\t,|punct\tcars from companies such as Uber and Cabify|nsubjpass\tfrom companies such as Uber and Cabify|prep\tcompanies such as Uber and Cabify|pobj\tsuch|amod\tsuch as Uber and Cabify|prep\tUber and Cabify|pobj\tand|cc\tare|auxpass\tnot|neg\tthat So far , cars from companies such as Uber and Cabify are not considered within the same measure|ccomp\twithin the same measure|prep\tthe|det\tsame|amod\tthe same measure|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Representatives of both transport companies acknowledged that the Secretariat of Mobility (Semovi) will not include them in the processes of modernization of the rental cars, so they will not have to include in their fleet some percentage of cars less polluting.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/06/2023 that Representatives of both transport companies acknowledged that the Secretariat of Mobility (Semovi) will not include them in the processes of modernization of the rental cars?",
+                    "answer": "www.animalpolitico.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the Secretariat of Mobility (Semovi) do not include in the modernization of the rental cars?",
+                    "score": 0.7616,
+                    "answers": "that Representatives of both transport companies acknowledged that the Secretariat of Mobility ( Semovi ) will not include them in the processes of modernization of the rental cars , so they will not have to include in their fleet some percentage of cars less polluting|ccomp"
+                },
+                {
+                    "question": "What percentage of cars in the fleet are polluting?",
+                    "score": 0.7089,
+                    "answers": "some percentage of cars less polluting|dobj"
+                },
+                {
+                    "question": "How many polluting vehicles are there each year?",
+                    "score": 0.6327,
+                    "answers": "of cars less polluting|prep"
+                },
+                {
+                    "question": "What is Semovi?",
+                    "score": 0.5168,
+                    "answers": "Mobility|pobj\tin the processes of modernization of the rental cars|prep"
+                }
+            ]
+        },
+        {
+            "claim": "This exception was not well received by taxi drivers, who argue that this is unfair competition.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/06/2023 that this exception was not well received by taxi drivers?",
+                    "answer": "www.animalpolitico.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the cab drivers say about this exception?",
+                    "score": 0.82,
+                    "answers": "was|auxpass"
+                },
+                {
+                    "question": "What is the exception for this exception by taxi drivers?",
+                    "score": 0.803,
+                    "answers": "This exception|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of the claim of unfair competition by taxi drivers?",
+                    "score": 0.8026,
+                    "answers": "by taxi drivers , who argue that this is unfair competition|agent\ttaxi drivers , who argue that this is unfair competition|pobj"
+                },
+                {
+                    "question": "What is the name of the website that reported this exception was not well received by taxi drivers?",
+                    "score": 0.7645,
+                    "answers": "www.animalpolitico.com reported on 21/06/2023 that This exception was not well received by taxi drivers , who argue that this is unfair competition|ROOT"
+                },
+                {
+                    "question": "What is the definition of unfair competition?",
+                    "score": 0.7593,
+                    "answers": "taxi|compound\twho argue that this is unfair competition|relcl\tthat this is unfair competition|ccomp\tunfair|amod\tunfair competition|attr"
+                }
+            ]
+        },
+        {
+            "claim": "'Between the cars of the companies and the pirates there are, more or less,  a thousand vehicles doing competition in unequal conditions, that also has us without the economic capacity to make the change that the government wants ', Rodríguez accuses.",
+            "question_answers": [
+                {
+                    "question": "What does Rodrguez say the cars of the companies and the pirates have us without?",
+                    "answer": "the economic capacity to make the change that the government wants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many vehicles does the government want to use to compete?",
+                    "score": 0.6962,
+                    "answers": "www.animalpolitico.com reported on 21/06/2023 that ' Between the cars of the companies and the pirates there are , more or less ,   a thousand vehicles doing competition in unequal conditions , that also has us without the economic capacity to make the change that the government wants ' , Rodríguez accuses|ROOT"
+                },
+                {
+                    "question": "How many cars are there between companies and the pirates?",
+                    "score": 0.6849,
+                    "answers": "the cars of the companies and the pirates|pobj"
+                },
+                {
+                    "question": "How many vehicles are involved in the competition?",
+                    "score": 0.6519,
+                    "answers": "Between the cars of the companies and the pirates there are , more or less ,   a thousand vehicles doing competition in unequal conditions|ccomp\t  a thousand vehicles doing competition in unequal conditions|dep"
+                },
+                {
+                    "question": "What is the economic capacity to make the change that the government wants?",
+                    "score": 0.5635,
+                    "answers": "doing competition in unequal conditions|acl\twithout the economic capacity to make the change that the government wants|prep\tthe economic capacity to make the change that the government wants|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Although it is not mandatory for them, Cabify already has hybrid cars on its platform; however, the company does not consider it to become a profound change within its fleet.",
+            "question_answers": [
+                {
+                    "question": "On what date did animalpolitico.com report that Cabify already has hybrid cars on its platform?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Cabify do with hybrid cars?",
+                    "score": 0.8106,
+                    "answers": "its fleet|pobj"
+                },
+                {
+                    "question": "How many hybrid cars does Cabify have?",
+                    "score": 0.7835,
+                    "answers": "hybrid cars|dobj\ta profound change within its fleet|attr"
+                },
+                {
+                    "question": "What is Cabify's stance on hybrid cars?",
+                    "score": 0.7495,
+                    "answers": "www.animalpolitico.com reported on 21/06/2023 that Although it is not mandatory for them , Cabify already has hybrid cars on its platform ; however , the company does not consider it to become a profound change within its fleet|ROOT\ton 21/06/2023|prep\tthat|mark\tAlthough|mark\tit|nsubj\tAlthough it is not mandatory for them|advcl\tnot|neg\tmandatory|acomp\tfor them|prep\tthem|pobj\t,|punct\talready|advmod\tAlthough it is not mandatory for them , Cabify already has hybrid cars on its platform|ccomp\thybrid|amod\tits|poss\t;|punct\thowever|advmod\t,|punct\tthe|det\tthe company|nsubj\tdoes|aux\tnot|neg\tthat Although it is not mandatory for them , Cabify already has hybrid cars on its platform ; however , the company does not consider it to become a profound change within its fleet|ccomp\tit|nsubj\tto|aux\tit to become a profound change within its fleet|ccomp\ta|det\tprofound|amod\twithin its fleet|prep\tits|poss"
+                },
+                {
+                    "question": "What is Cabify's platform on its platform?",
+                    "score": 0.6594,
+                    "answers": "on its platform|prep"
+                },
+                {
+                    "question": "What is Cabify's platform?",
+                    "score": 0.658,
+                    "answers": "its platform|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The main reason is that there are still technical difficulties for electric cars in Mexico City, such as charging zones and the cost of vehicles.",
+            "question_answers": [
+                {
+                    "question": "Along with the cost of vehicles, what is one of the main technical difficulties for electric cars in Mexico City?",
+                    "answer": "charging zones"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the cost of electric cars in Mexico City?",
+                    "score": 0.7839,
+                    "answers": "www.animalpolitico.com reported on 21/06/2023 that The main reason is that there are still technical difficulties for electric cars in Mexico City , such as charging zones and the cost of vehicles|ROOT\ton 21/06/2023|prep\tthat|mark\tThe|det\tmain|amod\tThe main reason|nsubj\tthat The main reason is that there are still technical difficulties for electric cars in Mexico City , such as charging zones and the cost of vehicles|ccomp\tthat|mark\tthere|expl\tthat there are still technical difficulties for electric cars in Mexico City , such as charging zones and the cost of vehicles|ccomp\tstill|advmod\ttechnical difficulties for electric cars in Mexico City , such as charging zones and the cost of vehicles|attr\tfor electric cars|prep\telectric|amod\telectric cars|pobj\tin Mexico City|prep\tMexico|compound\t,|punct\tsuch|amod\tsuch as charging zones and the cost of vehicles|prep\tcharging|compound\tcharging zones and the cost of vehicles|pobj\tand|cc\tthe|det\tthe cost of vehicles|conj\tof vehicles|prep\tvehicles|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The last resort of taxisThe measure is the result of a commitment made by the head of government of Mexico City, Miguel Ángel Mancera, during the summit of the C40, in which it was emphasized to renew the transport to more sustainable technologies.",
+            "question_answers": [
+                {
+                    "question": "When was the last resort of taxis reported?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Miguel Mancera promise to do with transport?",
+                    "score": 0.7207,
+                    "answers": "more|advmod"
+                },
+                {
+                    "question": "Who committed to renew the transport to more sustainable technologies during the summit of the C40?",
+                    "score": 0.7041,
+                    "answers": "Ángel|compound"
+                },
+                {
+                    "question": "What is the last resort of taxis?",
+                    "score": 0.6981,
+                    "answers": "that The last resort of|ccomp\ttaxisThe|punct"
+                },
+                {
+                    "question": "What was Mancera's commitment to the C40?",
+                    "score": 0.6086,
+                    "answers": "in which|prep"
+                },
+                {
+                    "question": "What was the purpose of the summit of C40?",
+                    "score": 0.5954,
+                    "answers": "during the summit of the C40 , in which it was emphasized to renew the transport to more sustainable technologies|prep\tthe summit of the C40 , in which it was emphasized to renew the transport to more sustainable technologies|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, taxi drivers still seek protection to prevent the change of units from being mandatory.",
+            "question_answers": [
+                {
+                    "question": "What do taxi drivers want to prevent from being mandatory?",
+                    "answer": "change of units"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why are taxi drivers still seeking protection to prevent the change of units from being mandatory?",
+                    "score": 0.8322,
+                    "answers": "taxi drivers|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of taxi drivers seeking protection?",
+                    "score": 0.6845,
+                    "answers": "protection|dobj"
+                },
+                {
+                    "question": "What is animalpolitico.com?",
+                    "score": 0.4514,
+                    "answers": "www.animalpolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Its main argument is the high cost of the vehicles, in addition to the technical difficulties involved in their maintenance, from the spare parts, to the lack of charging stations, which are located in private spaces.",
+            "question_answers": [
+                {
+                    "question": "What is the main argument for the lack of charging stations?",
+                    "answer": "high cost of the vehicles, in addition to the technical difficulties involved in their maintenance,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many charging stations are there in San Diego?",
+                    "score": 0.6943,
+                    "answers": "in addition to the technical difficulties involved in their maintenance , from the spare parts , to the lack of charging stations , which are located in private spaces|prep\taddition to the technical difficulties involved in their maintenance , from the spare parts , to the lack of charging stations , which are located in private spaces|pobj\tthe technical difficulties involved in their maintenance , from the spare parts , to the lack of charging stations , which are located in private spaces|pobj"
+                },
+                {
+                    "question": "Where are charging stations located?",
+                    "score": 0.6832,
+                    "answers": "which are located in private spaces|relcl"
+                },
+                {
+                    "question": "What is the cost of charging stations?",
+                    "score": 0.6501,
+                    "answers": "to the lack of charging stations , which are located in private spaces|prep\tof charging stations , which are located in private spaces|prep\tcharging stations , which are located in private spaces|pobj"
+                },
+                {
+                    "question": "What is the technical difficulty in maintaining the vehicles?",
+                    "score": 0.6145,
+                    "answers": "technical|amod"
+                },
+                {
+                    "question": "What are the technical problems involved in the maintenance of the vehicles?",
+                    "score": 0.6127,
+                    "answers": "involved in their maintenance|acl"
+                }
+            ]
+        },
+        {
+            "claim": "The modernization of the units also obliges taxi drivers to make a series of updates in the service they provide.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/06/2023 that the modernization of taxi units also obliged taxi drivers to make a series of updates?",
+                    "answer": "www.animalpolitico.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the modernization of the units entail for taxi drivers?",
+                    "score": 0.7745,
+                    "answers": "taxi drivers|dobj"
+                },
+                {
+                    "question": "How many updates were made in the service they provide?",
+                    "score": 0.6339,
+                    "answers": "updates in the service they provide|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "For example, you will have to use a new digital taximeter that will work on a tablet and includes GPS location, so you will no longer have to calibrate in establishments dedicated to taximeters.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/06/2023 that you will have to use a new digital taximeter?",
+                    "answer": "www.animalpolitico.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will the new digital taximeter work on a tablet?",
+                    "score": 0.8004,
+                    "answers": "on a tablet|prep\ta tablet|pobj"
+                },
+                {
+                    "question": "What will be the benefits of using a digital taximeter?",
+                    "score": 0.7466,
+                    "answers": "that|mark\tFor example|prep\texample|pobj\t,|punct\tyou|nsubj\twill|aux\tto|aux\ta|det\tdigital|amod\tthat|nsubj\twill|aux\ta|det\tand|cc\tGPS|compound\t,|punct\tso|mark\tyou|nsubj\twill|aux\tno|neg\tto|aux\tto calibrate in establishments dedicated to taximeters|xcomp\ttaximeters|pobj"
+                },
+                {
+                    "question": "What is the purpose of a digital taximeter?",
+                    "score": 0.7442,
+                    "answers": "establishments dedicated to taximeters|pobj"
+                },
+                {
+                    "question": "What is the new digital taximeter?",
+                    "score": 0.7355,
+                    "answers": "www.animalpolitico.com reported on 21/06/2023 that For example , you will have to use a new digital taximeter that will work on a tablet and includes GPS location , so you will no longer have to calibrate in establishments dedicated to taximeters|ROOT\tto use a new digital taximeter that will work on a tablet and includes GPS location|xcomp\tnew|amod\tno longer|advmod"
+                },
+                {
+                    "question": "What is the GPS location?",
+                    "score": 0.6795,
+                    "answers": "GPS location|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, drivers will be able to use a platform similar to those of Uber and Cabify, where they will even be able to decide in advance what trips they make and which ones they do not.",
+            "question_answers": [
+                {
+                    "question": "When did animalpolitico.com report that drivers will be able to use a platform similar to Uber and Cabify?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many drivers will be able to use Uber and Cabify?",
+                    "score": 0.739,
+                    "answers": "that In addition , drivers will be able to use a platform similar to those of Uber and Cabify , where they will even be able to decide in advance what trips they make and which ones they do not|ccomp"
+                },
+                {
+                    "question": "What are the benefits of using Uber and Cabify?",
+                    "score": 0.7163,
+                    "answers": "to use a platform similar to those of Uber and Cabify , where they will even be able to decide in advance what trips they make and which ones they do not|xcomp\twhich ones they do not|conj"
+                },
+                {
+                    "question": "What are the similarities between Uber and Cabify?",
+                    "score": 0.7022,
+                    "answers": "similar to those of Uber and Cabify|amod\tto those of Uber and Cabify|prep"
+                },
+                {
+                    "question": "What are the features of Uber and Cabify?",
+                    "score": 0.6943,
+                    "answers": "able to use a platform similar to those of Uber and Cabify , where they will even be able to decide in advance what trips they make and which ones they do not|acomp\table to decide in advance what trips they make and which ones they do not|acomp"
+                },
+                {
+                    "question": "What is Cabify?",
+                    "score": 0.6192,
+                    "answers": "that|mark\tIn addition|prep\taddition|pobj\t,|punct\tto|aux\ta|det\tand|cc\t,|punct\twhere|advmod\tthey|nsubj\teven|advmod\twhere they will even be able to decide in advance what trips they make and which ones they do not|relcl\tto|aux\tto decide in advance what trips they make and which ones they do not|xcomp\tin advance|prep\tadvance|pobj\twhat|det\twhat trips|dobj\tthey|nsubj\twhat trips they make and which ones they do not|ccomp\tand|cc\twhich|det\twhich ones|dobj\tthey|nsubj\tnot|neg"
+                }
+            ]
+        },
+        {
+            "claim": "This update also opens the possibility that taxis can accept payment via debit or credit card for their services.",
+            "question_answers": [
+                {
+                    "question": "What type of payment method can taxis now accept for their services?",
+                    "answer": "debit or credit card"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the benefits of using credit cards for transport services?",
+                    "score": 0.6801,
+                    "answers": "on 21/06/2023|prep\tthat|mark\tThis|det\tThis update|nsubj\talso|advmod\tthe|det\tthe possibility that taxis can accept payment for their services via debit or credit card|dobj\tthat|mark\ttaxis|nsubj\tthat taxis can accept payment for their services via debit or credit card|acl\tpayment for their services|dobj\tor|cc\ttheir|poss"
+                },
+                {
+                    "question": "What is the ability to accept payment by credit card for their services?",
+                    "score": 0.6623,
+                    "answers": "that This update also opens the possibility that taxis can accept payment for their services via debit or credit card|ccomp"
+                },
+                {
+                    "question": "What is animalpolitico.com?",
+                    "score": 0.5053,
+                    "answers": "www.animalpolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In figures:–  a thousand hybrid or electric taxis is the goal to replace the government of the City of Mexico.",
+            "question_answers": [
+                {
+                    "question": "What is the goal to replace the government of the City of Mexico?",
+                    "answer": "a thousand hybrid or electric taxis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many hybrid or electric taxis are planned to replace the City of Mexico?",
+                    "score": 0.8781,
+                    "answers": "or|cc\tto|aux"
+                },
+                {
+                    "question": "What is the purpose of the government of Mexico City?",
+                    "score": 0.733,
+                    "answers": "electric|conj"
+                }
+            ]
+        },
+        {
+            "claim": "–  1,000 pesos costs the most economical hybrid car; electrics cost almost twice as much.",
+            "question_answers": [
+                {
+                    "question": "How much does it cost to buy a hybrid car?",
+                    "answer": "1,000 pesos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the cost of a hybrid car?",
+                    "score": 0.8403,
+                    "answers": "on 21/06/2023|prep\tthat –|punct\t |dep\t1,000|nummod\t1,000 pesos costs the most economical hybrid car ; electrics cost almost twice as much|ccomp\talmost twice|quantmod\talmost twice as much|dobj"
+                },
+                {
+                    "question": "What is the most economical hybrid car?",
+                    "score": 0.8059,
+                    "answers": "www.animalpolitico.com|nsubj\twww.animalpolitico.com reported on 21/06/2023 that –   1,000 pesos costs the most economical hybrid car ; electrics cost almost twice as much|ROOT\tthat|mark\t1,000 pesos costs the most economical hybrid car|ccomp\tthe|det\tmost|advmod\tmost economical|amod\thybrid|amod\tthe most economical hybrid car|dobj\t;|punct\telectrics|nsubj\talmost|advmod\tas|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "–  electric charging stations are in Mexico City, most in private areas.",
+            "question_answers": [
+                {
+                    "question": "What type of charging stations are in Mexico City?",
+                    "answer": "electric charging stations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many electric charging stations are in Mexico City?",
+                    "score": 0.8385,
+                    "answers": "www.animalpolitico.com|nsubj\twww.animalpolitico.com reported on 21/06/2023 that –   electric charging stations are in Mexico City , most in private areas|ROOT\ton 21/06/2023|prep\tthat|mark\tthat –|punct\t |dep\telectric|amod\tcharging|compound\telectric charging stations|nsubj\telectric charging stations are in Mexico City , most in private areas|ccomp\tin Mexico City , most in private areas|prep\tMexico|compound\t,|punct\tmost|advmod\tmost in private areas|prep\tprivate|amod\tprivate areas|pobj"
+                }
+            ]
+        }
+    ]
+}

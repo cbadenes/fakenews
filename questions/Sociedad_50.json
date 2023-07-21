@@ -1,0 +1,413 @@
+{
+    "id": "Sociedad_50",
+    "claim": "Why do radical feminists habitually ignore the crimes committed against women at the hands of people coming mostly from countries where women are recognized as being the same dignity as a lizard?The answer is obvious; the Third Wave of Feminism has little to do with protecting women's rights and everything to do with social engineering. Many feminists refuse to draw attention to crimes against women that are not being committed by Western white men. They avoid, for example, such trivial trivial issues for them as female genital mutilation (FGM). Feminists prefer to avoid this rhetorical civil war rather than face reality in the face of real threats to gender equality. The swindle of feminist groups is highlighted by ignoring the wave of violations that Europe is sweeping, while at the same time revealing the true face that characterizes the third wave of feminism – rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything. The former candidate of Bildu Irantzu Varela is a good example of the double standard of many feminists. At least this garment must be recognized for the merit of not walking around with dialectic subterfuges. He has recognized loud and clear in a twitter that feminists do not defend ourselves against the violations of immigrants, finishing off their vomit with a revealing phrase of their moral hediony: It is a war against the white man only. Do you share Basque ethnicist nationalism?Irantzu Varela defines herself as Basque feminist activist. She is one of her founders, she is also creator and presenter of El Tornillo, the feminist microspace of La Tuerka first and of En la Frontera-Público TV after. Controversy with actress Barbara Goenaga Last June she charged actress Barbara Goenaga, who ended up leaving Twitter. It all started when the Donostiarra reported on her Twitter account an infamous assault on two lesbian women on a London bus, who were beaten for refusing to kiss in front of men who demanded it. Then the radical feminist – as she describes herself in her Twitter profile, and it is little – intervened, putting her in the face of being married to Borja Semper, spokesman for the Popular Party in the Basque Country. Apparently, according to Varela, being married or married to someone makes it impossible to have opinions of their own. I'm sorry.",
+    "source": "www.alertadigital.com",
+    "date": "04/07/2019",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Why do radical feminists habitually ignore the crimes committed against women at the hands of people coming mostly from countries where women are recognized as being the same dignity as a lizard?The answer is obvious; the Third Wave of Feminism has little to do with protecting women's rights and everything to do with social engineering.",
+            "question_answers": [
+                {
+                    "question": "What does the Third Wave of Feminism have to do with protecting women's rights?",
+                    "answer": "little to do with protecting women's rights and everything to do with social engineering"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What crimes are committed against women at the hands of people coming mostly from countries where women are recognized as being the same dignity as a lizard?",
+                    "score": 0.8372,
+                    "answers": "that Why do radical feminists habitually ignore the crimes committed against women at the hands of people coming mostly from countries where women are recognized as being the same dignity as|ccomp\tthe crimes committed against women at the hands of people coming mostly from countries where women are recognized as being the same dignity as|dobj"
+                },
+                {
+                    "question": "What are the crimes committed against women in the Third Wave of Feminism?",
+                    "score": 0.8156,
+                    "answers": "at the hands of people coming mostly from countries where women are recognized as being the same dignity as|prep\tthe hands of people coming mostly from countries where women are recognized as being the same dignity as|pobj\ta lizard?The|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Many feminists refuse to draw attention to crimes against women that are not being committed by Western white men.",
+            "question_answers": [
+                {
+                    "question": "Who are the perpetrators of crimes against women?",
+                    "answer": "Western white men"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What crimes are committed by Western white men?",
+                    "score": 0.8536,
+                    "answers": "against women|prep\tbeing|auxpass"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.5472,
+                    "answers": "www.alertadigital.com|nsubj\twww.alertadigital.com reported on 04/07/2019 that Many feminists refuse to draw attention to crimes against women that are not being committed by Western white men|ROOT\tthat|mark\tto|aux\tattention|dobj\tthat|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "Many feminists avoid, for example, such trivial trivial issues for Many feminists as female genital mutilation (FGM).",
+            "question_answers": [
+                {
+                    "question": "What does FGM stand for?",
+                    "answer": "female genital mutilation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is FGM?",
+                    "score": 0.6383,
+                    "answers": "www.alertadigital.com|nsubj\twww.alertadigital.com reported on 04/07/2019 that Many feminists avoid , for example , such trivial trivial issues for Many feminists as female genital mutilation ( FGM )|ROOT\ton 04/07/2019|prep\tthat|mark\tMany|amod\tMany feminists|nsubj\tthat Many feminists avoid , for example , such trivial trivial issues for Many feminists as female genital mutilation ( FGM )|ccomp\t,|punct\tfor example|prep\texample|pobj\t,|punct\tsuch|amod\ttrivial|amod\ttrivial|amod\tsuch trivial trivial issues for Many feminists as female genital mutilation ( FGM )|dobj\tfor Many feminists|prep\tMany|amod\tMany feminists|pobj\tas female genital mutilation ( FGM )|prep\tfemale|amod\tgenital|amod\tfemale genital mutilation ( FGM )|pobj\t(|punct\tFGM|appos\t)|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Feminists prefer to avoid this rhetorical civil war rather than face reality in the face of real threats to gender equality.",
+            "question_answers": [
+                {
+                    "question": "Why do feminists prefer to avoid the rhetorical civil war?",
+                    "answer": "Feminists prefer to avoid this rhetorical civil war rather than face reality in the face of real threats to gender equality"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Alertadigital.com say about radicalism?",
+                    "score": 0.7947,
+                    "answers": "on 04/07/2019|prep\treality|dobj"
+                },
+                {
+                    "question": "What are the threats to gender equality?",
+                    "score": 0.7558,
+                    "answers": "in the face of real threats to gender equality|prep\tthe face of real threats to gender equality|pobj\tof real threats to gender equality|prep\treal threats to gender equality|pobj"
+                },
+                {
+                    "question": "What does Alertadigital.com do?",
+                    "score": 0.7511,
+                    "answers": "rather|advmod"
+                },
+                {
+                    "question": "What is the definition of gender equality?",
+                    "score": 0.716,
+                    "answers": "gender equality|pobj"
+                },
+                {
+                    "question": "What is the meaning of the rhetorical civil war?",
+                    "score": 0.6899,
+                    "answers": "this rhetorical civil war|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The swindle of feminist groups is highlighted by ignoring the wave of violations that Europe is sweeping, while at the same time revealing the true face that characterizes the Third Wave of Feminism – rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything.",
+            "question_answers": [
+                {
+                    "question": "What is the true face of the Third Wave of Feminism?",
+                    "answer": "rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women's rights"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Third Wave of Feminism?",
+                    "score": 0.6979,
+                    "answers": "www.alertadigital.com|nsubj\twww.alertadigital.com reported on 04/07/2019 that The swindle of feminist groups is highlighted by ignoring the wave of violations that Europe is sweeping , while at the same time revealing the true face that characterizes the Third Wave of Feminism – rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|ROOT\ton 04/07/2019|prep\t04/07/2019|pobj\tthat|mark\tThe|det\tThe swindle of feminist groups|nsubjpass\tof feminist groups|prep\tfeminist|amod\tfeminist groups|pobj\tis|auxpass\tthat The swindle of feminist groups is highlighted by ignoring the wave of violations that Europe is sweeping , while at the same time revealing the true face that characterizes the Third Wave of Feminism – rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|ccomp\tby ignoring the wave of violations that Europe is sweeping , while at the same time revealing the true face that characterizes the Third Wave of Feminism – rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|prep\tignoring the wave of violations that Europe is sweeping , while at the same time revealing the true face that characterizes the Third Wave of Feminism – rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|pcomp\tthe|det\tthe wave of violations that Europe is sweeping|dobj\tof violations|prep\tviolations|pobj\tthat|dobj\tis|aux\tthat Europe is sweeping|relcl\t,|punct\twhile|mark\tat the same time|prep\tthe|det\tsame|amod\tthe same time|pobj\twhile at the same time revealing the true face that characterizes the Third Wave of Feminism – rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|advcl\tthe|det\ttrue|amod\tthe true face that characterizes the Third Wave of Feminism – rampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|dobj\tthat|nsubj\tthat characterizes the Third Wave of Feminism|relcl\tthe|det\tThird|compound\tof Feminism|prep\tFeminism|pobj\t–|punct\trampant|amod\trampant hypocrisy and a strategy of diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|appos\tand|cc\ta|det\ta strategy of diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|conj\tof diminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|prep\tdiminishing importance and ignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|pcomp\timportance|dobj\tand|cc\tignoring genuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|conj\tgenuine|amod\tgenuine issues of women 's rights that do not fit into the distorted paradigm of blaming the white patriarchate for everything|dobj\tof women 's rights|prep\twomen 's|poss\t's|case\twomen 's rights|pobj\tthat|nsubj\tdo|aux\tnot|neg\tthat do not fit into the distorted paradigm of blaming the white patriarchate for everything|relcl\tinto the distorted paradigm of blaming the white patriarchate for everything|prep\tthe|det\tdistorted|amod\tthe distorted paradigm of blaming the white patriarchate for everything|pobj\tof blaming the white patriarchate for everything|prep\tblaming the white patriarchate for everything|pcomp\tthe|det\twhite|amod\tthe white patriarchate|dobj\tfor everything|prep\teverything|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The former candidate of Bildu Irantzu Varela is a good example of the double standard of many feminists.",
+            "question_answers": [
+                {
+                    "question": "Who is a good example of the double standard of many feminists?",
+                    "answer": "The former candidate of Bildu Irantzu Varela"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the former candidate of Bildu Irantzu Varela?",
+                    "score": 0.8207,
+                    "answers": "The former candidate of Bildu Irantzu Varela|nsubj"
+                },
+                {
+                    "question": "Who is Bildu Irantzu Varela?",
+                    "score": 0.7545,
+                    "answers": "www.alertadigital.com|nsubj\twww.alertadigital.com reported on 04/07/2019 that The former candidate of Bildu Irantzu Varela is a good example of the double standard of many feminists|ROOT\ton 04/07/2019|prep\tof Bildu Irantzu Varela|prep\tBildu|compound\tof many feminists|prep"
+                },
+                {
+                    "question": "What is the double standard of many feminists?",
+                    "score": 0.7545,
+                    "answers": "Irantzu|compound\tthat The former candidate of Bildu Irantzu Varela is a good example of the double standard of many feminists|ccomp\tgood|amod\ta good example of the double standard of many feminists|attr\tof the double standard of many feminists|prep\tthe double standard of many feminists|pobj\tmany feminists|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "At least this garment must be recognized for the merit of not walking around with dialectic subterfuges.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are dialectic subterfuges?",
+                    "score": 0.706,
+                    "answers": "with dialectic subterfuges|prep\tdialectic subterfuges|pobj"
+                },
+                {
+                    "question": "What is dialectic subterfuges?",
+                    "score": 0.6523,
+                    "answers": "dialectic|amod"
+                },
+                {
+                    "question": "What is the merit of not walking around with dialectic subterfuges?",
+                    "score": 0.6449,
+                    "answers": "on 04/07/2019|prep\t04/07/2019|pobj\tthat At least this garment must be recognized for the merit of not walking around with dialectic subterfuges|ccomp"
+                },
+                {
+                    "question": "What is a dialectic subterfuges?",
+                    "score": 0.6376,
+                    "answers": "that|mark\tAt|advmod\tthis|det\tAt least this garment|nsubjpass\tmust|aux\tbe|auxpass\tthe|det\tnot|neg\taround|advmod"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.5397,
+                    "answers": "www.alertadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The former candidate of Bildu Irantzu Varela has recognized loud and clear in a twitter that feminists do not defend ourselves against the violations of immigrants, finishing off vomit with a revealing phrase of moral hediony: It is a war against the white man only.",
+            "question_answers": [
+                {
+                    "question": "What did the former candidate of Bildu Irantzu Varela say on twitter?",
+                    "answer": "revealing phrase of moral hediony:"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the former candidate of Bildu Irantzu Varela say about violations of immigrants?",
+                    "score": 0.7405,
+                    "answers": "www.alertadigital.com reported on 04/07/2019 that The former candidate of Bildu Irantzu Varela has recognized loud and clear in a twitter that feminists do not defend ourselves against the violations of immigrants , finishing off vomit with a revealing phrase of moral hediony : It is a war against the white man only|ROOT"
+                },
+                {
+                    "question": "What did Varela say about the violations of immigrants?",
+                    "score": 0.7168,
+                    "answers": "www.alertadigital.com|nsubj\ton 04/07/2019|prep\t04/07/2019|pobj\tthat|mark\tThe|det\tformer|amod\tBildu|compound\tIrantzu|compound\thas|aux\tloud and clear|advmod\tand|cc\tclear|conj\tin a twitter|prep\ta|det\ta twitter|pobj\tthat|mark\tfeminists|nsubj\tdo|aux\tnot|neg\tthat feminists do not defend ourselves against the violations of immigrants|ccomp\tourselves|dobj\tagainst the violations of immigrants|prep\tthe|det\tthe violations of immigrants|pobj\tof immigrants|prep\timmigrants|pobj\t,|punct\toff|prt\tvomit|dobj\ta|det\trevealing|amod\t:|punct\tIt|nsubj\ta|det\tagainst the white man only|prep\tthe|det\twhite|amod\tthe white man only|pobj\tonly|advmod"
+                },
+                {
+                    "question": "Who is Bildu Irantzu Varela?",
+                    "score": 0.5727,
+                    "answers": "of Bildu Irantzu Varela|prep"
+                },
+                {
+                    "question": "What is the war against white man only?",
+                    "score": 0.5703,
+                    "answers": "It is a war against the white man only|acl\ta war against the white man only|attr"
+                },
+                {
+                    "question": "What is moral hediony?",
+                    "score": 0.5496,
+                    "answers": "that The former candidate of Bildu Irantzu Varela has recognized loud and clear in a twitter that feminists do not defend ourselves against the violations of immigrants , finishing off vomit with a revealing phrase of moral hediony : It is a war against the white man only|ccomp\tfinishing off vomit with a revealing phrase of moral hediony : It is a war against the white man only|advcl\twith a revealing phrase of moral hediony : It is a war against the white man only|prep\ta revealing phrase of moral hediony : It is a war against the white man only|pobj\tof moral hediony|prep\tmoral hediony|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Do you share Basque ethnicist nationalism?Irantzu Varela defines herself as Basque feminist activist.",
+            "question_answers": [
+                {
+                    "question": "What type of activist is Irantzu Varela?",
+                    "answer": "Basque feminist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Basque ethnicist nationalism?",
+                    "score": 0.9091,
+                    "answers": "that Do you share Basque ethnicist|ccomp"
+                },
+                {
+                    "question": "What is the definition of Basque nationalism?",
+                    "score": 0.8995,
+                    "answers": "feminist|amod"
+                },
+                {
+                    "question": "What is Irantzu Varela's stance on Basque nationalism?",
+                    "score": 0.8955,
+                    "answers": "www.alertadigital.com reported on 04/07/2019 that Do you share Basque ethnicist nationalism?Irantzu Varela defines herself as Basque feminist activist|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of Irantzu Varela's nationalism?",
+                    "score": 0.8785,
+                    "answers": "on 04/07/2019|prep"
+                }
+            ]
+        },
+        {
+            "claim": "She is one of her founders, she is also creator and presenter of El Tornillo, the feminist microspace of La Tuerka first and of En la Frontera-Público TV after.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Who founded El Tornillo?",
+                    "score": 0.8054,
+                    "answers": "www.alertadigital.com|nsubj\ton 04/07/2019|prep\t04/07/2019|pobj\tShe|nsubj\tShe is one of her founders|ccomp\tone of her founders|attr\tof her founders|prep\ther|poss\ther founders|pobj\tshe|nsubj\tLa Tuerka first|pobj\tfirst|advmod\tafter|prep"
+                },
+                {
+                    "question": "What did El Tornillo do for En la Frontera-Público TV?",
+                    "score": 0.7128,
+                    "answers": "that She is one of her founders , she is also creator and presenter of El Tornillo , the feminist microspace of La Tuerka first and of En la Frontera - Público TV after|ccomp\tcreator and presenter of El Tornillo , the feminist microspace of La Tuerka first and of En la Frontera - Público TV after|attr\tEl Tornillo , the feminist microspace of La Tuerka first and of En la Frontera - Público TV|pobj\tEn la Frontera - Público TV|pobj"
+                },
+                {
+                    "question": "What is El Tornillo's role in En la Fontera-Público TV?",
+                    "score": 0.6179,
+                    "answers": "of El Tornillo , the feminist microspace of La Tuerka first and of En la Frontera - Público TV after|prep"
+                },
+                {
+                    "question": "What is El Tornillo?",
+                    "score": 0.6124,
+                    "answers": "that|mark\t,|punct\talso|advmod\tand|cc\tpresenter|conj\tEl|compound\t,|punct\tthe|det\tfeminist|amod\tof La Tuerka first and of En la Frontera - Público TV|prep\tLa|compound\tand|cc\tEn|nmod\tla|nmod\tFrontera|compound\t-|punct\tFrontera - Público|compound"
+                },
+                {
+                    "question": "Who is El Tornillo?",
+                    "score": 0.6106,
+                    "answers": "www.alertadigital.com reported on 04/07/2019 that She is one of her founders , she is also creator and presenter of El Tornillo , the feminist microspace of La Tuerka first and of En la Frontera - Público TV after|ROOT\tthe feminist microspace of La Tuerka first and of En la Frontera - Público TV|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Controversy with actress Barbara Goenaga Last June she charged actress Barbara Goenaga, who ended up leaving Twitter.",
+            "question_answers": [
+                {
+                    "question": "What social network did Barbara Goenaga leave?",
+                    "answer": "Twitter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Goenaga leave Twitter?",
+                    "score": 0.9206,
+                    "answers": "www.alertadigital.com reported on 04/07/2019 that Controversy with actress Barbara Goenaga Last June she charged actress Barbara Goenaga , who ended up leaving Twitter|ROOT\tthat|mark\tthat Controversy with actress Barbara Goenaga|dep\twith actress Barbara Goenaga|prep\tshe|nsubj\tthat Controversy with actress Barbara Goenaga Last June she charged actress Barbara Goenaga , who ended up leaving Twitter|ccomp\tactress Barbara Goenaga , who ended up leaving Twitter|dobj\t,|punct\twho ended up leaving Twitter|relcl\tleaving Twitter|xcomp"
+                },
+                {
+                    "question": "What did Goenaga do to get rid of herself?",
+                    "score": 0.7823,
+                    "answers": "Barbara|compound\tLast|amod\tBarbara|compound\twho|nsubj\tup|prt"
+                },
+                {
+                    "question": "What was the relationship between Goenaga and Barbara goenaga?",
+                    "score": 0.7346,
+                    "answers": "on 04/07/2019|prep\t04/07/2019|pobj"
+                },
+                {
+                    "question": "Who is Barbara Goenaga?",
+                    "score": 0.7205,
+                    "answers": "actress|compound\tactress Barbara Goenaga|pobj\tactress|compound"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.6118,
+                    "answers": "www.alertadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "It all started when the Donostiarra reported on her Twitter account an infamous assault on two lesbian women on a London bus, who were beaten for refusing to kiss in front of men who demanded it.",
+            "question_answers": [
+                {
+                    "question": "What happened to the lesbian women on a London bus?",
+                    "answer": "beaten for refusing to kiss in front of men who demanded it"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Donostiarra assault two lesbian women on a London bus?",
+                    "score": 0.8772,
+                    "answers": "www.alertadigital.com reported on 04/07/2019 that It all started when the Donostiarra reported on her Twitter account an infamous assault on two lesbian women on a London bus , who were beaten for refusing to kiss in front of men who demanded it|ROOT\tall|appos\tthat It all started when the Donostiarra reported on her Twitter account an infamous assault on two lesbian women on a London bus , who were beaten for refusing to kiss in front of men who demanded it|ccomp\tthe|det\twhen the Donostiarra reported on her Twitter account an infamous assault on two lesbian women on a London bus , who were beaten for refusing to kiss in front of men who demanded it|advcl\tan|det\ttwo lesbian women on a London bus , who were beaten for refusing to kiss in front of men who demanded it|pobj\twho|nsubjpass\twho|nsubj"
+                },
+                {
+                    "question": "What did Donostiarra say about a London bus assault?",
+                    "score": 0.7713,
+                    "answers": "a London bus|pobj"
+                },
+                {
+                    "question": "What did Donostiarra do to kiss in front of men?",
+                    "score": 0.7659,
+                    "answers": "to kiss in front of men who demanded it|xcomp"
+                },
+                {
+                    "question": "What did Donostiarra tweet on her Twitter account in 2019?",
+                    "score": 0.7224,
+                    "answers": "Twitter|compound\ther Twitter account|pobj"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.498,
+                    "answers": "www.alertadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Then the radical feminist – as she describes herself in her Twitter profile, and it is little – intervened, putting her in the face of being married to Borja Semper, spokesman for the Popular Party in the Basque Country.",
+            "question_answers": [
+                {
+                    "question": "What party is Borja Semper a spokesman for?",
+                    "answer": "the Popular Party in the Basque Country"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much did she intervene in her relationship with Borja Semper?",
+                    "score": 0.663,
+                    "answers": "little|attr"
+                },
+                {
+                    "question": "Who is the radical feminist who is married to Borja Semper?",
+                    "score": 0.6362,
+                    "answers": "the radical feminist|nsubj"
+                },
+                {
+                    "question": "Who is Borja Semper married to?",
+                    "score": 0.587,
+                    "answers": "on 04/07/2019|prep\t04/07/2019|pobj\tthat|mark\tthe|det\t–|punct\t,|punct\tand|cc\t–|punct\t,|punct\tputting her in the face of being married to Borja Semper , spokesman for the Popular Party in the Basque Country|advcl\tin the face of being married to Borja Semper , spokesman for the Popular Party in the Basque Country|prep\tthe|det\tthe face of being married to Borja Semper , spokesman for the Popular Party in the Basque Country|pobj\tof being married to Borja Semper , spokesman for the Popular Party in the Basque Country|prep\tbeing married to Borja Semper , spokesman for the Popular Party in the Basque Country|pcomp\tmarried to Borja Semper , spokesman for the Popular Party in the Basque Country|acomp\tto Borja Semper , spokesman for the Popular Party in the Basque Country|prep\tBorja|compound\tBorja Semper , spokesman for the Popular Party in the Basque Country|pobj\t,|punct\tthe|det\tthe|det\tBasque|compound"
+                },
+                {
+                    "question": "What is Borja Semper's Twitter profile?",
+                    "score": 0.5771,
+                    "answers": "Then|advmod\tradical|amod\tas|mark\tshe|nsubj\therself|dobj\tin her Twitter profile|prep\ther|poss\tTwitter|compound\tit|nsubj\ther|dobj\tPopular|compound"
+                },
+                {
+                    "question": "Who is Borja Semper?",
+                    "score": 0.541,
+                    "answers": "spokesman for the Popular Party in the Basque Country|appos\tfor the Popular Party in the Basque Country|prep\tthe Popular Party in the Basque Country|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Apparently, according to Varela, being married or married to someone makes it impossible to have opinions of their own.",
+            "question_answers": [
+                {
+                    "question": "What makes it impossible for a person to have opinions of their own?",
+                    "answer": "being married or married to someone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Varela being married or married to?",
+                    "score": 0.8326,
+                    "answers": "www.alertadigital.com reported on 04/07/2019 that Apparently , according to Varela , being married or married to someone makes it impossible to have opinions of their own|ROOT\tbeing married or married to someone|csubj"
+                },
+                {
+                    "question": "What is Varela's opinion on marriage?",
+                    "score": 0.7996,
+                    "answers": "it impossible to have opinions of their own|ccomp\tto have opinions of their own|advcl\topinions of their own|dobj"
+                },
+                {
+                    "question": "What is the relationship between married or married to someone?",
+                    "score": 0.7607,
+                    "answers": "that|mark\t,|punct\t,|punct\tor|cc\tto someone|prep\tsomeone|pobj\tit|nsubj\tto|aux"
+                },
+                {
+                    "question": "What is Alertadigital.com?",
+                    "score": 0.5781,
+                    "answers": "www.alertadigital.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

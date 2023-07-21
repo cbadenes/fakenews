@@ -1,0 +1,515 @@
+{
+    "id": "Sociedad_41",
+    "claim": "On January 25, the Chinese authorities announced the construction of two hospitals to care for patients infected with the coronavirus. The forecasts are that they were finished in two weeks, but one of them has broken all the records and it has been finished in 48 hours!The images of dozens of excavators went around the world, but no one expected - except the local authorities - this result. At 7 o'clock on the morning of 25 January, more than 500 construction workers and more than 10 construction machinery vehicles appeared at the Dabieshan Regional Medical Centre, to transform it into Xiaotangshan Hospital, in just 48 hours, with capacity for more than 1. 000 beds. Before the construction, there were 13 designated hospitals and 29 clinics treating the sick, but in view of the rising trend of the infected, they decided to start the hospital. The main project, interior and exterior decoration have been completed. The original plan was to move in May this year. To achieve the goal, they needed to work without rest for 24 hours a day and have the collaboration of hundreds of volunteers, who came to place the beds and clean the buildings. Yesterday morning they managed to place more than 100 beds and at the end of yesterday ended the transfer of the remaining 900 and electrical, water and even internet connections were made. The first patients were admitted at 10:30 a.m. The coronavirus has killed at least 131 people, all in China, and has affected more than 6 people. 000 all over the world. Until yesterday, four people from Huanggang lost their lives to the deadly virus and 213 people were infected. Although the Huanggang Coronavirus Hospital was the first to open, it was not the first to be planned. The Wuhan government announced last Thursday that they would build a coronavirus hospital in a week. There are at least four of these facilities completed or in process in the country. They are all modeled at a temporary medical center in Beijing in 2003, which was built in seven days to combat SARS and treated a seventh of the country's SARS patient in a two-month period. Wuhan's authority is building two special facilities to treat a total of 2. 300 patients with coronavirus. I'm sorry.",
+    "source": "www.larazon.es",
+    "date": "29/01/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "On January 25 , the Chinese authorities announced the construction of two hospitals to care for patients infected with the coronavirus .",
+            "question_answers": [
+                {
+                    "question": "On what date did the Chinese authorities announce the construction of two hospitals for patients infected with the coronavirus?",
+                    "answer": "January 25"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many patients were infected with the coronavirus?",
+                    "score": 0.8278,
+                    "answers": "infected with the coronavirus|acl"
+                },
+                {
+                    "question": "What did the Chinese authorities say about the construction of two hospitals?",
+                    "score": 0.7913,
+                    "answers": "www.larazon.es said on 29/01/2020 that On January 25 , the Chinese authorities announced the construction of two hospitals to care for patients infected with the coronavirus|ROOT\ton 29/01/2020|prep\tthat|mark\tOn January 25|prep\t25|nummod\t,|punct\tthe|det\tthe Chinese authorities|nsubj\tthat On January 25 , the Chinese authorities announced the construction of two hospitals to care for patients infected with the coronavirus|ccomp\tthe|det\tto|aux\tthe|det"
+                },
+                {
+                    "question": "What is the coronavirus?",
+                    "score": 0.7363,
+                    "answers": "with the coronavirus|prep\tthe coronavirus|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The forecasts are that two hospitals to care for patients infected with the coronavirus were finished in two weeks, but one of them has broken all the records and one of them has been finished in 48 hours!The images of dozens of excavators went around the world, but no one expected - except the local authorities - this result.",
+            "question_answers": [
+                {
+                    "question": "What happened to one of the hospitals?",
+                    "answer": "one of them has broken all the records"
+                },
+                {
+                    "question": "Who expected the results of the excavators?",
+                    "answer": "no one expected"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take for the coronavirus to spread?",
+                    "score": 0.7398,
+                    "answers": "for patients infected with the coronavirus|prep\tinfected with the coronavirus|acl"
+                },
+                {
+                    "question": "How many records have been broken since the coronavirus?",
+                    "score": 0.6953,
+                    "answers": "www.larazon.es|nsubj\ton 29/01/2020|prep\tthat The forecasts are that two hospitals to care for patients infected with the coronavirus were finished in two weeks , but one of them has broken all the records and one of them has been finished in|ccomp\twere|auxpass\tthat two hospitals to care for patients infected with the coronavirus were finished in two weeks , but one of them has broken all the records and one of them has been finished in|ccomp\tbut|cc\tone of them|nsubj\thas|aux\tall the records|dobj\tone of them|nsubjpass\thas|aux\t48|nummod\tbut|cc\tthis result|dobj"
+                },
+                {
+                    "question": "How many patients were infected with the coronavirus in the first two weeks of 2020?",
+                    "score": 0.6878,
+                    "answers": "patients infected with the coronavirus|pobj"
+                },
+                {
+                    "question": "What was the result of the coronavirus?",
+                    "score": 0.6632,
+                    "answers": "no one expected - except the local authorities - this result|conj"
+                },
+                {
+                    "question": "How many records of coronavirus were broken in the first week?",
+                    "score": 0.6575,
+                    "answers": "www.larazon.es said on 29/01/2020 that The forecasts are that two hospitals to care for patients infected with the coronavirus were finished in two weeks , but one of them has broken all the records and one of them has been finished in|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "At 7 o'clock on the morning of January 25 , more than 500 construction workers and more than 10 construction machinery vehicles appeared at one of them , to transform one of them into Xiaotangshan Hospital, in just 48 hours, with capacity for more than 1. 000 beds .",
+            "question_answers": [
+                {
+                    "question": "When did more than 500 construction workers appear at Xiaotangshan Hospital?",
+                    "answer": "At 7 o'clock on the morning of January 25"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take to transform the Xiaotangshan Hospital into a hospital?",
+                    "score": 0.7376,
+                    "answers": "in just 48 hours|prep"
+                },
+                {
+                    "question": "How many beds does the Xiaotangshan Hospital have?",
+                    "score": 0.7317,
+                    "answers": "to transform one of them into Xiaotangshan Hospital , in just 48 hours , with capacity for more than 1 . 000 beds|advcl\tfor more than 1 . 000 beds|prep\tmore than 1 . 000 beds|pobj"
+                },
+                {
+                    "question": "How many construction workers were in the Xiaotangshan Hospital on January 25?",
+                    "score": 0.6505,
+                    "answers": "At 7 o'clock on the morning of January 25|prep\ton the morning of January 25|prep\tthe morning of January 25|pobj\tof January 25|prep"
+                },
+                {
+                    "question": "What is the capacity of the Xiaotangshan Hospital?",
+                    "score": 0.6424,
+                    "answers": "the|det\tJanuary 25|pobj\tone of them|pobj\tone of them|dobj\tinto Xiaotangshan Hospital|prep\tXiaotangshan|compound\tjust 48|nummod\twith capacity for more than 1 . 000 beds|prep\tcapacity for more than 1 . 000 beds|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Xiaotangshan Hospital, in just 48 hours, with capacity for more than 1. 000 beds .",
+            "question_answers": [
+                {
+                    "question": "How many beds does Xiaotangshan Hospital have?",
+                    "answer": "more than 1. 000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many beds does Xiaotangshan Hospital have?",
+                    "score": 0.8527,
+                    "answers": "www.larazon.es|nsubj\twww.larazon.es said on 29/01/2020 that Xiaotangshan Hospital , in just 48 hours , with capacity for more than 1 . 000 beds|ROOT\ton 29/01/2020|prep\tthat|mark\tXiaotangshan|compound\t,|punct\tjust|advmod\tjust 48|nummod\t,|punct\tthat Xiaotangshan Hospital , in just 48 hours , with capacity for more than 1 . 000 beds|prep\tcapacity for more than 1 . 000 beds|pobj\tfor more than 1 . 000 beds|prep\tmore|amod\tthan|quantmod\t1|compound\t.|compound\tmore than 1 . 000|nummod\tmore than 1 . 000 beds|pobj"
+                },
+                {
+                    "question": "How many beds did Xiaotangshan Hospital have in just 48 hours?",
+                    "score": 0.8178,
+                    "answers": "in just 48 hours|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Before the construction of two hospitals to care for patients infected with the coronavirus , there were 13 designated hospitals and 29 clinics treating the sick, but in view of the rising trend of the infected, they decided to start Xiaotangshan Hospital, in just 48 hours, with capacity for more than 1. 000 beds .",
+            "question_answers": [
+                {
+                    "question": "What was the name of the virus that infected patients before the construction of two hospitals?",
+                    "answer": "coronavirus"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many beds were in Xiaotangshan Hospital before the construction of the coronavirus?",
+                    "score": 0.7794,
+                    "answers": "that Before the construction of two hospitals to care for patients infected with the coronavirus , there were 13 designated hospitals and 29 clinics treating the sick , but in view of the rising trend of the infected , they decided to start Xiaotangshan Hospital , in just 48 hours , with capacity for more than 1 . 000 beds|ccomp"
+                },
+                {
+                    "question": "How many beds does Xiaotangshan Hospital have?",
+                    "score": 0.7655,
+                    "answers": "just|advmod\twith capacity for more than 1 . 000 beds|prep\tcapacity for more than 1 . 000 beds|pobj\tfor more than 1 . 000 beds|prep"
+                },
+                {
+                    "question": "How many hospitals were opened before Xiaotangshan Hospital?",
+                    "score": 0.741,
+                    "answers": "designated|amod"
+                },
+                {
+                    "question": "What is the capacity of Xiaotangshan Hospital?",
+                    "score": 0.6911,
+                    "answers": "to start Xiaotangshan Hospital , in just 48 hours , with capacity for more than 1 . 000 beds|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "The main project, interior and exterior decoration have been completed.",
+            "question_answers": [
+                {
+                    "question": "When did www.larazon.es say that the main project, interior and exterior decoration was completed?",
+                    "answer": "29/01/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the main project for interior and exterior decoration?",
+                    "score": 0.7827,
+                    "answers": "that|mark\tThe|det\tThe main project , interior and exterior decoration|nsubjpass\t,|punct\tinterior and exterior|amod\tand|cc\texterior|conj\tinterior and exterior decoration|appos\thave|aux\tbeen|auxpass\tthat The main project , interior and exterior decoration have been completed|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The original plan was to move in May this year.",
+            "question_answers": [
+                {
+                    "question": "When was the original plan to move in?",
+                    "answer": "May"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the original plan to move in May?",
+                    "score": 0.8646,
+                    "answers": "to move in May this year|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "To achieve the goal, more than 500 construction workers and more than 10 construction machinery vehicles needed to work without rest for 24 hours a day and have the collaboration of hundreds of volunteers, who came to place the beds and clean the buildings.",
+            "question_answers": [
+                {
+                    "question": "How long did the construction workers need to work without rest?",
+                    "answer": "24 hours a day"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many volunteers did the construction workers have to help clean the buildings?",
+                    "score": 0.7175,
+                    "answers": "construction|compound\tconstruction|compound"
+                },
+                {
+                    "question": "How many volunteers help clean the buildings in Swaziland?",
+                    "score": 0.7161,
+                    "answers": "clean the buildings|conj"
+                },
+                {
+                    "question": "How many volunteers helped clean the buildings?",
+                    "score": 0.6946,
+                    "answers": "have the collaboration of hundreds of volunteers , who came to place the beds and clean the buildings|conj\tthe collaboration of hundreds of volunteers , who came to place the beds and clean the buildings|dobj\tof hundreds of volunteers , who came to place the beds and clean the buildings|prep\thundreds of volunteers , who came to place the beds and clean the buildings|pobj\tof volunteers , who came to place the beds and clean the buildings|prep\tvolunteers , who came to place the beds and clean the buildings|pobj\tthe buildings|dobj"
+                },
+                {
+                    "question": "How many construction workers and construction machinery were employed in South Africa in the year 2020?",
+                    "score": 0.6898,
+                    "answers": "construction machinery|compound"
+                },
+                {
+                    "question": "How many volunteers were needed to clean the buildings?",
+                    "score": 0.6852,
+                    "answers": "www.larazon.es|nsubj\tthat|mark\tTo|aux\tTo achieve the goal|advcl\tthe|det\t,|punct\tmore|amod\tthan|quantmod\tand|cc\tmore|amod\tthan|quantmod\tthat To achieve the goal , more than 500 construction workers and more than 10 construction machinery vehicles needed to work without rest for 24 hours a day and have the collaboration of hundreds of volunteers , who came to place the beds and clean the buildings|ccomp\tto|aux\tto work without rest for 24 hours a day and have the collaboration of hundreds of volunteers , who came to place the beds and clean the buildings|xcomp\trest|pobj\tfor 24 hours a day|prep\t24|nummod\t24 hours a day|pobj\ta|det\ta day|npadvmod\tand|cc\tthe|det\t,|punct\twho|nsubj\tto|aux\tto place the beds and clean the buildings|advcl\tthe|det\tand|cc\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "Yesterday morning more than 500 construction workers and more than 10 construction machinery vehicles managed to place more than 100 beds and at the end of Yesterday ended the transfer of the remaining 900 and electrical, water and even internet connections were made.",
+            "question_answers": [
+                {
+                    "question": "How many beds did the construction workers place yesterday?",
+                    "answer": "more than 100 beds"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many construction workers were in South Africa in the year 2015?",
+                    "score": 0.6495,
+                    "answers": "more than 500 construction workers and more than 10 construction machinery vehicles|nsubj\tconstruction machinery|compound\tmore than 10 construction machinery vehicles|conj\tof Yesterday|prep"
+                },
+                {
+                    "question": "How many beds did the construction workers and vehicles manage to place?",
+                    "score": 0.6396,
+                    "answers": "to place more than 100 beds|xcomp\tmore than 100 beds|dobj"
+                },
+                {
+                    "question": "How many additional construction workers were added to the power grid in South Africa today?",
+                    "score": 0.6225,
+                    "answers": "the remaining 900|pobj"
+                },
+                {
+                    "question": "What was the transfer of the remaining 900 beds?",
+                    "score": 0.5934,
+                    "answers": "the transfer of the remaining 900|dobj"
+                },
+                {
+                    "question": "How many internet connections were made?",
+                    "score": 0.5789,
+                    "answers": "electrical , water and even internet connections were made|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The first patients were admitted at 10:30 a.m. The coronavirus has killed at least 131 people, all in China, and has affected more than 6 people.",
+            "question_answers": [
+                {
+                    "question": "When were the first patients admitted?",
+                    "answer": "29/01/2020"
+                },
+                {
+                    "question": "How many people have been killed by the coronavirus?",
+                    "answer": "131"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When were the first patients admitted to China?",
+                    "score": 0.8434,
+                    "answers": "that The first patients were admitted at 10:30 a.m.|ccomp"
+                },
+                {
+                    "question": "How many people have died from the coronavirus in China?",
+                    "score": 0.8054,
+                    "answers": "The first patients|nsubjpass"
+                },
+                {
+                    "question": "What is the death rate of coronavirus in China?",
+                    "score": 0.7714,
+                    "answers": "10:30|nummod"
+                },
+                {
+                    "question": "How many people were killed by the coronavirus in China in 2015?",
+                    "score": 0.7704,
+                    "answers": "www.larazon.es|nsubj\ton 29/01/2020|prep\tthat|mark\tThe|det\twere|auxpass\tThe|det\thas|aux\tat|advmod\tat least 131 people|dobj\t,|punct\t,|punct\tand|cc\thas|aux\tmore|amod\tthan|quantmod\tmore than 6 people|dobj"
+                },
+                {
+                    "question": "What is the coronavirus?",
+                    "score": 0.7577,
+                    "answers": "The coronavirus|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "000 all over the world.",
+            "question_answers": [
+                {
+                    "question": "Where did the website say they were?",
+                    "answer": "all over the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many countries have signed up for the \"lone wolf\" program?",
+                    "score": 0.8517,
+                    "answers": "all over the world|prep"
+                },
+                {
+                    "question": "What is the world's population?",
+                    "score": 0.8354,
+                    "answers": "the world|pobj"
+                },
+                {
+                    "question": "How many people have been connected to the word \"lone wolf\"?",
+                    "score": 0.816,
+                    "answers": "all|advmod\tthe|det"
+                },
+                {
+                    "question": "How many people are in the world each year?",
+                    "score": 0.7761,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the number of people that are in the world?",
+                    "score": 0.745,
+                    "answers": "that 000 all over the world|dep"
+                }
+            ]
+        },
+        {
+            "claim": "Until yesterday, four people from Huanggang lost their lives to the deadly virus and 213 people were infected.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many people died of Huanggang virus in 2015?",
+                    "score": 0.8072,
+                    "answers": "www.larazon.es|nsubj\ton 29/01/2020|prep\tthat|mark\t,|punct\tfour people from Huanggang|nsubj\tfrom Huanggang|prep\ttheir|poss\tthe|det\tdeadly|amod\tand|cc\twere|auxpass"
+                },
+                {
+                    "question": "How many people were infected by the deadly virus?",
+                    "score": 0.7928,
+                    "answers": "www.larazon.es said on 29/01/2020 that Until yesterday , four people from Huanggang lost their lives to the deadly virus and 213 people were infected|ROOT\ttheir lives|dobj\tthe deadly virus|pobj\t213 people|nsubjpass\t213 people were infected|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Although the Huanggang Coronavirus Hospital was the first to open, it was not the first to be planned.",
+            "question_answers": [
+                {
+                    "question": "What hospital was the first to open?",
+                    "answer": "Huanggang Coronavirus Hospital"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Huanggang Coronavirus Hospital open?",
+                    "score": 0.8975,
+                    "answers": "Huanggang|compound"
+                },
+                {
+                    "question": "When was the first Coronavirus Hospital opened?",
+                    "score": 0.896,
+                    "answers": "Coronavirus|compound"
+                },
+                {
+                    "question": "What was the first hospital to open in China?",
+                    "score": 0.8642,
+                    "answers": "www.larazon.es said on 29/01/2020 that Although the Huanggang Coronavirus Hospital was the first to open , it was not the first to be planned|ROOT\tthat|mark\tAlthough|mark\tthe|det\tAlthough the Huanggang Coronavirus Hospital was the first to open|advcl\tthe|det\tto|aux\tthat Although the Huanggang Coronavirus Hospital was the first to open , it was not the first to be planned|ccomp\tnot|neg\tthe|det\tthe first to be planned|attr\tto|aux\tbe|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "The Wuhan government announced last Thursday that they would build a coronavirus hospital in a week.",
+            "question_answers": [
+                {
+                    "question": "What did the Wuhan government say they would build in a week?",
+                    "answer": "a coronavirus hospital"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the Wuhan government announce that they would build a coronavirus hospital?",
+                    "score": 0.8591,
+                    "answers": "that The Wuhan government announced last Thursday that they would build a coronavirus hospital in a week|ccomp"
+                },
+                {
+                    "question": "When was the coronavirus hospital built in Wuhan?",
+                    "score": 0.8456,
+                    "answers": "that they would build a coronavirus hospital in a week|ccomp"
+                },
+                {
+                    "question": "What did the Wuhan government say about building a coronavirus hospital?",
+                    "score": 0.8309,
+                    "answers": "would|aux"
+                },
+                {
+                    "question": "What is the name of the coronavirus hospital in Wuhan?",
+                    "score": 0.6739,
+                    "answers": "www.larazon.es|nsubj\ton 29/01/2020|prep\tthat|mark\tThe|det\tthat|mark\tthey|nsubj\ta|det\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "There are at least four of these facilities completed or in process in the country.",
+            "question_answers": [
+                {
+                    "question": "How many facilities are in the country?",
+                    "answer": "at least four"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many of these facilities have been completed or in process?",
+                    "score": 0.8445,
+                    "answers": "www.larazon.es said on 29/01/2020 that There are at least four of these facilities completed or in process in the country|ROOT\tthat There are at least four of these facilities completed or in process in the country|ccomp\tthese facilities|pobj\tcompleted or in process|acl\tin process|conj\tthe country|pobj"
+                },
+                {
+                    "question": "How many facilities are being completed or in process in the country?",
+                    "score": 0.8303,
+                    "answers": "in the country|prep"
+                }
+            ]
+        },
+        {
+            "claim": "They are all modeled at a temporary medical center in Beijing in 2003, which was built in seven days to combat SARS and treated a seventh of the country's SARS patient in a two-month period.",
+            "question_answers": [
+                {
+                    "question": "Where are the Larazon facilities located?",
+                    "answer": "a temporary medical center in Beijing"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take to treat a SARS patient?",
+                    "score": 0.8143,
+                    "answers": "two - month|compound"
+                },
+                {
+                    "question": "How many SARS patients did China treat in a two month period in 2003?",
+                    "score": 0.7983,
+                    "answers": "a seventh of the country 's SARS patient|dobj"
+                },
+                {
+                    "question": "Where was the SARS patient treated in China in 2003?",
+                    "score": 0.7961,
+                    "answers": "temporary|amod"
+                },
+                {
+                    "question": "Who was the country's SARS patient in 2003?",
+                    "score": 0.7427,
+                    "answers": "the country 's SARS patient|pobj"
+                },
+                {
+                    "question": "How many people were treated in the SARS patient at the Chinese medical center in 2003?",
+                    "score": 0.7369,
+                    "answers": "seven|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "Wuhan's authority is building two special facilities to treat a total of 2.",
+            "question_answers": [
+                {
+                    "question": "How many special facilities is Wuhan building to treat a total of?",
+                    "answer": "two"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many special facilities does Wuhan authority have?",
+                    "score": 0.7893,
+                    "answers": "a total of 2|dobj"
+                },
+                {
+                    "question": "What is Wuhan's authority on medical facilities?",
+                    "score": 0.6822,
+                    "answers": "Wuhan 's authority|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "300 patients with coronavirus.",
+            "question_answers": [
+                {
+                    "question": "How many patients had coronavirus on 29/01/2020?",
+                    "answer": "300"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people have coronavirus?",
+                    "score": 0.8816,
+                    "answers": "www.larazon.es said on 29/01/2020 that 300 patients with coronavirus|ROOT\tthat 300 patients with coronavirus|ccomp"
+                },
+                {
+                    "question": "What is coronavirus?",
+                    "score": 0.8516,
+                    "answers": "coronavirus|pobj"
+                },
+                {
+                    "question": "How many people were infected with coronavirus in 2020?",
+                    "score": 0.8515,
+                    "answers": "www.larazon.es|nsubj\tthat|mark\twith coronavirus|prep"
+                }
+            ]
+        }
+    ]
+}

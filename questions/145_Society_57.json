@@ -1,0 +1,351 @@
+{
+    "id": "145_Society_57",
+    "claim": "More than  letters are published in France that highlight that, beyond family ties, there was a therapeutic backgroundThe unpublished correspondence that Sigmund Freud maintained with his daughter Anna sees light for the first time with the publication in France of near  letters that were sent between  and , in which it is evident that beyond the family bond there was a therapeutic goal. The close relationship that the Austrian maintained with the smallest of his children also reflects that psychoanalysis traced the link between father and daughter, of which Freud became his analyst twice between  and . These letters, which Fayard editorial describes as a 'precious historical document ', are also a chronicle of the life of that Vienna family during the early decades of the twentieth century. And with them it is proven how psychoanalysis marked the minor, who became involved in the International Psychoanalytic Association, let himself be courted by some students of his father and ended up dedicated to the therapy of minors, becoming in that field the main representative of the Viennese school.'Looking at you, I realize how old I am, 'cause you're exactly the same age as psychoanalysis. You have both caused me concerns, but deep down I expect from you more joys than yours ', Freud told Anna at the end of . The book 'Sigmund Freud, Anna Freud. Correspondance *PHONE* 'is put on sale tomorrow, and it allows according to its publisher to discover details of this doctor in medicine and researcher, considered the father of psychoanalysis, both in his daily life and in his professional facet. The letters are headed by a 'My dear Anna 'or 'Dear Dad ', and let us also glimpse how in the beginnings of psychoanalysis this practice was tested in the circles of the initiates and in the family. Although Anna was the only one analyzed by her father, the moral reference she exercised on the rest of her descendants finds her own space in another book arriving tomorrow in France, 'Lettres à ses enfants ', with a compilation of letters sent to Mathilde, Martin, Olivier, Ernst and Sophie between  and . In them Freud manifested 'a profound and palpable humanity ', in which he seems to avoid moralizing attitudes and gives priority to understanding and listening. 'It has been a precious experience for me to learn how much one of his own children can receive ', he told Ernst in November of , which for the publisher Aubier only makes his figure greater. I'm sorry.",
+    "source": "elpais.com",
+    "date": "17/10/2012",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "More than  letters are published in France that highlight that, beyond family ties, there was a therapeutic backgroundThe unpublished correspondence that Sigmund Freud maintained with his daughter Anna sees light for the first time with the publication in France of near  letters that were sent between  and , in which it is evident that beyond the family bond there was a therapeutic goal.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Sigmund Freud say about his correspondence with Anna?",
+                    "score": 0.823,
+                    "answers": "that highlight that , beyond family ties , there was|relcl"
+                },
+                {
+                    "question": "How many letters were sent between Sigmund Freud and Anna?",
+                    "score": 0.7313,
+                    "answers": "that were sent between|relcl"
+                },
+                {
+                    "question": "How many letters are published in France?",
+                    "score": 0.7146,
+                    "answers": "that More than   letters that highlight that , beyond family ties , there was are published in France|dep"
+                },
+                {
+                    "question": "What is Sigmund Freud's relationship with Anna?",
+                    "score": 0.6985,
+                    "answers": "on 17/10/2012|prep\tbeyond family ties|prep\tfamily ties|pobj\tthat , beyond family ties , there was|ccomp\tunpublished correspondence that Sigmund Freud maintained with his daughter Anna near   letters that were sent between in which it is evident that beyond the family bond there was a therapeutic goal|nsubj\tSigmund|compound\tthat Sigmund Freud maintained with his daughter Anna|relcl\tletters that were sent between|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The close relationship that Sigmund Freud maintained with his daughter Anna also reflects that psychoanalysis traced the link between Sigmund Freud and daughter, of which Sigmund Freud became analyst twice between  and .",
+            "question_answers": [
+                {
+                    "question": "What website reported that Sigmund Freud had a close relationship with his daughter Anna?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Sigmund Freud's relationship with Anna?",
+                    "score": 0.7355,
+                    "answers": "elpais.com reported on 17/10/2012 that The close relationship that Sigmund Freud maintained with his daughter Anna also reflects that psychoanalysis traced the link between Sigmund Freud and daughter , of which Sigmund Freud became analyst twice between   and|ROOT\tThe|det\tThe close relationship that Sigmund Freud maintained with his daughter Anna|nsubj\tSigmund|compound\tthat Sigmund Freud maintained with his daughter Anna|relcl\twith his daughter Anna|prep\this daughter Anna|pobj\tthat The close relationship that Sigmund Freud maintained with his daughter Anna also reflects that psychoanalysis traced the link between Sigmund Freud and daughter , of which Sigmund Freud became analyst twice between|ccomp\tthat psychoanalysis traced the link between Sigmund Freud and daughter , of which Sigmund Freud became analyst twice between|ccomp\tthe link between Sigmund Freud and daughter , of which Sigmund Freud became analyst twice between|dobj\tSigmund|compound\tand|cc\tof which|dep\twhich|pobj\tSigmund|compound\tof which Sigmund Freud became analyst twice between|relcl\tanalyst|attr\ttwice|advmod\ttwice between|prep\tand|cc"
+                },
+                {
+                    "question": "Who was Sigmund Freud's daughter?",
+                    "score": 0.7088,
+                    "answers": "daughter|conj"
+                }
+            ]
+        },
+        {
+            "claim": "More than  letters , are also a chronicle of the life of that Vienna family during the early decades of the twentieth century.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What was the life of the Vienna family during the early decades of the 20th century?",
+                    "score": 0.6421,
+                    "answers": "during the early decades of the twentieth century|prep\tof the twentieth century|prep\tthe twentieth century|pobj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4556,
+                    "answers": "of the life of that Vienna family during the early decades of the twentieth century|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And with More than  letters it is proven how psychoanalysis marked the minor, who became involved in the International Psychoanalytic Association, let himself be courted by some students of Sigmund Freud and ended up dedicated to the therapy of minors , becoming in the therapy of minors the main representative of the Viennese school.",
+            "question_answers": [
+                {
+                    "question": "What was the main representative of the Viennese school?",
+                    "answer": "the therapy of minors"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Sigmund Freud do to become the main representative of the Viennese school?",
+                    "score": 0.6897,
+                    "answers": "on 17/10/2012|prep\tMore than|pobj\tlet himself be courted by some students of Sigmund Freud and ended up dedicated to the therapy of minors , becoming in the therapy of minors the main representative of the Viennese school|conj"
+                },
+                {
+                    "question": "What was Sigmund Freud's relationship with minors?",
+                    "score": 0.6773,
+                    "answers": "himself be courted by some students of Sigmund Freud|ccomp"
+                },
+                {
+                    "question": "How many students of Sigmund Freud were involved in the Viennese school?",
+                    "score": 0.662,
+                    "answers": "by some students of Sigmund Freud|agent"
+                },
+                {
+                    "question": "Who was Sigmund Freud?",
+                    "score": 0.657,
+                    "answers": "of Sigmund Freud|prep\tSigmund|compound"
+                },
+                {
+                    "question": "What was the relationship between Sigmund Freud and the minor who became involved in the International Psychoanalytic Association?",
+                    "score": 0.6502,
+                    "answers": "it is proven how psychoanalysis marked the minor , who became involved in the International Psychoanalytic Association , let himself be courted by some students of Sigmund Freud and ended up dedicated to the therapy of minors , becoming in the therapy of minors the main representative of the Viennese school|ccomp\thow|advmod\thimself|nsubjpass\tsome|det"
+                }
+            ]
+        },
+        {
+            "claim": "'Looking at his daughter Anna , Sigmund Freud realize how old Sigmund Freud am, 'cause his daughter Anna 're exactly the same age as psychoanalysis.",
+            "question_answers": [
+                {
+                    "question": "What was the name of Sigmund Freud's daughter?",
+                    "answer": "Anna"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How old was Sigmund Freud's daughter Anna?",
+                    "score": 0.8206,
+                    "answers": "Looking at his daughter Anna|advcl\tat his daughter Anna|prep\this daughter Anna|pobj\this daughter Anna|nsubj\t'cause his daughter Anna 're exactly the same age as psychoanalysis|advcl"
+                },
+                {
+                    "question": "How old is Sigmund Freud?",
+                    "score": 0.788,
+                    "answers": "how old Sigmund Freud am|ccomp"
+                },
+                {
+                    "question": "What age is Sigmund Freud?",
+                    "score": 0.782,
+                    "answers": "elpais.com reported on 17/10/2012 that ' Looking at his daughter Anna , Sigmund Freud realize how old Sigmund Freud am , 'cause his daughter Anna 're exactly the same age as psychoanalysis|ROOT\ton 17/10/2012|prep\tthat|mark\t'|punct\this|poss\t,|punct\tSigmund|compound\tthat ' Looking at his daughter Anna , Sigmund Freud realize how old Sigmund Freud am , 'cause his daughter Anna 're exactly the same age as psychoanalysis|ccomp\thow|advmod\thow old|acomp\tSigmund|compound\t,|punct\t'cause|mark\this|poss\texactly|advmod\tthe|det\tsame|amod\texactly the same age as psychoanalysis|attr\tas psychoanalysis|prep\tpsychoanalysis|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "his daughter Anna have both caused Sigmund Freud concerns, but deep down Sigmund Freud expect from his daughter Anna more joys than ', Sigmund Freud told his daughter Anna at the end of .",
+            "question_answers": [
+                {
+                    "question": "What did Sigmund Freud expect from his daughter Anna?",
+                    "answer": "more joys than"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Sigmund Freud say about Anna?",
+                    "score": 0.7814,
+                    "answers": "deep down Sigmund Freud expect from his daughter Anna more joys than ' ,|conj"
+                },
+                {
+                    "question": "What is Sigmund Freud's relationship with Anna?",
+                    "score": 0.6781,
+                    "answers": "elpais.com reported on 17/10/2012 that his daughter Anna have both caused Sigmund Freud concerns , but deep down Sigmund Freud expect from his daughter Anna more joys than ' ,|ccomp\ton 17/10/2012|prep\tthat|mark\thave|aux\tthat his daughter Anna have both caused Sigmund Freud concerns|ccomp\tSigmund|compound\tSigmund Freud concerns|dobj\tdeep|advmod\tdeep down|advmod\tSigmund|compound\tmore joys than ' ,|dobj\tthan ' ,|prep\t'|pobj\tSigmund|compound\telpais.com reported on 17/10/2012 that his daughter Anna have both caused Sigmund Freud concerns , but deep down Sigmund Freud expect from his daughter Anna more joys than ' , Sigmund Freud told his daughter Anna at the end of|ROOT"
+                },
+                {
+                    "question": "What was the relationship between Sigmund Freud and Anna?",
+                    "score": 0.6621,
+                    "answers": "both|dep"
+                }
+            ]
+        },
+        {
+            "claim": "The book 'Sigmund Freud , his daughter Anna .",
+            "question_answers": [
+                {
+                    "question": "What book did elpais.com report on 17/10/2012?",
+                    "answer": "'Sigmund Freud"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who wrote Sigmund Freud?",
+                    "score": 0.8865,
+                    "answers": "elpais.com reported on 17/10/2012 that The book ' Sigmund Freud , his daughter Anna|ROOT\tthat The book ' Sigmund Freud , his daughter Anna|dobj\tSigmund Freud , his daughter Anna|appos"
+                },
+                {
+                    "question": "Who wrote the book \"Sigmund Freud\"?",
+                    "score": 0.8851,
+                    "answers": "that|mark\tThe|det"
+                },
+                {
+                    "question": "What is Sigmund Freud?",
+                    "score": 0.7764,
+                    "answers": "Sigmund|compound"
+                },
+                {
+                    "question": "What is the name of Sigmund Freud's book?",
+                    "score": 0.7476,
+                    "answers": "'|punct\this|poss"
+                }
+            ]
+        },
+        {
+            "claim": "Correspondance *PHONE* 'is put on sale tomorrow, and it allows according to its publisher to discover details of this doctor in medicine and researcher, considered the father of psychoanalysis, both in his daily life and in his professional facet.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report was put on sale tomorrow?",
+                    "answer": "Correspondance *PHONE*"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the father of psychoanalysis?",
+                    "score": 0.5192,
+                    "answers": "to discover details of this doctor in medicine and researcher , considered the father of psychoanalysis , both in his daily life and in his professional facet|xcomp\tdetails of this doctor in medicine and researcher , considered the father of psychoanalysis , both in his daily life and in his professional facet|dobj\tof this doctor in medicine and researcher , considered the father of psychoanalysis , both in his daily life and in his professional facet|prep\tthis doctor in medicine and researcher , considered the father of psychoanalysis , both in his daily life and in his professional facet|pobj\tresearcher|conj\tthe father of psychoanalysis|oprd\tpsychoanalysis|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The letters are headed by a 'My dear Anna 'or 'Dear Dad ', and let us also glimpse how in the beginnings of psychoanalysis this practice was tested in the circles of the initiates and in the family.",
+            "question_answers": [
+                {
+                    "question": "What are the letters headed by?",
+                    "answer": "'My dear Anna 'or 'Dear Dad"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many letters are headed by a 'My dear Anna' or'Dear Dad'?",
+                    "score": 0.6591,
+                    "answers": "The letters|nsubjpass"
+                },
+                {
+                    "question": "What was the practice of psychoanalysis in the circles of the initiates and in the family?",
+                    "score": 0.5998,
+                    "answers": "this practice|nsubjpass"
+                },
+                {
+                    "question": "What was the beginning of psychoanalysis?",
+                    "score": 0.5991,
+                    "answers": "how in the beginnings of psychoanalysis this practice was tested in the circles of the initiates and in the family|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the letter \"My dear Anna or \" Dear Dad\" and psychoanalysis?",
+                    "score": 0.5749,
+                    "answers": "of the initiates|prep\tthe family|pobj"
+                },
+                {
+                    "question": "What is the study of psychoanalysis?",
+                    "score": 0.566,
+                    "answers": "let us also glimpse how in the beginnings of psychoanalysis this practice was tested in the circles of the initiates and in the family|conj\tpsychoanalysis|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Although Anna was the only one analyzed by her father, the moral reference she exercised on the rest of her descendants finds her own space in another book arriving tomorrow in France, 'Lettres à ses enfants ', with a compilation of letters sent to Mathilde, Martin, Olivier, Ernst and Sophie between  and .",
+            "question_answers": [
+                {
+                    "question": "What is the name of the book that will arrive in France tomorrow?",
+                    "answer": "'Lettres à ses enfants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many letters were sent to Mathilde, Martin, Ernst, and Sophie?",
+                    "score": 0.6025,
+                    "answers": "sent to Mathilde , Martin , Olivier , Ernst and Sophie between   and|acl"
+                },
+                {
+                    "question": "How many books has Anna analyzed by her father?",
+                    "score": 0.5931,
+                    "answers": "elpais.com reported on 17/10/2012 that Although Anna was the only one analyzed by her father , the moral reference she exercised on the rest of her descendants finds her own space in another book arriving tomorrow in France , ' Lettres à ses enfants ' , with a compilation of letters sent to Mathilde , Martin , Olivier , Ernst and Sophie between   and|ROOT\ton 17/10/2012|prep\tAlthough Anna was the only one analyzed by her father|advcl\tthe only one analyzed by her father|attr\tthat Although Anna was the only one analyzed by her father , the moral reference she exercised on the rest of her descendants finds her own space in another book arriving tomorrow in France , ' Lettres à ses enfants ' , with a compilation of letters sent to Mathilde , Martin , Olivier , Ernst and Sophie between   and|ccomp"
+                },
+                {
+                    "question": "What is Lettres à ses enfants?",
+                    "score": 0.5215,
+                    "answers": "Lettres|nmod"
+                },
+                {
+                    "question": "What is the name of the book that Anna wrote with her father?",
+                    "score": 0.5198,
+                    "answers": "in another book arriving tomorrow in France , ' Lettres à ses enfants ' , with a compilation of letters sent to Mathilde , Martin , Olivier , Ernst and Sophie between   and|prep\tanother book arriving tomorrow in France , ' Lettres à ses enfants ' , with a compilation of letters sent to Mathilde , Martin , Olivier , Ernst and Sophie between   and|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Anna's moral reference from her father?",
+                    "score": 0.51,
+                    "answers": "that|mark\tAlthough|mark\tthe|det\tonly|amod\tby her father|agent\ther|poss\ther father|pobj\t,|punct\tthe|det\tmoral|amod\tthe moral reference she exercised on the rest of her descendants|nsubj\tshe|nsubj\tshe exercised on the rest of her descendants|relcl\ton the rest of her descendants|prep\tthe|det\tthe rest of her descendants|pobj\tof her descendants|prep\ther|poss\ther descendants|pobj\ther|poss\town|amod\ther own space|dobj\tanother|det\tarriving tomorrow in France|acl\tin France|prep\t,|punct\t'|punct\tà|nmod\tses|nmod\t'|punct\t,|punct\ta|det\t,|punct\t,|punct\tOlivier , Ernst and Sophie|conj\t,|punct\tErnst and Sophie|conj\tand|cc\tbetween   and|prep\t  and|dep\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "In them Freud manifested 'a profound and palpable humanity ', in which he seems to avoid moralizing attitudes and gives priority to understanding and listening.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report that Freud manifested?",
+                    "answer": "profound and palpable humanity"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does elpais.com say about Freud?",
+                    "score": 0.7014,
+                    "answers": "elpais.com reported on 17/10/2012 that In them Freud manifested ' a profound and palpable humanity ' , he seems to avoid moralizing attitudes and gives priority to understanding and in which listening|ROOT\tthem|pobj\t'|punct\t' a profound and palpable humanity ' , he seems to avoid moralizing attitudes and gives priority to understanding and in which listening|dobj\t'|punct\twhich|pobj\the|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between Freud and humanity?",
+                    "score": 0.6044,
+                    "answers": "that|mark\tto|aux"
+                },
+                {
+                    "question": "What is the definition of moralizing attitudes?",
+                    "score": 0.5826,
+                    "answers": "moralizing attitudes|xcomp"
+                },
+                {
+                    "question": "What does elpais.com do?",
+                    "score": 0.5763,
+                    "answers": "a|det\tand|cc\tpalpable|conj\t,|punct\tand|cc\tpriority|dobj\tand|cc"
+                },
+                {
+                    "question": "What is the meaning of the term \"deep and palpable humanity\"?",
+                    "score": 0.5443,
+                    "answers": "profound and palpable|amod"
+                }
+            ]
+        },
+        {
+            "claim": "'It has been a precious experience for me to learn how much one of his own children can receive ', he told Ernst in November of , which for the publisher Aubier only makes his figure greater.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com tell Ernst about his experience?",
+                    "answer": "November of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Aubier tell Ernst in November of 2012 about how much one child can receive?",
+                    "score": 0.6447,
+                    "answers": "how|advmod"
+                },
+                {
+                    "question": "What does it mean to learn how much one's own children can receive?",
+                    "score": 0.6424,
+                    "answers": "It has been a precious experience for me to learn how much one of his own children can receive|ccomp"
+                },
+                {
+                    "question": "What is the average salary of a publisher?",
+                    "score": 0.5974,
+                    "answers": "that ' It has been a precious experience for me to learn how much one of his own children can receive ' , he told Ernst in November of , which for the publisher Aubier only makes his figure greater|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the publisher Aubier and his children?",
+                    "score": 0.5634,
+                    "answers": "a|det\tcan|aux"
+                },
+                {
+                    "question": "Who is the publisher of Elpais.com?",
+                    "score": 0.4968,
+                    "answers": "one of his own children|nsubj\tthe publisher|pobj"
+                }
+            ]
+        }
+    ]
+}

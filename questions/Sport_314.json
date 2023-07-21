@@ -1,0 +1,216 @@
+{
+    "id": "Sport_314",
+    "claim": "A priest of a parish in the city of Madrid has been expedient and his case will be studied by the Catholic Church after having been denounced by some parishioners. Apparently the priest had a small portable television in the confessional, to watch the Madrid matches when they coincided with the confessional schedules. Some parishioners were surprised by a light coming from inside the confessional, as well as by small jumps and drowning screams that the priest suddenly gave, as if he were looking after something else. Finally in an oversight of the parish priest they dared to inspect the cabin discovering the television. The priest, once discovered, defended himself from the accusations.'I can perfectly do two things at once, attend confessions and watch television, it's not that hard. What is not very Christian is to pretend that Madrid plays Champions and that I miss it'",
+    "source": "haynoticia.es",
+    "date": "31/01/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A priest of a parish in the city of Madrid has been expedient and his case will be studied by the Catholic Church after having been denounced by some parishioners.",
+            "question_answers": [
+                {
+                    "question": "Who did haynoticia.es say was expedient?",
+                    "answer": "A priest of a parish in the city of Madrid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many parishioners denounced a priest of a parish in the city of Madrid?",
+                    "score": 0.7756,
+                    "answers": "by some parishioners|agent"
+                },
+                {
+                    "question": "What was the name of the priest who was denounced by the Catholic Church after being denounced by some parishioners?",
+                    "score": 0.6729,
+                    "answers": "of a parish in the city of Madrid|prep\ta parish in the city of Madrid|pobj\tafter having been denounced by some parishioners|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Apparently the priest had a small portable television in the confessional, to watch the Madrid matches when they coincided with the confessional schedules.",
+            "question_answers": [
+                {
+                    "question": "Who said that the priest had a small portable television in the confessional?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What kind of television did the priest use to watch the Madrid matches?",
+                    "score": 0.7978,
+                    "answers": "portable|amod\ta small portable television|dobj"
+                },
+                {
+                    "question": "When did the priest have a small portable television in the confessional?",
+                    "score": 0.7772,
+                    "answers": "when they coincided with the confessional schedules|advcl"
+                },
+                {
+                    "question": "Where did the priest watch the Madrid matches during the confessional schedules?",
+                    "score": 0.7688,
+                    "answers": "confessional|compound"
+                },
+                {
+                    "question": "What did the priest do with the confessional schedules?",
+                    "score": 0.7303,
+                    "answers": "with the confessional schedules|prep"
+                },
+                {
+                    "question": "What was the purpose of the confessional schedules?",
+                    "score": 0.7203,
+                    "answers": "the confessional schedules|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Some parishioners were surprised by a light coming from inside the confessional, as well as by small jumps and drowning screams that the priest suddenly gave, as if he were looking after something else.",
+            "question_answers": [
+                {
+                    "question": "Who said that some parishioners were surprised by a light coming from inside the confessional?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many parishioners were surprised by a light coming from inside the confessional?",
+                    "score": 0.6924,
+                    "answers": "Some parishioners|nsubjpass"
+                },
+                {
+                    "question": "What did the priest say to the parishioners?",
+                    "score": 0.6314,
+                    "answers": "that the priest suddenly gave , as if he were looking after something else|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of the light coming from the confessional?",
+                    "score": 0.5791,
+                    "answers": "haynoticia.es said on 31/01/2018 that Some parishioners were surprised by a light coming from inside the confessional , as well as by small jumps and drowning screams that the priest suddenly gave , as if he were looking after something else|ROOT"
+                },
+                {
+                    "question": "What was the name of the priest who suddenly gave a drowning scream?",
+                    "score": 0.5627,
+                    "answers": "the priest|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Finally in an oversight of the parish priest they dared to inspect the cabin discovering the television.",
+            "question_answers": [
+                {
+                    "question": "Who did haynoticia.es oversight?",
+                    "answer": "the parish priest"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who discovered the television?",
+                    "score": 0.6823,
+                    "answers": "that|mark\tFinally|advmod\tan|det\tof the parish priest|prep\tthe|det\tthey|nsubj\tthe|det\tthe|det\tthe television|dobj"
+                },
+                {
+                    "question": "Who discovered the television in the cabin?",
+                    "score": 0.6767,
+                    "answers": "the cabin|dobj"
+                },
+                {
+                    "question": "What did the parish priest discover in the cabin?",
+                    "score": 0.6116,
+                    "answers": "discovering the television|advcl"
+                },
+                {
+                    "question": "Who was the parish priest who discovered the television?",
+                    "score": 0.5645,
+                    "answers": "the parish priest|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The priest, once discovered, defended himself from the accusations.",
+            "question_answers": [
+                {
+                    "question": "Who said that the priest, once discovered, defended himself from the accusations?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What were the accusations against the priest?",
+                    "score": 0.8228,
+                    "answers": "the accusations|pobj"
+                },
+                {
+                    "question": "What did the priest do to defend himself?",
+                    "score": 0.8203,
+                    "answers": "from the accusations|prep"
+                },
+                {
+                    "question": "What was the name of the priest who defended himself?",
+                    "score": 0.7535,
+                    "answers": "haynoticia.es said on 31/01/2018 that The priest , once discovered , defended himself from the accusations|ROOT\ton 31/01/2018|prep\tthat|mark\tThe|det\tThe priest|nsubj\t,|punct\tonce|advmod\t,|punct\tthat The priest , once discovered , defended himself from the accusations|ccomp\thimself|dobj\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'I can perfectly do two things at once, attend confessions and watch television, it's not that hard.",
+            "question_answers": [
+                {
+                    "question": "Who said on 31/01/2018 that 'I can perfectly do two things at once, attend confessions and watch television'?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How hard is it to attend confessions and watch television?",
+                    "score": 0.7396,
+                    "answers": "that hard|acomp"
+                },
+                {
+                    "question": "How many things can you attend confession and watch television?",
+                    "score": 0.7081,
+                    "answers": "confessions|dobj"
+                },
+                {
+                    "question": "What is the definition of watching television?",
+                    "score": 0.5893,
+                    "answers": "watch television|conj"
+                },
+                {
+                    "question": "What are the two things that one can do at once?",
+                    "score": 0.5479,
+                    "answers": "two things|dobj"
+                },
+                {
+                    "question": "What is Haynoticia?",
+                    "score": 0.5262,
+                    "answers": "that|mark\tI|nsubj\tand|cc\tit|nsubj\tnot|neg\tthat|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "What is not very Christian is to pretend that Madrid plays Champions and that I miss it'.",
+            "question_answers": [
+                {
+                    "question": "Who said on 31/01/2018 that What not very Christian to pretend that Madrid plays Champions and that I miss it?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What clubs does Madrid play?",
+                    "score": 0.9089,
+                    "answers": "that Madrid plays Champions and that I miss it|advcl"
+                },
+                {
+                    "question": "What does it mean to miss a Champions League?",
+                    "score": 0.8497,
+                    "answers": "to pretend that Madrid plays Champions and that I miss it|xcomp"
+                },
+                {
+                    "question": "What is the relationship between Real Madrid and Haynoticia?",
+                    "score": 0.6483,
+                    "answers": "on 31/01/2018|prep\tthat|mark\tnot|neg\tvery|advmod\tthat|mark\tand|cc\tthat|mark\tthat I miss it|conj\t'|punct"
+                }
+            ]
+        }
+    ]
+}

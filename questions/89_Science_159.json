@@ -1,0 +1,1681 @@
+{
+    "id": "89_Science_159",
+    "claim": "Professor Jeff Hancock, Stanford University, likes to leave as homework exercises that allow his students to practice the theory they see in classes. Before , he challenged his students to stay  hours away from the network, and then discuss in the classroom what the observed effects had been. In the , Hancock returned after a sabbatical year and tried to perform the same exercises.'When I tried to propose this challenge, there was a revolt in the class. They emphatically said that this task was impossible and unjust ', he says. The students argued that, being off the Internet for a weekend, they would not be able to complete the tasks corresponding to other subjects. In addition, this 'absence 'of the digital world would ruin their social lives and generate concern among their family and friends, who would be distressed by the fear that something terrible would have happened to them. Hancock understood the arguments and canceled the task. All ConnectedIn , less than % of the population was connected to the Internet. By that time the network was a curiosity, used more than anything in the West. Today, more than  millions of people, almost half of humanity, connect to the network and the number continues to grow at a rate of  new users per second. According to the Pew Research Center, one fifth of the U.S. population uses the Internet 'almost continuously 'and % says it connects at least once a day. For many, it is virtually impossible to imagine life without the internet.'One of our biggest network problems these days is that people give it as an automatic fact. They do not understand the degree of penetration we have given them in almost every aspect of our lives ', comments William Dutton of Michigan State University.'They don't even think about the possibility of not having access'. What may failInternet is not inviolable. In theory, it could disappear nationally or globally for a certain period of time. For example, a cyber attack could occur. If hackers insert into the network a malicious software that affects routers, traffic in the network would be blocked. Someone could cut the wires that allow data traffic across continents. They may not be an easy target for hackers, because they are deep in the sea, but an accidental breakdown is feasible, as happened in the , when people in India, the Middle East and Southeast Asia were disconnected. On the other hand, some governments have the so-called 'switches 'to 'turn off 'the Internet in their countries, although not easy to achieve. The larger and more developed the country, the more difficult this scenario is due to the high number of connections within and outside its borders. The most severe blow that the internet could take would come from space. A huge solar storm would destroy satellites, power cells and computer systems. 'What bombs and terrorism cannot accomplish could happen in moments with a solar storm ', says David Eagleman, a neuroscientist at Stanford University. 'Giant geomagnetic storms will eventually reach us ', he says. Faced with these scenarios, it highlights the hope that the disconnection will not last long. 'Internet service providers and companies have plans and trained personnel to fix things if something happens ', explains Scott Borg, representative of Cyber Consequences Unit. However, we are so used to having the internet available all the time, that even a minor failure can have an effect. Not the ones you might imagine. What will happenTo begin with, the impact on the economy may not be so severe. In the , the U.S. Department of Homeland Security asked Borg to evaluate what would happen if the internet failed. Borg and his team have been working from the  the impact of such events on the economy. The study evaluates quarterly financial reports of  companies that may be among the most affected, as well as economic statistics in general. The investigation was based on a scenario of a failure of no more than four days. The fall of the internet would have a surprisingly insignificant financial effect. In particular, some people would be behind in their jobs, but 'the economy is made to continue to function with what would essentially be a long weekend'. In fact, being without a network for a short period of time can even increase productivity, as shown by another study by Borg and his colleagues, who evaluated what would happen in a company that suffered a four-hour or longer Internet cut. Instead of swirling on chairs and killing time, employees focused on doing things that usually stop last: catching up on office paperwork. The experiment gave a new boost to the business. Travel would also not be much affected in the short term, as long as the disconnection does not exceed a day or two. Planes can fly without the internet, and buses and trains can also work. However, long-term restrictions would have an effect on logistics. Eagleman has suggested that people and companies develop a contingency plan in case of a connection failure. Though he laments,'I haven't heard anyone work on it.\". The most affectedThose who could be severely affected would be small businesses and workers. In , a satellite failure left about #NUMBER*% of the  millions of pagers in the United States inactive. In the days following that event, Dutton surveyed  biper users in Los Angeles. The study showed clear socio-economic divisions in people's reaction to the suspension of service. Members of the upper middle class, who had managerial responsibilities or professional jobs, did not perceive disconnection as a very serious problem. 'It was like a snow day or a day off ', says Dutton. Meanwhile, workers or independent workers, such as plumbers and carpenters, were left without work for several days. For their part, single mothers, who usually left their children in day care centers, expressed great stress when they ran out of communication in case of an emergency. Psychological effects 'Most of the Internet is designed for one purpose: to allow us to communicate with each other ', Hancock points out. We're used to connecting with whoever, wherever and whenever. That is why, being disqualified to do so, feelings of anxiety and isolation arise.'When I find out that I left my phone in the house, I feel like I'm naked,'Borg says. On the other hand, 'it is thought that without the Internet people would become sociable, and they would have more contacts with friends and family, but I think that may be a mistake ', alert Dutton. 'Most people who use the Internet are more sociable than those who do not use it'. Maybe the employees of an office will talk more, in case they can't send emails, but the experience would be stressful. However, the feeling may be brief. When we lose the internet we might realize its importance in our lives, but Hancock indicates that we would quickly give it back as a fact, as soon as we connect again. 'I don't think an internet failure will make us change our way of thinking ', he says. And even if he did, Hancock has not yet succeeded in persuading his students to disconnect for a weekend. I'm sorry.",
+    "source": "www.bbc.com",
+    "date": "21/02/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Professor Jeff Hancock, Stanford University , Dutton to leave as the internet that allow his students to practice the Borg his students people in classes.",
+            "question_answers": [
+                {
+                    "question": "Where is Professor Jeff Hancock from?",
+                    "answer": "Stanford University"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Professor Jeff Hancock leave the internet?",
+                    "score": 0.7543,
+                    "answers": "that Professor Jeff Hancock , Stanford University , Dutton to leave as the internet that allow his students to practice the Borg his students people in classes|ccomp"
+                },
+                {
+                    "question": "What did Jeff Hancock do to help students practice the Borg?",
+                    "score": 0.6998,
+                    "answers": "Professor Jeff Hancock , Stanford University , Dutton|nsubj\tStanford|compound"
+                },
+                {
+                    "question": "How many students did Jeff Hancock teach at Stanford University in 2017?",
+                    "score": 0.6749,
+                    "answers": "that|mark\tthat|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of Professor Jeff Hancock's ability to practice the Borg?",
+                    "score": 0.6381,
+                    "answers": "www.bbc.com|nsubj"
+                },
+                {
+                    "question": "What is the Borg?",
+                    "score": 0.5689,
+                    "answers": "that allow his students to practice the Borg his students people in classes|relcl\this students to practice the Borg his students people in classes|ccomp\tthe Borg his students people in classes|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Before , Professor Jeff Hancock, Stanford University challenged their what the observed effects their been.",
+            "question_answers": [
+                {
+                    "question": "When did Professor Jeff Hancock of Stanford University challenge what the observed effects were?",
+                    "answer": "Before"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What effects did Professor Jeff Hancock have on students?",
+                    "score": 0.842,
+                    "answers": "observed|amod"
+                },
+                {
+                    "question": "What did Professor Jeff Hancock, Stanford University say about the study?",
+                    "score": 0.7323,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Before , Professor Jeff Hancock , Stanford University challenged their what the observed effects their been|ROOT"
+                },
+                {
+                    "question": "What are the effects of Professor Jeff Hancock's study?",
+                    "score": 0.7123,
+                    "answers": "Professor Jeff Hancock , Stanford University|nsubj\twhat the observed effects their been|relcl"
+                },
+                {
+                    "question": "What is the relationship between professor Jeff Hancock and students at Stanford University?",
+                    "score": 0.669,
+                    "answers": "Stanford|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In the , Professor Jeff Hancock, Stanford University returned after a people year and tried to perform the the Internet .",
+            "question_answers": [
+                {
+                    "question": "When did Professor Jeff Hancock return to Stanford?",
+                    "answer": "the"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Professor Jeff Hancock do to perform the internet?",
+                    "score": 0.6902,
+                    "answers": "www.bbc.com reported on 21/02/2017 that In the , Professor Jeff Hancock , Stanford University returned after a people year and tried to perform the the Internet|ROOT\tthe|pobj\tProfessor Jeff Hancock , Stanford University|nsubj\tStanford|compound\tthat In the , Professor Jeff Hancock , Stanford University returned after a people year and tried to perform the the Internet|ccomp\tafter a people year|prep\ta|det\tpeople|compound\ttried to perform the the Internet|conj\tto perform the the Internet|xcomp\tthe|det\tthe|det\tthe the Internet|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'When Internet to propose the internet a company that suffered a four-hour or longer Internet cut was a revolt in the internet the class .",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on when a company suffered a four-hour or longer Internet cut?",
+                    "answer": "a revolt in the internet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the effect of internet to propose the internet?",
+                    "score": 0.6903,
+                    "answers": "When Internet to propose the internet|advcl"
+                },
+                {
+                    "question": "How long was the internet cut?",
+                    "score": 0.6553,
+                    "answers": "four - hour or longer|nmod\tlonger|conj"
+                },
+                {
+                    "question": "What was the result of the internet being cut?",
+                    "score": 0.6222,
+                    "answers": "a company that suffered a four - hour or longer Internet cut|nsubj"
+                },
+                {
+                    "question": "What is the name of the company that suffered a four-hour or longer internet cut?",
+                    "score": 0.6005,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Hancock said that this task was impossible Scott Borg, representative of Cyber Consequences Unit .",
+            "question_answers": [
+                {
+                    "question": "What unit did Scott Borg belong to?",
+                    "answer": "Cyber Consequences Unit"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Hancock say about the Cyber Consequences Unit?",
+                    "score": 0.6935,
+                    "answers": "that Hancock said that this task was impossible|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Scott Borg, representative of Cyber Consequences Unit off Internet the network , the class Internet be able to complete the tasks I the network other subjects.",
+            "question_answers": [
+                {
+                    "question": "What was Scott Borg's job title?",
+                    "answer": "off Internet the network"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Scott Borg's role in the Cyber Consequences Unit?",
+                    "score": 0.5929,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep\tthat|mark\tScott|compound\t,|punct\tof Cyber Consequences Unit off Internet the network , the class Internet|prep\tCyber|compound\toff Internet|nmod\tInternet|pobj\tthe|det\toff Internet the network , the class Internet|appos\t,|punct\tthe|det\tto|aux\tto complete the tasks I the network other subjects|xcomp\tthe|det\tthe|det\tthe network|nmod\tother|amod"
+                },
+                {
+                    "question": "What is Scott Borg's class on the network?",
+                    "score": 0.5903,
+                    "answers": "the class|compound"
+                },
+                {
+                    "question": "What is the class internet?",
+                    "score": 0.5803,
+                    "answers": "the class Internet|appos"
+                },
+                {
+                    "question": "What is the purpose of the network?",
+                    "score": 0.5296,
+                    "answers": "the network other subjects|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In additionEagleman I the wires that allow data traffic across continents a contingency plan the Internet people among family and friends, who would be distressed by the fear that Scott Borg, representative of Cyber Consequences Unit terrible would have happened Internet .",
+            "question_answers": [
+                {
+                    "question": "What unit was Scott Borg a representative of?",
+                    "answer": "Cyber Consequences Unit"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Scott Borg say about the internet?",
+                    "score": 0.6328,
+                    "answers": "www.bbc.com|nsubj\tInternet|compound\tInternet|attr"
+                },
+                {
+                    "question": "What was Scott Borg's role in creating the internet?",
+                    "score": 0.6048,
+                    "answers": "data traffic across continents|dobj"
+                },
+                {
+                    "question": "What is the purpose of the wires that allow data traffic across continents?",
+                    "score": 0.5843,
+                    "answers": "the wires that allow data traffic across continents|appos"
+                },
+                {
+                    "question": "What is Scott Borg's relationship with the internet?",
+                    "score": 0.5649,
+                    "answers": "among family and friends|prep\tfriends|conj"
+                },
+                {
+                    "question": "Who is Scott Borg?",
+                    "score": 0.5504,
+                    "answers": "Scott|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Internet understood the arguments the Internet this task .",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017?",
+                    "answer": "Internet understood the arguments the Internet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did the internet understand the arguments the internet made?",
+                    "score": 0.866,
+                    "answers": "that Internet understood the arguments the Internet this task|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the internet in 2017?",
+                    "score": 0.713,
+                    "answers": "on 21/02/2017|prep\tthe arguments the Internet this task|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "a satellite failure , less than % the economy the Internet the economy the employees of an office the network .",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017?",
+                    "answer": "a satellite failure"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the economic impact of a satellite failure?",
+                    "score": 0.7061,
+                    "answers": "satellite|compound"
+                },
+                {
+                    "question": "What is the rate of satellite failure?",
+                    "score": 0.6942,
+                    "answers": "that a satellite failure , less than %|dobj"
+                },
+                {
+                    "question": "What is the economy of an office network?",
+                    "score": 0.6854,
+                    "answers": "that|mark\ta|det\t,|punct\tthe|det\tthe|det\tthe Internet|appos\tthe|det\tthe economy|appos\tthe|det\tthe employees of an office|appos\tan|det\tthe|det\tthe network|appos"
+                }
+            ]
+        },
+        {
+            "claim": "By that time the network the employees of an office the internet a some governments a satellite failure than anything in the West.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017?",
+                    "answer": "the internet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many satellite failures were there in the west in the year 2017?",
+                    "score": 0.7096,
+                    "answers": "www.bbc.com reported on 21/02/2017 that By that time the network the employees of an office the internet a some governments a satellite failure than anything in the West|ROOT"
+                },
+                {
+                    "question": "What was the failure rate of the internet in 2017?",
+                    "score": 0.69,
+                    "answers": "on 21/02/2017|prep\tthat|mark\tBy that time|prep\tthat|det\tthe|det\tthe|det\tan|det\tthe|det\ta|dep\tsome|det\ta some governments|appos\ta|det\tthan anything in the West|prep\tin the West|prep\tthe|det"
+                },
+                {
+                    "question": "What was the purpose of the satellite failure?",
+                    "score": 0.67,
+                    "answers": "satellite|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Today, more than  millions The study half the Internet , connect to the network the Internet and the number continues Hancock at Internet new users per second.",
+            "question_answers": [
+                {
+                    "question": "What percentage of the internet is connected to the network?",
+                    "answer": "half the Internet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many new users per second are connected to the internet each year?",
+                    "score": 0.7292,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep\tthat|mark\t,|punct\tmore|dep\tmore than|nsubj\tmillions|nummod\tThe|det\tthe|det\tmillions The study half the Internet|nsubj\t,|punct\tto the network the Internet|prep\tthe|det\tthe network the Internet|pobj\tthe|det\tthe Internet|appos\tand|cc\tthe|det\tthe number continues Hancock at Internet new users per second|conj\tat Internet new users per second|prep\tnew|amod\tInternet new users per second|pobj\tsecond|pobj"
+                },
+                {
+                    "question": "What is the number of internet users per second?",
+                    "score": 0.6809,
+                    "answers": "the number|nsubj\tInternet|nmod"
+                },
+                {
+                    "question": "What is Hancock?",
+                    "score": 0.5561,
+                    "answers": "Hancock|dep"
+                }
+            ]
+        },
+        {
+            "claim": "the Internet to the Pew the internet Center, one fifth of the some people uses the network 'almost continuously the economy and % says % connects at least once a day.",
+            "question_answers": [
+                {
+                    "question": "How many people use the internet to the Pew the internet Center?",
+                    "answer": "one fifth"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people use the internet every day?",
+                    "score": 0.7572,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/02/2017 that the Internet to the Pew the internet Center , one fifth of the some people uses the network ' almost continuously the economy and % says % connects at least once a day|ROOT\ton 21/02/2017|prep\tthat|mark\tthe|det\tthe Internet to the Pew the internet Center ,|nsubj\tto the Pew the internet Center ,|prep\tthe|det\tthe|det\tthe internet|compound\tthe Pew the internet Center ,|pobj\t,|punct\tone|nummod\tone fifth of the some people|nsubj\tof the some people|prep\tthe|det\tsome|det\tthe some people|pobj\tthat the Internet to the Pew the internet Center , one fifth of the some people uses the network ' almost continuously the economy and % says % connects at least once a day|ccomp\tthe|det\tthe network|dobj\t'|punct\talmost|advmod\talmost continuously|advmod\tthe|det\tthe economy|dep\tand|cc\t%|nsubj\t% says %|parataxis\t%|neg\t% says % connects at least once a day|conj\tat|advmod\tat least|advmod\tat least once a day|advmod\ta|det\ta day|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "For many, it is virtually impossible to imagine life without the internet.",
+            "question_answers": [
+                {
+                    "question": "What is it for many to imagine life without the internet?",
+                    "answer": "virtually impossible"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the internet?",
+                    "score": 0.6854,
+                    "answers": "www.bbc.com reported on 21/02/2017 that For many , it is virtually impossible to imagine life without the internet|ROOT\ton 21/02/2017|prep\tthat|mark\tFor many|prep\tmany|pobj\t,|punct\tit|nsubj\tthat For many , it is virtually impossible to imagine life without the internet|ccomp\tvirtually|advmod\tvirtually impossible|acomp\tto|aux\tto imagine life without the internet|xcomp\tlife without the internet|dobj\twithout the internet|prep\tthe|det\tthe internet|pobj"
+                },
+                {
+                    "question": "What is the website \"bbc.com\"?",
+                    "score": 0.6819,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'One of our biggest network problems these days is that people give it as an automatic fact.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many network problems are there each year?",
+                    "score": 0.8566,
+                    "answers": "network|compound"
+                },
+                {
+                    "question": "What are the biggest network problems?",
+                    "score": 0.8231,
+                    "answers": "of our biggest network problems|prep\tour biggest network problems|pobj"
+                },
+                {
+                    "question": "What are the statistics on network problems?",
+                    "score": 0.8171,
+                    "answers": "that|mark\t'|punct\tour|poss\tthat|mark\tpeople|nsubj\tthat people give it as an automatic fact|ccomp\tas an automatic fact|prep\tautomatic|amod\tan automatic fact|pobj"
+                },
+                {
+                    "question": "What is the largest network problem?",
+                    "score": 0.7931,
+                    "answers": "biggest|amod"
+                },
+                {
+                    "question": "What is the source of evidence of network problems?",
+                    "score": 0.7733,
+                    "answers": "on 21/02/2017|prep\tit|dobj\tan|det"
+                }
+            ]
+        },
+        {
+            "claim": "They do not understand the degree of penetration we have given them in almost every aspect of our lives ', comments William Dutton of Michigan State University.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com say they didn't understand?",
+                    "answer": "almost every aspect of our lives"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did William Dutton say about Michigan's penetration?",
+                    "score": 0.8206,
+                    "answers": "Michigan State|compound"
+                },
+                {
+                    "question": "What is the relationship between penetration and penetration?",
+                    "score": 0.6955,
+                    "answers": "that|mark\tdo|aux\tthe|det\tpenetration|pobj\thave|aux\tthem|dobj\tin almost every aspect of our lives|prep\talmost|advmod\tour|poss"
+                },
+                {
+                    "question": "What is William Dutton's position on penetration?",
+                    "score": 0.6877,
+                    "answers": "William Dutton of Michigan State University|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'They don't even think about the possibility of not having access'.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017?",
+                    "answer": "'They don't even think about the possibility of not having access'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people have access to the internet?",
+                    "score": 0.8292,
+                    "answers": "even|advmod"
+                },
+                {
+                    "question": "What does thebbc.com website say about the possibility of not having access?",
+                    "score": 0.7685,
+                    "answers": "www.bbc.com reported on 21/02/2017 that ' They do n't even think about the possibility of not having access '|ROOT"
+                },
+                {
+                    "question": "What are the benefits of not having access to access?",
+                    "score": 0.764,
+                    "answers": "access|dobj"
+                },
+                {
+                    "question": "What are the reasons for not having access?",
+                    "score": 0.7599,
+                    "answers": "that ' They do n't even think about the possibility of not having access|ccomp\tabout the possibility of not having access|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between the FBI and the Department of Homeland Security?",
+                    "score": 0.6524,
+                    "answers": "on 21/02/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In theory, it could disappear nationally or globally for a certain period of time.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com report on the 21/02/2017?",
+                    "answer": "it could disappear nationally or globally for a certain period of time"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long does it take to disappear?",
+                    "score": 0.8116,
+                    "answers": "a certain period of time|pobj"
+                },
+                {
+                    "question": "What does it mean to disappear nationally or globally for a certain period of time?",
+                    "score": 0.7904,
+                    "answers": "that|mark\t,|punct\tit|nsubj\tor|cc"
+                },
+                {
+                    "question": "What is the theory of disappearability?",
+                    "score": 0.6753,
+                    "answers": "theory|pobj"
+                },
+                {
+                    "question": "What is the relationship between disappearances and disappearances?",
+                    "score": 0.6696,
+                    "answers": "on 21/02/2017|prep"
+                },
+                {
+                    "question": "What is the evidence of the disappearability of the internet?",
+                    "score": 0.6524,
+                    "answers": "In theory|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For example, a cyber attack could occur.",
+            "question_answers": [
+                {
+                    "question": "What type of attack was reported on 21/02/2017 by www.bbc.com?",
+                    "answer": "cyber attack"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are cyber attacks?",
+                    "score": 0.9071,
+                    "answers": "on 21/02/2017|prep\tFor example|prep\texample|pobj\ta|det\tcyber|amod\tthat For example , a cyber attack could occur|ccomp"
+                },
+                {
+                    "question": "What is a cyberattack?",
+                    "score": 0.8512,
+                    "answers": "a cyber attack|nsubj"
+                },
+                {
+                    "question": "What is the cyberattack?",
+                    "score": 0.8398,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/02/2017 that For example , a cyber attack could occur|ROOT\tthat|mark\t,|punct\tcould|aux"
+                }
+            ]
+        },
+        {
+            "claim": "If hackers insert into the network a malicious software that affects routers, traffic in the network would be blocked.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017",
+                    "answer": "If hackers insert into the network a malicious software that affects routers, traffic in the network would be blocked"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What would happen if hackers entered into the network?",
+                    "score": 0.757,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/02/2017 that If hackers insert into the network a malicious software that affects routers , traffic in the network would be blocked|ROOT\ton 21/02/2017|prep\tthat|mark\tIf|mark\thackers|nsubj\tIf hackers insert into the network a malicious software that affects routers|advcl\tinto the network|prep\tthe|det\tthe network|pobj\ta|det\tmalicious|amod\ta malicious software that affects routers|dobj\tthat|nsubj\trouters|dobj\t,|punct\ttraffic in the network|nsubjpass\tin the network|prep\tthe|det\tthe network|pobj\twould|aux\tbe|auxpass\tthat If hackers insert into the network a malicious software that affects routers , traffic in the network would be blocked|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Someone could cut the wires that allow data traffic across continents.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017?",
+                    "answer": "Someone could cut the wires that allow data traffic across continents"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of who cut the wires that allow data traffic across continents?",
+                    "score": 0.7883,
+                    "answers": "Someone|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "They may not be an easy target for hackers, because they are deep in the sea, but an accidental breakdown is feasible, as happened in the , when people in India, the Middle East and Southeast Asia were disconnected.",
+            "question_answers": [
+                {
+                    "question": "What is deep in the sea?",
+                    "answer": "the"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are hackers in the sea connected to each other?",
+                    "score": 0.7867,
+                    "answers": "in the sea|prep"
+                },
+                {
+                    "question": "How many hackers are connected to India?",
+                    "score": 0.7148,
+                    "answers": "an easy target for hackers|attr\tfor hackers|prep"
+                },
+                {
+                    "question": "What was the accidental breakdown in India in 2017?",
+                    "score": 0.6573,
+                    "answers": "an accidental breakdown is feasible , as happened in the , when people in India , the Middle East and Southeast Asia were disconnected|conj"
+                },
+                {
+                    "question": "What is the relationship between hackers and hijacking?",
+                    "score": 0.6573,
+                    "answers": "hackers|pobj"
+                },
+                {
+                    "question": "What are the methods used to determine if an accidental breakdown is feasible?",
+                    "score": 0.6442,
+                    "answers": "feasible|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, some governments have the so-called 'switches 'to 'turn off 'the Internet in their countries, although not easy to achieve.",
+            "question_answers": [
+                {
+                    "question": "What do some governments have to do to turn off the internet in their countries?",
+                    "answer": "'switches"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How easy is it to turn off the internet in countries?",
+                    "score": 0.7924,
+                    "answers": "www.bbc.com reported on 21/02/2017 that On the other hand , some governments have the so - called ' switches ' to ' turn off ' the Internet in their countries , although not easy to achieve|ROOT\tthat On the other hand , some governments have the so - called ' switches ' to ' turn off ' the Internet in their countries , although not easy to achieve|ccomp\talthough not easy to achieve|advcl"
+                },
+                {
+                    "question": "What is the purpose of Switches to turn off internet?",
+                    "score": 0.7477,
+                    "answers": "to achieve|xcomp"
+                },
+                {
+                    "question": "What countries have the so-called \"switches\"?",
+                    "score": 0.7457,
+                    "answers": "in their countries|prep"
+                },
+                {
+                    "question": "What are Switches?",
+                    "score": 0.6696,
+                    "answers": "so - called|amod\tto ' turn off ' the Internet in their countries|acl"
+                },
+                {
+                    "question": "What is the definition of Switches?",
+                    "score": 0.6498,
+                    "answers": "their countries|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The larger and more developed the country, the more difficult this scenario is due to the high number of connections within and outside its borders.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many connections does the country have to other countries?",
+                    "score": 0.784,
+                    "answers": "www.bbc.com reported on 21/02/2017 that The larger and more developed the country , the more difficult this scenario is due to the high number of connections within and outside its borders|ROOT\ton 21/02/2017|prep\tthat|mark\tThe|advmod\tThe larger and more developed|amod\tand|cc\tmore|advmod\tmore developed|conj\tthe|det\t,|punct\tthe|advmod\tmore|advmod\tthe more difficult|acomp\tthis|det\tthis scenario|nsubj\tto|pcomp\tthe|det\tand|cc\tits|poss"
+                }
+            ]
+        },
+        {
+            "claim": "The most severe blow that the internet could take would come from space.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017",
+                    "answer": "The most severe blow that the internet could take would come from space"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the impact of the internet on space?",
+                    "score": 0.7687,
+                    "answers": "the internet|nsubj\tthat the internet could take|relcl"
+                },
+                {
+                    "question": "What is the most severe blow that the internet could take from space?",
+                    "score": 0.7308,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep\tThe most severe blow that the internet could take|nsubj\tthe|det\tcould|aux\twould|aux"
+                }
+            ]
+        },
+        {
+            "claim": "A huge solar storm would destroy satellites, power cells and computer systems.",
+            "question_answers": [
+                {
+                    "question": "What type of storm would destroy satellites, power cells and computer systems?",
+                    "answer": "huge solar storm"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will solar storms destroy satellites, power cells and computer systems?",
+                    "score": 0.8696,
+                    "answers": "A huge solar storm|nsubj"
+                },
+                {
+                    "question": "What would happen if a solar storm was to destroy satellites and computer systems?",
+                    "score": 0.8202,
+                    "answers": "www.bbc.com reported on 21/02/2017 that A huge solar storm would destroy satellites , power cells and computer systems|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'What bombs and terrorism cannot accomplish could happen in moments with a solar storm ', says David Eagleman, a neuroscientist at Stanford University.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com say could do what bombs and terrorism cannot do?",
+                    "answer": "solar storm"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does David Eagleman say about terrorism?",
+                    "score": 0.8271,
+                    "answers": "bombs and terrorism|nsubj\tterrorism|conj\tWhat bombs and terrorism can not accomplish|csubj\tthat ' What bombs and terrorism can not accomplish could happen in moments with a solar storm|ccomp"
+                },
+                {
+                    "question": "What can happen in moments with a solar storm?",
+                    "score": 0.6976,
+                    "answers": "in moments with a solar storm|prep\tmoments with a solar storm|pobj\twith a solar storm|prep"
+                },
+                {
+                    "question": "What is David Eagleman's position on terrorism?",
+                    "score": 0.6941,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep\ta|det\ta|det"
+                },
+                {
+                    "question": "What is the solar storm?",
+                    "score": 0.6559,
+                    "answers": "solar|amod"
+                },
+                {
+                    "question": "What is a solar storm?",
+                    "score": 0.6556,
+                    "answers": "a solar storm|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Giant geomagnetic storms will eventually reach us ', he says.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017?",
+                    "answer": "'Giant geomagnetic storms will eventually reach us"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will geomagnetic storms reach us?",
+                    "score": 0.8774,
+                    "answers": "will|aux\teventually|advmod\tGiant geomagnetic storms will eventually reach us|ccomp"
+                },
+                {
+                    "question": "What are geomagnetic storms?",
+                    "score": 0.8438,
+                    "answers": "geomagnetic|amod"
+                },
+                {
+                    "question": "What are the geomagnetic storms?",
+                    "score": 0.8131,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/02/2017|ccomp\ton 21/02/2017|prep\tthat|mark\t'|punct\tGiant|amod\tGiant geomagnetic storms|nsubj\tus|dobj\t'|punct\t,|punct\the|nsubj\twww.bbc.com reported on 21/02/2017 that ' Giant geomagnetic storms will eventually reach us ' , he says|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Faced with these scenarios, it highlights the hope that the disconnection will not last long.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that they were faced with these scenarios?",
+                    "answer": "21/02/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long will the disconnection last?",
+                    "score": 0.7008,
+                    "answers": "that Faced with these scenarios , it highlights the hope that the disconnection will not last long|ccomp\tthe hope that the disconnection will not last long|dobj\tthat the disconnection will not last long|acl"
+                },
+                {
+                    "question": "What is disconnection?",
+                    "score": 0.6108,
+                    "answers": "the disconnection|nsubj"
+                },
+                {
+                    "question": "What is the relationship between disconnection and disconnection?",
+                    "score": 0.5766,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Faced with these scenarios , it highlights the hope that the disconnection will not last long|ROOT\ton 21/02/2017|prep\tthat|mark\tFaced with these scenarios|advcl\twith these scenarios|prep\tthese|det\tthese scenarios|pobj\t,|punct\tit|nsubj\tthe|det\tthat|mark\tthe|det\twill|aux\tnot|neg\tlong|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "'Internet service providers and companies have plans and trained personnel to fix things if something happens ', explains Scott Borg, representative of Cyber Consequences Unit.",
+            "question_answers": [
+                {
+                    "question": "What does 'Internet service providers and companies have plans and trained personnel to do'?",
+                    "answer": "fix things if something happens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between internet service providers and companies?",
+                    "score": 0.6564,
+                    "answers": "companies|conj"
+                },
+                {
+                    "question": "Who is Scott Borg representative of Cyber Consequences Unit?",
+                    "score": 0.54,
+                    "answers": "Scott Borg , representative of Cyber Consequences Unit|nsubj"
+                },
+                {
+                    "question": "What is the Cyber Consequences Unit?",
+                    "score": 0.5011,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/02/2017 that ' Internet service providers and companies have plans and trained personnel to fix things if something happens|ccomp\ton 21/02/2017|prep\tthat|mark\t'|punct\tInternet|compound\tservice|compound\tInternet service providers and companies|nsubj\tand|cc\tplans and trained personnel to fix things if something happens|dobj\tand|cc\ttrained|amod\ttrained personnel|conj\tto|aux\tto fix things if something happens|relcl\tthings|dobj\tif|mark\tsomething|nsubj\tif something happens|advcl\t'|punct\t,|punct\twww.bbc.com reported on 21/02/2017 that ' Internet service providers and companies have plans and trained personnel to fix things if something happens ' , explains Scott Borg , representative of Cyber Consequences Unit|ROOT\tScott|compound\t,|punct\trepresentative of Cyber Consequences Unit|appos\tof Cyber Consequences Unit|prep\tCyber|compound\tCyber Consequences|compound"
+                }
+            ]
+        },
+        {
+            "claim": "However, we are so used to having the internet available all the time, that even a minor failure can have an effect.",
+            "question_answers": [
+                {
+                    "question": "What can have an effect on the internet?",
+                    "answer": "even a minor failure"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the benefits of having internet available all the time?",
+                    "score": 0.7598,
+                    "answers": "that However , we are so used to having the internet available all the time , that even a minor failure can have an effect|ccomp"
+                },
+                {
+                    "question": "What is the effect of a minor failure on the internet?",
+                    "score": 0.7317,
+                    "answers": "that even a minor failure can have an effect|ccomp"
+                },
+                {
+                    "question": "What is the average internet failure rate per year?",
+                    "score": 0.7281,
+                    "answers": "minor|amod\teven a minor failure|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Not the ones you might imagine.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/02/2017 that Not the ones you might imagine?",
+                    "answer": "www.bbc.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does thebbc.com website do?",
+                    "score": 0.8348,
+                    "answers": "on 21/02/2017|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the quotes from the author of the article?",
+                    "score": 0.7343,
+                    "answers": "Not|neg\tthat Not the ones you might imagine|dobj"
+                },
+                {
+                    "question": "What is the relationship betweenbbc.com and the website?",
+                    "score": 0.6262,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Not the ones you might imagine|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "What will happenTo begin with, the impact on the economy may not be so severe.",
+            "question_answers": [
+                {
+                    "question": "What may not be so severe?",
+                    "answer": "the impact on the economy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What impact does the economy have on the economy?",
+                    "score": 0.919,
+                    "answers": "the economy|pobj"
+                },
+                {
+                    "question": "How severe is the impact on the economy on March 21, 2017?",
+                    "score": 0.8936,
+                    "answers": "so severe|acomp"
+                },
+                {
+                    "question": "What is the impact of the economy on the economy?",
+                    "score": 0.8598,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep\tthat|mark\tWhat|nsubj\twith|prt\t,|punct\tthe|det\ton the economy|prep\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "In the , the U.S. Department of Homeland Security asked Borg to evaluate what would happen if the internet failed.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did the Department of Homeland Security ask Borg to do?",
+                    "score": 0.7169,
+                    "answers": "of Homeland Security|prep\tthat In the , the U.S. Department of Homeland Security asked Borg to evaluate what would happen if the internet failed|ccomp"
+                },
+                {
+                    "question": "What would happen if the internet failed?",
+                    "score": 0.6623,
+                    "answers": "www.bbc.com reported on 21/02/2017 that In the , the U.S. Department of Homeland Security asked Borg to evaluate what would happen if the internet failed|ROOT\tto evaluate what would happen if the internet failed|xcomp\twhat would happen if the internet failed|ccomp\tif the internet failed|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Borg and his team have been working from the  the impact of such events on the economy.",
+            "question_answers": [
+                {
+                    "question": "What has Borg and his team been working from?",
+                    "answer": "the impact of such events on the economy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the impact of events on the economy?",
+                    "score": 0.7386,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/02/2017 that Borg and his team have been working from the   the impact of such events on the economy|ROOT\ton 21/02/2017|prep\tthat|mark\tBorg and his team|nsubj\tand|cc\this|poss\this team|conj\thave|aux\tbeen|aux\tthat Borg and his team have been working from the|ccomp\tfrom the|prep\tthe|pobj\t  the impact of such events on the economy|dep\tthe|det\tthe impact of such events on the economy|dobj\tof such events|prep\tsuch|amod\tsuch events|pobj\ton the economy|prep\tthe|det\tthe economy|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The study evaluates quarterly financial reports of  companies that may be among the most affected, as well as economic statistics in general.",
+            "question_answers": [
+                {
+                    "question": "How often are the financial reports of companies that may be among the most affected evaluated?",
+                    "answer": "quarterly"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many companies have been affected by the study?",
+                    "score": 0.8537,
+                    "answers": "  companies that may be among the most affected , as well as economic statistics in general|dep\tcompanies that may be among the most affected , as well as economic statistics in general|pobj"
+                },
+                {
+                    "question": "What are the financial reports of companies that may be among the most affected?",
+                    "score": 0.8238,
+                    "answers": "among the most affected|prep\tthe most affected|pobj"
+                },
+                {
+                    "question": "What is the impact of quarterly financial reports on companies?",
+                    "score": 0.8223,
+                    "answers": "that may be among the most affected|relcl"
+                },
+                {
+                    "question": "What is the study on quarterly financial reports of companies?",
+                    "score": 0.8175,
+                    "answers": "www.bbc.com reported on 21/02/2017 that The study evaluates quarterly financial reports of   companies that may be among the most affected , as well as economic statistics in general|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The investigation was based on a scenario of a failure of no more than four days.",
+            "question_answers": [
+                {
+                    "question": "What was the investigation based on?",
+                    "answer": "a scenario of a failure of no more than four days"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many days did the investigation fail?",
+                    "score": 0.7951,
+                    "answers": "more|amod\tthan|quantmod"
+                },
+                {
+                    "question": "How long did the investigation take?",
+                    "score": 0.7918,
+                    "answers": "a failure of no more than four days|pobj\tof no more than four days|prep"
+                },
+                {
+                    "question": "How long did it take for the investigation to continue?",
+                    "score": 0.7667,
+                    "answers": "www.bbc.com reported on 21/02/2017 that The investigation was based on a scenario of a failure of no more than four days|ROOT\ton 21/02/2017|prep\tthat|mark\tThe|det\twas|auxpass\tthat The investigation was based on a scenario of a failure of no more than four days|ccomp\ton a scenario of a failure of no more than four days|prep\ta scenario of a failure of no more than four days|pobj\tof a failure of no more than four days|prep"
+                },
+                {
+                    "question": "What was the outcome of the investigation?",
+                    "score": 0.7136,
+                    "answers": "The investigation|nsubjpass\ta|det\ta|det\tno|quantmod"
+                }
+            ]
+        },
+        {
+            "claim": "The fall of the internet would have a surprisingly insignificant financial effect.",
+            "question_answers": [
+                {
+                    "question": "What was the effect of the fall of the internet?",
+                    "answer": "surprisingly insignificant financial effect"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the impact of the fall of the internet on finances?",
+                    "score": 0.8668,
+                    "answers": "the|det"
+                }
+            ]
+        },
+        {
+            "claim": "In particular, some people would be behind in their jobs, but 'the economy is made to continue to function with what would essentially be a long weekend'.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com say about the economy?",
+                    "answer": "'the economy is made to continue to function with what would essentially be a long weekend'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many jobs would the economy continue to function with?",
+                    "score": 0.8171,
+                    "answers": "that|mark\t'|punct\tthe|det\tis|auxpass\tto|aux\tto|aux\twhat|nsubj\ta|det\t'|punct"
+                },
+                {
+                    "question": "What is the economy doing to continue to function?",
+                    "score": 0.8036,
+                    "answers": "the economy|nsubjpass"
+                },
+                {
+                    "question": "What was the unemployment rate after the weekend?",
+                    "score": 0.7819,
+                    "answers": "www.bbc.com reported on 21/02/2017 that In particular , some people would be behind in their jobs , but ' the economy is made to continue to function with what would essentially be a long weekend '|ROOT"
+                },
+                {
+                    "question": "What is the unemployment rate in the United States?",
+                    "score": 0.7591,
+                    "answers": "in their jobs|prep\ttheir jobs|pobj"
+                },
+                {
+                    "question": "How many people would be behind in their jobs on the weekend of August 21, 2017?",
+                    "score": 0.7383,
+                    "answers": "some|det\tsome people|nsubj\twould|aux\tto function with what would essentially be a long weekend|xcomp\twould|aux\twhat would essentially be a long weekend|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, being without a network for a short period of time can even increase productivity, as shown by another study by Borg and his colleagues, who evaluated what would happen in a company that suffered a four-hour or longer Internet cut.",
+            "question_answers": [
+                {
+                    "question": "What can increase productivity?",
+                    "answer": "being without a network for a short period of time"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the study done by Borg and colleagues about the benefits of being without a network for a short period of time?",
+                    "score": 0.7365,
+                    "answers": "www.bbc.com reported on 21/02/2017 that In fact , being without a network for a short period of time can even increase productivity , as shown by another study by Borg and his colleagues , who evaluated what would happen in a company that suffered a four - hour or longer Internet cut|ROOT"
+                },
+                {
+                    "question": "What did Borg and his colleagues say about the internet cut?",
+                    "score": 0.7152,
+                    "answers": "by Borg and his colleagues , who evaluated what would happen in a company that suffered a four - hour or longer Internet cut|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Instead of swirling on chairs and killing time, employees focused on doing things that usually stop last: catching up on office paperwork.",
+            "question_answers": [
+                {
+                    "question": "What did employees focus on instead of killing time?",
+                    "answer": "catching up on office paperwork"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the process used to catch up on office paperwork?",
+                    "score": 0.6334,
+                    "answers": "on 21/02/2017|prep\ton doing things that usually stop last : catching up on office paperwork|prep\tusually|advmod\tcatching up on office paperwork|acl"
+                },
+                {
+                    "question": "What are the duties of office employees?",
+                    "score": 0.6268,
+                    "answers": "doing things that usually stop last : catching up on office paperwork|pcomp"
+                },
+                {
+                    "question": "What is the relationship between office paperwork and office paperwork?",
+                    "score": 0.6132,
+                    "answers": "that|mark\tInstead|advmod\tand|cc\t,|punct\temployees|nsubj\tthat|nsubj\t:|punct\tup|prt"
+                },
+                {
+                    "question": "What was the purpose of the office paperwork?",
+                    "score": 0.6132,
+                    "answers": "on chairs|prep\tthat Instead of swirling on chairs and killing time , employees focused on doing things that usually stop last : catching up on office paperwork|ccomp"
+                },
+                {
+                    "question": "What is the purpose of office paperwork?",
+                    "score": 0.61,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Instead of swirling on chairs and killing time , employees focused on doing things that usually stop last : catching up on office paperwork|ROOT\tchairs|pobj\tkilling time|conj\ttime|dobj\ton office paperwork|prep\toffice|compound\toffice paperwork|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The experiment gave a new boost to the business.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the experiment gave a new boost to the business?",
+                    "answer": "www.bbc.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the experiment add to business?",
+                    "score": 0.8637,
+                    "answers": "to the business|dative"
+                },
+                {
+                    "question": "What was the purpose of the experiment?",
+                    "score": 0.781,
+                    "answers": "that|mark\tThe|det\tThe experiment|nsubj\tthat The experiment gave a new boost to the business|ccomp\ta|det\tnew|amod\tthe|det"
+                },
+                {
+                    "question": "What is the name of the experiment that gave a new boost to business?",
+                    "score": 0.764,
+                    "answers": "www.bbc.com reported on 21/02/2017 that The experiment gave a new boost to the business|ROOT"
+                },
+                {
+                    "question": "What is the purpose of thebbc.com experiment?",
+                    "score": 0.6636,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Travel would also not be much affected in the short term, as long as the disconnection does not exceed a day or two.",
+            "question_answers": [
+                {
+                    "question": "What would not be affected in the short term if the disconnection did not exceed a day or two?",
+                    "answer": "Travel"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long would it take for travel to be affected by disconnection?",
+                    "score": 0.6367,
+                    "answers": "a day or two|dobj\tor two|nummod"
+                },
+                {
+                    "question": "How long would travel be affected by disconnection in the short term?",
+                    "score": 0.6367,
+                    "answers": "Travel|nsubjpass"
+                },
+                {
+                    "question": "What is the relationship between disconnection and travel?",
+                    "score": 0.5275,
+                    "answers": "on 21/02/2017|prep\tthat|mark\talso|advmod\tnot|neg\tbe|auxpass\tmuch|advmod\tin the short term|prep\tthe|det\tshort|amod\tthe short term|pobj\t,|punct\tas|advmod\tas|mark\tthe|det\tthe disconnection|nsubj\tdoes|aux\tnot|neg\ta|det\tor|cc"
+                },
+                {
+                    "question": "What would happen if the disconnection did not exceed a day or two?",
+                    "score": 0.476,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Travel would also not be much affected in the short term , as long as the disconnection does not exceed a day or two|ROOT\twould|aux\tthat Travel would also not be much affected in the short term , as long as the disconnection does not exceed a day or two|ccomp\tas long as the disconnection does not exceed a day or two|advmod\tas the disconnection does not exceed a day or two|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Planes can fly without the internet, and buses and trains can also work.",
+            "question_answers": [
+                {
+                    "question": "What other types of transportation can work?",
+                    "answer": "buses and trains"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can planes fly without the internet?",
+                    "score": 0.8993,
+                    "answers": "can|aux\ttrains|conj\tcan|aux"
+                },
+                {
+                    "question": "Can planes fly without internet?",
+                    "score": 0.8935,
+                    "answers": "without the internet|prep"
+                },
+                {
+                    "question": "How much internet can planes fly without?",
+                    "score": 0.8883,
+                    "answers": "buses and trains can also work|conj"
+                },
+                {
+                    "question": "How many planes can fly without internet?",
+                    "score": 0.8758,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Planes can fly without the internet , and buses and trains can also work|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "However, long-term restrictions would have an effect on logistics.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com report on 21/02/2017",
+                    "answer": "long-term restrictions would have an effect on logistics"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long would long-term restrictions have an effect on logistics?",
+                    "score": 0.8809,
+                    "answers": "would|aux"
+                },
+                {
+                    "question": "What are the long term restrictions on logistics?",
+                    "score": 0.8375,
+                    "answers": "long - term|compound\tlong - term restrictions|nsubj"
+                },
+                {
+                    "question": "What is the effect of long-term restrictions on logistics?",
+                    "score": 0.8343,
+                    "answers": "an effect on logistics|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Eagleman has suggested that people and companies develop a contingency plan in case of a connection failure.",
+            "question_answers": [
+                {
+                    "question": "What did Eagleman suggest people and companies develop in case of a connection failure?",
+                    "answer": "a contingency plan"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Eagleman say about people and companies developing a contingency plan?",
+                    "score": 0.7914,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep"
+                },
+                {
+                    "question": "What is the contingency plan for a connection failure?",
+                    "score": 0.6854,
+                    "answers": "contingency|compound"
+                },
+                {
+                    "question": "What is a connection failure?",
+                    "score": 0.643,
+                    "answers": "a connection failure|pobj"
+                },
+                {
+                    "question": "What is the relationship between a connection and a connection failure?",
+                    "score": 0.6189,
+                    "answers": "connection|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The most affectedThose who could be severely affected would be small businesses and workers.",
+            "question_answers": [
+                {
+                    "question": "What type of businesses were considered to be the most affected?",
+                    "answer": "small businesses"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people could be affected by small businesses and workers?",
+                    "score": 0.7772,
+                    "answers": "could|aux"
+                },
+                {
+                    "question": "How many people would be affected if small businesses and workers were affected?",
+                    "score": 0.7579,
+                    "answers": "be|auxpass\tseverely|advmod\twould|aux"
+                },
+                {
+                    "question": "What are the most affected businesses and workers?",
+                    "score": 0.7509,
+                    "answers": "The most affectedThose who could be severely affected|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In , a satellite failure left about #NUMBER*% of the  millions of pagers in the United States inactive.",
+            "question_answers": [
+                {
+                    "question": "When did a satellite failure leave about #NUMBER*% of the millions of pagers inactive?",
+                    "answer": "In"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the cause of the satellite failure?",
+                    "score": 0.7639,
+                    "answers": "satellite|compound\ta satellite failure|nsubj"
+                },
+                {
+                    "question": "How many pagers were lost by a satellite in 2017?",
+                    "score": 0.7301,
+                    "answers": "www.bbc.com reported on 21/02/2017 that In , a satellite failure left about # NUMBER*% of the   millions of pagers in the United States inactive|ROOT\tabout #|nummod\t  millions of pagers in the United States|dep\tmillions of pagers in the United States|pobj\tof pagers in the United States|prep\tpagers in the United States|pobj"
+                },
+                {
+                    "question": "What was the number of missed pagers in the United States in 2017?",
+                    "score": 0.6916,
+                    "answers": "In|mark\t,|punct\tthat In , a satellite failure left about # NUMBER*% of the|ccomp\tabout|advmod\tUnited|compound\tinactive|oprd"
+                }
+            ]
+        },
+        {
+            "claim": "In the days following that event, Dutton surveyed  biper users in Los Angeles.",
+            "question_answers": [
+                {
+                    "question": "What type of users did Dutton survey in Los Angeles?",
+                    "answer": "biper users"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many users did Dutton survey in the days following the event in Los Angeles?",
+                    "score": 0.7161,
+                    "answers": "www.bbc.com reported on 21/02/2017 that In the days following that event , Dutton surveyed   biper users in Los Angeles|ROOT"
+                },
+                {
+                    "question": "What is the number of users in Los Angeles?",
+                    "score": 0.6806,
+                    "answers": "biper users in Los Angeles|dobj"
+                },
+                {
+                    "question": "What is the relationship between Dutton and the Occupy Wall Street movement?",
+                    "score": 0.5897,
+                    "answers": "following that event|prep\tthat event|pobj\tin Los Angeles|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The study showed clear socio-economic divisions in people's reaction to the suspension of service.",
+            "question_answers": [
+                {
+                    "question": "What did the study show about people's reaction to the suspension of service?",
+                    "answer": "socio-economic divisions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the study show about people's reaction to the suspension of service?",
+                    "score": 0.731,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/02/2017 that The study showed clear socio - economic divisions in people 's reaction to the suspension of service|ROOT\ton 21/02/2017|prep\tthat|mark\tThe|det\tThe study|nsubj\tthat The study showed clear socio - economic divisions in people 's reaction to the suspension of service|ccomp\tclear|amod\tsocio|amod\t-|amod\teconomic|amod\tclear socio - economic divisions in people 's reaction to the suspension of service|dobj\tin people 's reaction to the suspension of service|prep\tpeople 's|poss\t's|case\tpeople 's reaction to the suspension of service|pobj\tto the suspension of service|prep\tthe|det\tthe suspension of service|pobj\tof service|prep\tservice|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Members of the upper middle class, who had managerial responsibilities or professional jobs, did not perceive disconnection as a very serious problem.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/02/2017 that members of the upper middle class did not perceive disconnection as a serious problem?",
+                    "answer": "www.bbc.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between managerial responsibilities and professional jobs?",
+                    "score": 0.673,
+                    "answers": "managerial|amod"
+                },
+                {
+                    "question": "What is disconnection?",
+                    "score": 0.6622,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Members of the upper middle class , who had managerial responsibilities or professional jobs , did not perceive disconnection as a very serious problem|ROOT\ton 21/02/2017|prep\tthat|mark\tof the upper middle class|prep\tthe|det\tmiddle|amod\tthe upper middle class|pobj\t,|punct\twho|nsubj\twho had managerial responsibilities or professional jobs|relcl\tmanagerial responsibilities or professional jobs|dobj\tor|cc\t,|punct\tdid|aux\tnot|neg\tthat Members of the upper middle class , who had managerial responsibilities or professional jobs , did not perceive disconnection as a very serious problem|ccomp\tdisconnection|dobj\tas a very serious problem|prep\ta|det\tvery|advmod\tvery serious|amod\ta very serious problem|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'It was like a snow day or a day off ', says Dutton.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com report on 21/02/2017?",
+                    "answer": "'It was like a snow day or a day off"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Dutton say about the snow day or day off?",
+                    "score": 0.7426,
+                    "answers": "that ' It was like a snow day or a day off ' , says Dutton|ccomp"
+                },
+                {
+                    "question": "What is the average snow day or a day off?",
+                    "score": 0.7068,
+                    "answers": "a|det\ta|det\toff|advmod"
+                },
+                {
+                    "question": "What is the difference between a snow day and a day off?",
+                    "score": 0.6914,
+                    "answers": "www.bbc.com reported on 21/02/2017 that ' It was like a snow day or a day off ' , says Dutton|ROOT\ton 21/02/2017|prep\tIt was like a snow day or a day off|ccomp\tlike a snow day or a day off|prep\ta snow day or a day off|pobj\ta day off|conj"
+                },
+                {
+                    "question": "What is the source of evidence of the snow on Dutton's day off?",
+                    "score": 0.6503,
+                    "answers": "snow|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Meanwhile, workers or independent workers, such as plumbers and carpenters, were left without work for several days.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that workers were left without work for several days?",
+                    "answer": "21/02/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many days were the workers or independent workers left without work for?",
+                    "score": 0.7423,
+                    "answers": "for several days|prep"
+                },
+                {
+                    "question": "How many workers were left without work for several days?",
+                    "score": 0.7209,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Meanwhile , workers or independent workers , such as plumbers and carpenters , were left without work for several days|ROOT\tthat|mark\tMeanwhile|advmod\t,|punct\tor|cc\tindependent|amod\t,|punct\tsuch|amod\tsuch as plumbers and carpenters|prep\tplumbers and carpenters|pobj\tand|cc\tcarpenters|conj\t,|punct\twere|auxpass\tthat Meanwhile , workers or independent workers , such as plumbers and carpenters , were left without work for several days|ccomp\twithout work|prep\tseveral|amod"
+                }
+            ]
+        },
+        {
+            "claim": "For their part, single mothers, who usually left their children in day care centers, expressed great stress when they ran out of communication in case of an emergency.",
+            "question_answers": [
+                {
+                    "question": "What did single mothers do when they ran out of communication in case of an emergency?",
+                    "answer": "expressed great stress when they ran out of communication in case of an emergency"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did single mothers say about their children in day care centers?",
+                    "score": 0.7843,
+                    "answers": "great stress|dobj"
+                },
+                {
+                    "question": "What was the relationship between a single mother and a child during an emergency?",
+                    "score": 0.6478,
+                    "answers": "communication|pobj"
+                },
+                {
+                    "question": "What is day care?",
+                    "score": 0.6147,
+                    "answers": "day care|compound"
+                },
+                {
+                    "question": "What is the relationship between single and single mothers?",
+                    "score": 0.6059,
+                    "answers": "single|amod"
+                },
+                {
+                    "question": "What is the definition of a crisis?",
+                    "score": 0.5638,
+                    "answers": "an emergency|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Psychological effects 'Most of the Internet is designed for one purpose: to allow us to communicate with each other ', Hancock points out.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of the internet?",
+                    "answer": "to allow us to communicate with each other"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the effects of communication with one another?",
+                    "score": 0.6608,
+                    "answers": "Psychological|amod"
+                },
+                {
+                    "question": "What is the purpose of using the internet to communicate with each other?",
+                    "score": 0.6385,
+                    "answers": "with each other|prep"
+                }
+            ]
+        },
+        {
+            "claim": "That is why, being disqualified to do so, feelings of anxiety and isolation arise.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com report about being disqualified to do so?",
+                    "answer": "feelings of anxiety and isolation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why were feelings of anxiety and isolation arise?",
+                    "score": 0.9098,
+                    "answers": "why , being disqualified to do so , feelings of anxiety and isolation arise|ccomp"
+                },
+                {
+                    "question": "What are the reasons for being disqualified?",
+                    "score": 0.8302,
+                    "answers": "being disqualified to do so|advcl"
+                },
+                {
+                    "question": "What is the relationship between anxiety and isolation due to being disqualified?",
+                    "score": 0.7928,
+                    "answers": "that|mark\tThat|nsubj\twhy|advmod\t,|punct\tto|aux\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "'When I find out that I left my phone in the house, I feel like I'm naked,'Borg says.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that 'When I find out that I left my phone in the house, I feel like I'm naked'?",
+                    "answer": "21/02/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who left their phone in the house?",
+                    "score": 0.7284,
+                    "answers": "www.bbc.com reported on 21/02/2017 that ' When I find out that I left my phone in the house , I feel like I 'm naked,'Borg says|ROOT"
+                },
+                {
+                    "question": "What did Bogdanoff say about his phone being in the house?",
+                    "score": 0.6812,
+                    "answers": "out|prt"
+                },
+                {
+                    "question": "What is the source of evidence of Bogdanoff's phone being naked?",
+                    "score": 0.6397,
+                    "answers": "naked,'Borg|punct"
+                },
+                {
+                    "question": "What was the name of the person who left their phone at the house?",
+                    "score": 0.5574,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep\tthat|mark\t'|punct\tWhen|advmod\tI|nsubj\tthat|mark\tI|nsubj\tmy|poss\tmy phone|dobj\tthe|det\tthe house|pobj\t,|punct\tI|nsubj\tI|nsubj\tsays|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, 'it is thought that without the Internet people would become sociable, and they would have more contacts with friends and family, but I think that may be a mistake ', alert Dutton.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com say about the thought that people would become sociable without the internet?",
+                    "answer": "a mistake"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between internet and social media?",
+                    "score": 0.5666,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep\tOn the other hand|prep\tthe other hand|pobj\tthat On the other hand , ' it is thought that without the Internet people would become sociable , and they would have more contacts with friends and family , but I think that may be a mistake|ccomp\twithout the Internet|prep\tthe Internet|pobj\tthat without the Internet people would become sociable , and they would have more contacts with friends and family|ccomp\tsociable|acomp\tI think that may be a mistake|conj\tthat may be a mistake|ccomp\ta mistake|attr\twww.bbc.com reported on 21/02/2017 that On the other hand , ' it is thought that without the Internet people would become sociable , and they would have more contacts with friends and family , but I think that may be a mistake ' , alert Dutton|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'Most people who use the Internet are more sociable than those who do not use it'.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017?",
+                    "answer": "'Most people who use the Internet are more sociable than those who do not use it'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are people who use the internet more sociable than those who do not use it?",
+                    "score": 0.9076,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "What is the average social media profile of those who use the internet?",
+                    "score": 0.8544,
+                    "answers": "those who do not use it|pobj"
+                },
+                {
+                    "question": "What is the relationship between internet and social media?",
+                    "score": 0.7934,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/02/2017 that ' Most people who use the Internet are more sociable than those who do not use it '|ROOT\ton 21/02/2017|prep\tthat|mark\t'|punct\twho use the Internet|relcl\tthe|det\tthe Internet|dobj\tmore|advmod\tmore sociable than those who do not use it|acomp\tdo|aux\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Maybe the employees of an office will talk more, in case they can't send emails, but the experience would be stressful.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com say about talking to employees?",
+                    "answer": "the experience would be stressful"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many employees work for an office?",
+                    "score": 0.7784,
+                    "answers": "the employees of an office|nsubj\tof an office|prep\tan office|pobj"
+                },
+                {
+                    "question": "What is the experience of working in an office?",
+                    "score": 0.7447,
+                    "answers": "the experience|nsubj"
+                },
+                {
+                    "question": "What would the employees of an office do if they didn't talk more?",
+                    "score": 0.7267,
+                    "answers": "would|aux"
+                },
+                {
+                    "question": "What is the stress level of an office?",
+                    "score": 0.7195,
+                    "answers": "the experience would be stressful|conj"
+                },
+                {
+                    "question": "How many people work for the Bureau of Labor Statistics?",
+                    "score": 0.7144,
+                    "answers": "www.bbc.com reported on 21/02/2017 that Maybe the employees of an office will talk more , in case they ca n't send emails , but the experience would be stressful|ROOT\ton 21/02/2017|prep\tMaybe|advmod\tan|det\tthat Maybe the employees of an office will talk more , in case they ca n't send emails , but the experience would be stressful|ccomp\tmore|advmod\tthey|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, the feeling may be brief.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com report on 21/02/2017?",
+                    "answer": "the feeling may be brief"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the feeling of brief?",
+                    "score": 0.7031,
+                    "answers": "the feeling|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the feeling that the feeling may be brief?",
+                    "score": 0.6763,
+                    "answers": "on 21/02/2017|prep\tthat|mark\tHowever|advmod\t,|punct"
+                },
+                {
+                    "question": "What is the relationship between the feeling of being connected to another country and a new country?",
+                    "score": 0.6586,
+                    "answers": "the|det"
+                }
+            ]
+        },
+        {
+            "claim": "When we lose the internet we might realize its importance in our lives, but Hancock indicates that we would quickly give it back as a fact, as soon as we connect again.",
+            "question_answers": [
+                {
+                    "question": "Who said we would give the internet back as a fact as soon as we connect again?",
+                    "answer": "Hancock"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Hancock say about internet usage?",
+                    "score": 0.7271,
+                    "answers": "www.bbc.com|nsubj\ton 21/02/2017|prep\tWhen|advmod\tbut|cc\ta|det\ta fact|pobj"
+                },
+                {
+                    "question": "What does Hancock say about the importance of internet?",
+                    "score": 0.7077,
+                    "answers": "its|poss"
+                },
+                {
+                    "question": "What are the benefits of losing the internet?",
+                    "score": 0.6517,
+                    "answers": "the internet|dobj\tour lives|pobj"
+                },
+                {
+                    "question": "What would happen if we lost the internet?",
+                    "score": 0.6512,
+                    "answers": "would|aux"
+                },
+                {
+                    "question": "What is the relationship between internet usage and loss of internet?",
+                    "score": 0.633,
+                    "answers": "that|mark\twe|nsubj\tthe|det\twe|nsubj\tmight|aux\tour|poss\t,|punct\tthat|mark\twe|nsubj\tquickly|advmod\tit|dobj\t,|punct\tas|advmod\tas soon as we connect again|advmod\tas|mark\twe|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'I don't think an internet failure will make us change our way of thinking ', he says.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 21/02/2017?",
+                    "answer": "'I don't think an internet failure will make us change our way of thinking"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is an internet failure?",
+                    "score": 0.7647,
+                    "answers": "an internet failure|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of internet failure?",
+                    "score": 0.7442,
+                    "answers": "www.bbc.com reported on 21/02/2017 that ' I do n't think an internet failure will make us change our way of thinking|ccomp\ton 21/02/2017|prep\tthat|mark\t'|punct\tdo|aux\tn't|neg\tthat ' I do n't think an internet failure will make us change our way of thinking|ccomp\tinternet|compound\twill|aux\tan internet failure will make us change our way of thinking|ccomp\tus|nsubj\tour|poss\t'|punct\t,|punct\twww.bbc.com reported on 21/02/2017 that ' I do n't think an internet failure will make us change our way of thinking ' , he says|ROOT"
+                },
+                {
+                    "question": "What is the definition of an internet failure?",
+                    "score": 0.7317,
+                    "answers": "an|det"
+                },
+                {
+                    "question": "What is the relationship between internet failure and our way of thinking?",
+                    "score": 0.6975,
+                    "answers": "our way of thinking|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "And even if he did, Hancock has not yet succeeded in persuading his students to disconnect for a weekend.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that Hancock hasn't succeeded in persuading his students to disconnect for a weekend?",
+                    "answer": "21/02/2017"
+                },
+                {
+                    "question": "What is the problem with Hancock's failure to convince his students to disconnect for a weekend?",
+                    "answer": "Hancock has not yet succeeded in persuading his students to disconnect for a weekend"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Hancock persuade his students to disconnect for a weekend?",
+                    "score": 0.8196,
+                    "answers": "that And even if he did , Hancock has not yet succeeded in persuading his students to disconnect for a weekend|ccomp"
+                },
+                {
+                    "question": "What was Hancock's reason for disconnecting for a weekend?",
+                    "score": 0.7409,
+                    "answers": "to disconnect for a weekend|xcomp\tfor a weekend|prep"
+                },
+                {
+                    "question": "What is Hancock's relationship with his students?",
+                    "score": 0.6895,
+                    "answers": "on 21/02/2017|prep\teven if he did|advcl\this|poss"
+                }
+            ]
+        }
+    ]
+}

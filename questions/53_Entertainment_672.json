@@ -1,0 +1,241 @@
+{
+    "id": "53_Entertainment_672",
+    "claim": "As of next month, there will be a drastic change in one of the most emblematic products of Mexican cuisine, the Chocolate Abuelita, which exists since , having as image to doña Sara García from  'Since the product belonged to La Azteca, the photo of Sara García, which for many years worked perfectly for us, has been used ', he declared in interview with El Miss Becher Schokoladenmilch, spokesperson of Nestle for Mexico. 'However, the image of modern grandmothers has changed markedly. And if they're seniors, we can't call them old ladies anymore, and that's important.\". The spokesperson added that from next month, the singer Madonna will be the image of the product, which is expected to be commercialized worldwide. 'Madonna represents the new old woman to be a grandmother who remains active and independent. In addition, she is better known than Mrs. Garcia, who despite her remarkable career, is not very identified outside Mexico. This is, without a doubt, our best trading strategy in years.\". The executive showed us what would be Madonna's first commercial in concert, announcing the product, although unfortunately she will not be able to present herself to the public until the news becomes official. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "30/11/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "As of next month, there will be a drastic change in one of the most emblematic products of Mexican cuisine, the Chocolate Abuelita, which exists since , having as image to doña Sara García from  'Since the product belonged to La Azteca, the photo of Sara García, which for many years worked perfectly for us, has been used ', he declared in interview with El Miss Becher Schokoladenmilch, spokesperson of Nestle for Mexico.",
+            "question_answers": [
+                {
+                    "question": "How long has the Chocolate Abuelita existed?",
+                    "answer": "since"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of food is the Chocolate Abuelita?",
+                    "score": 0.8069,
+                    "answers": "Mexican cuisine|pobj"
+                },
+                {
+                    "question": "Where did the photo of Sara Garcia originate from?",
+                    "score": 0.7857,
+                    "answers": "image to doña Sara García|pobj\tdoña|compound\tSara|compound\tdoña Sara García|pobj\tfrom|prep\tthe product|nsubj\tSince the product belonged to La Azteca|advcl\tLa|compound\tof Sara García|prep\tSara|compound\tSince the product belonged to La Azteca , the photo of Sara García , which for many years worked perfectly for us , has been used|ccomp\tEl|compound\tBecher|compound\tfor Mexico|prep"
+                },
+                {
+                    "question": "What are the most emblematic products of Mexican cuisine?",
+                    "score": 0.7547,
+                    "answers": "the most emblematic products of Mexican cuisine|pobj"
+                },
+                {
+                    "question": "What is the relationship between the Chocolate Abuelita and La Azteca food?",
+                    "score": 0.7179,
+                    "answers": "www.eldizque.com reported on 30/11/2016 that As of next month , there will be a drastic change in one of the most emblematic products of Mexican cuisine , the Chocolate Abuelita , which exists since , having as image to doña Sara García from  |ccomp"
+                },
+                {
+                    "question": "What is the name of the company that produces Chocolate Abuelita?",
+                    "score": 0.7072,
+                    "answers": "of Nestle for Mexico|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'However, the image of modern grandmothers has changed markedly.",
+            "question_answers": [
+                {
+                    "question": "What has changed markedly since the 30/11/2016 report by www.eldizque.com?",
+                    "answer": "the image of modern grandmothers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are modern grandmothers?",
+                    "score": 0.823,
+                    "answers": "of modern grandmothers|prep\tmodern grandmothers|pobj"
+                },
+                {
+                    "question": "What is the image of modern grandmothers?",
+                    "score": 0.8111,
+                    "answers": "www.eldizque.com reported on 30/11/2016 that ' However , the image of modern grandmothers has changed markedly|ROOT\tthe image of modern grandmothers|nsubj\tthat ' However , the image of modern grandmothers has changed markedly|ccomp"
+                },
+                {
+                    "question": "What is the modern grandmothers image?",
+                    "score": 0.7975,
+                    "answers": "modern|amod"
+                }
+            ]
+        },
+        {
+            "claim": "And if they're seniors, we can't call them old ladies anymore, and that's important.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 30/11/2016 that if they're seniors, we can't call them old ladies anymore?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "What did www.eldizque.com report that if they're seniors, we can't call them anymore?",
+                    "answer": "old ladies"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the age gap between seniors and old ladies?",
+                    "score": 0.8035,
+                    "answers": "seniors|attr"
+                },
+                {
+                    "question": "What are the old ladies now called?",
+                    "score": 0.7578,
+                    "answers": "old ladies|oprd"
+                },
+                {
+                    "question": "What are the names of the old ladies who are being called old ladies?",
+                    "score": 0.7419,
+                    "answers": "if they 're seniors|advcl"
+                },
+                {
+                    "question": "What is the relationship between old ladies and old ladies?",
+                    "score": 0.7351,
+                    "answers": "www.eldizque.com reported on 30/11/2016 that And if they 're seniors , we ca n't call them old ladies anymore , and that 's important|ROOT\ton 30/11/2016|prep\t30/11/2016|pobj\tca|aux\tthat And if they 're seniors , we ca n't call them old ladies anymore , and that 's important|ccomp\tthat 's important|conj\timportant|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "The spokesperson added that from next month, the singer Madonna will be the image of the product, which is expected to be commercialized worldwide.",
+            "question_answers": [
+                {
+                    "question": "Which singer will be the image of the product?",
+                    "answer": "Madonna"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will the singer Madonna be the image of the product?",
+                    "score": 0.8288,
+                    "answers": "from next month|prep"
+                },
+                {
+                    "question": "Who is the singer Madonna?",
+                    "score": 0.7193,
+                    "answers": "the singer Madonna|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the singer Madonna and the commercialized product?",
+                    "score": 0.7087,
+                    "answers": "which is expected to be commercialized worldwide|relcl"
+                },
+                {
+                    "question": "What is the name of the website that the singer Madonna will be the image of?",
+                    "score": 0.6829,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Madonna represents the new old woman to be a grandmother who remains active and independent.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 30/11/2016?",
+                    "answer": "'Madonna represents the new old woman to be a grandmother who remains active and independent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How old is Madonna?",
+                    "score": 0.7743,
+                    "answers": "old|amod"
+                },
+                {
+                    "question": "Who is the new old woman to be a grandmother who remains active and independent?",
+                    "score": 0.7105,
+                    "answers": "on 30/11/2016|prep\tMadonna|nsubj\tthat ' Madonna represents the new old woman to be a grandmother who remains active and independent|ccomp\twho remains active and independent|relcl"
+                },
+                {
+                    "question": "Who is Madonna?",
+                    "score": 0.6843,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\t'|nsubj\tthe|det\tnew|amod\tto|aux\ta|det\ta grandmother who remains active and independent|attr\twho|nsubj\tand|cc"
+                },
+                {
+                    "question": "What is the relationship between Madonna and the new old woman?",
+                    "score": 0.6807,
+                    "answers": "30/11/2016|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, she is better known than Mrs. Garcia, who despite her remarkable career, is not very identified outside Mexico.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that she was better known than Mrs. Garcia?",
+                    "answer": "30/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is Mrs. Garcia from?",
+                    "score": 0.7872,
+                    "answers": "www.eldizque.com reported on 30/11/2016 that In addition , she is better known than Mrs. Garcia , who despite her remarkable career , is not very identified outside Mexico|ROOT\tthat In addition , she is better known than Mrs. Garcia , who despite her remarkable career , is not very identified outside Mexico|ccomp\tthan Mrs. Garcia , who despite her remarkable career , is not very identified outside Mexico|prep\tMrs. Garcia , who despite her remarkable career , is not very identified outside Mexico|pobj\twho despite her remarkable career , is not very identified outside Mexico|relcl\toutside Mexico|prep"
+                },
+                {
+                    "question": "What is Mrs. Garcia known for?",
+                    "score": 0.7608,
+                    "answers": "better known than Mrs. Garcia , who despite her remarkable career , is not very identified outside Mexico|acomp"
+                },
+                {
+                    "question": "What is Mrs. Garcia's career?",
+                    "score": 0.7407,
+                    "answers": "www.eldizque.com|nsubj\ton 30/11/2016|prep\t30/11/2016|pobj\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\tshe|nsubj\tbetter|advmod\tMrs.|compound\t,|punct\twho|nsubjpass\tdespite her remarkable career|prep\ther|poss\tremarkable|amod\ther remarkable career|pobj\t,|punct\tis|auxpass\tnot|neg\tvery|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "This is, without a doubt, our best trading strategy in years.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 30/11/2016 that this is, without doubt, our best trading strategy in years?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the best trading strategy in history?",
+                    "score": 0.8515,
+                    "answers": "on 30/11/2016|prep\t30/11/2016|pobj\tthat This is , without a doubt , our best trading strategy in years|ccomp\tour best trading strategy in years|attr"
+                }
+            ]
+        },
+        {
+            "claim": "The executive showed us what would be Madonna's first commercial in concert, announcing the product, although unfortunately she will not be able to present herself to the public until the news becomes official.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Madonna's first commercial in concert was shown?",
+                    "answer": "30/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the executive tell the public about the first commercial in concert?",
+                    "score": 0.8023,
+                    "answers": "www.eldizque.com|nsubj\tthe public|pobj\tthe news|nsubj"
+                },
+                {
+                    "question": "What was the name of the first commercial that Madonna made?",
+                    "score": 0.7516,
+                    "answers": "Madonna 's|poss"
+                },
+                {
+                    "question": "How long did it take for the executive to present herself to the public?",
+                    "score": 0.7126,
+                    "answers": "although unfortunately she will not be able to present herself to the public until the news becomes official|advcl"
+                },
+                {
+                    "question": "What is the relationship between the executive and the public?",
+                    "score": 0.5926,
+                    "answers": "to the public|prep"
+                }
+            ]
+        }
+    ]
+}

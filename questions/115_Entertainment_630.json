@@ -1,0 +1,335 @@
+{
+    "id": "115_Entertainment_630",
+    "claim": "The actress used her social networks parta to narrate the dramatic moment she lived with her husband in Playa del CarmenCiudad de Mexico, Mexico Mexican singer and actress Lorena Herrera and her husband were saved from death thanks to a pizza, according to the same artist through her social networks. According to the same famous woman, they were near the place where the shooting took place at the BPM electronic music festival in Playa del Carmen, Quintana Roo, where five people were killed.'My husband and I went to Playa del Carmen and we were at a BPM party a block away from where the shooting took place. God is really great, because I was insisting to be at the closing of the festival, but we say better to eat a pizza on #NUMBER* Street, where the unfortunate incident took place. It was terrifying to hear the screams and shots of people running for their lives ', wrote the singer. Herrera recalled that they were beginning to eat pizza when I heard the first shots in the place and the cries of despair from people at the music festival that every year is visited by thousands of people from other countries.'I was taking the first bite to pizza, when everyone started screaming and running; I got scared as you had no idea and decided to get into the pizza shop in case something stronger happened. Minutes later we saw ambulances passing by, the cops and we decided to wait a few minutes at that place and then we went to the house ', he said. At the same time the artist that there were thousands of people in the place.'If you don't die by a bullet, you die by the crowd of people who crush you by panic. I really thank God that my husband felt bad, because if that hadn't happened, I would have been one of the people who saw death ', he lamented. I'm sorry.",
+    "source": "www.elheraldo.hn",
+    "date": "18/01/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The actress used social networks parta to narrate the dramatic moment The actress lived with her husband in Playa del CarmenCiudad de Mexico, Mexico Mexican singer and actress Lorena Herrera and her husband were saved from death thanks to a pizza, according to The actress through social networks.",
+            "question_answers": [
+                {
+                    "question": "Who is the singer and actress who was saved from death by a pizza?",
+                    "answer": "Lorena Herrera"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did Lorena Herrera save her husband from death?",
+                    "score": 0.7122,
+                    "answers": "from death|prep\tdeath|pobj\ta pizza|pobj"
+                },
+                {
+                    "question": "How was Lorena Herrera saved from death?",
+                    "score": 0.7021,
+                    "answers": "Mexican singer and actress Lorena Herrera and her husband were saved from death thanks to a pizza , according to The actress through social networks|relcl"
+                },
+                {
+                    "question": "What social networks did Lorena Herrera use to save her husband?",
+                    "score": 0.7009,
+                    "answers": "social networks parta|dobj"
+                },
+                {
+                    "question": "Where did Lorena Herrera live during her time in Mexico?",
+                    "score": 0.6897,
+                    "answers": "The actress lived with her husband in Playa del CarmenCiudad de Mexico , Mexico|relcl\tin Playa del CarmenCiudad de Mexico , Mexico|prep\tPlaya|compound\tPlaya del CarmenCiudad de Mexico , Mexico|pobj\tde Mexico|prep"
+                },
+                {
+                    "question": "What was Lorena Herrera's relationship with her husband in Playa del CarmenCiudad de Mexico?",
+                    "score": 0.6628,
+                    "answers": "dramatic|amod"
+                }
+            ]
+        },
+        {
+            "claim": "According to The actress , Mexican singer and actress Lorena Herrera and her husband were near the place where the shooting took place at the BPM electronic music festival in Playa del Carmen, Quintana Roo, where five people were killed .",
+            "question_answers": [
+                {
+                    "question": "Who was Lorena Herrera?",
+                    "answer": "The actress"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Lorena Herrera when the shooting took place?",
+                    "score": 0.7109,
+                    "answers": "www.elheraldo.hn|nsubj\twww.elheraldo.hn said on 18/01/2017 that According to The actress , Mexican singer and actress Lorena Herrera and her husband were near the place where the shooting took place at the BPM electronic music festival in Playa del Carmen , Quintana Roo , where five people were killed|ROOT\tthat|mark\tAccording to The actress|prep\tto The actress|prep\tThe|det\tThe actress|pobj\t,|punct\tand|cc\tactress|conj\tLorena|compound\tMexican singer and actress Lorena Herrera and her husband|nsubj\tand|cc\ther|poss\tthe|det\twhere|advmod\tthe|det\tthe shooting|nsubj\tplace|dobj\tthe|det\telectronic|amod\telectronic music|compound\tPlaya|compound\tdel|compound\t,|punct\tQuintana|compound\t,|punct\twhere|advmod"
+                },
+                {
+                    "question": "How many people were killed in the shooting at Playa del Carmen, Quintana Roo?",
+                    "score": 0.6516,
+                    "answers": "Playa del Carmen , Quintana Roo|pobj"
+                },
+                {
+                    "question": "Who is Lorena Herrera's husband?",
+                    "score": 0.6115,
+                    "answers": "her husband|conj"
+                },
+                {
+                    "question": "Who is Lorena Herrera?",
+                    "score": 0.601,
+                    "answers": "Mexican singer and actress|nmod"
+                },
+                {
+                    "question": "What is the name of the electronic music festival where five people were killed?",
+                    "score": 0.5804,
+                    "answers": "BPM|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "Mexican singer and actress Lorena Herrera and her husband went to Playa del Carmen, Quintana Roo and Mexican singer and actress Lorena Herrera and her husband were at a BPM party a block away from where the shooting took place.",
+            "question_answers": [
+                {
+                    "question": "What party was Lorena Herrera and her husband at?",
+                    "answer": "BPM party"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Lorena Herrera and her husband go to Playa del Carmen?",
+                    "score": 0.8058,
+                    "answers": "Mexican singer and actress Lorena Herrera and her husband were at a BPM party a block away from where the shooting took place|conj"
+                },
+                {
+                    "question": "Where did Lorena Herrera and Lorena Roo attend a BPM party?",
+                    "score": 0.7528,
+                    "answers": "Playa del Carmen , Quintana Roo|pobj"
+                },
+                {
+                    "question": "Where was Lorena Herrera when the shooting took place?",
+                    "score": 0.7206,
+                    "answers": "at a BPM party a block away from where the shooting took place|prep\ta BPM party a block away from where the shooting took place|pobj\tfrom where the shooting took place|prep\tthe shooting|nsubj\twhere the shooting took place|pcomp"
+                },
+                {
+                    "question": "Who is Lorena Herrera?",
+                    "score": 0.6265,
+                    "answers": "Mexican singer and actress|nmod\tMexican singer and actress|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "God is really great, because The actress was insisting to be at the closing of the BPM electronic music festival in Playa del Carmen, Quintana Roo , but Mexican singer and actress Lorena Herrera and her husband say better to eat a pizza on the place where the shooting took place at the BPM electronic music festival in Playa del Carmen, Quintana Roo, where five people were killed .",
+            "question_answers": [
+                {
+                    "question": "Where was the BPM electronic music festival?",
+                    "answer": "Playa del Carmen, Quintana Roo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Lorena Herrera say better to eat a pizza at Playa del Carmen, Quintana Roo?",
+                    "score": 0.7649,
+                    "answers": "www.elheraldo.hn said on 18/01/2017 that God is really great , because The actress was insisting to be at the closing of the BPM electronic music festival in Playa del Carmen , Quintana Roo , but Mexican singer and actress Lorena Herrera and her husband say better to eat a pizza on the place where the shooting took place at the BPM electronic music festival in Playa del Carmen , Quintana Roo , where five people were killed|ROOT"
+                },
+                {
+                    "question": "Did Lorena Herrera want to be at the closing of the BPM electronic music festival?",
+                    "score": 0.7456,
+                    "answers": "to be at the closing of the BPM electronic music festival in Playa del Carmen , Quintana Roo|xcomp"
+                },
+                {
+                    "question": "Where did the shooting take place?",
+                    "score": 0.6421,
+                    "answers": "the place where the shooting took place at the BPM electronic music festival in Playa del Carmen , Quintana Roo , where five people were killed|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It was terrifying to hear the screams and shots of people running for lives ', wrote The actress .",
+            "question_answers": [
+                {
+                    "question": "What did Elheraldo say was terrifying?",
+                    "answer": "to hear the screams and shots of people running for lives"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were running for lives in 2017?",
+                    "score": 0.6591,
+                    "answers": "www.elheraldo.hn|nsubj\twww.elheraldo.hn said on 18/01/2017 that It was terrifying to hear the screams and shots of people running for lives|ccomp\ton 18/01/2017|prep\tthat|mark\tIt|nsubj\tto|aux\tthe|det\tand|cc\tshots|conj\tof people running for lives|prep\tpeople running for lives|pobj\trunning for lives|acl\tlives|pobj\t'|punct\t,|punct\tThe|det"
+                },
+                {
+                    "question": "What was the sound of people running for lives?",
+                    "score": 0.6522,
+                    "answers": "that It was terrifying to hear the screams and shots of people running for lives|ccomp\tto hear the screams and shots of people running for lives|xcomp\tthe screams and shots of people running for lives|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The actress recalled that Mexican singer and actress Lorena Herrera and her husband were beginning to eat pizza when The actress heard the first shots in the place and the cries of despair from people at the BPM electronic music festival in Playa del Carmen, Quintana Roo .",
+            "question_answers": [
+                {
+                    "question": "What did Elheraldo recall about her husband and singer at the BPM electronic music festival in Playa del Carmen?",
+                    "answer": "Lorena Herrera and her husband were beginning to eat pizza"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Lorena Herrera and her husband eat pizza?",
+                    "score": 0.7449,
+                    "answers": "on 18/01/2017|prep\tand|cc\tLorena|compound\tMexican singer and actress Lorena Herrera and her husband|nsubj\tand|cc\tthat Mexican singer and actress Lorena Herrera and her husband were beginning to eat pizza when The actress heard the first shots in the place and the cries of despair from people at the BPM electronic music festival in Playa del Carmen , Quintana Roo|ccomp\tto|aux\tpizza|dobj\twhen|advmod\tthe|det\tthe|det\tthe place|pobj\tand|cc\tthe|det\tthe|det\t,|punct"
+                },
+                {
+                    "question": "What type of music did Lorena Herrera hear at the BPM electronic music festival?",
+                    "score": 0.6389,
+                    "answers": "electronic music|compound"
+                },
+                {
+                    "question": "Where was Lorena Herrera when she first heard the first shots of pizza from?",
+                    "score": 0.622,
+                    "answers": "in the place|prep"
+                },
+                {
+                    "question": "What is Lorena Herrera's relationship with her husband?",
+                    "score": 0.5582,
+                    "answers": "actress|conj"
+                },
+                {
+                    "question": "Who is Lorena Herrera's husband?",
+                    "score": 0.5411,
+                    "answers": "her husband|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'I was taking the first bite to pizza, when everyone started screaming and running; The actress got scared as you had no idea and decided to get into the pizza shop in case something stronger happened.",
+            "question_answers": [
+                {
+                    "question": "What did Elheraldo say on 18/01/2017?",
+                    "answer": "'I was taking the first bite to pizza, when everyone started screaming and running;"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the actress get scared as she ran into a pizza shop?",
+                    "score": 0.7988,
+                    "answers": "no idea|dobj"
+                },
+                {
+                    "question": "What did the actress say about eating pizza at a pizza shop?",
+                    "score": 0.7896,
+                    "answers": "on 18/01/2017|prep"
+                },
+                {
+                    "question": "What was the name of the restaurant where the actress took her first bite to pizza?",
+                    "score": 0.6734,
+                    "answers": "I|nsubj\twas|aux\twhen|advmod\teveryone|nsubj\tand|cc\tas|mark\tand|cc"
+                },
+                {
+                    "question": "What is the relationship between pizza and the actress?",
+                    "score": 0.6254,
+                    "answers": "stronger|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Minutes later we saw ambulances passing by, the cops and we decided to wait a few minutes at that place and then we went to the house ', he said.",
+            "question_answers": [
+                {
+                    "question": "Where did 'elheraldo.hn' go after the ambulances passed by?",
+                    "answer": "the house"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did the cops wait for ambulances to pass by?",
+                    "score": 0.6328,
+                    "answers": "that|mark\tMinutes|npadvmod\tby|advmod\t,|punct\tthe|det\tand|cc\tto|aux\ta|quantmod\tthat|det\tand|cc\tthen|advmod\tthe|det\t'|punct\t,|punct\the|nsubj"
+                },
+                {
+                    "question": "How long did it take to wait for an ambulance to pass by?",
+                    "score": 0.6222,
+                    "answers": "to wait a few minutes at that place|xcomp"
+                },
+                {
+                    "question": "What did the police say about the ambulance passing by?",
+                    "score": 0.5913,
+                    "answers": "on 18/01/2017|prep\tthat Minutes later we saw ambulances the cops and passing by , we decided to wait a few minutes at that place and then we went to the house|ccomp\tthen we went to the house|conj"
+                },
+                {
+                    "question": "What was the name of the ambulance that passed by the cops and firefighters?",
+                    "score": 0.5284,
+                    "answers": "ambulances the cops and|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "At the same time the artist that there were thousands of people in the place.",
+            "question_answers": [
+                {
+                    "question": "How many people were there at Elheraldo?",
+                    "answer": "thousands"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were in the place at the same time as the artists?",
+                    "score": 0.5753,
+                    "answers": "the same time|pobj\tthat At the same time the artist|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'If you don't die by a bullet, you die by the crowd of people who crush you by panic.",
+            "question_answers": [
+                {
+                    "question": "What did 'elheraldo.hn' say on 18/01/2017 that if you don't die by a bullet, you die by?",
+                    "answer": "the crowd of people who crush you by panic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who crush people by panic?",
+                    "score": 0.6947,
+                    "answers": "who crush you by panic|relcl"
+                },
+                {
+                    "question": "What does it mean to be killed by a bullet?",
+                    "score": 0.6476,
+                    "answers": "by a bullet|prep\ta bullet|pobj"
+                },
+                {
+                    "question": "How many people crush you by a bullet?",
+                    "score": 0.6299,
+                    "answers": "www.elheraldo.hn said on 18/01/2017 that ' If you do n't die by a bullet , you die by the crowd of people who crush you by panic|ROOT\tIf you do n't die by a bullet|advcl\tthat ' If you do n't die by a bullet , you die by the crowd of people who crush you by panic|ccomp"
+                },
+                {
+                    "question": "What is the name of the crowd of people who crush you by panic?",
+                    "score": 0.5581,
+                    "answers": "that|mark\t'|punct\tn't|neg\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "I really thank God that my husband felt bad, because if that hadn't happened, I would have been one of the people who saw death ', he lamented.",
+            "question_answers": [
+                {
+                    "question": "Why did he say he was thankful that he felt bad?",
+                    "answer": "if that hadn't happened, I would have been one of the people who saw death"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Mendell�s feelings about his husband's death?",
+                    "score": 0.652,
+                    "answers": "on 18/01/2017|prep\tthat|mark\tI|nsubj\treally|advmod\tGod|dobj\tthat|mark\tmy|poss\t,|punct\tbecause|mark\tthat|nsubj\t,|punct\tI|nsubj\twould|aux\thave|aux\tthe|det\t'|punct\t,|punct\the|nsubj"
+                },
+                {
+                    "question": "What was the relationship between Mendell and his husband?",
+                    "score": 0.6329,
+                    "answers": "that my husband felt bad|ccomp\tbad|acomp"
+                },
+                {
+                    "question": "How many people would have died if the death penalty did not happen?",
+                    "score": 0.6265,
+                    "answers": "because if that had n't happened , I would have been one of the people who saw death|advcl"
+                },
+                {
+                    "question": "What is the death rate in the United States?",
+                    "score": 0.5977,
+                    "answers": "one of the people who saw death|attr\tof the people who saw death|prep\tthe people who saw death|pobj\twho saw death|relcl\tdeath|dobj"
+                }
+            ]
+        }
+    ]
+}

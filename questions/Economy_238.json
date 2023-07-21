@@ -1,0 +1,349 @@
+{
+    "id": "Economy_238",
+    "claim": "Mexico will increase its minimum wage. I'm sorry. I'm sorry.  dollars per day ( times less than in the United States) Almost  millions of Mexicans will receive a salary increase next week: from  to  dollars per day. Mexico's government and business leaders agreed to raise the country's minimum wage from December* to #NUMBER* pesos (the equivalent of #NUMBER* dollars). The previous minimum salary was #NUMBER* pesos. % increase is good news for  millions of Mexicans who work one or two jobs with minimum wage. LEE: Against all odds, Mexico's economy managed to survive Trump's first yearHowever, this Mexican measure revives an essential complaint from American workers who voted for Donald Trump, partly because of his promise to renegotiate NAFTA, the trade treaty between the United States, Canada and Mexico. Trump Blames NAFTA for Losing Many Jobs in the U.S. · Global Voices. Cheap labor attracted U.S. companies to Mexico for decades. Robert Scott of the Institute of Economic Policy estimates that between  and  jobs were lost near  in the United States. NAFTA came into effect in . With the US national minimum wage in  dollars per hour  dollars for a working day of  hours,  times more than the Mexican salaryMexico has a clear advantage to attract jobs. It is one of the reasons why the country often has a very low unemployment rate, which currently stands at %. In comparison, unemployment in the United States is %. In fact, one of the objectives of the Donald Trump administration in the renegotiation of NAFTA is to have a stricter application of minimum wage laws throughout North America and the most acute problem is with Mexico. For almost two years, the Mexican peso has remained around its historical minimum, approximately five cents. Seen differently, a dollar has been worth between  and  pesos since the beginning of . I'm sorry.",
+    "source": "cnnespanol.cnn.com",
+    "date": "22/11/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Mexico will increase its minimum wage .",
+            "question_answers": [
+                {
+                    "question": "What did Mexico increase on 22/11/2017?",
+                    "answer": "minimum wage"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the minimum wage in Mexico?",
+                    "score": 0.8825,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 22/11/2017 that Mexico will increase its minimum wage|ROOT\ton 22/11/2017|prep\tthat|mark\twill|aux\tthat Mexico will increase its minimum wage|ccomp\tits|poss\tminimum|compound\tits minimum wage|dobj"
+                }
+            ]
+        },
+        {
+            "claim": " dollars per day ( times less than in the United States ) Almost  millions of Mexicans will receive a salary increase next week: from  to  dollars per day.",
+            "question_answers": [
+                {
+                    "question": "How much less did cnnespanol.cnn.com say the Mexicans were getting per day?",
+                    "answer": "times less than in the United States"
+                },
+                {
+                    "question": "How much less did cnnespanol.cnn.com say the Mexicans were getting per day?",
+                    "answer": "times less than in the United States"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average salary of Mexicans in 2017?",
+                    "score": 0.6913,
+                    "answers": "a salary increase from|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico government and business leaders agreed to increase its minimum wage from December* to #NUMBER* pesos (the equivalent of #NUMBER* dollars).",
+            "question_answers": [
+                {
+                    "question": "What did Mexico's government and business leaders agree to increase in December?",
+                    "answer": "minimum wage"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current minimum wage in Mexico?",
+                    "score": 0.6959,
+                    "answers": "cnnespanol.cnn.com reported on 22/11/2017 that Mexico government and business leaders agreed to increase its minimum wage from December * to # NUMBER * pesos ( the equivalent of # NUMBER * dollars )|ROOT\ton 22/11/2017|prep\tthat|mark\tMexico government and business|nmod\tand|cc\tbusiness|conj\tMexico government and business leaders|nsubj\tthat Mexico government and business leaders agreed to increase its minimum wage from December * to # NUMBER * pesos ( the equivalent of # NUMBER * dollars )|ccomp\tto|aux\tto increase its minimum wage from December * to # NUMBER * pesos ( the equivalent of # NUMBER * dollars )|xcomp\tits|poss\tfrom December|prep\t*|punct\tto # NUMBER * pesos ( the equivalent of # NUMBER * dollars )|prep\t#|nummod\tNUMBER|nummod\t*|punct\t# NUMBER * pesos ( the equivalent of # NUMBER * dollars )|pobj\t(|punct\tthe|det\tthe equivalent of # NUMBER * dollars|appos\tof # NUMBER * dollars|prep\t#|nmod\tNUMBER|nmod\t*|punct\t# NUMBER * dollars|pobj\t)|punct"
+                }
+            ]
+        },
+        {
+            "claim": "The previous minimum salary was #NUMBER* pesos.",
+            "question_answers": [
+                {
+                    "question": "What was the previous salary of pesos?",
+                    "answer": "minimum salary"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current minimum salary in Mexico?",
+                    "score": 0.8267,
+                    "answers": "that|mark\tThe|det\tprevious|amod\tminimum|amod\t#|nmod\t*|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "increase is good news for  millions of Mexicans who work one or two jobs with minimum wage.",
+            "question_answers": [
+                {
+                    "question": "Who reported the increase in minimum wage for Mexicans on 22/11/2017?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Mexicans work with minimum wage?",
+                    "score": 0.8818,
+                    "answers": "  millions of Mexicans who work one or two jobs with minimum wage|dep\tmillions of Mexicans who work one or two jobs with minimum wage|dobj"
+                },
+                {
+                    "question": "What is the current minimum wage in Mexico?",
+                    "score": 0.8565,
+                    "answers": "cnnespanol.cnn.com reported on 22/11/2017 that increase is good news for   millions of Mexicans who work one or two jobs with minimum wage|ROOT\ton 22/11/2017|prep\tthat|det\tthat increase|nsubj\tthat increase is good news for|ccomp\tgood|amod\tgood news|attr\tfor|prep\tor|cc"
+                },
+                {
+                    "question": "What is the minimum wage of Mexicans?",
+                    "score": 0.8511,
+                    "answers": "of Mexicans|prep"
+                }
+            ]
+        },
+        {
+            "claim": "LEE: Against all odds, Mexico economy managed to survive Trump's first yearHowever, increase revives an essential complaint from American workers who voted for Trump's , partly because of promise to renegotiate NAFTA, the trade treaty between the United States, Canada and Mexico .",
+            "question_answers": [
+                {
+                    "question": "Who complained about the increase in NAFTA?",
+                    "answer": "American workers who voted for Trump's"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the American workers who voted for Trump say about NAFTA?",
+                    "score": 0.8062,
+                    "answers": "who voted for Trump 's , partly because of promise to renegotiate NAFTA , the trade treaty between the United States , Canada and Mexico|relcl"
+                },
+                {
+                    "question": "What was the impact of NAFTA on the Mexican economy?",
+                    "score": 0.7513,
+                    "answers": "Mexico economy|nsubj"
+                },
+                {
+                    "question": "What is NAFTA?",
+                    "score": 0.7075,
+                    "answers": ":|punct\tall|det\t,|punct\t,|punct\t,|punct\tpartly because of promise to renegotiate NAFTA , the trade treaty between the United States , Canada and Mexico|prep\tof|pcomp\tpromise to renegotiate NAFTA , the trade treaty between the United States , Canada and Mexico|pobj\tto renegotiate NAFTA , the trade treaty between the United States , Canada and Mexico|acl\tNAFTA , the trade treaty between the United States , Canada and Mexico|dobj\t,|punct\tthe|det\ttrade|compound\tthe trade treaty between the United States , Canada and Mexico|appos\tbetween the United States , Canada and Mexico|prep\tthe|det\tUnited|compound\tthe United States , Canada and Mexico|pobj\t,|punct\tCanada and Mexico|conj"
+                },
+                {
+                    "question": "How many American workers voted for Trump's first year in office?",
+                    "score": 0.7027,
+                    "answers": ", increase revives an essential complaint from American workers who voted for Trump 's , partly because of promise to renegotiate NAFTA , the trade treaty between the United States , Canada and Mexico|ROOT\tan essential complaint from American workers who voted for Trump 's , partly because of promise to renegotiate NAFTA , the trade treaty between the United States , Canada and Mexico|dobj\tfrom American workers who voted for Trump 's , partly because of promise to renegotiate NAFTA , the trade treaty between the United States , Canada and Mexico|prep\tAmerican workers who voted for Trump 's , partly because of promise to renegotiate NAFTA , the trade treaty between the United States , Canada and Mexico|pobj"
+                },
+                {
+                    "question": "What is the relationship between Trump and NAFTA?",
+                    "score": 0.6936,
+                    "answers": "Trump 's|poss\tfirst|amod\tTrump 's first yearHowever|npadvmod\tessential|amod\tfor Trump 's|prep\tTrump 's|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Trump's Blames NAFTA, the trade treaty between the United States, Canada and Mexico for Losing Many Jobs in the U.S. · Global Voices.",
+            "question_answers": [
+                {
+                    "question": "What did Trump blame NAFTA for?",
+                    "answer": "Losing Many Jobs in the U.S."
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is NAFTA?",
+                    "score": 0.6931,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 22/11/2017 that Trump 's Blames NAFTA , the trade treaty between the United States , Canada and Mexico for Losing Many Jobs in the U.S. ·|ROOT\ton 22/11/2017|prep\tthat|mark\tTrump 's|nsubj\t's|case\tthat Trump 's Blames NAFTA , the trade treaty between the United States , Canada and Mexico for Losing Many Jobs in the U.S.|ccomp\tNAFTA , the trade treaty between the United States , Canada and Mexico|dobj\t,|punct\tthe|det\ttrade|compound\tthe trade treaty between the United States , Canada and Mexico|appos\tbetween the United States , Canada and Mexico|prep\tthe|det\tUnited|compound\tthe United States , Canada and Mexico|pobj\t,|punct\tCanada and Mexico|conj\tand|cc\tfor Losing Many Jobs in the U.S.|prep\tLosing Many Jobs in the U.S.|pcomp\tMany|amod\tMany Jobs in the U.S.|dobj\tin the U.S.|prep\tthe|det\tthe U.S.|pobj\t·|punct\tGlobal|compound\tGlobal Voices|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Cheap labor attracted U.S. companies to Mexico for decades.",
+            "question_answers": [
+                {
+                    "question": "What attracted U.S. companies to Mexico?",
+                    "answer": "Cheap labor"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Cheap labor?",
+                    "score": 0.776,
+                    "answers": "Cheap labor|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of foreign labor that US companies receive from Mexico?",
+                    "score": 0.7367,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6183,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Robert Scott of the Institute of Economic Policy estimates that between  and  jobs were lost near  in the United States .",
+            "question_answers": [
+                {
+                    "question": "Who was the director of the Institute of Economic Policy?",
+                    "answer": "Robert Scott"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many jobs were lost in the United States in 2017?",
+                    "score": 0.6276,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 22/11/2017 that Robert Scott of the Institute of Economic Policy estimates that between   and|ROOT\ton 22/11/2017|prep\tthat|mark\tRobert|compound\tRobert Scott of the Institute of Economic Policy|nsubj\tof the Institute of Economic Policy|prep\tthe|det\tof Economic Policy|prep\tEconomic|compound\tEconomic Policy|pobj\tthat Robert Scott of the Institute of Economic Policy estimates that between   and|ccomp\tthat|mark\tbetween|dep\tthat between   and|dep\tand|cc\t  jobs were lost near   in the United States|dep\tjobs|nsubjpass\twere|auxpass\tjobs were lost near|acl\tnear|prep\tjobs were lost near   in the United States|dep\tin the United States|prep\tthe|det\tUnited|compound"
+                }
+            ]
+        },
+        {
+            "claim": "NAFTA, the trade treaty between the United States, Canada and Mexico came into effect in .",
+            "question_answers": [
+                {
+                    "question": "What is NAFTA?",
+                    "answer": "the trade treaty between the United States, Canada and Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did NAFTA go into effect?",
+                    "score": 0.9334,
+                    "answers": "into effect|prep"
+                },
+                {
+                    "question": "When did NAFTA come into effect?",
+                    "score": 0.9316,
+                    "answers": "effect|pobj"
+                },
+                {
+                    "question": "What is NAFTA?",
+                    "score": 0.8363,
+                    "answers": "cnnespanol.cnn.com reported on 22/11/2017 that NAFTA , the trade treaty between the United States , Canada and Mexico came into effect in|ROOT\ton 22/11/2017|prep\tthat|mark\tNAFTA , the trade treaty between the United States , Canada and Mexico|nsubj\t,|punct\tthe|det\ttrade|compound\tthe trade treaty between the United States , Canada and Mexico|appos\tbetween the United States , Canada and Mexico|prep\tthe|det\tUnited|compound\tthe United States , Canada and Mexico|pobj\t,|punct\tCanada and Mexico|conj\tand|cc\tthat NAFTA , the trade treaty between the United States , Canada and Mexico came into effect in|ccomp\tin|prep"
+                }
+            ]
+        },
+        {
+            "claim": "With the US national minimum wage in  dollars per hour  dollars for a working day of  hours,  times more than the Mexican Mexico has a clear advantage to attract jobs.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 22/11/2017 that Mexico has a clear advantage to attract jobs?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the national minimum wage?",
+                    "score": 0.8018,
+                    "answers": "the US national minimum wage|nsubj\tthat With the US national minimum wage in|prep"
+                },
+                {
+                    "question": "What is the US national minimum wage in dollars per hour?",
+                    "score": 0.8013,
+                    "answers": "that|mark\tWith|mark\tthe|det\ta|det\tof|prep\t,|punct\ttimes|npadvmod\tthe|det\t,   times more than the Mexican Mexico has a clear advantage to attract jobs|ccomp\ta|det\tclear|amod\tto|aux"
+                },
+                {
+                    "question": "What is the United States national minimum wage for a working day?",
+                    "score": 0.7976,
+                    "answers": "per hour|prep\thour|pobj\t |dep\thours|dobj"
+                },
+                {
+                    "question": "What is the minimum wage in the United States?",
+                    "score": 0.7753,
+                    "answers": "minimum|compound\tworking|amod\ta working day of|pobj\t  hours|dep\t,  |dep\tthan the Mexican|prep\tto attract jobs|acl\tjobs|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "It is one of the reasons why the country often has a very low unemployment rate, which currently stands at %.",
+            "question_answers": [
+                {
+                    "question": "What is the unemployment rate in China?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the unemployment rate?",
+                    "score": 0.7807,
+                    "answers": "a very low unemployment rate , which currently stands at %|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In comparison, unemployment in the United States is %.",
+            "question_answers": [
+                {
+                    "question": "What is the unemployment rate in the United States?",
+                    "answer": "unemployment in the United States is"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the unemployment rate in the United States?",
+                    "score": 0.8678,
+                    "answers": "cnnespanol.cnn.com reported on 22/11/2017 that In comparison , unemployment in the United States is %|ROOT\ton 22/11/2017|prep\tthat|mark\tIn comparison|prep\tcomparison|pobj\t,|punct\tunemployment in the United States|nsubj\tin the United States|prep\tthe|det\tUnited|compound\tthat In comparison , unemployment in the United States is %|ccomp\t%|attr"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, one of the objectives of the Donald Trump administration in the renegotiation of NAFTA is to have a stricter application of minimum wage laws throughout North America and the most acute problem is with Mexico.",
+            "question_answers": [
+                {
+                    "question": "What is one of the objectives of the Trump administration in the renegotiation of NAFTA?",
+                    "answer": "to have a stricter application of minimum wage laws throughout North America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the objectives of the Trump administration in renegotiation of NAFTA?",
+                    "score": 0.8458,
+                    "answers": "in the renegotiation of NAFTA|prep\tthe renegotiation of NAFTA|pobj"
+                },
+                {
+                    "question": "What is the most acute problem with Mexico?",
+                    "score": 0.7135,
+                    "answers": "the most acute problem is with Mexico|conj"
+                }
+            ]
+        },
+        {
+            "claim": "For almost two years, the Mexican peso has remained around its historical minimum, approximately five cents.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Mexican peso has remained around its historical minimum for almost two years?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the historical minimum for the Mexican peso?",
+                    "score": 0.7768,
+                    "answers": "cnnespanol.cnn.com reported on 22/11/2017 that For almost two years , the Mexican peso has remained around its historical minimum , approximately five cents|ROOT\ton 22/11/2017|prep\tthat|mark\tFor almost two years|prep\talmost|advmod\talmost two|nummod\t,|punct\tthe|det\tthe Mexican peso|nsubj\thas|aux\tthat For almost two years , the Mexican peso has remained around its historical minimum , approximately five cents|ccomp\taround its historical minimum , approximately five cents|prep\tits|poss\thistorical|amod\tits historical minimum , approximately five cents|pobj\t,|punct\tapproximately|advmod\tapproximately five|nummod"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5917,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Seen differently, a dollar has been worth between  and  pesos since the beginning of .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 22/11/2017 that a dollar has been worth between and pesos since the beginning of the year?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much has a dollar been worth since the beginning of 2017?",
+                    "score": 0.882,
+                    "answers": "a dollar|nsubj"
+                },
+                {
+                    "question": "What is the difference between a dollar and a pesos?",
+                    "score": 0.7819,
+                    "answers": "cnnespanol.cnn.com reported on 22/11/2017 that Seen differently , a dollar has been worth between   and   pesos since the beginning of|ROOT\ton 22/11/2017|prep\tthat|mark\tSeen differently|advcl\tdifferently|advmod\t,|punct\ta|det\thas|aux\tthat Seen differently , a dollar has been worth between|ccomp\tworth between|acomp\tbetween|prep\t  and   pesos|dep\tand|cc\t |dep\t  pesos|nmod\tthe|det\tof|prep"
+                }
+            ]
+        }
+    ]
+}

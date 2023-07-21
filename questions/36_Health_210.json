@@ -1,0 +1,196 @@
+{
+    "id": "36_Health_210",
+    "claim": "The medicine will be sold under the trade name Addyi. It has been nicknamed the'Female Viagra'in press reports, even though it does not work as the successful male pill, which was released by Pfizer Inc in  and was the first approved treatment for erectile dysfunction. A controversial drug to treat low sexual desire in women got approval from the U.S. Food and Drug Administration (FDA) on Tuesday, but with warnings about potential dangerous side effects. The FDA had twice rejected the medicine, flibanserin, developed by the private company Sprout Pharmaceuticals. Its most recent decision comes after an advisory panel concluded in June that the medicine should be approved with strict measures in place to ensure that patients are fully aware of its risks. The medicine will be sold under the trade name Addyi. It has been nicknamed the'Female Viagra'in press reports, even though it does not work as the successful male pill, which was released by Pfizer Inc in  and was the first approved treatment for erectile dysfunction. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "19/08/2015",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The medicine will be sold under the trade name Addyi.",
+            "question_answers": [
+                {
+                    "question": "On what date was it reported that Addyida will be sold under the trade name Addyida?",
+                    "answer": "19/08/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the trade name of Addyi?",
+                    "score": 0.8071,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 19/08/2015 that The medicine will be sold under the trade name Addyi|ROOT\ton 19/08/2015|prep\tthat|mark\tThe|det\twill|aux\tbe|auxpass\tthat The medicine will be sold under the trade name Addyi|ccomp\tunder the trade name Addyi|prep\tthe|det\ttrade|compound\tthe trade name Addyi|pobj"
+                },
+                {
+                    "question": "What is Addyi?",
+                    "score": 0.7987,
+                    "answers": "The medicine|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "It has been nicknamed the'Female Viagra'in press reports, even though it does not work as the successful male pill, which was released by Pfizer Inc in  and was the first approved treatment for erectile dysfunction.",
+            "question_answers": [
+                {
+                    "question": "What company released Viagra?",
+                    "answer": "Pfizer Inc"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How successful is the male pill for erectile dysfunction?",
+                    "score": 0.8405,
+                    "answers": "successful|amod"
+                },
+                {
+                    "question": "What was Pfizer Inc's first approved treatment for erectile dysfunction?",
+                    "score": 0.8172,
+                    "answers": "which was released by Pfizer Inc in|relcl\tby Pfizer Inc|agent"
+                },
+                {
+                    "question": "What is the name of Pfizer's female Viagra?",
+                    "score": 0.7638,
+                    "answers": "that It has been nicknamed the'Female Viagra'in press reports , even though it does not work as the successful male pill , which was released by Pfizer Inc in|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "A controversial drug to treat low sexual desire in women got approval from the U.S. Food and Drug Administration (FDA) on Tuesday, but with warnings about potential dangerous side effects.",
+            "question_answers": [
+                {
+                    "question": "What did the FDA say about the drug?",
+                    "answer": "warnings about potential dangerous side effects"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the FDA approve a controversial drug to treat low sexual desire in women?",
+                    "score": 0.9027,
+                    "answers": "but|cc"
+                },
+                {
+                    "question": "What drugs has FDA approved?",
+                    "score": 0.8666,
+                    "answers": "www.forbes.com.mx|nsubj"
+                },
+                {
+                    "question": "What drugs have received approval from the FDA?",
+                    "score": 0.8648,
+                    "answers": "www.forbes.com.mx reported on 19/08/2015 that A controversial drug to treat low sexual desire in women got approval from the U.S. Food and Drug Administration ( FDA ) on Tuesday , but with warnings about potential dangerous side effects|ROOT\tthat|mark\tA|det\tlow|amod\tsexual|amod\tthe|det"
+                },
+                {
+                    "question": "What did the Food and Drug Administration say about the use of the drug?",
+                    "score": 0.8291,
+                    "answers": "controversial|amod\tto|aux\tand|cc\t(|punct\t)|punct\t,|punct"
+                },
+                {
+                    "question": "What are the side effects of low sexual desire drugs?",
+                    "score": 0.8289,
+                    "answers": "warnings about potential dangerous side effects|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The FDA had twice rejected the medicine, flibanserin, developed by the private company Sprout Pharmaceuticals.",
+            "question_answers": [
+                {
+                    "question": "How many times did the FDA reject flibanserin?",
+                    "answer": "twice"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many times has the FDA rejected flibanserin?",
+                    "score": 0.8897,
+                    "answers": "The FDA|nsubj"
+                },
+                {
+                    "question": "What is Sprout Pharmaceuticals' stance on flibanserin?",
+                    "score": 0.8337,
+                    "answers": "private|amod"
+                },
+                {
+                    "question": "What is flibanserin?",
+                    "score": 0.8226,
+                    "answers": "www.forbes.com.mx reported on 19/08/2015 that The FDA had twice rejected the medicine , flibanserin , developed by the private company Sprout Pharmaceuticals|ROOT\tthat The FDA had twice rejected the medicine , flibanserin , developed by the private company Sprout Pharmaceuticals|ccomp\tthe medicine , flibanserin , developed by the private company Sprout Pharmaceuticals|dobj\tflibanserin|appos"
+                },
+                {
+                    "question": "What is Sprout Pharmaceuticals?",
+                    "score": 0.7937,
+                    "answers": "www.forbes.com.mx|nsubj\tdeveloped by the private company Sprout Pharmaceuticals|acl\tby the private company Sprout Pharmaceuticals|agent\tthe private company Sprout Pharmaceuticals|pobj\tSprout|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Its most recent decision comes after an advisory panel concluded in June that the medicine should be approved with strict measures in place to ensure that patients are fully aware of its risks.",
+            "question_answers": [
+                {
+                    "question": "When did an advisory panel conclude that a medicine should be approved with strict measures to ensure that patients are fully aware of its risks?",
+                    "answer": "June"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the advisory panel say about the medicine?",
+                    "score": 0.8909,
+                    "answers": "on 19/08/2015|prep\tIts most recent decision|nsubj\tthat Its most recent decision comes after an advisory panel concluded in June that the medicine should be approved with strict measures in place to ensure that patients are fully aware of its risks|ccomp\tan advisory panel|nsubj\tafter an advisory panel concluded in June that the medicine should be approved with strict measures in place to ensure that patients are fully aware of its risks|advcl\tshould|aux\tthat the medicine should be approved with strict measures in place to ensure that patients are fully aware of its risks|ccomp\tplace|pobj\tto ensure that patients are fully aware of its risks|relcl\tpatients|nsubj\tthat patients are fully aware of its risks|ccomp\tfully aware of its risks|acomp\tof its risks|prep\tits risks|pobj"
+                },
+                {
+                    "question": "What measures should be taken to ensure that patients are fully aware of the risks of the medicine?",
+                    "score": 0.8814,
+                    "answers": "with strict measures in place to ensure that patients are fully aware of its risks|prep\tstrict|amod\tstrict measures in place to ensure that patients are fully aware of its risks|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the government's decision to approve the medicine?",
+                    "score": 0.8405,
+                    "answers": "www.forbes.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The medicine will be sold under the trade name Addyi.",
+            "question_answers": [
+                {
+                    "question": "On what date was it reported that Addyida will be sold under the trade name Addyida?",
+                    "answer": "19/08/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the trade name of Addyi?",
+                    "score": 0.8071,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 19/08/2015 that The medicine will be sold under the trade name Addyi|ROOT\ton 19/08/2015|prep\tthat|mark\tThe|det\twill|aux\tbe|auxpass\tthat The medicine will be sold under the trade name Addyi|ccomp\tunder the trade name Addyi|prep\tthe|det\ttrade|compound\tthe trade name Addyi|pobj"
+                },
+                {
+                    "question": "What is Addyi?",
+                    "score": 0.7987,
+                    "answers": "The medicine|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "It has been nicknamed the'Female Viagra'in press reports, even though it does not work as the successful male pill, which was released by Pfizer Inc in  and was the first approved treatment for erectile dysfunction.",
+            "question_answers": [
+                {
+                    "question": "What company released Viagra?",
+                    "answer": "Pfizer Inc"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How successful is the male pill for erectile dysfunction?",
+                    "score": 0.8405,
+                    "answers": "successful|amod"
+                },
+                {
+                    "question": "What was Pfizer Inc's first approved treatment for erectile dysfunction?",
+                    "score": 0.8172,
+                    "answers": "which was released by Pfizer Inc in|relcl\tby Pfizer Inc|agent"
+                },
+                {
+                    "question": "What is the name of Pfizer's female Viagra?",
+                    "score": 0.7638,
+                    "answers": "that It has been nicknamed the'Female Viagra'in press reports , even though it does not work as the successful male pill , which was released by Pfizer Inc in|ccomp"
+                }
+            ]
+        }
+    ]
+}

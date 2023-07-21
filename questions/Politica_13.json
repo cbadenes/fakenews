@@ -1,0 +1,149 @@
+{
+    "id": "Politica_13",
+    "claim": "The Spanish portal OKDIARIO reported that, after the published data on the payment of 272. 325 dollars by the regime of Nicolás Maduro to the secretary general of Podemos, Pablo Iglesias, the latter was found guilty by the Spanish authorities. Apparently, Iglesias Turrion received the amount in an account in his name at the Euro Pacific bank of the tax haven of the Grenadines. In addition, the ruling of the highest court in Spain rejected the application of the Secretary General of Podemos against the same portal that disclosed the information, since, according to what was pointed out by the holder of the Court of First Instance number 84 of Madrid, the data did not infringe on his “right to honor”. The magistrate in charge sentenced Iglesias from the costs of the judicial proceedings, after a long trial that began on 6 May 2016. I'm sorry.",
+    "source": "maduradas.com",
+    "date": "19/12/2019",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The Spanish portal OKDIARIO reported that, after the published data on the payment of 272.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the Spanish portal that reported on 19/12/2019?",
+                    "answer": "OKDIARIO"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did OKDIARIO say about the payment of 272?",
+                    "score": 0.6977,
+                    "answers": "maduradas.com reported on 19/12/2019 that The Spanish portal OKDIARIO reported that , after the published data on the payment of 272|ROOT\tthe published data on the payment of 272|pobj"
+                },
+                {
+                    "question": "What was the amount of money that was paid by the Spanish government in 2019?",
+                    "score": 0.6962,
+                    "answers": "of 272|prep"
+                },
+                {
+                    "question": "What is OKDIARIO?",
+                    "score": 0.524,
+                    "answers": "on 19/12/2019|prep\tthat|mark\tThe|det\tThe Spanish portal OKDIARIO|nsubj\tthat The Spanish portal OKDIARIO reported that , after the published data on the payment of 272|ccomp\tthat|mark\t,|punct\tthe|det\tpublished|amod\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "325 dollars by the regime of Nicolás Maduro to the secretary general of Podemos, Pablo Iglesias, the latter was found guilty by the Spanish authorities.",
+            "question_answers": [
+                {
+                    "question": "What website reported that the regime of Nicolás Maduro gave 325 dollars to Pablo Iglesias?",
+                    "answer": "maduradas.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the regime of Nicolas Maduro receive from the secretary general of Podemos?",
+                    "score": 0.7967,
+                    "answers": "325 dollars by the regime of Nicolás Maduro to the secretary general of Podemos , Pablo Iglesias ,|dep"
+                },
+                {
+                    "question": "What is the relationship between the regime of Nicolás Maduro and Pablo Iglesias?",
+                    "score": 0.5909,
+                    "answers": "the regime of Nicolás Maduro|pobj"
+                },
+                {
+                    "question": "What did the Spanish authorities say about the accusation against Maduradas.com?",
+                    "score": 0.576,
+                    "answers": "by the Spanish authorities|agent"
+                },
+                {
+                    "question": "What was the name of the man that was accused of crimes by the Spanish authorities?",
+                    "score": 0.5498,
+                    "answers": "of Nicolás Maduro|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Apparently, Iglesias Turrion received the amount in an account in his name at the Euro Pacific bank of the tax haven of the Grenadines.",
+            "question_answers": [
+                {
+                    "question": "Who received the amount in his name at the Euro Pacific bank of the tax haven of the Grenadines?",
+                    "answer": "Iglesias Turrion"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Iglesias Turrion receive from the Euro Pacific bank?",
+                    "score": 0.7302,
+                    "answers": "Iglesias|compound"
+                },
+                {
+                    "question": "What is the name of the bank that Iglesias Turrion received money from?",
+                    "score": 0.6529,
+                    "answers": "Euro|compound"
+                },
+                {
+                    "question": "What is the Euro Pacific bank of the tax haven of the Grenadines?",
+                    "score": 0.5781,
+                    "answers": "at the Euro Pacific bank of the tax haven of the Grenadines|prep\tthe Euro Pacific bank of the tax haven of the Grenadines|pobj\tof the tax haven of the Grenadines|prep\tthe tax haven of the Grenadines|pobj\tof the Grenadines|prep\tthe Grenadines|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, the ruling of the highest court in Spain rejected the application of the Secretary General of Podemos against the same portal that disclosed the information, since, according to what was pointed out by the holder of the Court of First Instance number 84 of Madrid, the data did not infringe on his “right to honor”.",
+            "question_answers": [
+                {
+                    "question": "What happened to the application of the Secretary General of Podemos?",
+                    "answer": "the ruling of the highest court in Spain rejected the application of the Secretary General of Podemos against the same portal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the Spanish court reject the application of the Secretary General of Podemos against the same portal that disclosed information?",
+                    "score": 0.8245,
+                    "answers": "the ruling of the highest court in Spain|nsubj"
+                },
+                {
+                    "question": "Did the holder of the Court of First Instance number 84 of Madrid infringe on the right to honor?",
+                    "score": 0.8164,
+                    "answers": "maduradas.com reported on 19/12/2019 that In addition , the ruling of the highest court in Spain rejected the application of the Secretary General of Podemos against the same portal that disclosed the information , since , according to what was pointed out by the holder of the Court of First Instance number 84 of Madrid , the data did not infringe on his “ right to honor ”|ROOT\tIn addition|prep\taddition|pobj\tin Spain|prep\tthat In addition , the ruling of the highest court in Spain rejected the application of the Secretary General of Podemos against the same portal that disclosed the information , since , according to what was pointed out by the holder of the Court of First Instance number 84 of Madrid , the data did not infringe on his “ right to honor ”|ccomp\tdid|aux\tnot|neg\tsince , according to what was pointed out by the holder of the Court of First Instance number 84 of Madrid , the data did not infringe on his “ right to honor ”|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The magistrate in charge sentenced Iglesias from the costs of the judicial proceedings, after a long trial that began on 6 May 2016.",
+            "question_answers": [
+                {
+                    "question": "Who did the magistrate in charge sentence from the costs of the judicial proceedings?",
+                    "answer": "Iglesias"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long was the trial of Iglesias?",
+                    "score": 0.7537,
+                    "answers": "long|amod\ta long trial that began on 6 May 2016|pobj"
+                },
+                {
+                    "question": "What was the date of Iglesias's trial?",
+                    "score": 0.7072,
+                    "answers": "that began on 6 May 2016|relcl"
+                },
+                {
+                    "question": "What is the name of the website that the magistrate in charge sentenced Iglesias?",
+                    "score": 0.6944,
+                    "answers": "maduradas.com reported on 19/12/2019 that The magistrate in charge sentenced Iglesias from the costs of the judicial proceedings , after a long trial that began on 6 May 2016|ROOT"
+                },
+                {
+                    "question": "What was the outcome of the case against Iglesias?",
+                    "score": 0.6709,
+                    "answers": "on 19/12/2019|prep\tThe magistrate in charge|nsubj\tthat The magistrate in charge sentenced Iglesias from the costs of the judicial proceedings , after a long trial that began on 6 May 2016|ccomp\tof the judicial proceedings|prep\tjudicial|amod\tthe judicial proceedings|pobj\tafter a long trial that began on 6 May 2016|prep"
+                },
+                {
+                    "question": "What is the cost of the court case against Iglesias?",
+                    "score": 0.6521,
+                    "answers": "the costs of the judicial proceedings|pobj"
+                }
+            ]
+        }
+    ]
+}

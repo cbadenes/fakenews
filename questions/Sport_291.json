@@ -1,0 +1,249 @@
+{
+    "id": "Sport_291",
+    "claim": "Jorge Kahwagi, in his facet as a professional boxer, achieved an impressive record of -, and all wins were by knockout. That is why the World Boxing Council (CMB) is taking the necessary steps to request that the Mexican fighter be admitted to the International Boxing Hall of Fame, since they believe that no other boxer has the credentials that Kahwagi carries to be part of the immortals. 'Now that the Canelo made us ugly, we revalued Kahwagi ', said Mauricio Sulaiman, president of the CMB. 'Kahwagi was always a serial outcast, as he not only threw away his rivals with the pure air, but he was also banging the Marlene Favela'. Enthusiasted by the news, Kahwagi said he will return to sports activity, but this time in the world of mixed martial arts (MMA): 'Boxing is no longer a challenge, so I look for other disciplines where I can prove that I am the prototype, the paradigm, the archetype of the modern fighter ', Kahwagi said in an interview. Even though he still doesn't start training MMA, Kahwagi feels confident that in a month he can learn everything he needs to enter UFC and face people like Cain Velasquez, Fabricio Werdum and whoever they put him on.'Put me on the Russian! Put me on the Russian! Or what? No Russians?\". The age of Kahwagi has just begun. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "13/07/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Jorge Kahwagi , in facet as a professional boxer, achieved an impressive record of -, and all wins were by knockout.",
+            "question_answers": [
+                {
+                    "question": "Who achieved an impressive record as a professional boxer?",
+                    "answer": "Jorge Kahwagi"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many wins did Jorge Kahwagi have by knockout?",
+                    "score": 0.8237,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 13/07/2017 that Jorge Kahwagi , in facet as a professional boxer , achieved an impressive record of - , and all wins were by knockout|ROOT\ta|det\tan|det\tand|cc\tall|det\tall wins|nsubj\tall wins were by knockout|conj\tby knockout|prep\tknockout|pobj"
+                },
+                {
+                    "question": "What is Jorge Kahwagi's record as a professional boxer?",
+                    "score": 0.7726,
+                    "answers": "in facet as a professional boxer|prep\tfacet as a professional boxer|pobj\tas a professional boxer|prep"
+                },
+                {
+                    "question": "What is the record of Jorge Kahwagi?",
+                    "score": 0.7542,
+                    "answers": "on 13/07/2017|prep\tthat|mark\tJorge|compound\t,|punct\tprofessional|amod\t,|punct\tthat Jorge Kahwagi , in facet as a professional boxer , achieved an impressive record of - , and all wins were by knockout|ccomp\timpressive|amod\tan impressive record of -|dobj\tof -|prep\t-|punct\t,|punct"
+                },
+                {
+                    "question": "Who is Jorge Kahwagi?",
+                    "score": 0.7351,
+                    "answers": "a professional boxer|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "achieved is why the World Boxing Council (CMB) is taking the necessary steps to request that Jorge Kahwagi be admitted to the International Boxing Hall of Fame, since the World Boxing Council (CMB) believe that no other boxer has the credentials that Jorge Kahwagi carries to be part of the immortals.",
+            "question_answers": [
+                {
+                    "question": "Who did the World Boxing Council (CMB) want to be admitted to the International Boxing Hall of Fame?",
+                    "answer": "Jorge Kahwagi"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is Jorge Kahwagi being accepted to the International Boxing Hall of Fame?",
+                    "score": 0.9074,
+                    "answers": "International|compound"
+                },
+                {
+                    "question": "What credentials does Jorge Kahwagi carry to be part of the World Boxing Council?",
+                    "score": 0.8861,
+                    "answers": "World|compound\tWorld|compound"
+                },
+                {
+                    "question": "What did the World Boxing Council (CMB) request for Jorge Kahwagi to be added to?",
+                    "score": 0.8555,
+                    "answers": "to the International Boxing Hall of Fame|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'Now that the Canelo made the World Boxing Council (CMB) ugly, the World Boxing Council (CMB) revalued Jorge Kahwagi ', said Mauricio Sulaiman, president of the World Boxing Council (CMB) .",
+            "question_answers": [
+                {
+                    "question": "Who did the World Boxing Council revalue?",
+                    "answer": "Jorge Kahwagi"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Canelo do to the World Boxing Council?",
+                    "score": 0.7945,
+                    "answers": "the Canelo|nsubj"
+                },
+                {
+                    "question": "What did Canelo do to make the World Boxing Council (CMB) ugly?",
+                    "score": 0.766,
+                    "answers": "Now that the Canelo made the World Boxing Council ( CMB ) ugly|advmod"
+                },
+                {
+                    "question": "What is the relationship between Canelo and Cubans?",
+                    "score": 0.6876,
+                    "answers": "Jorge|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'Jorge Kahwagi was always a serial outcast, as Jorge Kahwagi not only threw away rivals with the pure air, but Jorge Kahwagi was also banging the Marlene Favela'.",
+            "question_answers": [
+                {
+                    "question": "Who did Jorge Kahwagi throw away with the pure air?",
+                    "answer": "rivals"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jorge Kahwagi do with Marlene Favela?",
+                    "score": 0.779,
+                    "answers": "the pure air|pobj"
+                },
+                {
+                    "question": "What was Marlene Favela's relationship with Jorge Kahwagi?",
+                    "score": 0.7362,
+                    "answers": "Marlene|compound"
+                },
+                {
+                    "question": "What was the relationship between Jorge Kahwagi and Marlene Favela?",
+                    "score": 0.7013,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 13/07/2017 that ' Jorge Kahwagi was always a serial outcast , as Jorge Kahwagi not only threw away rivals with the pure air , but Jorge Kahwagi was also banging the Marlene Favela '|ROOT\ton 13/07/2017|prep\tthat|mark\t'|punct\tJorge|compound\tthat ' Jorge Kahwagi was always a serial outcast , as Jorge Kahwagi not only threw away rivals with the pure air , but Jorge Kahwagi was also banging the Marlene Favela '|ccomp\talways|advmod\ta|det\tserial|amod\ta serial outcast|attr\t,|punct\tas|mark\tJorge|compound\tnot only|preconj\tonly|advmod\tas Jorge Kahwagi not only threw away rivals with the pure air , but Jorge Kahwagi was also banging the Marlene Favela|advcl\taway|prt\trivals|dobj\twith the pure air|prep\tthe|det\tpure|amod\t,|punct\tbut|cc\tJorge|compound\twas|aux\talso|advmod\tJorge Kahwagi was also banging the Marlene Favela|conj\tthe|det\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Enthusiasted by the news, Jorge Kahwagi said Jorge Kahwagi will return to sports activity, but this time in the world of mixed martial arts (MMA): 'Boxing is no longer a challenge, so Jorge Kahwagi look for other disciplines where Jorge Kahwagi can prove that Jorge Kahwagi am the prototype, the paradigm, the archetype of the modern fighter ', Jorge Kahwagi said in an interview.",
+            "question_answers": [
+                {
+                    "question": "What did Jorge Kahwagi say he was the archetype of?",
+                    "answer": "the modern fighter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Jorge Kahwagi return to sports activity?",
+                    "score": 0.7861,
+                    "answers": "Jorge Kahwagi will return to sports activity|ccomp"
+                },
+                {
+                    "question": "What has Jorge Kahwagi said about sports activity?",
+                    "score": 0.726,
+                    "answers": "www.eldizque.com reported on 13/07/2017 that Enthusiasted by the news , Jorge Kahwagi said Jorge Kahwagi will return to sports activity , but this time in the world of mixed martial arts ( MMA ): ' Boxing is no longer a challenge , so Jorge Kahwagi look for other disciplines where Jorge Kahwagi can prove that Jorge Kahwagi am the prototype , the paradigm , the archetype of the modern fighter|ccomp\tthat Enthusiasted by the news , Jorge Kahwagi said Jorge Kahwagi will return to sports activity , but this time in the world of mixed martial arts ( MMA ): ' Boxing is no longer a challenge , so Jorge Kahwagi look for other disciplines where Jorge Kahwagi can prove that Jorge Kahwagi am the prototype , the paradigm , the archetype of the modern fighter|ccomp\tno longer|advmod\twww.eldizque.com reported on 13/07/2017 that Enthusiasted by the news , Jorge Kahwagi said Jorge Kahwagi will return to sports activity , but this time in the world of mixed martial arts ( MMA ): ' Boxing is no longer a challenge , so Jorge Kahwagi look for other disciplines where Jorge Kahwagi can prove that Jorge Kahwagi am the prototype , the paradigm , the archetype of the modern fighter ' , Jorge Kahwagi said in an interview|ROOT"
+                },
+                {
+                    "question": "What did Jorge Kahwagi say about Mauguin?",
+                    "score": 0.72,
+                    "answers": "an interview|pobj"
+                },
+                {
+                    "question": "What does MMA stand for?",
+                    "score": 0.6868,
+                    "answers": "mixed martial arts ( MMA|pobj\tMMA|appos"
+                },
+                {
+                    "question": "What is Jorge Kahwagi's stance on boxing?",
+                    "score": 0.6783,
+                    "answers": "that|mark\twill|aux\tbut|cc\tthis|det\t'|punct\tBoxing is no longer a challenge|ccomp\tno|neg\ta|det\ta challenge|attr\tso|advmod\twhere|advmod\tcan|aux\tthat|mark\t'|punct\tan|det"
+                }
+            ]
+        },
+        {
+            "claim": "Even though Jorge Kahwagi still doesn't start training MMA, Jorge Kahwagi feels confident that in a month Jorge Kahwagi can learn everything Jorge Kahwagi needs to enter UFC and face people like Cain Velasquez, Fabricio Werdum and whoever UFC put Jorge Kahwagi on.",
+            "question_answers": [
+                {
+                    "question": "Who are some of the people that Jorge Kahwagi hopes to face in the UFC?",
+                    "answer": "Cain Velasquez, Fabricio Werdum"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why does Jorge Kahwagi want to join the UFC?",
+                    "score": 0.8759,
+                    "answers": "Even though Jorge Kahwagi still does n't start training MMA|advcl"
+                },
+                {
+                    "question": "How long has Jorge Kahwagi been training MMA?",
+                    "score": 0.8632,
+                    "answers": "in a month|prep"
+                },
+                {
+                    "question": "What does Jorge Kahwagi think about joining the UFC?",
+                    "score": 0.8302,
+                    "answers": "that in a month Jorge Kahwagi can learn everything Jorge Kahwagi needs to enter UFC and face people like Cain Velasquez , Fabricio Werdum and UFC put Jorge Kahwagi whoever on|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Jorge Kahwagi and the UFC?",
+                    "score": 0.7437,
+                    "answers": "Cain Velasquez , Fabricio Werdum and UFC put Jorge Kahwagi whoever on|pobj\tUFC put Jorge Kahwagi whoever on|conj"
+                },
+                {
+                    "question": "Who is Jorge Kahwagi?",
+                    "score": 0.7218,
+                    "answers": "Fabricio Werdum and UFC put Jorge Kahwagi whoever on|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'Put Jorge Kahwagi on the Russian ! Put Jorge Kahwagi on the Russian ! Or what? No Russians?\".",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 13/07/2017?",
+                    "answer": "Put Jorge Kahwagi on the Russian"
+                },
+                {
+                    "question": "What did www.eldizque.com report on 13/07/2017?",
+                    "answer": "Put Jorge Kahwagi on the Russian"
+                },
+                {
+                    "question": "What did www.eldizque.com report on 13/07/2017?",
+                    "answer": "Put Jorge Kahwagi on the Russian"
+                },
+                {
+                    "question": "How many Russians did eldizque.com report that put Jorge Kahwagi on the Russian?",
+                    "answer": "No"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Kahwagi say about the Russians?",
+                    "score": 0.8521,
+                    "answers": "No Russians ? \"|ROOT"
+                },
+                {
+                    "question": "Who put Jorge Kahwagi on the Russian board?",
+                    "score": 0.846,
+                    "answers": "www.eldizque.com reported on 13/07/2017 that ' Put Jorge Kahwagi on the Russian ! Put Jorge Kahwagi on the Russian ! Or what ?|ROOT\tPut Jorge Kahwagi on the Russian ! Put Jorge Kahwagi on the Russian ! Or what ?|punct"
+                },
+                {
+                    "question": "What is the source of evidence of Jorge Kahwagi's nationality?",
+                    "score": 0.8099,
+                    "answers": "the Russian|pobj\tthe Russian|pobj"
+                },
+                {
+                    "question": "Who is Jorge Kahwagi?",
+                    "score": 0.7799,
+                    "answers": "Jorge|compound\tPut Jorge Kahwagi on the Russian|dep\tJorge|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The age of Kahwagi has just begun.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that the age of Kahwagi had just begun?",
+                    "answer": "13/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the age of Kahwagi?",
+                    "score": 0.8009,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 13/07/2017 that The age of Kahwagi has just begun|ROOT\ton 13/07/2017|prep\tthat|mark\tThe|det\tThe age of Kahwagi|nsubj\tof Kahwagi|prep\thas|aux\tjust|advmod\tthat The age of Kahwagi has just begun|ccomp"
+                }
+            ]
+        }
+    ]
+}

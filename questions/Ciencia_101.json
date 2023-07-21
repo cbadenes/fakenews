@@ -1,0 +1,563 @@
+{
+    "id": "Ciencia_101",
+    "claim": "We know that in addition to being a good place to share with our loved ones, Facebook is a powerful communication tool to get all kinds of messages to millions of people, so it can also be a powerful weapon. Sophie Zhang, a former company worker who claimed in a report about social network irregularities to be sure of'having blood on her hands 'after having collaborated with the company. According to the engineer, Facebook has been slow to react or ignored the existence of organized campaigns to distribute political disinformation and influence election results in countries around the world, according to the company's ex-employee's internal report. We recommend: Facebook eliminates accounts that sought to influence politically in Latin America 'The truth is that we simply did not care enough to stop them [disinformation campaigns] ', said data scientist Sophie Zhang, former Facebook employee in charge of moderation of this type of content, in an internal memorandum to which BuzzFeed News has had access. Zhang specifically referred to a disinformation campaign in Azerbaijan, in which President Ilham Aliyev and his party, the New Party of Azerbaijan or YAP, used false accounts to attack the opposition. Facebook has not yet recognized this campaign and its authors are directly related to the YAP. https://www. millennium. com/technology/facebook-ex-employee-report-nulas-measures-avoid-manipulation. However, the former employee of the social network acknowledged 'having taken personally and unsupervised decisions that have affected presidents of countries 'and 'important politicians from all over the world ', including Spain, Italy, Iraq, Indonesia, India, Ukraine, Brazil, Bolivia, El Salvador and Ecuador. Among her works, the moderator helped eliminate 672 thousand false accounts 'of low quality 'in April that distributed content related to the covid-19 in the official account of the Spanish Ministry of Health. These accounts, according to Zhang, were part of an organized network of disinformation that was also responsible for disseminating disinformation on U.S. pages. 'During the three years I worked on Facebook, I have encountered several blatant attempts by foreign governments to abuse the platform on a large scale to confuse their citizens, causing international news on multiple occasions ', Zhang said. The former moderator claimed to have made 'countless decisions 'of this kind. 'Although I made the best decision I could with the knowledge I had at the time, ultimately I was the one who made the decision not to go deeper or to prioritize each case ', according to the American data scientist, who has come to say that she is certain to 'have blood on her hands '. Facebook's response Facebook responded to Sophie Zhang's internal report, and in a statement sent to Europa Press he claimed to have'formed specialized teams and worked with experts to stop malicious actors 'who attempt to abuse the platform. https://www. millennium. com/tecnologia/facebook-ex-employee-denounce-nulas-measures-avoid-manipulation As a result, the US company claims to have eliminated more than 100 networks of non-authentic coordinated content, as these disinformation campaigns are known, which points out as its priority alongside spam and false interaction. 'We carefully investigate each problem, including those explained by Zhang, before taking action or making them public ', the spokesman for the company said. https://www. millennium. com/technology/facebook-ex-employee-report-nulas-measures-avoid-manipulation",
+    "source": "www.milenio.com",
+    "date": "15/09/2020",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "We know that the former employee of the social network share with our loved ones, Facebook is a powerful communication tool to get all kinds of messages to millions of people, so Facebook can also be a powerful weapon.",
+            "question_answers": [
+                {
+                    "question": "What did milenio.com say about Facebook?",
+                    "answer": "Facebook is a powerful communication tool to get all kinds of messages to millions of people, so Facebook can also be a powerful weapon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can Facebook be a powerful communication tool?",
+                    "score": 0.7599,
+                    "answers": "can|aux"
+                },
+                {
+                    "question": "What is Facebook's ability to get messages to millions of people?",
+                    "score": 0.7208,
+                    "answers": "to get all kinds of messages to millions of people|relcl"
+                },
+                {
+                    "question": "How many people are connected to Facebook each year?",
+                    "score": 0.7002,
+                    "answers": "to millions of people|prep\tmillions of people|pobj\tof people|prep\tpeople|pobj"
+                },
+                {
+                    "question": "What are the functions of Facebook?",
+                    "score": 0.6693,
+                    "answers": "www.milenio.com reported on 15/09/2020 that We know that the former employee of the social network share with our loved ones , Facebook is a powerful communication tool to get all kinds of messages to millions of people , so Facebook can also be a powerful weapon|ROOT\tWe|nsubj\tof the social network|prep\t,|punct\tto|aux\tall|det\tall kinds of messages|dobj\t,|punct\tso|mark\tso Facebook can also be a powerful weapon|advcl"
+                },
+                {
+                    "question": "What is Facebook's power in communication?",
+                    "score": 0.6593,
+                    "answers": "powerful|amod\tpowerful|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Sophie Zhang, a former company worker who claimed in a report about social network irregularities to be sure of'having blood the former employee of the social network 'after having collaborated 672 thousand false accounts 'of low quality ' .",
+            "question_answers": [
+                {
+                    "question": "Sophie Zhang claimed to have collaborated with 672 thousand false accounts of what?",
+                    "answer": "low quality"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did a former company worker claim about social network irregularities?",
+                    "score": 0.7007,
+                    "answers": "a former company worker who claimed in a report about social network irregularities to be sure of'having blood the former employee of the social network ' after having collaborated 672 thousand false accounts ' of low quality '|appos"
+                },
+                {
+                    "question": "How many false accounts has Sophie Zhang worked for the social network?",
+                    "score": 0.6938,
+                    "answers": "after having collaborated 672 thousand false accounts ' of low quality|prep\thaving collaborated 672 thousand false accounts ' of low quality|pcomp"
+                },
+                {
+                    "question": "What is the relationship between Sophie Zhang and the social network?",
+                    "score": 0.5783,
+                    "answers": "Sophie|compound"
+                },
+                {
+                    "question": "What is the source of evidence of the blood of the former employee of the social network?",
+                    "score": 0.5764,
+                    "answers": "blood|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "672 thousand false accounts 'of low quality ' her , Facebook has been slow to react or ignored the existence of organized campaigns to distribute political disinformation and influence election results in countries around the world, according to her internal report.",
+            "question_answers": [
+                {
+                    "question": "What type of accounts were reported by milenio on 15/09/2020?",
+                    "answer": "low quality"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many false accounts has Facebook been slow to react to?",
+                    "score": 0.7478,
+                    "answers": "slow to react|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "We recommend: Facebook eliminates accounts that sought to influence the social network in Latin America 'The truth is that Facebook simply foreign governments to stop the social network campaigns] ', said foreign governments her the former employee of the social network , in an internal memorandum to which BuzzFeed News has had access.",
+            "question_answers": [
+                {
+                    "question": "Who was the author of the internal memorandum to which BuzzFeed News has had access?",
+                    "answer": "former employee of the social network"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Facebook do to stop the social network campaigns?",
+                    "score": 0.7846,
+                    "answers": "' The truth is that Facebook simply foreign governments to stop the social network campaigns ] ' , said foreign governments her the former employee of the social network , in an internal memorandum to which BuzzFeed News has had access|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of Facebook eliminating accounts that sought to influence the social network in Latin America?",
+                    "score": 0.7248,
+                    "answers": "www.milenio.com reported on 15/09/2020 that We recommend : Facebook eliminates accounts that sought to influence the social network in Latin America|ROOT"
+                },
+                {
+                    "question": "What is Facebook's stance on foreign governments using social networks?",
+                    "score": 0.6877,
+                    "answers": "on 15/09/2020|prep\tWe|nsubj\t:|punct\tsocial|amod\tLatin|compound\t'|punct\tThe|det\tThe truth|nsubj\tthat Facebook simply foreign governments to stop the social network campaigns|ccomp\tto stop the social network campaigns|relcl\tsocial|amod\tsocial network|compound\tthe social network campaigns|dobj\t'|punct\t,|punct\tsocial|amod\t,|punct\thas|aux"
+                },
+                {
+                    "question": "What is the relationship between Facebook and Latin America's social network?",
+                    "score": 0.6528,
+                    "answers": "that sought to influence the social network in Latin America|relcl\tin Latin America|prep"
+                },
+                {
+                    "question": "What is Facebook's relationship with foreign governments?",
+                    "score": 0.6367,
+                    "answers": "to|aux\tthe|det\tFacebook simply|nmod\tto|aux\tthe|det\t]|dep\tthe|det\tthe|det\tan|det\twhich|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "her specifically referred to a disinformation campaign in Azerbaijan, in which President Ilham Aliyev and his party, the New Party of Azerbaijan or YAP , used false accounts the former employee of the social network .",
+            "question_answers": [
+                {
+                    "question": "What party did President Ilham Aliyev belong to?",
+                    "answer": "the New Party of Azerbaijan or YAP"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Ilham Aliyev use false accounts for?",
+                    "score": 0.7156,
+                    "answers": "in which President Ilham Aliyev and his party , the New Party of Azerbaijan or YAP , used false accounts the former employee of the social network|relcl"
+                },
+                {
+                    "question": "What is Ilham Aliyev's political affiliation?",
+                    "score": 0.5866,
+                    "answers": "Ilham|compound"
+                },
+                {
+                    "question": "What is the source of evidence of Ilham Aliyev and his party using false accounts?",
+                    "score": 0.5652,
+                    "answers": "www.milenio.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Ilham Aliyev and YAP?",
+                    "score": 0.5592,
+                    "answers": "President|compound\tPresident Ilham Aliyev and his party , the New Party of Azerbaijan or YAP|nsubj\this|poss\this party , the New Party of Azerbaijan or YAP|conj\tformer|amod\tthe former employee of the social network|appos\tof the social network|prep\tthe social network|pobj"
+                },
+                {
+                    "question": "What is YAP?",
+                    "score": 0.5471,
+                    "answers": "that|mark\ther|nsubj\tspecifically|advmod\tthat her specifically referred to a disinformation campaign in Azerbaijan , in which President Ilham Aliyev and his party , the New Party of Azerbaijan or YAP , used false accounts the former employee of the social network|ccomp\ta|det\tdisinformation|compound\ta disinformation campaign in Azerbaijan , in which President Ilham Aliyev and his party , the New Party of Azerbaijan or YAP , used false accounts the former employee of the social network|pobj\tin Azerbaijan|prep\t,|punct\twhich|pobj\tand|cc\t,|punct\tthe|det\tNew|compound\tthe New Party of Azerbaijan or YAP|appos\tof Azerbaijan|prep\tor|cc\t,|punct\tfalse|amod\tfalse accounts the former employee of the social network|dobj\tthe|det\tthe|det\tsocial|amod"
+                }
+            ]
+        },
+        {
+            "claim": "the former employee of the social network the social network his party, the New Party of Azerbaijan or YAP .",
+            "question_answers": [
+                {
+                    "question": "What is another name for the YAP?",
+                    "answer": "New Party of Azerbaijan"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the former employee of the New Party of Azerbaijan or YAP?",
+                    "score": 0.6467,
+                    "answers": "www.milenio.com|nsubj"
+                },
+                {
+                    "question": "What is YAP?",
+                    "score": 0.5357,
+                    "answers": "that|mark\tthe|det\tof the social network the social network his party , the New Party of Azerbaijan or YAP|prep\tthe|det\tsocial|amod\tthe social network the social network his party , the New Party of Azerbaijan or YAP|pobj\tthe|det\tsocial|amod\this|poss\this party ,|appos\t,|punct\tthe|det\tNew|compound\tthe New Party of Azerbaijan or YAP|appos\tof Azerbaijan|prep\tAzerbaijan|pobj\tor|cc"
+                }
+            ]
+        },
+        {
+            "claim": "the social network .",
+            "question_answers": [
+                {
+                    "question": "What website reported on 15/09/2020 that Milenio was a social network?",
+                    "answer": "www.milenio.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the social network?",
+                    "score": 0.7043,
+                    "answers": "www.milenio.com reported on 15/09/2020 that the social network|ROOT\ton 15/09/2020|prep\tthat|mark\tthe|det\tsocial|amod\tthat the social network|ccomp"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.5599,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the former employee of the social network /Facebook -ex-employee-report-nulas-measures-avoid-manipulation.",
+            "question_answers": [
+                {
+                    "question": "What social network did milenio.com report a former employee of?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures were taken by the former employee of Facebook to prevent manipulation?",
+                    "score": 0.7529,
+                    "answers": "nulas - measures - avoid - manipulation|appos"
+                },
+                {
+                    "question": "What did a former employee of the social network /Facebook-ex-employee report about manipulation?",
+                    "score": 0.7444,
+                    "answers": "that the former employee of the social network /Facebook -ex - employee - report - nulas - measures - avoid - manipulation|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, the former employee of the social network acknowledged 'having taken personally and unsupervised the social network have affected presidents of countries 'and 'important politicians from all over the world ', including Spain, Italy, Iraq, Indonesia, India, Ukraine, Brazil, Bolivia, El Salvador and Ecuador.",
+            "question_answers": [
+                {
+                    "question": "What did the former employee of milenio.com say 'having taken personally and unsupervised the social network have affected'?",
+                    "answer": "presidents of countries 'and 'important politicians from all over the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have benefited from the social network?",
+                    "score": 0.6505,
+                    "answers": "of countries ' and ' important politicians from all over the world ' ,|prep\tcountries ' and ' important politicians from all over the world ' ,|pobj\tfrom all over the world|prep\tall over the world|prep\tthe world|pobj\tincluding Spain , Italy , Iraq , Indonesia , India , Ukraine , Brazil , Bolivia , El Salvador and Ecuador|prep\tSpain , Italy , Iraq , Indonesia , India , Ukraine , Brazil , Bolivia , El Salvador and Ecuador|pobj\tItaly , Iraq , Indonesia , India , Ukraine , Brazil , Bolivia , El Salvador and Ecuador|conj\tIraq , Indonesia , India , Ukraine , Brazil , Bolivia , El Salvador and Ecuador|conj\tIndonesia , India , Ukraine , Brazil , Bolivia , El Salvador and Ecuador|conj\tUkraine , Brazil , Bolivia , El Salvador and Ecuador|conj\tBrazil , Bolivia , El Salvador and Ecuador|conj\tEl|compound\tEl Salvador and Ecuador|conj"
+                },
+                {
+                    "question": "What countries have been affected by the social network?",
+                    "score": 0.64,
+                    "answers": "presidents of countries ' and ' important politicians from all over the world ' , including Spain , Italy , Iraq , Indonesia , India , Ukraine , Brazil , Bolivia , El Salvador and Ecuador|dobj\tIndia , Ukraine , Brazil , Bolivia , El Salvador and Ecuador|conj\tBolivia , El Salvador and Ecuador|conj"
+                },
+                {
+                    "question": "Who is the former employee of the social network?",
+                    "score": 0.5431,
+                    "answers": "the former employee of the social network|nsubj"
+                },
+                {
+                    "question": "What is the social network?",
+                    "score": 0.5295,
+                    "answers": "social|amod\tsocial|amod"
+                },
+                {
+                    "question": "What is the relationship between the social network and politicians from other countries?",
+                    "score": 0.5225,
+                    "answers": "important|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Among her works, the moderator helped eliminate 672 thousand false accounts 'of low quality 'in April that distributed content related to the covid-19 in the official account of the Spanish Ministry of Health.",
+            "question_answers": [
+                {
+                    "question": "What type of accounts did the moderator help eliminate?",
+                    "answer": "low quality"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the moderator do to eliminate false accounts?",
+                    "score": 0.6321,
+                    "answers": "www.milenio.com|nsubj"
+                },
+                {
+                    "question": "How many false accounts did the moderator help eliminate?",
+                    "score": 0.6223,
+                    "answers": "www.milenio.com reported on 15/09/2020 that distributed content related to the covid-19 in the official account of the Spanish Ministry of Health that Among her works , the moderator helped eliminate 672 thousand false accounts ' of low quality ' in April|ROOT\tAmong her works|prep\tthat Among her works , the moderator helped eliminate 672 thousand false accounts ' of low quality '|ccomp"
+                },
+                {
+                    "question": "What does the Spanish Ministry of Health do?",
+                    "score": 0.6068,
+                    "answers": "of Health|prep"
+                },
+                {
+                    "question": "What is the covid-19?",
+                    "score": 0.5941,
+                    "answers": "on 15/09/2020 that distributed content related to the covid-19 in the official account of the Spanish Ministry of Health|prep\t15/09/2020 that distributed content related to the covid-19 in the official account of the Spanish Ministry of Health|pobj\tthat distributed content related to the covid-19 in the official account of the Spanish Ministry of Health|relcl\tcontent related to the covid-19 in the official account of the Spanish Ministry of Health|dobj\trelated to the covid-19|acl\tto the covid-19|prep\tthe covid-19|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "These accounts, according to Zhang, were part of an organized network of disinformation that was also responsible for disseminating disinformation on U.S. pages.",
+            "question_answers": [
+                {
+                    "question": "What was the network of accounts responsible for doing on U.S. pages?",
+                    "answer": "disseminating disinformation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the network of disinformation that was responsible for disseminating disinformation?",
+                    "score": 0.7195,
+                    "answers": "These|det\tThese accounts|nsubj\torganized|amod\tdisinformation|pobj\talso|advmod\tdisinformation|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'During the three years I worked on Facebook, I have encountered several blatant attempts by foreign governments to abuse the platform on a large scale to confuse their citizens, causing international news on multiple occasions ', Zhang said.",
+            "question_answers": [
+                {
+                    "question": "What did Zhang say that the foreign governments' attempts to confuse their citizens caused?",
+                    "answer": "international news on multiple occasions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have attempted to use the Facebook platform?",
+                    "score": 0.7479,
+                    "answers": "'|punct\thave|aux\tseveral blatant attempts by foreign governments to abuse the platform on a large scale to confuse their citizens , causing international news on multiple occasions|dobj\tby foreign governments|prep\tforeign|amod\tforeign governments|pobj\ttheir|poss\t'|punct"
+                },
+                {
+                    "question": "How many times have foreign governments attempted to use Facebook?",
+                    "score": 0.7433,
+                    "answers": "on multiple occasions|prep"
+                },
+                {
+                    "question": "How many foreign governments tried to use Facebook?",
+                    "score": 0.726,
+                    "answers": "blatant|amod"
+                },
+                {
+                    "question": "How many times has Zhang been accused of using the Facebook platform?",
+                    "score": 0.712,
+                    "answers": "multiple occasions|pobj"
+                },
+                {
+                    "question": "What is the purpose of using Facebook to confuse citizens?",
+                    "score": 0.6194,
+                    "answers": "to confuse their citizens|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The former moderator claimed to have made 'countless decisions 'of this kind.",
+            "question_answers": [
+                {
+                    "question": "How many decisions did the moderator claim to have made?",
+                    "answer": "'countless decisions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What decisions did the former moderator make?",
+                    "score": 0.8596,
+                    "answers": "The former moderator|nsubj\tof this kind|prep"
+                },
+                {
+                    "question": "How many decisions did the moderator make?",
+                    "score": 0.8318,
+                    "answers": "www.milenio.com|nsubj\twww.milenio.com reported on 15/09/2020 that The former moderator claimed to have made ' countless decisions ' of this kind|ROOT\ton 15/09/2020|prep\tto have made ' countless decisions ' of this kind|xcomp\tcountless|amod\t' countless decisions ' of this kind|dobj\tthis kind|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the moderator making countless decisions?",
+                    "score": 0.7725,
+                    "answers": "The|det\tformer|amod"
+                }
+            ]
+        },
+        {
+            "claim": "'Although I made the best decision I could with the knowledge I had at the time, ultimately I was the one who made the decision not to go deeper or to prioritize each case ', according to the American data scientist, who has come to say that she is certain to 'have blood on her hands '.",
+            "question_answers": [
+                {
+                    "question": "What did Milenio say she was certain to do?",
+                    "answer": "'have blood on her hands"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the American data scientist say about her decision not to go deeper or to prioritize each case?",
+                    "score": 0.6696,
+                    "answers": "to ' have blood on her hands|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the blood on Hillary Clinton's hands?",
+                    "score": 0.5588,
+                    "answers": "to say that she is certain to ' have blood on her hands|xcomp\tthat she is certain to ' have blood on her hands|ccomp\tcertain to ' have blood on her hands|acomp\tblood on her hands|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Facebook's response Facebook responded to Sophie Zhang's internal report, and in a statement sent to Europa Press he claimed to have'formed specialized teams and worked with experts to stop malicious actors 'who attempt to abuse the platform.",
+            "question_answers": [
+                {
+                    "question": "What did Facebook try to stop in response to Sophie Zhang's report?",
+                    "answer": "malicious actors"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Facebook respond to Sophie Zhang's internal report?",
+                    "score": 0.8378,
+                    "answers": "Sophie|compound"
+                },
+                {
+                    "question": "Did Facebook work with experts to stop malicious actors who attempt to abuse the platform?",
+                    "score": 0.8239,
+                    "answers": "with experts|prep\texperts|pobj"
+                },
+                {
+                    "question": "What did Facebook respond to in response to the internal report?",
+                    "score": 0.7427,
+                    "answers": "Facebook 's response|nsubj\tthat Facebook 's response Facebook responded to Sophie Zhang 's internal report|ccomp"
+                },
+                {
+                    "question": "What did Facebook say to Europa Press in response to their internal report?",
+                    "score": 0.7251,
+                    "answers": "Europa|compound"
+                }
+            ]
+        },
+        {
+            "claim": "https://www.",
+            "question_answers": [
+                {
+                    "question": "When did www.milenio.com report that https://www.milenio.com reported?",
+                    "answer": "15/09/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the website \"Milenio.com\"?",
+                    "score": 0.585,
+                    "answers": "that https://www|dep"
+                },
+                {
+                    "question": "What ismilenio.com?",
+                    "score": 0.5099,
+                    "answers": "www.milenio.com|nsubj\twww.milenio.com reported on 15/09/2020 that https://www|ROOT\ton 15/09/2020|prep\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "com/tecnologia/facebook-ex-employee-denounce-nulas-measures-avoid-manipulation As a result, the US company claims to have eliminated more than 100 networks of non-authentic coordinated content, as these disinformation campaigns are known, which points out as its priority alongside spam and false interaction.",
+            "question_answers": [
+                {
+                    "question": "When didmilenio.com report that it had eliminated more than 100 networks of non-authentic coordinated content?",
+                    "answer": "15/09/2020"
+                },
+                {
+                    "question": "What is the result of milenio's disinformation campaigns?",
+                    "answer": "US company claims to have eliminated more than 100 networks of non-authentic coordinated content,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many networks of non-authenticcoordinated content has the US company eliminated?",
+                    "score": 0.6403,
+                    "answers": "As a result , the US company claims to have eliminated more than 100 networks of non - authentic coordinated content , as these disinformation campaigns are known , which points out as its priority alongside spam and false interaction|ROOT"
+                },
+                {
+                    "question": "What are the measures taken by Facebook to prevent manipulation?",
+                    "score": 0.6106,
+                    "answers": "nulas - measures - avoid - manipulation|conj"
+                },
+                {
+                    "question": "How many networks are there of non-authentic controlled content?",
+                    "score": 0.6051,
+                    "answers": "more than 100 networks of non - authentic coordinated content , as these disinformation campaigns are known|dobj"
+                },
+                {
+                    "question": "What is Facebook's top priority?",
+                    "score": 0.568,
+                    "answers": "its priority|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of how many networks of non-authentic controlled content are there?",
+                    "score": 0.5307,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'We carefully investigate each problem, including those explained by Zhang, before taking action or making them public ', the spokesman for the company said.",
+            "question_answers": [
+                {
+                    "question": "What didmilenio.com do after investigating each problem?",
+                    "answer": "taking action or making them public"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the spokesman for the company say about the allegations?",
+                    "score": 0.6119,
+                    "answers": "www.milenio.com|nsubj\ton 15/09/2020|prep\t'|punct\t'|punct\tthe spokesman for the company|nsubj\tfor the company|prep\tthe company|pobj"
+                },
+                {
+                    "question": "What are the steps taken by the company to investigate each problem that was explained by Zhang?",
+                    "score": 0.5999,
+                    "answers": "taking action or making them public|pcomp"
+                },
+                {
+                    "question": "What is the source of evidence of all the problems that Zhang investigated before making them public?",
+                    "score": 0.5626,
+                    "answers": "www.milenio.com reported on 15/09/2020 that ' We carefully investigate each problem , including those explained by Zhang , before taking action or making them public|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "https://www.",
+            "question_answers": [
+                {
+                    "question": "When did www.milenio.com report that https://www.milenio.com reported?",
+                    "answer": "15/09/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the website \"Milenio.com\"?",
+                    "score": 0.585,
+                    "answers": "that https://www|dep"
+                },
+                {
+                    "question": "What ismilenio.com?",
+                    "score": 0.5099,
+                    "answers": "www.milenio.com|nsubj\twww.milenio.com reported on 15/09/2020 that https://www|ROOT\ton 15/09/2020|prep\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "com/technology/facebook-ex-employee-report-nulas-measures-avoid-manipulation.",
+            "question_answers": [
+                {
+                    "question": "What did milenio.com report on 15/09/2020?",
+                    "answer": "com/technology/facebook-ex-employee-report-nulas-measures-avoid-manipulation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures has Facebook taken to prevent the manipulation ofulas?",
+                    "score": 0.8161,
+                    "answers": "measures -|nsubj"
+                },
+                {
+                    "question": "What measures are taken to prevent manipulation?",
+                    "score": 0.7217,
+                    "answers": "nulas - measures - avoid - manipulation|meta"
+                },
+                {
+                    "question": "What is the source of evidence of Facebook's relationship with manipulation?",
+                    "score": 0.6481,
+                    "answers": "www.milenio.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between facebook and manipulation?",
+                    "score": 0.6234,
+                    "answers": "facebook -|nmod\tfacebook - ex|appos"
+                }
+            ]
+        }
+    ]
+}

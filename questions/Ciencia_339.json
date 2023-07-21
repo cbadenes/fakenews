@@ -1,0 +1,186 @@
+{
+    "id": "Ciencia_339",
+    "claim": "Given the large number of marriages and engagements that have been discovered and finished due to the social media apps easily accessible from smartphones, the world has decided to return to the classic 3 1⁄2-inch floppy disks, which will be used again, as they offer a discretion that is not possible to find in other formats. Jacinto Maquintoch, the entrepreneur who had the idea, told us a little bit about it: A 3 1⁄2 disc can save about 200 pages of simple text, so they are ideal to have a very complete exchange. And since it can only be read on a computer, if your girlfriend or wife finds you one in the bags, she won't be able to check it, because even if she has laptop, they don't have disk reader anymore. And since women often don't know much about technology, they won't be able to find out anything.”. The only problem is that, unlike other instant messengers, one will have to write the message and send the disk by conventional mail or parcel, which is a little bit longer. And the worst thing is that the knots will come in low resolution. “But the security he gives you makes up for it,” he added. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "08/12/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Given the large number of marriages and engagements that have been discovered and finished due to the social media apps easily accessible from smartphones, the world has decided to return to the classic 3 1⁄2-inch floppy disks, which will be used again, as they offer a discretion that is not possible to find in other formats.",
+            "question_answers": [
+                {
+                    "question": "Why did the world decide to return to the classic 3 12-inch floppy disks?",
+                    "answer": "social media apps easily accessible from smartphones,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many marriages and engagements have been discovered and finished due to social media apps?",
+                    "score": 0.7264,
+                    "answers": "www.eldizque.com|nsubj\tfinished due to the social media apps easily accessible from smartphones|conj\tdue to the social media apps easily accessible from smartphones|prep\tsocial|amod\tsocial media|compound\tthe social media apps easily accessible from smartphones|pobj\teasily|advmod\tfrom smartphones|prep\tsmartphones|pobj\tthat is not possible to find in other formats|relcl"
+                },
+                {
+                    "question": "What is the 3 1/2-inch floppy disk?",
+                    "score": 0.531,
+                    "answers": "3 1⁄2 - inch|nmod\tthe classic 3 1⁄2 - inch floppy disks , which will be used again ,|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Jacinto Maquintoch, the entrepreneur who had the idea, told us a little bit about it: A 3 1⁄2 disc can save about 200 pages of simple text, so they are ideal to have a very complete exchange.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Jacinto Maquintoch tell us about the technology?",
+                    "score": 0.7181,
+                    "answers": "that Jacinto Maquintoch , the entrepreneur who had the idea , told us a little bit about it|ccomp"
+                },
+                {
+                    "question": "How many pages of simple text can a 3 1/2 disc save?",
+                    "score": 0.7094,
+                    "answers": "that|mark\tthe|det\tthe|det\tit|pobj\t:|punct\tcan|aux\tso|advmod\tto|aux\tvery|advmod"
+                },
+                {
+                    "question": "Who is Jacinto Maquintoch?",
+                    "score": 0.6212,
+                    "answers": "Jacinto Maquintoch , the entrepreneur who had the idea ,|nsubj\tthe entrepreneur who had the idea|appos"
+                },
+                {
+                    "question": "What is the purpose of a 3 1/2 disc?",
+                    "score": 0.6143,
+                    "answers": "simple text|pobj"
+                },
+                {
+                    "question": "What is the 3 1/2 disc?",
+                    "score": 0.5832,
+                    "answers": "3 1⁄2|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "And since it can only be read on a computer, if your girlfriend or wife finds you one in the bags, she won't be able to check it, because even if she has laptop, they don't have disk reader anymore.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that a disk reader can only be read on a computer?",
+                    "answer": "08/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long can a computer read on a computer?",
+                    "score": 0.7745,
+                    "answers": "since it can only be read on a computer|advcl"
+                },
+                {
+                    "question": "What are the requirements for a computer to check a laptop?",
+                    "score": 0.7517,
+                    "answers": "on 08/12/2020|prep\tto check it|xcomp\teven if she has laptop|advcl"
+                },
+                {
+                    "question": "What are the benefits of a computer reading on a laptop?",
+                    "score": 0.7285,
+                    "answers": "www.eldizque.com|nsubj\tthat And since it can only be read on a computer , if your girlfriend or wife finds you one in the bags , she wo n't be able to check it , because even if she has laptop , they do n't have disk reader anymore|ccomp"
+                },
+                {
+                    "question": "How many computers are there in the US?",
+                    "score": 0.6528,
+                    "answers": "one in the bags|dobj"
+                },
+                {
+                    "question": "What is the difference between a computer and a computer?",
+                    "score": 0.6146,
+                    "answers": "only|advmod\tanymore|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "And since women often don't know much about technology, they won't be able to find out anything.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that women won't be able to find out much about technology?",
+                    "answer": "08/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many women have knowledge of technology?",
+                    "score": 0.8434,
+                    "answers": "since women often do n't know much about technology|advcl"
+                },
+                {
+                    "question": "What are the statistics of women who don't know much about technology?",
+                    "score": 0.8144,
+                    "answers": "www.eldizque.com reported on 08/12/2020 that And since women often do n't know much about technology , they wo n't be able to find out anything|ROOT\tthat And since women often do n't know much about technology , they wo n't be able to find out anything|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of how many women know about technology?",
+                    "score": 0.7674,
+                    "answers": "that|mark\twomen|nsubj\toften|advmod\tdo|aux\tn't|neg\t,|punct\tthey|nsubj\tn't|neg\tto|aux\tout|prt"
+                },
+                {
+                    "question": "What is the technology that women don't know much about?",
+                    "score": 0.7577,
+                    "answers": "technology|pobj\table to find out anything|acomp\tto find out anything|xcomp"
+                },
+                {
+                    "question": "What is technology?",
+                    "score": 0.7562,
+                    "answers": "about technology|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The only problem is that, unlike other instant messengers, one will have to write the message and send the disk by conventional mail or parcel, which is a little bit longer.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that there was a problem with instant messengers?",
+                    "answer": "08/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long does it take to write a message and send it by conventional mail or parcel?",
+                    "score": 0.7166,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\tThe|det\tonly|amod\tthat|mark\t,|punct\tother|amod\tinstant|compound\t,|punct\tone|nsubj\twill|aux\tto|aux\tthe|det\tthe message|dobj\tand|cc\tthe|det\tconventional|amod\tconventional mail or parcel , which is a little bit longer|pobj\tor|cc\tparcel|conj\t,|punct\twhich|nsubj\ta|det\tlittle|amod"
+                }
+            ]
+        },
+        {
+            "claim": "And the worst thing is that the knots will come in low resolution.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 08/12/2020",
+                    "answer": "the worst thing is that the knots will come in low resolution"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will the knots come in low resolution?",
+                    "score": 0.8525,
+                    "answers": "www.eldizque.com reported on 08/12/2020 that And the worst thing is that the knots will come in low resolution|ROOT\tthat And the worst thing is that the knots will come in low resolution|ccomp\tthat the knots will come in low resolution|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "“But the security he gives you makes up for it,” he added.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that \"But the security he gives you makes up for it\"?",
+                    "answer": "08/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the security that the president gives you?",
+                    "score": 0.7475,
+                    "answers": "www.eldizque.com|nsubj\ton 08/12/2020|prep"
+                },
+                {
+                    "question": "What is the security he gives you?",
+                    "score": 0.7469,
+                    "answers": "www.eldizque.com reported on 08/12/2020 that “ But the security he gives you makes up for it|ccomp\tthe security he gives you|nsubj\the gives you|relcl"
+                }
+            ]
+        }
+    ]
+}

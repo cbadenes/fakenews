@@ -1,0 +1,128 @@
+{
+    "id": "92_Society_96",
+    "claim": "The surprising statements have come from the Vatican itself, according to an official statement, Pope Francis has stated that the Church totally forbids all sexual contact during Holy Week. Perhaps for many it is already late, but according to the words of the Pope'it is something that we had already taken for granted, we had not believed it necessary to realize until now, it is a week of penance, of punishment and of joy, but not of sexual joy, the carnal must leave way to the spiritual'. Apparently this ban has not been well received and has become world trending topic with tweets such as 'I am not going to any procession with this Nazarene that I have inside my pants'. Several brotherhoods from different points of our territory have supported the decision'we who live Holy Week offer ourselves in body and soul to it, it is not fair that the rest is diverted from the road maintaining relations in their homes, we must be pure'. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "26/03/2019",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The surprising statements have come from the Vatican itself, according to an official statement, Pope Francis has stated that the Church totally forbids all sexual contact during Holy Week.",
+            "question_answers": [
+                {
+                    "question": "What did Pope Francis say about sexual contact during Holy Week?",
+                    "answer": "the Church totally forbids all sexual contact during Holy Week"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has Pope Francis said about sexual contact during Holy Week?",
+                    "score": 0.7926,
+                    "answers": "Pope Francis|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Perhaps for many it is already late, but according to the words of the Pope'it is something that we had already taken for granted, we had not believed it necessary to realize until now, it is a week of penance, of punishment and of joy, but not of sexual joy, the carnal must leave way to the spiritual'.",
+            "question_answers": [
+                {
+                    "question": "Who said on 26/03/2019 that perhaps for many it is already late, but according to the words of the Pope, \"it is a week of penance, of punishment and of joy, but not of sexual joy, the carnal must leave way to the spiritual\"?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What words did the Pope say that we had already taken for granted?",
+                    "score": 0.818,
+                    "answers": "the words of the Pope'it|pobj"
+                },
+                {
+                    "question": "How long did it take for the Pope to realize that the carnal must leave way to the spiritual?",
+                    "score": 0.7256,
+                    "answers": "it necessary to realize until now|ccomp\tto realize until now|advcl"
+                },
+                {
+                    "question": "What is the week of penance, of punishment and of joy?",
+                    "score": 0.6478,
+                    "answers": "of penance , of punishment and of joy , but not of sexual joy|prep"
+                },
+                {
+                    "question": "What is a week of penance?",
+                    "score": 0.6396,
+                    "answers": "it is a week of penance , of punishment and of joy , but not of sexual joy ,|ccomp\ta week of penance , of punishment and of joy , but not of sexual joy|attr\tpenance|pobj"
+                },
+                {
+                    "question": "What is the meaning of the word \"carnal\"?",
+                    "score": 0.6322,
+                    "answers": "not of sexual joy|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Apparently this ban has not been well received and has become world trending topic with tweets such as 'I am not going to any procession with this Nazarene that I have inside my pants'.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say about the ban?",
+                    "answer": "tweets such as 'I am not going to any procession with this Nazarene that I have inside my pants'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were banned from any procession with Nazarene?",
+                    "score": 0.6429,
+                    "answers": "this ban|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of Trump's ban on Nazarene?",
+                    "score": 0.6316,
+                    "answers": "has become world trending topic with tweets such as ' I am not going to any procession with this Nazarene that I have inside my pants|conj"
+                },
+                {
+                    "question": "What did the tweet say about the ban?",
+                    "score": 0.6122,
+                    "answers": "inside my pants|prep"
+                },
+                {
+                    "question": "What is the ban on going to any procession with Nazarene that I have inside my pants?",
+                    "score": 0.5896,
+                    "answers": "to any procession|prep"
+                },
+                {
+                    "question": "What is the name of the ban that has not been well received and has become world trending?",
+                    "score": 0.5369,
+                    "answers": "on 26/03/2019|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Several brotherhoods from different points of our territory have supported the decision'we who live Holy Week offer ourselves in body and soul to it, it is not fair that the rest is diverted from the road maintaining relations in their homes, we must be pure'.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say about the decision?",
+                    "answer": "it is not fair that the rest is diverted from the road maintaining relations in their homes, we must be pure'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the brotherhoods of those who live Holy Week offer themselves in body and soul to it?",
+                    "score": 0.714,
+                    "answers": "body and soul|pobj"
+                },
+                {
+                    "question": "What does it mean to be pure?",
+                    "score": 0.7024,
+                    "answers": "fair|acomp\tpure|acomp"
+                },
+                {
+                    "question": "What is the relationship between the Holy Week and relations?",
+                    "score": 0.5844,
+                    "answers": "relations|dobj"
+                },
+                {
+                    "question": "What is the purpose of maintaining relations in their homes?",
+                    "score": 0.5826,
+                    "answers": "from the road maintaining relations in their homes|prep\tmaintaining relations in their homes|acl"
+                }
+            ]
+        }
+    ]
+}

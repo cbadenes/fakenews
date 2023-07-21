@@ -1,0 +1,143 @@
+{
+    "id": "Politica_218",
+    "claim": "Great excitement and excitement has generated the next premiere of the new History Channel series “Tiranos de America”. The production, which had a budget of about 5 million dollars, focuses on the leaders of America who acceded to power in a democratic way and then seek to perpetuate themselves in it in a dictatorial way. Among the characters that will appear in the new stellar series of the History stands Nayib Bukele, who in a short time has managed to consolidate himself as one of the tyrannical figures of the continent next to characters like Castro and Chávez. The new program is said to be a full-body X-ray of populist dictators in the region, which is why the President of El Salvador himself has sought to avoid the issue of the series at all costs. I'm sorry.",
+    "source": "perma.cc",
+    "date": "21/06/2023",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Great excitement and excitement has generated the next premiere of the new History Channel series “Tiranos de America”.",
+            "question_answers": [
+                {
+                    "question": "What did perma.cc say generated the next premiere of the History Channel series \"Tiranos de America\"?",
+                    "answer": "Great excitement"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the first series of Tiranos de America aired?",
+                    "score": 0.7721,
+                    "answers": "on 21/06/2023|prep"
+                },
+                {
+                    "question": "What series is Tiranos de America?",
+                    "score": 0.7551,
+                    "answers": "the new History Channel series “ Tiranos de America ”|pobj\tTiranos|compound"
+                },
+                {
+                    "question": "What series is \"Tiranos de America\"?",
+                    "score": 0.7524,
+                    "answers": "the next premiere of the new History Channel series “ Tiranos de America ”|dobj\tof the new History Channel series “ Tiranos de America ”|prep"
+                },
+                {
+                    "question": "What did the History Channel say about the next premiere of the new History Channel series Tiranos de America?",
+                    "score": 0.7487,
+                    "answers": "excitement|conj"
+                },
+                {
+                    "question": "What is the name of the History Channel series \"Tiranos de America\"?",
+                    "score": 0.7019,
+                    "answers": "de|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The production, which had a budget of about 5 million dollars, focuses on the leaders of America who acceded to power in a democratic way and then seek to perpetuate themselves in it in a dictatorial way.",
+            "question_answers": [
+                {
+                    "question": "Who said that The production focuses on the leaders of America who acceded to power in a democratic way and then seek to perpetuate themselves in it in a dictatorial way?",
+                    "answer": "perma.cc"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the production focus on the leaders of America who acceded to power?",
+                    "score": 0.6029,
+                    "answers": "in a democratic way|prep\tdemocratic|amod"
+                },
+                {
+                    "question": "What was the budget of the production in 2023?",
+                    "score": 0.5428,
+                    "answers": "The production , which had a budget of about 5 million dollars ,|nsubj\tthat The production , which had a budget of about 5 million dollars , focuses on the leaders of America who acceded to power in a democratic way and then seek to perpetuate themselves in it in a dictatorial way|ccomp"
+                },
+                {
+                    "question": "What is perma.cc?",
+                    "score": 0.3932,
+                    "answers": "on 21/06/2023|prep\t,|punct\twhich|nsubj\ta|det\t,|punct\ton the leaders of America who acceded to power in a democratic way and then seek to perpetuate themselves in it in a dictatorial way|prep\tthe leaders of America who acceded to power in a democratic way and then seek to perpetuate themselves in it in a dictatorial way|pobj\tpower|pobj\ta|det\tthen seek to perpetuate themselves in it in a dictatorial way|conj\tto|aux\tto perpetuate themselves in it in a dictatorial way|xcomp\tin it|prep\tit|pobj\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "Among the characters that will appear in the new stellar series of the History stands Nayib Bukele, who in a short time has managed to consolidate himself as one of the tyrannical figures of the continent next to characters like Castro and Chávez.",
+            "question_answers": [
+                {
+                    "question": "Nayib Bukele has managed to consolidate himself as one of what type of figures of the continent?",
+                    "answer": "tyrannical figures"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What series of books has Nayib Bukele been in?",
+                    "score": 0.6685,
+                    "answers": "the History|pobj"
+                },
+                {
+                    "question": "Who are the characters that will appear in the new stellar series of the History series?",
+                    "score": 0.5908,
+                    "answers": "Among the characters that will appear in the new stellar series of the History|prep"
+                },
+                {
+                    "question": "What is the relationship between Castro and Chávez?",
+                    "score": 0.5556,
+                    "answers": "next to characters like Castro and Chávez|advmod\tto characters like Castro and Chávez|prep\tcharacters like Castro and Chávez|pobj\tlike Castro and Chávez|prep\tCastro and Chávez|pobj"
+                },
+                {
+                    "question": "What series is the History series about?",
+                    "score": 0.5506,
+                    "answers": "the new stellar series of the History|pobj"
+                },
+                {
+                    "question": "Who is Nayib Bukele?",
+                    "score": 0.5265,
+                    "answers": "perma.cc said on 21/06/2023 that Among the characters that will appear in the new stellar series of the History stands Nayib Bukele , who in a short time has managed to consolidate himself as one of the tyrannical figures of the continent next to characters like Castro and Chávez|ROOT\ton 21/06/2023|prep\tthat|mark\tthe|det\tthat|nsubj\twill|aux\tthe|det\tnew|amod\tstellar|amod\tof the History|prep\tthe|det\tthat Among the characters that will appear in the new stellar series of the History stands Nayib Bukele , who in a short time has managed to consolidate himself as one of the tyrannical figures of the continent next to characters like Castro and Chávez|ccomp\tNayib|compound\tNayib Bukele , who in a short time has managed to consolidate himself as one of the tyrannical figures of the continent next to characters like Castro and Chávez|nsubj\t,|punct\twho|nsubj\tin a short time|prep\ta|det\tshort|amod\ta short time|pobj\thas|aux\twho in a short time has managed to consolidate himself as one of the tyrannical figures of the continent next to characters like Castro and Chávez|relcl\tto|aux\tto consolidate himself as one of the tyrannical figures of the continent next to characters like Castro and Chávez|xcomp\thimself|dobj\tas one of the tyrannical figures of the continent next to characters like Castro and Chávez|prep\tone of the tyrannical figures of the continent next to characters like Castro and Chávez|pobj\tof the tyrannical figures of the continent|prep\tthe|det\tthe|det\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "The new program is said to be a full-body X-ray of populist dictators in the region, which is why the President of El Salvador himself has sought to avoid the issue of the series at all costs.",
+            "question_answers": [
+                {
+                    "question": "Why has the President of El Salvador sought to avoid the issue of the X-ray?",
+                    "answer": "the President of El Salvador himself has sought to avoid the issue of the series at all costs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the President of El Salvador want to do with the program?",
+                    "score": 0.5468,
+                    "answers": "which is why the President of El Salvador himself has sought to avoid the issue of the series at all costs|advcl"
+                },
+                {
+                    "question": "What is the program of El Salvador?",
+                    "score": 0.5029,
+                    "answers": "that The new program is said to be a full - body X - ray of populist dictators in the region , which is why the President of El Salvador himself has sought to avoid the issue of the series at all costs|ccomp"
+                },
+                {
+                    "question": "What is the purpose of the X-ray program?",
+                    "score": 0.4968,
+                    "answers": "to be a full - body X - ray of populist dictators in the region|xcomp"
+                },
+                {
+                    "question": "What is the name of the program that President El Salvador has sought to avoid?",
+                    "score": 0.4886,
+                    "answers": "perma.cc said on 21/06/2023 that The new program is said to be a full - body X - ray of populist dictators in the region , which is why the President of El Salvador himself has sought to avoid the issue of the series at all costs|ROOT"
+                },
+                {
+                    "question": "Who were the leaders of the new program?",
+                    "score": 0.4805,
+                    "answers": "populist dictators in the region|pobj"
+                }
+            ]
+        }
+    ]
+}

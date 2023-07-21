@@ -1,0 +1,370 @@
+{
+    "id": "81_Entertainment_669",
+    "claim": "Hollywood. - After the first image of the spin-off cast of the popular Star Wars character, Han Solo, which will begin shooting shortly, the project director, Christopher Miller, surprised the media by revealing that Princess Leia will also appear in the plot, which as Han will be shown in a younger facet. Christopher also caused a stir by revealing that Leia will be played by Mexican actress Martha Higareda, to whom they decided to give the opportunity 'after seeing the spectacular performance of their compatriot Diego Luna 'on the recent film of the franchise 'Rogue One ': 'The intervention of the Princess was a surprise that we did not want to reveal until the filming was confirmed. Finally we have started with the production officially and it is time to reveal that Leia will also have an important participation in the plot. The story will be placed before Han and she started an affair, many people are afraid that we will not do this story well with the plot of the first Star Wars, however they can be calm as the writers did an excellent job to insert Leia in a coherent way into this spin-off ', he said. Miller comments that if Diego Luna hadn't appeared on Rogue One very hardly would have given Higareda and other Latin actresses a chance to cast:'I'm not going to lie, Diego opened our eyes to realize that a Latin American really has the ability to star in a tape of this magnitude. After his intervention at Rogue One we decided to give several Mexicans the opportunity to cast, among them Martha, who surprised us because she presented herself to the semi-naked auditions wearing the famous two-piece suit that Leia wore, and that made her look very sensual ', I point out ́. The director mentions that Martha was about to back down when she was told that there would be no need to make any nudes: 'She convinced us to give her the role mainly because Leia's character will wear sexy outfits like the famous two-pieces throughout the film. In the end we explained that she had kept the paper and asked us how many minutes of the plot would appear dressed because she feels more comfortable acting naked. We told him that there would be no need to shrink, and far from getting excited, he got discouraged, but we showed him the costumes he will wear, and realizing that he will be very uncovered in the end he accepted the proposal. She's nervous but at the same time very excited that her first performance with clothes on the big screen is on such an important project. His participation is already certain, in fact next week we will hold a press conference to present her as the new Princess Leia ', he said. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "26/03/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Hollywood.",
+            "question_answers": [
+                {
+                    "question": "On what date did elruinaversal.com report that Hollywood was rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored to be rumored",
+                    "answer": "26/03/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Hollywood's relationship with Hollywood?",
+                    "score": 0.7928,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 26/03/2017 that Hollywood|ROOT\tthat Hollywood|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "- After the first image of the spin-off cast of the popular Star Wars character, Han Solo , which will begin shooting shortly, the project director, Christopher Miller , surprised the media by revealing that Princess Leia will also appear in the plot, which as Han will be shown in a younger facet .",
+            "question_answers": [
+                {
+                    "question": "Who is the project director of the Star Wars spin-off?",
+                    "answer": "Christopher Miller"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What role did Princess Leia play in the Star Wars spin-off cast?",
+                    "score": 0.8574,
+                    "answers": "of the popular Star Wars character , Han Solo|prep\tthe popular Star Wars character , Han Solo|pobj"
+                },
+                {
+                    "question": "When did Christopher Miller announce that Princess Leia would appear in the Han Solo spin-off cast?",
+                    "score": 0.84,
+                    "answers": "shortly|advmod"
+                },
+                {
+                    "question": "When was the first image of the spin-off cast of the popular Star Wars character?",
+                    "score": 0.8216,
+                    "answers": "which will begin shooting shortly|relcl\tshooting shortly|xcomp\tthat - After the first image of the spin - off cast of the popular Star Wars character , Han Solo , which will begin shooting shortly , the project director , Christopher Miller , surprised the media by revealing that Princess Leia will also appear in the plot , which as Han will be shown in a younger facet|ccomp"
+                },
+                {
+                    "question": "How old is Princess Leia?",
+                    "score": 0.766,
+                    "answers": "younger|amod"
+                },
+                {
+                    "question": "What is the role of Princess Leia in the plot of Han Solo?",
+                    "score": 0.7272,
+                    "answers": "by revealing that Princess Leia will also appear in the plot , which as Han will be shown in a younger facet|prep\trevealing that Princess Leia will also appear in the plot , which as Han will be shown in a younger facet|pcomp\tthat Princess Leia will also appear in the plot , which as Han will be shown in a younger facet|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "the project director, Christopher Miller also caused a stir by revealing that Princess Leia will be played by Mexican actress Martha Higareda, to whom they decided to give the opportunity 'after seeing the spectacular performance of their compatriot Diego Luna 'on the recent film of the franchise 'Rogue One ' : 'The intervention of Princess Leia was a surprise that they did not want to reveal until the filming was confirmed.",
+            "question_answers": [
+                {
+                    "question": "What film did Martha Higareda play Princess Leia in?",
+                    "answer": "'Rogue One"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Christopher Miller know that Princess Leia would be played by Diego Luna?",
+                    "score": 0.86,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "What role did Princess Leia play in the film Rogue One?",
+                    "score": 0.8489,
+                    "answers": "The intervention of Princess Leia|nsubj"
+                },
+                {
+                    "question": "When was Princess Leia revealed to the public?",
+                    "score": 0.8297,
+                    "answers": "a surprise they did not want that to reveal until the filming was confirmed|attr\tthey did not want that to reveal until the filming was confirmed|relcl"
+                },
+                {
+                    "question": "Who played Princess Leia in Rogue One?",
+                    "score": 0.8135,
+                    "answers": "that Princess Leia will be played by Mexican actress Martha Higareda , they decided to give to whom the opportunity ' after seeing the spectacular performance of their compatriot Diego Luna ' on the recent film of the franchise ' Rogue One '|ccomp"
+                },
+                {
+                    "question": "What did Christopher Miller say about Princess Leia?",
+                    "score": 0.7912,
+                    "answers": "that|mark\tthe|det\t,|punct\tChristopher|compound\talso|advmod\tthat|mark\tPrincess|compound\t,|punct\tto whom|prep\twhom|pobj\tto|aux\tthe|det\t'|punct\tthe|det\t'|punct\tthe|det\tthe|det\tthe franchise ' Rogue One '|pobj\t'|punct\t'|punct\t:|punct\t'|punct\tThe|det\tPrincess|compound\twww.elruinaversal.com reported on 26/03/2017 that the project director , Christopher Miller also caused a stir by revealing that Princess Leia will be played by Mexican actress Martha Higareda , they decided to give to whom the opportunity ' after seeing the spectacular performance of their compatriot Diego Luna ' on the recent film of the franchise ' Rogue One ' : ' The intervention of Princess Leia was a surprise they did not want that to reveal until the filming was confirmed|ROOT\tthat|dobj\tdid|aux\tto|aux\tthat to reveal until the filming was confirmed|xcomp\tthe|det\tthe filming|nsubjpass\twas|auxpass\tuntil the filming was confirmed|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Finally they have started with the production officially and it is time to reveal that Princess Leia will also have an important participation in the plot, which as Han will be shown in a younger facet .",
+            "question_answers": [
+                {
+                    "question": "Who will also have an important participation in the plot?",
+                    "answer": "Princess Leia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What role did Princess Leia play in the production of the Han movie?",
+                    "score": 0.862,
+                    "answers": "that|mark\tFinally|advmod\tthey|nsubj\thave|aux\tthe|det\tand|cc\tto|aux\tthat|mark\twill|aux\talso|advmod\tan|det\timportant|amod\tthe|det\t,|punct\twhich|nsubjpass\tas|mark\twill|aux\ta|det"
+                },
+                {
+                    "question": "How old is Princess Leia?",
+                    "score": 0.8058,
+                    "answers": "younger|amod"
+                },
+                {
+                    "question": "What is Princess Leia's role in the plot of the movie?",
+                    "score": 0.7261,
+                    "answers": "it is time to reveal that Princess Leia will also have an important participation in the plot , which as Han will be shown in a younger facet|conj"
+                },
+                {
+                    "question": "What is the role of Princess Leia in the Han movie?",
+                    "score": 0.7232,
+                    "answers": "www.elruinaversal.com reported on 26/03/2017 that Finally they have started with the production officially and it is time to reveal that Princess Leia will also have an important participation in the plot , which as Han will be shown in a younger facet|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The story will be placed before the popular Star Wars character, Han Solo and Princess Leia started an affair, many people are afraid that they will not do The story well with the plot of the first Star Wars, however many people can be calm as the writers did an excellent job to insert Princess Leia in a coherent way into the plot, which as Han will be shown in a younger facet ', the project director, Christopher Miller said.",
+            "question_answers": [
+                {
+                    "question": "What did Christopher Miller say about the Princess Leia and Han Solo?",
+                    "answer": "Han will be shown in a younger facet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the writers do with the plot of the first Star Wars movie?",
+                    "score": 0.8397,
+                    "answers": "Princess|compound\tPrincess|compound"
+                },
+                {
+                    "question": "What is the role of Princess Leia in the story of Star Wars?",
+                    "score": 0.7555,
+                    "answers": "in a younger facet|prep"
+                },
+                {
+                    "question": "What is the relationship between Princess Leia and Han Solo?",
+                    "score": 0.7329,
+                    "answers": "however many people can be calm as the writers did an excellent job to insert Princess Leia in a coherent way into the plot , which as Han will be shown in a younger facet|ccomp\tyounger|amod\ta younger facet|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between Han Solo and Princess Leia?",
+                    "score": 0.7246,
+                    "answers": "the popular Star Wars character , Han Solo and Princess Leia|nsubj\tbefore the popular Star Wars character , Han Solo and Princess Leia started an affair|advcl"
+                },
+                {
+                    "question": "Who is Christopher Miller?",
+                    "score": 0.6527,
+                    "answers": "project|compound\tthe project director , Christopher Miller|nsubj\tChristopher|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the project director, Christopher Miller comments that if their compatriot Diego Luna hadn't appeared on the recent film of the franchise 'Rogue One ' very hardly would have given Higareda and other Latin actresses a chance to cast:'I'm not going to lie, their compatriot Diego Luna opened our eyes to realize that a Latin American really has the ability to star in a tape of this magnitude.",
+            "question_answers": [
+                {
+                    "question": "What film did Christopher Miller say wouldn't have given Higareda and other Latin actresses a chance to cast?",
+                    "answer": "'Rogue One"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What film did Diego Luna star in?",
+                    "score": 0.8629,
+                    "answers": "on the recent film of the franchise ' Rogue One '|prep\tthe recent film of the franchise ' Rogue One '|pobj\tof the franchise ' Rogue One '|prep\tthe franchise ' Rogue One '|pobj\tRogue One|appos"
+                },
+                {
+                    "question": "What is Diego Luna's ability to star in a tape?",
+                    "score": 0.741,
+                    "answers": "that a Latin American really has the ability to star in a tape of this magnitude|ccomp\tthe ability to star in a tape of this magnitude|dobj\tto star in a tape of this magnitude|acl"
+                },
+                {
+                    "question": "How many Latin Americans were cast in the film Rogue One?",
+                    "score": 0.7278,
+                    "answers": "to realize that a Latin American really has the ability to star in a tape of this magnitude|xcomp"
+                },
+                {
+                    "question": "Who is Diego Luna?",
+                    "score": 0.7055,
+                    "answers": "their compatriot Diego Luna|nsubj\tDiego|compound\tHigareda and other Latin actresses|dative\ttheir compatriot Diego Luna|nsubj\tDiego|compound"
+                },
+                {
+                    "question": "What is the source of evidence of Diego Luna's role in Rogue One?",
+                    "score": 0.6837,
+                    "answers": "www.elruinaversal.com reported on 26/03/2017 that the project director , Christopher Miller comments that if their compatriot Diego Luna had n't appeared on the recent film of the franchise ' Rogue One ' very hardly would have given Higareda and other Latin actresses a chance to cast:'I'm not going to lie , their compatriot Diego Luna opened our eyes to realize that a Latin American really has the ability to star in a tape of this magnitude|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "After his intervention at Rogue One we decided to give several Mexicans the opportunity to cast, among them Martha, who surprised us because she presented herself to the semi-naked auditions wearing the famous two-piece suit that Leia wore, and that made her look very sensual ', I point out ́. The director mentions that Martha was about to back down when she was told that there would be no need to make any nudes: 'She convinced us to give her the role mainly because Leia's character will wear sexy outfits like the famous two-pieces throughout the film.",
+            "question_answers": [
+                {
+                    "question": "What did Martha's two-piece suit make her look?",
+                    "answer": "sensual"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the Mexicans invite Martha to the semi-naked auditions?",
+                    "score": 0.7895,
+                    "answers": "www.elruinaversal.com reported on 26/03/2017 that After his intervention at Rogue One we decided to give several Mexicans the opportunity to cast , among them Martha , who surprised us because she presented herself to the semi - naked auditions wearing the famous two - piece suit that Leia wore , and that made her look very sensual ' , I point out ́.|ROOT\tto give several Mexicans the opportunity to cast , among them Martha , who surprised us because she presented herself to the semi - naked auditions wearing the famous two - piece suit that Leia wore , and that made her look very sensual|xcomp"
+                },
+                {
+                    "question": "Why did Martha turn down the role of Princess Leia in Rogue One?",
+                    "score": 0.7775,
+                    "answers": "that Martha was about to back down when she was told that there would be no need to make any nudes|ccomp"
+                },
+                {
+                    "question": "Who convinced the director to give her the role of Martha in Rogue One?",
+                    "score": 0.7603,
+                    "answers": "The director mentions that Martha was about to back down when she was told that there would be no need to make any nudes|ccomp"
+                },
+                {
+                    "question": "Why did the director tell Martha there would be no nudes?",
+                    "score": 0.7395,
+                    "answers": "when she was told that there would be no need to make any nudes|advcl\tno need to make any nudes|attr\tto make any nudes|acl"
+                },
+                {
+                    "question": "What is the name of the Mexican woman who showed herself to the auditions wearing the famous two-piece suit?",
+                    "score": 0.6758,
+                    "answers": "herself|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In the end we explained that she had kept the paper and asked us how many minutes of the plot would appear dressed because she feels more comfortable acting naked.",
+            "question_answers": [
+                {
+                    "question": "When did Elruinaversal report that she had kept the paper?",
+                    "answer": "26/03/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Elizabeth feel about acting naked?",
+                    "score": 0.7356,
+                    "answers": "because she feels more comfortable acting naked|advcl"
+                },
+                {
+                    "question": "How many minutes did Elizabeth Flinn spend acting naked in the novel?",
+                    "score": 0.7226,
+                    "answers": "acting naked|xcomp"
+                },
+                {
+                    "question": "How long did the story take place?",
+                    "score": 0.7142,
+                    "answers": "on 26/03/2017|prep\thow many minutes of the plot|nsubj"
+                },
+                {
+                    "question": "How many minutes of the plot did the author of the book spend acting naked?",
+                    "score": 0.7111,
+                    "answers": "how many|amod"
+                },
+                {
+                    "question": "What is the plot of the book?",
+                    "score": 0.655,
+                    "answers": "the plot|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "We told him that there would be no need to shrink, and far from getting excited, he got discouraged, but we showed him the costumes he will wear, and realizing that he will be very uncovered in the end he accepted the proposal.",
+            "question_answers": [
+                {
+                    "question": "When did Elruinaversal report that he would not need to shrink?",
+                    "answer": "26/03/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Dr. George Flinn say about the proposal?",
+                    "score": 0.6183,
+                    "answers": "that there would be no need to shrink|ccomp\tno need to shrink|attr\tto shrink|acl"
+                },
+                {
+                    "question": "What was the result of the proposal?",
+                    "score": 0.5471,
+                    "answers": "realizing that he will be very uncovered in the end he accepted the proposal|conj"
+                },
+                {
+                    "question": "What was the name of the man who accepted the proposal?",
+                    "score": 0.532,
+                    "answers": "www.elruinaversal.com|nsubj\ton 26/03/2017|prep\t26/03/2017|pobj\tfar from getting excited|advmod\tfar from getting excited , he got discouraged , but we showed him the costumes he will wear , and realizing that he will be very uncovered in the end he accepted the proposal|conj\twe showed him the costumes he will wear , and realizing that he will be very uncovered in the end he accepted the proposal|conj\the will wear|relcl\trealizing that he will be very uncovered in the end|advcl\tthat he will be very uncovered in the end|ccomp\tvery uncovered|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "She's nervous but at the same time very excited that her first performance with clothes on the big screen is on such an important project.",
+            "question_answers": [
+                {
+                    "question": "When did Elruinaversal report that she was nervous?",
+                    "answer": "26/03/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many clothes did Beyonce wear on the big screen in 2017?",
+                    "score": 0.8364,
+                    "answers": "that her first performance with clothes on the big screen is on such an important project|ccomp"
+                },
+                {
+                    "question": "What is Beyoncé wearing on the big screen?",
+                    "score": 0.8084,
+                    "answers": "at the same time very excited that her first performance with clothes on the big screen is on such an important project|conj"
+                },
+                {
+                    "question": "What type of clothes did Hillary Clinton wear during her first performance with the big screen?",
+                    "score": 0.8059,
+                    "answers": "clothes|pobj"
+                },
+                {
+                    "question": "What is the relationship between Beyonce and the big screen?",
+                    "score": 0.7425,
+                    "answers": "the big screen|pobj"
+                },
+                {
+                    "question": "What is the name of the project that Hillary Clinton is involved in?",
+                    "score": 0.6542,
+                    "answers": "such an important project|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "His participation is already certain, in fact next week we will hold a press conference to present her as the new Princess Leia ', he said.",
+            "question_answers": [
+                {
+                    "question": "What did Elruinaversal say she would be presented as next week?",
+                    "answer": "Princess Leia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the new Princess Leia?",
+                    "score": 0.7923,
+                    "answers": "www.elruinaversal.com reported on 26/03/2017 that His participation is already certain|ccomp\tthat|mark\tHis|poss\talready|advmod\tcertain|acomp\t,|punct\tin fact|prep\tfact|pobj\tnext|amod\twe|nsubj\tto|aux\tto present her as the new Princess Leia|advcl\tthe|det\t'|punct\t,|punct\the|nsubj\twww.elruinaversal.com reported on 26/03/2017 that His participation is already certain , in fact next week we will hold a press conference to present her as the new Princess Leia ' , he said|ROOT"
+                },
+                {
+                    "question": "What is the relationship between Trump and Princess Leia?",
+                    "score": 0.7878,
+                    "answers": "His participation|nsubj\tthat His participation is already certain|ccomp"
+                },
+                {
+                    "question": "Who is Princess Leia?",
+                    "score": 0.7798,
+                    "answers": "www.elruinaversal.com|nsubj\ton 26/03/2017|prep\twill|aux\ta|det\ther|dobj\tas the new Princess Leia|prep\tPrincess|compound\tthe new Princess Leia|pobj"
+                },
+                {
+                    "question": "What is the name of the press conference held for Princess Leia?",
+                    "score": 0.7679,
+                    "answers": "press|compound"
+                },
+                {
+                    "question": "What is the purpose of a press conference?",
+                    "score": 0.7456,
+                    "answers": "a press conference|dobj"
+                }
+            ]
+        }
+    ]
+}

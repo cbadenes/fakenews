@@ -1,0 +1,226 @@
+{
+    "id": "Sport_313",
+    "claim": "\"They asked me for a hymn similar to that of Seville, but when the problem came, they grabbed me from their pend. I'm sorry. I'm sorry. 'Jorge D'Alessio, singer of the Matute group, stated that directors of the Americas asked him to copy the idea of the official Anthem of Seville to perform the Anthem of  Years of the Eagles. In an interview with'El Escorpion Dorado ', a Youtube character, D'Alessio explained that the version of the American anthem is not a plagiarism. 'There is a part where the melody is very similar to that of Seville, but it is only a compass, for it to be a plagiarism there must be at least eight similar bars. When the Views came out, it was established that there was no plagiarism, but no media published this information'. Remember that the work of Jorge D'Alessio, dedicated to America, was played for the first and only occasion within the celebrations of the centennial of the Americanist painting, precisely in the half time of the match between the Eagles and the Xolos of Tijuana of the day  of the Opening . Social networks immediately exploited and criticized the supposed plagiarism of the Seville Anthem, so the blue cream directive had to report that the Anthem of the  years of America would not be touched again. I'm sorry.",
+    "source": "www.universodeportivo.mx",
+    "date": "01/03/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "\"They asked me for a hymn similar to that of Seville , but when the problem came, They grabbed me from pend.",
+            "question_answers": [
+                {
+                    "question": "What city did they ask for a hymn similar to?",
+                    "answer": "Seville"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who did Seville ask for a hymn similar to that of Seville?",
+                    "score": 0.8623,
+                    "answers": "for a hymn similar to that of Seville|prep"
+                },
+                {
+                    "question": "What was the name of Seville's hymns?",
+                    "score": 0.828,
+                    "answers": "similar to that of Seville|amod"
+                },
+                {
+                    "question": "What is the name of the hymns used by Seville?",
+                    "score": 0.7518,
+                    "answers": "that|mark\t\"|punct\tThey|nsubj\tme|dobj\t,|punct\twhen|advmod\tthe|det\t,|punct\tThey|nsubj\tme|dobj"
+                },
+                {
+                    "question": "What is Universodeportivo.mx?",
+                    "score": 0.5596,
+                    "answers": "www.universodeportivo.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'me , stated that directors of the Americas asked me to copy the idea of that of Seville to perform Seville .",
+            "question_answers": [
+                {
+                    "question": "What was the name of the person who was asked by directors of the Americas to copy the idea of that of Seville?",
+                    "answer": "'me"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Seville do to perform Seville?",
+                    "score": 0.8773,
+                    "answers": "www.universodeportivo.mx|nsubj\twww.universodeportivo.mx said on 01/03/2023 that ' me , stated that directors of the Americas asked me to copy the idea of that of Seville to perform Seville|ROOT\ton 01/03/2023|prep\tme|nsubj\tthat ' me , stated that directors of the Americas asked me to copy the idea of that of Seville to perform Seville|ccomp\tof the Americas|prep\tthe Americas|pobj\tthat directors of the Americas asked me to copy the idea of that of Seville to perform Seville|ccomp\tme|dobj\tto|aux\tto copy the idea of that of Seville to perform Seville|xcomp\tto|aux"
+                },
+                {
+                    "question": "Who did Seville perform for?",
+                    "score": 0.8702,
+                    "answers": "of that of Seville|prep\tto perform Seville|advcl"
+                },
+                {
+                    "question": "What is Seville's musical style?",
+                    "score": 0.8426,
+                    "answers": "that|mark\t'|nsubj\t,|punct\tthat|mark\tdirectors of the Americas|nsubj\tthe|det\tthe|det\tthe idea of that of Seville|dobj"
+                },
+                {
+                    "question": "What is the name of Seville?",
+                    "score": 0.7411,
+                    "answers": "that of Seville|pobj\tof Seville|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In an interview with'El Escorpion Dorado ', a Youtube character, me explained that Seville is not a plagiarism.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the character who interviewed me on 01/03/2023?",
+                    "answer": "Escorpion Dorado"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is Seville a plagiarist?",
+                    "score": 0.9037,
+                    "answers": "that Seville is not a plagiarism|ccomp"
+                },
+                {
+                    "question": "What did Seville say about plagiarism?",
+                    "score": 0.8592,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "What does El Escorpion Dorado do?",
+                    "score": 0.8392,
+                    "answers": "In an interview with'El Escorpion Dorado ' , a Youtube character ,|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Seville's plagiarism?",
+                    "score": 0.7658,
+                    "answers": "www.universodeportivo.mx|nsubj\twww.universodeportivo.mx said on 01/03/2023 that In an interview with'El Escorpion Dorado ' , a Youtube character , me explained that Seville is not a plagiarism|ROOT\ton 01/03/2023|prep\tthat|mark\tan|det\twith'El|compound\tEscorpion|compound\t'|punct\t,|punct\ta|det\t,|punct\tme|nsubj\tthat In an interview with'El Escorpion Dorado ' , a Youtube character , me explained that Seville is not a plagiarism|ccomp\tthat|mark\ta|det\ta plagiarism|attr"
+                },
+                {
+                    "question": "What is El Escorpion Dorado?",
+                    "score": 0.7416,
+                    "answers": "an interview with'El Escorpion Dorado ' , a Youtube character ,|pobj\twith'El Escorpion Dorado ' , a Youtube character ,|appos"
+                }
+            ]
+        },
+        {
+            "claim": "'There is a part where the melody is very similar to that of Seville , but the Anthem of  Years of the Eagles is only a compass, for the Anthem of  Years of the Eagles to be a plagiarism there must be at least eight similar bars.",
+            "question_answers": [
+                {
+                    "question": "What city's melody is similar to the Anthem of Years of the Eagles?",
+                    "answer": "Seville"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How similar is Seville to the song of the Eagles?",
+                    "score": 0.8494,
+                    "answers": "www.universodeportivo.mx said on 01/03/2023 that ' There is a part where the melody is very similar to that of Seville , but the Anthem of   Years of the Eagles is only a compass , for the Anthem of   Years of the Eagles to be a plagiarism there must be at least eight similar bars|ROOT"
+                },
+                {
+                    "question": "What song is similar to that of Seville?",
+                    "score": 0.8418,
+                    "answers": "the Anthem of   Years of the Eagles|dep"
+                },
+                {
+                    "question": "What is Seville's song?",
+                    "score": 0.8047,
+                    "answers": "very similar to that of Seville|acomp\tto that of Seville|prep\tthat of Seville|pobj\tof Seville|prep"
+                },
+                {
+                    "question": "How many similar bars does the Anthem of Years of the Eagles have?",
+                    "score": 0.7991,
+                    "answers": "at least eight similar bars|attr"
+                },
+                {
+                    "question": "What are the similarities between Seville and the Anthem of the Eagles?",
+                    "score": 0.7908,
+                    "answers": "that ' There is a part where the melody is very similar to that of Seville , but the Anthem of   Years of the Eagles is only a compass , for the Anthem of   Years of the Eagles to be a plagiarism there must be at least eight similar bars|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "When the Views came out, it was established that there was no plagiarism, but no media published this information'.",
+            "question_answers": [
+                {
+                    "question": "How much plagiarism was there when the Views came out?",
+                    "answer": "no"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Univ Univodeportivo.mx say about plagiarism?",
+                    "score": 0.8781,
+                    "answers": "www.universodeportivo.mx said on 01/03/2023 that When the Views came out , it was established that there was no plagiarism , but no media published this information '|ROOT\tthat|mark\tWhen|advmod\tthe|det\tout|prt\t,|punct\tit|nsubjpass\twas|auxpass\tthat|mark\tthere|expl\tno|det\t,|punct\tbut|cc\tno|det\tthis|det\tthis information|dobj\t'|punct"
+                },
+                {
+                    "question": "What is plagiarism?",
+                    "score": 0.8335,
+                    "answers": "that there was no plagiarism|ccomp\tno plagiarism|attr"
+                },
+                {
+                    "question": "What is the source of evidence of plagiarism?",
+                    "score": 0.8084,
+                    "answers": "on 01/03/2023|prep\tthe Views|nsubj\tWhen the Views came out|advcl\tthat When the Views came out , it was established that there was no plagiarism , but no media published this information|ccomp\tno media|nsubj\tno media published this information|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Remember that Seville , was played for the first and only occasion within the celebrations of the centennial of the Americanist painting, precisely in the half time of the match between it and the Xolos of Tijuana of the day  of the Opening .",
+            "question_answers": [
+                {
+                    "question": "What was played for the first and only occasion within the celebrations of the centennial of the Americanist painting?",
+                    "answer": "Remember that Seville"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Seville played for the first time during the centennial of the Americanist painting?",
+                    "score": 0.8341,
+                    "answers": "the day|pobj"
+                },
+                {
+                    "question": "When was the match between Seville and the Xolos of Tijuana of the day?",
+                    "score": 0.7609,
+                    "answers": "precisely in the half time of the match between it and the Xolos of Tijuana of the day|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Social networks immediately exploited and criticized the supposed plagiarism of that of Seville , so the blue cream directive had to report that that of Seville would not be touched again.",
+            "question_answers": [
+                {
+                    "question": "What happened on 01/03/2023?",
+                    "answer": "Social networks immediately exploited and criticized the supposed plagiarism of that of Seville"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did social networks say about Seville's plagiarism?",
+                    "score": 0.891,
+                    "answers": "Social networks|nsubj"
+                },
+                {
+                    "question": "What did Seville say about plagiarism?",
+                    "score": 0.8765,
+                    "answers": "that|mark\timmediately|advmod\tand|cc\tthe|det\tsupposed|amod\t,|punct\tso|mark\tthe|det\tthat|mark\tnot|neg\tbe|auxpass\tthat that of Seville would not be touched again|ccomp"
+                },
+                {
+                    "question": "What did Seville do to be accused of plagiarism?",
+                    "score": 0.8576,
+                    "answers": "criticized the supposed plagiarism of that of Seville|conj"
+                },
+                {
+                    "question": "What was Seville's plagiarism?",
+                    "score": 0.8297,
+                    "answers": "the supposed plagiarism of that of Seville|dobj"
+                },
+                {
+                    "question": "What did the blue cream directive say about Seville?",
+                    "score": 0.8043,
+                    "answers": "www.universodeportivo.mx said on 01/03/2023 that Social networks immediately exploited and criticized the supposed plagiarism of that of Seville , so the blue cream directive had to report that that of Seville would not be touched again|ROOT\ton 01/03/2023|prep\tthat Social networks immediately exploited and criticized the supposed plagiarism of that of Seville , so the blue cream directive had to report that that of Seville would not be touched again|ccomp\tso the blue cream directive had to report that that of Seville would not be touched again|advcl\tto|aux\twould|aux\tagain|advmod"
+                }
+            ]
+        }
+    ]
+}

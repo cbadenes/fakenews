@@ -1,0 +1,673 @@
+{
+    "id": "62_Science_164",
+    "claim": "This Friday #NUMBER* July we will be at our furthest point to the Sun during #NUMBER*. That day the Earth will pass through what is known as aphelium, a Greek word meaning'far from the Sun\". 'The aphelium is the point of the Earth orbit around the Sun where the Earth is further away from our star and the perihelion (near the Sun) is just the opposite point, that is, the point of the Earth orbit at which the Earth is closer to the Sun ', explained to BBC Mundo Nayra Rodríguez Eugenio, astrophysics and divulgator of the Instituto de Astrofísica de Canarias. 'In the perihelion the Sun is about  million km from the Earth, and when it is in the aphelium it is about  million km from the Sun'. The distance varies because the orbit of the Earth around the Sun is not a perfect circumference but elliptical. The greater distance translates into a lower speed. As Kepler's second law points out, when planets are near the Sun in its orbit they move faster than when they are farther away. The greatest distance in the aphelium means that the orbital rate of translation will be about  km per hour, close to  km per hour less than the speed in the perihelion. In the aphelium, 'the Earth is a little further away, * NUMBER* millions of miles further from the Sun ', than in the perihelion. SpeedAphelium takes place every year between the  and the  of July. The perihelion took place this year on January . The greatest distance between the Earth and the Sun will be recorded on the July #NUMBER* at the #NUMBER*: GMT, when the planet and its star are at #NUMBER* km. StationsThe greater or lesser distance from the Sun during the aphelium or perihelium are not related at all to temperature variations during the seasons. 'The seasons are produced by the inclination of the axis of rotation of the Earth with respect to the plane that describes around the Sun, which is what we call the ecliptic ', said Rodríguez Eugenio.'This axis is tilted some  degrees and therefore when we are in the summer of the northern hemisphere, the northern axis, that is the north pole of the Earth, is pointing more towards the direction of the Sun. '.'In winter instead, our north pole is pointing as in the opposite direction, it's not exactly opposite because it's close to  degrees, but it's pointing in the opposite direction to the Sun'. More water in the southern hemisphereThe summer of the northern hemisphere coincides with the aphelium, 'but we receive more solar radiation here in the northern hemisphere because the Sun is higher on the horizon and we also have more hours of sunlight ', as explained the astrophysics. In the southern hemisphere, however, summer coincides with perihelion. 'This could make us think that in the southern hemisphere the temperature rises more than in the north in summer, because apart from the inclination, the Earth is also closer to the Sun ', explained Rodríguez Eugenio. But it's not like that. What happens is that 'in the southern hemisphere there is more water and that does not cause the temperature to rise so much'. 'This seems to be due to the fact that the earth is much more easily heated than water and, as the southern hemisphere has a higher proportion of its water-covered surface, the excess energy is absorbed by water'. Therefore, in the summer, both in the southern hemisphere and in the northern hemisphere, the temperature is approximately the same, explained the astrophysics. The greater distance translates into a lower speed. As Kepler's second law points out, when planets are near the Sun in its orbit they move faster than when they are farther away. The greater distance in the aphelium means that the orbital rate of translation will be less than  km per hour, close to  km per hour less than the speed in the perihelion. ♪ This note was corrected on July ♪ ♪ NUMBER ♪. Although several scientific media mentioned a difference of km in the Earth's speed between aphelium and perihelium, astrophysics Nayra Rodríguez Eugenio explained that the correct calculation indicates a change in the speed of km per hour. I'm sorry.",
+    "source": "www.bbc.com",
+    "date": "03/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "This Friday #NUMBER* July coincides we will be at the northern hemisphere point to the Sun during #NUMBER*.",
+            "question_answers": [
+                {
+                    "question": "What hemisphere will we be at during #NUMBER* July?",
+                    "answer": "the northern hemisphere"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the sun and the moon?",
+                    "score": 0.5477,
+                    "answers": "the northern hemisphere point to the Sun|pobj\tto the Sun|prep\tthe Sun|pobj"
+                },
+                {
+                    "question": "What is the date of the NUMBER?",
+                    "score": 0.5469,
+                    "answers": "www.bbc.com reported on 03/07/2018 that This Friday # NUMBER * July coincides we will be at the northern hemisphere point to the Sun during # NUMBER *|ROOT\tthat This Friday # NUMBER * July coincides we will be at the northern hemisphere point to the Sun during # NUMBER *|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "This Friday #NUMBER* July the Earth coincides is known as apheliumthe Earth from the Sun \".",
+            "question_answers": [
+                {
+                    "question": "What is aphelium?",
+                    "answer": "Earth from the Sun"
+                },
+                {
+                    "question": "What is aphelium?",
+                    "answer": "Earth from the Sun"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When is the Earth from the sun?",
+                    "score": 0.8611,
+                    "answers": "the Earth|nsubj\tfrom the Sun|prep\tthe Sun|pobj"
+                },
+                {
+                    "question": "What is the date of the letter \"NUMBER\" from the sun?",
+                    "score": 0.7832,
+                    "answers": "that|mark\tThis|det\t#|appos\tthe|det\tis|auxpass\tthe|det\t\"|punct"
+                },
+                {
+                    "question": "What is the meaning of the word \"NUMBER\" on Earth?",
+                    "score": 0.6949,
+                    "answers": "as apheliumthe Earth from the Sun|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'The aphelium is the point of is orbit the Earth the Earth the Earth is planets the Sun and the perihelion (near the Sun) the Earth and the Sun the perihelion (near the Sun) is just coincides is, the southern hemisphere point of the the southern hemisphere orbit at which the Earth is the Sun to BBC Mundo Nayra Rodríguez is the seasons coincides .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How close is the Earth to the sun to the Earth?",
+                    "score": 0.7428,
+                    "answers": "www.bbc.com reported on 03/07/2018 that ' The aphelium is the point of is orbit the Earth the Earth the Earth is planets the Sun and the perihelion ( near the Sun ) the Earth and the Sun the perihelion ( near the Sun ) is just coincides is , the southern hemisphere point of the the southern hemisphere orbit at which the Earth is the Sun to BBC Mundo Nayra Rodríguez is the seasons coincides|ROOT"
+                },
+                {
+                    "question": "What is the Earth's orbit at which the sun is the sun?",
+                    "score": 0.6946,
+                    "answers": "on 03/07/2018|prep\tthe southern hemisphere point of the the southern hemisphere orbit at which the Earth is the Sun|nsubj"
+                },
+                {
+                    "question": "What is the southern hemisphere point of the Earth and the sun?",
+                    "score": 0.6375,
+                    "answers": "the point|attr\tcoincides is ,|dep\tis ,|dep\tat which|dep\twhich|pobj\tto BBC|prep\tMundo|compound\tNayra|compound\tthe seasons coincides|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "the seasons km from the Earth , and when the seasons The aphelium the Earth is about  million km from the Sun coincides .",
+            "question_answers": [
+                {
+                    "question": "How far from the Earth are the seasons?",
+                    "answer": "km from the Earth"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How far from the Earth are the seasons from the sun?",
+                    "score": 0.8896,
+                    "answers": "the seasons|nsubj"
+                },
+                {
+                    "question": "How far is the Earth from the sun?",
+                    "score": 0.8801,
+                    "answers": "the Earth|pobj\tthe Earth|appos\twhen the seasons The aphelium the Earth is|conj\tabout|advmod\tmillion|nummod\tfrom the Sun|prep\tthe Sun|pobj"
+                },
+                {
+                    "question": "What is the distance between the sun and the Earth?",
+                    "score": 0.8168,
+                    "answers": "that|mark\tthe|det\tthe|det\t,|punct\tand|cc\tthe|det\tThe|det\tthe|det\tabout   million km from the Sun coincides|dep\tmillion km from the Sun coincides|npadvmod\tthe|det"
+                },
+                {
+                    "question": "What is the aphelium?",
+                    "score": 0.7892,
+                    "answers": "The aphelium|appos"
+                }
+            ]
+        },
+        {
+            "claim": "coincides pointing of the axis of rotation of the Earth with respect to the plane that describes around the Sun, which is what we call the ecliptic but elliptical.",
+            "question_answers": [
+                {
+                    "question": "What is the plane that describes around the Sun called?",
+                    "answer": "elliptical"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the rotation of the Earth?",
+                    "score": 0.8292,
+                    "answers": "of rotation of the Earth|prep\trotation of the Earth|pobj"
+                },
+                {
+                    "question": "What is the relationship between the axis of rotation of the Earth and the plane around the sun?",
+                    "score": 0.8219,
+                    "answers": "around the Sun|prep"
+                },
+                {
+                    "question": "What are ecliptic but elliptical?",
+                    "score": 0.8085,
+                    "answers": "with respect to the plane that describes around the Sun , which is what we call the ecliptic but elliptical|prep"
+                },
+                {
+                    "question": "What is the ecliptic but elliptical plane?",
+                    "score": 0.7972,
+                    "answers": "www.bbc.com|nsubj\tthat describes around the Sun|relcl"
+                },
+                {
+                    "question": "What are ecliptic and elliptical?",
+                    "score": 0.7922,
+                    "answers": "respect to the plane that describes around the Sun , which is what we call the ecliptic but elliptical|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The greater distance translates into a lower speed.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/07/2018 that the greater distance translates into a lower speed?",
+                    "answer": "www.bbc.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average speed of a car?",
+                    "score": 0.8589,
+                    "answers": "www.bbc.com reported on 03/07/2018 that The greater distance translates into a lower speed|ROOT\ton 03/07/2018|prep\tthat|mark\tThe|det\tgreater|amod\tthat The greater distance translates into a lower speed|ccomp\tinto a lower speed|prep\ta|det\tlower|amod\ta lower speed|pobj"
+                },
+                {
+                    "question": "What is the relationship between distance and speed?",
+                    "score": 0.8083,
+                    "answers": "The greater distance|nsubj"
+                },
+                {
+                    "question": "What is the speed of thebbc website?",
+                    "score": 0.7741,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "As Keplerthe axis of rotation of the Earth with respect to the plane that describes around the Sun, which is what we call the ecliptic law the northern axis, that is the north pole of the Earth out, when planets the Sun the Sun the northern axis, that is the north pole of the Earth the Earth orbit planets move faster the northern axis, that is the north pole of the Earth when planets are the Sun away.",
+            "question_answers": [
+                {
+                    "question": "What is the axis of rotation of the Earth with respect to the plane that describes around the Sun called?",
+                    "answer": "the ecliptic law"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Keplerthe axis of rotation of the Earth?",
+                    "score": 0.8221,
+                    "answers": "with respect to the plane that describes around the Sun|prep\tthat describes around the Sun|relcl"
+                },
+                {
+                    "question": "What is the ecliptic law that describes around the sun?",
+                    "score": 0.7905,
+                    "answers": "that As Keplerthe axis of rotation of the Earth with respect to the plane that describes around the Sun , which is what we call the ecliptic law the northern axis , that is the north pole of the Earth out , when planets the Sun the Sun the northern axis , that is the north pole of the Earth the Earth orbit planets move faster the northern axis , that is the north pole of the Earth when planets are the Sun away|dobj"
+                },
+                {
+                    "question": "What is the north pole of the Earth when planets are the sun away?",
+                    "score": 0.7743,
+                    "answers": ", when planets the Sun the Sun the northern axis , that is the north pole of the Earth the Earth orbit planets move faster the northern axis , that is the north pole of the Earth when planets are the Sun away|relcl"
+                },
+                {
+                    "question": "What is Keplerthe?",
+                    "score": 0.6996,
+                    "answers": "Keplerthe|nmod\tto the plane that describes around the Sun|prep\tthe plane that describes around the Sun|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The greatest distance in The aphelium the Earth and the Sun the orbital rate of translation will be about  km pointing per hour less than the speed in the perihelion (near the Sun) .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the speed of the perihelion?",
+                    "score": 0.7063,
+                    "answers": "the Sun|conj\tnear the Sun|prep\tthe Sun|pobj"
+                },
+                {
+                    "question": "What is the orbital rate of translation of the aphelium between the Earth and the sun?",
+                    "score": 0.7016,
+                    "answers": "will|aux"
+                }
+            ]
+        },
+        {
+            "claim": "In The aphelium , 'the Earth pointing , * NUMBERthe Earth and the Sun of miles further from the Sun ', than in the perihelion (near the Sun) .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How far from the sun is the sun?",
+                    "score": 0.8093,
+                    "answers": "the Sun|conj\tthe Sun|pobj\tthe Sun|pobj"
+                },
+                {
+                    "question": "What does the aphelium say about the Earth and the sun?",
+                    "score": 0.7961,
+                    "answers": "the|det\tthe Earth pointing|dep\tthe|det\tthe|det\tthe|det\tthe|det"
+                },
+                {
+                    "question": "Where is the aphelium located?",
+                    "score": 0.762,
+                    "answers": "In The aphelium|prep"
+                },
+                {
+                    "question": "What is the perihelion?",
+                    "score": 0.7066,
+                    "answers": "the perihelion ( near the Sun )|pobj\tnear the Sun|prep"
+                },
+                {
+                    "question": "What is the distance between the sun and Earth?",
+                    "score": 0.7044,
+                    "answers": "of miles further from the Sun|prep\tmiles further from the Sun|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "is takes place every year between planets .",
+            "question_answers": [
+                {
+                    "question": "How often does it take place between planets?",
+                    "answer": "every year"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many planets are there each year?",
+                    "score": 0.8214,
+                    "answers": "www.bbc.com|nsubj\ton 03/07/2018|prep\tplanets|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "planets took place this year on January .",
+            "question_answers": [
+                {
+                    "question": "Who reported that planets took place in January?",
+                    "answer": "www.bbc.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the planets take place?",
+                    "score": 0.9295,
+                    "answers": "that planets took place this year on January|ccomp"
+                },
+                {
+                    "question": "What is the date of the planets arrival on Earth?",
+                    "score": 0.9238,
+                    "answers": "www.bbc.com reported on 03/07/2018 that planets took place this year on January|ROOT"
+                },
+                {
+                    "question": "What planets took place on January 1, 2018?",
+                    "score": 0.9174,
+                    "answers": "on 03/07/2018|prep"
+                },
+                {
+                    "question": "How many planets took place in January 2018?",
+                    "score": 0.8814,
+                    "answers": "place|dobj\tthis|det"
+                }
+            ]
+        },
+        {
+            "claim": "The greatest distance between the Earth and the Sun will be recorded on the July #NUMBER* at the #NUMBER*: GMT, when the planet and its star are at #NUMBER* km.",
+            "question_answers": [
+                {
+                    "question": "What will be recorded on the July #NUMBER*?",
+                    "answer": "The greatest distance between the Earth and the Sun"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the distance between the Earth and the sun?",
+                    "score": 0.7437,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 03/07/2018 that The greatest distance between the Earth and the Sun will be recorded on the July # NUMBER * at the # NUMBER * : GMT , when the planet and its star are at # NUMBER * km|ROOT\ton 03/07/2018|prep\tthat|mark\tThe|det\tgreatest|amod\tThe greatest distance between the Earth and the Sun|nsubjpass\tbetween the Earth and the Sun|prep\tthe|det\tthe Earth and the Sun|pobj\tand|cc\tthe|det\tthe Sun|conj\twill|aux\tbe|auxpass\tthat The greatest distance between the Earth and the Sun will be recorded on the July # NUMBER * at the # NUMBER * : GMT , when the planet and its star are at # NUMBER * km|ccomp\tthe|det\t#|nmod\t*|punct\tat the # NUMBER * : GMT , when the planet and its star are at # NUMBER * km|prep\tthe|det\t#|nmod\t*|punct\t:|punct\tthe # NUMBER * : GMT , when the planet and its star are at # NUMBER * km|pobj\t,|punct\twhen|advmod\tthe|det\tthe planet and its star|nsubj\tand|cc\tits|poss\tits star|conj\twhen the planet and its star are at # NUMBER * km|relcl\tat # NUMBER * km|prep\t#|nmod\t*|punct\t# NUMBER * km|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "StationsThe greater or lesser distance from the Sun during the aphelium or perihelium are not related at all to temperature variations during the seasons.",
+            "question_answers": [
+                {
+                    "question": "The greater or lesser distance from the Sun during the aphelium or perihelium are not related to what during the seasons?",
+                    "answer": "temperature variations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How close is the sun to the sun during seasons?",
+                    "score": 0.7874,
+                    "answers": "www.bbc.com reported on 03/07/2018 that StationsThe greater or lesser distance from the Sun during the aphelium or perihelium are not related at all to temperature variations during the seasons|ROOT\ttemperature|compound"
+                },
+                {
+                    "question": "What is the relationship between distance from the sun during aphelium or perihelium during seasons?",
+                    "score": 0.7163,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'The seasons are produced by the inclination of the axis of rotation of the Earth with respect to the plane that describes around the Sun, which is what we call the ecliptic ', said Rodríguez Eugenio.",
+            "question_answers": [
+                {
+                    "question": "What is the plane that describes around the Sun called?",
+                    "answer": "ecliptic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How are seasons produced by the inclination of the axis of rotation of the Earth?",
+                    "score": 0.9151,
+                    "answers": "The seasons are produced by the inclination of the axis of rotation of the Earth with respect to the plane that describes around the Sun , which is what we call the ecliptic|ccomp"
+                },
+                {
+                    "question": "What is the plane that describes around the sun called ecliptic?",
+                    "score": 0.7421,
+                    "answers": "the plane that describes around the Sun , which is what we call the ecliptic|pobj"
+                },
+                {
+                    "question": "What is the ecliptic?",
+                    "score": 0.7085,
+                    "answers": "by the inclination of the axis of rotation of the Earth with respect to the plane that describes around the Sun , which is what we call the ecliptic|agent\tthe inclination of the axis of rotation of the Earth with respect to the plane that describes around the Sun , which is what we call the ecliptic|pobj\twith respect to the plane that describes around the Sun , which is what we call the ecliptic|prep\trespect to the plane that describes around the Sun , which is what we call the ecliptic|pobj\tto the plane that describes around the Sun , which is what we call the ecliptic|prep\twhich is what we call the ecliptic|relcl\twhat we call the ecliptic|ccomp\tthe ecliptic|oprd"
+                },
+                {
+                    "question": "What is the Ecliptic?",
+                    "score": 0.7085,
+                    "answers": "www.bbc.com reported on 03/07/2018 that ' The seasons are produced by the inclination of the axis of rotation of the Earth with respect to the plane that describes around the Sun , which is what we call the ecliptic ' , said Rodríguez Eugenio|ROOT"
+                },
+                {
+                    "question": "What is the orbit of the sun?",
+                    "score": 0.697,
+                    "answers": "that describes around the Sun|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "'This axis is tilted some  degrees and therefore when we are in the summer of the northern hemisphere, the northern axis, that is the north pole of the Earth, is pointing more towards the direction of the Sun.",
+            "question_answers": [
+                {
+                    "question": "What direction is the northern axis pointing towards when we are in the summer of the northern hemisphere?",
+                    "answer": "the direction of the Sun"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the north pole of the sun?",
+                    "score": 0.7366,
+                    "answers": "the northern axis , that is the north pole of the Earth ,|nsubj\tthe north pole of the Earth|attr"
+                }
+            ]
+        },
+        {
+            "claim": "'.'In winter instead, our north pole is pointing as in the opposite direction, it's not exactly opposite because it's close to  degrees, but it's pointing in the opposite direction to the Sun'.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 03/07/2018?",
+                    "answer": "'.'In winter instead, our north pole is pointing as in the opposite direction,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the sun and the north pole in winter?",
+                    "score": 0.7274,
+                    "answers": "the Sun|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "More water in the southern hemisphereThe summer of the northern hemisphere coincides with the aphelium, 'but we receive more solar radiation here in the northern hemisphere because the Sun is higher on the horizon and we also have more hours of sunlight ', as explained the astrophysics.",
+            "question_answers": [
+                {
+                    "question": "Why do we receive more solar radiation in the northern hemisphere?",
+                    "answer": "because the Sun is higher on the horizon and we also have more hours of sunlight"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water does the southern hemisphere receive each year?",
+                    "score": 0.8589,
+                    "answers": "summer of the northern hemisphere|nsubj"
+                },
+                {
+                    "question": "What is solar radiation in the southern hemisphere?",
+                    "score": 0.806,
+                    "answers": "solar|amod"
+                },
+                {
+                    "question": "What is the sun's position on the horizon?",
+                    "score": 0.7262,
+                    "answers": "higher on the horizon|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "In the southern hemisphere, however, summer coincides with perihelion.",
+            "question_answers": [
+                {
+                    "question": "What season coincides with perihelion in the southern hemisphere?",
+                    "answer": "summer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is perihelion?",
+                    "score": 0.7395,
+                    "answers": "www.bbc.com reported on 03/07/2018 that In the southern hemisphere , however , summer coincides with perihelion|ROOT\ton 03/07/2018|prep\tthat|mark\tIn the southern hemisphere|prep\tthe|det\tsouthern|amod\tthe southern hemisphere|pobj\t,|punct\thowever|advmod\t,|punct\twith perihelion|prep\tperihelion|pobj"
+                },
+                {
+                    "question": "What is the relationship between summer and perihelion?",
+                    "score": 0.7252,
+                    "answers": "that In the southern hemisphere , however , summer coincides with perihelion|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'This could make us think that in the southern hemisphere the temperature rises more than in the north in summer, because apart from the inclination, the Earth is also closer to the Sun ', explained Rodríguez Eugenio.",
+            "question_answers": [
+                {
+                    "question": "What is the Earth's inclination?",
+                    "answer": "closer to the Sun"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the southern hemisphere's temperature?",
+                    "score": 0.7483,
+                    "answers": "in the southern hemisphere|prep\tthe southern hemisphere|pobj"
+                },
+                {
+                    "question": "How much higher is the Earth in the south hemisphere compared to the north in summer?",
+                    "score": 0.7472,
+                    "answers": "us think that in the southern hemisphere the temperature rises more than in the north in summer , because apart from the inclination , the Earth is also closer to the Sun|ccomp"
+                },
+                {
+                    "question": "What is the temperature in the southern hemisphere in summer?",
+                    "score": 0.7179,
+                    "answers": "southern|amod\tthat in the southern hemisphere the temperature rises more than in the north in summer , because apart from the inclination , the Earth is also closer to the Sun|ccomp\tin summer|prep"
+                },
+                {
+                    "question": "What is the Earth's relation to the sun in summer?",
+                    "score": 0.6863,
+                    "answers": "that|mark\t'|punct\tThis|nsubj\tcould|aux\tus|nsubj\tthat|mark\tthe|det\tthe|det\tthe temperature|nsubj\tthan in the north|prep\tin the north|prep\tthe|det\tthe north|pobj\t,|punct\tbecause|mark\tfrom the inclination|prep\tthe|det\tthe inclination|pobj\t,|punct\tthe|det\tthe Earth|nsubj\talso|advmod\tthe|det\tthe Sun|pobj\t'|punct\t,|punct\twww.bbc.com reported on 03/07/2018 that ' This could make us think that in the southern hemisphere the temperature rises more than in the north in summer , because apart from the inclination , the Earth is also closer to the Sun ' , explained Rodríguez Eugenio|ROOT"
+                },
+                {
+                    "question": "What is the relationship between the Earth and the sun?",
+                    "score": 0.6374,
+                    "answers": "because apart from the inclination , the Earth is also closer to the Sun|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "What happens is that 'in the southern hemisphere there is more water and that does not cause the temperature to rise so much'.",
+            "question_answers": [
+                {
+                    "question": "What happened to the temperature in the southern hemisphere?",
+                    "answer": "'in the southern hemisphere there is more water and that does not cause the temperature to rise so much'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water does the southern hemisphere have?",
+                    "score": 0.8994,
+                    "answers": "on 03/07/2018|prep"
+                },
+                {
+                    "question": "How much water is in the southern hemisphere?",
+                    "score": 0.8843,
+                    "answers": "www.bbc.com reported on 03/07/2018 that What happens is that ' in the southern hemisphere there is more water and that does not cause the temperature to rise so much '|ROOT\tthat|mark\tWhat|nsubj\tWhat happens|csubj\tthat What happens is that ' in the southern hemisphere there is more water and that does not cause the temperature to rise so much|ccomp\tthat|mark\t'|punct\tin the southern hemisphere|prep\tthe|det\tsouthern|amod\tthe southern hemisphere|pobj\tthere|expl\tthat ' in the southern hemisphere there is more water and that does not cause the temperature to rise so much|ccomp\tmore|amod\tmore water|attr\tand|cc\tthat|nsubj\tdoes|aux\tnot|neg\tthe|det\tto|aux\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "'This seems to be due to the fact that the earth is much more easily heated than water and, as the southern hemisphere has a higher proportion of its water-covered surface, the excess energy is absorbed by water'.",
+            "question_answers": [
+                {
+                    "question": "Why did the bbc report that the earth is more easily heated than water?",
+                    "answer": "the earth is much more easily heated than water"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much energy is absorbed by water in the southern hemisphere?",
+                    "score": 0.8587,
+                    "answers": "due|amod"
+                },
+                {
+                    "question": "How much water is absorbed by water?",
+                    "score": 0.8528,
+                    "answers": "a higher proportion of its water - covered surface|dobj"
+                },
+                {
+                    "question": "What is the southern hemisphere's water covered surface?",
+                    "score": 0.7617,
+                    "answers": "the southern hemisphere|nsubj\tits water - covered surface|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, in the summer, both in the southern hemisphere and in the northern hemisphere, the temperature is approximately the same, explained the astrophysics.",
+            "question_answers": [
+                {
+                    "question": "What is approximately the same in the southern and northern hemisphere in the summer?",
+                    "answer": "the temperature"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the temperature in the southern hemisphere in the summer?",
+                    "score": 0.7789,
+                    "answers": "www.bbc.com reported on 03/07/2018 that Therefore , in the summer , both in the southern hemisphere and in the northern hemisphere , the temperature is approximately the same|ccomp\ton 03/07/2018|prep\tthat|mark\tTherefore|advmod\t,|punct\tthe|det\t,|punct\tthe|det\tsouthern|amod\tthe southern hemisphere|pobj\tand|cc\tin the northern hemisphere|conj\tthe|det\tnorthern|amod\t,|punct\tthe|det\tapproximately|advmod\tthe|det\tapproximately the same|attr\t,|punct\twww.bbc.com reported on 03/07/2018 that Therefore , in the summer , both in the southern hemisphere and in the northern hemisphere , the temperature is approximately the same , explained the astrophysics|ROOT\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "The greater distance translates into a lower speed.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/07/2018 that the greater distance translates into a lower speed?",
+                    "answer": "www.bbc.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average speed of a car?",
+                    "score": 0.8589,
+                    "answers": "www.bbc.com reported on 03/07/2018 that The greater distance translates into a lower speed|ROOT\ton 03/07/2018|prep\tthat|mark\tThe|det\tgreater|amod\tthat The greater distance translates into a lower speed|ccomp\tinto a lower speed|prep\ta|det\tlower|amod\ta lower speed|pobj"
+                },
+                {
+                    "question": "What is the relationship between distance and speed?",
+                    "score": 0.8083,
+                    "answers": "The greater distance|nsubj"
+                },
+                {
+                    "question": "What is the speed of thebbc website?",
+                    "score": 0.7741,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "As Kepler's second law points out, when planets are near the Sun in its orbit they move faster than when they are farther away.",
+            "question_answers": [
+                {
+                    "question": "When do planets move faster than when they are farther away?",
+                    "answer": "when planets are near the Sun in its orbit"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Kepler's second law about planets near the sun?",
+                    "score": 0.855,
+                    "answers": "when planets are near the Sun in its orbit|advcl\tthe Sun|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The greater distance in the aphelium means that the orbital rate of translation will be less than  km per hour, close to  km per hour less than the speed in the perihelion.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the orbital rate of translation in the aphelium?",
+                    "score": 0.758,
+                    "answers": "that|mark\tThe|det\tgreater|amod\tthe|det\tthat The greater distance in the aphelium means that the orbital rate of translation will be less than|ccomp\tthat|mark\tthe|det\torbital|amod\ttranslation|pobj\twill|aux\tless|amod\tless than|prep\t |dep\tkm per hour|dep\tper hour|prep\thour|pobj\t,|punct\tclose|advmod\tkm per hour|npadvmod\tper hour|prep\thour|pobj\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the orbit of the aphelium?",
+                    "score": 0.7237,
+                    "answers": "on 03/07/2018|prep\tThe greater distance in the aphelium|nsubj\tin the aphelium|prep\tthe aphelium|pobj\tkm per hour , close to|prep\tthan the speed in the perihelion|prep\tthe perihelion|pobj"
+                },
+                {
+                    "question": "What is the speed of the perihelion?",
+                    "score": 0.6854,
+                    "answers": "km per hour , close to   km per hour less than the speed in the perihelion|dep\tthe speed in the perihelion|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "♪ This note was corrected on July ♪ ♪ NUMBER ♪.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that  This note was corrected?",
+                    "answer": "03/07/2018"
+                },
+                {
+                    "question": "When was this note corrected?",
+                    "answer": "July"
+                },
+                {
+                    "question": "What did www.bbc.com report on 03/07/2018?",
+                    "answer": "NUMBER"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the significance of the note?",
+                    "score": 0.7033,
+                    "answers": "that ♪ This note was corrected on July ♪ ♪ NUMBER|ccomp"
+                },
+                {
+                    "question": "What was the number used to determine the NUMBER?",
+                    "score": 0.6886,
+                    "answers": "♪ NUMBER|dep"
+                },
+                {
+                    "question": "What is the relationship between the number letter and the letter letter?",
+                    "score": 0.6664,
+                    "answers": "www.bbc.com reported on 03/07/2018 that ♪ This note was corrected on July ♪ ♪ NUMBER ♪|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Although several scientific media mentioned a difference of km in the Earth's speed between aphelium and perihelium, astrophysics Nayra Rodríguez Eugenio explained that the correct calculation indicates a change in the speed of km per hour.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the Earth's speed between aphelium and perihelium?",
+                    "score": 0.7447,
+                    "answers": "that|mark\tAlthough|mark\tseveral|amod\ta|det\ta difference of km in the Earth 's speed between aphelium and perihelium|dobj\tin the Earth 's speed between aphelium and perihelium|prep\tthe|det\tthe Earth 's speed between aphelium and perihelium|pobj\tbetween aphelium and perihelium|prep\tand|cc\t,|punct\tthat|mark\tthe|det\ta|det\tthe|det"
+                },
+                {
+                    "question": "What is the difference between perihelium and aphelium?",
+                    "score": 0.7236,
+                    "answers": "the correct calculation|nsubj"
+                },
+                {
+                    "question": "What is the relationship between speed of aphelium and perihelium?",
+                    "score": 0.7162,
+                    "answers": "several scientific media|nsubj\tastrophysics Nayra Rodríguez Eugenio|nsubj"
+                },
+                {
+                    "question": "What is the speed of perihelium?",
+                    "score": 0.7064,
+                    "answers": "perihelium|conj\tastrophysics|compound\tin the speed of km per hour|prep\tthe speed of km per hour|pobj\tkm per hour|pobj\tper hour|prep\thour|pobj"
+                }
+            ]
+        }
+    ]
+}

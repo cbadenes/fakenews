@@ -1,0 +1,241 @@
+{
+    "id": "159_Science_119",
+    "claim": "The platform rejected a report from the newspaper that it had allowed Apple and other device manufacturers to access'in-depth'personal data from usersThe software the newspaper referred to was launched  years ago and was used by  companies, including Amazon, Apple, Blackberry, HTC, Microsoft and SamsungFacebook rejected a New York Times report that it had allowed Apple and other major device manufacturers to access'in-depth'personal data from users, arguing that links were strictly controlled and subject to the consent of individuals. Facebook shares dropped a #NUMBER* percent to #NUMBER* dollars on Monday. The software the newspaper referred to was launched years ago and was used by  companies, including Amazon, Apple, Blackberry, HTC, Microsoft and Samsung, wrote on a blog the vice president of alliances for Facebook products, Ime Archibong. NYT said Facebook allowed companies to access user friends' data without their explicit consent, even after declaring that they would no longer share that information with third parties. Some device manufacturers might even extract personal information from friends of users who believed they had banned sharing information, the newspaper said. 'Contrary to what the New York Times claims, information from friends, such as photos, was only accessible on devices when people made the decision to share their information with those friends ', Archibong said. Facebook has been under close scrutiny by regulators and shareholders after it was discovered that British consultant Cambridge Analytica, who worked on Donald Trump's  presidential campaign, improperly accessed data from  millions of social network users. I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "06/06/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The platform rejected a report from the newspaper that The platform had allowed Apple and other device manufacturers to access'in-depth'personal data from usersThe software the newspaper referred to was launched  years ago and was used by  companies, including Amazon , Apple , Blackberry , HTC , Microsoft and The platform rejected a the newspaper report that The platform had allowed Apple and other major device manufacturers to access'in-depth'personal data from users, arguing that links were strictly controlled and subject to the consent of individuals.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What companies use the technology that allows companies to access personal data from users?",
+                    "score": 0.8849,
+                    "answers": "companies , including Amazon , Apple , Blackberry , HTC , Microsoft and|pobj"
+                },
+                {
+                    "question": "What was the name of the report that Apple and other major device manufacturers could access in-depth personal data?",
+                    "score": 0.8229,
+                    "answers": "The platform rejected a the newspaper report that The platform had allowed Apple and other major device manufacturers to access'in - depth'personal data from users , arguing that links were strictly controlled and subject to the consent of individuals|acl"
+                },
+                {
+                    "question": "What was the purpose of the platform that allows Apple and other device manufacturers to access personal data?",
+                    "score": 0.8106,
+                    "answers": "to the consent of individuals|prep"
+                },
+                {
+                    "question": "What was the relationship between Apple and other companies using the platform?",
+                    "score": 0.7807,
+                    "answers": "strictly controlled and subject to the consent of individuals|acomp"
+                },
+                {
+                    "question": "What are the names of the companies that use the platform?",
+                    "score": 0.7348,
+                    "answers": "Apple , Blackberry , HTC , Microsoft|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The platform shares dropped a #NUMBER* percent to #NUMBER* dollars on Monday.",
+            "question_answers": [
+                {
+                    "question": "What happened on Monday?",
+                    "answer": "The platform shares dropped a #NUMBER* percent to #NUMBER* dollars"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much did the shares drop on Monday?",
+                    "score": 0.8816,
+                    "answers": "that The platform shares dropped a # NUMBER * percent to # NUMBER * dollars on Monday|ccomp"
+                },
+                {
+                    "question": "What was the number of dollars that the platform shares dropped in 2018?",
+                    "score": 0.8515,
+                    "answers": "to # NUMBER * dollars|prep\t# NUMBER * dollars|pobj"
+                },
+                {
+                    "question": "What is the relationship betweeneluniversal.com.mx and facebook?",
+                    "score": 0.7058,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the number ofNUMBER per day?",
+                    "score": 0.6907,
+                    "answers": "The|det\ton Monday|prep"
+                }
+            ]
+        },
+        {
+            "claim": "usersThe software the newspaper referred to was launched years ago and was used by  companies, including Amazon , Apple , Blackberry , HTC , Microsoft and Samsung, wrote on a blog the vice president of alliances for Facebook products, Ime Archibong .",
+            "question_answers": [
+                {
+                    "question": "Along with Amazon, Blackberry, HTC, Microsoft and Samsung, what company used the software referred to by www.eluniversal.com.mx?",
+                    "answer": "Apple"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What companies used the software that was used by Facebook?",
+                    "score": 0.8115,
+                    "answers": "including Amazon , Apple , Blackberry , HTC , Microsoft and Samsung|prep\tAmazon , Apple , Blackberry , HTC , Microsoft and Samsung|pobj\tApple , Blackberry , HTC , Microsoft and Samsung|conj\tHTC , Microsoft and Samsung|conj"
+                },
+                {
+                    "question": "What did Ime Archibong do for Facebook products?",
+                    "score": 0.7723,
+                    "answers": "for Facebook products|prep"
+                },
+                {
+                    "question": "Who is the vice president of alliances for Facebook products?",
+                    "score": 0.6681,
+                    "answers": "the vice president of alliances for Facebook products , Ime Archibong|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Ime Archibong's software?",
+                    "score": 0.6523,
+                    "answers": "www.eluniversal.com.mx reported on 06/06/2018 that usersThe software the newspaper referred to was launched years ago and was used by   companies , including Amazon , Apple , Blackberry , HTC , Microsoft and Samsung , wrote on a blog the vice president of alliances for Facebook products , Ime Archibong|ROOT\ton 06/06/2018|prep\tthat|mark\tthe|det\tto|prep\twas|auxpass\tyears|npadvmod\tand|cc\twas|auxpass\tby|agent\t,|punct\t,|punct\t,|punct\t,|punct\t,|punct\tMicrosoft and Samsung|conj\tand|cc\t,|punct\ta|det\tthe|det\t,|punct"
+                },
+                {
+                    "question": "What is the relationship between Facebook and Ime Archibong?",
+                    "score": 0.6089,
+                    "answers": "of alliances for Facebook products|prep\talliances for Facebook products|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "the newspaper said The platform allowed companies to access user friends' data without explicit consent, even after declaring that user friends' would no longer share user friends' data with third parties.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 06/06/2018 that the platform allowed companies to access user friends' data without explicit consent?",
+                    "answer": "www.eluniversal.com.mx"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the benefits of allowing companies to access user friends data without explicit consent?",
+                    "score": 0.7727,
+                    "answers": "companies to access user friends ' data without explicit consent , even after declaring that user friends ' would no longer share user friends ' data with third parties|ccomp"
+                },
+                {
+                    "question": "What is the technology used to access user friends' data?",
+                    "score": 0.765,
+                    "answers": "The platform allowed companies to access user friends ' data without explicit consent , even after declaring that user friends ' would no longer share user friends ' data with third parties|ccomp\tcompanies|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of user friends' data?",
+                    "score": 0.7317,
+                    "answers": "that|mark\tthe|det\tto|aux\tuser|compound\t,|punct\teven|advmod\tthat|mark\tuser|compound\twould|aux\tno|neg\tuser|compound"
+                },
+                {
+                    "question": "What is the relationship between a third party and a user's data?",
+                    "score": 0.6644,
+                    "answers": "with third parties|prep\tthird parties|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Some device manufacturers might even extract personal information from friends of users who believed they had banned sharing information , the newspaper said.",
+            "question_answers": [
+                {
+                    "question": "What did the newspaper report that some device manufacturers might extract personal information from friends of users who believed they had done?",
+                    "answer": "banned sharing information"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is shared information with friends of users who believed they had banned sharing information?",
+                    "score": 0.8392,
+                    "answers": "sharing information|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the personal information of users who were banned sharing information?",
+                    "score": 0.7961,
+                    "answers": "from friends of users who believed they had banned sharing information|prep"
+                },
+                {
+                    "question": "What is the relationship between a manufacturer and a friend of a banned sharing information?",
+                    "score": 0.7858,
+                    "answers": "friends of users who believed they had banned sharing information|pobj"
+                },
+                {
+                    "question": "What is the website \"eluniversal.com.mx\"?",
+                    "score": 0.749,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Contrary to what the newspaper claims, information from friends , such as photos, was only accessible on devices when people made the decision to share information with friends ', the vice president of alliances for Facebook products, Ime Archibong said.",
+            "question_answers": [
+                {
+                    "question": "When was information from friends only accessible on devices?",
+                    "answer": "when people made the decision to share information with friends"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Facebook say about sharing information with friends?",
+                    "score": 0.8826,
+                    "answers": "the decision to share information with friends|dobj"
+                },
+                {
+                    "question": "What information was only accessible on devices when people made the decision to share with friends?",
+                    "score": 0.8476,
+                    "answers": "what|dobj\twww.eluniversal.com.mx reported on 06/06/2018 that ' Contrary to what the newspaper claims , information from friends , such as photos , was only accessible on devices when people made the decision to share information with friends ' , the vice president of alliances for Facebook products , Ime Archibong said|ROOT"
+                },
+                {
+                    "question": "What devices are connected to Facebook?",
+                    "score": 0.8435,
+                    "answers": "on devices|prep"
+                },
+                {
+                    "question": "What does facebook.com.mx say about information from friends?",
+                    "score": 0.7942,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 06/06/2018 that ' Contrary to what the newspaper claims , information from friends , such as photos , was only accessible on devices when people made the decision to share information with friends|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Facebook's information with friends?",
+                    "score": 0.7547,
+                    "answers": "from friends|prep\tsuch as photos|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The platform has been under close scrutiny by regulators and shareholders after it was discovered that British consultant Cambridge Analytica, who worked on Donald Trump's  presidential campaign, improperly accessed data from  millions of social network users.",
+            "question_answers": [
+                {
+                    "question": "How many social network users did Cambridge Analytica access?",
+                    "answer": "millions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Cambridge Analytica do with social network users?",
+                    "score": 0.9114,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 06/06/2018 that The platform has been under close scrutiny by regulators and shareholders after it was discovered that British consultant Cambridge Analytica , who worked on Donald Trump 's   presidential campaign , improperly accessed data from   millions of social network users|ROOT\tthat|mark\thas|aux\tclose|amod\tand|cc\tshareholders|conj\tafter|mark\twas|auxpass\tthat|mark\t,|punct\ton|prep\t's|case\t,|punct\timproperly|advmod\tdata|dobj\tfrom|prep\t  millions of social network users|dep\tmillions of social network users|dobj\tof social network users|prep\tsocial|amod\tsocial network users|pobj"
+                },
+                {
+                    "question": "What was Cambridge Analytica's role in the 2016 presidential election?",
+                    "score": 0.8465,
+                    "answers": "on 06/06/2018|prep\tunder close scrutiny by regulators and shareholders|prep\tthat British consultant Cambridge Analytica , who worked on Donald Trump 's   presidential campaign , improperly accessed data from|ccomp"
+                },
+                {
+                    "question": "What is Cambridge Analytica's relationship with Donald Trump?",
+                    "score": 0.8,
+                    "answers": "by regulators and shareholders|prep"
+                },
+                {
+                    "question": "What is the relationship between Cambridge Analytica and Trump?",
+                    "score": 0.7434,
+                    "answers": "close scrutiny by regulators and shareholders|pobj"
+                },
+                {
+                    "question": "What is Cambridge Analytica?",
+                    "score": 0.7245,
+                    "answers": "The|det\tThe platform|nsubj\tregulators and shareholders|pobj\tit|nsubjpass\tCambridge|compound\tsocial network|compound"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "id": "67_Politics_541",
+    "claim": "Two weeks after the elections, presidential candidates have seen their campaigns opacate because of the Russian World Cup, especially after Mexico defeated Germany in its first game. At least in the case of Ricardo Anaya, the leader of the coalition For Mexico to the Front, this has meant an opportunity to rethink his strategy in this final stretch, and for this he will travel to Russia to do his last campaign acts there. 'I recommended Anaya to go to Russia, clear herself and proselytize ', said publicist Carlos Alazraki. 'In Russia you will find many Mexicans who will be willing to listen to your message and who will undoubtedly become your supporters and vote for it next July'. We don't know why Anaya listened to Alazraki, who since last month joined the campaign of Jose Antonio Meade, but the fact is that he liked the idea, and already has his tickets for the games of Mexico to South Korea and to Sweden. The candidate left Mexico City International Airport this morning, and is said to have been fired by Roberto Gil Zuarth, Luis Felipe Bravo Mena, Felipe Calderon and Rafael Moreno Valle, who declared that they wanted to make sure he boarded the plane. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "18/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Two weeks after the elections, presidential candidates have seen their campaigns opacate because of the Russian World Cup, especially after Mexico defeated Germany in its first game.",
+            "question_answers": [
+                {
+                    "question": "What country won the World Cup?",
+                    "answer": "Russia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have won the Russian World Cup?",
+                    "score": 0.8274,
+                    "answers": "that Two weeks after the elections , presidential candidates have seen their campaigns opacate because of the Russian World Cup , especially after Mexico defeated Germany in its first game|ccomp"
+                },
+                {
+                    "question": "How many games did Mexico beat Germany in?",
+                    "score": 0.7692,
+                    "answers": "its first game|pobj"
+                },
+                {
+                    "question": "How many days after the election did the Russian World Cup take place?",
+                    "score": 0.7404,
+                    "answers": "Two weeks after the elections|prep"
+                }
+            ]
+        },
+        {
+            "claim": "At least in the case of Ricardo Anaya, the leader of the coalition For Mexico to the Front, this has meant an opportunity to rethink his strategy in this final stretch, and for this he will travel to Russia to do his last campaign acts there.",
+            "question_answers": [
+                {
+                    "question": "What is the plan of Ricardo Anaya?",
+                    "answer": "he will travel to Russia to do his last campaign acts"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Anaya do with his last campaign acts?",
+                    "score": 0.7199,
+                    "answers": "for this he will travel to Russia to do his last campaign acts there|conj\tto do his last campaign acts there|advcl"
+                },
+                {
+                    "question": "What was the name of Anaya's last campaign acts?",
+                    "score": 0.6396,
+                    "answers": "his last campaign acts|dobj"
+                },
+                {
+                    "question": "What is the name of the campaign that Ricardo Anaya led for Mexico to the Front?",
+                    "score": 0.6163,
+                    "answers": "campaign|compound"
+                },
+                {
+                    "question": "What is the relationship between Anaya and Trump?",
+                    "score": 0.6114,
+                    "answers": "on 18/06/2018|prep\tthat|mark\tAt|advmod\tAt least|advmod\tthe|det\tRicardo|compound\t,|punct\tthe|det\tthe|det\tthe|det\t,|punct\tthis|nsubj\thas|aux\tthat At least in the case of Ricardo Anaya , the leader of the coalition For Mexico to the Front , this has meant an opportunity to rethink his strategy in this final stretch , and for this he will travel to Russia to do his last campaign acts there|ccomp\tan|det\tan opportunity to rethink his strategy in this final stretch|dobj\tto|aux\tto rethink his strategy in this final stretch|acl\this|poss\this strategy|dobj\tin this final stretch|prep\tthis|det\tfinal|amod\tthis final stretch|pobj\t,|punct\tand|cc\tfor this|prep\tthis|pobj\the|nsubj\twill|aux\tto|aux\this|poss\tlast|amod\tthere|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "'I recommended Anaya to go to Russia, clear herself and proselytize ', said publicist Carlos Alazraki.",
+            "question_answers": [
+                {
+                    "question": "What did Alazraki advise Anaya to do?",
+                    "answer": "proselytize"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Anaya go to Russia?",
+                    "score": 0.8749,
+                    "answers": "that|mark\t'|punct\tI|nsubj\tI recommended Anaya to go to Russia , clear herself and proselytize|ccomp\tto|aux\t,|punct\tclear herself and proselytize|conj\therself|dobj\tand|cc\t'|punct\t,|punct\twww.eldizque.com reported on 18/06/2018 that ' I recommended Anaya to go to Russia , clear herself and proselytize ' , said publicist Carlos Alazraki|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of Anaya's involvement with Russia?",
+                    "score": 0.6763,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Anaya and Russia?",
+                    "score": 0.6468,
+                    "answers": "on 18/06/2018|prep\tto Russia|prep"
+                },
+                {
+                    "question": "What is Carlos Alazraki's position in Russia?",
+                    "score": 0.6391,
+                    "answers": "to go to Russia , clear herself and proselytize|xcomp"
+                },
+                {
+                    "question": "Who is Carlos Alazraki?",
+                    "score": 0.6089,
+                    "answers": "publicist Carlos Alazraki|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'In Russia you will find many Mexicans who will be willing to listen to your message and who will undoubtedly become your supporters and vote for it next July'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'In Russia you will find many Mexicans who will be willing to listen to your message and who will surely become your supporters and vote for it next July'?",
+                    "answer": "18/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Mexicans are willing to listen to Trump's message?",
+                    "score": 0.8047,
+                    "answers": "willing to listen to your message|acomp\tto your message|prep\tyour message|pobj\tit|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "We don't know why Anaya listened to Alazraki, who since last month joined the campaign of Jose Antonio Meade, but the fact is that he liked the idea, and already has his tickets for the games of Mexico to South Korea and to Sweden.",
+            "question_answers": [
+                {
+                    "question": "Alazraki already has tickets for the games of Mexico to which country?",
+                    "answer": "South Korea"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Anaya listen to Alazraki?",
+                    "score": 0.8113,
+                    "answers": "www.eldizque.com reported on 18/06/2018 that We do n't know why Anaya listened to Alazraki , who since last month joined the campaign of Jose Antonio Meade , but the fact is that he liked the idea , and already has his tickets for the games of Mexico to South Korea and to Sweden|ROOT\tdo|aux\tn't|neg\twhy|advmod\tto Alazraki , who since last month joined the campaign of Jose Antonio Meade|prep\tbut|cc"
+                },
+                {
+                    "question": "What did Anaya say about Alazraki joining Jose Antonio Meade's campaign?",
+                    "score": 0.7877,
+                    "answers": "his|poss\tof Mexico|prep"
+                },
+                {
+                    "question": "What did Alazraki say about Jose Antonio Meade?",
+                    "score": 0.7573,
+                    "answers": "that|mark\tWe|nsubj\t,|punct\twho|nsubj\tlast|amod\tthe|det\tAntonio|compound\t,|punct\tthe|det\tthat|mark\the|nsubj\tthe|det\t,|punct\tand|cc\talready|advmod\tthe|det\tand|cc"
+                },
+                {
+                    "question": "How many games does Anaya listen to Alazraki play?",
+                    "score": 0.7453,
+                    "answers": "the games of Mexico to South Korea and to Sweden|pobj"
+                },
+                {
+                    "question": "How long has Anaya listened to Alazraki?",
+                    "score": 0.7337,
+                    "answers": "since last month|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The candidate left Mexico City International Airport this morning, and is said to have been fired by Roberto Gil Zuarth, Luis Felipe Bravo Mena, Felipe Calderon and Rafael Moreno Valle, who declared that they wanted to make sure he boarded the plane.",
+            "question_answers": [
+                {
+                    "question": "Where did the candidate leave this morning?",
+                    "answer": "Mexico City International Airport"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Luis Felipe Bravo Mena, Felipe Calderon and Rafael Moreno Valle do to make sure he boarded the plane?",
+                    "score": 0.6953,
+                    "answers": "to make sure he boarded the plane|xcomp"
+                },
+                {
+                    "question": "What was the name of the candidate that left Mexico City International Airport this morning?",
+                    "score": 0.6792,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 18/06/2018 that The candidate left Mexico City International Airport this morning , and is said to have been fired by Roberto Gil Zuarth , Luis Felipe Bravo Mena , Felipe Calderon and Rafael Moreno Valle , who declared that they wanted to make sure he boarded the plane|ROOT\ton 18/06/2018|prep\tthat|mark\tThe|det\tThe candidate|nsubj\tMexico|compound\tInternational|compound\t,|punct\tis|auxpass\t,|punct\t,|punct\t,|punct\twho|nsubj\tthat|mark\tsure he boarded the plane|acomp\tthe|det"
+                },
+                {
+                    "question": "What is the relationship between Luis Felipe Bravo Mena and Felipe Calderon?",
+                    "score": 0.6183,
+                    "answers": "Mexico City|compound\tand|cc\tis said to have been fired by Roberto Gil Zuarth , Luis Felipe Bravo Mena , Felipe Calderon and Rafael Moreno Valle , who declared that they wanted to make sure he boarded the plane|conj\tto|aux\thave|aux\tbeen|auxpass\tto have been fired by Roberto Gil Zuarth , Luis Felipe Bravo Mena , Felipe Calderon and Rafael Moreno Valle , who declared that they wanted to make sure he boarded the plane|xcomp\tby Roberto Gil Zuarth , Luis Felipe Bravo Mena , Felipe Calderon and Rafael Moreno Valle , who declared that they wanted to make sure he boarded the plane|agent\tRoberto|compound\tGil|compound\tRoberto Gil Zuarth , Luis Felipe Bravo Mena , Felipe Calderon and Rafael Moreno Valle , who declared that they wanted to make sure he boarded the plane|pobj\tLuis|compound\tBravo|compound\tLuis Felipe Bravo Mena , Felipe Calderon and Rafael Moreno Valle|conj\tand|cc\tRafael|compound\twho declared that they wanted to make sure he boarded the plane|relcl\tto|aux\the|nsubj\tthe plane|dobj"
+                }
+            ]
+        }
+    ]
+}

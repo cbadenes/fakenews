@@ -1,0 +1,128 @@
+{
+    "id": "Sociedad_61",
+    "claim": "The secretary general of the Popular Party, Teodoro García Egea, has acknowledged this Friday at the last minute that'people of Citizens 'alerted his party on Tuesday night that the formation of Ines Arrimadas was going to present a motion of censure with the PSOE to break his coalition with the PP in the Region of Murcia and to overthrow the president, Fernando Lopez Miras. In an interview in Antena 3, García Egea has defended, in any case, the agreement reached by himself with three citizens who have broken with his party this Friday to announce his vote against the motion of censure in exchange for charges in the current autonomous executive. 'What there are are three people who have remained faithful who signed a pact with the PP ', he has assured the 'number two' of the PP, who has said that those fugitives 'signed without wanting to sign 'the motion of censure from which they have now retracted. He has also said that, 'at the same time that we go, when the motion is voted on in the city of Murcia 'he does not know 'if a party called Ciudadanos will remain alive'. I'm sorry.",
+    "source": "www.eldiario.es",
+    "date": "12/03/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The secretary general of the Popular Party, Teodoro García Egea, has acknowledged this Friday at the last minute that'people of Citizens 'alerted his party on Tuesday night that the formation of Ines Arrimadas was going to present a motion of censure with the PSOE to break his coalition with the PP in the Region of Murcia and to overthrow the president, Fernando Lopez Miras.",
+            "question_answers": [
+                {
+                    "question": "Who alerted Teodoro Garca Egea's party to the formation of Ines Arrimadas?",
+                    "answer": "Citizens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Teodoro Garcia Egea say on Friday night about the creation of Ines Arrimadas?",
+                    "score": 0.7422,
+                    "answers": "the PSOE|pobj"
+                },
+                {
+                    "question": "What did Teodoro García Egea say about his party?",
+                    "score": 0.6895,
+                    "answers": "his party|dobj"
+                },
+                {
+                    "question": "What was Teodoro García Egea's position on Ines Arrimadas?",
+                    "score": 0.656,
+                    "answers": "that The secretary general of the Popular Party , Teodoro García Egea , has acknowledged this Friday at the last minute that'people of Citizens ' alerted his party on Tuesday night that the formation of Ines Arrimadas was going to present a motion of censure with the PSOE to break his coalition with the PP in the Region of Murcia and to overthrow the president , Fernando Lopez Miras|ccomp"
+                },
+                {
+                    "question": "What did Ines Arrimadas say about the motion of censure?",
+                    "score": 0.6525,
+                    "answers": "to present a motion of censure with the PSOE to break his coalition with the PP in the Region of Murcia and to overthrow the president , Fernando Lopez Miras|xcomp"
+                },
+                {
+                    "question": "What was the purpose of Ines Arrimadas forming a motion of censure with the PP?",
+                    "score": 0.6271,
+                    "answers": "to overthrow the president , Fernando Lopez Miras|conj"
+                }
+            ]
+        },
+        {
+            "claim": "In an interview in Antena 3, García Egea has defended, in any case, the agreement reached by himself with three citizens who have broken with his party this Friday to announce his vote against the motion of censure in exchange for charges in the current autonomous executive.",
+            "question_answers": [
+                {
+                    "question": "What was Garca Egea's vote in exchange for charges in the current autonomous executive?",
+                    "answer": "against the motion of censure"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Egea break with his party?",
+                    "score": 0.7451,
+                    "answers": "to announce his vote against the motion of censure in exchange for charges in the current autonomous executive|advcl"
+                },
+                {
+                    "question": "Why did Egea vote against the motion of censure?",
+                    "score": 0.7282,
+                    "answers": "exchange for charges in the current autonomous executive|pobj"
+                },
+                {
+                    "question": "What was the agreement reached by Garcia Egea?",
+                    "score": 0.687,
+                    "answers": "charges in the current autonomous executive|pobj"
+                },
+                {
+                    "question": "What is the agreement between Egea and his party?",
+                    "score": 0.578,
+                    "answers": "on 12/03/2021|prep\tthat|mark\tIn an interview in Antena 3|prep\tan|det\tan interview in Antena 3|pobj\tin Antena 3|prep\t3|nummod\t,|punct\tGarcía|compound\thas|aux\tthat In an interview in Antena 3 , García Egea has defended , in any case , the agreement reached by himself with three citizens who have broken with his party this Friday to announce his vote against the motion of censure in exchange for charges in the current autonomous executive|ccomp\t,|punct\tin any case|prep\tany|det\tany case|pobj\t,|punct\tthe|det\tby himself|agent\thimself|pobj\twith three citizens who have broken with his party this Friday to announce his vote against the motion of censure in exchange for charges in the current autonomous executive|prep\tthree citizens who have broken with his party this Friday to announce his vote against the motion of censure in exchange for charges in the current autonomous executive|pobj\twho|nsubj\thave|aux\twho have broken with his party this Friday to announce his vote against the motion of censure in exchange for charges in the current autonomous executive|relcl\twith his party|prep\this|poss\this party|pobj\tthis|det\tto|aux\this|poss\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'What there are are three people who have remained faithful who signed a pact with the PP ', he has assured the 'number two' of the PP, who has said that those fugitives 'signed without wanting to sign 'the motion of censure from which they have now retracted.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldiario.es say on 12/03/2021?",
+                    "answer": "signed a pact with the PP"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people have remained faithful who signed a pact with the PP?",
+                    "score": 0.7863,
+                    "answers": "that|mark\tWhat|attr\tthere|expl\tWhat there are|csubj\thave|aux\twho have remained faithful|relcl\tfaithful|acomp\the|nsubj\thas|aux\tof the PP|prep\thas|aux\tthat|mark\tfrom which|prep\twhich|pobj\thave|aux\tnow|advmod"
+                },
+                {
+                    "question": "Who signed a motion of censure from which they have now retracted?",
+                    "score": 0.7474,
+                    "answers": "'|punct\twho|nsubj\twho|nsubj\ta|det\tthe|det\tthe PP|pobj\t'|punct\t,|punct\tthe|det\t'|punct\t'|punct\tthe|det\tthe PP|pobj\t,|punct\twho|nsubj\tthose|det\tthose fugitives|nsubj\t'|punct\t'|punct\tthe|det\tthey|nsubj"
+                },
+                {
+                    "question": "What is the motion of censure?",
+                    "score": 0.6527,
+                    "answers": "of censure|prep\tcensure|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "He has also said that, 'at the same time that we go, when the motion is voted on in the city of Murcia 'he does not know 'if a party called Ciudadanos will remain alive'.",
+            "question_answers": [
+                {
+                    "question": "Where is the motion voted on?",
+                    "answer": "Murcia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the party that Ciudadanos belong to?",
+                    "score": 0.6408,
+                    "answers": "a party called Ciudadanos|nsubj\tcalled Ciudadanos|acl"
+                },
+                {
+                    "question": "What is the relationship between the Ciudadanos party and the Murcia party?",
+                    "score": 0.5947,
+                    "answers": "that He has also said that , ' at the same time that we go , when the motion is voted on in the city of Murcia ' he does not know ' if a party called Ciudadanos will remain alive '|ccomp\tthat , ' at the same time that we go , when the motion is voted on in the city of Murcia ' he does not know ' if a party called Ciudadanos will remain alive '|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the date of the motion being voted on in Murcia?",
+                    "score": 0.5946,
+                    "answers": "the same time that we go|pobj"
+                }
+            ]
+        }
+    ]
+}

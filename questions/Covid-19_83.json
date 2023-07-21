@@ -1,0 +1,619 @@
+{
+    "id": "Covid-19_83",
+    "claim": "American Journal of Medicine (AJM), a medical journal and official journal of the Alliance for Internal Academic Medicine of the United States, has not endorsed that hydroxychloroquine cures coronavirus, as alleged by social media publications in that country and Brazil. Through Facebook and Twitter, several users have shared images and texts that assure that this publication, created in 1946, “reports now that hydroxychloroquine, in fact, counteracts and cures Covid-19”, after months of political and medical debate about the scope of the drug as prophylaxis against the virus. Even one of the messages circulates in the United States with claims that former President Donald Trump, who defended his use during his administration, “proved again that he was right” and that “the opposition of the liberals and even Satanization to his recommendations cost thousands of lives”. According to that publication, “90% of the deaths caused by the coronavirus could be avoided” and blamed “the liberals, the Democrats, the middle liars” and Dr. Antony Fauci, who still in the government of Joe Biden remains at the head of the anti-covid struggle in the US. This same type of message has also appeared in Brazil, another country whose government, led by Jair Bolsonaro, has openly supported the use of this substance. In fact, the South American country has promoted its use by quoting in various forums and moments a News published last January in the AJM, in which several scientists exposed the possibilities of the drug as possible preventive treatment. From there, Brazilian social media users have assumed the magazine's supposed endorsement and criticize that even with these “tests” the drug has been discouraged, which according to Johns Hopkins University is tested only against arthritis, the symptoms of lupus and malaria. “It was enough for the scientific journal American Journal of Medicine to publish studies on the efficacy of this early treatment for Facebook to claim that it was wrong to silence,” says one of the messages. DATA: The American Journal of Medicine has denied having given some endorsement to hydroxychloroquin as an anticovid treatment. The publication responded to quotations from the Brazilian government of the news published on its pages and made it clear that its use, according to more conclusive new studies, can become “damaged” for the organism. The editors of the medical journal issued a comment on February 17 to clarify that “nothing can be further from the truth” than Bolsonaro's government's attempts to use the entity as “proof” that hydroxychloroquin cures Covid-19 or that such a publication has endorsed its use. “The AJM is neither a regulatory agency nor an arbiter of political and scientific disputes. The AJM is a communication vehicle used by scientists and doctors to provide information that is potentially useful to doctors all over the world,” said those responsible for the medical journal. “It is completely inaccurate to say that the AJM has supported a therapeutic intervention,” they added, to clarify that, while a letter signed by a group of scientists supporting the use of the drug circulated on its pages, a “harmful effect” of the substance has been found in other researches. Finally, the publication highlighted that just as this scientific news was published on its pages also others who have warned about its use are part of its previous editions. A politicized drugHydroxychloroquine has become a popular drug both by a dozen scientific studies that sought to confirm its effectiveness against the Covid-19 pandemic as well as by the fact that figures like Trump or the Brazilian president have recommended its use. The former US president repeatedly referred during his administration (2017-2021) to this drug as a possible treatment for Covid-19 and even claimed - months before contracting the virus itself - that he was ingesting it. In March 2020, following the publication of one of the first drug researches in France, the Republican leader began to talk about “hydroxychloroquine and azithromycin could change the game in the history of medicine”. On those same dates, when Brazil was already the second country in the world with the most cases of Covid-19, Bolsonaro promoted a protocol for the treatment of patients with coronavirus that protects the use of chloroquine and hydroxychloroquine in mild cases. “There is no scientific verification yet, but it is being experienced and used in Brazil and around the world. Anyway: we are at war” and “worst to be defeated is the shame of not having fought,” Bolsonaro then highlighted on his Twitter account. The statements of these world leaders meant that antimalarials had been exhausted for weeks and generated complications for the treatment of patients with lupus or artitris, as reported by several medical organizations. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "05/03/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "American Journal of Medicine (AJM), a medical the AJM the magazine's of the Alliance for the AJM Academic Medicine of the United States the drug , has not endorsed that hydroxychloroquine cures the drug , as alleged its pages media publications in the drug and Brazil .",
+            "question_answers": [
+                {
+                    "question": "What has the American Journal of Medicine not endorsed about hydroxychloroquine?",
+                    "answer": "hydroxychloroquine cures the drug"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who endorsed hydroxychloroquine?",
+                    "score": 0.8484,
+                    "answers": "of Medicine|prep\ta medical the AJM the magazine|appos\tthe magazine|appos\t's|appos\tfor the AJM Academic Medicine of the United States|prep\tthe AJM Academic Medicine of the United States|pobj\tof the United States|prep\tthe United States|pobj"
+                },
+                {
+                    "question": "What is hydroxychloroquine?",
+                    "score": 0.7892,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 05/03/2021 that American Journal of Medicine ( AJM ) , a medical the AJM the magazine 's of the Alliance for the AJM Academic Medicine of the United States the drug , has not endorsed that hydroxychloroquine cures the drug , as alleged its pages media publications in the drug and Brazil|ROOT\ton 05/03/2021|prep\tthat|mark\tAmerican Journal of Medicine ( AJM ) , a medical the AJM the magazine 's of the Alliance for the AJM Academic Medicine of the United States the drug|nsubj\t(|punct\t)|punct\t,|punct\tthe|det\tthe|det\tthe|det\tthe|det\tthe|det\tUnited|compound\tthe|det\tthe drug|appos\t,|punct\thas|aux\tnot|neg\tthat American Journal of Medicine ( AJM ) , a medical the AJM the magazine 's of the Alliance for the AJM Academic Medicine of the United States the drug , has not endorsed that hydroxychloroquine cures the drug , as alleged its pages media publications in the drug and Brazil|ccomp\tthat|mark\thydroxychloroquine|nsubj\tthat hydroxychloroquine cures the drug|ccomp\tthe|det\tthe drug|dobj\t,|punct\tas|mark\tas alleged its pages media publications in the drug and|advcl\tits|poss\tits pages|compound\tmedia|compound\tits pages media publications in the drug and|dep\tin the drug and|prep\tthe|det\tthe drug and|pobj\tand|cc"
+                },
+                {
+                    "question": "What is the relationship between hydroxychloroquine and AJM?",
+                    "score": 0.7685,
+                    "answers": "the AJM|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Through Facebook and Twitterthe magazine's the AJM the magazine's assure that this publication, created in 1946 its pages , “reports now that hydroxychloroquine , in fact, counteracts and cures Covid-19 ”, after months of the magazine's the scope of hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment .",
+            "question_answers": [
+                {
+                    "question": "What does AJM believe counteracts and cures Covid-19?",
+                    "answer": "hydroxychloroquine"
+                },
+                {
+                    "question": "What does AJM believe counteracts and cures Covid-19?",
+                    "answer": "hydroxychloroquine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is hydroxychloroquine?",
+                    "score": 0.7469,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 05/03/2021 that Through Facebook and Twitterthe magazine 's the AJM the magazine 's assure that this publication , created in 1946 its pages , “ reports now that hydroxychloroquine , in fact , counteracts and cures Covid-19 ” , after months of the magazine 's the scope of hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment|ROOT\ton 05/03/2021|prep\tthat|mark\tThrough Facebook and Twitterthe magazine 's|prep\tFacebook and Twitterthe magazine 's|pobj\tand|cc\tTwitterthe|det\tTwitterthe magazine 's|conj\t's|case\tthe|det\tthe|det\tthe magazine 's|nsubj\t's|case\tthat Through Facebook and Twitterthe magazine 's the AJM the magazine 's assure that this publication , created in 1946 its pages , “ reports now that hydroxychloroquine , in fact , counteracts and cures Covid-19 ” , after months of the magazine 's the scope of hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment|ccomp\tthat|mark\tthis|det\tthis publication , created in 1946 its pages|nsubj\t,|punct\tcreated in 1946 its pages|acl\tin 1946 its pages|prep\tits|poss\tits pages|pobj\t,|punct\t“|punct\tthat this publication , created in 1946 its pages , “ reports now that hydroxychloroquine , in fact , counteracts and cures Covid-19 ” , after months of the magazine 's the scope of hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment|ccomp\tnow|advmod\tthat|mark\thydroxychloroquine|nsubj\t,|punct\tin fact|prep\tfact|pobj\t,|punct\tthat hydroxychloroquine , in fact , counteracts and cures Covid-19 ”|ccomp\tand|cc\tcures Covid-19 ”|conj\tCovid-19|dobj\t”|punct\t,|punct\tafter months of the magazine 's the scope of hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment|prep\tmonths of the magazine 's the scope of hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment|pobj\tof the magazine 's the scope of hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment|prep\tthe|det\tthe magazine 's|poss\t's|case\tthe|det\tthe magazine 's the scope of hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment|pobj\tof hydroxychloroquine as prophylaxis against hydroxychloroquin as an anticovid treatment|prep\thydroxychloroquine as prophylaxis|pobj\tas prophylaxis|prep\tprophylaxis|pobj\tas an anticovid treatment|prep\tan|det\tanticovid|amod\tan anticovid treatment|pobj"
+                },
+                {
+                    "question": "What is hydroxychloroquin?",
+                    "score": 0.7182,
+                    "answers": "against hydroxychloroquin as an anticovid treatment|prep\thydroxychloroquin as an anticovid treatment|pobj"
+                },
+                {
+                    "question": "What is the AJM?",
+                    "score": 0.6753,
+                    "answers": "the AJM|dep"
+                }
+            ]
+        },
+        {
+            "claim": "hydroxychloroquin as an anticovid treatment the drug hydroxychloroquin as an anticovid treatment the magazine's Covid-19 the United States with claims that former President Donald Trump, who defended his use during his administration Trump former President Donald Trump, who defended his use during his administration the Brazilian president former President Donald Trump, who defended his use during his administration , “proved Trump right” and that “the opposition of the liberals and even Satanization the drug recommendations the magazine's of lives”.",
+            "question_answers": [
+                {
+                    "question": "Who defended his use during his administration?",
+                    "answer": "former President Donald Trump, who defended his use during his administration the Brazilian president former President Donald Trump, who defended his use during his administration"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who defended Trump's use of hydroxychloroquin during his administration?",
+                    "score": 0.8943,
+                    "answers": "former President Donald Trump , who defended his use during his administration Trump former President Donald Trump , who defended his use during his administration|nsubj\twho defended his use during his administration|relcl\tTrump former President Donald Trump , who defended his use during his administration|appos\twho defended his use during his administration|relcl\tthe Brazilian president former President Donald Trump , who defended his use during his administration|nsubj\twho defended his use during his administration|relcl"
+                },
+                {
+                    "question": "What did Trump say about hydroxychloroquin as an anticovid treatment?",
+                    "score": 0.8895,
+                    "answers": "of the liberals and even Satanization|prep\tthe liberals and even Satanization|pobj"
+                },
+                {
+                    "question": "What is the name of the magazine that published hydroxychloroquin?",
+                    "score": 0.8206,
+                    "answers": "the magazine 's|poss"
+                },
+                {
+                    "question": "What is hydroxychloroquin?",
+                    "score": 0.7831,
+                    "answers": "www.forbes.com.mx reported on 05/03/2021 that hydroxychloroquin as an anticovid treatment the drug hydroxychloroquin as an anticovid treatment the magazine 's Covid-19 the United States with claims that former President Donald Trump , who defended his use during his administration Trump former President Donald Trump , who defended his use during his administration the Brazilian president former President Donald Trump , who defended his use during his administration , “ proved Trump right ” and that “ the opposition of the liberals and even Satanization the drug recommendations the magazine 's of lives ”|ROOT\tthat|mark\thydroxychloroquin as an anticovid treatment the drug hydroxychloroquin as an anticovid treatment|nmod\tas an anticovid treatment|prep\tan|det\tanticovid|amod\tan anticovid treatment|pobj\tthe|det\tthe drug hydroxychloroquin as an anticovid treatment|appos\thydroxychloroquin as an anticovid treatment|appos\tas an anticovid treatment|prep\tan|det\tanticovid|amod\tan anticovid treatment|pobj\tthe|det\t's|case\tthat hydroxychloroquin as an anticovid treatment the drug hydroxychloroquin as an anticovid treatment the magazine 's Covid-19 the United States|dobj\tthe|det\tUnited|compound\tthat|mark\tformer|amod\tformer President|compound\tDonald|compound\t,|punct\this|poss\this use during his administration|dobj\this|poss\tformer|amod\tformer President|compound\tDonald|compound\t,|punct\this|poss\this use during his administration|dobj\this|poss\tthe|det\tformer|amod\tformer President|compound\tDonald|compound\tformer President Donald Trump|appos\t,|punct\this|poss\this use during his administration|dobj\this|poss\t,|punct\t“|punct\t”|punct\tand|cc\tthat|mark\t“|punct\tthe|det\tthe opposition of the liberals and even Satanization the drug recommendations|nsubj\tthe|det\tand|cc\teven|advmod\teven Satanization|conj\tthe|det\tdrug|compound\tthe drug recommendations|appos\tthe|det\tthat “ the opposition of the liberals and even Satanization the drug recommendations the magazine 's of lives|conj\t's|case\tof lives|prep\tlives|pobj\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "According to Even one of the messages , “90% Covid-19 by Trump Covid-19 the drug be avoided” and blamed “the liberals, the magazine's , the middle the drug the Brazilian president government of Joe Biden remains its use the the magazine's of the anti-covid struggle in the United States .",
+            "question_answers": [
+                {
+                    "question": "Who did forbes blame for the use of Covid-19?",
+                    "answer": "the magazine's"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about Covid-19?",
+                    "score": 0.8036,
+                    "answers": "Trump|compound"
+                },
+                {
+                    "question": "What does Covid-19 mean?",
+                    "score": 0.7458,
+                    "answers": "to Even one of the messages|prep"
+                },
+                {
+                    "question": "What is the use of Covid-19 by Trump?",
+                    "score": 0.7324,
+                    "answers": "its use|dep"
+                },
+                {
+                    "question": "What is the source of evidence of all the quotes from Trump about Covid-19 by Trump?",
+                    "score": 0.7211,
+                    "answers": "on 05/03/2021|prep\tthe|det\tthe|det\tthe|det\tthe|det\tthe magazine 's|appos\tthe|det\tthe|det\tthe|det\tthe|det\tthe|det\tthe|det\tin the United States|prep\tthe|det\tUnited|compound"
+                },
+                {
+                    "question": "What is the name of the drug that Joe Biden blamed on Trump Covid-19?",
+                    "score": 0.7179,
+                    "answers": "the liberals , the magazine 's , the middle the drug the Brazilian president government of Joe Biden|dobj\tthe drug the Brazilian president government of Joe Biden|appos\tthe Brazilian president government of Joe Biden|appos\tof Joe Biden|prep\tJoe|compound"
+                }
+            ]
+        },
+        {
+            "claim": "This same type of message has also appeared in the magazine's Brazil the Brazilian president Brazil .",
+            "question_answers": [
+                {
+                    "question": "When did forbes.com.mx report that the same type of message appeared in the magazine's Brazil?",
+                    "answer": "05/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of message has appeared in Brazil Magazine?",
+                    "score": 0.8701,
+                    "answers": "of message|prep"
+                },
+                {
+                    "question": "What is Brazil's president Brazil?",
+                    "score": 0.8192,
+                    "answers": "www.forbes.com.mx|nsubj\ton 05/03/2021|prep\tThis same type of message|nsubj\tin the magazine 's Brazil the Brazilian president Brazil|prep\tthe magazine 's Brazil the Brazilian president Brazil|pobj\tthe Brazilian president Brazil|appos"
+                },
+                {
+                    "question": "What is Brazil's magazine?",
+                    "score": 0.7986,
+                    "answers": "the magazine 's|poss"
+                },
+                {
+                    "question": "What is the source of evidence of this type of message from Brazil president Brazil?",
+                    "score": 0.7984,
+                    "answers": "that|mark"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, Brazil has promoted use by quoting the magazine's and moments a News published last January in this publication, created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment.",
+            "question_answers": [
+                {
+                    "question": "In what year was Forbes created?",
+                    "answer": "1946"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is hydroxychloroquine?",
+                    "score": 0.7803,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 05/03/2021 that In fact , Brazil has promoted use by quoting the magazine 's and moments a News published last January in this publication , created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|ROOT\ton 05/03/2021|prep\tthat|mark\tIn fact|prep\tfact|pobj\t,|punct\thas|aux\tthat In fact , Brazil has promoted use by quoting the magazine 's and moments a News published last January in this publication , created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|ccomp\tuse|dobj\tby quoting the magazine 's and moments a News published last January in this publication , created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|prep\tquoting the magazine 's and moments a News published last January in this publication , created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|pcomp\tthe|det\tthe magazine 's and moments a News published last January in this publication , created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|dobj\t's|case\tand|cc\tmoments|nmod\ta|det\tpublished last January in this publication , created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|acl\tlast|amod\tin this publication , created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|prep\tthis|det\tthis publication , created in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|pobj\t,|punct\tcreated in 1946 , in which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|acl\tin 1946|prep\t,|punct\tin which|prep\twhich|pobj\tseveral|amod\tseveral scientists|nsubj\tin which several scientists exposed the possibilities of hydroxychloroquine as possible preventive treatment|relcl\tthe|det\tthe possibilities of hydroxychloroquine as possible preventive treatment|dobj\tof hydroxychloroquine|prep\thydroxychloroquine|pobj\tas possible preventive treatment|prep\tpossible|amod\tpreventive|amod\tpossible preventive treatment|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "From there, Brazilian social media users have assumed the magazine's supposed endorsement and criticize that even with these “tests” the drug has been discouraged, which according to Johns Hopkins University is tested only against arthritis, the symptoms of lupus and malaria.",
+            "question_answers": [
+                {
+                    "question": "When did forbes.com.mx report that the drug had been discouraged?",
+                    "answer": "05/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the symptoms of lupus and malaria?",
+                    "score": 0.7312,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 05/03/2021 that From there , Brazilian social media users have assumed the magazine 's supposed endorsement and criticize that even with these “ tests ” the drug has been discouraged , which according to Johns Hopkins University is tested only against arthritis , the symptoms of lupus and malaria|ROOT\ton 05/03/2021|prep\tthat|mark\tFrom there|prep\tthere|pcomp\t,|punct\tsocial|amod\tsocial media|compound\tBrazilian social media users|nsubj\thave|aux\tthat From there , Brazilian social media users have assumed the magazine 's supposed endorsement and criticize that even with these “ tests ” the drug has been discouraged , which according to Johns Hopkins University is tested only against arthritis , the symptoms of lupus and malaria|ccomp\tthe|det\tthe magazine 's|poss\t's|case\tsupposed|amod\tand|cc\tcriticize that even with these “ tests ” the drug has been discouraged , which according to Johns Hopkins University is tested only against arthritis , the symptoms of lupus and malaria|conj\tthat|mark\teven|advmod\teven with these “ tests ”|prep\tthese|det\t“|punct\tthese “ tests ”|pobj\t”|punct\tthe|det\tthe drug|nsubjpass\thas|aux\tbeen|auxpass\tthat even with these “ tests ” the drug has been discouraged , which according to Johns Hopkins University is tested only against arthritis , the symptoms of lupus and malaria|ccomp\t,|punct\twhich|nsubjpass\taccording to Johns Hopkins University|prep\tto Johns Hopkins University|prep\tJohns|compound\tJohns Hopkins|compound\tis|auxpass\twhich according to Johns Hopkins University is tested only against arthritis , the symptoms of lupus and malaria|advcl\tonly|advmod\tonly against arthritis , the symptoms of lupus and malaria|prep\tarthritis , the symptoms of lupus and malaria|pobj\t,|punct\tthe|det\tthe symptoms of lupus and malaria|appos\tof lupus and malaria|prep\tlupus and malaria|pobj\tand|cc\tmalaria|conj"
+                },
+                {
+                    "question": "What is the source of evidence of Johns Hopkins University's endorsement of the drug?",
+                    "score": 0.7125,
+                    "answers": "the magazine 's supposed endorsement|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "“It was enough for the scientific journal American Journal of Medicine to publish studies on the efficacy of this early treatment for Facebook to claim that it was wrong to silence,” says one of the messages.",
+            "question_answers": [
+                {
+                    "question": "What company did the American Journal of Medicine claim was wrong to silence?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the American Journal of Medicine say about the efficacy of the first treatment for Facebook?",
+                    "score": 0.8759,
+                    "answers": "www.forbes.com.mx reported on 05/03/2021 that “ It was enough for the scientific journal American Journal of Medicine to publish studies on the efficacy of this early treatment for Facebook to claim that it was wrong to silence|ccomp\tthat “ It was enough for the scientific journal American Journal of Medicine to publish studies on the efficacy of this early treatment for Facebook to claim that it was wrong to silence|ccomp\twww.forbes.com.mx reported on 05/03/2021 that “ It was enough for the scientific journal American Journal of Medicine to publish studies on the efficacy of this early treatment for Facebook to claim that it was wrong to silence , ” says one of the messages|ROOT"
+                },
+                {
+                    "question": "What does it mean to silence?",
+                    "score": 0.8268,
+                    "answers": "wrong to silence|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "DATA: The American Journal of Medicine has denied having given some endorsement to hydroxychloroquin as an anticovid treatment.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 05/03/2021 that DATA: The American Journal of Medicine denied giving some endorsement to hydroxychloroquin as an anticovid treatment?",
+                    "answer": "www.forbes.com.mx"
+                },
+                {
+                    "question": "What does the American Journal of Medicine deny giving some endorsement to as an anticovid treatment?",
+                    "answer": "hydroxychloroquin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the American Journal of Medicine say about hydroxychloroquin?",
+                    "score": 0.9085,
+                    "answers": "that DATA : The American Journal of Medicine has denied having given some endorsement to hydroxychloroquin as an anticovid treatment|ccomp\thaving given some endorsement to hydroxychloroquin as an anticovid treatment|xcomp\tsome endorsement|dobj"
+                },
+                {
+                    "question": "What is hydroxychloroquin?",
+                    "score": 0.8697,
+                    "answers": "on 05/03/2021|prep\tthat|mark\tDATA :|dep\t:|punct\tThe|det\tAmerican|compound\tof Medicine|prep\tMedicine|pobj\thas|aux\thaving|aux\tsome|det\tto hydroxychloroquin as an anticovid treatment|dative\thydroxychloroquin as an anticovid treatment|pobj\tas an anticovid treatment|prep\tan|det\tanticovid|amod\tan anticovid treatment|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The publication responded to quotations from the Brazilian government of the news published on its pages and made it clear that its use, according to more conclusive new studies, can become “damaged” for the organism.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did the Brazilian government say about the publication's use?",
+                    "score": 0.798,
+                    "answers": "published on its pages|acl\tits pages|pobj\tits use|nsubj\tto more conclusive new studies|prep\tmore conclusive new studies|pobj\tfor the organism|prep\tthe organism|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the use of the Brazilian government's news?",
+                    "score": 0.6941,
+                    "answers": "on 05/03/2021|prep"
+                },
+                {
+                    "question": "What is the relationship between the Brazilian government and the news published on its pages?",
+                    "score": 0.6676,
+                    "answers": "that|mark\tThe|det\tquotations from the Brazilian government of the news published on its pages|pobj\tthe|det\tthe|det\tand|cc\tthat|mark\t,|punct\taccording to more conclusive new studies|prep\tmore|advmod\tnew|amod\t,|punct\tcan|aux\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "The editors of the medical journal issued a comment on February 17 to clarify that “nothing can be further from the truth” than Bolsonaro's government's attempts to use the entity as “proof” that hydroxychloroquin cures Covid-19 or that such a publication has endorsed its use.",
+            "question_answers": [
+                {
+                    "question": "What did the editors of Forbes say was a proof of Bolsonaro's government's claims that hydroxychloroquin cures Covid-19?",
+                    "answer": "hydroxychloroquin cures Covid-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does hydroxychloroquin do to cure Covid-19?",
+                    "score": 0.8668,
+                    "answers": "to use the entity as “ proof ” that hydroxychloroquin cures Covid-19 or that such a publication has endorsed its use|acl"
+                },
+                {
+                    "question": "What did the editors of the medical journal say about the use of hydroxychloroquin?",
+                    "score": 0.8605,
+                    "answers": "its|poss"
+                },
+                {
+                    "question": "Who endorsed hydroxychloroquin?",
+                    "score": 0.8475,
+                    "answers": "medical|amod"
+                },
+                {
+                    "question": "Who endorsed the use of hydroxychloroquin to cure Covid-19?",
+                    "score": 0.8312,
+                    "answers": "'s|case\t's|case"
+                },
+                {
+                    "question": "What is the source of evidence of Bolsonaro's government using hydroxychloroquin for medicine?",
+                    "score": 0.781,
+                    "answers": "a comment|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "“The AJM is neither a regulatory agency nor an arbiter of political and scientific disputes.",
+            "question_answers": [
+                {
+                    "question": "What agency is neither a regulatory agency nor an arbiter of political and scientific disputes?",
+                    "answer": "AJM"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is the AJM a regulatory agency or arbiter of political and scientific disputes?",
+                    "score": 0.9016,
+                    "answers": "a|det\tregulatory|amod"
+                },
+                {
+                    "question": "What does the AJM stand for?",
+                    "score": 0.8357,
+                    "answers": "on 05/03/2021|prep"
+                },
+                {
+                    "question": "What is the AJM's role in international politics?",
+                    "score": 0.797,
+                    "answers": "an arbiter of political and scientific disputes|conj"
+                },
+                {
+                    "question": "What is the AJM?",
+                    "score": 0.7523,
+                    "answers": "www.forbes.com.mx|nsubj\tThe AJM|nsubj\tneither a regulatory agency nor an arbiter of political and scientific disputes|attr"
+                },
+                {
+                    "question": "What is the purpose of the AJM?",
+                    "score": 0.7466,
+                    "answers": "“|punct\tthat “ The AJM is neither a regulatory agency nor an arbiter of political and scientific disputes|ccomp\tscientific|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The AJM is a communication vehicle used by scientists and doctors to provide information that is potentially useful to doctors all over the world,” said those responsible for the medical journal.",
+            "question_answers": [
+                {
+                    "question": "When did forbes report that The AJM is a communication vehicle used by scientists and doctors to provide information that is potentially useful to doctors all over the world?",
+                    "answer": "05/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many doctors use the AJM?",
+                    "score": 0.827,
+                    "answers": "doctors all over the world|pobj"
+                },
+                {
+                    "question": "Who is responsible for the AJM?",
+                    "score": 0.7497,
+                    "answers": "doctors|conj\tthose responsible for the medical journal|nsubj"
+                },
+                {
+                    "question": "What is the AJM?",
+                    "score": 0.7304,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 05/03/2021 that The AJM is a communication vehicle used by scientists and doctors to provide information that is potentially useful to doctors all over the world|ccomp\tThe|det\tThe AJM|nsubj\ta|det\tcommunication|compound\ta communication vehicle used by scientists and doctors to provide information that is potentially useful to doctors all over the world|attr\tused by scientists and doctors to provide information that is potentially useful to doctors all over the world|acl\tand|cc\tto|aux\tto provide information that is potentially useful to doctors all over the world|xcomp\tinformation that is potentially useful to doctors all over the world|dobj\tthe|det\tthe world|pobj\t,|punct\t”|punct\twww.forbes.com.mx reported on 05/03/2021 that The AJM is a communication vehicle used by scientists and doctors to provide information that is potentially useful to doctors all over the world , ” said those responsible for the medical journal|ROOT\tthe|det\tmedical|amod"
+                },
+                {
+                    "question": "What is the purpose of the AJM?",
+                    "score": 0.711,
+                    "answers": "on 05/03/2021|prep\tthat|mark\tthat The AJM is a communication vehicle used by scientists and doctors to provide information that is potentially useful to doctors all over the world|ccomp\tby scientists and doctors|agent\tscientists and doctors|pobj\tthat|nsubj\tthat is potentially useful to doctors all over the world|relcl\tpotentially|advmod\tpotentially useful to doctors all over the world|acomp\tto doctors all over the world|prep\tall|advmod\tall over the world|prep\tresponsible for the medical journal|amod\tfor the medical journal|prep\tthe medical journal|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "“It is completely inaccurate to say that the AJM has supported a therapeutic intervention,” they added, to clarify that, while a letter signed by a group of scientists supporting the use of the drug circulated on its pages, a “harmful effect” of the substance has been found in other researches.",
+            "question_answers": [
+                {
+                    "question": "What did forbes report on 05/03/2021?",
+                    "answer": "“It is completely inaccurate to say that the AJM has supported a therapeutic intervention,”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the AJM support a therapeutic intervention?",
+                    "score": 0.9143,
+                    "answers": "that the AJM has supported a therapeutic intervention|ccomp"
+                },
+                {
+                    "question": "What did the letter signed by a group of scientists supporting the use of the drug circulated on its pages?",
+                    "score": 0.849,
+                    "answers": "its pages|pobj\tother|amod"
+                },
+                {
+                    "question": "What has been found in other researches about AJM?",
+                    "score": 0.7713,
+                    "answers": "a “ harmful effect ” of the substance|nsubjpass"
+                },
+                {
+                    "question": "What is the relationship between the AJM and the drug?",
+                    "score": 0.7476,
+                    "answers": "therapeutic|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Finally, the publication highlighted that just as this scientific news was published on its pages also others who have warned about its use are part of its previous editions.",
+            "question_answers": [
+                {
+                    "question": "Who were part of the previous editions of Forbes?",
+                    "answer": "others who have warned about its use"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who warned about the use of scientific news on its pages?",
+                    "score": 0.7858,
+                    "answers": "that Finally , the publication highlighted that just as this scientific news was published on its pages also others who have warned about its use are part of its previous editions|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the scientific news published on its pages?",
+                    "score": 0.7325,
+                    "answers": "its use|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "A politicized drugHydroxychloroquine has become a popular drug both by a dozen scientific studies that sought to confirm its effectiveness against the Covid-19 pandemic as well as by the fact that figures like Trump or the Brazilian president have recommended its use.",
+            "question_answers": [
+                {
+                    "question": "Who has recommended the use of Hydroxychloroquine?",
+                    "answer": "Trump or the Brazilian president"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who recommended hydroxychloroquine as a popular drug?",
+                    "score": 0.8664,
+                    "answers": "figures like Trump or the Brazilian president|nsubj\tlike Trump or the Brazilian president|prep\tTrump or the Brazilian president|pobj\tthe Brazilian president|conj"
+                },
+                {
+                    "question": "What is hydroxychloroquine used for?",
+                    "score": 0.8482,
+                    "answers": "to confirm its effectiveness against the Covid-19 pandemic|xcomp\tits effectiveness against the Covid-19 pandemic|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of hydroxychloroquine's efficacy against the Covid-19 pandemic?",
+                    "score": 0.8329,
+                    "answers": "www.forbes.com.mx|nsubj"
+                },
+                {
+                    "question": "What is hydroxychloroquine?",
+                    "score": 0.8236,
+                    "answers": "www.forbes.com.mx reported on 05/03/2021 that A politicized drugHydroxychloroquine has become a popular drug both by a dozen scientific studies that sought to confirm its effectiveness against the Covid-19 pandemic as well as by the fact that figures like Trump or the Brazilian president have recommended its use|ROOT\ton 05/03/2021|prep\tthat|mark\tA|det\tpoliticized|amod\tA politicized drugHydroxychloroquine|nsubj\thas|aux\tthat A politicized drugHydroxychloroquine has become a popular drug both by a dozen scientific studies that sought to confirm its effectiveness against the Covid-19 pandemic as well as by the fact that figures like Trump or the Brazilian president have recommended its use|ccomp\ta|det\tpopular|amod\ta popular drug|attr\tboth|preconj\tboth by a dozen scientific studies that sought to confirm its effectiveness against the Covid-19 pandemic as well as by the fact that figures like Trump or the Brazilian president have recommended its use|prep\ta|det\tdozen|nummod\tscientific|amod\ta dozen scientific studies that sought to confirm its effectiveness against the Covid-19 pandemic|pobj\tthat|nsubj\tthat sought to confirm its effectiveness against the Covid-19 pandemic|relcl\tto|aux\tits|poss\tthe|det\tas|advmod\twell|advmod\tas well as|cc\tby the fact that figures like Trump or the Brazilian president have recommended its use|conj\tthe|det\tthe fact that figures like Trump or the Brazilian president have recommended its use|pobj\tthat|mark\tor|cc\tthe|det\thave|aux\tthat figures like Trump or the Brazilian president have recommended its use|acl\tits|poss\tits use|dobj"
+                },
+                {
+                    "question": "What is the Covid-19 pandemic?",
+                    "score": 0.7868,
+                    "answers": "against the Covid-19 pandemic|prep\tthe Covid-19|pobj\tpandemic|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The former US president repeatedly referred during his administration (2017-2021) to this drug as a possible treatment for Covid-19 and even claimed - months before contracting the virus itself - that he was ingesting it.",
+            "question_answers": [
+                {
+                    "question": "How long did the former US president claim he was ingesting Covid-19?",
+                    "answer": "months before contracting the virus itself"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the former US president say about Covid-19?",
+                    "score": 0.8675,
+                    "answers": "The former US president|nsubj\tthat The former US president repeatedly referred during his administration ( 2017 - 2021 ) to this drug as a possible treatment for Covid-19 and even claimed - months before contracting the virus itself - that he was ingesting it|ccomp\tmonths before contracting the virus itself|prep\tthat he was ingesting it|ccomp"
+                },
+                {
+                    "question": "What did President Obama say about Covid-19 during his administration?",
+                    "score": 0.8673,
+                    "answers": "his administration ( 2017|pobj"
+                },
+                {
+                    "question": "What is Covid-19?",
+                    "score": 0.7852,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 05/03/2021 that The former US president repeatedly referred during his administration ( 2017 - 2021 ) to this drug as a possible treatment for Covid-19 and even claimed - months before contracting the virus itself - that he was ingesting it|ROOT\ton 05/03/2021|prep\tthat|mark\tThe|det\tformer|amod\trepeatedly|advmod\tduring his administration ( 2017|prep\this|poss\t(|punct\t2017|npadvmod\t-|punct\t- 2021|prep\t)|punct\tto this drug|prep\tthis|det\tthis drug|pobj\tas a possible treatment for Covid-19|prep\ta|det\tpossible|amod\ta possible treatment for Covid-19|pobj\tfor Covid-19|prep\tCovid-19|pobj\tand|cc\teven|advmod\t-|punct\tcontracting the virus itself|pcomp\tthe|det\tthe virus itself|dobj\titself|appos\t-|punct\tthat|mark\the|nsubj\twas|aux\tit|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In March 2020, following the publication of one of the first drug researches in France, the Republican leader began to talk about “hydroxychloroquine and azithromycin could change the game in the history of medicine”.",
+            "question_answers": [
+                {
+                    "question": "What political party was the leader of France in March 2020?",
+                    "answer": "Republican"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the republican leader say about hydroxychloroquine?",
+                    "score": 0.8431,
+                    "answers": "one of the first drug researches in France|pobj\tthe Republican leader|nsubj"
+                },
+                {
+                    "question": "What is hydroxychloroquine and azithromycin?",
+                    "score": 0.7784,
+                    "answers": "www.forbes.com.mx reported on 05/03/2021 that In March 2020 , following the publication of one of the first drug researches in France , the Republican leader began to talk about “ hydroxychloroquine and azithromycin could change the game in the history of medicine ”|ROOT\tdrug|compound\tthat In March 2020 , following the publication of one of the first drug researches in France , the Republican leader began to talk about “ hydroxychloroquine and azithromycin could change the game in the history of medicine ”|ccomp\tto talk about “ hydroxychloroquine and azithromycin could change the game in the history of medicine ”|xcomp\tabout “ hydroxychloroquine and azithromycin could change the game in the history of medicine ”|prep\thydroxychloroquine and azithromycin|nsubj\thydroxychloroquine and azithromycin could change the game in the history of medicine|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "On those same dates, when Brazil was already the second country in the world with the most cases of Covid-19, Bolsonaro promoted a protocol for the treatment of patients with coronavirus that protects the use of chloroquine and hydroxychloroquine in mild cases.",
+            "question_answers": [
+                {
+                    "question": "Along with chloroquine, what drug is used in mild cases of coronavirus?",
+                    "answer": "hydroxychloroquine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What date did Bolsonaro promote a protocol for the treatment of patients with coronavirus?",
+                    "score": 0.85,
+                    "answers": "On those same dates|prep"
+                },
+                {
+                    "question": "Which countries have the most cases of Covid-19?",
+                    "score": 0.8452,
+                    "answers": "same|amod\tin the world|prep"
+                },
+                {
+                    "question": "How many cases of Covid-19 are there each year in Brazil?",
+                    "score": 0.8148,
+                    "answers": "that|mark\tthose|det\tthe|det\tthe|det\tthe|det\ta|det\tthe|det\tcoronavirus|pobj\tthat|nsubj\tthe|det\tchloroquine and hydroxychloroquine|pobj\tin mild cases|prep\tmild|amod\tmild cases|pobj"
+                },
+                {
+                    "question": "What is the use of chloroquine and hydroxychloroquine?",
+                    "score": 0.7398,
+                    "answers": "the use of chloroquine and hydroxychloroquine in mild cases|dobj"
+                },
+                {
+                    "question": "What is hydroxychloroquine?",
+                    "score": 0.7308,
+                    "answers": "hydroxychloroquine|conj"
+                }
+            ]
+        },
+        {
+            "claim": "“There is no scientific verification yet, but it is being experienced and used in Brazil and around the world.",
+            "question_answers": [
+                {
+                    "question": "In what country is the technology being used?",
+                    "answer": "Brazil"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is there scientific verification in Brazil?",
+                    "score": 0.9076,
+                    "answers": "www.forbes.com.mx reported on 05/03/2021 that “ There is no scientific verification yet , but it is being experienced and used in Brazil and around the world|ROOT\tthat “ There is no scientific verification yet , but it is being experienced and used in Brazil and around the world|ccomp\tno scientific verification|attr"
+                },
+                {
+                    "question": "Where is scientific verification being used in Brazil and around the world?",
+                    "score": 0.7936,
+                    "answers": "around the world|conj\tthe world|pobj"
+                },
+                {
+                    "question": "What is the scientific evidence of the use of technology in Brazil?",
+                    "score": 0.77,
+                    "answers": "on 05/03/2021|prep\tin Brazil and around the world|prep"
+                },
+                {
+                    "question": "What is the use of the technology in Brazil?",
+                    "score": 0.7579,
+                    "answers": "it is being experienced and used in Brazil and around the world|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Anyway: we are at war” and “worst to be defeated is the shame of not having fought,” Bolsonaro then highlighted on his Twitter account.",
+            "question_answers": [
+                {
+                    "question": "Who wrote that \"worst to be defeated is the shame of not having fought\"?",
+                    "answer": "Bolsonaro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the shame of not having fought?",
+                    "score": 0.6958,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 05/03/2021 that Anyway : we are at war ” and “ worst to be defeated is the shame of not having fought|ccomp\ton 05/03/2021|prep\tthat|mark\tAnyway|intj\t:|punct\twe|nsubj\tthat Anyway : we are at war ” and “ worst to be defeated is the shame of not having fought|ccomp\tat war|prep\twar|pobj\t”|punct\tand|cc\t“|punct\tworst to be defeated|nsubj\tto|aux\tbe|auxpass\tto be defeated|relcl\t“ worst to be defeated is the shame of not having fought|conj\tthe|det\tthe shame of not having fought|attr\tof not having fought|prep\tnot|neg\thaving|aux\tnot having fought|pcomp\t,|punct\t”|punct\tthen|advmod\twww.forbes.com.mx reported on 05/03/2021 that Anyway : we are at war ” and “ worst to be defeated is the shame of not having fought , ” Bolsonaro then highlighted on his Twitter account|ROOT\this|poss"
+                }
+            ]
+        },
+        {
+            "claim": "The statements of these world leaders meant that antimalarials had been exhausted for weeks and generated complications for the treatment of patients with lupus or artitris, as reported by several medical organizations.",
+            "question_answers": [
+                {
+                    "question": "When did www.forbes.com.mx report that antimalarials had been exhausted for weeks?",
+                    "answer": "05/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long were antimalarials used to treat patients with lupus or artitris?",
+                    "score": 0.8715,
+                    "answers": "for weeks|prep"
+                },
+                {
+                    "question": "How many patients were treated for the treatment of lupus or artitris?",
+                    "score": 0.8288,
+                    "answers": "of these world leaders|prep"
+                },
+                {
+                    "question": "What was the treatment of patients with lupus?",
+                    "score": 0.8241,
+                    "answers": "lupus or artitris|pobj"
+                },
+                {
+                    "question": "What are antimalarials?",
+                    "score": 0.8229,
+                    "answers": "antimalarials|nsubjpass"
+                }
+            ]
+        }
+    ]
+}

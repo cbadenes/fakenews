@@ -1,0 +1,134 @@
+{
+    "id": "Sociedad_11",
+    "claim": "Just a month after taking over as general manager of the Mets, Jared Porter was dismissed yesterday from office for sending unsolicited explicit text messages and images to a reporter in 2016 when she was part of the Chicago Cubs. Espn revealed Monday night that Porter sent multiple unanswered texts to the woman, including a sex photo. The sports chain said it got a copy of the message history. Hours later, the new owner of the Mets, Steve Cohen, announced on Twitter Porter's dismissal. “There will be no tolerance for this type of behavior,” he said. I'm sorry.",
+    "source": "www.jornada.com.mx",
+    "date": "19/01/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Just a month after taking over as general manager of the Mets, Jared Porter was dismissed yesterday from office for sending unsolicited explicit text messages and images to a reporter in 2016 when she was part of the Chicago Cubs.",
+            "question_answers": [
+                {
+                    "question": "Why was Jared Porter dismissed from office?",
+                    "answer": "sending unsolicited explicit text messages and images to a reporter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why was Jared Porter fired from office?",
+                    "score": 0.8336,
+                    "answers": "www.jornada.com.mx reported on 19/01/2021 that Just a month after taking over as general manager of the Mets , Jared Porter was dismissed yesterday from office for sending unsolicited explicit text messages and images to a reporter in 2016 when she was part of the Chicago Cubs|ROOT\tthat Just a month after taking over as general manager of the Mets , Jared Porter was dismissed yesterday from office for sending unsolicited explicit text messages and images to a reporter in 2016 when she was part of the Chicago Cubs|ccomp\tfrom office|prep"
+                },
+                {
+                    "question": "What position did Jared Porter hold before becoming general manager of the Mets?",
+                    "score": 0.7753,
+                    "answers": "general manager of the Mets|pobj"
+                },
+                {
+                    "question": "When was Jared Porter let go from office?",
+                    "score": 0.7559,
+                    "answers": "office|pobj"
+                },
+                {
+                    "question": "Who did Jared Porter send text messages to in 2016?",
+                    "score": 0.7417,
+                    "answers": "sending unsolicited explicit text messages and images to a reporter in 2016 when she was part of the Chicago Cubs|pcomp\tto a reporter|dative"
+                },
+                {
+                    "question": "What did Porter send to a reporter in 2016?",
+                    "score": 0.7286,
+                    "answers": "unsolicited|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Espn revealed Monday night that Porter sent multiple unanswered texts to the woman, including a sex photo.",
+            "question_answers": [
+                {
+                    "question": "Who revealed that Porter sent multiple unanswered texts to the woman?",
+                    "answer": "Espn"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Porter send to the woman?",
+                    "score": 0.8415,
+                    "answers": "including a sex photo|prep"
+                },
+                {
+                    "question": "What was the relationship between Porter and the woman?",
+                    "score": 0.7683,
+                    "answers": "www.jornada.com.mx reported on 19/01/2021 that Espn revealed Monday night that Porter sent multiple unanswered texts including a sex photo to the woman ,|ROOT\ton 19/01/2021|prep\tthat|mark\tthat Espn revealed Monday night that Porter sent multiple unanswered texts including a sex photo to the woman ,|ccomp\tMonday|compound\tthat|mark\tto the woman|dative\tthe|det\t,|punct\tsex|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The sports chain said it got a copy of the message history.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that it got a copy of the message history?",
+                    "answer": "19/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the sports chain get a copy of the message history?",
+                    "score": 0.8211,
+                    "answers": "that The sports chain said it got a copy of the message history|ccomp\tit got a copy of the message history|ccomp"
+                },
+                {
+                    "question": "What did the sports chain say about the message history?",
+                    "score": 0.7903,
+                    "answers": "The|det"
+                },
+                {
+                    "question": "What is the history of the sports chain?",
+                    "score": 0.7027,
+                    "answers": "The sports chain|nsubj"
+                },
+                {
+                    "question": "What is the link between the email chain and the viral email chain?",
+                    "score": 0.6873,
+                    "answers": "www.jornada.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Hours later, the new owner of the Mets, Steve Cohen, announced on Twitter Porter's dismissal.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report on Porter's dismissal?",
+                    "answer": "19/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the relationship between Steve Cohen and Steve Porter?",
+                    "score": 0.7822,
+                    "answers": "Porter 's|poss"
+                },
+                {
+                    "question": "Who is the new owner of the Mets?",
+                    "score": 0.7573,
+                    "answers": "the new owner of the Mets , Steve Cohen ,|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "“There will be no tolerance for this type of behavior,” he said.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that there would be no tolerance for this type of behavior?",
+                    "answer": "19/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the tolerance for this type of behavior?",
+                    "score": 0.85,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 19/01/2021 that “ There will be no tolerance for this type of behavior|ccomp\ton 19/01/2021|prep\tthat|mark\t“|punct\tThere|expl\twill|aux\tthat “ There will be no tolerance for this type of behavior|ccomp\tno|det\tno tolerance for this type of behavior|attr\tfor this type of behavior|prep\tthis|det\tthis type of behavior|pobj\tof behavior|prep\tbehavior|pobj\t,|punct\t”|punct\the|nsubj\twww.jornada.com.mx reported on 19/01/2021 that “ There will be no tolerance for this type of behavior , ” he said|ROOT"
+                }
+            ]
+        }
+    ]
+}

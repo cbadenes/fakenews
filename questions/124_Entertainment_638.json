@@ -1,0 +1,339 @@
+{
+    "id": "124_Entertainment_638",
+    "claim": "Today, professional wrestler Alberto del Río announced that he left WWE for the second time, just when he was in the middle of a suspension caused by the abuse of certain substances necessary in his relationship with the also fighter, Paige. Del Rio, in a press conference, said that his reason is that he did not feel comfortable working full time, and that he plans to retire in a couple of years after fighting some sixty times more. However, in his tireless search for information truthfulness, El managed to extract the truth from the Potosino.'Yeah, seriously, what happens is that Televisa offered me a Sunday program. They want me to be the new Chabelo.\". “Why is another Chabelo, if Chabelo is eternal?” we ask. “ Yes, but since he wants to engage in other activities for a few decades, he told me to cover it, because the ratings of the channel  have gone down since his program was suspended. Del Rio confessed that he has been training with Chabelo for months in the basements of Chapultepec Castle in order to capture the best of the character.'I know what's up with the cataphixies, with the contests and with Troncoso Furniture. It's all a matter of giving me the green light, and we're starting, like,'. In addition to Paige being the only teacher in the program, another notable change is that Del Rio won't use the word'Now when some child loses the competitions, I'll tell him: You miss, perrooo..!\", he finished. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "09/09/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Today, professional wrestler Alberto del Río announced that professional wrestler Alberto del Río left WWE for the second time, just when professional wrestler Alberto del Río was in the middle of a suspension caused by the abuse of certain substances necessary in relationship with the also fighter, Paige.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why was Alberto del Río suspended from wrestling?",
+                    "score": 0.851,
+                    "answers": "just when professional wrestler Alberto del Río was in the middle of a suspension caused by the abuse of certain substances necessary in relationship with the also fighter , Paige|advcl\tcaused by the abuse of certain substances necessary in relationship with the also fighter , Paige|acl\tby the abuse of certain substances necessary in relationship with the also fighter , Paige|agent"
+                },
+                {
+                    "question": "Why did Alberto del Río leave WWE for a second time?",
+                    "score": 0.8355,
+                    "answers": "that Today , professional wrestler Alberto del Río announced that professional wrestler Alberto del Río left WWE for the second time , just when professional wrestler Alberto del Río was in the middle of a suspension caused by the abuse of certain substances necessary in relationship with the also fighter , Paige|ccomp"
+                },
+                {
+                    "question": "When did Alberto del Rioo leave the WWE?",
+                    "score": 0.8168,
+                    "answers": "just when|advmod"
+                },
+                {
+                    "question": "What did Alberto del Rio do to cause a suspension?",
+                    "score": 0.755,
+                    "answers": "of a suspension caused by the abuse of certain substances necessary in relationship with the also fighter , Paige|prep\ta suspension caused by the abuse of certain substances necessary in relationship with the also fighter , Paige|pobj"
+                },
+                {
+                    "question": "What was the reason for Alberto del Río leaving the company?",
+                    "score": 0.7065,
+                    "answers": "www.eldizque.com reported on 09/09/2016 that Today , professional wrestler Alberto del Río announced that professional wrestler Alberto del Río left WWE for the second time , just when professional wrestler Alberto del Río was in the middle of a suspension caused by the abuse of certain substances necessary in relationship with the also fighter , Paige|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "professional wrestler Alberto del Río , in a press conference, said that reason is that professional wrestler Alberto del Río did not feel comfortable working full time, and that professional wrestler Alberto del Río plans to retire in a couple of years after fighting some sixty times more.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why did Alberto del Río quit working full time?",
+                    "score": 0.8654,
+                    "answers": "www.eldizque.com reported on 09/09/2016 that professional wrestler Alberto del Río , in a press conference , said that reason is that professional wrestler Alberto del Río did not feel comfortable working full time , and that professional wrestler Alberto del Río plans to retire in a couple of years after fighting some sixty times more|ROOT\ton 09/09/2016|prep\tthat|mark\tprofessional|amod\tprofessional wrestler|compound\tAlberto|compound\tdel|compound\tprofessional wrestler Alberto del Río|nsubj\t,|punct\ta|det\tpress|compound\t,|punct\tthat professional wrestler Alberto del Río , in a press conference , said that reason is that professional wrestler Alberto del Río did not feel comfortable working full time , and that professional wrestler Alberto del Río plans to retire in a couple of years after fighting some sixty times more|ccomp\tthat|det\tthat reason|nsubj\tthat reason is that professional wrestler Alberto del Río did not feel comfortable working full time , and that professional wrestler Alberto del Río plans to retire in a couple of years after fighting some sixty times more|ccomp\tthat|mark\tprofessional|amod\tprofessional wrestler|compound\tAlberto|compound\tdel|compound\tprofessional wrestler Alberto del Río|nsubj\tdid|aux\tnot|neg\tcomfortable|acomp\tfull|amod\tfull time|npadvmod\t,|punct\tand|cc\tthat|mark\tprofessional|amod\tprofessional wrestler|compound\tAlberto|compound\tdel|compound\tprofessional wrestler Alberto del Río|nsubj\tto|aux\ta|det\tof years|prep\tyears|pobj\tafter fighting some sixty times more|prep\tsome|quantmod\tsome sixty times|nummod\ttimes|quantmod"
+                },
+                {
+                    "question": "When did Alberto del Rio retire?",
+                    "score": 0.8421,
+                    "answers": "in a couple of years|prep"
+                },
+                {
+                    "question": "How many times has Alberto del Río fought in a year?",
+                    "score": 0.7562,
+                    "answers": "fighting some sixty times more|pcomp"
+                },
+                {
+                    "question": "What is the source of evidence of Alberto del Río's retirement plans?",
+                    "score": 0.7265,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, in tireless search for information truthfulness, professional wrestler Alberto del Río managed to extract the truth from professional wrestler Alberto del Río .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What information did Alberto del Río get from Alberto?",
+                    "score": 0.8338,
+                    "answers": "that|mark\tHowever|advmod\t,|punct\t,|punct\tAlberto|compound\tthe|det\tAlberto|compound"
+                },
+                {
+                    "question": "What was Alberto del Río's relationship with Alberto?",
+                    "score": 0.7747,
+                    "answers": "professional|amod\tprofessional|amod"
+                },
+                {
+                    "question": "Who is Alberto del Río?",
+                    "score": 0.7467,
+                    "answers": "professional wrestler|compound\tprofessional wrestler|compound"
+                },
+                {
+                    "question": "What is the truthfulness of Alberto del Río?",
+                    "score": 0.7308,
+                    "answers": "in tireless search for information truthfulness|prep\ttireless search for information truthfulness|pobj\tfor information truthfulness|prep\tinformation truthfulness|pobj"
+                },
+                {
+                    "question": "What is the truth from Alberto del Río?",
+                    "score": 0.7272,
+                    "answers": "www.eldizque.com reported on 09/09/2016 that However , in tireless search for information truthfulness , professional wrestler Alberto del Río managed to extract the truth from professional wrestler Alberto del Río|ROOT\tto extract the truth from professional wrestler Alberto del Río|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "'Yeah, seriously, what happens is that Televisa offered professional wrestler Alberto del Río a Sunday program .",
+            "question_answers": [
+                {
+                    "question": "Who offered wrestler Alberto del Ro a Sunday program?",
+                    "answer": "Televisa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What programs has Televisa offered Alberto del Río?",
+                    "score": 0.879,
+                    "answers": "www.eldizque.com reported on 09/09/2016 that ' Yeah , seriously , what happens is that Televisa offered professional wrestler Alberto del Río a Sunday program|ROOT\tYeah|intj\tthat Televisa offered professional wrestler Alberto del Río a Sunday program|ccomp\tAlberto|compound\ta|det\ta Sunday program|dobj"
+                },
+                {
+                    "question": "What did Televisa offer Alberto del Río on Sunday program?",
+                    "score": 0.8632,
+                    "answers": "that|mark\t'|punct\t,|punct\tseriously|advmod\t,|punct\twhat|nsubj\twhat happens|csubj\tthat|mark"
+                },
+                {
+                    "question": "Who is Alberto del Río?",
+                    "score": 0.7665,
+                    "answers": "professional wrestler|compound\tprofessional wrestler Alberto del Río|dative"
+                },
+                {
+                    "question": "What is the relationship between Televisa and Alberto del Río?",
+                    "score": 0.7409,
+                    "answers": "professional|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Televisa want professional wrestler Alberto del Río to be the new Chabelo.",
+            "question_answers": [
+                {
+                    "question": "What company wanted professional wrestler Alberto del Ro to be the new Chabelo?",
+                    "answer": "Televisa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who did Televisa want as the new chabelo?",
+                    "score": 0.9024,
+                    "answers": "www.eldizque.com reported on 09/09/2016 that Televisa want professional wrestler Alberto del Río to be the new Chabelo|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of Televisa wanting Alberto del Río to be the new Chabelo?",
+                    "score": 0.8313,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "Who is Alberto del Río?",
+                    "score": 0.8102,
+                    "answers": "professional wrestler Alberto del Río|nsubj"
+                },
+                {
+                    "question": "Who is the new Chabelo?",
+                    "score": 0.7944,
+                    "answers": "the new Chabelo|attr"
+                },
+                {
+                    "question": "What is the relationship between Televisa and Alberto del Rio?",
+                    "score": 0.7909,
+                    "answers": "that|mark\tto|aux\tthe|det\tnew|amod"
+                }
+            ]
+        },
+        {
+            "claim": "“Why is another Chabelo, if Chabelo is eternal?” we ask.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that “Why is another Chabelo, if Chabelo is eternal?”",
+                    "answer": "09/09/2016"
+                },
+                {
+                    "question": "What did www.eldizque.com say on 09/09/2016?",
+                    "answer": "we ask"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Chabelo?",
+                    "score": 0.8237,
+                    "answers": "that “ Why is another Chabelo , if Chabelo is eternal ? ”|ccomp\tanother Chabelo|nsubj\teternal|acomp"
+                },
+                {
+                    "question": "Who is Chabelo?",
+                    "score": 0.8153,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 09/09/2016 that “ Why is another Chabelo , if Chabelo is eternal ? ”|ccomp\ton 09/09/2016|prep\tthat|mark\t“|punct\tWhy|advmod\tanother|det\t,|punct\tif|mark\tif Chabelo is eternal|advcl\t?|punct\t”|punct\twe|nsubj\twww.eldizque.com reported on 09/09/2016 that “ Why is another Chabelo , if Chabelo is eternal ? ” we ask|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "“ Yes, but since Chabelo wants to engage in other activities for a few decades, Chabelo told professional wrestler Alberto del Río to cover it, because the ratings of Televisa  have gone down since a Sunday program was suspended.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com say about Chabelo?",
+                    "answer": "Yes, but since Chabelo wants to engage in other activities for a few decades,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Chabelo tell Alberto del Río to cover Televisa?",
+                    "score": 0.8267,
+                    "answers": "www.eldizque.com reported on 09/09/2016 that “ Yes , but since Chabelo wants to engage in other activities for a few decades , Chabelo told professional wrestler Alberto del Río to cover it , because the ratings of Televisa   have gone down since a Sunday program was suspended|ROOT\tin other activities|prep\tfor a few decades|prep\tthat “ Yes , but since Chabelo wants to engage in other activities for a few decades , Chabelo told professional wrestler Alberto del Río to cover it , because the ratings of Televisa   have gone down since a Sunday program was suspended|ccomp\tsince a Sunday program was suspended|advcl"
+                },
+                {
+                    "question": "What were the ratings of Televisa before the Sunday program was suspended?",
+                    "score": 0.7471,
+                    "answers": "because the ratings of Televisa  |dep\thave gone down since a Sunday program was suspended|ccomp"
+                },
+                {
+                    "question": "What are the ratings of Televisa?",
+                    "score": 0.7213,
+                    "answers": "the ratings of Televisa|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Chabelo and Alberto del Río?",
+                    "score": 0.6214,
+                    "answers": "www.eldizque.com|nsubj\ton 09/09/2016|prep\t,|punct\tsince|mark\tto|aux\ta|det\tfew|amod\t,|punct\tprofessional|amod\tprofessional wrestler|compound\tAlberto|compound\tdel|compound\tprofessional wrestler Alberto del Río|dobj\tto|aux\t,|punct\tbecause|mark\tthe|det\tof Televisa|prep\thave|aux\tdown|advmod\tsince|mark\ta|det\twas|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "professional wrestler Alberto del Río confessed that professional wrestler Alberto del Río has been training with Chabelo for months in the basements of Chapultepec Castle in order to capture the best of Chabelo .",
+            "question_answers": [
+                {
+                    "question": "Where was Alberto del Ro training?",
+                    "answer": "Chapultepec Castle"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has Alberto del Río been training with Chabelo?",
+                    "score": 0.8073,
+                    "answers": "for months|prep"
+                },
+                {
+                    "question": "Where did Alberto del Río meet Chabelo?",
+                    "score": 0.7986,
+                    "answers": "in the basements of Chapultepec Castle|prep\tthe basements of Chapultepec Castle|pobj"
+                },
+                {
+                    "question": "What did Alberto del Rio say about Chabelo?",
+                    "score": 0.7498,
+                    "answers": "Chapultepec|compound"
+                },
+                {
+                    "question": "Who is Chabelo?",
+                    "score": 0.6745,
+                    "answers": "the best of Chabelo|dobj\tof Chabelo|prep"
+                },
+                {
+                    "question": "What is the relationship between Alberto del Rio and Chabelo?",
+                    "score": 0.6703,
+                    "answers": "www.eldizque.com reported on 09/09/2016 that professional wrestler Alberto del Río confessed that professional wrestler Alberto del Río has been training with Chabelo for months in the basements of Chapultepec Castle in order to capture the best of Chabelo|ROOT\ton 09/09/2016|prep\tthat|mark\tprofessional wrestler|compound\tthat professional wrestler Alberto del Río confessed that professional wrestler Alberto del Río has been training with Chabelo for months in the basements of Chapultepec Castle in order to capture the best of Chabelo|ccomp\tthat|mark\tprofessional wrestler|compound\tthat professional wrestler Alberto del Río has been training with Chabelo for months in the basements of Chapultepec Castle in order to capture the best of Chabelo|ccomp\twith Chabelo|prep\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'I know what's up with the cataphixies, with the contests and with Troncoso Furniture.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'I know what's up with the cataphixies, with the contests and with Troncoso Furniture?",
+                    "answer": "09/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the catapixies?",
+                    "score": 0.7233,
+                    "answers": "the cataphixies|pobj"
+                },
+                {
+                    "question": "What is the Troncoso Furniture?",
+                    "score": 0.6973,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is Troncoso Furniture?",
+                    "score": 0.6753,
+                    "answers": "www.eldizque.com reported on 09/09/2016 that ' I know what 's up with the cataphixies , with the contests and with Troncoso Furniture|ROOT\ton 09/09/2016|prep\tthat|mark\t'|punct\tI|nsubj\tthat ' I know what 's up with the cataphixies , with the contests and with Troncoso Furniture|ccomp\twhat|nsubj\twhat 's up with the cataphixies , with the contests and with Troncoso Furniture|ccomp\tup|advmod\twith the cataphixies , with the contests and with Troncoso Furniture|prep\tthe|det\t,|punct\twith the contests and with Troncoso Furniture|conj\tthe|det\tthe contests|pobj\tand|cc\twith Troncoso Furniture|conj"
+                },
+                {
+                    "question": "What is Troncoso furniture?",
+                    "score": 0.6753,
+                    "answers": "Troncoso|compound"
+                }
+            ]
+        },
+        {
+            "claim": "It's all a matter of giving professional wrestler Alberto del Río the green light, and we're starting, like,'.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Who is Alberto del Río?",
+                    "score": 0.799,
+                    "answers": "professional|amod\tprofessional wrestler|compound\tprofessional wrestler Alberto del Río|dative"
+                },
+                {
+                    "question": "What is the green light for Alberto del Rio?",
+                    "score": 0.7781,
+                    "answers": "www.eldizque.com|nsubj\ton 09/09/2016|prep\tgreen|amod\twe 're starting , like ,|conj"
+                },
+                {
+                    "question": "What is the source of evidence of Alberto del Río's green light?",
+                    "score": 0.7616,
+                    "answers": "that|mark\tIt|nsubj\tdel|compound\tthe|det\t,|punct\twe|nsubj\t're|aux\t,|punct\t,|punct\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "In addition to Paige being the only teacher in the program, another notable change is that Del Rio won't use the word'Now when some child loses the competitions, I'll tell him: You miss, perrooo..!\", he finished.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Did Del Rio use the word \"perrooo\"?",
+                    "score": 0.791,
+                    "answers": "n't|neg"
+                },
+                {
+                    "question": "What did Del Rio say about using the word perrooo?",
+                    "score": 0.7033,
+                    "answers": "that In addition to Paige being the only teacher in the program , another notable change is that Del Rio wo n't use the word'Now|ccomp"
+                },
+                {
+                    "question": "What is the name of the program that Del Rio is the only teacher in?",
+                    "score": 0.6241,
+                    "answers": "that|mark\tIn addition to Paige being the only teacher in the program|prep\taddition to Paige being the only teacher in the program|pobj\tonly|amod\tthe only teacher in the program|attr\tin the program|prep\tthe program|pobj\tanother|det\tnotable|amod\tanother notable change|nsubj\tthat|mark\two|aux\tsome child|nsubj\tthe competitions|dobj\t..|punct\t!|punct"
+                },
+                {
+                    "question": "What is the word perrooo?",
+                    "score": 0.5923,
+                    "answers": "perrooo|dep"
+                },
+                {
+                    "question": "What is the meaning of the word \"perrooo\"?",
+                    "score": 0.5695,
+                    "answers": "the word'Now|dobj"
+                }
+            ]
+        }
+    ]
+}

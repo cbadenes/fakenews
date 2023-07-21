@@ -1,0 +1,368 @@
+{
+    "id": "139_Entertainment_622",
+    "claim": "Image copyright youtubeImage chapter From YouTube they indicated that they investigate what happened and work to block strangers' access to Vevo's channels. The YouTube video of the song 'Despacito ', which has harvested more than  millions of hits, was hacked in the last few hours. In addition to the video of Luis Fonsi and Daddy Yankee, other artists ran the same fate, including Shakira, Selena Gomez, Drake and Taylor Swift. The original clips of the songs of these artists had been published by the music video site Vevo on YouTube. The video of 'Despacito 'was removed by computer hackers and instead appeared an image of a group of people wielding weapons, with their faces covered with masks, which belongs to the Spanish television series 'La casa de papel'. In addition, the self-named Kuroi'sh & Prosox hackers wrote the message'Free Palestine\". Image Copyright YouTubeImage caption Self-titled hackers Kuroi'sh & Prosox also altered titles from several videos. Many video titles were altered to include hacker names and in only a few the promotional image had been replaced. Under investigation 'After seeing abnormal activities on some of Vevo's channels, we worked quickly with our partners to block access while investigating what happened ', a YouTube spokesperson told the BBC. Vevo, for his part, indicated that they are working to restore the videos affected. They also investigate what happened. The music content site had suffered an attack in September from  when many of its files were stolen and leaked on the internet. A Twitter account, which apparently belongs to hackers, posted the following message: 'It's just for fun. I use the YouTube video title format and write 'hacked''. 'Don't judge me, I love YouTube ', it was read in the message. I'm sorry.",
+    "source": "www.bbc.com",
+    "date": "10/04/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Image copyright youtubeImage chapter From YouTube they indicated that they investigate what happened and work to block strangers' access to the self-named Kuroi'sh & Prosox hackers .",
+            "question_answers": [
+                {
+                    "question": "What is the name of the self-named hackers that the bbc is trying to block access to on youtube?",
+                    "answer": "Kuroi'sh & Prosox"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the hackers do to block access to Kuroi'sh & Prosox hackers?",
+                    "score": 0.6983,
+                    "answers": "on 10/04/2018|prep"
+                },
+                {
+                    "question": "What are the names of the hackers that are linked to youtube?",
+                    "score": 0.6052,
+                    "answers": "self - named|amod"
+                },
+                {
+                    "question": "What was the purpose of the hackers?",
+                    "score": 0.5929,
+                    "answers": "that they investigate what happened and work to block strangers ' access to the self - named Kuroi'sh & Prosox hackers|ccomp"
+                },
+                {
+                    "question": "What is the link between youtube and hackers?",
+                    "score": 0.5827,
+                    "answers": "www.bbc.com reported on 10/04/2018 that Image copyright youtubeImage chapter|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the link between the hackers and the hackers?",
+                    "score": 0.5797,
+                    "answers": "Image|dep\tImage copyright|nummod\t'|case\t&|cc"
+                }
+            ]
+        },
+        {
+            "claim": "The YouTube video of the song 'Despacito ', which has harvested more than  millions of hits , was hacked in the last few hours.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many hits does Despacito have?",
+                    "score": 0.8,
+                    "answers": "The YouTube video of the song ' Despacito ' , which has harvested more than   millions of hits|nsubjpass\tof the song ' Despacito ' , which has harvested more than|prep"
+                },
+                {
+                    "question": "How many hits has the song \"Despacito' harvested in the last few hours?",
+                    "score": 0.7726,
+                    "answers": "which has harvested more than|relcl\tin the last few hours|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In addition to The YouTube video of the song 'Despacito ', which has harvested more than  millions of hits , other artists ran the same fate, including Shakira, Selena Gomez, Drake and Taylor Swift.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Which artists have harvested more than one million hits?",
+                    "score": 0.8437,
+                    "answers": "Selena Gomez , Drake and Taylor Swift|conj"
+                },
+                {
+                    "question": "What other artists have harvested millions of hits?",
+                    "score": 0.8221,
+                    "answers": "other|amod"
+                },
+                {
+                    "question": "How many hits has the song Despacito received?",
+                    "score": 0.8184,
+                    "answers": "on 10/04/2018|prep\tthe|det\thas|aux\tmore than|amod\tof hits|prep\tthe|det"
+                },
+                {
+                    "question": "How many hits does Despacito have?",
+                    "score": 0.8114,
+                    "answers": "In addition to The YouTube video of the song ' Despacito ' , which has harvested more than|prep\taddition to The YouTube video of the song ' Despacito ' , which has harvested more than|pobj\tThe YouTube video of the song ' Despacito ' , which has harvested more than|pobj\tthat In addition to The YouTube video of the song ' Despacito ' , which has harvested more than   millions of hits|dep"
+                },
+                {
+                    "question": "How many hits did the song Despacito have?",
+                    "score": 0.806,
+                    "answers": "that|mark\tThe|det\t,|punct\twhich|nsubj\tthan|prep\t,|punct\t,|punct\t,|punct\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "The original clips of the songs of these artists had been published by they on YouTube .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Who published the original clips of the songs of these artists on youtube?",
+                    "score": 0.8032,
+                    "answers": "www.bbc.com|nsubj\ton 10/04/2018|prep\tthat|mark\tThe|det\tthe|det\tof these artists|prep\tthese|det\thad|aux\tbeen|auxpass\tthat The original clips of the songs of these artists had been published by they on YouTube|ccomp\tby they|agent\tthey|pobj\ton YouTube|prep\tYouTube|pobj"
+                },
+                {
+                    "question": "What are the original recordings of the artists on youtube?",
+                    "score": 0.6957,
+                    "answers": "the songs of these artists|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The YouTube video of the song 'Despacito ', which has harvested more than  millions of hits was removed by computer hackers and instead appeared an image of the song 'Despacito ' .",
+            "question_answers": [
+                {
+                    "question": "What did the youtube video of the song 'Despacito' appear to be?",
+                    "answer": "an image of the song 'Despacito"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many hits has the song \"Despacito\" had?",
+                    "score": 0.8146,
+                    "answers": "  millions of hits|dep"
+                },
+                {
+                    "question": "How many hits does Despacito have?",
+                    "score": 0.8089,
+                    "answers": "The YouTube video of the song ' Despacito ' , which has harvested more than   millions of hits|nsubjpass\tmillions of hits|dobj\tof hits|prep\thits|pobj"
+                },
+                {
+                    "question": "How many hits did computer hackers harvest from Despacito?",
+                    "score": 0.7963,
+                    "answers": "which has harvested|relcl"
+                },
+                {
+                    "question": "What did hackers do with the video of Despacito?",
+                    "score": 0.7888,
+                    "answers": "instead appeared an image of the song ' Despacito '|conj"
+                },
+                {
+                    "question": "What did computer hackers do to remove the image of Despacito?",
+                    "score": 0.7829,
+                    "answers": "that|mark\tThe|det\tthe|det\t,|punct\twhich|nsubj\twas|auxpass\tcomputer|compound\tand|cc\tan|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, a group of people wielding weapons, with their faces covered with masks, which belongs to the Spanish television series 'La casa de papel' wrote the message'Free Palestine\".",
+            "question_answers": [
+                {
+                    "question": "What Spanish television series did the group of people wielding weapons belong to?",
+                    "answer": "'La casa de papel'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who wrote the message Free Palestine?",
+                    "score": 0.7796,
+                    "answers": "on 10/04/2018|prep\tof people wielding weapons|prep"
+                },
+                {
+                    "question": "What does the Spanish television series La casa de papel do?",
+                    "score": 0.7423,
+                    "answers": "In addition|prep\taddition|pobj\t,|punct\twielding weapons|acl\tweapons|dobj\t,|punct\twith|mark\t,|punct\twhich|nsubj\t'|punct\tde|nmod\t'|punct\tPalestine|appos\t\"|punct"
+                },
+                {
+                    "question": "What is the name of the group that wrote the \"Free Palestine\" message?",
+                    "score": 0.6967,
+                    "answers": "their faces|nsubj"
+                },
+                {
+                    "question": "What is La casa de papel?",
+                    "score": 0.638,
+                    "answers": "a group of people wielding weapons , with their faces covered with masks , which belongs to the Spanish television series ' La casa de papel '|nsubj\twhich belongs to the Spanish television series ' La casa de papel '|relcl\tto the Spanish television series ' La casa de papel '|prep\ttelevision|compound\tthe Spanish television series ' La casa de papel '|pobj\tLa casa|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "Image Copyright YouTubeImage caption a group of people wielding weapons, with their faces covered with masks, which belongs to the Spanish television series 'La casa de papel' also altered titles from several videos.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the Spanish television series?",
+                    "answer": "'La casa de papel'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Spanish television series La casa de papel do?",
+                    "score": 0.7141,
+                    "answers": "wielding weapons|acl\tweapons|dobj"
+                },
+                {
+                    "question": "What are the names of the group of people wielding weapons with masks?",
+                    "score": 0.6223,
+                    "answers": "their faces covered with masks|pcomp"
+                },
+                {
+                    "question": "What is La casa de papel?",
+                    "score": 0.6208,
+                    "answers": "on 10/04/2018|prep\tthat|mark\tImage|nmod\tcaption|punct\ta|det\ta group of people wielding weapons , with their faces covered with masks , which belongs to the Spanish television series ' La casa de papel '|nsubj\t,|punct\t,|punct\twhich|nsubj\twhich belongs to the Spanish television series ' La casa de papel '|relcl\tto the Spanish television series ' La casa de papel '|prep\tthe|det\ttelevision|compound\tthe Spanish television series ' La casa de papel '|pobj\t'|punct\tLa|compound\tde papel|prep\tpapel|pobj\t'|punct\talso|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Many video titles were altered to include hacker names and in only a few the promotional image had been replaced.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many video titles were altered to include hacker names?",
+                    "score": 0.8178,
+                    "answers": "www.bbc.com reported on 10/04/2018 that Many video titles were altered to include hacker names and in only a few the promotional image had been replaced|ROOT\tMany|amod\tvideo|compound\tMany video titles|nsubjpass\tthat Many video titles were altered to include hacker names and in only a few the promotional image had been replaced|ccomp"
+                },
+                {
+                    "question": "How many hacker names were added in 2018?",
+                    "score": 0.7682,
+                    "answers": "on 10/04/2018|prep"
+                },
+                {
+                    "question": "What are hacker names?",
+                    "score": 0.7666,
+                    "answers": "to include hacker names|advcl\thacker|compound\thacker names|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the hacker names in hacker videos?",
+                    "score": 0.7323,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Under investigation 'After seeing abnormal activities on Vevo's channels , YouTube worked quickly with partners to block access while investigating what happened ', a YouTube spokesperson told the BBC.",
+            "question_answers": [
+                {
+                    "question": "When did youtube block access to Vevo's channels?",
+                    "answer": "'After seeing abnormal activities on Vevo's channels"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between youtube and Vevo?",
+                    "score": 0.5882,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 10/04/2018 that Under investigation ' After seeing abnormal activities on Vevo 's channels , YouTube worked quickly with partners to block access while investigating what happened ' , a YouTube spokesperson told the BBC|ROOT\ton 10/04/2018|prep\tthat|mark\tUnder investigation|prep\tinvestigation|pobj\t'|punct\tAfter seeing abnormal activities on Vevo 's channels|prep\tseeing abnormal activities on Vevo 's channels|pcomp\tabnormal|amod\tabnormal activities on Vevo 's channels|dobj\ton Vevo 's channels|prep\tVevo 's|poss\t's|case\tVevo 's channels|pobj\t,|punct\tAfter seeing abnormal activities on Vevo 's channels , YouTube worked quickly with partners to block access while investigating what happened|ccomp\tquickly|advmod\twith partners|prep\tpartners|pobj\tto|aux\tto block access while investigating what happened|advcl\taccess|dobj\twhile|mark\twhile investigating what happened|advcl\twhat|nsubj\twhat happened|ccomp\t'|punct\t,|punct\ta|det\ta YouTube spokesperson|nsubj\tthat Under investigation ' After seeing abnormal activities on Vevo 's channels , YouTube worked quickly with partners to block access while investigating what happened ' , a YouTube spokesperson told the BBC|ccomp\tthe|det\tthe BBC|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "they , for part, indicated that they are working to restore Vevo's channels .",
+            "question_answers": [
+                {
+                    "question": "Who indicated that they are working to restore Vevo's channels?",
+                    "answer": "they"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What channels are Vevo trying to restore?",
+                    "score": 0.8625,
+                    "answers": "that|mark\tthey|nsubj\t,|punct\tfor part|prep\tpart|pobj\t,|punct\tthat|mark\tthey|nsubj\tare|aux\tto|aux\tVevo 's|poss\t's|case\tVevo 's channels|dobj"
+                },
+                {
+                    "question": "What did Vevo do to restore their channels?",
+                    "score": 0.8523,
+                    "answers": "www.bbc.com reported on 10/04/2018 that they , for part , indicated that they are working to restore Vevo 's channels|ROOT\tthat they are working to restore Vevo 's channels|ccomp\tto restore Vevo 's channels|advcl"
+                },
+                {
+                    "question": "What is Vevo's channel?",
+                    "score": 0.7253,
+                    "answers": "on 10/04/2018|prep\tthat they , for part , indicated that they are working to restore Vevo 's channels|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The music content site had suffered an attack in September from  when many of its files were stolen and leaked on the internet.",
+            "question_answers": [
+                {
+                    "question": "When did the music content site suffer an attack?",
+                    "answer": "September"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the music content site that suffered an attack in September 2018?",
+                    "score": 0.7365,
+                    "answers": "music content|compound"
+                },
+                {
+                    "question": "How many files were leaked on the internet in September?",
+                    "score": 0.7193,
+                    "answers": "www.bbc.com reported on 10/04/2018 that The music content site had suffered an attack from many of its files were stolen and   when leaked on the internet in September|ROOT\tfrom many of its files were stolen and   when leaked on the internet|prep\tmany of its files were stolen and   when leaked on the internet|pobj"
+                },
+                {
+                    "question": "What was the result of the attack on the website?",
+                    "score": 0.6968,
+                    "answers": "an attack from many of its files were stolen and   when leaked on the internet|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the stolen files on the internet?",
+                    "score": 0.6256,
+                    "answers": "on the internet|prep"
+                }
+            ]
+        },
+        {
+            "claim": "A Twitter account, which apparently belongs to hackers, posted the following message: 'It's just for fun.",
+            "question_answers": [
+                {
+                    "question": "What was the message posted by a hacker on Twitter?",
+                    "answer": "'It's just for fun"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did hackers say on Twitter in 2018?",
+                    "score": 0.8473,
+                    "answers": ",|punct\t,|punct\tIt|nsubj\tfun|pobj"
+                },
+                {
+                    "question": "What is the name of the verified Twitter account that was claimed to belong to hackers?",
+                    "score": 0.7997,
+                    "answers": "that|mark\twhich|nsubj\tthe|det\tthe following message : ' It 's just for fun|dobj\t:|punct\tIt 's just for fun|appos\tjust|advmod"
+                },
+                {
+                    "question": "What is the relationship between hackers and hackers on Twitter?",
+                    "score": 0.7836,
+                    "answers": "on 10/04/2018|prep\tto hackers|prep\tjust for fun|prep"
+                }
+            ]
+        },
+        {
+            "claim": "I use the YouTube video title format and write 'hacked''.",
+            "question_answers": [
+                {
+                    "question": "What video format did bbc.com report that I used to write 'hacked''?",
+                    "answer": "YouTube"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the youtube video title format?",
+                    "score": 0.7251,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 10/04/2018 that I use the YouTube video title format and write ' hacked ''|ROOT\tthat|mark\tI|nsubj\tthe|det\tYouTube video|compound\ttitle|compound\tthe YouTube video title format|dobj\tand|cc\t'|punct\t''|punct"
+                },
+                {
+                    "question": "What is the YouTube video title format?",
+                    "score": 0.7251,
+                    "answers": "on 10/04/2018|prep\tthat I use the YouTube video title format and write ' hacked ''|ccomp\twrite ' hacked ''|conj\thacked|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Don't judge me, I love YouTube ', it was read in the message.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com say in a message on 10/04/2018?",
+                    "answer": "'Don't judge me, I love YouTube"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the message posted on youtube in 2018?",
+                    "score": 0.6339,
+                    "answers": "www.bbc.com reported on 10/04/2018 that ' Do n't judge me , I love YouTube|ccomp\tDo n't judge me|advcl\tthat ' Do n't judge me , I love YouTube|parataxis"
+                },
+                {
+                    "question": "What is the source of evidence of the message that was read in the message?",
+                    "score": 0.5795,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

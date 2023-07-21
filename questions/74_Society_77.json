@@ -1,0 +1,216 @@
+{
+    "id": "74_Society_77",
+    "claim": "The first fragrance designed for men and women who want to know what it feels like to live in Mexico City and also for the capitals who have had to leave the metropolis and miss the scent that can only be experienced at home. The creation of this product is due to the prestigious French house Parfumerie Fregonare Aix-en-Provence, and will be the sensation this summer. This reporter was sent to France to talk with Collete Cucomont, president of the Fregonare:'Our engineers have spent years trying to synthesize the traditional aromas of Mexico City, because we have seen that many people when they leave there, even smile when a truck smokes, as that reminds them of their city. That's why, after a lot of work, we finally made it and made the presentation of Eau de Chilang, the first fragrance made and designed for chilangos'. This fragrance, according to Cucomont, contains various aromas, such as gasoline, sweat of the metro in the afternoons, sweat and shepherd, pink venus, tamale and champurrado, as well as the classic Milanese cake with quesillo and chilaquil with egg; and, of course, guava and tamarind monkey, stadium beer and golden gut. 'The fixator of this fragrance is based on Resistol , so that the aroma is even more pleasant for those who use it, and feels that, no matter where it is, it will carry with it the essence of Mexico City ', added Madame Cucomont. The Fregonare house also prepares Changoleon, a lotion for after shaving, and an extra-concentrated perfume to be called Jamaicon * NUMBER*. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "20/06/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The first fragrance designed for men and women who want to know what it feels like to live in Mexico City and also for the capitals who have had to leave Mexico City and miss the scent that can only be experienced at home.",
+            "question_answers": [
+                {
+                    "question": "Where can one experience the scent of eldizque?",
+                    "answer": "at home"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the first fragrance designed for men and women who want to know what like to live in Mexico City?",
+                    "score": 0.7823,
+                    "answers": "that The first fragrance designed for men and women who want to know it feels what like to live in Mexico City and also for the capitals who have had to leave Mexico City and miss the scent that can only be experienced at home|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The creation of this product is due to the prestigious French house Parfumerie Fregonare Aix-en-Provence , and will be the sensation this summer.",
+            "question_answers": [
+                {
+                    "question": "Who is responsible for the creation of this product?",
+                    "answer": "Parfumerie Fregonare Aix-en-Provence"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who created the Parfumerie Fregonare Aix-en-Provence?",
+                    "score": 0.8489,
+                    "answers": "The creation of this product|nsubj\tof this product|prep\tthis product|pobj"
+                },
+                {
+                    "question": "What was the name of the French house Parfumerie Fregonare Aix-en-Provence?",
+                    "score": 0.759,
+                    "answers": "will be the sensation this summer|conj"
+                },
+                {
+                    "question": "What is Parfumerie Fregonare Aix-en-Provence?",
+                    "score": 0.7167,
+                    "answers": "www.eldizque.com reported on 20/06/2017 that The creation of this product is due to the prestigious French house Parfumerie Fregonare Aix - en - Provence , and will be the sensation this summer|ROOT\ton 20/06/2017|prep\tthat|mark\tThe|det\tthis|det\tthat The creation of this product is due to the prestigious French house Parfumerie Fregonare Aix - en - Provence , and will be the sensation this summer|ccomp\tdue to the prestigious French house Parfumerie Fregonare Aix - en - Provence|acomp\tto the prestigious French house Parfumerie Fregonare Aix - en - Provence|prep\tthe|det\tprestigious|amod\tthe prestigious French house Parfumerie Fregonare Aix - en - Provence|pobj\tParfumerie|compound\tFregonare|compound\tAix - en -|nmod\t-|punct\ten|compound\ten -|conj\tParfumerie Fregonare Aix - en - Provence|appos\t,|punct\tand|cc\twill|aux\tthe|det\tthe sensation|attr\tthis|det"
+                }
+            ]
+        },
+        {
+            "claim": "This reporter was sent to France to talk with Collete Cucomont, president of the Fregonare:'Our engineers have spent years trying to synthesize the traditional aromas of Mexico City , because the prestigious French house Parfumerie Fregonare Aix-en-Provence have seen that many people when many people leave there, even smile when a truck smokes , as smokes reminds many people of Mexico City .",
+            "question_answers": [
+                {
+                    "question": "What reminds many people of Mexico City?",
+                    "answer": "a truck smokes"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people smoke marijuana in Mexico City?",
+                    "score": 0.6215,
+                    "answers": "many people|nsubj\tmany people|nsubj\twhen many people leave there|advcl\tthat many people when many people leave there , even smile when a truck smokes , as smokes reminds many people of Mexico City|ccomp\ta truck|nsubj\tsmokes|nsubj\tmany people|dobj"
+                },
+                {
+                    "question": "What are the traditional aromas of Mexico City?",
+                    "score": 0.5828,
+                    "answers": "engineers have spent years trying to synthesize the traditional aromas of Mexico City , because the prestigious French house Parfumerie Fregonare Aix - en - Provence have seen that many people when many people leave there , even smile when a truck smokes , as smokes reminds many people of Mexico City|ROOT\ttrying to synthesize the traditional aromas of Mexico City ,|xcomp\tto synthesize the traditional aromas of Mexico City|xcomp\tas smokes reminds many people of Mexico City|advcl"
+                },
+                {
+                    "question": "What is the name of the French house Parfumerie Fregonare Aix-en-Provence?",
+                    "score": 0.5598,
+                    "answers": "prestigious|amod"
+                },
+                {
+                    "question": "What is Parfumerie Fregonare Aix-en-Provence?",
+                    "score": 0.5356,
+                    "answers": "www.eldizque.com|nsubj\tthe prestigious French house Parfumerie Fregonare Aix - en - Provence|nsubj\tParfumerie|compound\tAix|nmod\tParfumerie Fregonare Aix - en - Provence|appos\tbecause the prestigious French house Parfumerie Fregonare Aix - en - Provence have seen that many people when many people leave there , even smile when a truck smokes , as smokes reminds many people of Mexico City|advcl"
+                },
+                {
+                    "question": "Who is Collete Cucomont president of Fregonare?",
+                    "score": 0.5304,
+                    "answers": "that This reporter was sent to France to talk with Collete Cucomont , president of the Fregonare:'Our|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "That's why, after a lot of work, the prestigious French house Parfumerie Fregonare Aix-en-Provence finally made it and made the presentation of this product '.",
+            "question_answers": [
+                {
+                    "question": "What did Parfumerie Fregonare Aix-en-Provence do?",
+                    "answer": "made the presentation of this product"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who made the presentation of the Parfumerie Fregonare Aix-en-Provence product?",
+                    "score": 0.7998,
+                    "answers": "of this product|prep"
+                },
+                {
+                    "question": "What did Fregonare Aix-en-Provence do to make it possible?",
+                    "score": 0.7816,
+                    "answers": "a lot of work|pobj"
+                },
+                {
+                    "question": "What is Parfumerie Fregonare Aix-en-Provence?",
+                    "score": 0.6981,
+                    "answers": "of work|prep\twork|pobj\tprestigious|amod\tthe prestigious French house Parfumerie Fregonare Aix - en - Provence|nsubj\tParfumerie|compound\tAix|compound\tParfumerie Fregonare Aix - en - Provence|appos"
+                }
+            ]
+        },
+        {
+            "claim": "this product , according to Collete Cucomont, president of the Fregonare:'Our , contains various aromas, such as gasoline, sweat of the metro in the afternoons, sweat and shepherd, pink venus, tamale and champurrado, as well as the classic Milanese cake with quesillo and chilaquil with egg; and, of course, guava and tamarind monkey, stadium beer and golden gut.",
+            "question_answers": [
+                {
+                    "question": "Collete Cucomont is president of what organization?",
+                    "answer": "Fregonare:'Our"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What ingredients does guava and tamarind monkey have with egg?",
+                    "score": 0.8109,
+                    "answers": "with quesillo and chilaquil with egg|prep"
+                },
+                {
+                    "question": "What type of aromas does champurrado contain?",
+                    "score": 0.7849,
+                    "answers": "champurrado|conj"
+                },
+                {
+                    "question": "How many aromas does Fregonare:'Our contain?",
+                    "score": 0.6882,
+                    "answers": "that this product , according to Collete Cucomont , president of the Fregonare:'Our , contains various aromas , such as gasoline , sweat of the metro in the afternoons , sweat and shepherd , pink venus , tamale and champurrado , as well as the classic Milanese cake with quesillo and chilaquil with egg ; and , of course , guava and tamarind monkey , stadium beer and golden gut|ccomp"
+                },
+                {
+                    "question": "What are the aromas of guava and tamarind monkey?",
+                    "score": 0.674,
+                    "answers": "various aromas , such as gasoline , sweat of the metro in the afternoons , sweat and shepherd , pink venus , tamale and champurrado , as well as the classic Milanese cake with quesillo and chilaquil with egg ; and , of course , guava and tamarind monkey , stadium beer and golden gut|dobj"
+                },
+                {
+                    "question": "What type of egg is in Fregonare?",
+                    "score": 0.6497,
+                    "answers": "with egg|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'The fixator of this product is based on Resistol , so that the aroma is even more pleasant for those who use this product , and feels that, no matter where this product is, this product will carry with this product the essence of Mexico City ', added Collete Cucomont, president of the Fregonare:'Our .",
+            "question_answers": [
+                {
+                    "question": "What is the fixator of the product based on?",
+                    "answer": "Resistol"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What ingredients are in the Fregonare product?",
+                    "score": 0.7833,
+                    "answers": "for those who use this product|prep\twho use this product|relcl"
+                },
+                {
+                    "question": "What is the main components of Resistol?",
+                    "score": 0.7297,
+                    "answers": "on Resistol|prep"
+                },
+                {
+                    "question": "What is the origin of Resistol?",
+                    "score": 0.7257,
+                    "answers": "of Mexico City|prep"
+                },
+                {
+                    "question": "What is the name of the fixator that is based on Resistol?",
+                    "score": 0.7113,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 20/06/2017 that ' The fixator of this product is based on Resistol , so that the aroma is even more pleasant for those who use this product , and feels that , no matter where this product is , this product will carry with this product the essence of Mexico City ' , added Collete Cucomont , president of the Fregonare:'Our|ROOT"
+                },
+                {
+                    "question": "What is Collete Cucomont's relationship with Resistol?",
+                    "score": 0.6986,
+                    "answers": "Collete|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The Fregonare house also prepares Changoleon, a lotion for after shaving, and an extra-concentrated perfume to be called Jamaicon * NUMBER*.",
+            "question_answers": [
+                {
+                    "question": "What is the extra-concentrated perfume Changoleon called?",
+                    "answer": "Jamaicon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Fregonare house do to prepare Changoleon?",
+                    "score": 0.775,
+                    "answers": "* NUMBER|dep"
+                },
+                {
+                    "question": "What kind of perfume is made at Fregonare house?",
+                    "score": 0.7135,
+                    "answers": "that The Fregonare house also prepares Changoleon , a lotion for after shaving , and an extra - concentrated perfume to be called Jamaicon|ccomp"
+                },
+                {
+                    "question": "What is the name of the extra concentrated perfume made by the Fregonare house?",
+                    "score": 0.6288,
+                    "answers": "an extra - concentrated perfume to be called Jamaicon|conj"
+                },
+                {
+                    "question": "Where is the Fregonare house located?",
+                    "score": 0.6207,
+                    "answers": "for after shaving|prep"
+                }
+            ]
+        }
+    ]
+}

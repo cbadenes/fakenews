@@ -1,0 +1,262 @@
+{
+    "id": "52_Society_79",
+    "claim": "In an unprecedented fact, the Supreme Court of Justice of the Nation ruled in favor of the transnational corporation Monsanto, granting it all rights over the so-called possilero corn. The controversial leading company in genetic engineering, which has been, over the years, heavily criticized throughout the world, showed its satisfaction with this resolution by granting a donation of half a million dollars to each of the judges. Adri Linder, spokeswoman for Monsanto in Mexico, announced what will happen now with the corn tanker:'Our company welcomes this impartial decision of Mexican judges. This will allow us to take control of what they call hoop corn, which will now be renamed Big Fat American Corn'. Monsanto will classify the big fat American corn types with the following keys:The impact this will have for the oil industry in Mexico can still not be calculated, since Monsanto will use % of the production of Big Fat American Corn® to fatten the four-legged four-legged mutant chickens of Kentucky Fried Chicken. 'We will let the people of Mexico continue to do their pozole ', Linder said.'But now you'll have to call it Monsanto Soup'. Monsanto will charge % of the net sale of Monsanto Soup ® in each Monsanto Soup Restaurant ®. The company's next target is beans. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "11/07/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "In an unprecedented fact, the Supreme Court of Justice of the Nation ruled in favor of the transnational corporation Monsanto, granting it all rights over the so-called possilero corn.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that the Supreme Court of Justice of the Nation ruled in favor of Monsanto?",
+                    "answer": "11/07/2017"
+                },
+                {
+                    "question": "What rights did the Supreme Court grant Monsanto?",
+                    "answer": "all rights over the so-called possilero corn"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Supreme Court of Justice of the Nation rule about Monsanto?",
+                    "score": 0.7894,
+                    "answers": "www.eldizque.com|nsubj\tunprecedented|amod"
+                },
+                {
+                    "question": "What is Monsanto's relationship with the transnational corporation Monsanto?",
+                    "score": 0.7385,
+                    "answers": "www.eldizque.com reported on 11/07/2017 that In an unprecedented fact , the Supreme Court of Justice of the Nation ruled in favor of the transnational corporation Monsanto , granting it all rights over the so - called possilero corn|ROOT\tan|det\t,|punct\tin favor of the transnational corporation Monsanto|prep\t,|punct\t-|punct"
+                },
+                {
+                    "question": "What is the relationship between Monsanto and the transnational corporation?",
+                    "score": 0.7084,
+                    "answers": "transnational|amod"
+                },
+                {
+                    "question": "What is Monsanto?",
+                    "score": 0.6663,
+                    "answers": "of the transnational corporation Monsanto|prep\tthe transnational corporation Monsanto|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Monsanto and possilero corn?",
+                    "score": 0.666,
+                    "answers": "over the so - called possilero corn|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The controversial leading company in genetic engineering, which has been, over the years, heavily criticized throughout the world, showed its satisfaction with this resolution by granting a donation of half a million dollars to each of the judges.",
+            "question_answers": [
+                {
+                    "question": "How much money did eldizque give to each of the judges?",
+                    "answer": "half a million dollars"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the company donate to the judges?",
+                    "score": 0.7552,
+                    "answers": "granting a donation of half a million dollars to each of the judges|pcomp"
+                },
+                {
+                    "question": "How much money didldizque donate to each judge?",
+                    "score": 0.7152,
+                    "answers": "half a million|nummod"
+                },
+                {
+                    "question": "What is the name of the controversial leading company in genetic engineering?",
+                    "score": 0.6997,
+                    "answers": "The controversial leading company in genetic engineering , which has been , over the years , heavily criticized throughout the world ,|nsubj\tthat The controversial leading company in genetic engineering , which has been , over the years , heavily criticized throughout the world , showed its satisfaction with this resolution by granting a donation of half a million dollars to each of the judges|ccomp"
+                },
+                {
+                    "question": "What is genetic engineering?",
+                    "score": 0.6505,
+                    "answers": "genetic engineering|pobj"
+                },
+                {
+                    "question": "What is the relationship between Eldizque and genetic engineering?",
+                    "score": 0.6041,
+                    "answers": "each of the judges|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Adri Linder, spokeswoman for Monsanto in Mexico, announced what will happen now with the corn tanker:'Our company welcomes this impartial decision of Mexican judges.",
+            "question_answers": [
+                {
+                    "question": "What kind of decision did Monsanto welcome?",
+                    "answer": "impartial decision"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Adri Linder say about Monsanto in Mexico?",
+                    "score": 0.8136,
+                    "answers": "spokeswoman for Monsanto in Mexico|appos\tfor Monsanto in Mexico|prep\tMonsanto in Mexico|pobj"
+                },
+                {
+                    "question": "What will happen with the corn tanker?",
+                    "score": 0.7712,
+                    "answers": "what will happen now with the corn tanker:'Our|ccomp"
+                },
+                {
+                    "question": "What is the name of the corn tanker that Adri Linder owns?",
+                    "score": 0.7175,
+                    "answers": "with the corn tanker:'Our|prep\tthe corn tanker:'Our|pobj"
+                },
+                {
+                    "question": "What is the relationship between Monsanto and Adri Linder?",
+                    "score": 0.6601,
+                    "answers": "www.eldizque.com reported on 11/07/2017 that Adri Linder , spokeswoman for Monsanto in Mexico , announced what will happen now with the corn tanker:'Our company welcomes this impartial decision of Mexican judges|ROOT\tAdri Linder , spokeswoman for Monsanto in Mexico ,|nsubj\tof Mexican judges|prep"
+                }
+            ]
+        },
+        {
+            "claim": "This will allow us to take control of what they call hoop corn, which will now be renamed Big Fat American Corn'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that this will allow us to take control of what they call hoop corn?",
+                    "answer": "11/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Big Fat American Corn?",
+                    "score": 0.793,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 11/07/2017 that This will allow us to take control of what they call hoop corn , which will now be renamed Big Fat American Corn '|ROOT\ton 11/07/2017|prep\tthat|mark\tThis|nsubj\twill|aux\tthat This will allow us to take control of what they call hoop corn , which will now be renamed Big Fat American Corn|ccomp\tus|nsubj\tto|aux\tus to take control of what they call hoop corn , which will now be renamed Big Fat American Corn|ccomp\tcontrol of what they call hoop corn , which will now be renamed Big Fat American Corn|dobj\tof what they call hoop corn , which will now be renamed Big Fat American Corn|prep\twhat|dobj\tthey|nsubj\twhat they call hoop corn , which will now be renamed Big Fat American Corn|pcomp\thoop|compound\thoop corn , which will now be renamed Big Fat American Corn|oprd\t,|punct\twhich|nsubjpass\twill|aux\tnow|advmod\tbe|auxpass\twhich will now be renamed Big Fat American Corn|relcl\tBig|amod\tBig Fat|compound\tAmerican|compound\tBig Fat American Corn|oprd\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Monsanto will classify the big fat American corn types with the following keys:The impact this will have for the oil industry in Mexico can still not be calculated, since Monsanto will use % of the production of Big Fat American Corn® to fatten the four-legged four-legged mutant chickens of Kentucky Fried Chicken.",
+            "question_answers": [
+                {
+                    "question": "What will Monsanto use % of the production of Big Fat American Corn® to fatten the four-legged four-legged mutant chickens?",
+                    "answer": "Monsanto will use % of the production of Big Fat American Corn® to fatten the four-legged four-legged mutant chickens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Monsanto do with Big Fat American Corn�s production?",
+                    "score": 0.8723,
+                    "answers": "Big Fat American Corn ®|pobj"
+                },
+                {
+                    "question": "What impact will Monsanto have on the oil industry in Mexico?",
+                    "score": 0.8717,
+                    "answers": "The impact this will have for the oil industry in Mexico|nsubjpass\tthis will have for the oil industry in Mexico|relcl"
+                },
+                {
+                    "question": "How many keys does Monsanto use to classify the big fat American corn?",
+                    "score": 0.8711,
+                    "answers": "the following keys|pobj"
+                },
+                {
+                    "question": "What is Monsanto doing with the production of Big Fat American Corn�s?",
+                    "score": 0.8608,
+                    "answers": "corn|compound"
+                },
+                {
+                    "question": "What is Monsanto using to breed the four legged chickens of Kentucky Fried Chicken?",
+                    "score": 0.8395,
+                    "answers": "four - legged|amod\tfour - legged|amod"
+                }
+            ]
+        },
+        {
+            "claim": "'We will let the people of Mexico continue to do their pozole ', Linder said.",
+            "question_answers": [
+                {
+                    "question": "What did Linder say 'we will let the people of Mexico continue to do'?",
+                    "answer": "pozole"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Linder say about the people of Mexico continuing to do their pozole?",
+                    "score": 0.7904,
+                    "answers": "www.eldizque.com reported on 11/07/2017 that ' We will let the people of Mexico continue to do their pozole ' , Linder said|ROOT\ton 11/07/2017|prep\tthat|mark\t'|punct\tWe|nsubj\twill|aux\tthe|det\tthe people of Mexico|nsubj\tof Mexico|prep\tto|aux\tto do their pozole|xcomp\ttheir|poss\ttheir pozole|dobj\t'|punct\t,|punct\tthat ' We will let the people of Mexico continue to do their pozole ' , Linder said|ccomp"
+                },
+                {
+                    "question": "What are the benefits of allowing people to perform their pozole?",
+                    "score": 0.7643,
+                    "answers": "We will let the people of Mexico continue to do their pozole|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'But now you'll have to call it Monsanto Soup'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'But now you'll have to call it Monsanto Soup'?",
+                    "answer": "11/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Monsanto Soup?",
+                    "score": 0.8251,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 11/07/2017 that ' But now you 'll have to call it Monsanto Soup '|ROOT\ton 11/07/2017|prep\tthat|mark\t'|punct\tBut|cc\tnow|advmod\tyou|nsubj\t'll|aux\tthat ' But now you 'll have to call it Monsanto Soup|ccomp\tto|aux\tto call it Monsanto Soup|xcomp\tit|dobj\tMonsanto|compound\tMonsanto Soup|oprd\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Monsanto will charge % of the net sale of Monsanto Soup ® in each Monsanto Soup Restaurant ®.",
+            "question_answers": [
+                {
+                    "question": "What does Monsanto charge % of the net sale of in each Monsanto Soup Restaurant?",
+                    "answer": "Monsanto Soup"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money does Monsanto charge for each Monsanto Soup Restaurant?",
+                    "score": 0.871,
+                    "answers": "Soup|compound"
+                },
+                {
+                    "question": "What is Monsanto's net sale of Monsanto Soup ®?",
+                    "score": 0.8556,
+                    "answers": "that|mark\twill|aux\t% of the net sale of Monsanto Soup ® in each Monsanto Soup Restaurant ®|dobj\tthe|det\tnet|amod\tof Monsanto Soup ®|prep\t®|punct\teach|det\teach Monsanto Soup Restaurant ®|pobj\t®|punct"
+                }
+            ]
+        },
+        {
+            "claim": "The company's next target is beans.",
+            "question_answers": [
+                {
+                    "question": "What is the company's next target?",
+                    "answer": "beans"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What doesldizque.com do?",
+                    "score": 0.8651,
+                    "answers": "on 11/07/2017|prep\t's|case"
+                },
+                {
+                    "question": "What is the name of the company that produces beans?",
+                    "score": 0.8467,
+                    "answers": "beans|attr"
+                },
+                {
+                    "question": "What doesldizque.com say about beans?",
+                    "score": 0.8379,
+                    "answers": "www.eldizque.com reported on 11/07/2017 that The company 's next target is beans|ROOT\tThe company 's|poss"
+                },
+                {
+                    "question": "What is the next target of Dell?",
+                    "score": 0.8288,
+                    "answers": "next|amod"
+                },
+                {
+                    "question": "What is the source of evidence of the company's next target?",
+                    "score": 0.8187,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\tThe|det"
+                }
+            ]
+        }
+    ]
+}

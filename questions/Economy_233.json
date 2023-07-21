@@ -1,0 +1,579 @@
+{
+    "id": "Economy_233",
+    "claim": "The currency, one of the best thermometers in the Mexican economy, rises a % and recovers part of the land lost against the dollar in the last quarterThe future executive of Andres Manuel Lopez Obrador enters with good foot in the financial markets. The peso, one of the best thermometers in the Mexican economy, has closed this Friday its best week in almost seven years, after the overwhelming victory of the leader of Morena at the polls last Sunday. Many investors predicted a period of turbulence after the elections, which would prolong the bad run of the second quarter of the year. But the roughest projections came with a reality that looks optimistic: since Monday the Mexican currencyone of the most liquid in the emerging worldhas recovered almost a % value against the dollar returning to green numbers in what goes from  and to levels of  pesos per dollar. The Stock Exchange, for its part, played its best in five months this Friday in an atmosphere of greater confidence in the future of Latin America's second economy despite the increasing drums of trade war between the two largest world economies: the United States and China. The signals sent by Lopez Obrador and his economic team from the very moment that his massive victory was confirmed sound good to investors. Lovers like fiscal and monetary orthodoxy, big asset managers applaud the promises of the elected president. And the signs of tranquillity have been wonderfully felt in the markets: fiscal prudence, independence of the central bank, respect for the freedom of business and the rule of law and a change of focus in the fight against insecurity, one of the points that most troubles the capital invested in Mexico. Caviar for his ears, which has been accompanied by another good news: the honeymoon between the next head of state and government and Mexican businessmen. Farewell to the inflamed rhetoric of both sides, hello to pragmatism: for their sake, they are doomed to understand. The big names of the Mexican financial sector value, above all, three factors. First, that no 'external event 'occurred in last Sunday's elections  that the vote counting system fell or that any cyberattack took place . Second, that the two losing candidates, Ricardo Anaya and Jose Antonio Meade, recognized their defeat almost immediately. And third, and most importantly, the President-elect's tone in his first public interventions. 'The message has been the most important for the positive evolution of the weight ', points out Alonso Cervera, chief economist of Credit Suisse for Latin America. 'It has been much better than we expected; it has beaten our expectations by far ', adds an emerging market analyst from a large US financial institution based in New York, who prefers to remain anonymous. Although the recovery of the peso has been a constant in the week immediately after the last three Mexican electoral processes  those of ,  and   this time the risks were greater: it comes to the power of the option that less enthusiasm has awakened in the financial squares throughout the campaign. Nor did the situation go hand in hand: the weight came from an area close to historical lows, its worst level since January of in the early days of Donald Trump in the White Houseand the greatest source of uncertaintythe renegotiation of the North American Free Trade Agreement (NAFTA)is still open and without early solutions. Not even the loose majority achieved by Morena  Lopez Obrador's party  in the legislature, one of the points that most troubled investors weeks ago, has embittered his first week as elected president. 'The assessment has been supported by the communication efforts of those who will integrate the next Government, including Lopez Obrador: during the week they dedicated themselves to reducing uncertainty and to reiterating that they will manage prudent economic policies, promarket and that they will work together with the business sector ', emphasizes Gabriela Siller, of Banco Base, who warns, however, that although the market 'seems calm, it will closely monitor the changes that the Administration may seek in energy matters ', following the reform of the last six years. I'm sorry.",
+    "source": "elpais.com",
+    "date": "07/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The currency, one of the best thermometers in the Mexican economy , rises a % and recovers part of the land lost against the Mexican economy in the last this Friday enters with good foot in the financial markets.",
+            "question_answers": [
+                {
+                    "question": "What is the currency called?",
+                    "answer": "one of the best thermometers in the Mexican economy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much does the Mexican currency recover against the Mexican economy?",
+                    "score": 0.8435,
+                    "answers": "elpais.com reported on 07/07/2018 that The currency , one of the best thermometers in the Mexican economy , rises a % and recovers part of the land lost against the Mexican economy in the last this Friday enters with good foot in the financial markets|ROOT"
+                },
+                {
+                    "question": "How much land did the Mexican economy recover?",
+                    "score": 0.7927,
+                    "answers": "recovers part of the land lost against the Mexican economy in the last this Friday enters with good foot in the financial markets|conj"
+                },
+                {
+                    "question": "What is the Mexican currency?",
+                    "score": 0.7347,
+                    "answers": "against the Mexican economy|prep"
+                },
+                {
+                    "question": "What is the value of the Mexican currency?",
+                    "score": 0.7121,
+                    "answers": "on 07/07/2018|prep\tthat|mark\tThe|det\tThe currency , one of the best thermometers in the Mexican economy|nsubj\t,|punct\tone of the best thermometers in the Mexican economy|appos\tof the best thermometers in the Mexican economy|prep\tthe|det\tbest|amod\tthe best thermometers in the Mexican economy|pobj\tin the Mexican economy|prep\tthe|det\tthe Mexican economy|pobj\t,|punct\tthat The currency , one of the best thermometers in the Mexican economy , rises a % and recovers part of the land lost against the Mexican economy in the last this Friday enters with good foot in the financial markets|ccomp\ta|det\ta %|npadvmod\tand|cc\tpart of the land lost against the Mexican economy in the last this Friday enters with good foot in the financial markets|dobj\tthe|det\tlost against the Mexican economy in the last this Friday enters with good foot in the financial markets|acl\tthe|det\tthe Mexican economy|pobj\tin the last this Friday enters with good foot in the financial markets|prep\tthe|det\tthe last this Friday enters with good foot in the financial markets|pobj\tthis|det\tthis Friday enters with good foot in the financial markets|relcl\twith good foot|prep\tgood|amod\tgood foot|pobj\tin the financial markets|prep\tthe|det\tfinancial|amod\tthe financial markets|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The currency, one of the best thermometers in the Mexican economy , has closed The Stock Exchange we in almost seven years, after quarterThe future executive of Andres Manuel Lopez Obrador we quarterThe future executive of Andres Manuel Lopez Obrador .",
+            "question_answers": [
+                {
+                    "question": "What is the currency called?",
+                    "answer": "one of the best thermometers in the Mexican economy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the value of the Mexican currency?",
+                    "score": 0.7002,
+                    "answers": "The currency , one of the best thermometers in the Mexican economy|nsubj\tone of the best thermometers in the Mexican economy|appos\tof the best thermometers in the Mexican economy|prep\tthe Mexican economy|pobj"
+                },
+                {
+                    "question": "What is the impact of the Mexican currency on the Mexican economy?",
+                    "score": 0.6979,
+                    "answers": "in the Mexican economy|prep"
+                },
+                {
+                    "question": "How many years has Andres Manuel Lopez Obrador worked for The Stock Exchange?",
+                    "score": 0.6589,
+                    "answers": "almost seven|nummod"
+                },
+                {
+                    "question": "What is the current value of the stock exchange in Mexico?",
+                    "score": 0.6444,
+                    "answers": "on 07/07/2018|prep\thas|aux"
+                },
+                {
+                    "question": "What are the best thermometers in the Mexican economy?",
+                    "score": 0.6425,
+                    "answers": "the best thermometers in the Mexican economy|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Many investors predicted a period of turbulence the overwhelming victory of the leader of Morena at the polls last Sunday the elections, which would the overwhelming victory of the leader of Morena at the polls last Sunday the the overwhelming victory of the leader of Morena at the polls last Sunday run of the second quarter of the year.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 07/07/2018",
+                    "answer": "Many investors predicted a period of turbulence the overwhelming victory of the leader of Morena at the polls last Sunday"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many votes did the leader of Morena win?",
+                    "score": 0.6677,
+                    "answers": "the|det\tthe|det\tthe|det\tlast|amod\tthe|det\twhich would|relcl\tthe|det\tthe|det\tthe|det\tlast|amod\tthe|det\tthe|det\tthe|det\tthe|det\tlast|amod\tthe|det\tsecond|amod\tof the year|prep\tthe|det"
+                },
+                {
+                    "question": "What was the outcome of Morena in the 2018 election?",
+                    "score": 0.6404,
+                    "answers": "Many investors|nsubj"
+                },
+                {
+                    "question": "Who is the leader of Morena?",
+                    "score": 0.581,
+                    "answers": "the leader of Morena|pobj\tthe leader of Morena|pobj\tthe leader of Morena|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "But the roughest projections came with a reality that looks optimistic: since Monday The currency, one of the best thermometers in the Mexican economy recovered almost a % value against the Mexican economy returning the weight both sides .",
+            "question_answers": [
+                {
+                    "question": "What happened to the Mexican currency on Monday?",
+                    "answer": "recovered almost a % value against the Mexican economy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the effect of the Mexican currency on the Mexican economy?",
+                    "score": 0.7021,
+                    "answers": "elpais.com reported on 07/07/2018 that But the roughest projections came with a reality that looks optimistic : since Monday The currency , one of the best thermometers in the Mexican economy recovered almost a % value against the Mexican economy returning the weight both sides|ROOT\treturning the weight both sides|advcl"
+                },
+                {
+                    "question": "What is the value of the Mexican currency?",
+                    "score": 0.6894,
+                    "answers": "that|mark\tthe|det\ta|det\tthat|nsubj\t:|punct\tThe|det\tThe currency , one of the best thermometers in the Mexican economy|nsubj\t,|punct\tone of the best thermometers in the Mexican economy|appos\tof the best thermometers in the Mexican economy|prep\tthe|det\tbest|amod\tthe best thermometers in the Mexican economy|pobj\tin the Mexican economy|prep\tthe|det\tthe Mexican economy|pobj\talmost a|nummod\tagainst the Mexican economy|prep\tthe|det\tthe Mexican economy|pobj\tthe|det\tboth sides|relcl"
+                },
+                {
+                    "question": "What is the current rate of the Mexican economy?",
+                    "score": 0.6574,
+                    "answers": "that looks optimistic|relcl"
+                },
+                {
+                    "question": "What are the roughest projections?",
+                    "score": 0.6008,
+                    "answers": "the roughest projections|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "both sides the dollar both sides for his the two losing candidates, Ricardo Anaya and Jose Antonio Meade the weight in the future his Americathe President-elect's economy despite the increasing his of trade war between the two largest world economies: the his States and China.",
+            "question_answers": [
+                {
+                    "question": "Who were the two losing candidates?",
+                    "answer": "Ricardo Anaya and Jose Antonio Meade"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the two largest economies?",
+                    "score": 0.5686,
+                    "answers": "the two largest world economies : the his States and China|pobj"
+                },
+                {
+                    "question": "What is the weight of the country's economy?",
+                    "score": 0.5586,
+                    "answers": "the dollar|appos"
+                },
+                {
+                    "question": "What is the relationship between the United States and China's economy?",
+                    "score": 0.5536,
+                    "answers": "in the future his Americathe President - elect 's economy|prep\tthe future his Americathe President - elect 's economy|pobj\this Americathe President - elect 's economy|appos"
+                },
+                {
+                    "question": "What was the relationship between Anaya and Jose Antonio Meade?",
+                    "score": 0.5355,
+                    "answers": "on 07/07/2018|prep\tlosing|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The signals sent by this Friday and economic team from The message very moment that quarterThe future executive of Andres Manuel Lopez Obrador his first week as elected president sound good his first week as elected president investors.",
+            "question_answers": [
+                {
+                    "question": "Who is the future executive of?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did Andres Manuel Lopez Obrador's first week as elected president sound good?",
+                    "score": 0.6795,
+                    "answers": "first|amod\tfirst|amod"
+                },
+                {
+                    "question": "Who sent the message to Andres Manuel Lopez Obrador?",
+                    "score": 0.6555,
+                    "answers": "sent by this Friday and economic team from The message very moment|acl"
+                },
+                {
+                    "question": "What was the message sent by Andres Manuel Lopez Obrador after he was elected president?",
+                    "score": 0.5538,
+                    "answers": "The message very moment|pobj"
+                },
+                {
+                    "question": "What signals were sent by this Friday and economic team?",
+                    "score": 0.5366,
+                    "answers": "Friday and economic|nmod\tand economic|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Lovers like fiscal and monetary those who will integrate the next Government, including Lopez Obrador asset managers applaud the promises of this Friday .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 07/07/2018 that Lovers like fiscal and monetary those who will integrate the next Government?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What promises have Lopez Obrador made?",
+                    "score": 0.6384,
+                    "answers": "that Lovers like fiscal and monetary those who will integrate the next Government , including Lopez Obrador asset managers applaud the promises of this Friday|ccomp"
+                },
+                {
+                    "question": "Who are Lopez Obrador asset managers?",
+                    "score": 0.5954,
+                    "answers": "Lopez Obrador asset managers|pobj"
+                },
+                {
+                    "question": "What is Lopez Obrador's political affiliation?",
+                    "score": 0.5155,
+                    "answers": "Lopez Obrador|compound"
+                }
+            ]
+        },
+        {
+            "claim": "And the signs of tranquillity have been wonderfully felt in the markets: fiscal prudence, independence of the central bank, respect for the freedom of business and the rule of law and a change of focus in the fight against insecurity, one of the points that most troubles the capital invested in Mexico.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the signs of tranquillity in the markets?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the signs of tranquillity in markets?",
+                    "score": 0.6403,
+                    "answers": "the markets|pobj\trespect for the freedom of business and the rule of law and a change of focus in the fight against insecurity , one of the points that most troubles the capital invested in Mexico|conj\tin Mexico|prep"
+                },
+                {
+                    "question": "How much money is invested in Mexico each year?",
+                    "score": 0.6229,
+                    "answers": "that most troubles the capital invested in Mexico|relcl\tinvested in Mexico|acl"
+                },
+                {
+                    "question": "What is the capital invested in Mexico?",
+                    "score": 0.6056,
+                    "answers": "the capital invested in Mexico|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount invested in Mexico in 2018?",
+                    "score": 0.5716,
+                    "answers": "in the fight against insecurity , one of the points that most troubles the capital invested in Mexico|prep\tthe fight against insecurity , one of the points that most troubles the capital invested in Mexico|pobj\tagainst insecurity , one of the points that most troubles the capital invested in Mexico|prep\tinsecurity , one of the points that most troubles the capital invested in Mexico|pobj\tone of the points that most troubles the capital invested in Mexico|appos"
+                },
+                {
+                    "question": "What is the relationship between fiscal prudence and independence of the central bank?",
+                    "score": 0.5685,
+                    "answers": "on 07/07/2018|prep\tfiscal|amod\tcentral|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Caviar for his ears, which has been accompanied by another good news: the honeymoon between the next head of state and government and Mexican businessmen.",
+            "question_answers": [
+                {
+                    "question": "What website reported on Caviar for his ears?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Caviar for his ear?",
+                    "score": 0.6412,
+                    "answers": "for his ears|prep"
+                },
+                {
+                    "question": "What is the name of the honeymoon between the next head of state and government and Mexican businessmen?",
+                    "score": 0.5501,
+                    "answers": "elpais.com reported on 07/07/2018 that Caviar for his ears , which has been accompanied by another good news : the honeymoon between the next head of state and government and Mexican businessmen|ROOT\ton 07/07/2018|prep\tthat|mark\tthat Caviar for his ears , which has been accompanied by another good news : the honeymoon between the next head of state and government and Mexican businessmen|ccomp\this|poss\t,|punct\twhich|nsubjpass\thas|aux\tbeen|auxpass\tby another good news : the honeymoon between the next head of state and government and Mexican businessmen|agent\tanother|det\tgood|amod\t:|punct\tthe|det\tthe|det\tnext|amod\tand|cc\tgovernment|conj\tand|cc"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4197,
+                    "answers": "elpais.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Farewell to the inflamed rhetoric of both sides, hello to pragmatism: for their sake, they are doomed to understand.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 07/07/2018 that Farewell to the inflamed rhetoric of both sides, hello to pragmatism?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the meaning of pragmatism?",
+                    "score": 0.5686,
+                    "answers": "pragmatism|pobj"
+                },
+                {
+                    "question": "What is the relationship between Marxism and pragmatism?",
+                    "score": 0.5607,
+                    "answers": "that Farewell to the inflamed rhetoric of both sides , hello to pragmatism|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The big names of the Mexican financial sector value, above all, three factors.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the big names of the Mexican financial sector value, above all, three factors?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the value of the Mexican financial sector?",
+                    "score": 0.8292,
+                    "answers": "that|mark\tof the Mexican financial sector|prep\tthe|det\tfinancial|amod\tthe Mexican financial sector|pobj\t,|punct\tabove all|prep\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "First, that no 'external event 'occurred in last Sunday's elections  that the vote counting system fell or that any cyberattack took place .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 07/07/2018 that First, that no external event 'occurred in last Sunday's elections?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of any external events that occured in last Sunday's elections?",
+                    "score": 0.6444,
+                    "answers": "external|amod"
+                },
+                {
+                    "question": "How many votes were counted on the last Sunday of 2018 election?",
+                    "score": 0.6055,
+                    "answers": "in last Sunday 's elections|prep"
+                },
+                {
+                    "question": "What was the date of the last Sunday election in 2018?",
+                    "score": 0.6015,
+                    "answers": "last Sunday 's|poss\tlast Sunday 's elections|pobj"
+                },
+                {
+                    "question": "What was the result of the election in 2018?",
+                    "score": 0.5866,
+                    "answers": "elpais.com reported on 07/07/2018 that First , that no ' external event ' occurred in last Sunday 's elections   that the vote counting system fell or that any cyberattack took place|ROOT\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "Second, that the two losing candidates, Ricardo Anaya and Jose Antonio Meade, recognized their defeat almost immediately.",
+            "question_answers": [
+                {
+                    "question": "What website reported on the defeat of the two losing candidates?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the runner up to Antonio Meade?",
+                    "score": 0.7257,
+                    "answers": "Antonio|compound"
+                },
+                {
+                    "question": "What were the results of the two losing candidates?",
+                    "score": 0.7114,
+                    "answers": "that Second , that the two losing candidates , Ricardo Anaya and Jose Antonio Meade , recognized their defeat almost immediately|ccomp"
+                },
+                {
+                    "question": "What was the outcome of the election between Anaya and Jose Antonio Meade?",
+                    "score": 0.6558,
+                    "answers": "on 07/07/2018|prep\tthat|mark\tthat|mark\tthe|det\tlosing|amod\tthe two losing candidates , Ricardo Anaya and Jose Antonio Meade ,|nsubj\tRicardo|compound\tand|cc\tJose|compound\ttheir|poss\ttheir defeat|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "And third, and most importantly, the President-elect's tone in his first public interventions.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the tone of the President-elect's first public interventions?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was President-elect's tone in his first public interventions?",
+                    "score": 0.7335,
+                    "answers": "his first public interventions|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'The message has been the most important for the positive evolution of the weight ', points out Alonso Cervera, chief economist of Credit Suisse for Latin America.",
+            "question_answers": [
+                {
+                    "question": "The message has been the most important for the positive evolution of what?",
+                    "answer": "the weight"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Alonso Cervera say about the positive evolution of weight?",
+                    "score": 0.74,
+                    "answers": "positive|amod"
+                },
+                {
+                    "question": "What is Alonso Cervera's position with Credit Suisse?",
+                    "score": 0.6654,
+                    "answers": "of Credit Suisse for Latin America|prep\tCredit Suisse for Latin America|pobj"
+                },
+                {
+                    "question": "Who is Alonso Cervera?",
+                    "score": 0.6029,
+                    "answers": "Alonso Cervera , chief economist of Credit Suisse for Latin America|nsubj\tchief|amod\tchief economist of Credit Suisse for Latin America|appos"
+                }
+            ]
+        },
+        {
+            "claim": "'It has been much better than we expected; it has beaten our expectations by far ', adds an emerging market analyst from a large US financial institution based in New York, who prefers to remain anonymous.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com say about Elpais?",
+                    "answer": "it has beaten our expectations by far"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What were the expectations of the emerging market analyst from a large US financial institution based in New York?",
+                    "score": 0.7739,
+                    "answers": "our expectations|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Elpais.com's revenue growth?",
+                    "score": 0.6517,
+                    "answers": "on 07/07/2018|prep\tan|det\ta|det\tin New York|prep"
+                },
+                {
+                    "question": "Where is elpais.com based?",
+                    "score": 0.6421,
+                    "answers": "based in New York|acl"
+                },
+                {
+                    "question": "What is the relationship between Elpais.com and the New York financial institution?",
+                    "score": 0.6221,
+                    "answers": "New|compound"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.5632,
+                    "answers": "elpais.com reported on 07/07/2018 that ' It has been much better than we expected ; it has beaten our expectations by far|ccomp\telpais.com reported on 07/07/2018 that ' It has been much better than we expected ; it has beaten our expectations by far ' , adds an emerging market analyst from a large US financial institution based in New York , who prefers to remain anonymous|ROOT\ta large US financial institution based in New York|pobj\tanonymous|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "Although the recovery of the peso has been a constant in the week immediately after the last three Mexican electoral processes  those of ,  and   this time the risks were greater: it comes to the power of the option that less enthusiasm has awakened in the financial squares throughout the campaign.",
+            "question_answers": [
+                {
+                    "question": "The peso has been a constant in the week immediately after what three Mexican electoral processes?",
+                    "answer": "those of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much did the peso recover after the last three Mexican electoral processes?",
+                    "score": 0.8061,
+                    "answers": "that|mark\tAlthough|mark\tthe|det\tthe|det\thas|aux\ta|det\tthe|det\timmediately|advmod\tthe|det\tlast|amod\telectoral|amod\t,|punct\tand|cc\tthis|det\tthe|det\t:|punct\tit|nsubj\tthe|det\tthe|det\tthat|dobj\thas|aux\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What were the risks of the Mexican electoral process in 2018?",
+                    "score": 0.7204,
+                    "answers": "the risks|nsubj\tthroughout the campaign|prep"
+                },
+                {
+                    "question": "How much interest has increased in the financial squares throughout the election campaign?",
+                    "score": 0.6547,
+                    "answers": "the option that less enthusiasm has awakened in the financial squares throughout the campaign|pobj"
+                },
+                {
+                    "question": "What is the power of option?",
+                    "score": 0.5558,
+                    "answers": "the power of the option that less enthusiasm has awakened in the financial squares throughout the campaign|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Nor did the situation go hand in hand: the weight came from an area close to historical lows, its worst level since January of in the early days of Donald Trump in the White Houseand the greatest source of uncertaintythe renegotiation of the North American Free Trade Agreement (NAFTA)is still open and without early solutions.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the situation on 07/07/2018?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the North American Free Trade Agreement (NAFTA)?",
+                    "score": 0.7408,
+                    "answers": "Nor|cc\tdid|aux\tthe|det\tthat Nor did the situation go hand in hand|ccomp\thand|pobj\tthe|det\tthe|det\tthe|det\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the relationship between NAFTA and Free Trade Agreement?",
+                    "score": 0.6912,
+                    "answers": "Free Trade|compound"
+                },
+                {
+                    "question": "What is NAFTA?",
+                    "score": 0.6454,
+                    "answers": "North American|compound\tFree|compound\tNAFTA)is|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Not even the loose majority achieved by Morena  Lopez Obrador's party  in the legislature, one of the points that most troubled investors weeks ago, has embittered his first week as elected president.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 07/07/2018 that Not even the loose majority achieved by Morena Lopez Obrador's party in the legislature has embittered his first week as president?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many votes did Morena get during Lopez Obrador's first week as president?",
+                    "score": 0.6705,
+                    "answers": "the legislature|pobj"
+                },
+                {
+                    "question": "What is the loose majority achieved by Morena Lopez Obrador?",
+                    "score": 0.6495,
+                    "answers": "loose|amod\tNot even the loose majority achieved by Morena   Lopez Obrador 's party   in the legislature , one of the points that most troubled investors weeks ago ,|nsubj\t  Lopez Obrador 's party|dep\tas elected president|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Lopez Obrador's majority in the legislature?",
+                    "score": 0.6224,
+                    "answers": "investors|dobj"
+                },
+                {
+                    "question": "What is Lopez Obrador's political affiliation?",
+                    "score": 0.6099,
+                    "answers": "Lopez|compound\tLopez Obrador 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "'The assessment has been supported by the communication efforts of those who will integrate the next Government, including Lopez Obrador: during the week they dedicated themselves to reducing uncertainty and to reiterating that they will manage prudent economic policies, promarket and that they will work together with the business sector ', emphasizes Gabriela Siller, of Banco Base, who warns, however, that although the market 'seems calm, it will closely monitor the changes that the Administration may seek in energy matters ', following the reform of the last six years.",
+            "question_answers": [
+                {
+                    "question": "What does Gabriela Siller say about the market?",
+                    "answer": "'seems calm, it will closely monitor the changes that the Administration may seek in energy matters"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What efforts did Lopez Obrador make to improve the economy?",
+                    "score": 0.8489,
+                    "answers": "communication|compound"
+                },
+                {
+                    "question": "What changes did the Obama administration seek in energy matters?",
+                    "score": 0.7333,
+                    "answers": "the changes that the Administration may seek in energy matters|dobj"
+                },
+                {
+                    "question": "What was the market's reaction to the Trump administration's energy reforms?",
+                    "score": 0.7148,
+                    "answers": "that although the market ' seems calm , it will closely monitor the changes that the Administration may seek in energy matters ' , following the reform of the last six years|ccomp"
+                },
+                {
+                    "question": "What did the communication efforts of those who will integrate the next Government do to reduce uncertainty?",
+                    "score": 0.7066,
+                    "answers": "during the week|prep\treducing uncertainty|pcomp"
+                },
+                {
+                    "question": "What are the economic policies of Lopez Obrador?",
+                    "score": 0.6792,
+                    "answers": "prudent|amod\tprudent economic policies|dobj"
+                }
+            ]
+        }
+    ]
+}

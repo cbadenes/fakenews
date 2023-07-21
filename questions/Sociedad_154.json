@@ -1,0 +1,197 @@
+{
+    "id": "Sociedad_154",
+    "claim": "After the water started trading within the stock exchange, the value of the stock exchange began to increase in various markets, to the extent that some shops around the world have begun to accept it as a current currency. For the time being, it is possible to exchange some bottles of purified water for dollars or euros, depending on how the quotation dawns. It is also possible to pay at some branches of Tifanny in Paris or New York, which has turned bringing a bottle of water into a symbol of opulence. However, things aren't going to be that simple, according to Ricky McPato, one of the stockbrokers who's been studying this new trend. People think any water is going to be enough, but no. In order to be considered legal, water must have a purity level of at least 80%, and be fit for human consumption. We've already had cases of people trying to use water that they collected from a puddle, or even urine, and all that just doesn't.”. For the time being, it is recommended that people who can start pulling water away, as it will prove to be a way of saving more effectively than even gold. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "14/12/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "After the water started trading within the stock exchange, the value of the stock exchange began to increase in various markets, to the extent that some shops around the world have begun to accept it as a current currency.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 14/12/2020 that after the water started trading within the stock exchange, the value of the stock exchange began to increase in various markets?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the value of the stock exchange before the water began trading?",
+                    "score": 0.7145,
+                    "answers": "the water|nsubj"
+                },
+                {
+                    "question": "What is the current currency of the stock exchange?",
+                    "score": 0.6865,
+                    "answers": "the extent that some shops around the world have begun to accept it as a current currency|pobj\tas a current currency|prep\tcurrent|amod\ta current currency|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "For the time being, it is possible to exchange some bottles of purified water for dollars or euros, depending on how the quotation dawns.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that it was possible to exchange bottles of purified water for dollars or euros?",
+                    "answer": "14/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is it possible to exchange bottles of purified water for dollars or cents?",
+                    "score": 0.8444,
+                    "answers": "www.eldizque.com reported on 14/12/2020 that For the time being , it is possible to exchange some bottles of purified water for dollars or euros , depending on how the quotation dawns|ROOT\tthat For the time being , it is possible to exchange some bottles of purified water for dollars or euros , depending on how the quotation dawns|ccomp"
+                },
+                {
+                    "question": "What is the price of purified water?",
+                    "score": 0.7113,
+                    "answers": "purified water|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of how much money is exchanged for bottles of purified water?",
+                    "score": 0.7018,
+                    "answers": "how the quotation dawns|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "It is also possible to pay at some branches of Tifanny in Paris or New York, which has turned bringing a bottle of water into a symbol of opulence.",
+            "question_answers": [
+                {
+                    "question": "What has Tifanny done to a bottle of water?",
+                    "answer": "bringing a bottle of water into a symbol of opulence"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many bottles of water can you bring into Paris or New York?",
+                    "score": 0.7246,
+                    "answers": "bringing a bottle of water|xcomp"
+                },
+                {
+                    "question": "What is Tifanny in Paris or New York known for?",
+                    "score": 0.6355,
+                    "answers": "www.eldizque.com reported on 14/12/2020 that It is also possible to pay at some branches of Tifanny in Paris or New York , which has turned bringing a bottle of water into a symbol of opulence|ROOT\tthat It is also possible to pay at some branches of Tifanny in Paris or New York , which has turned bringing a bottle of water into a symbol of opulence|ccomp\twater|pobj"
+                },
+                {
+                    "question": "What is the symbol of opulence?",
+                    "score": 0.5837,
+                    "answers": "at some branches of Tifanny in Paris or New York , which has turned bringing a bottle of water into a symbol of opulence|prep\tsome branches of Tifanny in Paris or New York , which has turned bringing a bottle of water into a symbol of opulence|pobj\twhich has turned bringing a bottle of water into a symbol of opulence|relcl\tinto a symbol of opulence|prep\ta symbol of opulence|pobj\topulence|pobj"
+                },
+                {
+                    "question": "What is Tifanny?",
+                    "score": 0.5643,
+                    "answers": "It|nsubj\talso|advmod\tsome|det\tor|cc\twhich|nsubj\thas|aux\tof water|prep"
+                }
+            ]
+        },
+        {
+            "claim": "However, things aren't going to be that simple, according to Ricky McPato, one of the stockbrokers who's been studying this new trend.",
+            "question_answers": [
+                {
+                    "question": "Who is Ricky McPato?",
+                    "answer": "stockbrokers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the trend of stockbroking?",
+                    "score": 0.7233,
+                    "answers": "14/12/2020|pobj"
+                },
+                {
+                    "question": "What is the current trend of stockbroking?",
+                    "score": 0.7223,
+                    "answers": "www.eldizque.com|nsubj\ton 14/12/2020|prep\tthat|mark\tHowever|advmod\t,|punct\tthings|nsubj\tn't|neg\tthat However , things are n't going to be that simple , according to Ricky McPato , one of the stockbrokers who 's been studying this new trend|ccomp\tto|aux\tto be that simple|xcomp\tthat|advmod\tthat simple|acomp\t,|punct\tto Ricky McPato , one of the stockbrokers who 's been studying this new trend|prep\tRicky|compound\t,|punct\tthe|det\twho|nsubjpass\tbeen|aux\tthis|det\tnew|amod\tthis new trend|dobj"
+                },
+                {
+                    "question": "Who are the stockbrokers who have been studying the new trend?",
+                    "score": 0.6938,
+                    "answers": "of the stockbrokers who 's been studying this new trend|prep\tthe stockbrokers who 's been studying this new trend|pobj"
+                },
+                {
+                    "question": "What is the name of the stockbroker who studies the new trend?",
+                    "score": 0.6635,
+                    "answers": "Ricky McPato , one of the stockbrokers who 's been studying this new trend|pobj"
+                },
+                {
+                    "question": "Who is Ricky McPato?",
+                    "score": 0.6032,
+                    "answers": "one of the stockbrokers who 's been studying this new trend|appos\t's|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "People think any water is going to be enough, but no.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 14/12/2020 that People think any water is going to be enough?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of water in the United States?",
+                    "score": 0.7063,
+                    "answers": "any water|nsubj\tany water is going to be enough|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In order to be considered legal, water must have a purity level of at least 80%, and be fit for human consumption.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that in order to be considered legal, water must have a purity level of at least 80% and be fit for human consumption?",
+                    "answer": "14/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is water fit for human consumption?",
+                    "score": 0.8707,
+                    "answers": "fit for human consumption|acomp"
+                },
+                {
+                    "question": "What is the purity level of water to be considered legal?",
+                    "score": 0.7858,
+                    "answers": "legal|oprd"
+                }
+            ]
+        },
+        {
+            "claim": "We've already had cases of people trying to use water that they collected from a puddle, or even urine, and all that just doesn't.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that we've already had cases of people trying to use water that they collected from a puddle?",
+                    "answer": "14/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water is collected from puddle or urine?",
+                    "score": 0.7896,
+                    "answers": "water that they collected from a puddle , or even urine , and all that just does n't|dobj"
+                },
+                {
+                    "question": "How many people try to use water that they collected from a puddle or even urine?",
+                    "score": 0.7732,
+                    "answers": "www.eldizque.com|nsubj\ton 14/12/2020|prep\tthat|mark\tWe|nsubj\t've|aux\tto|aux\tthat|dobj\tthey|nsubj\ta|det\ta puddle , or even urine ,|pobj\t,|punct\tor|cc\teven|advmod\t,|punct\tand|cc\tall|predet\tall that|nsubj\tjust|advmod\tn't|neg"
+                }
+            ]
+        },
+        {
+            "claim": "For the time being, it is recommended that people who can start pulling water away, as it will prove to be a way of saving more effectively than even gold.",
+            "question_answers": [
+                {
+                    "question": "Why is it recommended that people start pulling water away?",
+                    "answer": "it will prove to be a way of saving more effectively than even gold"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the benefits of pulling water away?",
+                    "score": 0.6728,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 14/12/2020 that For the time being , it is recommended that people who can start pulling water away , as it will prove to be a way of saving more effectively than even gold|ROOT\ton 14/12/2020|prep\t14/12/2020|pobj\tthat|mark\tFor the time being|prep\tthe|det\tthe time being|pobj\tbeing|amod\t,|punct\tit|nsubjpass\tis|auxpass\tthat For the time being , it is recommended that people who can start pulling water away , as it will prove to be a way of saving more effectively than even gold|ccomp\tthat|mark\tthat people who can start pulling water away|ccomp\twho|nsubj\tcan|aux\twho can start pulling water away|relcl\tpulling water away|xcomp\twater|dobj\taway|advmod\t,|punct\tas|mark\tit|nsubj\twill|aux\tas it will prove to be a way of saving more effectively than even gold|advcl\tto|aux\tto be a way of saving more effectively than even gold|xcomp\ta|det\ta way of saving more effectively than even gold|attr\tof saving more effectively than even gold|prep\tsaving more effectively than even gold|pcomp\tmore|advmod\tmore effectively than even gold|advmod\tthan even gold|prep\teven|advmod\teven gold|pobj"
+                }
+            ]
+        }
+    ]
+}

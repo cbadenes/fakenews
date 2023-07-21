@@ -1,0 +1,446 @@
+{
+    "id": "95_Politics_558",
+    "claim": "'All together, we must give @LopezObrador_ the opportunity to demonstrate that he will fulfill his promises of justice and honesty, and as he himself says: that he will not fail us ', Salinas Pliego said. Mexican businessmen, including Ricardo Salinas Pliego, congratulated this July  to Andres Manuel Lopez Obrador (AMLO), candidate of the alliance that leads Morena, for his victory in the presidential elections, according to preliminary data. 'The electoral process is finally over. People listened to everything and in the end, by a large majority, decided that @LopezObrador_ was a better choice for the next  years. This is democracy, as Churchill said: the worst form of government, except for all others.. Together, we must be ready to remind you that these promises cannot be forgotten, nor in the garbage of political pragmatism. Let's go to the future with confidence and unity. This will do us better and the sooner we will have a country where we are all prosperous ', wrote Ricardo Salinas Pliego, Founder and President of Grupo Salinas (Elektra, TV Azteca and Banco Azteca). Juan Pablo del Valle, president of the board of directors of the company Mexichem and who said he had voted for Ricardo Anaya, congratulated the candidate from Tabasqueño, after the candidate of the PAN coalition and Jose Antonio Meade, of the PRI, recognized the victory of Obrador. For his part, businessman and activist Claudio X. González expressed his good wishes to Andres Manuel Lopez Obrador also via Twitter. Some characters like social entrepreneur Patricia Armendáriz Guerra, who spoke out in favor of Lopez Obrador, recognized Meade, who moments before accepted his defeat in the electoral contest. 'Once the electoral process has passed, we must look to the future; let us have faith in ourselves, there is a lot of work to be done ', wrote Jose Ramon Elizondo, president of the Basque company and who previously invited to exercise the vote in a reasoned manner and spoke about the consequences of winning a populist government. 'Congratulations to @lopezobrador_ for succeeding in a historically crowded and peaceful electoral process, thanks to the will of Mexicans. This is a clear mandate that obliges us all to work together and together ', added Olegario Vázquez, CEO of Grupo Empresarial Angeles. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "02/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "'All together, we must give @LopezObrador_ the opportunity to demonstrate that @LopezObrador_ will fulfill his promises of justice and honesty , and as @LopezObrador_ says: that @LopezObrador_ will not fail us ', Salinas Pliego said.",
+            "question_answers": [
+                {
+                    "question": "What did @LopezObrador say?",
+                    "answer": "that @LopezObrador_ will not fail us"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What promises has LopezObrador made?",
+                    "score": 0.8795,
+                    "answers": "All together , we must give @LopezObrador _ the opportunity to demonstrate that @LopezObrador _ will fulfill his promises of justice and honesty , and as @LopezObrador _ says : that @LopezObrador _ will not fail us|ccomp\tthe opportunity to demonstrate that @LopezObrador _ will fulfill his promises of justice and honesty , and as @LopezObrador _ says : that @LopezObrador _ will not fail us|dobj\tto demonstrate that @LopezObrador _ will fulfill his promises of justice and honesty , and as @LopezObrador _ says : that @LopezObrador _ will not fail us|acl\twill|aux\tthat @LopezObrador _ will fulfill his promises of justice and honesty , and as @LopezObrador _ says : that @LopezObrador _ will not fail us|advcl\twill|aux\tthat ' All together , we must give @LopezObrador _ the opportunity to demonstrate that @LopezObrador _ will fulfill his promises of justice and honesty , and as @LopezObrador _ says : that @LopezObrador _ will not fail us ' , Salinas Pliego said|ccomp"
+                },
+                {
+                    "question": "What promises did LopezObrador make?",
+                    "score": 0.8781,
+                    "answers": "his|poss\this promises of justice and honesty|dobj"
+                },
+                {
+                    "question": "What promises does LopezObrador make?",
+                    "score": 0.8741,
+                    "answers": "that|mark\tthat|mark\tof justice and honesty|prep\tjustice and honesty|pobj\tand|cc\thonesty|conj\tand|cc\tthat|mark\tnot|neg\tas @LopezObrador _ says : that @LopezObrador _ will not fail us|conj"
+                },
+                {
+                    "question": "What is LopezObrador's promise of justice and honesty?",
+                    "score": 0.7617,
+                    "answers": "www.forbes.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the relationship between LopezObrador and Salinas Pliego?",
+                    "score": 0.7461,
+                    "answers": "on 02/07/2018|prep\tmust|aux\t@LopezObrador|dative\t@LopezObrador|nsubj\t@LopezObrador|nsubj\t@LopezObrador|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexican businessmen, including Salinas Pliego , congratulated this July  to @LopezObrador_ , for his victory in the presidential elections , according to preliminary data.",
+            "question_answers": [
+                {
+                    "question": "What was LopezObrador congratulated for?",
+                    "answer": "his victory in the presidential elections"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Salinas Pliego say about LopezObrador?",
+                    "score": 0.8709,
+                    "answers": "www.forbes.com.mx reported on 02/07/2018 that Mexican businessmen , including Salinas Pliego , congratulated this July   to @LopezObrador _ , for his victory in the presidential elections , according to preliminary data|ROOT\tthat|mark\t,|punct\t,|punct\tthat Mexican businessmen , including Salinas Pliego , congratulated this July   to @LopezObrador _ , for his victory in the presidential elections , according to preliminary data|ccomp\tthis|det\t |dep\t,|punct\tfor his victory in the presidential elections|prep\this|poss\this victory in the presidential elections|pobj\tin the presidential elections|prep\tthe|det\tpresidential|amod\tthe presidential elections|pobj\t,|punct\tpreliminary|amod\tpreliminary data|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Salinas Pliego's political victory?",
+                    "score": 0.7801,
+                    "answers": "to preliminary data|prep"
+                },
+                {
+                    "question": "What is the relationship between Salinas Pliego and LopezObrador?",
+                    "score": 0.7445,
+                    "answers": "to @LopezObrador _|prep"
+                },
+                {
+                    "question": "Who is Salinas Pliego?",
+                    "score": 0.7256,
+                    "answers": "www.forbes.com.mx|nsubj\ton 02/07/2018|prep\tMexican businessmen , including Salinas Pliego|nsubj\tincluding Salinas Pliego|prep\tSalinas|compound\t@LopezObrador|pobj\t_|pobj\taccording to preliminary data|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'The electoral process is finally over.",
+            "question_answers": [
+                {
+                    "question": "When did www.forbes.com.mx report that the electoral process was finally over?",
+                    "answer": "02/07/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current electoral process in Canada?",
+                    "score": 0.91,
+                    "answers": "www.forbes.com.mx reported on 02/07/2018 that ' The electoral process is finally over|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the results of the 2018 election?",
+                    "score": 0.9053,
+                    "answers": "www.forbes.com.mx|nsubj\tthat|mark\t'|punct\tThe|det\tfinally|advmod"
+                },
+                {
+                    "question": "What is the electoral process?",
+                    "score": 0.8861,
+                    "answers": "electoral|amod\tThe electoral process|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "People listened to everything and in the end, by a large majority, decided that @LopezObrador_ was a better choice for the next  years.",
+            "question_answers": [
+                {
+                    "question": "Who did people decide was a better choice for the next years?",
+                    "answer": "@LopezObrador_"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was LopezObrador's choice for the next president?",
+                    "score": 0.7987,
+                    "answers": "the next|amod"
+                },
+                {
+                    "question": "What was the percentage of people listening to LopezObrador?",
+                    "score": 0.7873,
+                    "answers": "that People listened to everything and in the end , by a large majority , decided that @LopezObrador _ was a better choice for|ccomp"
+                },
+                {
+                    "question": "What was the voting record on LopezObrador's election in 2018?",
+                    "score": 0.7534,
+                    "answers": "on 02/07/2018|prep"
+                },
+                {
+                    "question": "What is LopezObrador's political affiliation?",
+                    "score": 0.742,
+                    "answers": "that|mark\tto everything|prep\teverything|pobj\tand|cc\tthe|det\t,|punct\ta|det\tlarge|amod\t,|punct\tthat|mark\t@LopezObrador|nsubj\t_|nsubj\ta|det\tbetter|amod\ta better choice for|attr\tfor|prep\tthe|det\tyears|attr"
+                },
+                {
+                    "question": "What is the relationship between LopezObrador and Trump?",
+                    "score": 0.7184,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 02/07/2018 that People listened to everything and in the end , by a large majority , decided that @LopezObrador _ was a better choice for the next   years|ROOT\tthat @LopezObrador _ was a better choice for|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "This is democracy, as Churchill said: the worst form of government, except for all others.. Together, we must be ready to remind you that his promises of justice and honesty cannot be forgotten, nor in the garbage of political pragmatism.",
+            "question_answers": [
+                {
+                    "question": "Who said this was the worst form of government, except for all others?",
+                    "answer": "Churchill"
+                },
+                {
+                    "question": "What promises did Churchill make?",
+                    "answer": "justice and honesty"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Churchill say about democracy?",
+                    "score": 0.9086,
+                    "answers": "democracy , as Churchill said|attr\tas Churchill said|advcl\this|poss\thonesty|conj\tcan|aux"
+                },
+                {
+                    "question": "What promises did Churchill make during his time in office?",
+                    "score": 0.9072,
+                    "answers": "his promises of justice and honesty|nsubjpass"
+                },
+                {
+                    "question": "What are Churchill's promises of justice and honesty?",
+                    "score": 0.828,
+                    "answers": "political|amod"
+                },
+                {
+                    "question": "What was Churchill's promise on justice and honesty?",
+                    "score": 0.8231,
+                    "answers": "of justice and honesty|prep\tjustice and honesty|pobj"
+                },
+                {
+                    "question": "What is the worst form of government?",
+                    "score": 0.812,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 02/07/2018 that This is democracy , as Churchill said : the worst form of government , except for all others ..|ROOT\ton 02/07/2018|prep\tthe worst form of government , except for all others|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Let's go to the future with confidence and unity.",
+            "question_answers": [
+                {
+                    "question": "What did forbes say on 02/07/2018?",
+                    "answer": "Let's go to the future with confidence"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between confidence and unity?",
+                    "score": 0.7395,
+                    "answers": "www.forbes.com.mx reported on 02/07/2018 that Let 's go to the future with confidence and unity|ROOT\ton 02/07/2018|prep\tthat|mark\t's|nsubj\tto the future|prep\tthe|det\tthe future|pobj\twith confidence and unity|prep\tconfidence and unity|pobj\tand|cc\tunity|conj"
+                },
+                {
+                    "question": "What is Let's go to the future with confidence and unity?",
+                    "score": 0.73,
+                    "answers": "that Let 's go to the future with confidence and unity|ccomp\t's go to the future with confidence and unity|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "go will do us better and the sooner we will have a country where we are all prosperous ', wrote Ricardo Salinas Pliego, Founder and President of Grupo Salinas (Elektra, TV Azteca and Banco Azteca).",
+            "question_answers": [
+                {
+                    "question": "What did Ricardo Salinas Pliego say the sooner we will have?",
+                    "answer": "a country where we are all prosperous"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Pliego say about socialism?",
+                    "score": 0.8321,
+                    "answers": "www.forbes.com.mx reported on 02/07/2018 that go will do us better and the sooner we will have a country where we are all prosperous|ccomp\ton 02/07/2018|prep\tthat|mark\tgo|nsubj\twill|aux\tthat go will do us better and the sooner we will have a country where we are all prosperous|ccomp\tus|dobj\tbetter|advmod\tand|cc\tthe|advmod\tthe sooner|advmod\twe|nsubj\twill|aux\ta|det\ta country where we are all prosperous|dobj\twhere|advmod\twe|nsubj\twhere we are all prosperous|relcl\tall|dep\tprosperous|acomp\t'|punct\t,|punct\tRicardo|compound\tSalinas|compound\t,|punct\tand|cc\tof Grupo Salinas ( Elektra , TV Azteca and Banco Azteca )|prep\t(|punct\t,|punct\tTV|compound\tTV Azteca and Banco Azteca|conj\tand|cc\tBanco|compound\t)|punct"
+                },
+                {
+                    "question": "What did Pliego write in 2018?",
+                    "score": 0.742,
+                    "answers": "Ricardo Salinas Pliego , Founder and President of Grupo Salinas ( Elektra , TV Azteca and Banco Azteca )|nsubj"
+                },
+                {
+                    "question": "What was Pliego's role with Grupo Salinas?",
+                    "score": 0.723,
+                    "answers": "Founder and President of Grupo Salinas ( Elektra , TV Azteca and Banco Azteca )|appos"
+                },
+                {
+                    "question": "What is the source of evidence of Pliego's work?",
+                    "score": 0.6627,
+                    "answers": "www.forbes.com.mx|nsubj"
+                },
+                {
+                    "question": "What is Grupo Salinas?",
+                    "score": 0.6476,
+                    "answers": "Grupo|compound\tGrupo Salinas ( Elektra , TV Azteca and Banco Azteca )|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Juan Pablo del Valle, president of the board of directors of the company Mexichem and who said he had voted for Ricardo Anaya , congratulated @LopezObrador_ , after the candidate of the PAN coalition and Jose Antonio Meade, of the PRI, recognized his victory in the presidential elections .",
+            "question_answers": [
+                {
+                    "question": "Who did Juan Pablo del Valle say he voted for?",
+                    "answer": "Ricardo Anaya"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What political party did Juan Pablo del Valle belong to?",
+                    "score": 0.792,
+                    "answers": "of the PAN coalition|prep"
+                },
+                {
+                    "question": "What political party does Jose Antonio Meade belong to?",
+                    "score": 0.7902,
+                    "answers": "the PRI|pobj"
+                },
+                {
+                    "question": "What did del Valle say about his victory in the 2018 presidential election?",
+                    "score": 0.7451,
+                    "answers": "www.forbes.com.mx reported on 02/07/2018 that Juan Pablo del Valle , president of the board of directors of the company Mexichem and who said he had voted for Ricardo Anaya , congratulated @LopezObrador _ , after the candidate of the PAN coalition and Jose Antonio Meade , of the PRI , recognized his victory in the presidential elections|ROOT"
+                },
+                {
+                    "question": "Who did del Valle vote for in 2018?",
+                    "score": 0.6896,
+                    "answers": "Juan Pablo del Valle , president of the board of directors of the company Mexichem and who said he had voted for Ricardo Anaya|nsubj"
+                },
+                {
+                    "question": "Who was the candidate of the PAN party in the 2018 election?",
+                    "score": 0.6402,
+                    "answers": "after the candidate of the PAN coalition and Jose Antonio Meade , of the PRI , recognized his victory in the presidential elections|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "For his part, businessman and activist Claudio X. González expressed his good wishes to Andres Manuel Lopez Obrador also via Twitter.",
+            "question_answers": [
+                {
+                    "question": "Who expressed his good wishes to Andres Manuel Lopez Obrador via Twitter?",
+                    "answer": "Claudio X. González"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Claudio X. González say to Andres Manuel Lopez Obrador?",
+                    "score": 0.8761,
+                    "answers": ",|punct\tand|cc\tClaudio|compound\tX.|compound\tLopez|compound"
+                },
+                {
+                    "question": "What did Claudio X González say about Andres Manuel Lopez Obrador on Twitter?",
+                    "score": 0.87,
+                    "answers": "For his part|prep"
+                },
+                {
+                    "question": "What is Claudio X. González's political affiliation?",
+                    "score": 0.8062,
+                    "answers": "activist|conj"
+                },
+                {
+                    "question": "What is Claudio X González's political affiliation?",
+                    "score": 0.8003,
+                    "answers": "businessman and activist|nmod"
+                },
+                {
+                    "question": "Who is Claudio X. González?",
+                    "score": 0.7617,
+                    "answers": "businessman and activist Claudio X. González|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Some characters like social entrepreneur Patricia Armendáriz Guerra, who spoke out in favor of Lopez Obrador, recognized Meade, who moments before accepted his defeat in the electoral contest.",
+            "question_answers": [
+                {
+                    "question": "What was Patricia Armendariz Guerra's profession?",
+                    "answer": "social entrepreneur"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Meade say about Lopez Obrador?",
+                    "score": 0.8788,
+                    "answers": "Meade , who moments before accepted his defeat in the electoral contest|dobj"
+                },
+                {
+                    "question": "Did Patricia Armendáriz Guerra speak out in favor of Lopez Obrador?",
+                    "score": 0.8767,
+                    "answers": "who spoke out in favor of Lopez Obrador|relcl\tmoments before|advmod"
+                },
+                {
+                    "question": "What did Patricia Armendáriz Guerra say about Obrador?",
+                    "score": 0.8329,
+                    "answers": "in the electoral contest|prep"
+                },
+                {
+                    "question": "What type of entrepreneur is Patricia Armendáriz Guerra?",
+                    "score": 0.8244,
+                    "answers": "social|amod"
+                },
+                {
+                    "question": "What is the source of evidence of Meade's victory?",
+                    "score": 0.7513,
+                    "answers": "www.forbes.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Once the electoral process has passed, we must look to the future; let us have faith in ourselves, there is a lot of work to be done ', wrote Jose Ramon Elizondo, president of the Basque company and who previously invited to exercise the vote in a reasoned manner and spoke about the consequences of winning a populist government.",
+            "question_answers": [
+                {
+                    "question": "What did forbes report on 02/07/2018?",
+                    "answer": "let us have faith in ourselves, there is a lot of work to be done"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jose Ramon Elizondo say about the electoral process?",
+                    "score": 0.8651,
+                    "answers": "electoral|amod\tthe electoral process|nsubj"
+                },
+                {
+                    "question": "What did Elizondo say about winning a populist government?",
+                    "score": 0.8576,
+                    "answers": "winning a populist government|pcomp"
+                },
+                {
+                    "question": "What was Jose Ramon Elizondo's position on the election process?",
+                    "score": 0.7533,
+                    "answers": "a lot of work to be done|attr"
+                },
+                {
+                    "question": "Who is Jose Ramon Elizondo president of Basque company?",
+                    "score": 0.7103,
+                    "answers": "of the Basque company|prep\tthe Basque company|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Congratulations to @lopezobrador_ for succeeding in a historically crowded and peaceful electoral process, thanks to the will of Mexicans.",
+            "question_answers": [
+                {
+                    "question": "What did www.forbes.com.mx report on 02/07/2018?",
+                    "answer": "'Congratulations to @lopezobrador_ for succeeding in a historically crowded and peaceful electoral process, thanks to the will of Mexicans"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many votes did Lopezobrador receive in the 2018 election?",
+                    "score": 0.8239,
+                    "answers": "electoral|amod"
+                },
+                {
+                    "question": "What is the history of the Mexican electoral process?",
+                    "score": 0.7998,
+                    "answers": "for succeeding in a historically crowded and peaceful electoral process , thanks to the will of Mexicans|prep\tsucceeding in a historically crowded and peaceful electoral process , thanks to the will of Mexicans|pcomp\tto the will of Mexicans|prep\tthe will of Mexicans|pobj\tof Mexicans|prep"
+                },
+                {
+                    "question": "What was the result of the election of Lopezobrador?",
+                    "score": 0.765,
+                    "answers": "thanks to the will of Mexicans|npadvmod"
+                },
+                {
+                    "question": "What is Lopezobrador's political affiliation?",
+                    "score": 0.7453,
+                    "answers": "on 02/07/2018|prep"
+                },
+                {
+                    "question": "Who is Lopezobrador?",
+                    "score": 0.7399,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 02/07/2018 that ' Congratulations to @lopezobrador _ for succeeding in a historically crowded and peaceful electoral process , thanks to the will of Mexicans|ROOT\tthat|mark\t'|punct\tthat ' Congratulations to @lopezobrador _ for succeeding in a historically crowded and peaceful electoral process , thanks to the will of Mexicans|npadvmod\tto @lopezobrador _|prep\t_|pobj\ta|det\thistorically|advmod\tand|cc\t,|punct\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "This is a clear mandate that obliges us all to work together and together ', added Olegario Vázquez, CEO of Grupo Empresarial Angeles.",
+            "question_answers": [
+                {
+                    "question": "What does the Forbes mandate oblige us to do?",
+                    "answer": "to work together and together"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to work together and together?",
+                    "score": 0.8252,
+                    "answers": "us all|dobj\tto work together and together|xcomp\ttogether and together|advmod"
+                },
+                {
+                    "question": "What is Olegario Vázquez's role in the Grupo Empresarial Angeles?",
+                    "score": 0.7785,
+                    "answers": "that|mark\tThis|nsubj\ta|det\tclear|amod\tthat|nsubj\tto|aux\tand|cc\t'|punct\t,|punct\t,|punct"
+                },
+                {
+                    "question": "What is the source of evidence of Olegario Vázquez being CEO of Grupo Empresarial Angeles?",
+                    "score": 0.7767,
+                    "answers": "on 02/07/2018|prep\twww.forbes.com.mx reported on 02/07/2018 that This is a clear mandate that obliges us all to work together and together ' , added Olegario Vázquez , CEO of Grupo Empresarial Angeles|ROOT"
+                },
+                {
+                    "question": "What is Grupo Empresarial Angeles?",
+                    "score": 0.74,
+                    "answers": "Grupo|compound"
+                },
+                {
+                    "question": "What is the mandate of Olegario Vázquez?",
+                    "score": 0.7382,
+                    "answers": "that This is a clear mandate that obliges us all to work together and together|ccomp"
+                }
+            ]
+        }
+    ]
+}

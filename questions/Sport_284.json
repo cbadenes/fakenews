@@ -1,0 +1,346 @@
+{
+    "id": "Sport_284",
+    "claim": "The news that Jorge Vergara ended his relationship with Televisa has caused great impact. The businessman said that among the reasons was the fact that several times he changed schedules to accommodate the interests of the television station, which would show that they never took them seriously. But what Vergara did not announce, is that to terminate the contract it was necessary to pay a conventional penalty, and although the amount has not been disclosed, it seems that it was cheaper for Vergara to sell the franchise and start with a new one. So, while Vergara will continue in Jalisco with the team now called the Birrieros of Zapopan, Televisa owns the Chivas. 'Mr. Vergara is a businessman, and he did what was best for everyone ', declared the graduate Spiritist Clavijero, legal representative of Televisa.'If the gentleman had the need to terminate the contract to sign with Fox Sports, then he leaves with his team but leaves us the name. We all win.\". Televisa now plans to renew the image of the Chivas, and for that reason, they trust the new team president, Ricardo Peláez:'We will use players from America who have had almost no action to form this team. It doesn't matter if they're Mexicans or foreigners, since we live in an era of globalization, and that's because only nationals, they're not going to. Hence his failures ', he noted. - And will they start from below? - No. Femexfut knows the Chivas are heavy, and they'll let them stay in first division. From the next campaign, the Chivas de Coapa will start playing at the Azteca Stadium, which they will share with America, where Peláez will remain president.'This is gonna get good. The classic America-Chivas will now be exciting, because they will be incarnated, warlike, and, above all, fratricidal ', the director concluded. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "19/04/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The news that Jorge Vergara ended relationship with Televisa has caused great impact.",
+            "question_answers": [
+                {
+                    "question": "What was the impact of the news that Jorge Vergara ended relationship with Televisa?",
+                    "answer": "great impact"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Televisa's relationship with Jorge Vergara?",
+                    "score": 0.8247,
+                    "answers": "with Televisa|prep"
+                },
+                {
+                    "question": "What is the relationship between Jorge Vergara and Televisa?",
+                    "score": 0.772,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 19/04/2017 that The news that Jorge Vergara ended relationship with Televisa has caused great impact|ROOT\ton 19/04/2017|prep\tthat|mark\tThe|det\tThe news that Jorge Vergara ended relationship with Televisa|nsubj\tthat|mark\tJorge|compound\tthat Jorge Vergara ended relationship with Televisa|acl\trelationship with Televisa|dobj\thas|aux\tthat The news that Jorge Vergara ended relationship with Televisa has caused great impact|ccomp\tgreat|amod\tgreat impact|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Jorge Vergara said that among the reasons was the fact that several times Jorge Vergara changed schedules to accommodate the interests of Televisa , which would show that Televisa never took them seriously.",
+            "question_answers": [
+                {
+                    "question": "Who did Jorge Vergara say never took Televisa seriously?",
+                    "answer": "Televisa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Televisa change schedules?",
+                    "score": 0.8667,
+                    "answers": "that among the reasons was the fact that several times Jorge Vergara changed schedules to accommodate the interests of Televisa , which would show that Televisa never took them seriously|ccomp\tthe fact that several times Jorge Vergara changed schedules to accommodate the interests of Televisa , which would show that Televisa never took them seriously|nsubj\twhich would show that Televisa never took them seriously|advcl\tthat Televisa never took them seriously|ccomp"
+                },
+                {
+                    "question": "Why did Jorge Vergara change schedules for Televisa?",
+                    "score": 0.8426,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 19/04/2017 that Jorge Vergara said that among the reasons was the fact that several times Jorge Vergara changed schedules to accommodate the interests of Televisa , which would show that Televisa never took them seriously|ROOT\tthat|mark\tthat|mark\tamong the reasons|prep\tthe|det\tthe reasons|pobj\tthe|det\tthat|mark\tseveral|amod\tseveral times|npadvmod\tschedules|dobj\tto|aux\tto accommodate the interests of Televisa|advcl\tthe|det\t,|punct\tthat|mark"
+                },
+                {
+                    "question": "What did Jorge Vergara say about Televisa?",
+                    "score": 0.7714,
+                    "answers": "on 19/04/2017|prep\tthat Jorge Vergara said that among the reasons was the fact that several times Jorge Vergara changed schedules to accommodate the interests of Televisa , which would show that Televisa never took them seriously|ccomp\tthe interests of Televisa|dobj\tof Televisa|prep"
+                },
+                {
+                    "question": "What is the relationship between Televisa and Jorge Vergara?",
+                    "score": 0.6579,
+                    "answers": "Jorge|compound\tJorge|compound\twhich|nsubj\twould|aux\tnever|neg\tthem|dobj\tseriously|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "But what Jorge Vergara did not announce, is that to terminate the contract it was necessary to pay a conventional penalty, and although the amount has not been disclosed, it seems that it was cheaper for Jorge Vergara to sell the franchise and start with a new one .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Jorge Vergara had to pay a penalty?",
+                    "answer": "19/04/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much did it cost Jorge Vergara to sell the franchise?",
+                    "score": 0.8041,
+                    "answers": "start with a new one|conj"
+                },
+                {
+                    "question": "What did Jorge Vergara say about terminating the contract?",
+                    "score": 0.7857,
+                    "answers": "what|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "So, while Jorge Vergara will continue in Jalisco with a new one , Televisa owns the franchise .",
+            "question_answers": [
+                {
+                    "question": "What will Jorge Vergara continue with in Jalisco?",
+                    "answer": "a new one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who owns the Televisa franchise?",
+                    "score": 0.8544,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 19/04/2017 that So , while Jorge Vergara will continue in Jalisco with a new one , Televisa owns the franchise|ROOT\ton 19/04/2017|prep\tthat So , while Jorge Vergara will continue in Jalisco with a new one , Televisa owns the franchise|ccomp\tthe franchise|dobj"
+                },
+                {
+                    "question": "What is the name of the Televisa franchise?",
+                    "score": 0.765,
+                    "answers": "while Jorge Vergara will continue in Jalisco with a new one|advcl\twith a new one|prep"
+                },
+                {
+                    "question": "What is the relationship between Televisa and Jorge Vergara?",
+                    "score": 0.7535,
+                    "answers": "that|mark\tSo|advmod\t,|punct\twhile|mark\tJorge|compound\twill|aux\tin Jalisco|prep\ta|det\tnew|amod\ta new one|pobj\t,|punct\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'Jorge Vergara is a businessman, and Jorge Vergara did what was best for everyone ', declared the graduate Spiritist Clavijero, legal representative of Televisa .",
+            "question_answers": [
+                {
+                    "question": "What did Jorge Vergara do?",
+                    "answer": "what was best for everyone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Clavijero say about Vergara?",
+                    "score": 0.7463,
+                    "answers": "best for everyone|acomp"
+                },
+                {
+                    "question": "What is the source of evidence of Clavijero's wealth?",
+                    "score": 0.6576,
+                    "answers": "for everyone|prep"
+                },
+                {
+                    "question": "What was Clavijero's role in Televisa?",
+                    "score": 0.6495,
+                    "answers": "legal representative of Televisa|appos"
+                },
+                {
+                    "question": "What was the relationship between Jorge Vergara and Clavijero?",
+                    "score": 0.6365,
+                    "answers": "Jorge Vergara did what was best for everyone|conj\twhat was best for everyone|ccomp"
+                },
+                {
+                    "question": "What is Clavijero's legal affiliation with Televisa?",
+                    "score": 0.6268,
+                    "answers": "legal|amod"
+                }
+            ]
+        },
+        {
+            "claim": "'If Jorge Vergara had the need to terminate the contract to sign with Fox Sports, then Jorge Vergara leaves with a new one but leaves Televisa the name.",
+            "question_answers": [
+                {
+                    "question": "What company did Jorge Vergara leave after he had to terminate his contract with Fox Sports?",
+                    "answer": "Televisa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Fox Sports and Jorge Vergara?",
+                    "score": 0.6835,
+                    "answers": "the need to terminate the contract to sign with Fox Sports|dobj\tto terminate the contract to sign with Fox Sports|acl\tthe contract to sign with Fox Sports|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Televisa now plans to renew the image of the franchise , and for renew , Televisa trust the new team president, Ricardo Peláez:'We will use players from America who have had almost no action to form this team .",
+            "question_answers": [
+                {
+                    "question": "What does Televisa plan to do?",
+                    "answer": "renew the image of the franchise"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Televisa do to renew the image of the franchise?",
+                    "score": 0.7858,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\tnow|advmod\tto|aux\tto renew the image of the franchise|xcomp\tthe image of the franchise|dobj\t,|punct\tand|cc\tfor renew|prep\trenew|pcomp\t,|punct\tnew|amod\t,|punct\talmost no action|dobj\tto|aux\tthis|det"
+                },
+                {
+                    "question": "Where did Televisa get their players from?",
+                    "score": 0.7814,
+                    "answers": "from America|prep"
+                },
+                {
+                    "question": "How many players will Televisa use to form their team?",
+                    "score": 0.7081,
+                    "answers": "will|aux\talmost|advmod"
+                },
+                {
+                    "question": "How many players does Televisa have?",
+                    "score": 0.6991,
+                    "answers": "team|compound\twho|nsubj\thave|aux\talmost no|nummod"
+                },
+                {
+                    "question": "What is Televisa's relationship with Ricardo Peláez?",
+                    "score": 0.6813,
+                    "answers": "www.eldizque.com reported on 19/04/2017 that Televisa now plans to renew the image of the franchise , and for renew , Televisa trust the new team president , Ricardo Peláez:'We|ROOT\ton 19/04/2017|prep\tthat Televisa now plans to renew the image of the franchise , and for renew , Televisa trust the new team president , Ricardo Peláez:'We|ccomp\tthe|det\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "It doesn't matter if players from America who have had almost no action to form this team 're Mexicans or foreigners, since we live in an era of globalization, and that's because only nationals , only nationals 're not going to.",
+            "question_answers": [
+                {
+                    "question": "Who are not going to be a part of the Mexican team?",
+                    "answer": "nationals"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the nationality of the players from America who form the team?",
+                    "score": 0.7387,
+                    "answers": "who have had almost no action to form this team|relcl"
+                },
+                {
+                    "question": "What is the immigration rate of foreign football teams?",
+                    "score": 0.7153,
+                    "answers": "almost no action to form this team|dobj\tto form this team|acl\tthat 's because only nationals , only nationals 're not going to|conj"
+                },
+                {
+                    "question": "What is the current immigration rate in the USA?",
+                    "score": 0.6967,
+                    "answers": "since we live in an era of globalization ,|advcl"
+                },
+                {
+                    "question": "What is the number of foreign nationals in the US?",
+                    "score": 0.6937,
+                    "answers": "because only nationals , only nationals 're not going to|advcl"
+                },
+                {
+                    "question": "What is the origin of the term \"foreign team\"?",
+                    "score": 0.6805,
+                    "answers": "does|aux\twho|nsubj\thave|aux\talmost|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Hence his failures ', he noted.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 19/04/2017?",
+                    "answer": "failures"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Reid�s failures?",
+                    "score": 0.8049,
+                    "answers": "that Hence his failures|dobj"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.6713,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Femexfut knows the Chivas are heavy, and they'll let them stay in first division.",
+            "question_answers": [
+                {
+                    "question": "Who knows the Chivas are heavy?",
+                    "answer": "Femexfut"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Femexfut say about the Chivas being in first division?",
+                    "score": 0.7692,
+                    "answers": "'ll|aux\tthem stay in first division|ccomp\tin first division|prep\tfirst division|pobj"
+                },
+                {
+                    "question": "What does Femexfut know about the Chivas?",
+                    "score": 0.7577,
+                    "answers": "the Chivas|nsubj\theavy|acomp"
+                },
+                {
+                    "question": "What is the relationship between Femexfut and Chivas?",
+                    "score": 0.6273,
+                    "answers": "on 19/04/2017|prep\t19/04/2017|pobj\tthat|mark\tthe|det\t,|punct\tand|cc\tthey|nsubj\tthem|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "From the next campaign, the Chivas de Coapa will start playing at the Azteca Stadium, which they will share with America, where Peláez will remain president.",
+            "question_answers": [
+                {
+                    "question": "What team will start playing at Azteca Stadium?",
+                    "answer": "Chivas de Coapa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the Chivas de Coapa start playing at Azteca Stadium?",
+                    "score": 0.8821,
+                    "answers": "on 19/04/2017|prep\tnext|amod\tthe next campaign|pobj"
+                },
+                {
+                    "question": "Where will Chivas de Coapa play next year?",
+                    "score": 0.8316,
+                    "answers": "www.eldizque.com|nsubj\tAzteca|compound"
+                },
+                {
+                    "question": "Who is the president of Chivas de Coapa?",
+                    "score": 0.7158,
+                    "answers": "where Peláez will remain president|relcl\tpresident|attr"
+                },
+                {
+                    "question": "What is the relationship between Chivas de Coapa and America?",
+                    "score": 0.7068,
+                    "answers": "www.eldizque.com reported on 19/04/2017 that From the next campaign , the Chivas de Coapa will start playing at the Azteca Stadium , which they will share with America , where Peláez will remain president|ROOT\tthat|mark\tthe|det\t,|punct\tthe|det\tChivas|nmod\tde|nmod\tthe|det\t,|punct\twhich|dobj\tthey|nsubj\twhich they will share with America|relcl\twith America|prep\t,|punct\twhere|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "The classic America-Chivas will now be exciting, because they will be incarnated, warlike, and, above all, fratricidal ', the director concluded.",
+            "question_answers": [
+                {
+                    "question": "Why did eldizque say the classic America-Chivas would be exciting?",
+                    "answer": "they will be incarnated, warlike, and, above all, fratricidal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the director say about America-Chivas?",
+                    "score": 0.8,
+                    "answers": "on 19/04/2017|prep\tincarnated , warlike , and , above all , fratricidal|acomp"
+                },
+                {
+                    "question": "What is the history of America-Chivas?",
+                    "score": 0.6835,
+                    "answers": "The classic America - Chivas|nsubj"
+                },
+                {
+                    "question": "Who is the director of The classic America-Chivas?",
+                    "score": 0.6602,
+                    "answers": "the director|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the classic America-Chivas and fratricidal?",
+                    "score": 0.6516,
+                    "answers": "classic|amod\tnow|advmod\texciting|acomp\tbecause|mark\tthey|nsubj\tand|cc\tabove all|prep"
+                },
+                {
+                    "question": "What is fratricidal?",
+                    "score": 0.6332,
+                    "answers": "fratricidal|conj"
+                }
+            ]
+        }
+    ]
+}

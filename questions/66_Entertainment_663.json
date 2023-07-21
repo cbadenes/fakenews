@@ -1,0 +1,137 @@
+{
+    "id": "66_Entertainment_663",
+    "claim": "The Mexican attacker commented on a photograph of the youtuber, this after being eliminated from the World CupAfter the elimination of Mexico at the hands of Brazil in the Eighth World Cup Finals of Russia, the tricolor attacker Javier Hernández did not hesitate to leave a compliment to the youtuber Yuya. The influencer also published a photograph of his stay in world championship lands and the Chicharito took advantage to comment on the image with some emojis of some flames. Several Instagram users noticed this fact and began to speculate and hint if both characters had a relationship, as the West Ham attacker is currently single after his break-up with Spanish actress Andrea Duro. Currently, Hernández left the concentration of the Tricolor in Moscow with the rest of his companions and will have a few days of vacation before joining the preseason of the Hammers. I'm sorry.",
+    "source": "www.record.com.mx",
+    "date": "03/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The Mexican attacker commented on a photograph of the youtuber, this after being eliminated from the World CupAfter the elimination of Mexico at the hands of Brazil in the Eighth World Cup Finals of Russia, the tricolor attacker Javier Hernández did not hesitate to leave a compliment to the youtuber Yuya.",
+            "question_answers": [
+                {
+                    "question": "Who was the tricolor attacker who commented on a photograph of the youtuber after being eliminated from the World Cup?",
+                    "answer": "Javier Hernández"
+                },
+                {
+                    "question": "Who was the tricolor attacker who commented on a photograph of the youtuber after being eliminated from the World Cup?",
+                    "answer": "Javier Hernández"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Hernández say about Yuya?",
+                    "score": 0.6753,
+                    "answers": "www.record.com.mx|nsubj\tat the hands of Brazil|prep\tWorld Cup|compound"
+                },
+                {
+                    "question": "What did the Mexican attacker say about Yuya after being eliminated from the World Cup?",
+                    "score": 0.6558,
+                    "answers": "that The Mexican attacker commented on a photograph of the youtuber , this after being eliminated from the World CupAfter the elimination of Mexico at the hands of Brazil in the Eighth World Cup Finals of Russia|ccomp\tthe hands of Brazil|pobj"
+                },
+                {
+                    "question": "What is the relationship between Hernández and Yuya?",
+                    "score": 0.5618,
+                    "answers": "on 03/07/2018|prep\tthat|mark\tThe|det\tThe Mexican attacker|nsubj\ton a photograph of the youtuber ,|prep\ta|det\ta photograph of the youtuber ,|pobj\tof the youtuber|prep\tthe|det\tthe youtuber|pobj\t,|punct\tafter being eliminated from|prep\tbeing|auxpass\tbeing eliminated from|pcomp\tfrom|prep\tthe|det\tWorld|compound\tthe|det\tof Mexico|prep\tthe|det\tof Brazil|prep\tthe|det\tWorld|compound\tof Russia|prep\t,|punct\tthe|det\ttricolor|compound\tthe tricolor attacker Javier Hernández|nsubj\tJavier|compound\tdid|aux\tnot|neg\t, the tricolor attacker Javier Hernández did not hesitate to leave a compliment to the youtuber Yuya|ROOT\tto|aux\tto leave a compliment to the youtuber Yuya|xcomp\ta|det\ta compliment|dobj\tthe|det"
+                },
+                {
+                    "question": "What is the name of the youtuber Yuya?",
+                    "score": 0.5589,
+                    "answers": "to the youtuber Yuya|dative\tthe youtuber Yuya|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The influencer also published a photograph of his stay in world championship lands and the Chicharito took advantage to comment on the image with some emojis of some flames.",
+            "question_answers": [
+                {
+                    "question": "What did the Chicharito do with the image?",
+                    "answer": "comment on the image with some emojis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Chicharito stay in world championship lands?",
+                    "score": 0.8024,
+                    "answers": "in world championship lands|prep"
+                },
+                {
+                    "question": "What did Chicharito do to comment on the image?",
+                    "score": 0.7006,
+                    "answers": "the Chicharito took advantage to comment on the image with some emojis of some flames|conj"
+                },
+                {
+                    "question": "What are the emojis of Chicharito?",
+                    "score": 0.6304,
+                    "answers": "some emojis of some flames|pobj"
+                },
+                {
+                    "question": "What is the name of the Chicharito?",
+                    "score": 0.5843,
+                    "answers": "the Chicharito|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Several Instagram users noticed this fact and began to speculate and hint if both characters had a relationship, as the West Ham attacker is currently single after his break-up with Spanish actress Andrea Duro.",
+            "question_answers": [
+                {
+                    "question": "Why did some users speculate that the West Ham attacker might have a relationship with Andrea Duro?",
+                    "answer": "West Ham attacker is currently single after his break-up with Spanish actress Andrea Duro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who did the West Ham attacker break up with?",
+                    "score": 0.6979,
+                    "answers": "his break - up with Spanish actress Andrea Duro|pobj"
+                },
+                {
+                    "question": "What is the relationship between West Ham attacker and Spanish actress Andrea Duro?",
+                    "score": 0.661,
+                    "answers": "that Several Instagram users noticed this fact and began to speculate and hint if both characters had a relationship , as the West Ham attacker is currently single after his break - up with Spanish actress Andrea Duro|ccomp"
+                },
+                {
+                    "question": "Who is Andrea Duro?",
+                    "score": 0.5665,
+                    "answers": "Spanish actress|compound\tSpanish actress Andrea Duro|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Currently, Hernández left the concentration of the Tricolor in Moscow with the rest of his companions and will have a few days of vacation before joining the preseason of the Hammers.",
+            "question_answers": [
+                {
+                    "question": "What happened to Hernández on 03/07/2018?",
+                    "answer": "Hernández left the concentration of the Tricolor in Moscow with the rest of his companions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Hernández leave Moscow?",
+                    "score": 0.8332,
+                    "answers": "www.record.com.mx reported on 03/07/2018 that Currently , Hernández left the concentration of the Tricolor in Moscow with the rest of his companions and will have a few days of vacation before joining the preseason of the Hammers|ROOT\tthat|mark\tCurrently|advmod\t,|punct\tthe|det\tthe|det\tthe|det\this|poss\tand|cc\twill|aux\twill have a few days of vacation before joining the preseason of the Hammers|conj\ta|det\tfew|amod\tthe|det\tthe|det"
+                },
+                {
+                    "question": "Where did Hernández spend a few days before joining the preseason of the Hammers?",
+                    "score": 0.7801,
+                    "answers": "www.record.com.mx|nsubj\tof the Hammers|prep\tthe Hammers|pobj"
+                },
+                {
+                    "question": "Where was Hernández when he left Moscow?",
+                    "score": 0.7567,
+                    "answers": "of the Tricolor|prep"
+                },
+                {
+                    "question": "How many days did Hernández spend with his companions?",
+                    "score": 0.7257,
+                    "answers": "with the rest of his companions|prep\tthe rest of his companions|pobj\tof his companions|prep\this companions|pobj\ta few days of vacation|dobj\tof vacation|prep\tvacation|pobj"
+                },
+                {
+                    "question": "What is the location of the Tricolor in Moscow?",
+                    "score": 0.6353,
+                    "answers": "the concentration of the Tricolor in Moscow|dobj"
+                }
+            ]
+        }
+    ]
+}

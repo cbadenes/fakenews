@@ -1,0 +1,305 @@
+{
+    "id": "90_Society_74",
+    "claim": "Another tremendous news further empathizes the fragile relations between Mexico and the United States. This time it is something with few precedents, as the Taco Bell fast food chain achieved the worldwide registration of the word 'taco'. With this, Mexico's taquerías will have to put another name on their products. 'The process took us a couple of years and remained secret, but in the end we triumphed ', revealed Brian Niccol, CEO of Taco Bell. 'We were recording the word in every country, and we only lacked Mexico. Just this morning we received documentation from the Mexican Institute of Copyright (sic) and the Mexican Institute of Intellectual Property'. Sources consulted by El, say that both the National Institute of Copyright and IMPI accepted generous 'donations 'from Taco Bell in order to expedite procedures, which were ready in a few hours. 'We finally won ', Niccol added.'Now Mexicans can no longer tell us that what we sell is not tacos. Now what they do is not tacos!'The president of the United States, Donald Trump, congratulated the company for its initiative, and promised a greater tax exemption so that they can expand to more countries:'Taco Bell will bring the real tacos to everyone. Delicious. Not like the #FakeTacos of Mexicans,'he tweeted. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "12/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Another tremendous news further empathizes the fragile relations between Mexico and the United States.",
+            "question_answers": [
+                {
+                    "question": "What did this news further empathize with?",
+                    "answer": "the fragile relations between Mexico and the United States"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Mexico and the United States?",
+                    "score": 0.6129,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 12/06/2018 that Another tremendous news further empathizes the fragile relations between Mexico and the United States|ROOT\ton 12/06/2018|prep\tthat|mark\tAnother|det\ttremendous|amod\tAnother tremendous news|nsubj\tfurther|advmod\tthat Another tremendous news further empathizes the fragile relations between Mexico and the United States|ccomp\tthe|det\tfragile|amod\tthe fragile relations between Mexico and the United States|dobj\tbetween Mexico and the United States|prep\tMexico and the United States|pobj\tand|cc\tthe|det\tUnited|compound"
+                }
+            ]
+        },
+        {
+            "claim": "This time it is something with few precedents, as the Taco Bell fast food chain achieved the worldwide registration of the word 'taco'.",
+            "question_answers": [
+                {
+                    "question": "What fast food chain achieved the worldwide registration of the word 'taco'?",
+                    "answer": "Taco Bell"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Has Taco Bell ever been registered as a fast food chain?",
+                    "score": 0.9184,
+                    "answers": "as the Taco Bell fast food chain achieved the worldwide registration of the word ' taco '|advcl"
+                },
+                {
+                    "question": "Has Taco Bell fast food chain ever registered the word Taco?",
+                    "score": 0.9146,
+                    "answers": "that This time it is something with few precedents , as the Taco Bell fast food chain achieved the worldwide registration of the word ' taco '|ccomp"
+                },
+                {
+                    "question": "What is the fastest growing fast food chain?",
+                    "score": 0.8055,
+                    "answers": "fast|amod"
+                },
+                {
+                    "question": "What is fast food?",
+                    "score": 0.7879,
+                    "answers": "fast food|compound"
+                },
+                {
+                    "question": "What is the worldwide registration of the word Taco?",
+                    "score": 0.7697,
+                    "answers": "the|det\tthe|det\tworldwide|amod\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "With this, Mexico's taquerías will have to put another name on their products.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the name of Mexico's taquerias products?",
+                    "score": 0.8395,
+                    "answers": "to put another name on their products|xcomp\ton their products|prep\ttheir products|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the names of Mexico's taquerias?",
+                    "score": 0.8129,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'The process took us a couple of years and remained secret, but in the end we triumphed ', revealed Brian Niccol, CEO of Taco Bell.",
+            "question_answers": [
+                {
+                    "question": "What did Brian Niccol say about the Taco Bell process?",
+                    "answer": "we triumphed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take for Brian Niccol to become CEO of Taco Bell?",
+                    "score": 0.7275,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 12/06/2018 that ' The process took us a couple of years and remained secret , but in the end we triumphed|ccomp\tThe process|nsubj\tthat ' The process took us a couple of years and remained secret , but in the end we triumphed|ccomp"
+                },
+                {
+                    "question": "What was Brian Niccol's relationship with Taco Bell?",
+                    "score": 0.6441,
+                    "answers": "in the end we triumphed|conj"
+                },
+                {
+                    "question": "What was the relationship between Brian Niccol and Taco Bell?",
+                    "score": 0.607,
+                    "answers": "of Taco Bell|prep\tTaco|compound"
+                },
+                {
+                    "question": "Who is Brian Niccol?",
+                    "score": 0.5481,
+                    "answers": "Brian Niccol , CEO of Taco Bell|nsubj\tCEO of Taco Bell|appos"
+                }
+            ]
+        },
+        {
+            "claim": "'We were recording the word in every country, and we only lacked Mexico.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that they were recording the word in every country?",
+                    "answer": "12/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many countries have been recording the word Mexico?",
+                    "score": 0.7841,
+                    "answers": "on 12/06/2018|prep\tthat|mark\t'|punct\tWe|nsubj\tthe|det\tthe word|dobj\tin every country|prep\tevery|det\tevery country|pobj\t,|punct\tand|cc\twe|nsubj\tonly|advmod\twe only lacked Mexico|conj"
+                },
+                {
+                    "question": "How many countries were recording the word Mexico in 2018?",
+                    "score": 0.7589,
+                    "answers": "were|aux"
+                }
+            ]
+        },
+        {
+            "claim": "Just this morning we received documentation from the Mexican Institute of Copyright (sic) and the Mexican Institute of Intellectual Property'.",
+            "question_answers": [
+                {
+                    "question": "What organization did eldizque.com receive documentation from on 12/06/2018?",
+                    "answer": "Mexican Institute of Copyright"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the documentation from the Mexican Institute of Copyright come from?",
+                    "score": 0.8224,
+                    "answers": "of Copyright|prep\tof Intellectual Property|prep"
+                },
+                {
+                    "question": "What is the definition of intellectual property?",
+                    "score": 0.7572,
+                    "answers": "Intellectual Property|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Sources consulted by El, say that both the National Institute of Copyright and IMPI accepted generous 'donations 'from Taco Bell in order to expedite procedures, which were ready in a few hours.",
+            "question_answers": [
+                {
+                    "question": "What did the National Institute of Copyright and IMPI accept from Taco Bell?",
+                    "answer": "'donations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What donations did Taco Bell accept?",
+                    "score": 0.8193,
+                    "answers": "generous ' donations ' from Taco Bell|dobj"
+                },
+                {
+                    "question": "Did El accept generous donations from Taco Bell?",
+                    "score": 0.8088,
+                    "answers": "Sources consulted by El|nsubj\tconsulted by El|acl\tby El|agent"
+                },
+                {
+                    "question": "What donations did El accept from Taco Bell?",
+                    "score": 0.8053,
+                    "answers": "www.eldizque.com|nsubj\ton 12/06/2018|prep"
+                },
+                {
+                    "question": "What donations did the National Institute of Copyright and IMPI accept?",
+                    "score": 0.7656,
+                    "answers": "both the National Institute of Copyright and IMPI|nsubj\tgenerous|amod"
+                },
+                {
+                    "question": "Did El accept donations from Taco Bell in order to expedite procedures?",
+                    "score": 0.7638,
+                    "answers": "that Sources consulted by El , say that both the National Institute of Copyright and IMPI accepted generous ' donations ' from Taco Bell in order to expedite procedures , which were ready in a few hours|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'We finally won ', Niccol added.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 12/06/2018?",
+                    "answer": "'We finally won"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Niccol say about the election?",
+                    "score": 0.88,
+                    "answers": "finally|advmod\tthat ' We finally won|ccomp\t,|punct\twww.eldizque.com reported on 12/06/2018 that ' We finally won ' , Niccol added|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the results of the 2018 election?",
+                    "score": 0.8096,
+                    "answers": "www.eldizque.com reported on 12/06/2018|ccomp\ton 12/06/2018|prep\tthat|mark\t'|punct\t'|punct"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.7726,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the United States and Niccol?",
+                    "score": 0.6683,
+                    "answers": "We|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Now Mexicans can no longer tell us that what we sell is not tacos.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Mexicans can no longer tell us that what we sell is not tacos?",
+                    "answer": "12/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Mexico selling tortillas?",
+                    "score": 0.8234,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the difference between Mexican and Mexican food?",
+                    "score": 0.8137,
+                    "answers": "www.eldizque.com reported on 12/06/2018 that ' Now Mexicans can no longer tell us that what we sell is not tacos|ROOT\tNow|advmod\tcan|aux\tno longer|advmod\tthat ' Now Mexicans can no longer tell us that what we sell is not tacos|ccomp\tus|dobj\twhat|dobj\twe|nsubj\twhat we sell|csubj\tnot|neg"
+                },
+                {
+                    "question": "What is the origin of the word tacos?",
+                    "score": 0.7954,
+                    "answers": "that what we sell is not tacos|ccomp\ttacos|attr"
+                },
+                {
+                    "question": "What is the definition of tacos?",
+                    "score": 0.7787,
+                    "answers": "on 12/06/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Now what they do is not tacos!'The president of the United States, Donald Trump, congratulated the company for its initiative, and promised a greater tax exemption so that they can expand to more countries:'Taco Bell will bring the real tacos to everyone.",
+            "question_answers": [
+                {
+                    "question": "What did the president of the United States say about Taco Bell?",
+                    "answer": "congratulated the company for its initiative, and promised a greater tax exemption so that they can expand to more countries:'Taco Bell"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about Taco Bell?",
+                    "score": 0.8254,
+                    "answers": "www.eldizque.com|nsubj\ton 12/06/2018|prep\tNow|advmod\twhat|dobj\tthey|nsubj\tnot|neg\ttacos!'The|attr\tpresident of the United States , Donald Trump ,|nsubj\tof the United States|prep\tpresident of the United States , Donald Trump , congratulated the company for its initiative , and promised a greater tax exemption so that they can expand to more countries:'Taco Bell will bring the real tacos to everyone|ROOT\tits initiative|pobj\tpromised a greater tax exemption so that they can expand to|conj\ta greater tax exemption|dobj\tthey|nsubj\tcountries:'Taco|punct\tBell will bring the real tacos to everyone|conj\tto everyone|prep"
+                },
+                {
+                    "question": "How many countries does Taco Bell want to expand to?",
+                    "score": 0.8046,
+                    "answers": "what they do|csubj\tso that they can expand to|advcl"
+                },
+                {
+                    "question": "What are the benefits of Taco Bell expanding to other countries?",
+                    "score": 0.7777,
+                    "answers": "the real tacos|dobj"
+                },
+                {
+                    "question": "What is Taco Bell?",
+                    "score": 0.7556,
+                    "answers": "www.eldizque.com reported on 12/06/2018 that Now what they do is not tacos!'The|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Delicious.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 12/06/2018 that Delicious was a popular snack?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the Delicious?",
+                    "score": 0.6457,
+                    "answers": "www.eldizque.com reported on 12/06/2018 that Delicious|ROOT\tthat Delicious|ccomp"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.6424,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Delicious andldizque.com?",
+                    "score": 0.5732,
+                    "answers": "on 12/06/2018|prep"
+                }
+            ]
+        }
+    ]
+}

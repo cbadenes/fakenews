@@ -1,0 +1,268 @@
+{
+    "id": "106_Entertainment_656",
+    "claim": "A perfect bone structure, the dark mane and protagonist in contrast against the impeccable ivory skin, the big lips giving a flirtatious touch of color and the expressive eyes always delineated to perfection; this description not only applies as a ring to the finger Angelina Jolie, but also to Neri Oxman. Who is this woman?A renowned teacher at MIT (Massachusetts Insitute of Technology) who in recent days has been linked to Brad Pitt. If the relationship that has been reported to be true began with a common interest in architecture, it seems that the actor has very clear his tastes. If when she finished with Jennifer Aniston made a turn of #NUMBER*° passing from the Californian-style blonde to a lush brunette with heart attack curves, this time things have changed. Particular attention has been drawn to the resemblance between Angelina and Neri, who in addition to having a very similar style are exactly the same age,  years. Although it was initially said that between Neri and Brad there was only one close friendship, initiated by Pitt's interest in architecture, discipline in which the Israeli is an eminence, in the last few hours the reports have changed. There are even those who claim that they are a whole couple and that they are completely in love. The truth is that images of the actor have emerged visiting the famous institute in which Neri teaches, and not only posed with a group of lucky students who found him on the premises, but also appears in a photograph with the architect and her entire research group. Although with her role as an academic she would not anticipate, Oxman is quite an expert in front of the cameras with several poses and surprisingly her resemblance to Angelina is a thing of recent years. The darkest mane and the most highlighted lips have made the similarities that previously did not exist evident. I'm sorry.",
+    "source": "mx.hola.com",
+    "date": "11/04/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "A perfect bone structure, the dark mane and protagonist in contrast against the impeccable ivory skin, the big lips giving a flirtatious touch of color and the expressive eyes always delineated to perfection; this description not only applies as a ring to the finger Angelina Jolie , but also to Neri Oxman .",
+            "question_answers": [
+                {
+                    "question": "Whose finger does this ring apply to?",
+                    "answer": "Angelina Jolie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How big are the lips of Angelina Jolie?",
+                    "score": 0.6752,
+                    "answers": "big|amod"
+                },
+                {
+                    "question": "What is the color of the ring for Angelina Jolie?",
+                    "score": 0.6209,
+                    "answers": "color|pobj"
+                },
+                {
+                    "question": "What are the features of Angelina Jolie?",
+                    "score": 0.6202,
+                    "answers": "the impeccable ivory skin|pobj"
+                },
+                {
+                    "question": "What type of skin does the ring have?",
+                    "score": 0.5889,
+                    "answers": "ivory|compound"
+                },
+                {
+                    "question": "What is the relationship between Angelina Jolie and Neri Oxman?",
+                    "score": 0.5708,
+                    "answers": "on 11/04/2018|prep\tto the finger Angelina Jolie , but also to Neri Oxman|prep\tthe finger Angelina Jolie|pobj\tAngelina|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Who is Neri Oxman renowned teacher at MIT (Massachusetts Insitute of Technology) who in recent days has been linked to Brad Pitt .",
+            "question_answers": [
+                {
+                    "question": "Where was Neri Oxman a teacher?",
+                    "answer": "MIT (Massachusetts Insitute of Technology)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is Neri Oxman connected to Brad Pitt?",
+                    "score": 0.8331,
+                    "answers": "in recent days|prep"
+                },
+                {
+                    "question": "Where is Neri Oxman from?",
+                    "score": 0.7027,
+                    "answers": "at MIT ( Massachusetts Insitute of Technology )|prep\tMIT ( Massachusetts Insitute of Technology )|pobj\tMassachusetts|compound"
+                },
+                {
+                    "question": "Who is Neri Oxman's teacher at MIT?",
+                    "score": 0.6838,
+                    "answers": "who in recent days has been linked to Brad Pitt|relcl"
+                },
+                {
+                    "question": "Who is Neri Oxman?",
+                    "score": 0.6741,
+                    "answers": "mx.hola.com reported on 11/04/2018 that Who is Neri Oxman renowned teacher at MIT ( Massachusetts Insitute of Technology ) who in recent days has been linked to Brad Pitt|ROOT\ton 11/04/2018|prep\tthat|mark\tWho|attr\tNeri|compound\trenowned|amod\trenowned teacher at MIT ( Massachusetts Insitute of Technology )|appos\t(|punct\tof Technology|prep\tTechnology|pobj\t)|punct\twho|nsubjpass\trecent|amod\thas|aux\tbeen|auxpass"
+                },
+                {
+                    "question": "What is Neri Oxman's connection to Brad Pitt?",
+                    "score": 0.6687,
+                    "answers": "that Who is Neri Oxman renowned teacher at MIT ( Massachusetts Insitute of Technology ) who in recent days has been linked to Brad Pitt|ccomp\tNeri Oxman renowned teacher at MIT ( Massachusetts Insitute of Technology ) who in recent days has been linked to Brad Pitt|nsubj\tBrad|compound"
+                }
+            ]
+        },
+        {
+            "claim": "If the relationship that has been reported to be true began with a common interest in architecture, it seems that Brad Pitt has very clear tastes.",
+            "question_answers": [
+                {
+                    "question": "Who has clear tastes in architecture?",
+                    "answer": "Brad Pitt"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Brad Pitt's interest in architecture?",
+                    "score": 0.7128,
+                    "answers": "Brad|compound"
+                },
+                {
+                    "question": "What is the relationship between Brad Pitt and architecture?",
+                    "score": 0.683,
+                    "answers": "mx.hola.com reported on 11/04/2018 that If the relationship that has been reported to be true began with a common interest in architecture , it seems that Brad Pitt has very clear tastes|ROOT\ton 11/04/2018|prep\tthat|mark\tIf|mark\tthe|det\tthe relationship that has been reported to be true|nsubj\tthat|nsubjpass\thas|aux\tbeen|auxpass\tthat has been reported to be true|relcl\tto|aux\tto be true|xcomp\ttrue|acomp\tIf the relationship that has been reported to be true began with a common interest in architecture|advcl\twith a common interest in architecture|prep\ta|det\tcommon|amod\ta common interest in architecture|pobj\tin architecture|prep\tarchitecture|pobj\t,|punct\tit|nsubj\tthat If the relationship that has been reported to be true began with a common interest in architecture , it seems that Brad Pitt has very clear tastes|ccomp\tthat|mark\tthat Brad Pitt has very clear tastes|ccomp\tvery|advmod\tvery clear|amod\tvery clear tastes|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "If when she finished with Jennifer Aniston made a turn of #NUMBER*° passing from the Californian-style blonde to a lush brunette with heart attack curves, this time things have changed.",
+            "question_answers": [
+                {
+                    "question": "On what date did mx.hola.com report that Jennifer Aniston had a turn of #NUMBER*°?",
+                    "answer": "11/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many heart attack curves did Jennifer Aniston have?",
+                    "score": 0.6998,
+                    "answers": "to a lush brunette with heart attack curves|prep"
+                },
+                {
+                    "question": "What did Jennifer Aniston do with the Californian style blonde?",
+                    "score": 0.6719,
+                    "answers": "Californian - style|compound"
+                },
+                {
+                    "question": "What is the hair style of Jennifer Aniston?",
+                    "score": 0.6546,
+                    "answers": "from the Californian - style blonde|prep\tthe Californian - style blonde|pobj"
+                },
+                {
+                    "question": "What is the relationship between Aniston and Jennifer Aniston?",
+                    "score": 0.6305,
+                    "answers": "a lush brunette with heart attack curves|pobj"
+                },
+                {
+                    "question": "What are the heart attack curves?",
+                    "score": 0.5789,
+                    "answers": "heart attack curves|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Particular attention has been drawn to the resemblance between Angelina Jolie and Neri Oxman .",
+            "question_answers": [
+                {
+                    "question": "What two actresses have a resemblance?",
+                    "answer": "Angelina Jolie and Neri Oxman"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Angelina Jolie and Neri Oxman?",
+                    "score": 0.6445,
+                    "answers": "mx.hola.com reported on 11/04/2018 that Particular attention has been drawn to the resemblance between Angelina Jolie and Neri Oxman|ROOT\ton 11/04/2018|prep\tthat|mark\tParticular|amod\tParticular attention|nsubjpass\thas|aux\tbeen|auxpass\tthat Particular attention has been drawn to the resemblance between Angelina Jolie and Neri Oxman|ccomp\tto the resemblance between Angelina Jolie and Neri Oxman|prep\tthe|det\tthe resemblance between Angelina Jolie and Neri Oxman|pobj\tbetween Angelina Jolie and Neri Oxman|prep\tAngelina|compound\tAngelina Jolie and Neri Oxman|pobj\tand|cc\tNeri|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Although it was initially said that between Neri and Brad there was only one close friendship, initiated by Brad Pitt interest in architecture, discipline in which Neri Oxman is an eminence, in the last few hours the reports have changed.",
+            "question_answers": [
+                {
+                    "question": "When did mx.hola.com report that Neri and Brad had a close friendship?",
+                    "answer": "11/04/2018"
+                },
+                {
+                    "question": "Who initiated the friendship between Neri Oxman and Neri?",
+                    "answer": "Brad Pitt"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Neri Oxman and Brad Pitt?",
+                    "score": 0.6179,
+                    "answers": "that|mark\tAlthough|mark\tit|nsubjpass\twas|auxpass\tinitially|advmod\tthat|mark\tand|cc\tthere|expl\tonly|advmod\tclose|amod\tonly one close friendship , initiated by Brad Pitt interest in architecture , discipline in which Neri Oxman is an eminence|attr\t,|punct\tinitiated by Brad Pitt interest in architecture , discipline in which Neri Oxman is an eminence|acl\tBrad Pitt interest in architecture , discipline in which Neri Oxman is an eminence|pobj\tin architecture , discipline in which Neri Oxman is an eminence|prep\tarchitecture , discipline in which Neri Oxman is an eminence|pobj\t,|punct\tdiscipline in which Neri Oxman is an eminence|appos\tin which|dep\twhich|pobj\tin which Neri Oxman is an eminence|relcl\tan|det\tan eminence|attr\t,|punct\tthe|det\tlast|amod\tfew|amod\tthe|det\tthe reports|nsubj\thave|aux\tthat Although it was initially said that between Neri and Brad there was only one close friendship , initiated by Brad Pitt interest in architecture , discipline in which Neri Oxman is an eminence , in the last few hours the reports have changed|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "There are even those who claim that Neri and Brad are a whole couple and that Neri and Brad are completely in love.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/04/2018 that Neri and Brad are a whole couple?",
+                    "answer": "mx.hola.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Neri and Brad?",
+                    "score": 0.6888,
+                    "answers": "mx.hola.com reported on 11/04/2018 that There are even those who claim that Neri and Brad are a whole couple and that Neri and Brad are completely in love|ROOT\ton 11/04/2018|prep\tthat|mark\tThere|expl\tthat There are even those who claim that Neri and Brad are a whole couple and that Neri and Brad are completely in love|ccomp\teven|advmod\teven those who claim that Neri and Brad are a whole couple and that Neri and Brad are completely in love|attr\twho|nsubj\twho claim that Neri and Brad are a whole couple and that Neri and Brad are completely in love|relcl\tthat|mark\tNeri and Brad|nsubj\tand|cc\tthat Neri and Brad are a whole couple and that Neri and Brad are completely in love|advcl\ta|det\twhole|amod\ta whole couple|attr\tand|cc\tthat|mark\tNeri and Brad|nsubj\tand|cc\tthat Neri and Brad are completely in love|conj\tcompletely|advmod\tcompletely in love|prep\tlove|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The truth is that images of Brad Pitt have emerged visiting MIT (Massachusetts Insitute of Technology) , and not only posed with a group of lucky students who found Brad Pitt on the premises, but also appears in a photograph with Neri Oxman and entire research group.",
+            "question_answers": [
+                {
+                    "question": "Where did Brad Pitt visit?",
+                    "answer": "MIT (Massachusetts Insitute of Technology)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Brad Pitt pose with a group of lucky students?",
+                    "score": 0.7824,
+                    "answers": "not only posed with a group of lucky students who found Brad Pitt on the premises , but also appears in a photograph with Neri Oxman and entire research group|conj"
+                },
+                {
+                    "question": "Where was Brad Pitt when he visited MIT?",
+                    "score": 0.7214,
+                    "answers": "on the premises|prep\tthe premises|pobj"
+                },
+                {
+                    "question": "How many students did Brad Pitt meet with at MIT in 2018?",
+                    "score": 0.6838,
+                    "answers": "not only|preconj"
+                },
+                {
+                    "question": "Who were the students who found Brad Pitt on the premises of the Massachusetts Institute of Technology?",
+                    "score": 0.6732,
+                    "answers": "lucky students who found Brad Pitt on the premises|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Brad Pitt visiting MIT?",
+                    "score": 0.6568,
+                    "answers": "mx.hola.com reported on 11/04/2018 that The truth is that images of Brad Pitt have emerged visiting MIT ( Massachusetts Insitute of Technology ) , and not only posed with a group of lucky students who found Brad Pitt on the premises , but also appears in a photograph with Neri Oxman and entire research group|ROOT\ton 11/04/2018|prep\tthat|mark\tThe|det\tThe truth|nsubj\tthat|mark\timages of Brad Pitt|nsubj\thave|aux\t(|punct\tTechnology|pobj\t)|punct\t,|punct\tand|cc\tonly|advmod\ta|det\twho|nsubj\tthe|det\t,|punct\tbut also|cc\talso|advmod\ta|det\tand|cc\tentire|amod\tresearch|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Although with her role as an academic she would not anticipate, Oxman is quite an expert in front of the cameras with several poses and surprisingly her resemblance to Angelina is a thing of recent years.",
+            "question_answers": [
+                {
+                    "question": "What kind of role did Oxman have?",
+                    "answer": "academic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Oxman and Angelina?",
+                    "score": 0.5557,
+                    "answers": "mx.hola.com reported on 11/04/2018 that Although with her role as an academic she would not anticipate , Oxman is quite an expert in front of the cameras with several poses and surprisingly her resemblance to Angelina is a thing of recent years|ROOT\ton 11/04/2018|prep\tthat|mark\tAlthough|mark\ther|poss\tas an academic|prep\tan|det\tan academic|pobj\tshe|nsubj\twould|aux\tnot|neg\tAlthough with her role as an academic she would not anticipate|advcl\t,|punct\tthat Although with her role as an academic she would not anticipate , Oxman is quite an expert in front of the cameras with several poses and surprisingly her resemblance to Angelina is a thing of recent years|ccomp\tquite|predet\tan|det\tquite an expert|attr\tin front of the cameras|prep\tfront of the cameras|pobj\tof the cameras|prep\tthe|det\tthe cameras|pobj\twith several poses|prep\tseveral|amod\tseveral poses|pobj\tand|cc\tsurprisingly|advmod\ther|poss\ther resemblance to Angelina|nsubj\tto Angelina|prep\tsurprisingly her resemblance to Angelina is a thing of recent years|conj\ta|det\ta thing of recent years|attr\tof recent years|prep\trecent|amod"
+                },
+                {
+                    "question": "What is Oxman's role as an academic?",
+                    "score": 0.536,
+                    "answers": "with her role as an academic|prep\ther role as an academic|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The darkest mane and the most highlighted lips have made the similarities that previously did not exist evident.",
+            "question_answers": [
+                {
+                    "question": "What have made the similarities that previously did not exist evident?",
+                    "answer": "The darkest mane and the most highlighted lips"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What similarities are there between the darkest mane and the most highlighted lips?",
+                    "score": 0.7461,
+                    "answers": "the similarities that previously did not exist|nsubj\tthe similarities that previously did not exist evident|ccomp"
+                },
+                {
+                    "question": "What is mx.hola.com?",
+                    "score": 0.4748,
+                    "answers": "on 11/04/2018|prep"
+                }
+            ]
+        }
+    ]
+}

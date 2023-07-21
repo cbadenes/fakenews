@@ -1,0 +1,114 @@
+{
+    "id": "Sociedad_67",
+    "claim": "Authorities in Cali reported the violent death of 12 people in the last 48 hours in isolated events, most of them in the east of the city. The murders, all of which occurred in different cases, were recorded between last Friday 22 and Saturday 23 November most of them committed with firearms. While last Friday there were 4 murders, on Saturday that number amounted to 6, confirmed the command of the Metropolitan Police of CaliThe neighborhoods Leon , El Poblado, Ciudad Jardín, Marroquín II, Valle del Lily, Sucre , Sol de Oriente, Comuneros, Alfonso Lopez and La Fortaleza, were the scenarios of these violent events. According to the authorities who attributed this number of homicides to the lack of tolerance, 8 of the deaths were committed with a firearm one, with a blunt object and another that died with a knife. Two of the victims were women, one of whom out of 69 confirmed the Cali Metropolitan Police. I'm sorry.",
+    "source": "caracol.com.co",
+    "date": "24/11/2019",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Authorities in Cali reported the violent death of 12 people in the last 48 hours in isolated events, most of them in the east of the city.",
+            "question_answers": [
+                {
+                    "question": "How many people were killed in the last 48 hours?",
+                    "answer": "12"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were reported to have died in the last 48 hours in Cali?",
+                    "score": 0.5292,
+                    "answers": "that Authorities in Cali reported the violent death of 12 people in the last 48 hours in isolated events , most of them in the east of the city|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The murders, all of which occurred in different cases, were recorded between last Friday 22 and Saturday 23 November most of them committed with firearms.",
+            "question_answers": [
+                {
+                    "question": "When were the murders recorded?",
+                    "answer": "between last Friday 22 and Saturday 23 November"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many murders were committed on November 23, 2018?",
+                    "score": 0.7406,
+                    "answers": "firearms|pobj"
+                },
+                {
+                    "question": "How many murders occurred between Friday 22 and Saturday 23 November?",
+                    "score": 0.7296,
+                    "answers": "that|mark\tThe|det\t,|punct\tall of which|nsubj\tof which|prep\twhich|pobj\tall of which occurred in different cases|relcl\tin different cases|prep\tdifferent|amod\tdifferent cases|pobj\t,|punct\twere|auxpass\tlast|amod\t22|nummod\tand|cc\t23|nummod\t23 November|appos\tmost of them|nsubj\tthem|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "While last Friday there were 4 murders, on Saturday that number amounted to 6, confirmed the command of the Metropolitan Police of CaliThe neighborhoods Leon , El Poblado, Ciudad Jardín, Marroquín II, Valle del Lily, Sucre , Sol de Oriente, Comuneros, Alfonso Lopez and La Fortaleza, were the scenarios of these violent events.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the neighborhood that was the scene of the murders?",
+                    "answer": "Leon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many murders were there on Friday in CaliThe neighborhoods?",
+                    "score": 0.6881,
+                    "answers": "CaliThe|punct"
+                },
+                {
+                    "question": "How many murders occurred on Friday in Cali?",
+                    "score": 0.6848,
+                    "answers": "the scenarios of these violent events|attr"
+                }
+            ]
+        },
+        {
+            "claim": "According to the authorities who attributed this number of homicides to the lack of tolerance, 8 of the deaths were committed with a firearm one, with a blunt object and another that died with a knife.",
+            "question_answers": [
+                {
+                    "question": "How many of the homicides were committed with a firearm?",
+                    "answer": "8"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many murders are committed each year in the United States?",
+                    "score": 0.6525,
+                    "answers": "this number of homicides|dobj\thomicides|pobj"
+                },
+                {
+                    "question": "How many murders were committed in Florida in 2018?",
+                    "score": 0.6511,
+                    "answers": "the authorities who attributed this number of homicides to the lack of tolerance|pobj\twere|auxpass"
+                },
+                {
+                    "question": "How many deaths were committed with guns in Florida in 2019?",
+                    "score": 0.6335,
+                    "answers": "a blunt object|pobj"
+                },
+                {
+                    "question": "What is the relationship between tolerance and gun violence?",
+                    "score": 0.5177,
+                    "answers": "According to the authorities who attributed this number of homicides to the lack of tolerance|prep\tto the authorities who attributed this number of homicides to the lack of tolerance|prep\twho attributed this number of homicides to the lack of tolerance|relcl\tto the lack of tolerance|prep\tthe lack of tolerance|pobj\tof tolerance|prep\ttolerance|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Two of the victims were women, one of whom out of 69 confirmed the Cali Metropolitan Police.",
+            "question_answers": [
+                {
+                    "question": "How many victims were there?",
+                    "answer": "69"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many victims were confirmed by the Cali Metropolitan Police?",
+                    "score": 0.6893,
+                    "answers": "caracol.com.co reported on 24/11/2019 that Two of the victims were women , one of whom out of 69 confirmed the Cali Metropolitan Police|ROOT\ton 24/11/2019|prep\tthat|mark\tTwo of the victims|nsubj\tof the victims|prep\tthe|det\tthe victims|pobj\tthat Two of the victims were women , one of whom out of 69 confirmed the Cali Metropolitan Police|ccomp\twomen , one of whom out of 69 confirmed the Cali Metropolitan Police|attr\t,|punct\tone of whom|nsubj\tof whom|prep\twhom|pobj\tout of 69|prep\tof 69|prep\tone of whom out of 69 confirmed the Cali Metropolitan Police|relcl\tthe|det\tCali|compound\tMetropolitan|compound"
+                }
+            ]
+        }
+    ]
+}

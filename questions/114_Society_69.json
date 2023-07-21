@@ -1,0 +1,289 @@
+{
+    "id": "114_Society_69",
+    "claim": "A great success has resulted in McDonald's promotion for this Day of the Dead. The idea of his marketing department 'blew up the fence ', according to what several connoisseurs of the fast food culture say. This is the cherry blossom hamburger, which has been on sale since last October  and will remain for the rest of this week. Macario Rogers, Director of New Products at McDonald's Corporation, said in an interview with El that the idea was to get the attention of Mexican consumers:'We realized that they use that flower a lot during their Day of the Dead celebrations, so we assumed that it should be very tasty'. Rogers revealed that, at first, they didn't think something like that was edible, but that he found out that pumpkin flower is a delicacy in Mexico:'If they eat pumpkin flower, why wouldn't they eat cempasúchil flower?\". The hamburger is made with the traditional ingredients: Catsup, mustard, pickles and cheese. Instead of meat, it carries the emblematic flower. Everything goes into a freshly baked dead bread. 'We have already sold almost a million cempasuchil burgers, most of them at our branches in Montebello, North Haverbrook and Cocula ', presumed Rogers, who admitted that buyers do not repeat.'Maybe she's too good to eat more than one. I don't know, I haven't tried it.\". For Christmas, McDonald's is already preparing the manger hay burger.'It'll be another hit!'Rogers finished. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "02/11/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A great success has resulted in McDonald's promotion for this Day of the Dead.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the day that McDonald's promoted?",
+                    "answer": "Day of the Dead"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is McDonald's promotion for the Day of the Dead?",
+                    "score": 0.7521,
+                    "answers": "www.eldizque.com reported on 02/11/2017 that A great success has resulted in McDonald 's promotion for this Day of the Dead|ROOT\tin McDonald 's promotion for this Day of the Dead|prep\tMcDonald 's|poss\tfor this Day of the Dead|prep\tof the Dead|prep\tthe Dead|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The idea of his marketing department 'blew up the fence ', according to what several connoisseurs of the fast food culture say.",
+            "question_answers": [
+                {
+                    "question": "What did the idea of eldizque's marketing department do?",
+                    "answer": "'blew up the fence"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the connoisseurs of fast food culture?",
+                    "score": 0.7345,
+                    "answers": "several connoisseurs of the fast food culture|nsubj"
+                },
+                {
+                    "question": "What is fast food culture?",
+                    "score": 0.7208,
+                    "answers": "of the fast food culture|prep\tfast|amod\tfast food|compound\tthe fast food culture|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the idea of the marketing department blowing up the fence?",
+                    "score": 0.6836,
+                    "answers": "02/11/2017|pobj\tThe|det\tthat The idea of his marketing department ' blew up the fence ' , according to what several connoisseurs of the fast food culture say|ccomp\tthe|det\taccording to what several connoisseurs of the fast food culture say|prep\tto what several connoisseurs of the fast food culture say|prep\tthe|det\twhat several connoisseurs of the fast food culture say|pcomp"
+                },
+                {
+                    "question": "What is the relationship between the marketing department and fast food culture?",
+                    "score": 0.6585,
+                    "answers": "www.eldizque.com reported on 02/11/2017 that The idea of his marketing department ' blew up the fence ' , according to what several connoisseurs of the fast food culture say|ROOT\ton 02/11/2017|prep\tof his marketing department|prep\tmarketing|compound\this marketing department|pobj\tup|prt\tthe fence|dobj"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.6047,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "This is the cherry blossom hamburger, which has been on sale since last October  and will remain for the rest of this week .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that The cherry blossom hamburger was on sale?",
+                    "answer": "02/11/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has the cherry blossom hamburger been on sale?",
+                    "score": 0.8582,
+                    "answers": "www.eldizque.com reported on 02/11/2017 that This is the cherry blossom hamburger , which has been on sale since last October   and will remain for the rest of this week|ROOT\ton 02/11/2017|prep\t02/11/2017|pobj\tthat This is the cherry blossom hamburger , which has been on sale since last October|ccomp\tthe cherry blossom hamburger , which has been on sale since last October|attr\tsince last October|prep\twill remain for the rest of this week|conj\tfor the rest of this week|prep\tof this week|prep"
+                },
+                {
+                    "question": "What is the name of the cherry blossom hamburger?",
+                    "score": 0.7555,
+                    "answers": "cherry|compound\tcherry blossom|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Macario Rogers, Director of New Products at McDonald's Corporation , said in an interview with El that The idea of his marketing department was to get the attention of Mexican consumers:'We realized that Mexican consumers:'We use that flower a lot during Day of the Dead celebrations, so McDonald's assumed that that flower should be very tasty'.",
+            "question_answers": [
+                {
+                    "question": "What company did Macario Rogers work for?",
+                    "answer": "McDonald's Corporation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Macario Rogers think about Mexican consumers using McDonald flower?",
+                    "score": 0.8046,
+                    "answers": "McDonald 's assumed that that flower should be very tasty|conj"
+                },
+                {
+                    "question": "Who did Macario Rogers work for?",
+                    "score": 0.7375,
+                    "answers": "that Macario Rogers , Director of New Products at McDonald 's Corporation , said in an interview with El that The idea of his marketing department was to get the attention of Mexican consumers:'We|ccomp\twith El|prep"
+                },
+                {
+                    "question": "What is Macario Rogers' relationship with Mexican consumers?",
+                    "score": 0.6676,
+                    "answers": "on 02/11/2017|prep\t02/11/2017|pobj\ta|det"
+                },
+                {
+                    "question": "What is the relationship between McDonald's and the Mexican people?",
+                    "score": 0.6385,
+                    "answers": "of Mexican consumers:'We|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Macario Rogers' marketing department?",
+                    "score": 0.6361,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Macario Rogers, Director of New Products at McDonald's Corporation revealed that, at first, they didn't think something like that flower was edible, but that Macario Rogers, Director of New Products at McDonald's Corporation found out that pumpkin flower is a delicacy in Mexico:'If Mexican consumers:'We eat pumpkin flower, why wouldn't Mexican consumers:'We eat cempasúchil flower?\".",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why would Mexican consumers eat pumpkins flower?",
+                    "score": 0.9108,
+                    "answers": "Mexican consumers:'We eat pumpkin flower , why would n't Mexican consumers:'We eat cempasúchil flower ?|dep"
+                },
+                {
+                    "question": "What type of flower is cempasco flower?",
+                    "score": 0.8711,
+                    "answers": "cempasúchil flower|dobj"
+                },
+                {
+                    "question": "What did Macario Rogers say about pumpkins flower in Mexico?",
+                    "score": 0.8554,
+                    "answers": "that pumpkin flower is a delicacy in|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Macario Rogers making pumpkins?",
+                    "score": 0.786,
+                    "answers": "www.eldizque.com reported on 02/11/2017 that Macario Rogers , Director of New Products at McDonald 's Corporation revealed that , at first , they did n't think something like that flower was edible , but that Macario Rogers , Director of New Products at McDonald 's Corporation found out that pumpkin flower is a delicacy in Mexico:'If Mexican consumers:'We eat pumpkin flower , why would n't Mexican consumers:'We eat cempasúchil flower ? \"|ROOT"
+                },
+                {
+                    "question": "What is the origin of cempasúchil flower?",
+                    "score": 0.7766,
+                    "answers": "pumpkin|compound\tpumpkin|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the cherry blossom hamburger, which has been on sale since last October  and will remain for the rest of this week is made with the traditional ingredients: Catsup, mustard, pickles and cheese.",
+            "question_answers": [
+                {
+                    "question": "What ingredients are used to make the cherry blossom hamburger?",
+                    "answer": "Catsup, mustard, pickles and cheese"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What ingredients are used to make the cherry blossom hamburger?",
+                    "score": 0.828,
+                    "answers": "is made with the traditional ingredients : Catsup , mustard , pickles and cheese|ROOT"
+                },
+                {
+                    "question": "How long has the cherry blossom hamburger been on sale?",
+                    "score": 0.8141,
+                    "answers": "www.eldizque.com reported on 02/11/2017 that the cherry blossom hamburger , which has been on sale since last October   and will remain for the rest of this week|ROOT\tthe cherry blossom hamburger , which has been on sale since last October|nsubj\twhich has been on sale since last October|relcl\ton sale|prep\tsale|pobj\tsince last October|prep\tthat the cherry blossom hamburger , which has been on sale since last October   and will remain for the rest of this week|ccomp\tfor the rest of this week|prep"
+                },
+                {
+                    "question": "What are the traditional ingredients for cherry blossom hamburger?",
+                    "score": 0.7802,
+                    "answers": "pickles and cheese|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Instead of meat, the cherry blossom hamburger, which has been on sale since last October  and will remain for the rest of this week carries that flower .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that instead of meat, the cherry blossom hamburger carries the flower?",
+                    "answer": "02/11/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has the cherry blossom hamburger been on sale?",
+                    "score": 0.7896,
+                    "answers": "www.eldizque.com reported on 02/11/2017 that Instead of meat , the cherry blossom hamburger , which has been on sale since last October   and will remain for the rest of this week|ROOT\ton 02/11/2017|prep\t02/11/2017|pobj\tcherry|compound\tcherry blossom|compound\tthe cherry blossom hamburger , which has been on sale since last October|nsubj\thas|aux\tsince last October|prep\tand|cc\tthat Instead of meat , the cherry blossom hamburger , which has been on sale since last October   and will remain for the rest of this week|ccomp\tfor the rest of this week|prep\tof this week|prep\tthis week|pobj\tcarries that flower|ROOT"
+                },
+                {
+                    "question": "How long has it been since the cherry blossom flower been on sale?",
+                    "score": 0.7543,
+                    "answers": "that flower|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Everything goes into a freshly baked dead bread.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 02/11/2017 that everything goes into a freshly baked dead bread?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the website \"eldizque.com\" say about baked dead bread?",
+                    "score": 0.8993,
+                    "answers": "freshly baked|amod"
+                },
+                {
+                    "question": "What is the purpose of a freshly baked dead bread?",
+                    "score": 0.8789,
+                    "answers": "that Everything goes into a freshly baked dead bread|ccomp\tinto a freshly baked dead bread|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the bread that goes into a baked dead bread?",
+                    "score": 0.8568,
+                    "answers": "on 02/11/2017|prep"
+                },
+                {
+                    "question": "What is the definition of a dead bread?",
+                    "score": 0.8248,
+                    "answers": "a|det"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.8046,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'McDonald's have already sold almost a million cempasuchil burgers , most of almost a million cempasuchil burgers at branches in Montebello, North Haverbrook and Cocula ', presumed Macario Rogers, Director of New Products at McDonald's Corporation .",
+            "question_answers": [
+                {
+                    "question": "Where were McDonald's branches located?",
+                    "answer": "Montebello, North Haverbrook and Cocula"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many cempasuchil burgers does McDonald's sell annually?",
+                    "score": 0.8556,
+                    "answers": "www.eldizque.com reported on 02/11/2017|ccomp\talmost|advmod\ta|quantmod\talmost|advmod\ta|quantmod"
+                },
+                {
+                    "question": "Who is the Director of New Products at McDonald's Corporation?",
+                    "score": 0.7491,
+                    "answers": "Macario Rogers , Director of New Products at McDonald 's Corporation|nsubj\tDirector of New Products at McDonald 's Corporation|appos"
+                }
+            ]
+        },
+        {
+            "claim": "For Christmas, McDonald's is already preparing the manger hay burger.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the manger that McDonald's is preparing for Christmas?",
+                    "answer": "the manger"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is McDonald's making a manger for Christmas?",
+                    "score": 0.9102,
+                    "answers": "on 02/11/2017|prep"
+                },
+                {
+                    "question": "What does McDonald's do for Christmas?",
+                    "score": 0.8705,
+                    "answers": "McDonald 's|nsubj"
+                },
+                {
+                    "question": "What is McDonald's preparing for Christmas?",
+                    "score": 0.8647,
+                    "answers": "www.eldizque.com reported on 02/11/2017 that For Christmas , McDonald 's is already preparing the manger hay burger|ROOT"
+                },
+                {
+                    "question": "What is McDonald's planning to do for Christmas?",
+                    "score": 0.8616,
+                    "answers": "For Christmas|prep"
+                },
+                {
+                    "question": "What is the source of evidence of McDonald's preparing the manger for Christmas?",
+                    "score": 0.8405,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

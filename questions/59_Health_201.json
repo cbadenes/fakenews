@@ -1,0 +1,196 @@
+{
+    "id": "59_Health_201",
+    "claim": "According to a series of studies carried out by a group of scientists at Cambridge University, the lack of sex can cause the retina to gradually lose the ability to distinguish different shades, especially those within the gray scale. Therefore, it is advised that this activity, known by many names around the world, should be practiced at least once a week  or two, if possible  and that Americans constantly repeat it as their favorite rudeness, especially Samuel L. Jackson. Of course, the problem is that a server is now single, and this evil that will seem trivial to many affects me too much. For example, right now I can't see what I'm writing. As much as I type and type, my screen is blank, and the truth is I don't know if there's any point in going on, because maybe not many will be able to read this, with the government having us all spoiled, because I think we're already a country of daltonics. That's why they say people don't read: because they can't, not because they don't want to. One who would like more than to go to the newspaper stand and buy El or La Jornada to read the latest news, but so that you don't pinch yourself can. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "16/05/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "According to a series of studies carried out by a group of scientists at Cambridge University, the lack of sex can cause the retina to gradually lose the ability to distinguish different shades, especially those within the gray scale.",
+            "question_answers": [
+                {
+                    "question": "The lack of sex can cause what part of the body to lose the ability to distinguish different shades?",
+                    "answer": "the retina"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the study done by a group of scientists at Cambridge University?",
+                    "score": 0.7292,
+                    "answers": "Cambridge|compound"
+                },
+                {
+                    "question": "What are the effects of lack of sex on the retina?",
+                    "score": 0.6972,
+                    "answers": "that|mark\ta|det\ta|det\t,|punct\tthe|det\tthe lack of sex|nsubj\tof sex|prep\tsex|pobj\tcan|aux\tthe|det\tthe retina|nsubj\tto|aux\tgradually|advmod\tthe|det\tto|aux\tdifferent|amod\t,|punct\tespecially|advmod\tthe|det"
+                },
+                {
+                    "question": "What is the relationship between lack of sex and the ability to distinguish different shades?",
+                    "score": 0.6257,
+                    "answers": "www.eldizque.com reported on 16/05/2016 that According to a series of studies carried out by a group of scientists at Cambridge University , the lack of sex can cause the retina to gradually lose the ability to distinguish different shades , especially those within the gray scale|ROOT\tat Cambridge University|prep"
+                },
+                {
+                    "question": "What is the gray scale?",
+                    "score": 0.6155,
+                    "answers": "the ability to distinguish different shades , especially those within the gray scale|dobj\tto distinguish different shades , especially those within the gray scale|acl\tdifferent shades , especially those within the gray scale|dobj\tespecially those within the gray scale|appos\twithin the gray scale|prep\tgray|amod\tthe gray scale|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, it is advised that this activity, known by many names around the world, should be practiced at least once a week  or two, if possible  and that Americans constantly repeat it as their favorite rudeness, especially Samuel L. Jackson.",
+            "question_answers": [
+                {
+                    "question": "Who is an example of a famous artist who is known for his rudeness?",
+                    "answer": "Samuel L. Jackson"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Samuel L. Jackson's favorite rudeness?",
+                    "score": 0.6674,
+                    "answers": "www.eldizque.com reported on 16/05/2016 that Therefore , it is advised that this activity , known by many names around the world , should be practiced at least once a week   or two , if possible   and that Americans constantly repeat it as their favorite rudeness , especially Samuel L. Jackson|ROOT\ton 16/05/2016|prep\tthat|mark\tTherefore|advmod\t,|punct\tit|nsubjpass\tis|auxpass\tthat|mark\tthis|det\tthis activity , known by many names around the world ,|nsubjpass\t,|punct\tknown by many names around the world|acl\tby many names|prep\tmany|amod\tmany names|pobj\taround the world|prep\tthe|det\tthe world|pobj\t,|punct\tshould|aux\tbe|auxpass\tthat this activity , known by many names around the world , should be practiced at least once a week|advcl\tat|advmod\tat least|advmod\tat least once a week|advmod\ta|det\ta week|npadvmod\t  or two , if possible|dep\tor|cc\tor two , if possible|dobj\t,|punct\tif|mark\tif possible|advcl\t  and|dep\tand|cc\tthat|mark\tconstantly|advmod\tthat Americans constantly repeat it as their favorite rudeness , especially Samuel L. Jackson|advcl\tit|dobj\tas their favorite rudeness , especially Samuel L. Jackson|prep\ttheir|poss\tfavorite|amod\ttheir favorite rudeness , especially Samuel L. Jackson|pobj\t,|punct\tespecially|advmod\tSamuel|compound\tL.|compound\tespecially Samuel L. Jackson|appos"
+                },
+                {
+                    "question": "What is the source of evidence of Samuel L Jackson's favorite rudeness?",
+                    "score": 0.6563,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Of course, the problem is that a server is now single, and this evil that will seem trivial to many affects me too much.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report the problem?",
+                    "answer": "16/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many servers does a single server have?",
+                    "score": 0.8021,
+                    "answers": "that Of course , the problem is that a server is now single , and this evil that will seem trivial to many affects me too much|ccomp"
+                },
+                {
+                    "question": "What is the problem with a server being single?",
+                    "score": 0.7291,
+                    "answers": "the problem|nsubj"
+                },
+                {
+                    "question": "What does it mean to be single?",
+                    "score": 0.7284,
+                    "answers": "www.eldizque.com reported on 16/05/2016 that Of course , the problem is that a server is now single , and this evil that will seem trivial to many affects me too much|ROOT\tthat will seem trivial to many|relcl\tthis evil that will seem trivial to many affects me too much|conj"
+                },
+                {
+                    "question": "How many servers are there in the world?",
+                    "score": 0.7163,
+                    "answers": "a|det"
+                },
+                {
+                    "question": "What is the relationship between a server and a malware?",
+                    "score": 0.6982,
+                    "answers": "Of course|advmod\tto many|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For example, right now I can't see what I'm writing.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that I can't see what I'm writing?",
+                    "answer": "16/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of who is writing?",
+                    "score": 0.7428,
+                    "answers": "www.eldizque.com reported on 16/05/2016 that For example , right now I ca n't see what I 'm writing|ROOT\tthat For example , right now I ca n't see what I 'm writing|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "As much as I type and type, my screen is blank, and the truth is I don't know if there's any point in going on, because maybe not many will be able to read this, with the government having us all spoiled, because I think we're already a country of daltonics.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that my screen is blank?",
+                    "answer": "16/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of computer is blank?",
+                    "score": 0.6825,
+                    "answers": "type|conj"
+                },
+                {
+                    "question": "What does the government think about daltonics?",
+                    "score": 0.6624,
+                    "answers": "any point in going on|attr\tbecause maybe not many will be able to read this , with the government having us all spoiled , because I think we 're already a country of daltonics|advcl\ta country of daltonics|attr"
+                },
+                {
+                    "question": "What is the government doing with daltonics?",
+                    "score": 0.6412,
+                    "answers": "As much as I type and type|advmod"
+                },
+                {
+                    "question": "What is the name of the website where you type and type?",
+                    "score": 0.608,
+                    "answers": "my|poss"
+                },
+                {
+                    "question": "What is the average screen size of a daltonic?",
+                    "score": 0.6068,
+                    "answers": "my screen|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "That's why they say people don't read: because they can't, not because they don't want to.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that people don't read?",
+                    "answer": "16/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why do people stop reading because they don't want to?",
+                    "score": 0.8917,
+                    "answers": "www.eldizque.com reported on 16/05/2016 that That 's why they say people do n't read : because they ca n't , not because they do n't want to|ROOT\tbecause they ca n't , not because they do n't want to|advcl"
+                },
+                {
+                    "question": "What are the statistics on people who don't read?",
+                    "score": 0.8199,
+                    "answers": "that That 's why they say people do n't read : because they ca n't , not because they do n't want to|ccomp\twhy they say people do n't read|ccomp\tn't|neg\tpeople do n't read|ccomp\tn't|neg\tn't|neg"
+                }
+            ]
+        },
+        {
+            "claim": "One who would like more than to go to the newspaper stand and buy El or La Jornada to read the latest news, but so that you don't pinch yourself can.",
+            "question_answers": [
+                {
+                    "question": "What newspapers did www.eldizque.com report on 16/05/2016?",
+                    "answer": "El or La Jornada"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who would like to go to the newspaper stand and buy El or La Jornada?",
+                    "score": 0.7369,
+                    "answers": "www.eldizque.com reported on 16/05/2016 that One who would like more than to go to the newspaper stand and buy El or La Jornada to read the latest news , but so that you do n't pinch yourself can|ROOT\tOne who would like more than to go to the newspaper stand and buy El or La Jornada to read the latest news , but so that you do n't pinch yourself|nsubj\twho|nsubj\twho would like more than to go to the newspaper stand and buy El or La Jornada to read the latest news , but so that you do n't pinch yourself|relcl\tthe newspaper stand|pobj\tand|cc\tor|cc\tyou|nsubj\tyourself|dobj\tthat One who would like more than to go to the newspaper stand and buy El or La Jornada to read the latest news , but so that you do n't pinch yourself can|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of El or La Jornada news?",
+                    "score": 0.6484,
+                    "answers": "www.eldizque.com|nsubj\t16/05/2016|pobj\twould|aux\tthan|mark\tto|aux\tthe|det\tnewspaper|compound\tto|aux\tthe|det\tlatest|amod\tthe latest news|dobj\tso|mark\tdo|aux"
+                },
+                {
+                    "question": "What is aldizque.com?",
+                    "score": 0.584,
+                    "answers": "to read the latest news|advcl"
+                }
+            ]
+        }
+    ]
+}

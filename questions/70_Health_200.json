@@ -1,0 +1,222 @@
+{
+    "id": "70_Health_200",
+    "claim": "A group of Mexican scientists shocked public opinion by announcing that tacos could be one of the most effective ways to fight cancer, according to a series of experiments carried out by the team. 'It took us several years to complete this research ', Professor Porfirio Tacuche, leader of the Autonomous Project to Infuse Food Health (PAISA) told us. 'As far as we can see, people who eat tacos on a regular basis, that is, more than two orders of five a day, have proven to be the least likely to die of cancer'. The tacos can be 'of carnitas, of longaniza, of suadero, of guta, of nana, of buche, of nenepil or campechanos, here with his salt well itchy, onions and cilantrito, and of pylon a tepache or a ice cream, pa'que mojarn!\", he added. According to research, of  people who participated in the study, consuming only taquitos cooked with butter over a decade, only one % of them came to get cancer. And indeed, we were able to see the results of the investigations, and the figures don't lie. The vast majority of test subjects died of myocardial infarction, renal complications, hypertension, and other diseases, but cancer was almost non-existent. Apparently, this discovery will be of crucial importance to improve the standard of living of the Mexican population. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "30/06/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A group of Mexican scientists shocked public opinion by announcing that tacos could be one of the most effective ways to fight cancer, according to a series of experiments carried out by the team .",
+            "question_answers": [
+                {
+                    "question": "What is one of the most effective ways to fight cancer?",
+                    "answer": "tacos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What experiments were carried out to prove that tacos could be one of the most effective ways to fight cancer?",
+                    "score": 0.887,
+                    "answers": "according to a series of experiments carried out by the team|prep"
+                },
+                {
+                    "question": "What did the scientists say about the use of tacos to fight cancer?",
+                    "score": 0.8616,
+                    "answers": "www.eldizque.com reported on 30/06/2016 that A group of Mexican scientists shocked public opinion by announcing that tacos could be one of the most effective ways to fight cancer , according to a series of experiments carried out by the team|ROOT\ton 30/06/2016|prep\t30/06/2016|pobj"
+                },
+                {
+                    "question": "What did a group of scientists say about tacos?",
+                    "score": 0.8395,
+                    "answers": "A group of Mexican scientists|nsubj\tof Mexican scientists|prep\tMexican scientists|pobj\tthat A group of Mexican scientists shocked public opinion by announcing that tacos could be one of the most effective ways to fight cancer , according to a series of experiments carried out by the team|ccomp"
+                },
+                {
+                    "question": "What are the benefits of eating tacos?",
+                    "score": 0.7914,
+                    "answers": "announcing that tacos could be one of the most effective ways to fight cancer|pcomp"
+                },
+                {
+                    "question": "What is the most effective way to fight cancer?",
+                    "score": 0.7862,
+                    "answers": "one of the most effective ways to fight cancer|attr\tof the most effective ways to fight cancer|prep\tmost|advmod\tmost effective|amod\tthe most effective ways to fight cancer|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'It took A group of Mexican scientists several years to complete a series of experiments carried out by the team ', Professor Porfirio Tacuche, leader of the Autonomous Project to Infuse Food Health (PAISA) told us.",
+            "question_answers": [
+                {
+                    "question": "How long did it take for a team of scientists to complete a series of experiments?",
+                    "answer": "'It took A group of Mexican scientists several years to complete a series of experiments carried out by the team"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take to complete a series of experiments carried out by a group of scientists?",
+                    "score": 0.787,
+                    "answers": "www.eldizque.com reported on 30/06/2016 that ' It took A group of Mexican scientists several years to complete a series of experiments carried out by the team ' , Professor Porfirio Tacuche , leader of the Autonomous Project to Infuse Food Health ( PAISA ) told us|ROOT\ta series of experiments carried out by the team|dobj\tout|prt\tthe team|pobj\tProfessor|compound\tFood|compound"
+                },
+                {
+                    "question": "What is PAISA?",
+                    "score": 0.57,
+                    "answers": "leader of the Autonomous Project to Infuse Food Health ( PAISA )|appos\tof the Autonomous Project to Infuse Food Health ( PAISA )|prep\tthe Autonomous Project to Infuse Food Health ( PAISA )|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'As far as A group of Mexican scientists can see, people who eat tacos on a regular basis, that is, more than two orders of five a day, have proven to be the least likely to die of cancer'.",
+            "question_answers": [
+                {
+                    "question": "What are people who eat on a regular basis the least likely to die of cancer?",
+                    "answer": "tacos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people who eat tacos on a regular basis die of cancer?",
+                    "score": 0.8674,
+                    "answers": "people who eat tacos on a regular basis , that is , more than two orders of five a day ,|nsubj\tthat is|advmod\tcancer|pobj"
+                },
+                {
+                    "question": "How many people die from cancer every day?",
+                    "score": 0.804,
+                    "answers": "to die of cancer|xcomp"
+                },
+                {
+                    "question": "What is the death rate of cancer?",
+                    "score": 0.7684,
+                    "answers": "of cancer|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The tacos can be 'of carnitas, of longaniza, of suadero, of guta, of nana, of buche, of nenepil or campechanos, here with his salt well itchy, onions and cilantrito, and of pylon a tepache or a ice cream, pa'que mojarn!\", Professor Porfirio Tacuche, leader of the Autonomous Project to Infuse Food Health (PAISA) added.",
+            "question_answers": [
+                {
+                    "question": "Who is the leader of the Autonomous Project to Infuse Food Health?",
+                    "answer": "Professor Porfirio Tacuche, leader of the Autonomous Project to Infuse Food Health (PAISA)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of ice cream does pa'que mojarn contain?",
+                    "score": 0.8691,
+                    "answers": "a tepache or a ice cream|appos"
+                },
+                {
+                    "question": "What ingredients are in the cilantrito?",
+                    "score": 0.8235,
+                    "answers": "onions and cilantrito|conj"
+                },
+                {
+                    "question": "What type of salt is in the cilantrito?",
+                    "score": 0.8193,
+                    "answers": "here with his salt well itchy , onions and cilantrito , and of pylon a tepache or a ice cream , pa'que mojarn|advmod"
+                },
+                {
+                    "question": "What is the source of evidence of the names of the Taco that can be made from carnitas and longaniza?",
+                    "score": 0.7742,
+                    "answers": "www.eldizque.com reported on 30/06/2016 that The tacos can be ' of carnitas , of longaniza , of suadero , of guta , of nana , of buche , of nenepil or campechanos , here with his salt well itchy , onions and cilantrito , and of pylon a tepache or a ice cream , pa'que mojarn|ccomp"
+                },
+                {
+                    "question": "What are the ingredients of the tacos?",
+                    "score": 0.7669,
+                    "answers": "that The tacos can be ' of carnitas , of longaniza , of suadero , of guta , of nana , of buche , of nenepil or campechanos , here with his salt well itchy , onions and cilantrito , and of pylon a tepache or a ice cream , pa'que mojarn|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "According to research, of  people who participated in the study, consuming only taquitos cooked with butter over a decade , only one % of people who participated in the study, consuming only taquitos cooked with butter over a decade came to get cancer.",
+            "question_answers": [
+                {
+                    "question": "What was the only way that people who participated in the study came to get cancer?",
+                    "answer": "consuming only taquitos cooked with butter over a decade"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the study show about the consumption of taquitos with butter?",
+                    "score": 0.7981,
+                    "answers": "that|mark\t,|punct\twho|nsubj\tthe|det\t,|punct\tonly|amod\tbutter|pobj\tover a decade|prep\ta|det\t,|punct\tonly|advmod\twho|nsubj\tthe|det\t,|punct\tonly|amod\tbutter|pobj\tover a decade|prep\ta|det\tto|aux"
+                },
+                {
+                    "question": "How many people who consume taquitos cooked with butter over a decade get cancer?",
+                    "score": 0.7916,
+                    "answers": "to get cancer|xcomp"
+                },
+                {
+                    "question": "How many people were involved in the study?",
+                    "score": 0.7294,
+                    "answers": "research|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "And indeed, we were able to see the results of the investigations, and the figures don't lie.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that they were able to see the results of the investigations?",
+                    "answer": "30/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many investigations were there in 2016?",
+                    "score": 0.8044,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 30/06/2016 that And indeed , we were able to see the results of the investigations , and the figures do n't lie|ROOT\tthat|mark\tAnd|cc\tindeed|advmod\t,|punct\twe|nsubj\tthat And indeed , we were able to see the results of the investigations , and the figures do n't lie|ccomp\table to see the results of the investigations|acomp\tto|aux\tto see the results of the investigations|xcomp\tthe|det\tthe results of the investigations|dobj\tof the investigations|prep\tthe|det\tthe investigations|pobj\t,|punct\tand|cc\tthe|det\tthe figures|nsubj\tdo|aux\tn't|neg\tthe figures do n't lie|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The vast majority of test subjects died of myocardial infarction, renal complications, hypertension, and other diseases, but cancer was almost non-existent.",
+            "question_answers": [
+                {
+                    "question": "What did the vast majority of test subjects die of?",
+                    "answer": "myocardial infarction, renal complications, hypertension, and other diseases,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the death rate of the majority of test subjects in 2016?",
+                    "score": 0.8557,
+                    "answers": "almost non|acomp"
+                },
+                {
+                    "question": "How many test subjects died of myocardial infarction, kidney complications, hypertension, and other diseases in 2016?",
+                    "score": 0.8491,
+                    "answers": "of test subjects|prep"
+                },
+                {
+                    "question": "What is the cause of myocardial infarction?",
+                    "score": 0.7687,
+                    "answers": "myocardial|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Apparently, this discovery will be of crucial importance to improve the standard of living of the Mexican population.",
+            "question_answers": [
+                {
+                    "question": "What does this discovery hope to improve for the Mexican population?",
+                    "answer": "standard of living"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the standard of living of the Mexican population?",
+                    "score": 0.8282,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 30/06/2016 that Apparently , this discovery will be of crucial importance to improve the standard of living of the Mexican population|ROOT\ton 30/06/2016|prep\tthat|mark\tApparently|advmod\t,|punct\tthis|det\twill|aux\tthat Apparently , this discovery will be of crucial importance to improve the standard of living of the Mexican population|ccomp\tcrucial|amod\tto|aux\tto improve the standard of living of the Mexican population|advcl\tthe|det\tthe standard of living of the Mexican population|dobj\tof living|prep\tliving|pobj\tthe|det"
+                },
+                {
+                    "question": "What is the source of evidence of the study of the Mexican population living in poverty?",
+                    "score": 0.8061,
+                    "answers": "this discovery|nsubj"
+                },
+                {
+                    "question": "What is the population of Mexico?",
+                    "score": 0.7897,
+                    "answers": "of the Mexican population|prep\tthe Mexican population|pobj"
+                }
+            ]
+        }
+    ]
+}

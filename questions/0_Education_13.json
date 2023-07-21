@@ -1,0 +1,319 @@
+{
+    "id": "0_Education_13",
+    "claim": "UNAM and CNDH present an educational portal on the InternetThe National Human Rights Commission (CNDH) and the National Autonomous University of Mexico (UNAM) presented yesterday the Educa CNDH portal. On the site educates. cndh. org. mx activities will be offered as graduates, courses, workshops and conferences, in face-to-face, online or mixed. It is aimed at public servants, members of civil society organizations, workers' and employers' unions, members of the national education system and the general public. The portal offers courses on human rights in relation to gender situations, violence, sexual diversity, environment, forced displacement and freedom of expression. Designed by CNDH and UNAM staff. The portal offer will be updated permanently. There is also a section for young people and teachers, which seeks to sensitize them and train them as human rights defenders with e-books, infographics and videos. The president of the CNDH, Luis Raúl González Perez, said yesterday in Ciudad Universitaria that the country is going through a critical juncture with poverty, violence, corruption and impunity. He noted that one of the responses to these problems is human rights training. Only when people know and understand their rights will it be possible to consolidate a culture that assumes their respect and defense as a pattern of daily activity. I'm sorry.",
+    "source": "www.jornada.com.mx",
+    "date": "20/04/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "UNAM and CNDH present an educational portal on the InternetThe National Human Rights Commission (CNDH) and UNAM presented yesterday an educational portal on the InternetThe .",
+            "question_answers": [
+                {
+                    "question": "What does CNDH stand for?",
+                    "answer": "National Human Rights Commission"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the National Human Rights Commission (CNDH) and UNAM have in common?",
+                    "score": 0.6699,
+                    "answers": "www.jornada.com.mx reported on 20/04/2018 that UNAM and CNDH present an educational portal on the InternetThe|ROOT\tthat|mark\tand|cc\tan|det\teducational|amod\ton|prep\tthe|det\t(|punct\t)|punct\tand|cc\tan|det\teducational|amod\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "On the site educates.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 20/04/2018 that On the site educates?",
+                    "answer": "www.jornada.com.mx"
+                },
+                {
+                    "question": "What does the site do?",
+                    "answer": "educates"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the website \"jornada.com.mx\" do?",
+                    "score": 0.8249,
+                    "answers": "On the site|prep"
+                },
+                {
+                    "question": "What is the website \"jornada.com.mx\"?",
+                    "score": 0.6838,
+                    "answers": "www.jornada.com.mx|nsubj\ton 20/04/2018|prep\tthat|mark\tthe|det"
+                },
+                {
+                    "question": "What is the purpose of the website?",
+                    "score": 0.669,
+                    "answers": "that On the site educates|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "org.",
+            "question_answers": [
+                {
+                    "question": "On what date did www.jornada.com.mx report that org was founded?",
+                    "answer": "20/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the website \"jornada.com.mx\"?",
+                    "score": 0.6627,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 20/04/2018 that org|ROOT\ton 20/04/2018|prep\tthat|mark"
+                },
+                {
+                    "question": "What is the org?",
+                    "score": 0.5274,
+                    "answers": "that org|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "mx activities will be offered as graduates, courses, workshops and conferences, in face-to-face, online or mixed.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 20/04/2018 that mx activities will be offered as graduates, courses, workshops and conferences?",
+                    "answer": "www.jornada.com.mx"
+                },
+                {
+                    "question": "What type of mx activities were reported on 20/04/2018?",
+                    "answer": "mx activities will be offered as graduates, courses, workshops and conferences, in face-to-face, online or mixed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What activities will be offered as graduates, courses, and conferences?",
+                    "score": 0.7898,
+                    "answers": "www.jornada.com.mx reported on 20/04/2018 that mx activities will be offered as graduates , courses , workshops and conferences , in face - to - face , online or mixed|ROOT\tcourses , workshops and conferences|conj"
+                },
+                {
+                    "question": "What is mx activities?",
+                    "score": 0.6855,
+                    "answers": "mx|compound\tmx activities|nsubjpass"
+                },
+                {
+                    "question": "What is the purpose of mx activities?",
+                    "score": 0.6816,
+                    "answers": "in face - to - face , online or mixed|prep"
+                }
+            ]
+        },
+        {
+            "claim": "an educational portal on the InternetThe is aimed at public servants, members of civil society organizations, workers' and employers' unions, members of the national education system and the general public.",
+            "question_answers": [
+                {
+                    "question": "What is aimed at public servants, members of civil society organizations, workers' and employers' unions, members of the national education system and the general public?",
+                    "answer": "an educational portal on the InternetThe"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of an educational portal on the internet?",
+                    "score": 0.7218,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 20/04/2018 that an educational portal on the InternetThe is aimed at public servants , members of civil society organizations , workers ' and employers ' unions , members of the national education system and the general public|ROOT\ton 20/04/2018|prep\tthat|mark\tan|det\teducational|amod\tthat an educational portal on the InternetThe|nsubjpass\ton the InternetThe|prep\tthe|det\tis|auxpass\tthat an educational portal on the InternetThe is aimed at public servants , members of civil society organizations , workers ' and employers ' unions , members of the national education system and the general public|ccomp\tat public servants , members of civil society organizations , workers ' and employers ' unions , members of the national education system and the general public|prep\tpublic|amod\tpublic servants , members of civil society organizations , workers ' and employers ' unions , members of the national education system and the general public|pobj\t,|punct\tmembers of civil society organizations , workers ' and employers ' unions , members of the national education system and the general public|conj\tof civil society organizations , workers ' and employers ' unions , members of the national education system and the general public|prep\tcivil|amod\tcivil society|compound\t,|punct\tworkers ' and employers '|nmod\t'|case\tand|cc\temployers '|conj\t'|case\tworkers ' and employers ' unions , members of the national education system and the general public|conj\t,|punct\tmembers of the national education system and the general public|conj\tof the national education system|prep\tthe|det\tnational|amod\teducation|compound\tthe national education system|pobj\tand|cc\tthe|det\tgeneral|amod\tthe general public|conj"
+                }
+            ]
+        },
+        {
+            "claim": "an educational portal on the InternetThe offers courses on human rights in relation to gender situations, violence, sexual diversity, environment, forced displacement and freedom of expression.",
+            "question_answers": [
+                {
+                    "question": "What did www.jornada.com.mx report on 20/04/2018?",
+                    "answer": "an educational portal on the InternetThe offers courses on human rights in relation to gender situations, violence, sexual diversity, environment, forced displacement and freedom of expression"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are there courses on human rights in relation to gender situations and violence?",
+                    "score": 0.8267,
+                    "answers": "that|mark\tthe|det"
+                },
+                {
+                    "question": "What are the human rights programs available on the internet?",
+                    "score": 0.6493,
+                    "answers": "courses on human rights in relation to gender situations , violence , sexual diversity , environment , forced displacement and freedom of expression|dobj"
+                },
+                {
+                    "question": "What is the purpose of an educational portal on the internet?",
+                    "score": 0.6285,
+                    "answers": "on 20/04/2018|prep\tan|det\teducational|amod\tan educational portal on the InternetThe|nsubj\ton the InternetThe|prep\tthe InternetThe|pobj\tthat an educational portal on the InternetThe offers courses on human rights in relation to gender situations , violence , sexual diversity , environment , forced displacement and freedom of expression|ccomp\tin relation to gender situations , violence , sexual diversity , environment , forced displacement and freedom of expression|prep\trelation to gender situations , violence , sexual diversity , environment , forced displacement and freedom of expression|pobj\tsexual diversity , environment , forced displacement and freedom of expression|conj\tforced displacement and freedom of expression|conj"
+                },
+                {
+                    "question": "What is freedom of expression?",
+                    "score": 0.6189,
+                    "answers": "freedom of expression|conj\tof expression|prep\texpression|pobj"
+                },
+                {
+                    "question": "What is the definition of freedom of expression?",
+                    "score": 0.611,
+                    "answers": "to gender situations , violence , sexual diversity , environment , forced displacement and freedom of expression|prep\tgender situations , violence , sexual diversity , environment , forced displacement and freedom of expression|pobj\tviolence , sexual diversity , environment , forced displacement and freedom of expression|conj\tenvironment , forced displacement and freedom of expression|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Designed by CNDH and UNAM staff.",
+            "question_answers": [
+                {
+                    "question": "Who designed the site?",
+                    "answer": "CNDH and UNAM"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who designed the website \"jornada.com.mx\"?",
+                    "score": 0.8178,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 20/04/2018 that Designed by CNDH and UNAM staff|ROOT"
+                },
+                {
+                    "question": "What is the relationship between CNDH and UNAM staff?",
+                    "score": 0.6645,
+                    "answers": "that|mark\tand|cc\tCNDH and UNAM staff|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The portal offer will be updated permanently.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that the portal offer would be updated permanently?",
+                    "answer": "20/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the website linked to the website permanently updated?",
+                    "score": 0.9015,
+                    "answers": "www.jornada.com.mx reported on 20/04/2018 that The portal offer will be updated permanently|ROOT"
+                },
+                {
+                    "question": "When was the portal offer added permanently to the website?",
+                    "score": 0.8946,
+                    "answers": "on 20/04/2018|prep\tThe portal offer|nsubjpass"
+                },
+                {
+                    "question": "What is the website \"jornada.com.mx\"?",
+                    "score": 0.816,
+                    "answers": "www.jornada.com.mx|nsubj\tthat|mark\tThe|det\twill|aux\tbe|auxpass\tpermanently|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "There is also a section for young people and teachers , which seeks to sensitize young people and teachers and train young people and teachers as human rights defenders with e-books, infographics and videos.",
+            "question_answers": [
+                {
+                    "question": "What is the section for that seeks to sensitize young people and teachers?",
+                    "answer": "young people and teachers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What programs are available for young people and teachers?",
+                    "score": 0.7687,
+                    "answers": "train young people and teachers as human rights defenders with e - books , infographics and videos|conj"
+                },
+                {
+                    "question": "What are the human rights defenders?",
+                    "score": 0.6503,
+                    "answers": "human|amod\thuman rights defenders|pobj"
+                },
+                {
+                    "question": "What is the purpose of young people and teachers being human rights defenders?",
+                    "score": 0.6309,
+                    "answers": "www.jornada.com.mx reported on 20/04/2018 that There is also a section for young people and teachers , which seeks to sensitize young people and teachers and train young people and teachers as human rights defenders with e - books , infographics and videos|ROOT\tthat|mark\tThere|expl\talso|advmod\ta|det\tyoung|amod\tand|cc\tteachers|conj\t,|punct\twhich|nsubj\tto|aux\tyoung|amod\tand|cc\tteachers|conj\tand|cc\tyoung|amod\tand|cc\tteachers|conj\te|pobj\t-|pobj\t,|punct\tand|cc\tvideos|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The president of the CNDH, Luis Raúl González Perez , said yesterday in Ciudad Universitaria that the country is going through a critical juncture with poverty, violence, corruption and impunity .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Luis Raúl González Perez say about the CNDH?",
+                    "score": 0.7443,
+                    "answers": "of the CNDH|prep\tthe CNDH|pobj"
+                },
+                {
+                    "question": "Who is Luis Raúl González Perez?",
+                    "score": 0.6377,
+                    "answers": "The president of the CNDH , Luis Raúl González Perez|nsubj\tGonzález|compound"
+                },
+                {
+                    "question": "What is the relationship between poverty, violence, corruption and impunity in the country?",
+                    "score": 0.593,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 20/04/2018 that The president of the CNDH , Luis Raúl González Perez , said yesterday in Ciudad Universitaria that the country is going through a critical juncture with poverty , violence , corruption and impunity|ROOT\ton 20/04/2018|prep\tthat|mark\tThe|det\tthe|det\t,|punct\tLuis|compound\t,|punct\tthat The president of the CNDH , Luis Raúl González Perez , said yesterday in Ciudad Universitaria that the country is going through a critical juncture with poverty , violence , corruption and impunity|ccomp\tin Ciudad Universitaria|prep\tCiudad|compound\tthat|mark\tthe|det\tthe country|nsubj\tis|aux\tthat the country is going through a critical juncture with poverty , violence , corruption and impunity|ccomp\tthrough a critical juncture|prep\ta|det\tcritical|amod\ta critical juncture|pobj\twith poverty , violence , corruption and impunity|prep\tpoverty , violence , corruption and impunity|pobj\t,|punct\tviolence , corruption and impunity|conj\t,|punct\tand|cc\timpunity|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The president of the CNDH, Luis Raúl González Perez noted that one of the responses to poverty, violence, corruption and impunity is human rights training.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the responses to poverty, violence, corruption and impunity?",
+                    "score": 0.7032,
+                    "answers": "one of the responses to poverty , violence , corruption and impunity|nsubj\tof the responses to poverty , violence , corruption and impunity|prep\tthe responses to poverty , violence , corruption and impunity|pobj"
+                },
+                {
+                    "question": "What is human rights training?",
+                    "score": 0.6642,
+                    "answers": "www.jornada.com.mx reported on 20/04/2018 that The president of the CNDH , Luis Raúl González Perez noted that one of the responses to poverty , violence , corruption and impunity is human rights training|ROOT\tthat The president of the CNDH , Luis Raúl González Perez noted that one of the responses to poverty , violence , corruption and impunity is human rights training|ccomp\tto poverty , violence , corruption and impunity|prep\tpoverty , violence , corruption and impunity|pobj\tviolence , corruption and impunity|conj\tthat one of the responses to poverty , violence , corruption and impunity is human rights training|ccomp\thuman|amod\thuman rights|compound\thuman rights training|attr"
+                },
+                {
+                    "question": "What is the relationship between poverty, corruption and impunity in the CNDH?",
+                    "score": 0.6496,
+                    "answers": "that|mark\tThe|det\tthe|det\t,|punct\tLuis|compound\tthat|mark\tthe|det\t,|punct\t,|punct\tand|cc\timpunity|conj"
+                },
+                {
+                    "question": "Who is the president of the CNDH?",
+                    "score": 0.6266,
+                    "answers": "The president of the CNDH , Luis Raúl González Perez|nsubj"
+                },
+                {
+                    "question": "What is the CNDH?",
+                    "score": 0.6223,
+                    "answers": "of the CNDH|prep\tthe CNDH|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Only when people know and understand rights will it be possible to consolidate a culture that assumes respect and defense as a pattern of daily activity.",
+            "question_answers": [
+                {
+                    "question": "What is a pattern of daily activity that people assume when they know and understand their rights?",
+                    "answer": "respect and defense"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to know and understand rights?",
+                    "score": 0.7866,
+                    "answers": "that people know and Only when understand rights will it be possible to consolidate a culture that assumes respect and defense as a pattern of daily activity|ccomp"
+                },
+                {
+                    "question": "What is the difference between understand rights and understand rights?",
+                    "score": 0.6799,
+                    "answers": "Only when understand rights|conj"
+                },
+                {
+                    "question": "What are the rights of people who understand them?",
+                    "score": 0.6633,
+                    "answers": "rights|dobj"
+                },
+                {
+                    "question": "What is the relationship between knowledge and understand rights?",
+                    "score": 0.6558,
+                    "answers": "www.jornada.com.mx reported on 20/04/2018 that people know and Only when understand rights will it be possible to consolidate a culture that assumes respect and defense as a pattern of daily activity|ROOT\tOnly|advmod\tOnly when|advmod\tpeople|nsubj\tpeople know and Only when understand rights|advcl\tpossible|acomp\ta|det\ta|det"
+                },
+                {
+                    "question": "What is the culture that demands respect and defense as a pattern of daily activity?",
+                    "score": 0.5935,
+                    "answers": "a culture that assumes respect and defense as a pattern of daily activity|dobj"
+                }
+            ]
+        }
+    ]
+}

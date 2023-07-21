@@ -1,0 +1,263 @@
+{
+    "id": "61_Science_145",
+    "claim": "THE CALDE OF CITY, ORGANISED THAT MURCIA 'IS IN THE INTERNATIONAL PHOCO '. In the face of the difficulty of taking good photographs in the affected Caribbean areas, with some gusts of wind reaching 350km/h, CNN has decided to use images of Murcia, specifically of a camp in the district of Espinardo, to show the devastation of Hurricane Irma. 'The arid, dry and rugged terrain of this town is perfect for exposing the terrible consequences of a tropical cyclone ', says Phillip Wilson, director of information at the U.S. network. 'Murcia is like the one after a terrible catastrophe but with favorable conditions to record images ', be honest. The mayor of the city, Jose Ballesta, highlights 'the pride of having placed this region in the focus of the international media ', adding that 'if this is not Marca España, you will tell me what it is'. He assures that the goal for the next hurricane is'that they decide to baptize him with the name of Murcia, or better yet, achieve a good sponsorship and that he is known as Hurricane Murcia Estrella Levante'. CNN's news team displaced to Murcia also wanted to photograph several locals to illustrate the faces of the horror of the tragedy. 'Their hostility, their suffering and their way of speaking undoubtedly convey to the viewer the feeling that something terrible has happened to them ', journalists explain. It is not the first time that Americans think of Murcia to document a historical fact: in the year , a NASA team has already travelled to this autonomous community to fake the arrival of man on the Moon. I'm sorry.",
+    "source": "www.elmundotoday.com",
+    "date": "08/09/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "THE CALDE OF CITY, ORGANISED THAT MURCIA 'IS IN THE INTERNATIONAL PHOCO '.",
+            "question_answers": [
+                {
+                    "question": "Where did the CALDE of CITY say MURCIA was located?",
+                    "answer": "IN THE INTERNATIONAL PHOCO"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the crimes committed by MURCIA?",
+                    "score": 0.7023,
+                    "answers": "on 08/09/2017|prep"
+                },
+                {
+                    "question": "What is the relationship between MURCIA and the pope?",
+                    "score": 0.6878,
+                    "answers": "THAT MURCIA ' IS IN THE INTERNATIONAL PHOCO|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In the face of the difficulty of taking good photographs in the affected Caribbean areas, with some gusts of wind reaching 350km/h, CNN has decided to use images of MURCIA , specifically of a camp in the district of Espinardo, to show the devastation of Hurricane Irma.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the camp used by CNN to show the devastation of Hurricane Irma?",
+                    "answer": "MURCIA"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did CNN decide to use images of during Hurricane Irma?",
+                    "score": 0.7647,
+                    "answers": "www.elmundotoday.com reported on 08/09/2017 that In the face of the difficulty of taking good photographs in the affected Caribbean areas , with some gusts of wind reaching 350 km/h , CNN has decided to use images of MURCIA , specifically of a camp in the district of Espinardo , to show the devastation of Hurricane Irma|ROOT\tthat|mark\tthe|det\tthe|det\tin the affected Caribbean areas|prep\tthe|det\tthe affected Caribbean areas|pobj\tthat In the face of the difficulty of taking good photographs in the affected Caribbean areas , with some gusts of wind reaching 350 km/h , CNN has decided to use images of MURCIA , specifically of a camp in the district of Espinardo , to show the devastation of Hurricane Irma|ccomp\tthe|det\tthe|det\tHurricane|compound"
+                },
+                {
+                    "question": "What did CNN say about taking good photos in the affected Caribbean areas?",
+                    "score": 0.7539,
+                    "answers": "good photographs|dobj"
+                },
+                {
+                    "question": "How many wind turbines are there in the affected areas?",
+                    "score": 0.6761,
+                    "answers": "of the difficulty of taking good photographs in the affected Caribbean areas , with some gusts of wind reaching 350 km/h ,|prep"
+                },
+                {
+                    "question": "What is the wind speed of Hurricane Irma?",
+                    "score": 0.6712,
+                    "answers": "of wind|prep"
+                },
+                {
+                    "question": "What is the devastation of Hurricane Irma?",
+                    "score": 0.6712,
+                    "answers": "to show the devastation of Hurricane Irma|xcomp\tthe devastation of Hurricane Irma|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'The arid, dry and rugged terrain of MURCIA is perfect for exposing the terrible consequences of a tropical cyclone ', says Phillip Wilson, director of information at CNN .",
+            "question_answers": [
+                {
+                    "question": "What type of cyclone is MURCIA perfect for exposing the terrible consequences of?",
+                    "answer": "tropical cyclone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the consequences of a tropical cyclone?",
+                    "score": 0.8092,
+                    "answers": "www.elmundotoday.com|nsubj\twww.elmundotoday.com reported on 08/09/2017 that ' The arid , dry and rugged terrain of MURCIA is perfect for exposing the terrible consequences of a tropical cyclone|ccomp\ton 08/09/2017|prep\tthat|mark\t'|punct\tThe|det\t,|punct\tand|cc\trugged|conj\tof MURCIA|prep\tthat ' The arid , dry and rugged terrain of MURCIA is perfect for exposing the terrible consequences of a tropical cyclone|ccomp\tperfect for exposing the terrible consequences of a tropical cyclone|acomp\tfor exposing the terrible consequences of a tropical cyclone|prep\texposing the terrible consequences of a tropical cyclone|pcomp\tthe|det\tterrible|amod\tthe terrible consequences of a tropical cyclone|dobj\tof a tropical cyclone|prep\ta|det\ttropical|amod\ta tropical cyclone|pobj\t'|punct\t,|punct\twww.elmundotoday.com reported on 08/09/2017 that ' The arid , dry and rugged terrain of MURCIA is perfect for exposing the terrible consequences of a tropical cyclone ' , says Phillip Wilson , director of information at CNN|ROOT\tPhillip|compound\t,|punct\tat CNN|prep"
+                },
+                {
+                    "question": "What is the arid, dry, and rugged terrain of MURCIA?",
+                    "score": 0.7531,
+                    "answers": "arid , dry and rugged|amod\tThe arid , dry and rugged terrain of MURCIA|nsubj"
+                },
+                {
+                    "question": "What is Phillip Wilson's position on Cyclone MURCIA?",
+                    "score": 0.7331,
+                    "answers": "of information|prep\tinformation|pobj"
+                },
+                {
+                    "question": "What is the climate of MURCIA?",
+                    "score": 0.7172,
+                    "answers": "dry and rugged|conj"
+                },
+                {
+                    "question": "Who is Phillip Wilson?",
+                    "score": 0.6435,
+                    "answers": "Phillip Wilson , director of information at CNN|nsubj\tdirector of information at CNN|appos"
+                }
+            ]
+        },
+        {
+            "claim": "'MURCIA is like the one after a terrible catastrophe but with favorable conditions to record images ', be honest.",
+            "question_answers": [
+                {
+                    "question": "What did elmundotoday.com say about MURCIA?",
+                    "answer": "favorable conditions to record images"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What conditions are there to record images after a terrible catastrophe?",
+                    "score": 0.8146,
+                    "answers": "favorable|amod"
+                },
+                {
+                    "question": "What conditions are needed to record images?",
+                    "score": 0.8105,
+                    "answers": "but with favorable conditions to record images|prep\tfavorable conditions to record images|pobj"
+                },
+                {
+                    "question": "What are the conditions to record images of MURCIA?",
+                    "score": 0.7758,
+                    "answers": "www.elmundotoday.com reported on 08/09/2017 that ' MURCIA is like the one after a terrible catastrophe but with favorable conditions to record images ' , be honest|ROOT"
+                },
+                {
+                    "question": "What is MURCIA?",
+                    "score": 0.7154,
+                    "answers": "www.elmundotoday.com|nsubj\t08/09/2017|pobj\tMURCIA is like the one after a terrible catastrophe but with favorable conditions to record images|ccomp\tthat ' MURCIA is like the one after a terrible catastrophe but with favorable conditions to record images ' , be honest|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The mayor of the city, Jose Ballesta , highlights 'the pride of having placed this region in the focus of the international media ', adding that 'if this is not Marca España, you will tell The mayor of the city, Jose Ballesta what this is'.",
+            "question_answers": [
+                {
+                    "question": "Who said 'the pride of having placed this region in the focus of the international media'?",
+                    "answer": "The mayor of the city, Jose Ballesta"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jose Ballesta say about the mayor of Marca España?",
+                    "score": 0.816,
+                    "answers": "adding that ' if this is not Marca España , you will tell The mayor of the city , Jose Ballesta what this is|advcl"
+                },
+                {
+                    "question": "What does Ballesta think about Marca España?",
+                    "score": 0.7942,
+                    "answers": "if this is not Marca España|advcl"
+                },
+                {
+                    "question": "What is the focus of the international media on Marca España?",
+                    "score": 0.7093,
+                    "answers": "www.elmundotoday.com reported on 08/09/2017 that The mayor of the city , Jose Ballesta , highlights ' the pride of having placed this region in the focus of the international media ' , adding that ' if this is not Marca España , you will tell The mayor of the city , Jose Ballesta what this is '|ROOT"
+                },
+                {
+                    "question": "What is the mayor of the city of Marca España?",
+                    "score": 0.6955,
+                    "answers": "that The mayor of the city , Jose Ballesta , highlights ' the pride of having placed this region in the focus of the international media ' , adding that ' if this is not Marca España , you will tell The mayor of the city , Jose Ballesta what this is '|ccomp"
+                },
+                {
+                    "question": "What is Jose Ballesta's political affiliation?",
+                    "score": 0.6928,
+                    "answers": "The|det\tThe|det"
+                }
+            ]
+        },
+        {
+            "claim": "The mayor of the city, Jose Ballesta assures that the goal for the next hurricane is'that they decide to baptize the next hurricane with the name of MURCIA , or better yet, achieve a good sponsorship and that the next hurricane is known as Hurricane Murcia Estrella Levante'.",
+            "question_answers": [
+                {
+                    "question": "What is the goal for the next hurricane?",
+                    "answer": "they decide to baptize the next hurricane with the name of MURCIA"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of sponsoring the next hurricane with the name MURCIA?",
+                    "score": 0.8042,
+                    "answers": "achieve a good sponsorship|conj"
+                },
+                {
+                    "question": "What is the next hurricane named MURCIA?",
+                    "score": 0.7907,
+                    "answers": "for the next hurricane|prep"
+                },
+                {
+                    "question": "What is the name of the next hurricane that is known as Hurricane Murcia Estrella Levante?",
+                    "score": 0.7791,
+                    "answers": "the|det\tthe|det\tthe|det\tthe|det\tthe|det\ta|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "CNN news team displaced to MURCIA also wanted to photograph several locals to illustrate the faces of the horror of the tragedy.",
+            "question_answers": [
+                {
+                    "question": "Where was the CNN team displaced to?",
+                    "answer": "MURCIA"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the CNN news team being displaced to MURCIA?",
+                    "score": 0.6944,
+                    "answers": "CNN news team displaced to MURCIA|nsubj\tdisplaced to MURCIA|acl"
+                },
+                {
+                    "question": "What is the story of the terror of the tragedy?",
+                    "score": 0.5761,
+                    "answers": "of the horror of the tragedy|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'hostility, suffering and way of speaking undoubtedly convey to the viewer the feeling that something terrible has happened to several locals ', journalists explain.",
+            "question_answers": [
+                {
+                    "question": "What did hostility, suffering and way of speaking convey to the viewer?",
+                    "answer": "the feeling that something terrible has happened to several locals"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the link between \"hostility, suffering and way of speaking undoubtedly convey to the viewer the feeling that something terrible has happened to several locals?",
+                    "score": 0.6675,
+                    "answers": "www.elmundotoday.com|nsubj"
+                },
+                {
+                    "question": "What does the website \"elmundtoday.com\" say about the local population?",
+                    "score": 0.6151,
+                    "answers": "www.elmundotoday.com reported on 08/09/2017|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Hostility, suffering, and way of speaking?",
+                    "score": 0.5638,
+                    "answers": "on 08/09/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It is not the first time that Americans think of Murcia to document a historical fact: in the year , a NASA team has already travelled to this autonomous community to fake the arrival of man on the Moon.",
+            "question_answers": [
+                {
+                    "question": "When did a NASA team travel to Murcia to fake the arrival of man on the Moon?",
+                    "answer": "in the year"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did NASA team do to fake the arrival of man on the moon?",
+                    "score": 0.7533,
+                    "answers": "www.elmundotoday.com|nsubj\twww.elmundotoday.com reported on 08/09/2017 that It is not the first time that Americans think of Murcia to document a historical fact : in the year , a NASA team has already travelled to this autonomous community to fake the arrival of man on the Moon|ROOT\ton 08/09/2017|prep\tthat|mark\tIt|nsubj\tnot|neg\tthe|det\tthe first time that Americans think of Murcia|attr\tthat|advmod\tthat Americans think of Murcia|relcl\tof Murcia|prep\tto|aux\tto document a historical fact|advcl\ta|det\thistorical|amod\ta historical fact|dobj\t:|punct\tin the year|prep\tthe|det\t,|punct\ta|det\ta NASA team|nsubj\thas|aux\talready|advmod\t: in the year , a NASA team has already travelled to this autonomous community to fake the arrival of man on the Moon|advcl\tto this autonomous community|prep\tthis|det\tautonomous|amod\tthis autonomous community|pobj\tto|aux\tto fake the arrival of man on the Moon|advcl\tthe|det\tof man|prep\ton the Moon|prep\tthe|det\tthe Moon|pobj"
+                },
+                {
+                    "question": "What is the history of Murcia?",
+                    "score": 0.6704,
+                    "answers": "that It is not the first time that Americans think of Murcia to document a historical fact|ccomp"
+                }
+            ]
+        }
+    ]
+}

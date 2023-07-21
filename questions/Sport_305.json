@@ -1,0 +1,242 @@
+{
+    "id": "Sport_305",
+    "claim": "The brava bars of football fans, arrived in Mexico in the mid-1990s as a copy of South America, and that replaced the truncheons, not only the repetitive and endless chants mattered to Mexico, but also the violence. And it's because of that stadium violence that Femexfut has decided to act once and for all to end the brave bars, and for that, starting with the next tournament, it will bring veteran hooligans directly from London to fight them. Hooligans veterans, experts in soccer-related terror, promise to end the bars once and for all. Nigel Kickenbutton, leader of the first hooligan group to arrive in Mexico, said to El:'We don't know Mexican football well. The truth is that third-world football gives us slack. America? Chivas? Tigers? What's all that crap? But even though we don't care about those teams, we do know how to break faces and kick ass, and we're sure we can beat it clean with any bar we bump into, because if we know of something it's violence'. With the arrival of the hooligans in Mexico, the total extermination of the brave bars is expected. However, we don't know what will happen next, when Femexfut tries to get rid of hooligans. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "25/06/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The brava bars of football fans, arrived in Mexico in the mid-1990s as a copy of South America, and that replaced the truncheons, not only the repetitive and endless chants mattered to Mexico, but also the violence.",
+            "question_answers": [
+                {
+                    "question": "When did the brava bars of football fans arrive in Mexico?",
+                    "answer": "the mid-1990s"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the brava bars arrive in Mexico?",
+                    "score": 0.7373,
+                    "answers": "in the mid-1990s|prep"
+                },
+                {
+                    "question": "What are the brava bars of football fans in Mexico?",
+                    "score": 0.6545,
+                    "answers": "The brava bars of football fans|nsubj"
+                },
+                {
+                    "question": "How many chants were there in Mexico in the mid-1990s?",
+                    "score": 0.6196,
+                    "answers": "not only the repetitive and endless chants|nsubj"
+                },
+                {
+                    "question": "What was the meaning of the brava bars?",
+                    "score": 0.6061,
+                    "answers": "repetitive and endless|amod"
+                },
+                {
+                    "question": "What was the origin of the word \"brava bars\"?",
+                    "score": 0.5983,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And it's because of that stadium violence that Femexfut has decided to act once and for all to end the brave bars, and for that, starting with the next tournament, it will bring veteran hooligans directly from London to fight them.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/06/2016 that Femexfut decided to end the brave bars?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "Who decided to end the brave bars?",
+                    "answer": "Femexfut"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Femexfut do to fight the hooligans?",
+                    "score": 0.6841,
+                    "answers": "for that , starting with the next tournament , it will bring veteran hooligans directly from London to fight them|conj\tveteran hooligans|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Hooligans veterans, experts in soccer-related terror, promise to end the bars once and for all.",
+            "question_answers": [
+                {
+                    "question": "What did the Hooligans veterans promise to do once and for all?",
+                    "answer": "end the bars"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Hooligans veterans promise to end the bars?",
+                    "score": 0.8266,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that Hooligans veterans , experts in soccer - related terror , promise to end the bars once and for all|ROOT"
+                },
+                {
+                    "question": "Who are Hooligans veterans?",
+                    "score": 0.7614,
+                    "answers": "Hooligans veterans , experts in soccer - related terror ,|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Hooligans and soccer?",
+                    "score": 0.6664,
+                    "answers": "soccer|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "Nigel Kickenbutton, leader of the first hooligan group to arrive in Mexico, said to El:'We don't know Mexican football well.",
+            "question_answers": [
+                {
+                    "question": "What type of group did Nigel Kickenbutton lead?",
+                    "answer": "hooligan"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Nigel Kickenbutton arrive in Mexico?",
+                    "score": 0.8251,
+                    "answers": "to arrive in Mexico|relcl"
+                },
+                {
+                    "question": "What did Nigel Kickenbutton say about Mexican football?",
+                    "score": 0.7897,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that Nigel Kickenbutton , leader of the first hooligan group to arrive in Mexico , said to El:'We do n't know Mexican football well|ROOT\tto El:'We do n't know Mexican football well|prep\tEl:'We|pobj\tdo n't know Mexican football well|pobj\twell|advmod"
+                },
+                {
+                    "question": "What is the relationship between Nigel Kickenbutton and Mexican football?",
+                    "score": 0.6961,
+                    "answers": "Nigel|compound"
+                },
+                {
+                    "question": "What was the name of the hooligan group that came to Mexico?",
+                    "score": 0.6906,
+                    "answers": "the first hooligan group to arrive in Mexico|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The truth is that third-world football gives us slack.",
+            "question_answers": [
+                {
+                    "question": "What gives us slack?",
+                    "answer": "third-world football"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does third world football give us slack?",
+                    "score": 0.8907,
+                    "answers": "slack|dobj"
+                },
+                {
+                    "question": "What is third world football?",
+                    "score": 0.8556,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 25/06/2016 that The truth is that third - world football gives us slack|ROOT\ton 25/06/2016|prep\tthat|mark\tThe|det\tThe truth|nsubj\tthat The truth is that third - world football gives us slack|ccomp\tthat|mark\t-|punct\tthird - world|compound\tthird - world football|nsubj\tthat third - world football gives us slack|ccomp\tus|dative"
+                }
+            ]
+        },
+        {
+            "claim": "America? Chivas? Tigers? What's all that crap? But even though we don't care about those teams, we do know how to break faces and kick ass, and we're sure we can beat it clean with any bar we bump into, because if we know of something it's violence'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 25/06/2016 that America?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "What teams did www.eldizque.com report on 25/06/2016?",
+                    "answer": "Chivas?"
+                },
+                {
+                    "question": "What team did www.eldizque.com report on 25/06/2016?",
+                    "answer": "Tigers"
+                },
+                {
+                    "question": "What did www.eldizque.com report on 25/06/2016?",
+                    "answer": "crap"
+                },
+                {
+                    "question": "What type of bar are the Tigers sure they can beat?",
+                    "answer": "clean"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What teams do we care about?",
+                    "score": 0.7762,
+                    "answers": "even though we do n't care about those teams|advcl"
+                },
+                {
+                    "question": "What is the relationship between America and the Tigers?",
+                    "score": 0.6877,
+                    "answers": "any bar we bump into|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the rivalry between America and Chivas?",
+                    "score": 0.6868,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the definition of gang violence?",
+                    "score": 0.6667,
+                    "answers": "But even though we do n't care about those teams , we do know to break faces and how kick ass , and we 're sure we can beat it clean with any bar we bump into , because if we know of something it 's violence '|ROOT\twe can beat it clean with any bar we bump into|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "With the arrival of the hooligans in Mexico, the total extermination of the brave bars is expected.",
+            "question_answers": [
+                {
+                    "question": "What group arrived in Mexico City to exterminate the brave bars?",
+                    "answer": "hooligans"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the hooligan gangs in Mexico?",
+                    "score": 0.7914,
+                    "answers": "the hooligans|pobj"
+                },
+                {
+                    "question": "How many brave bars are there in Mexico?",
+                    "score": 0.7758,
+                    "answers": "the brave bars|pobj"
+                },
+                {
+                    "question": "How many hooligans were in Mexico in 2016?",
+                    "score": 0.7529,
+                    "answers": "www.eldizque.com|nsubj\ton 25/06/2016|prep\tthat|mark\tWith the arrival of the hooligans in Mexico|prep\tthe|det\tthe arrival of the hooligans in Mexico|pobj\tof the hooligans|prep\tthe|det\tin Mexico|prep\t,|punct\tthe|det\ttotal|amod\tthe|det\tis|auxpass\tthat With the arrival of the hooligans in Mexico , the total extermination of the brave bars is expected|ccomp"
+                },
+                {
+                    "question": "What did the hooligans do to the brave bars?",
+                    "score": 0.735,
+                    "answers": "the total extermination of the brave bars|nsubjpass\tof the brave bars|prep"
+                },
+                {
+                    "question": "What is the purpose of the hooligan invasion of Mexico?",
+                    "score": 0.7063,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that With the arrival of the hooligans in Mexico , the total extermination of the brave bars is expected|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "However, we don't know what will happen next, when Femexfut tries to get rid of hooligans.",
+            "question_answers": [
+                {
+                    "question": "Who is trying to get rid of hooligans?",
+                    "answer": "Femexfut"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Femexfut try to get rid of hooligans?",
+                    "score": 0.7942,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 25/06/2016 that However , we do n't know what will happen next , when Femexfut tries to get rid of hooligans|ROOT\tthat|mark\tHowever|advmod\t,|punct\twe|nsubj\tdo|aux\tn't|neg\tthat However , we do n't know what will happen next , when Femexfut tries to get rid of hooligans|ccomp\twhat|nsubj\twhat will happen next , when Femexfut tries to get rid of hooligans|ccomp\t,|punct\twhen|advmod\twhen Femexfut tries to get rid of hooligans|advcl\tto|aux\tto get rid of hooligans|xcomp\trid of hooligans|xcomp\tof hooligans|prep"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "id": "46_Health_226",
+    "claim": "About 1,000 women die each year from postpartum bleedingThe WHO clinical trial looked at about 1,000 women. The World Health Organization (WHO) recommended a new drug as a first choice to prevent excessive bleeding after childbirth, as it has proven its effectiveness in helping save the lives of mothers in low- and middle-income countries. The medicine, called thermostable carbettocin, is as safe and effective as oxytocin, which is currently recommended by the organization, but its handling is easier because it does not require refrigeration and retains its efficacy for at least three years. Oxytocin is very effective, but must be stored and transported at a temperature of between eight and two degrees Celsius, a condition that is difficult in many countries where being exposed to heat loses effectiveness, depriving women of its beneficial effect. A WHO-led study, in collaboration with Ferring Pharmaceuticals, showed that thermostable carbethocin is not subject to refrigeration, retains its efficacy for at least three years stored at  degrees Celsius and  percent relative humidity. 'This is a truly encouraging new development that can revolutionize our ability to keep mothers and babies alive ', said Dr. Tedros Adhanom Ghebreyesus, WHO Director General. About  1,000 women die each year from postpartum bleeding, which increases the risk that their babies will also die within a month, on average. The WHO clinical trial looked at about  1,000 women who gave birth vaginally in Argentina, Egypt, India, Kenya, Nigeria, Singapore, South Africa, Thailand, Uganda and the United Kingdom, where a single injection of carbettocin or oxytocin was randomly given to each of them immediately after delivery. Both medicines were kept at the temperatures required to ensure their efficacy. Metin Gülmezoglu, WHO Department of Reproductive Health and Research, highlighted that the development of a drug to prevent postpartum bleeding that is effective in warm and humid conditions is very good news for millions of women giving birth in places without access to refrigeration. WHO stated in a statement that once the efficacy of carbettocin has been proven, the next step is regulatory review and approval by countries. Experts say this paves the way for thermostable carbettocin to be offered to all women who give birth by vaginal route in up to  countries around the world, particularly in those where oxytocin cannot have the cooling conditions it requires",
+    "source": "www.eluniversal.com.mx",
+    "date": "29/06/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "About 1,000 women die each year from postpartum bleedingThe WHO clinical trial looked at about 1,000 women.",
+            "question_answers": [
+                {
+                    "question": "Who conducted a clinical trial that looked at about 1,000 women?",
+                    "answer": "WHO"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many women die per year from postpartum bleeding?",
+                    "score": 0.8193,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 29/06/2018 that About 1,000 women die each year from|ROOT\ton 29/06/2018|prep\t29/06/2018|pobj\tthat|mark\tAbout|advmod\tAbout 1,000 women|nsubj\tthat About 1,000 women die each year from|ccomp\teach|det\teach year|npadvmod\tfrom|prep\tpostpartum|amod\tpostpartum bleedingThe WHO clinical trial looked at about 1,000 women|ROOT\tclinical|amod\tWHO clinical trial|nsubj\tWHO clinical trial looked at about 1,000 women|relcl\tat about 1,000 women|prep\tabout|advmod\tabout 1,000 women|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "WHO recommended a new drug as a first choice to prevent excessive bleeding after childbirth, as a new drug has proven effectiveness in helping save the lives of mothers in low- and middle-income countries.",
+            "question_answers": [
+                {
+                    "question": "In what countries has a new drug been shown to save the lives of mothers?",
+                    "answer": "low- and middle-income"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of WHO recommending the new drug as first choice to prevent excessive bleeding after childbirth?",
+                    "score": 0.706,
+                    "answers": "low- and middle - income countries|pobj"
+                },
+                {
+                    "question": "What is the efficacy of the new drug?",
+                    "score": 0.6833,
+                    "answers": "www.eluniversal.com.mx reported on 29/06/2018 that WHO recommended a new drug as a first choice to prevent excessive bleeding after childbirth , as a new drug has proven effectiveness in helping save the lives of mothers in low- and middle - income countries|ROOT\tthat WHO recommended a new drug as a first choice to prevent excessive bleeding after childbirth , as a new drug has proven effectiveness in helping save the lives of mothers in low- and middle - income countries|ccomp\tas|mark\tas a new drug has proven effectiveness in helping save the lives of mothers in low- and middle - income countries|advcl\teffectiveness in helping save the lives of mothers in low- and middle - income countries|dobj"
+                },
+                {
+                    "question": "What is the best method to save the lives of mothers after childbirth?",
+                    "score": 0.6602,
+                    "answers": "helping save the lives of mothers in low- and middle - income countries|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "a new drug is as safe and effective as oxytocin, which is currently recommended by the organization , but handling is easier because a new drug does not require refrigeration and retains efficacy for at least three years.",
+            "question_answers": [
+                {
+                    "question": "Who recommends oxytocin?",
+                    "answer": "the organization"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How reliable is Oxytocin?",
+                    "score": 0.8888,
+                    "answers": "at least three|nummod"
+                },
+                {
+                    "question": "How safe is oxytocin?",
+                    "score": 0.8873,
+                    "answers": "as safe and effective as oxytocin , which is currently recommended by the organization|acomp"
+                },
+                {
+                    "question": "What new drugs require refrigeration and retains efficacy for at least three years?",
+                    "score": 0.8751,
+                    "answers": "new|amod\tthat a new drug is as safe and effective as oxytocin , which is currently recommended by the organization , but handling is easier because a new drug does not require refrigeration and retains efficacy for at least three years|ccomp\tnew|amod"
+                },
+                {
+                    "question": "How long does it take to get rid of Oxytocin?",
+                    "score": 0.8675,
+                    "answers": "retains efficacy for at least three years|conj\tfor at least three years|prep"
+                },
+                {
+                    "question": "What makes it easier to handle a new drug?",
+                    "score": 0.8656,
+                    "answers": "handling is easier because a new drug does not require refrigeration and retains efficacy for at least three years|conj"
+                }
+            ]
+        },
+        {
+            "claim": "oxytocin, which is currently recommended by the organization is very effective, but must be stored and transported at a temperature of between eight and two degrees Celsius, a condition that is difficult in many countries where being exposed to heat loses effectiveness , depriving women of beneficial effect.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How effective is oxytocin?",
+                    "score": 0.8732,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 29/06/2018|prep\toxytocin , which is currently recommended by the organization|nsubj\twhich is currently recommended by the organization|relcl\tby the organization|agent\tthe organization|pobj\tthat oxytocin , which is currently recommended by the organization is very effective , but must be stored and transported at a temperature of between eight and two degrees Celsius , a condition that is difficult in many countries where being exposed to heat loses effectiveness , depriving women of beneficial effect|ccomp\tvery|advmod\tvery effective|acomp\tbetween eight and two|nummod\ta condition that is difficult in many countries where being exposed to heat loses effectiveness , depriving women of beneficial effect|appos\tthat is difficult in many countries where being exposed to heat loses effectiveness , depriving women of beneficial effect|relcl\teffectiveness|dobj\tof beneficial effect|prep\tbeneficial|amod\tbeneficial effect|pobj"
+                },
+                {
+                    "question": "What conditions must be met for oxytocin to be effective?",
+                    "score": 0.8161,
+                    "answers": "must|aux"
+                },
+                {
+                    "question": "What is the process used to store oxytocin at a temperature of eight to two degrees Celsius?",
+                    "score": 0.7765,
+                    "answers": "difficult|acomp"
+                },
+                {
+                    "question": "What is the best method to store and transport oxytocin?",
+                    "score": 0.7559,
+                    "answers": "of between eight and two degrees Celsius|prep"
+                },
+                {
+                    "question": "What are the benefits of using oxytocin?",
+                    "score": 0.7535,
+                    "answers": "between|quantmod\tmany|amod\twhere|advmod\tbeing|auxpass\tto heat|prep\theat|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "A WHO -led study, in collaboration with Ferring Pharmaceuticals, showed that a new drug is not subject to refrigeration, retains efficacy for at least three years stored at  degrees Celsius and  percent relative humidity.",
+            "question_answers": [
+                {
+                    "question": "Who led a study that showed that a new drug is not subject to refrigeration?",
+                    "answer": "WHO"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the WHO-led study show about the efficacy of the new drug subject to refrigeration?",
+                    "score": 0.8417,
+                    "answers": "refrigeration|pobj"
+                },
+                {
+                    "question": "What did a WHO-led study find about Ferring Pharmaceuticals?",
+                    "score": 0.8189,
+                    "answers": "on 29/06/2018|prep\tthat|mark\t,|punct\t,|punct\tthat A WHO -led study , in collaboration with Ferring Pharmaceuticals , showed that a new drug is not subject to refrigeration , retains efficacy for at least three years stored at|ccomp\tthat|mark\ta|det\t,|punct\tat|advmod\tat|prep\tand|cc"
+                },
+                {
+                    "question": "What is the relative humidity of a drug?",
+                    "score": 0.7693,
+                    "answers": "  percent relative humidity|dep"
+                },
+                {
+                    "question": "What was the results of the WHO-led study?",
+                    "score": 0.7643,
+                    "answers": "-led|punct"
+                },
+                {
+                    "question": "What is to refrigeration?",
+                    "score": 0.7448,
+                    "answers": "to refrigeration|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'showed is a truly encouraging new development that can revolutionize our ability to keep mothers and babies alive ', said Dr. Tedros Adhanom Ghebreyesus, WHO Director General.",
+            "question_answers": [
+                {
+                    "question": "What can this new development revolutionize our ability to do?",
+                    "answer": "keep mothers and babies alive"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has Dr. Tedros Adhanom Ghebreyesus done to help mothers and babies alive?",
+                    "score": 0.7952,
+                    "answers": "showed|nsubj\ttruly encouraging|amod\tnew|amod\tcan|aux\tour|poss"
+                },
+                {
+                    "question": "How many babies were born to mothers and babies in 2018?",
+                    "score": 0.7071,
+                    "answers": "babies|conj"
+                },
+                {
+                    "question": "What is Dr. Tedros Adhanom Ghebreyesus's role in keeping mothers alive?",
+                    "score": 0.6841,
+                    "answers": "to keep mothers and babies alive|acl"
+                }
+            ]
+        },
+        {
+            "claim": "About  1,000 women die each year from postpartum bleeding, which increases the risk that babies will also die within a month, on average.",
+            "question_answers": [
+                {
+                    "question": "How many women die each year from postpartum bleeding?",
+                    "answer": "1,000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many pregnant women die from postpartum bleeding?",
+                    "score": 0.8515,
+                    "answers": "1,000 women|nsubj"
+                },
+                {
+                    "question": "How many babies die from postpartum bleeding per year?",
+                    "score": 0.8361,
+                    "answers": "each year|npadvmod"
+                },
+                {
+                    "question": "What is the mortality rate of postpartum bleeding?",
+                    "score": 0.8126,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 29/06/2018|prep\tAbout  |dep\t1,000|nummod\tthat About   1,000 women die each year from postpartum bleeding , which increases the risk that babies will also die within a month , on average|ccomp\tfrom postpartum bleeding , which increases the risk that babies will also die within a month , on average|prep\twhich increases the risk that babies will also die within a month , on average|relcl\ton average|prep"
+                },
+                {
+                    "question": "What is the average death rate per month from postpartum bleeding?",
+                    "score": 0.7799,
+                    "answers": "average|amod"
+                }
+            ]
+        },
+        {
+            "claim": "bleedingThe WHO clinical trial looked at about  1,000 women who gave birth vaginally in Argentina, Egypt, India, Kenya, Nigeria, Singapore, South Africa, Thailand, Uganda and the United Kingdom, where a single injection of carbettocin or oxytocin was randomly given to each of them immediately after delivery.",
+            "question_answers": [
+                {
+                    "question": "What was randomly given to the women who gave birth vaginally?",
+                    "answer": "single injection of carbettocin or oxytocin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many women gave birth to their babies in Africa?",
+                    "score": 0.7334,
+                    "answers": "bleedingThe|det\tthat bleedingThe WHO clinical trial looked at|ccomp\t1,000|nummod\tIndia , Kenya , Nigeria , Singapore , South Africa , Thailand , Uganda and the United Kingdom|conj\tNigeria , Singapore , South Africa , Thailand , Uganda and the United Kingdom|conj\tSingapore , South Africa , Thailand , Uganda and the United Kingdom|conj\tSouth|compound\twhere|advmod\toxytocin|conj\teach of them|pobj\tof them|prep\tthem|pobj\timmediately|advmod"
+                },
+                {
+                    "question": "How many abortions were performed in Africa in 2018?",
+                    "score": 0.6759,
+                    "answers": "www.eluniversal.com.mx|nsubj\tsingle|amod\timmediately after delivery|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Both medicines were kept at the temperatures required to ensure their efficacy.",
+            "question_answers": [
+                {
+                    "question": "What were the medicines kept at?",
+                    "answer": "the temperatures required to ensure their efficacy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What temperatures were needed to ensure the efficacy of the medicines?",
+                    "score": 0.8949,
+                    "answers": "on 29/06/2018|prep\tat the temperatures required to ensure their efficacy|prep"
+                },
+                {
+                    "question": "How many medicines were kept at the temperatures to ensure their efficacy?",
+                    "score": 0.8779,
+                    "answers": "Both|det\twere|auxpass\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "Metin Gülmezoglu, WHO Department of Reproductive Health and Research, highlighted that the development of a drug to prevent postpartum bleeding that is effective in warm and humid conditions is very good news for millions of women giving birth in places without access to refrigeration.",
+            "question_answers": [
+                {
+                    "question": "In what conditions is the drug effective?",
+                    "answer": "warm and humid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What conditions does Metin Gülmezoglu live in?",
+                    "score": 0.7875,
+                    "answers": "humid|conj"
+                },
+                {
+                    "question": "What is Metin Gülmezoglu's drug for postpartum bleeding?",
+                    "score": 0.7685,
+                    "answers": "a drug to prevent postpartum bleeding that is effective in warm and humid conditions|pobj"
+                },
+                {
+                    "question": "How many women give birth in places without refrigeration?",
+                    "score": 0.6845,
+                    "answers": "very good news for millions of women giving birth in places without access to refrigeration|attr\tfor millions of women giving birth in places without access to refrigeration|prep\tmillions of women giving birth in places without access to refrigeration|pobj\tof women giving birth in places without access to refrigeration|prep\twomen giving birth in places without access to refrigeration|pobj\tgiving birth in places without access to refrigeration|acl\tto refrigeration|prep\trefrigeration|pobj"
+                },
+                {
+                    "question": "Who is Metin Gülmezoglu?",
+                    "score": 0.6701,
+                    "answers": "Metin Gülmezoglu , WHO Department of Reproductive Health and Research ,|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "WHO stated in a statement that once the efficacy of carbettocin has been proven, the next step is regulatory review and approval by countries.",
+            "question_answers": [
+                {
+                    "question": "What is the next step after the efficacy of carbettocin is proven?",
+                    "answer": "regulatory review"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the WHO say about the efficacy of carbettocin?",
+                    "score": 0.858,
+                    "answers": "on 29/06/2018|prep\tin a statement|prep\ta statement|pobj\thas|aux\tonce the efficacy of carbettocin has been proven|advcl"
+                },
+                {
+                    "question": "What is the next step to approval and approval of carbettocin?",
+                    "score": 0.7809,
+                    "answers": "that WHO stated in a statement that once the efficacy of carbettocin has been proven , the next step is regulatory review and approval by countries|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Experts say this paves the way for thermostable carbettocin to be offered to all women who give birth by vaginal route in up to  countries around the world, particularly in those where oxytocin cannot have the cooling conditions it requires.",
+            "question_answers": [
+                {
+                    "question": "What type of birth is thermostable carbettocin to be offered to all women who give birth by?",
+                    "answer": "vaginal route"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries offer thermostable carbettocin?",
+                    "score": 0.8123,
+                    "answers": "where|advmod"
+                },
+                {
+                    "question": "How many countries offer thermostable carbettocin to pregnant women?",
+                    "score": 0.7779,
+                    "answers": "up to|pcomp\tthe world|pobj"
+                },
+                {
+                    "question": "What are the benefits of thermostable carbettocin?",
+                    "score": 0.7193,
+                    "answers": "www.eluniversal.com.mx reported on 29/06/2018 that Experts say this paves the way for thermostable carbettocin to be offered to all women who give birth by vaginal route in up to   countries around the world , particularly in those where oxytocin can not have the cooling conditions it requires|ROOT\tthat Experts say this paves the way for thermostable carbettocin to be offered to all women who give birth by vaginal route in up to|ccomp\tthis paves the way for thermostable carbettocin to be offered to all women who give birth by vaginal route in up to|ccomp\tthe way for thermostable carbettocin to be offered to all women who give birth by vaginal route in up to|dobj\tthermostable|amod\tthermostable carbettocin|nsubjpass\tfor thermostable carbettocin to be offered to all women who give birth by vaginal route in up to|advcl"
+                },
+                {
+                    "question": "How much cooling conditions does oxytocin require?",
+                    "score": 0.6996,
+                    "answers": "on 29/06/2018|prep\tExperts|nsubj\tto|aux\tall|det\twho|nsubj"
+                },
+                {
+                    "question": "How many women give birth by vaginal routes?",
+                    "score": 0.6941,
+                    "answers": "to all women who give birth by vaginal route|dative\tall women who give birth by vaginal route|pobj\twho give birth by vaginal route|relcl\tbirth|dobj\tby vaginal route|prep\tvaginal|amod\tvaginal route|pobj"
+                }
+            ]
+        }
+    ]
+}

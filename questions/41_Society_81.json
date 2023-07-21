@@ -1,0 +1,238 @@
+{
+    "id": "41_Society_81",
+    "claim": "Probably opting for a Bikini with Tristes EmotionalsLast week, the First Lady of the United States raised a big controversy by wearing a Zara jacket with the phrase'I really don't care, do you?'on her visit to the Mexican border. So today, the White House communications cabinet has announced that Melania Trump will wear an apology jacket at her next appearance. 'Zara's jackets will be the means of communication for the future ', says Brian Estrada, expert in new technologies. 'Women who engage in politics or the business world have to convey their ideas through clothing, which is what the media is looking at, and in this the White House is pioneering ', he argues. The Trump Administration shuffles to opt for a bikini with sad emoticons for Melania Trump to convey her regret for the clumsiness she committed. 'On his beach towel will be stamped the phrase 'I'm so sorry you guys', combining the apology with a summer look ', advanced his advisors. Melania Trump has been wearing phrases in her clothes for years, but it wasn't until a few days ago that she caught the world's attention. His T-shirts with phrases like'Help me please'or'SOS'had been going completely unnoticed for some time. Only his hoodie of'Call  my spindle is crazy'caught attention for how badly it combined with some fluorescent Converse slippers. I'm sorry.",
+    "source": "www.elmundotoday.com",
+    "date": "27/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Probably opting for a Bikini with Tristes EmotionalsLast week, the First Lady of the United States raised a big controversy by wearing a Zara jacket with the phrase'I really don't care, do you?'on visit to the Mexican border.",
+            "question_answers": [
+                {
+                    "question": "What jacket did the First Lady of the United States wear on a visit to the Mexican border?",
+                    "answer": "Zara"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the First Lady of the United States wear a Zara jacket?",
+                    "score": 0.7278,
+                    "answers": "to the Mexican border|prep\tthe Mexican border|pobj"
+                },
+                {
+                    "question": "What is Tristes Emotionals?",
+                    "score": 0.52,
+                    "answers": "that Probably opting for a Bikini with Tristes EmotionalsLast|ccomp\twith Tristes EmotionalsLast|prep\tTristes|compound\tTristes EmotionalsLast|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "So today, the White House communications cabinet has announced that the First Lady of the United States will wear an apology jacket at next appearance.",
+            "question_answers": [
+                {
+                    "question": "What will the First Lady wear at her next appearance?",
+                    "answer": "an apology jacket"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the First Lady of the United States wear an apology jacket?",
+                    "score": 0.8326,
+                    "answers": "www.elmundotoday.com reported on 27/06/2018 that So today , the White House communications cabinet has announced that the First Lady of the United States will wear an apology jacket at next appearance|ROOT\tthat the First Lady of the United States will wear an apology jacket at next appearance|ccomp"
+                },
+                {
+                    "question": "Who is the first lady of the United States?",
+                    "score": 0.6263,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Zara jackets will be the means of communication for the future ', says Brian Estrada, expert in new technologies .",
+            "question_answers": [
+                {
+                    "question": "What does Brian Estrada believeara jackets will be?",
+                    "answer": "the means of communication for the future"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Brian Estrada say about Zara jackets?",
+                    "score": 0.8335,
+                    "answers": "www.elmundotoday.com reported on 27/06/2018|ccomp\ton 27/06/2018|prep\tthat|mark\t'|punct\twill|aux\tthe|det\tthe|det\tthe future|pobj\t'|punct\t,|punct\t,|punct\tnew|amod"
+                },
+                {
+                    "question": "What will Zara jackets do for communication?",
+                    "score": 0.8129,
+                    "answers": "the means of communication for the future|attr"
+                },
+                {
+                    "question": "What technology does Brian Estrada believe will be the means of communication for the future?",
+                    "score": 0.802,
+                    "answers": "www.elmundotoday.com|nsubj"
+                },
+                {
+                    "question": "What technology is Brian Estrada an expert in?",
+                    "score": 0.79,
+                    "answers": "expert in new technologies|appos"
+                },
+                {
+                    "question": "What are Zara jackets?",
+                    "score": 0.7896,
+                    "answers": "Zara jackets|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Women who engage in politics or the business world have to convey ideas through clothing, which is what the media is looking at, and in this White House is pioneering ', Brian Estrada, expert in new technologies argues.",
+            "question_answers": [
+                {
+                    "question": "What does Brian Estrada think the White House is doing?",
+                    "answer": "pioneering"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of clothing does Brian Estrada wear?",
+                    "score": 0.8162,
+                    "answers": "clothing ,|pobj"
+                },
+                {
+                    "question": "What did Brian Estrada say about women who engage in politics or business world?",
+                    "score": 0.7895,
+                    "answers": "that ' Women who engage in politics or the business world have to convey ideas through clothing , which is the media is looking what at , and in this White House is pioneering|ccomp"
+                },
+                {
+                    "question": "What new technologies has Brian Estrada been involved in?",
+                    "score": 0.7726,
+                    "answers": "in new technologies|prep"
+                },
+                {
+                    "question": "What is the media looking for in clothing?",
+                    "score": 0.7184,
+                    "answers": "which is the media is looking what at|advcl"
+                },
+                {
+                    "question": "What is Brian Estrada's position on politics and business?",
+                    "score": 0.6614,
+                    "answers": "who engage in politics or the business world|relcl\tin politics or the business world|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The Trump Administration shuffles to opt for a bikini with sad emoticons for the First Lady of the United States to convey regret for the clumsiness the First Lady of the United States committed.",
+            "question_answers": [
+                {
+                    "question": "Why did the Trump administration opt for a bikini with sad emoticons for the First Lady of the United States?",
+                    "answer": "to convey regret for the clumsiness"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Trump administration do with the bikini?",
+                    "score": 0.821,
+                    "answers": "to opt for a bikini with sad emoticons for the First Lady of the United States to convey regret for the clumsiness the First Lady of the United States committed|xcomp\ta bikini with sad emoticons for the First Lady of the United States to convey regret for the clumsiness the First Lady of the United States committed|pobj"
+                },
+                {
+                    "question": "What is the relationship between Trump and First Lady of the United States?",
+                    "score": 0.6674,
+                    "answers": "www.elmundotoday.com|nsubj\tTrump|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'On beach towel will be stamped the phrase 'his 'm so sorry you guys', combining the apology with a summer look ', advanced advisors.",
+            "question_answers": [
+                {
+                    "question": "What did the apology combine with?",
+                    "answer": "a summer look"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What will be stamped on beach towels?",
+                    "score": 0.676,
+                    "answers": "that ' On beach towel will be stamped the phrase ' his ' m so sorry you guys ' , combining the apology with a summer look ' , advanced advisors|ccomp"
+                },
+                {
+                    "question": "What did the website \"On beach towel\" say about the apology?",
+                    "score": 0.6717,
+                    "answers": "the apology|dobj"
+                },
+                {
+                    "question": "What is the summer look of beach towel?",
+                    "score": 0.6666,
+                    "answers": "with a summer look|prep"
+                },
+                {
+                    "question": "What is the relationship between beach towel and beach towel?",
+                    "score": 0.6481,
+                    "answers": "beach|compound"
+                },
+                {
+                    "question": "What is the meaning of the phrase \"on beach towel\"?",
+                    "score": 0.6321,
+                    "answers": "www.elmundotoday.com reported on 27/06/2018 that ' On beach towel will be stamped the phrase ' his ' m so sorry you guys ' , combining the apology with a summer look ' , advanced advisors|ROOT\tthe phrase ' his ' m so sorry you guys ' ,|dobj\t' m so sorry you guys '|punct\tso sorry|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "the First Lady of the United States has been wearing phrases in clothes for years, but it wasn't until a few days ago that the First Lady of the United States caught the world's attention.",
+            "question_answers": [
+                {
+                    "question": "When did the First Lady of the United States catch the world's attention?",
+                    "answer": "a few days ago"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What phrases has the First Lady of the United States worn?",
+                    "score": 0.8643,
+                    "answers": "phrases|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "T-shirts with phrases like'Help me please'or'SOS'had been going completely unnoticed for some time.",
+            "question_answers": [
+                {
+                    "question": "How long did it take for T-shirts with phrases like'Help me please' or'SOS' to go unnoticed?",
+                    "answer": "T-shirts with phrases like'Help me please'or'SOS'had been going completely unnoticed for some time"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What phrases have been going completely unnoticed for some time?",
+                    "score": 0.84,
+                    "answers": "T - shirts with phrases like'Help me please'or'SOS'had|nsubj\twith phrases|prep"
+                },
+                {
+                    "question": "How many T-shirts have phrases like 'help me please'or'SOS' been going completely unnoticed?",
+                    "score": 0.7851,
+                    "answers": "please'or'SOS'had|punct"
+                },
+                {
+                    "question": "What was the significance of T-shirts with phrases like help me please or'SOS?",
+                    "score": 0.772,
+                    "answers": "that T - shirts with phrases like'Help me please'or'SOS'had been going completely unnoticed for some time|ccomp"
+                },
+                {
+                    "question": "What is the meaning of the phrase \"help me please\"or'SOS\" on T-shirts?",
+                    "score": 0.758,
+                    "answers": "like'Help me please'or'SOS'had|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Only his hoodie of'Call  my spindle is crazy'caught attention for how badly his hoodie of'Call  my spindle is crazy'caught combined with some fluorescent Converse slippers.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the hoodie of Call?",
+                    "score": 0.6659,
+                    "answers": "Only his hoodie of'Call  |nsubj"
+                }
+            ]
+        }
+    ]
+}

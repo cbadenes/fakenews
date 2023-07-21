@@ -1,0 +1,164 @@
+{
+    "id": "Economy_235",
+    "claim": "AMLO would accelerate consumption and economic growth: BMI ResearchThe firm believes that in , with a possible presidency of Lopez Obrador, there would be an upturn in economic growth in the country. The change of air that the country will have with the victory of Andres Manuel Lopez Obrador (AMLO) as president will reinvigorate the internal consumption and accelerate the economic growth of Mexico, once it will end the cycle of austerity in the public spending of the current administration, estimated BMI Research. The firm, which is a member of the Fitch Ratings rating agency, raised its growth forecast for Mexico this year, from  to  percent. The BMI Research scenario for the  foresees that direct public investment and social spending on the poor, which have very low savings rates, will likely have large fiscal multipliers, which will increase consumption. 'In  we expect a greater surge in growth, driven by return on investment, growth in the extractive sector and fiscal expansion under the auspices of the AMLO presidency ', he said. I'm sorry.",
+    "source": "www.elfinanciero.com.mx",
+    "date": "10/04/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "AMLO would accelerate consumption and economic growth: BMI ResearchThe firm believes that in , with a possible presidency of Lopez Obrador, there would be an upturn in economic growth in the country.",
+            "question_answers": [
+                {
+                    "question": "Where did elf report that AMLO would accelerate consumption and economic growth?",
+                    "answer": "in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What would happen if Lopez Obrador was president?",
+                    "score": 0.8601,
+                    "answers": "on 10/04/2018|prep\twould|aux\tconsumption and economic growth|dobj\teconomic|amod\teconomic growth|conj\tBMI ResearchThe firm believes that in , with a possible presidency of Lopez Obrador , there would be an upturn in economic growth in the country|ROOT\tpossible|amod\tthere|expl\twould|aux\tthat in , with a possible presidency of Lopez Obrador , there would be an upturn in economic growth in the country|ccomp\tan upturn in economic growth in the country|attr\tin economic growth in the country|prep\teconomic|amod\tin the country|prep\tthe country|pobj"
+                },
+                {
+                    "question": "What would AMLO do to improve consumption and economic growth?",
+                    "score": 0.8404,
+                    "answers": "that AMLO would accelerate consumption and economic growth|ccomp"
+                },
+                {
+                    "question": "What is AMLO's plan for economic growth?",
+                    "score": 0.7755,
+                    "answers": "economic growth in the country|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of AMLO's economic growth?",
+                    "score": 0.7508,
+                    "answers": "www.elfinanciero.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the relationship between AMLO and the economy?",
+                    "score": 0.7099,
+                    "answers": "that|mark\tand|cc\t:|punct\tBMI|compound\tBMI ResearchThe firm|nsubj\tthat|mark\t,|punct\ta|det\t,|punct\tan|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "The change of air that the country will have with the victory of Andres Manuel Lopez Obrador (AMLO) as president will reinvigorate the internal consumption and accelerate the economic growth of Mexico, once it will end the cycle of austerity in the public spending of the current administration, estimated BMI Research.",
+            "question_answers": [
+                {
+                    "question": "Who is the president of Mexico City?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Andres Manuel Lopez Obrador do to improve the economy of Mexico?",
+                    "score": 0.7904,
+                    "answers": "www.elfinanciero.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of Andres Manuel Lopez Obrador's economic growth?",
+                    "score": 0.6383,
+                    "answers": "BMI|compound"
+                },
+                {
+                    "question": "What is the current spending in the current administration?",
+                    "score": 0.5827,
+                    "answers": "the cycle of austerity in the public spending of the current administration|dobj"
+                },
+                {
+                    "question": "What is the budget of the current administration?",
+                    "score": 0.5609,
+                    "answers": "in the public spending of the current administration|prep\tthe public spending of the current administration|pobj"
+                },
+                {
+                    "question": "What is AMLO's political affiliation?",
+                    "score": 0.5246,
+                    "answers": "the victory of Andres Manuel Lopez Obrador ( AMLO ) as president|pobj\tof Andres Manuel Lopez Obrador ( AMLO )|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The firm, which is a member of the Fitch Ratings rating agency, raised its growth forecast for Mexico this year, from  to  percent.",
+            "question_answers": [
+                {
+                    "question": "What rating agency is elfinanciero a member of?",
+                    "answer": "Fitch Ratings"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the Fitch rating agency's growth forecast for Mexico in 2018?",
+                    "score": 0.8923,
+                    "answers": "that The firm , which is a member of the Fitch Ratings rating agency , raised its growth forecast for Mexico this year , from|ccomp"
+                },
+                {
+                    "question": "What is the Fitch ratings rating agency for Mexico this year?",
+                    "score": 0.8376,
+                    "answers": "growth|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The BMI Research scenario for the  foresees that direct public investment and social spending on the poor, which have very low savings rates, will likely have large fiscal multipliers, which will increase consumption.",
+            "question_answers": [
+                {
+                    "question": "What organization predicted that direct public investment and social spending on the poor would have large fiscal multipliers?",
+                    "answer": "BMI Research"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will direct public investment and social spending on the poor affect consumption?",
+                    "score": 0.8568,
+                    "answers": "www.elfinanciero.com.mx reported on 10/04/2018 that The BMI Research scenario for the   foresees that direct public investment and social spending on the poor , which have very low savings rates , will likely have large fiscal multipliers , which will increase consumption|ROOT\tthat direct public investment and social spending on the poor , which have very low savings rates , will likely have large fiscal multipliers , which will increase consumption|ccomp\tlarge fiscal multipliers , which will increase consumption|dobj"
+                },
+                {
+                    "question": "What are the savings rates of the poor according to the BMI Research scenario?",
+                    "score": 0.7259,
+                    "answers": "very low savings rates|dobj"
+                },
+                {
+                    "question": "What is the BMI Research scenario for the poor?",
+                    "score": 0.7082,
+                    "answers": "The BMI Research scenario for the|nsubj\tthat The BMI Research scenario for the  |dep"
+                }
+            ]
+        },
+        {
+            "claim": "'In  we expect a greater surge in growth, driven by return on investment, growth in the extractive sector and fiscal expansion under the auspices of the AMLO presidency ', he said.",
+            "question_answers": [
+                {
+                    "question": "Whose auspices did elfinanciero expect a greater surge in growth?",
+                    "answer": "AMLO presidency"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What sector did the AMLO presidency expand in?",
+                    "score": 0.8483,
+                    "answers": "the extractive sector|pobj"
+                },
+                {
+                    "question": "What was the growth rate of the extractive sector under the AMLO presidency?",
+                    "score": 0.7892,
+                    "answers": "we expect a greater surge in growth , driven by return on investment , growth in the extractive sector and fiscal expansion under the auspices of the AMLO presidency|ccomp"
+                },
+                {
+                    "question": "What is the current rate of growth in South Africa?",
+                    "score": 0.7344,
+                    "answers": "growth|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the return on investment in the extractive sector during the AMLO presidency?",
+                    "score": 0.6966,
+                    "answers": "investment|pobj"
+                },
+                {
+                    "question": "What is the AMLO presidency?",
+                    "score": 0.6579,
+                    "answers": "by return on investment , growth in the extractive sector and fiscal expansion under the auspices of the AMLO presidency|agent\tfiscal expansion under the auspices of the AMLO presidency|conj\tunder the auspices of the AMLO presidency|prep\tthe auspices of the AMLO presidency|pobj\tof the AMLO presidency|prep\tthe AMLO presidency|pobj\twww.elfinanciero.com.mx reported on 10/04/2018 that ' In   we expect a greater surge in growth , driven by return on investment , growth in the extractive sector and fiscal expansion under the auspices of the AMLO presidency ' , he said|ROOT"
+                }
+            ]
+        }
+    ]
+}

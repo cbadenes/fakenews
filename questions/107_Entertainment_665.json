@@ -1,0 +1,292 @@
+{
+    "id": "107_Entertainment_665",
+    "claim": "Television stations are not having their best financial time, as the vast range of content on the internet has made people prefer to watch streaming programming, as is the case with Netflix, Claro Video or El TV. And although Televisa is a company with international support, the truth is that it is also taking its providences before the eventuality of a real crisis. 'I do not know what I will write as an introduction to this interview, but I am sure that most are lies ', said in an exclusive interview Emilio Azcárraga Jean, president of the Televisa Group. 'What I can tell you is that we are undertaking new strategies that will allow us to maintain our leadership status in the Mexican media'. Azcárraga Jean revealed to us that one of the ideas is that the parties of America be transmitted in the PPV modality, since considering that the maximum television audience occurs in those parties, no matter the rival, would be an outlet to the financial problems. 'We are looking for how to regulate this proposal, because the owners of other teams do not want, because they say that with the income they have, America will be able to buy players from all over the world regardless of the price. But it's not our goal. If in and of itself, we have to let ourselves be won from time to time ', the entrepreneur said'. Among the teams that do not see this proposal with bad eyes, are the Cruz Azul, Guadalajara and Morelia, who would accept as long as and when they also correspond part of the income from the transmission in PPV. The HBO chain, which would co-produce the PPVs of football, is already registering names for some of the matches, including Guateque in the Azteca, America-Pumas: Reloaded, America vs. Chivas: This Time is Personal and America-Tigres: Cheese Cheese Revolutions. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "20/02/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Television stations are not having best financial time, as the vast range of content on the internet has made people prefer to watch streaming programming, as is the case with Netflix, Claro Video or El TV.",
+            "question_answers": [
+                {
+                    "question": "Why do people prefer to watch streaming programming?",
+                    "answer": "the vast range of content on the internet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money does it cost to watch streaming programs?",
+                    "score": 0.7821,
+                    "answers": "the vast range of content on the internet|nsubj"
+                },
+                {
+                    "question": "What is the best way to watch streaming programs on the internet?",
+                    "score": 0.7046,
+                    "answers": "to watch streaming programming|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of Netflix, Claro Video, or El TV's profits?",
+                    "score": 0.6808,
+                    "answers": "as is the case with Netflix , Claro Video or El TV|advcl"
+                },
+                {
+                    "question": "What is the average financial time of a television station in 2016?",
+                    "score": 0.6692,
+                    "answers": "www.eldizque.com reported on 20/02/2016 that Television stations are not having best financial time , as the vast range of content on the internet has made people prefer to watch streaming programming , as is the case with Netflix , Claro Video or El TV|ROOT\tTelevision|compound\tare|aux\tbest|amod\tas|mark\tvast|amod\tthe internet|pobj\thas|aux\tas|mark"
+                },
+                {
+                    "question": "What is the relationship between Netflix and Claro Video?",
+                    "score": 0.6198,
+                    "answers": "not|neg\twith Netflix , Claro Video or El TV|prep\tEl|compound"
+                }
+            ]
+        },
+        {
+            "claim": "And although Televisa is a company with international support, the truth is that Televisa is also taking providences before the eventuality of a real crisis.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 20/02/2016 that Televisa is a company with international support?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Does Televisa have international support?",
+                    "score": 0.8912,
+                    "answers": "with international support|prep\tinternational|amod\tinternational support|pobj"
+                },
+                {
+                    "question": "What is Televisa doing with international support?",
+                    "score": 0.7979,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 20/02/2016 that And although Televisa is a company with international support , the truth is that Televisa is also taking providences before the eventuality of a real crisis|ROOT\tthat Televisa is also taking providences before the eventuality of a real crisis|ccomp"
+                },
+                {
+                    "question": "What is Televisa's international support?",
+                    "score": 0.7665,
+                    "answers": "although Televisa is a company with international support|advcl"
+                },
+                {
+                    "question": "What is Televisa?",
+                    "score": 0.7192,
+                    "answers": "a company with international support|attr"
+                },
+                {
+                    "question": "What is the relationship between Televisa and the crisis?",
+                    "score": 0.6967,
+                    "answers": "on 20/02/2016|prep\tthat|mark\tAnd|cc\talthough|mark\ta|det\t,|punct\tthe|det\tthe truth|nsubj\tthat And although Televisa is a company with international support , the truth is that Televisa is also taking providences before the eventuality of a real crisis|ccomp\tthat|mark\tis|aux\talso|advmod\tprovidences before the eventuality of a real crisis|dobj\tbefore the eventuality of a real crisis|prep\tthe|det\tthe eventuality of a real crisis|pobj\tof a real crisis|prep\ta|det\treal|amod\ta real crisis|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'I do not know what I will write as an introduction to this interview , but I am sure that most are lies ', said in this interview I .",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com say most of the answers to the interview were?",
+                    "answer": "lies"
+                },
+                {
+                    "question": "What did www.eldizque.com report on 20/02/2016?",
+                    "answer": "do not know what I will write as an introduction to this interview"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the interview between Trump and Putin?",
+                    "score": 0.6882,
+                    "answers": "on 20/02/2016|prep\tnot|neg\twill|aux"
+                },
+                {
+                    "question": "What does the website \"eldizque.com\" do?",
+                    "score": 0.6602,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'What I can tell you is that Televisa are undertaking new strategies that will allow Televisa to maintain leadership status in the Mexican media'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 20/02/2016 that Televisa are undertaking new strategies that allow them to maintain leadership status in the Mexican media?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Televisa's leadership status in the Mexican media?",
+                    "score": 0.784,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 20/02/2016 that ' What I can tell you is that Televisa are undertaking new strategies that will allow Televisa to maintain leadership status in the Mexican media '|ROOT\tI|nsubj\tWhat I can tell you|csubj\tthat Televisa are undertaking new strategies that will allow Televisa to maintain leadership status in the Mexican media|ccomp\tnew strategies that will allow Televisa to maintain leadership status in the Mexican media|dobj\tthat will allow Televisa to maintain leadership status in the Mexican media|relcl\tto|aux\tTelevisa to maintain leadership status in the Mexican media|ccomp\tin the Mexican media|prep\tthe Mexican media|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "I revealed to us that one of the ideas is that the parties of America be transmitted in the PPV modality, since considering that the maximum television audience occurs in the parties of America , no matter the rival, would be an outlet to the financial problems.",
+            "question_answers": [
+                {
+                    "question": "What is the maximum television audience in the parties of America?",
+                    "answer": "the maximum television audience occurs in the parties of America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of the PPV modality?",
+                    "score": 0.6042,
+                    "answers": "www.eldizque.com reported on 20/02/2016 that I revealed to us that one of the ideas is that the parties of America be transmitted in the PPV modality , since considering that the maximum television audience occurs in the parties of America , no matter the rival , would be an outlet to the financial problems|ROOT\ton 20/02/2016|prep\tthat|mark\tI|nsubj\tus|pobj\tthat|mark\tthe|det\tthe ideas|pobj\tthat one of the ideas is that the parties of America be transmitted in the PPV modality , since considering that the maximum television audience occurs in the parties of America , no matter the rival , would be an outlet to the financial problems|ccomp\tthat|mark\tthe|det\tthe parties of America|nsubjpass\tof America|prep\tbe|auxpass\tthat the parties of America be transmitted in the PPV modality , since considering that the maximum television audience occurs in the parties of America , no matter the rival , would be an outlet to the financial problems|ccomp\tin the PPV modality|prep\tthe|det\tPPV|compound\tthe PPV modality|pobj\t,|punct\tsince|mark\tconsidering that the maximum television audience occurs in the parties of America , no matter the rival ,|csubj\tthat|mark\tthe|det\tmaximum|amod\ttelevision|compound\tthe maximum television audience|nsubj\tthat the maximum television audience occurs in the parties of America , no matter the rival|ccomp\tin the parties of America , no matter the rival|prep\tthe|det\tthe parties of America , no matter the rival|pobj\tof America|prep\t,|punct\tno|neg\tno matter|advmod\tthe|det\tno matter the rival|appos\t,|punct\twould|aux\tan|det\tan outlet to the financial problems|attr\tto the financial problems|prep\tthe|det\tfinancial|amod\tthe financial problems|pobj"
+                },
+                {
+                    "question": "What is the relationship between the parties of America and the PPV modality?",
+                    "score": 0.5983,
+                    "answers": "to us|prep\tone of the ideas|nsubj\tof the ideas|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'Televisa are looking for how to regulate this proposal, because the owners of other teams do not want, because the owners of other teams say that with the income the owners of other teams have, America will be able to buy players from all over the world regardless of the price.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'Televisa are looking for how to regulate this proposal'?",
+                    "answer": "20/02/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why are the owners of other teams not wanting to buy players?",
+                    "score": 0.7552,
+                    "answers": "because the owners of other teams do not want|advcl"
+                },
+                {
+                    "question": "What is the source of evidence of Televisa looking for how to regulate their proposal?",
+                    "score": 0.6369,
+                    "answers": "on 20/02/2016|prep\tnot|neg"
+                },
+                {
+                    "question": "What is the income of other teams?",
+                    "score": 0.6211,
+                    "answers": "with the income the owners of other teams have|prep"
+                }
+            ]
+        },
+        {
+            "claim": "But it's not goal.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 20/02/2016 that But it's not goal?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "What was the goal of the website?",
+                    "answer": "it's not"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the definition of a goal?",
+                    "score": 0.7565,
+                    "answers": "goal|attr"
+                },
+                {
+                    "question": "What is the goal ofldizque.com?",
+                    "score": 0.6649,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 20/02/2016 that But it 's not goal|ROOT\ton 20/02/2016|prep\tthat|mark\tBut|cc\tit|nsubj\tthat But it 's not goal|ccomp\tnot|neg"
+                }
+            ]
+        },
+        {
+            "claim": "If in and of itself, Televisa have to let Televisa be won from time to time ', I said'.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 20/02/2016?",
+                    "answer": "If in and of itself, Televisa have to let Televisa be won from time to time"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Televisa doing to win?",
+                    "score": 0.8342,
+                    "answers": "to let Televisa be won from time to time|xcomp"
+                },
+                {
+                    "question": "How many times has Televisa won from time to time?",
+                    "score": 0.8296,
+                    "answers": "Televisa be won from time to time|ccomp\tfrom time to time|prep\ttime|pobj\tto time|prep\ttime|pobj"
+                },
+                {
+                    "question": "What is the relationship between Televisa and the United States?",
+                    "score": 0.7058,
+                    "answers": "of itself|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Among the teams that do not see this proposal with bad eyes, are the Cruz Azul, Guadalajara and Morelia, who would accept as long as and when they also correspond part of the income from the transmission in PPV.",
+            "question_answers": [
+                {
+                    "question": "How long would the teams accept the proposal?",
+                    "answer": "as long as and when they also correspond part of the income from the transmission in PPV"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What teams do not see the proposal with bad eyes?",
+                    "score": 0.6603,
+                    "answers": "Among the teams that do not see this proposal with bad eyes|prep\tthe teams that do not see this proposal with bad eyes|pobj\tthat do not see this proposal with bad eyes|relcl\twith bad eyes|prep\tbad eyes|pobj"
+                },
+                {
+                    "question": "What teams would accept money from the transmission in PPV?",
+                    "score": 0.6507,
+                    "answers": "Guadalajara and Morelia|conj"
+                },
+                {
+                    "question": "What is the source of evidence of Cruz Azul, Guadalajara and Morelia accepting money from the PPV?",
+                    "score": 0.6292,
+                    "answers": "PPV|pobj"
+                },
+                {
+                    "question": "What is the proposal of Cruz Azul, Guadalajara, and Morelia?",
+                    "score": 0.6042,
+                    "answers": "www.eldizque.com reported on 20/02/2016 that Among the teams that do not see this proposal with bad eyes , are the Cruz Azul , Guadalajara and Morelia , who would accept as long as and when they also correspond part of the income from the transmission in PPV|ROOT\ton 20/02/2016|prep\tthat|mark\tthe|det\tthat|nsubj\tthis|det\tthe|det\twho|nsubj\twould|aux\tas|advmod\talso|advmod\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is Cruz Azul?",
+                    "score": 0.5694,
+                    "answers": "Cruz|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The HBO chain, which would co-produce the PPVs of football, is already registering names for some of the matches, including Guateque in the Azteca, America-Pumas: Reloaded, America vs. Chivas: This Time is Personal and America-Tigres: Cheese Cheese Revolutions.",
+            "question_answers": [
+                {
+                    "question": "What is the name of America-Tigres?",
+                    "answer": "Cheese Cheese Revolutions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the match that the HBO chain would co-produce?",
+                    "score": 0.6982,
+                    "answers": "Cheese Cheese|compound"
+                },
+                {
+                    "question": "What is the relationship between the HBO chain and the PPVs of football?",
+                    "score": 0.6378,
+                    "answers": "the PPVs of football|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between Cheese Cheese and America vs Chivas?",
+                    "score": 0.6288,
+                    "answers": "America - Pumas : Reloaded , America vs. Chivas : This Time is Personal and America - Tigres : Cheese Cheese Revolutions|conj"
+                },
+                {
+                    "question": "What is Guateque in the Azteca, America-Pumas: Reloaded?",
+                    "score": 0.5991,
+                    "answers": "football|pobj\tfor some of the matches , including Guateque in the Azteca , America - Pumas : Reloaded , America vs. Chivas : This Time is Personal and America - Tigres : Cheese Cheese Revolutions|prep"
+                },
+                {
+                    "question": "What is Cheese Cheese Revolutions?",
+                    "score": 0.5989,
+                    "answers": "America - Tigres : Cheese Cheese Revolutions|conj"
+                }
+            ]
+        }
+    ]
+}

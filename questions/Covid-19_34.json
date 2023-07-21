@@ -1,0 +1,359 @@
+{
+    "id": "Covid-19_34",
+    "claim": "It was 16 o'clock. 49 hours this Thursday, February 25, when nurse Magdalena Guevara González, 46, became the first Guatemalan to receive the coronavirus vaccine, thanks to a donation made by Israel. Guevara says there's no reason to be afraid of the vaccine, because it's less painful than influenza. “The pain of the influenza vaccine is greater than this,” she reiterated, after having completed the observation and recovery period at the Temporary Hospital of the Park of Industry, where she serves as head of nursing at the Intensive Care Unit. “I needed a 35 minute observation period and at no time did I have any symptoms, all I felt was mild pain – in the area of the vaccine –. I feel pretty good, I haven't felt any adverse reactions, don't be afraid, let's get vaccinated and set the example,” he added. Guevara said he will now feel more confident about being in his area of work, but that, even though he has already been vaccinated, he will continue to use protective equipment. After the nurse received the dose, messages circulated on social networks that she had had adverse reactions and that was why she did not give statements, but she clarified that the time she missed was because she is in the observation period. Guevara was part of the team that received the wineries of the Park of Industry and that “with initiative and love”, transformed that place into a hospital to care for the patients of covid-19 Guevara's nursing vocation was born 18 years ago when she was in need with one of her children, and received attention in the Hospital of Amatitlán, and the nursing staff was very dedicated and there came the idea of service to others. He began studying in 2010 and from there has worked in several national hospitals. DonationThe 5,000 doses arrived at noon this Thursday on a plane from the Guatemalan Air Force, which arrived from Honduras, which had received the donation from Israel. I'm sorry.",
+    "source": "www.prensalibre.com",
+    "date": "25/02/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "49 hours this Thursday, February 25, when nurse Magdalena Guevara González, 46 , became the first Guatemalan to receive the coronavirus vaccine , thanks to a donation made by Israel.",
+            "question_answers": [
+                {
+                    "question": "What vaccine did Magdalena Guevara González receive?",
+                    "answer": "coronavirus vaccine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Magdalena Guevara González receive the coronavirus vaccine?",
+                    "score": 0.8626,
+                    "answers": "February 25|appos"
+                },
+                {
+                    "question": "Who donated the coronavirus vaccine to Guatemala?",
+                    "score": 0.8386,
+                    "answers": "when nurse Magdalena Guevara González , 46 , became the first Guatemalan to receive the coronavirus vaccine , thanks to a donation made by Israel|relcl"
+                },
+                {
+                    "question": "Who donated money to aid Magdalena Guevara González in her coronavirus vaccine?",
+                    "score": 0.8274,
+                    "answers": "that 49 hours this Thursday , February 25 , when nurse Magdalena Guevara González , 46 , became the first Guatemalan to receive the coronavirus vaccine , thanks to a donation made by Israel|npadvmod"
+                },
+                {
+                    "question": "How many Guatemalan women received the coronavirus vaccine?",
+                    "score": 0.8052,
+                    "answers": ",|punct\t,|punct\twhen|advmod\t,|punct\t,|punct\t,|punct"
+                },
+                {
+                    "question": "What is the coronavirus vaccine?",
+                    "score": 0.7309,
+                    "answers": "www.prensalibre.com reported on 25/02/2021 that 49 hours this Thursday , February 25 , when nurse Magdalena Guevara González , 46 , became the first Guatemalan to receive the coronavirus vaccine , thanks to a donation made by Israel|ROOT\tthe first Guatemalan to receive the coronavirus vaccine|attr\tto receive the coronavirus vaccine|relcl\tthe coronavirus vaccine|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "nurse Magdalena Guevara González, 46 says there's no reason to be afraid of the coronavirus vaccine , because the coronavirus vaccine 's less painful than influenza.",
+            "question_answers": [
+                {
+                    "question": "What does Magdalena Guevara González say there's no reason to be afraid of?",
+                    "answer": "the coronavirus vaccine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is the coronavirus vaccine less painful than influenza?",
+                    "score": 0.8656,
+                    "answers": "there 's no reason to be afraid of the coronavirus vaccine , because the coronavirus vaccine 's less painful than influenza|ccomp\tno reason to be afraid of the coronavirus vaccine , because the coronavirus vaccine 's less painful than influenza|attr\tbecause|mark\tbecause the coronavirus vaccine 's less painful than influenza|advcl"
+                },
+                {
+                    "question": "How painful is coronavirus vaccine compared to influenza?",
+                    "score": 0.8588,
+                    "answers": "less painful than influenza|acomp"
+                },
+                {
+                    "question": "How painful is the coronavirus vaccine?",
+                    "score": 0.8425,
+                    "answers": "on 25/02/2021|prep\tthat nurse Magdalena Guevara González , 46 says there 's no reason to be afraid of the coronavirus vaccine , because the coronavirus vaccine 's less painful than influenza|ccomp\tto be afraid of the coronavirus vaccine , because the coronavirus vaccine 's less painful than influenza|relcl\tof the coronavirus vaccine|prep\tthan influenza|prep\tinfluenza|pobj"
+                },
+                {
+                    "question": "What did Magdalena Guevara González say about the coronavirus vaccine?",
+                    "score": 0.837,
+                    "answers": "www.prensalibre.com reported on 25/02/2021 that nurse Magdalena Guevara González , 46 says there 's no reason to be afraid of the coronavirus vaccine , because the coronavirus vaccine 's less painful than influenza|ROOT"
+                },
+                {
+                    "question": "What are the symptoms of coronavirus?",
+                    "score": 0.7764,
+                    "answers": "coronavirus|compound\tcoronavirus|compound"
+                }
+            ]
+        },
+        {
+            "claim": "“The pain of the influenza vaccine is greater than this,” nurse Magdalena Guevara González, 46 reiterated, after having completed the observation and recovery period at the Temporary Hospital of the Park of Industry, where she serves as head of nursing at the Intensive Care Unit .",
+            "question_answers": [
+                {
+                    "question": "What position does Magdalena Guevara González hold at the Temporary Hospital of the Park of Industry?",
+                    "answer": "head of nursing at the Intensive Care Unit"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where does Magdalena Guevara González work?",
+                    "score": 0.7703,
+                    "answers": "the Temporary Hospital of the Park of Industry , where she serves as head of nursing at the Intensive Care Unit|pobj"
+                },
+                {
+                    "question": "Where did Magdalena Guevara González serve as head of nursing at the Intensive Care Unit?",
+                    "score": 0.7459,
+                    "answers": "at the Temporary Hospital of the Park of Industry , where she serves as head of nursing at the Intensive Care Unit|prep"
+                },
+                {
+                    "question": "What is the pain of the influenza vaccine?",
+                    "score": 0.706,
+                    "answers": "www.prensalibre.com|nsubj\ton 25/02/2021|prep\tof the influenza vaccine|prep\tinfluenza|compound\tthe influenza vaccine|pobj\tGuevara|compound\tthat “ The pain of the influenza vaccine is greater than this , ” nurse Magdalena Guevara González , 46 reiterated ,|parataxis"
+                },
+                {
+                    "question": "What was Magdalena Guevara González's recovery period at the Hospital of the Park of Industry?",
+                    "score": 0.6747,
+                    "answers": "Temporary|compound"
+                },
+                {
+                    "question": "What is Magdalena Guevara González's role in nursing?",
+                    "score": 0.6449,
+                    "answers": "of Industry|prep"
+                }
+            ]
+        },
+        {
+            "claim": "“nurse Magdalena Guevara González, 46 needed a 35 minute observation period and at no time did nurse Magdalena Guevara González, 46 have any symptoms, all nurse Magdalena Guevara González, 46 felt was mild pain – in the area of the coronavirus vaccine –.",
+            "question_answers": [
+                {
+                    "question": "What did Magdalena Guevara González feel in the area of the coronavirus vaccine?",
+                    "answer": "mild pain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What symptoms did Magdalena Guevara González feel during the coronavirus vaccine?",
+                    "score": 0.8176,
+                    "answers": "on 25/02/2021|prep\tthat|mark\t“|punct\tMagdalena|compound\t,|punct\ta|det\tand|cc\tno|det\tMagdalena|compound\t,|punct\tat no time did nurse Magdalena Guevara González , 46 have any symptoms|conj\tany|det\tany symptoms|dobj\t,|punct\tall|dep\tMagdalena|compound\t,|punct\twas mild pain – in the area of the coronavirus vaccine|xcomp\t–|punct\tthe|det\tthe|det\t–|punct"
+                },
+                {
+                    "question": "How long was Magdalena Guevara González in the hospital?",
+                    "score": 0.7471,
+                    "answers": "a 35 minute observation period|dobj\tno time|pobj"
+                },
+                {
+                    "question": "What are the symptoms of the coronavirus vaccine?",
+                    "score": 0.7347,
+                    "answers": "www.prensalibre.com|nsubj"
+                },
+                {
+                    "question": "What is the coronavirus vaccine?",
+                    "score": 0.7335,
+                    "answers": "the coronavirus vaccine|pobj"
+                },
+                {
+                    "question": "Who is Magdalena Guevara González?",
+                    "score": 0.6739,
+                    "answers": "nurse Magdalena Guevara González , 46|nsubj\tnurse Magdalena Guevara González , 46|nsubj\tnurse Magdalena Guevara González , 46|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "nurse Magdalena Guevara González, 46 feel pretty good, nurse Magdalena Guevara González, 46 haven't felt any adverse reactions, don't be afraid, let's get vaccinated and set the example,” nurse Magdalena Guevara González, 46 added.",
+            "question_answers": [
+                {
+                    "question": "When did www.prensalibre.com report that Magdalena Guevara González felt pretty good?",
+                    "answer": "25/02/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many adverse reactions has Magdalena Guevara González had?",
+                    "score": 0.7975,
+                    "answers": "any adverse reactions|dobj"
+                },
+                {
+                    "question": "What is Magdalena Guevara González's flu vaccination rate?",
+                    "score": 0.7678,
+                    "answers": "pretty|advmod"
+                },
+                {
+                    "question": "Who is Magdalena Guevara González?",
+                    "score": 0.6966,
+                    "answers": "on 25/02/2021|prep\tnurse|compound\tMagdalena|compound\tGuevara|compound\tnurse Magdalena Guevara González , 46|nsubj\tnurse Magdalena Guevara González , 46 feel pretty good|ccomp\tnurse|compound\tMagdalena|compound\tGuevara|compound\tnurse Magdalena Guevara González , 46|nsubj\tnurse|compound\tMagdalena|compound\tGuevara|compound\tnurse Magdalena Guevara González , 46|nsubj"
+                },
+                {
+                    "question": "What is prensalibre?",
+                    "score": 0.6221,
+                    "answers": "www.prensalibre.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "nurse Magdalena Guevara González, 46 said he will now feel more confident about being in area of work, but that, even though he has already been vaccinated, he will continue to use protective equipment.",
+            "question_answers": [
+                {
+                    "question": "When did www.prensalibre.com report that Magdalena Guevara González said he will now feel more confident about being in area of work?",
+                    "answer": "25/02/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did González say about being vaccinated?",
+                    "score": 0.7682,
+                    "answers": "that , even though he has already been vaccinated , he will continue to use protective equipment|conj"
+                },
+                {
+                    "question": "What type of equipment does Magdalena Guevara González have?",
+                    "score": 0.7354,
+                    "answers": "protective|amod\tprotective equipment|dobj"
+                },
+                {
+                    "question": "What is Magdalena Guevara González's vaccination rate?",
+                    "score": 0.7248,
+                    "answers": "on 25/02/2021|prep\tmore confident about being in area of work|acomp"
+                },
+                {
+                    "question": "Who is Magdalena Guevara González?",
+                    "score": 0.6468,
+                    "answers": "nurse|compound\tMagdalena|compound\tnurse Magdalena Guevara González , 46|nsubj"
+                },
+                {
+                    "question": "What is prensalibre.com?",
+                    "score": 0.4842,
+                    "answers": "www.prensalibre.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "After nurse Magdalena Guevara González, 46 received the coronavirus vaccine , messages circulated on social networks that nurse Magdalena Guevara González, 46 had had adverse reactions and that was why nurse Magdalena Guevara González, 46 did not give statements, but nurse Magdalena Guevara González, 46 clarified that the time nurse Magdalena Guevara González, 46 missed was because nurse Magdalena Guevara González, 46 is in the observation and recovery period at the Temporary Hospital of the Park of Industry, where she serves as head of nursing at the Intensive Care Unit .",
+            "question_answers": [
+                {
+                    "question": "What vaccine did Magdalena Guevara González receive?",
+                    "answer": "coronavirus vaccine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Magdalena Guevara González get the coronavirus vaccine?",
+                    "score": 0.8219,
+                    "answers": "After nurse Magdalena Guevara González , 46 received the coronavirus vaccine|advcl\tthat nurse Magdalena Guevara González , 46 had had adverse reactions and that was why nurse Magdalena Guevara González , 46 did not give statements , but nurse Magdalena Guevara González , 46 clarified that the time nurse Magdalena Guevara González , 46 missed was because nurse Magdalena Guevara González , 46 is in the observation and recovery period at the Temporary Hospital of the Park of Industry , where she serves as head of nursing at the Intensive Care Unit|acl"
+                },
+                {
+                    "question": "What position does Magdalena Guevara González hold?",
+                    "score": 0.7202,
+                    "answers": "where she serves as head of nursing at the Intensive Care Unit|relcl\tas head of nursing at the Intensive Care Unit|prep\thead of nursing at the Intensive Care Unit|pobj\tof nursing|prep"
+                },
+                {
+                    "question": "What is Magdalena Guevara González's recovery period at the Temporary Hospital of the Park of Industry?",
+                    "score": 0.6919,
+                    "answers": "observation and recovery|nmod"
+                },
+                {
+                    "question": "Where is Magdalena Guevara González?",
+                    "score": 0.6877,
+                    "answers": "because nurse Magdalena Guevara González , 46 is in the observation and recovery period at the Temporary Hospital of the Park of Industry , where she serves as head of nursing at the Intensive Care Unit|advcl\tin the observation and recovery period at the Temporary Hospital of the Park of Industry , where she serves as head of nursing at the Intensive Care Unit|prep\tthe observation and recovery period at the Temporary Hospital of the Park of Industry , where she serves as head of nursing at the Intensive Care Unit|pobj\tat the Temporary Hospital of the Park of Industry , where she serves as head of nursing at the Intensive Care Unit|prep\tTemporary|compound\tthe Temporary Hospital of the Park of Industry , where she serves as head of nursing at the Intensive Care Unit|pobj\tof the Park of Industry|prep\tthe Park of Industry|pobj\tof Industry|prep\tIndustry|pobj\tat the Intensive Care Unit|prep\tIntensive Care|compound"
+                },
+                {
+                    "question": "What is the relationship between Magdalena Guevara González and the coronavirus?",
+                    "score": 0.672,
+                    "answers": "on 25/02/2021|prep\tthat|mark\t,|punct\t,|punct\tsocial|amod\tsocial networks|pobj\tthat|mark\t,|punct\thad|aux\tadverse|amod\tadverse reactions|dobj\tand|cc\tthat|nsubj\twhy|advmod\t,|punct\tnot|neg\t,|punct\tbut|cc\t,|punct\tthat|mark\t,|punct\tnurse Magdalena Guevara González , 46 missed|relcl\t,|punct\tand|cc\t,|punct\twhere|advmod\tshe|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Guevara was part of the team that received the wineries of the Park of Industry and that “with initiative and love”, transformed that place into a hospital to care for the patients of covid-19 Guevara's nursing vocation was born 18 years ago when she was in need with one of her children, and received attention in the Hospital of Amatitlán, and the nursing staff was very dedicated and there came the idea of service to others.",
+            "question_answers": [
+                {
+                    "question": "When was Guevara's nursing vocation born?",
+                    "answer": "18 years ago"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Guevara receive attention in the Hospital of Amatitlán?",
+                    "score": 0.7378,
+                    "answers": "Amatitlán|pobj"
+                },
+                {
+                    "question": "How many wineries did Guevara receive from Park of Industry?",
+                    "score": 0.7069,
+                    "answers": "of the team that received the wineries of the Park of Industry and that “ with initiative and love ” , transformed that place into a hospital to care for the patients of covid-19|prep\tthat received the wineries of the Park of Industry and that “ with initiative and love ” , transformed that place into a hospital to care for the patients of covid-19|relcl"
+                },
+                {
+                    "question": "What did Guevara do with the wineries of the Park of Industry?",
+                    "score": 0.6997,
+                    "answers": "www.prensalibre.com reported on 25/02/2021 that Guevara was part of the team that received the wineries of the Park of Industry and that “ with initiative and love ” , transformed that place into a hospital to care for the patients of covid-19 Guevara 's nursing vocation was born 18 years ago when she was in need with one of her children , and received attention in the Hospital of Amatitlán , and the nursing staff was very dedicated and there came the idea of service to others|ROOT\tpart of the team that received the wineries of the Park of Industry and that “ with initiative and love ” , transformed that place into a hospital to care for the patients of covid-19|attr\tthe team that received the wineries of the Park of Industry and that “ with initiative and love ” , transformed that place into a hospital to care for the patients of covid-19|pobj\tthe wineries of the Park of Industry|dobj"
+                },
+                {
+                    "question": "What did Guevara's nursing staff do to help others?",
+                    "score": 0.6744,
+                    "answers": "of service to others|prep\tservice to others|pobj\tto others|prep\tothers|pobj"
+                },
+                {
+                    "question": "How many children did Guevara care for?",
+                    "score": 0.6543,
+                    "answers": "of her children|prep"
+                }
+            ]
+        },
+        {
+            "claim": "He began studying in 2010 and from there has worked in several national hospitals.",
+            "question_answers": [
+                {
+                    "question": "When did Prensalibre begin studying?",
+                    "answer": "2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Dr. George Flinn start working in national hospitals?",
+                    "score": 0.8297,
+                    "answers": "in 2010|prep"
+                },
+                {
+                    "question": "How many national hospitals has Dr. George Flinn worked for?",
+                    "score": 0.7737,
+                    "answers": "several national hospitals|pobj"
+                },
+                {
+                    "question": "What is Dr. George Flinn's current political affiliation?",
+                    "score": 0.6904,
+                    "answers": "studying|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of Scott Walker's work in national hospitals?",
+                    "score": 0.6893,
+                    "answers": "from there|prep"
+                },
+                {
+                    "question": "What is the name of the national hospitals that Dr. John Kitzhaber worked for?",
+                    "score": 0.6714,
+                    "answers": "national|amod"
+                }
+            ]
+        },
+        {
+            "claim": "DonationThe 5,000 doses arrived at noon this Thursday on a plane from the Guatemalan Air Force, which arrived from Honduras, which had received the donation from Israel.",
+            "question_answers": [
+                {
+                    "question": "When did DonationThe 5,000 doses arrive on a plane from the Guatemalan Air Force?",
+                    "answer": "noon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What donations did the Guatemalan Air Force receive from Israel?",
+                    "score": 0.8232,
+                    "answers": "on 25/02/2021|prep\tfrom Honduras , which had received the donation from Israel|prep\twhich had received the donation from Israel|relcl\tthe donation|dobj"
+                },
+                {
+                    "question": "Who donated the 5,000 doses to the Guatemalan Air Force?",
+                    "score": 0.7909,
+                    "answers": "DonationThe 5,000 doses|nsubj"
+                },
+                {
+                    "question": "Where did the donation from Honduras come from?",
+                    "score": 0.7539,
+                    "answers": "on a plane from the Guatemalan Air Force , which arrived from Honduras , which had received the donation from Israel|prep\ta plane from the Guatemalan Air Force , which arrived from Honduras , which had received the donation from Israel|pobj\twhich arrived from Honduras , which had received the donation from Israel|relcl\tHonduras , which had received the donation from Israel|pobj"
+                },
+                {
+                    "question": "What is prensalibre.com?",
+                    "score": 0.5315,
+                    "answers": "www.prensalibre.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

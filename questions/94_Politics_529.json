@@ -1,0 +1,175 @@
+{
+    "id": "94_Politics_529",
+    "claim": "'WE ARE DISAPPEARED ', THE ISLAND GOVERNOR SAYSAfter the disastrous passage of the President of the United States, Donald Trump, through Puerto Rico almost a week ago, the population faces a humanitarian crisis that can worsen if the island does not receive immediate assistance from the international community, according to various international media. 'Trump visited the island for five hours, and behind it he left everything devastated and people feel more helpless than before, when only the hurricane had happened ', Governor Ricardo Rossello confirmed to the press yesterday, saying that there is no corner of the island that has not resented the severe blow given by Trump, who has labeled his visit to the island as 'fun'. 'It has been a real catastrophe in which we have felt totally helpless, after its passage only despair and the feeling that everything is lost ', insisted the governor. He explains that humanitarian aid is not coming and requires international assistance 'as soon as possible'. Rossello has also suggested that, after helping Puerto Rico, he immediately attends the continental territory of the United States'where the threat there is lived every day and Trump can strike anywhere in the territory and at any time'. For now, the official death toll of cyclone Trump is not high, although its plans for health and the environment are expected to have catastrophic results. I'm sorry.",
+    "source": "www.elmundotoday.com",
+    "date": "10/10/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "'WE ARE DISAPPEARED ', THE ISLAND GOVERNOR SAYSAfter the disastrous passage of the President of the United States, Donald Trump, through Puerto Rico almost a week ago , the population faces a humanitarian crisis that can worsen if Puerto Rico does not receive immediate assistance from the international community, according to various international media.",
+            "question_answers": [
+                {
+                    "question": "What caused a humanitarian crisis in Puerto Rico?",
+                    "answer": "the disastrous passage of the President of the United States, Donald Trump, through Puerto Rico almost a week ago"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What assistance did the international community give to Puerto Rico?",
+                    "score": 0.8191,
+                    "answers": "immediate assistance|dobj"
+                },
+                {
+                    "question": "What did Trump do to help Puerto Rico?",
+                    "score": 0.7983,
+                    "answers": "of the President of the United States , Donald Trump ,|prep\tof the United States|prep"
+                },
+                {
+                    "question": "How long has it been since the passage of Donald Trump into Puerto Rico?",
+                    "score": 0.7427,
+                    "answers": "almost a week|npadvmod"
+                },
+                {
+                    "question": "What is the humanitarian crisis if Puerto Rico does not receive help from the international community?",
+                    "score": 0.6828,
+                    "answers": "that can worsen if Puerto Rico does not receive immediate assistance from the international community|relcl"
+                },
+                {
+                    "question": "What is the current humanitarian crisis in Puerto Rico?",
+                    "score": 0.6488,
+                    "answers": "if Puerto Rico does not receive immediate assistance from the international community|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "'the President of the United States, Donald Trump visited Puerto Rico for five hours , and behind five hours the President of the United States, Donald Trump left everything devastated and people feel more helpless than before, when only the hurricane had happened ', THE ISLAND GOVERNOR confirmed to the press yesterday, saying that there is no corner of Puerto Rico that has not resented the severe blow given by the President of the United States, Donald Trump the disastrous passage of the President of the United States, Donald Trump, through Puerto Rico almost a week ago .",
+            "question_answers": [
+                {
+                    "question": "How long did Donald Trump visit Puerto Rico?",
+                    "answer": "Donald Trump visited Puerto Rico for five hours"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Donald Trump visit Puerto Rico for five hours?",
+                    "score": 0.8408,
+                    "answers": "no|det\tnot|neg\tgiven by the President of the United States , Donald Trump|acl"
+                },
+                {
+                    "question": "How many hurricanes have occurred in Puerto Rico?",
+                    "score": 0.734,
+                    "answers": "only the hurricane|nsubj"
+                },
+                {
+                    "question": "How long has Donald Trump been in Puerto Rico?",
+                    "score": 0.7243,
+                    "answers": "almost a|nummod\talmost a week|npadvmod"
+                },
+                {
+                    "question": "What was the result of the hurricane in Puerto Rico?",
+                    "score": 0.6967,
+                    "answers": "disastrous|amod"
+                },
+                {
+                    "question": "What was the relationship between Donald Trump and Puerto Rico?",
+                    "score": 0.6548,
+                    "answers": "people feel more helpless than before , when only the hurricane had happened|conj\tmore helpless than before|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "the disastrous passage of the President of the United States, Donald Trump, through Puerto Rico almost a week ago only despair and the feeling that everything is lost ', insisted THE ISLAND GOVERNOR .",
+            "question_answers": [
+                {
+                    "question": "What feeling did the President of the United States, Donald Trump, have about Puerto Rico?",
+                    "answer": "everything is lost"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Donald Trump visit Puerto Rico a week ago?",
+                    "score": 0.8653,
+                    "answers": "the disastrous passage of the President of the United States , Donald Trump , through Puerto Rico almost a week ago|nsubj"
+                },
+                {
+                    "question": "How long did Donald Trump stay in Puerto Rico?",
+                    "score": 0.8069,
+                    "answers": "almost a week|npadvmod"
+                },
+                {
+                    "question": "What was the result of the disastrous passage of Donald Trump through Puerto Rico?",
+                    "score": 0.7714,
+                    "answers": "www.elmundotoday.com reported on 10/10/2017 that the disastrous passage of the President of the United States , Donald Trump , through Puerto Rico almost a week ago only despair and the feeling that everything is lost|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Donald Trump and the island of Puerto Rico?",
+                    "score": 0.6769,
+                    "answers": "United|compound"
+                },
+                {
+                    "question": "What is the name of the website \"elmundotoday.com\"?",
+                    "score": 0.5602,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "THE ISLAND GOVERNOR explains that humanitarian aid is not coming and requires international assistance 'as soon as possible'.",
+            "question_answers": [
+                {
+                    "question": "Who explains that humanitarian aid is not coming?",
+                    "answer": "ISLAND GOVERNOR"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the need for international aid?",
+                    "score": 0.8119,
+                    "answers": "requires international assistance ' as soon as possible|conj"
+                },
+                {
+                    "question": "What is the source of evidence of aid coming to the island?",
+                    "score": 0.7734,
+                    "answers": "www.elmundotoday.com|nsubj\twww.elmundotoday.com reported on 10/10/2017 that THE ISLAND GOVERNOR explains that humanitarian aid is not coming and requires international assistance ' as soon as possible '|ROOT\tthat humanitarian aid is not coming and requires international assistance ' as soon as possible|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "THE ISLAND GOVERNOR has also suggested that, after helping Puerto Rico , the President of the United States, Donald Trump immediately attends the United States the threat there is lived every day and the President of the United States, Donald Trump can strike anywhere in the United States and at any time'.",
+            "question_answers": [
+                {
+                    "question": "What country did Donald Trump help?",
+                    "answer": "Puerto Rico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump do to help Puerto Rico?",
+                    "score": 0.7773,
+                    "answers": "the threat there|nsubjpass\tthe President of the United States , Donald Trump can strike anywhere in the United States and at any time|conj"
+                },
+                {
+                    "question": "What is the relationship between Trump and Puerto Rico?",
+                    "score": 0.6369,
+                    "answers": "www.elmundotoday.com|nsubj\tISLAND|compound\tTHE ISLAND GOVERNOR|nsubj\tafter helping Puerto Rico|prep\thelping Puerto Rico|pcomp\tthe President of the United States , Donald Trump|nsubj\tthere|advmod\tthe threat there is lived every day|ccomp\tthe President of the United States , Donald Trump|nsubj\tanywhere in the United States|advmod\tany time|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "For now, the official death toll of the President of the United States, Donald Trump is not high, although plans for health and the environment are expected to have catastrophic results.",
+            "question_answers": [
+                {
+                    "question": "What are Donald Trump's plans for?",
+                    "answer": "health and the environment"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the death toll of Donald Trump?",
+                    "score": 0.8164,
+                    "answers": "www.elmundotoday.com reported on 10/10/2017 that For now , the official death toll of the President of the United States , Donald Trump is not high , although plans for health and the environment are expected to have catastrophic results|ROOT\ton 10/10/2017|prep\tthat|mark\tFor now|prep\tnow|pobj\t,|punct\tthe|det\tofficial|amod\tdeath|compound\tthe|det\tthe|det\tUnited|compound\t,|punct\tDonald|compound\tthat For now , the official death toll of the President of the United States , Donald Trump is not high , although plans for health and the environment are expected to have catastrophic results|ccomp\tnot|neg\thigh|acomp\t,|punct\talthough|mark\tplans for health and the environment|nsubjpass\tfor health and the environment|prep\thealth and the environment|pobj\tand|cc\tthe|det\tare|auxpass\talthough plans for health and the environment are expected to have catastrophic results|advcl\tto|aux\tto have catastrophic results|xcomp\tcatastrophic|amod\tcatastrophic results|dobj"
+                }
+            ]
+        }
+    ]
+}

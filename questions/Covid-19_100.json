@@ -1,0 +1,467 @@
+{
+    "id": "Covid-19_100",
+    "claim": "This was revealed by the study in which the CES University and the Universidad del Rosario participated. Following a study presented on Thursday by the PC-COVID-19 research group, it was announced that convalescent plasma is an efficient therapeutic alternative for patients with severe covid-19. According to the results in 91 patients, the use of plasma decreases hospital stay and could reduce mortality in patients with the virus. The project was advanced at Clínica del Occidente and Hospital Mederi in Bogotá; and at Clínica CES in Medellín. Now, at a time when the early arrival of the vaccine is expected in the country, researchers pointed out that the use of plasma is not a cure or a replacement for the vaccine, but it is a way to help hospitalized patients and reduce the number of them going to an intensive care unit (ICU). It will therefore be in the hands of the Invima and the Ministry of Health to endorse it. How was the study conducted?The clinical trial included 46 patients who received convalescent plasma and conventional therapy; and 45 who received only conventional therapy. In the former, excellent plasma tolerability was observed. (You may be interested: The ‘heirs' animals of Hacienda Naples)Ruben Manrique, a doctor in epidemiology and director of Research and Innovation at the CES University, said that patients who received convalescent plasma had, on average, three days less hospitalization compared to those who received conventional therapy. However, in patients with convalescent plasma there was no greater reduction in mortality compared to those receiving conventional therapy. “According to the meta-analysis, this could reduce mortality in patients covid-19 severe. From the pharmacological point of view, convalescent plasma has immunomodulatory properties, modifies the profile of inflammatory cytokines and increases immune memory cells to day 28, which was the day we did the study,” explained Dr. Juan Manuel Anaya, director of the Center for Study of Autoimmune Diseases (CREA) of the Universidad del Rosario. More words, less words, this means that convalescent plasma induces an early, but transient, effect on antibodies to SARS-CoV-2 in patients who have this disease severely. At 28 days it was observed that convalescent plasma reduced the profile of inflammatory proteins (called cytokines). In addition, convalescent plasma increased memory immune cells at 28 days, so overall, these results would indicate that convalescent plasma has immunomodulatory properties that explain its therapeutic effect, the director of CREA said. Would deaths be reduced?Although this number of patients did not show a reduction in deaths from plasma use, in other international studies yes. Thus, a meta-analysis of 27 randomized, published and unpublished clinical trials was performed, including 2. 437 patients, all hospitalized. I'm sorry.",
+    "source": "www.eltiempo.com",
+    "date": "21/01/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "This was revealed by the study in which the CES University and the Universidad del Rosario participated.",
+            "question_answers": [
+                {
+                    "question": "On what date did Eltiempo publish their report?",
+                    "answer": "21/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who participated in the study of the CES University and the Universidad del Rosario?",
+                    "score": 0.819,
+                    "answers": "that This was revealed by the study in which the CES University and the Universidad del Rosario participated|ccomp\tby the study in which the CES University and the Universidad del Rosario participated|agent\tthe study in which the CES University and the Universidad del Rosario participated|pobj\tin which the CES University and the Universidad del Rosario participated|relcl"
+                },
+                {
+                    "question": "What iseltiempo.com?",
+                    "score": 0.5645,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Following a study presented on Thursday by the PC-COVID-19 research group , it was announced that convalescent plasma is an efficient therapeutic alternative for patients with severe covid-19 .",
+            "question_answers": [
+                {
+                    "question": "Who presented a study on Thursday?",
+                    "answer": "PC-COVID-19 research group"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the PC-COVID-19 research group announce that convalescent plasma is effective for patients with severe covid-19?",
+                    "score": 0.7891,
+                    "answers": "Following a study presented on Thursday by the PC - COVID-19 research group|prep"
+                },
+                {
+                    "question": "What is the purpose of convalescent plasma?",
+                    "score": 0.7489,
+                    "answers": "convalescent plasma|nsubj"
+                },
+                {
+                    "question": "What is the relationship between convalescent plasma and severe covid-19?",
+                    "score": 0.7202,
+                    "answers": "severe covid-19|pobj"
+                },
+                {
+                    "question": "What are the symptoms of severe covid-19?",
+                    "score": 0.7015,
+                    "answers": "patients with severe covid-19|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the results of the study conducted by the PC-COVID-19 research group?",
+                    "score": 0.6555,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the results in 91 patients, the use of plasma decreases hospital stay and could reduce mortality in patients with severe covid-19 .",
+            "question_answers": [
+                {
+                    "question": "What did the results of the study show about the use of plasma in patients with covid-19?",
+                    "answer": "the use of plasma decreases hospital stay and could reduce mortality in patients with severe covid-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the effect of using the use of plasma on patients with severe covid-19?",
+                    "score": 0.7165,
+                    "answers": "www.eltiempo.com reported on 21/01/2021 that According to the results in 91 patients , the use of plasma decreases hospital stay and could reduce mortality in patients with severe covid-19|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The project was advanced at Clínica del Occidente and Hospital Mederi in Bogotá; and at Clínica CES in Medellín.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Where was the Clinica del Occidente project advanced?",
+                    "score": 0.7694,
+                    "answers": "that|mark\twas|auxpass"
+                },
+                {
+                    "question": "Where did the project take place?",
+                    "score": 0.7524,
+                    "answers": "on 21/01/2021|prep"
+                },
+                {
+                    "question": "Where was the Clínica del Occidente and Hospital Medei located?",
+                    "score": 0.7009,
+                    "answers": "The project|nsubjpass"
+                },
+                {
+                    "question": "Where is Clinica del Occidente located?",
+                    "score": 0.6968,
+                    "answers": "www.eltiempo.com|nsubj\tThe|det\tClínica|compound\tdel|compound\tClínica del Occidente and Hospital Mederi in Bogotá|pobj\tand|cc\tin Bogotá|prep\t;|punct\tand|cc\tat Clínica CES in Medellín|conj\tClínica|compound\tClínica CES in Medellín|pobj\tin Medellín|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Now, at a time when the early arrival of the vaccine is expected in the country, researchers pointed out that the use of plasma is not a cure or a replacement for the vaccine , but the use of plasma is a way to help hospitalized patients and reduce the number of hospitalized patients going to an intensive care unit (ICU).",
+            "question_answers": [
+                {
+                    "question": "What did researchers say about the use of plasma?",
+                    "answer": "not a cure or a replacement for the vaccine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the use of plasma for the vaccine?",
+                    "score": 0.6644,
+                    "answers": "that|mark\tthat Now , at a time when the early arrival of the vaccine is expected in the country , researchers pointed out that the use of plasma is not a cure or a replacement for the vaccine , but the use of plasma is a way to help hospitalized patients and reduce the number of hospitalized patients going to an intensive care unit ( ICU )|ccomp\tthat|mark"
+                },
+                {
+                    "question": "How many hospitalized patients are going to an intensive care unit (ICU)?",
+                    "score": 0.6537,
+                    "answers": "of hospitalized patients going to an intensive care unit ( ICU )|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It will therefore be in the hands of the Invima and the Ministry of Health to endorse the use of plasma .",
+            "question_answers": [
+                {
+                    "question": "Who will be in the hands of to endorse the use of plasma?",
+                    "answer": "the Invima and the Ministry of Health"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What position does the Ministry of Health hold on the use of plasma?",
+                    "score": 0.8765,
+                    "answers": "in the hands of the Invima and the Ministry of Health|prep"
+                },
+                {
+                    "question": "What is the relationship between Invima and the Ministry of Health?",
+                    "score": 0.6984,
+                    "answers": "of the Invima and the Ministry of Health|prep\tthe Invima and the Ministry of Health|pobj\tof Health|prep"
+                }
+            ]
+        },
+        {
+            "claim": "How was a study presented on Thursday by the PC-COVID-19 research group included 46 patients who received convalescent plasma and conventional therapy ; and 45 who received only conventional therapy.",
+            "question_answers": [
+                {
+                    "question": "What type of therapy did the PC-COVID-19 study include?",
+                    "answer": "convalescent plasma and conventional therapy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many patients received conventional therapy from the PC-COVID-19 research group?",
+                    "score": 0.7512,
+                    "answers": "conventional therapy|conj"
+                },
+                {
+                    "question": "How many patients receivedconvalescent plasma and conventional therapy?",
+                    "score": 0.7482,
+                    "answers": "www.eltiempo.com reported on 21/01/2021 that How was a study presented on Thursday by the PC - COVID-19 research group included 46 patients who received convalescent plasma and conventional therapy ; and 45 who received only conventional therapy|ROOT\tthat How was a study presented on Thursday by the PC - COVID-19 research group included 46 patients who received convalescent plasma and conventional therapy ; and 45 who received only conventional therapy|ccomp\tpresented on Thursday by the PC - COVID-19 research group|acl\tby the PC - COVID-19 research group|agent\t46 patients who received convalescent plasma and conventional therapy ; and 45 who received only conventional therapy|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In 46 patients who received convalescent plasma and conventional therapy , excellent plasma tolerability was observed.",
+            "question_answers": [
+                {
+                    "question": "What type of therapy was used in 46 of the patients that were reported to have excellent plasma tolerability?",
+                    "answer": "convalescent plasma and conventional therapy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many patients received conventional therapy?",
+                    "score": 0.8365,
+                    "answers": "conventional therapy|conj"
+                }
+            ]
+        },
+        {
+            "claim": "(You may be interested: The ‘heirs' animals of Hacienda Naples)Ruben Manrique, a doctor in epidemiology and director of Research and Innovation at the CES University , said that patients who received convalescent plasma had, on average, three days less hospitalization compared to those who received conventional therapy.",
+            "question_answers": [
+                {
+                    "question": "Where wasuben Manrique a director of Research and Innovation?",
+                    "answer": "CES University"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average hospitalization for patients who received convalescent plasma?",
+                    "score": 0.681,
+                    "answers": "that|mark\t(|punct\tmay|aux\tthat ( You The ‘ heirs ' animals of may be interested : Hacienda|parataxis\tinterested|acomp\t:|punct\tThe|det\t‘|punct\theirs|nmod\t'|punct\tof|prep\tHacienda|punct\tNaples)Ruben|compound\tNaples)Ruben Manrique , a doctor in epidemiology and director of Research and Innovation at the CES University|nsubj\t,|punct\ta|det\ta doctor in epidemiology and director of Research and Innovation at the CES University|appos\tin epidemiology|prep\tepidemiology|pobj\tand|cc\tdirector of Research and Innovation at the CES University|conj\tof Research and Innovation|prep\tand|cc\tInnovation|conj\tat the CES University|prep\tthe|det\tCES|compound\t,|punct\twww.eltiempo.com reported on 21/01/2021 that ( You The ‘ heirs ' animals of may be interested : Hacienda Naples)Ruben Manrique , a doctor in epidemiology and director of Research and Innovation at the CES University , said that patients who received convalescent plasma had , on average , three days less hospitalization compared to those who received conventional therapy|ROOT\tthat|mark\tpatients who received convalescent plasma|nsubj\twho|nsubj\twho received convalescent plasma|relcl\tconvalescent|amod\tconvalescent plasma|dobj\tthat patients who received convalescent plasma had , on average , three days less hospitalization compared to those who received conventional therapy|ccomp\t,|punct\ton average|prep\taverage|amod\t,|punct\tthree|nummod\tthree days less|amod\tthree days less hospitalization|dobj\twho|nsubj\tconventional|amod"
+                },
+                {
+                    "question": "What is Hacienda Naples?",
+                    "score": 0.5971,
+                    "answers": "www.eltiempo.com reported on 21/01/2021 that ( You The ‘ heirs ' animals of may be interested : Hacienda|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, in patients with convalescent plasma there was no greater reduction in mortality compared to those receiving conventional therapy.",
+            "question_answers": [
+                {
+                    "question": "What was found in patients with convalescent plasma compared to those receiving conventional therapy?",
+                    "answer": "no greater reduction in mortality"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the mortality rate of those receiving conventional therapy compared to those receiving convalescent plasma?",
+                    "score": 0.8288,
+                    "answers": "www.eltiempo.com reported on 21/01/2021 that However , in patients with convalescent plasma there was no greater reduction in mortality compared to those receiving conventional therapy|ROOT\twith convalescent plasma|prep\tthat However , in patients with convalescent plasma there was no greater reduction in mortality compared to those receiving conventional therapy|ccomp\tcompared to those receiving conventional therapy|prep"
+                }
+            ]
+        },
+        {
+            "claim": "“According to the meta-analysis, this could reduce mortality in patients covid-19 severe.",
+            "question_answers": [
+                {
+                    "question": "When did www.eltiempo.com report that it could reduce mortality in patients covid-19 severe?",
+                    "answer": "21/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the mortality rate of patients with covid-19 severe?",
+                    "score": 0.8256,
+                    "answers": "www.eltiempo.com|nsubj\ton 21/01/2021|prep\tthat “ According to the meta - analysis , this could reduce mortality in patients covid-19 severe|ccomp\tmortality in patients covid-19 severe|dobj\tin patients covid-19 severe|prep\tpatients covid-19 severe|pobj"
+                },
+                {
+                    "question": "What are the effects of covid-19 severe?",
+                    "score": 0.8221,
+                    "answers": "“|punct"
+                },
+                {
+                    "question": "What is covid-19 severe?",
+                    "score": 0.8036,
+                    "answers": "covid-19 severe|appos"
+                },
+                {
+                    "question": "What is the relationship between covid-19 and severe mortality?",
+                    "score": 0.7885,
+                    "answers": "severe|amod"
+                },
+                {
+                    "question": "What is the purpose of the meta-analysis?",
+                    "score": 0.7283,
+                    "answers": "to the meta - analysis|prep"
+                }
+            ]
+        },
+        {
+            "claim": "From the pharmacological point of view, convalescent plasma has immunomodulatory properties, modifies the profile of inflammatory cytokines and increases immune memory cells to day 28, which was the day we did the study,” explained Dr. Juan Manuel Anaya, director of the Center for Study of Autoimmune Diseases (CREA) of the Universidad del Rosario.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the center that Dr. Juan Manuel Anaya is the director of?",
+                    "answer": "the Center for Study of Autoimmune Diseases (CREA) of the Universidad del Rosario"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How does convalescent plasma change the profile of inflammatory cytokines?",
+                    "score": 0.8487,
+                    "answers": "inflammatory cytokines|pobj"
+                },
+                {
+                    "question": "What does convalescent plasma do for immune memory cells?",
+                    "score": 0.7788,
+                    "answers": "modifies the profile of inflammatory cytokines and increases immune memory cells to day 28 , which was the day we did the study|conj"
+                },
+                {
+                    "question": "What are the properties of convalescent plasma?",
+                    "score": 0.77,
+                    "answers": "convalescent|amod\tconvalescent plasma|nsubj"
+                },
+                {
+                    "question": "What are the side effects of convalescent plasma?",
+                    "score": 0.7492,
+                    "answers": "Autoimmune Diseases|pobj"
+                },
+                {
+                    "question": "What day of the week did Dr. Juan Manuel Anaya's study take place?",
+                    "score": 0.7316,
+                    "answers": "to day 28 , which was the day we did the study|prep\tday 28 , which was the day we did the study|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "More words, less words, this means that convalescent plasma induces an early, but transient, effect on antibodies to SARS-CoV-2 in patients who have this disease severely.",
+            "question_answers": [
+                {
+                    "question": "What induces an early but transient effect on antibodies to SARS-CoV-2?",
+                    "answer": "convalescent plasma"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What effect does convalescent plasma have on antibodies to SARS-CoV-2?",
+                    "score": 0.8809,
+                    "answers": "transient|conj\tantibodies to SARS - CoV-2|pobj\tseverely|advmod"
+                },
+                {
+                    "question": "What is the effect of convalescent plasma on antibodies to SARS?",
+                    "score": 0.8002,
+                    "answers": "convalescent plasma|nsubj"
+                },
+                {
+                    "question": "What are the symptoms of SARS-CoV-2?",
+                    "score": 0.7905,
+                    "answers": "SARS|compound\tin patients who have this disease severely|prep\tpatients who have this disease severely|pobj"
+                },
+                {
+                    "question": "What is the relationship between convalescent plasma and SARS-CoV-2?",
+                    "score": 0.7719,
+                    "answers": "www.eltiempo.com|nsubj\tthat|mark\tMore|amod\tthis|nsubj\tthat|mark\tan|det\tto SARS - CoV-2|prep\twho|nsubj\tthis|det"
+                },
+                {
+                    "question": "What is SARS-CoV-2?",
+                    "score": 0.771,
+                    "answers": "SARS - CoV-2|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "At 28 days it was observed that convalescent plasma reduced the profile of inflammatory proteins (called cytokines).",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the effect of convalescent plasma on inflammatory proteins?",
+                    "score": 0.7576,
+                    "answers": "convalescent|amod\tconvalescent plasma|nsubj"
+                },
+                {
+                    "question": "What is the relationship between convalescent plasma and inflammatory proteins?",
+                    "score": 0.7381,
+                    "answers": "www.eltiempo.com|nsubj\ton 21/01/2021|prep\tthat|mark\tAt 28 days|prep\t28|nummod\tit|nsubjpass\twas|auxpass\tthat|mark\tthe|det\t(|punct\t)|punct"
+                },
+                {
+                    "question": "What are cytokines?",
+                    "score": 0.7315,
+                    "answers": "of inflammatory proteins ( called cytokines )|prep\tinflammatory|amod\tinflammatory proteins ( called cytokines )|pobj\tcalled cytokines|acl\tcytokines|oprd"
+                },
+                {
+                    "question": "What is the profile of cytokines?",
+                    "score": 0.7125,
+                    "answers": "the profile of inflammatory proteins ( called cytokines )|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, convalescent plasma increased memory immune cells at 28 days, so overall, these results would indicate that convalescent plasma has immunomodulatory properties that explain its therapeutic effect, the director of CREA said.",
+            "question_answers": [
+                {
+                    "question": "What type of plasma increased memory immune cells at 28 days?",
+                    "answer": "convalescent plasma"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the immunomodulatory properties of convalescent plasma?",
+                    "score": 0.7799,
+                    "answers": "immunomodulatory|amod"
+                },
+                {
+                    "question": "What is the role of convalescent plasma on immunomodulatory properties?",
+                    "score": 0.7393,
+                    "answers": "that convalescent plasma has immunomodulatory properties that explain its therapeutic effect|ccomp"
+                },
+                {
+                    "question": "What is the relationship between convalescent plasma and memory immune cells?",
+                    "score": 0.698,
+                    "answers": "www.eltiempo.com|nsubj\ton 21/01/2021|prep\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\tconvalescent plasma|nsubj\timmune|amod\t28|nummod\t,|punct\tso|advmod\toverall|advmod\t,|punct\tthese|det\tthese results|nsubj\twould|aux\tthat|mark\tconvalescent plasma|nsubj\tthat|nsubj\tthat explain its therapeutic effect|relcl\tits|poss\t,|punct\tthe|det\tthe director of CREA|nsubj\tof CREA|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Would deaths be reduced?Although this number of patients did not show a reduction in deaths from plasma use, in other international studies yes.",
+            "question_answers": [
+                {
+                    "question": "When did eltiempo report that deaths would be reduced?",
+                    "answer": "21/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many deaths from plasma use are there in other studies?",
+                    "score": 0.8714,
+                    "answers": "in other international studies|prep"
+                },
+                {
+                    "question": "How many deaths were caused by the use of plasma?",
+                    "score": 0.8692,
+                    "answers": "on 21/01/2021|prep\tof patients|prep\tpatients|pobj\tdid|aux\ta reduction in deaths from plasma use|dobj\tfrom plasma use|prep\tplasma|compound\tplasma use|pobj\tother international studies|pobj"
+                },
+                {
+                    "question": "How many deaths would be reduced if there were no deaths from plasma use?",
+                    "score": 0.8566,
+                    "answers": "that Would deaths|dobj\tbe reduced?Although|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Thus, a meta-analysis of 27 randomized, published and unpublished clinical trials was performed, including 2.",
+            "question_answers": [
+                {
+                    "question": "How many randomized, published and unpublished clinical trials were performed?",
+                    "answer": "27"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many trials were performed?",
+                    "score": 0.7949,
+                    "answers": "www.eltiempo.com reported on 21/01/2021 that Thus , a meta - analysis of 27 randomized , published and unpublished clinical trials was performed , including 2|ROOT\tanalysis of 27 randomized , published and unpublished clinical trials|nsubjpass\tof 27 randomized , published and unpublished clinical trials|prep\trandomized , published and unpublished|amod\tpublished and unpublished|conj\tand|cc\tunpublished|conj\t27 randomized , published and unpublished clinical trials|pobj\tthat Thus , a meta - analysis of 27 randomized , published and unpublished clinical trials was performed , including 2|ccomp\tincluding 2|prep"
+                },
+                {
+                    "question": "What was the purpose of the clinical trials performed?",
+                    "score": 0.7438,
+                    "answers": "clinical|amod"
+                },
+                {
+                    "question": "What is the purpose of a meta-analysis of 27 randomized, published and unpublished clinical trials?",
+                    "score": 0.7375,
+                    "answers": "a meta|nsubjpass"
+                },
+                {
+                    "question": "How many trials haseltiempo.com performed?",
+                    "score": 0.719,
+                    "answers": "www.eltiempo.com|nsubj"
+                },
+                {
+                    "question": "What is the method used to determine whether or not experiments are successful?",
+                    "score": 0.6811,
+                    "answers": "that|mark\tThus|advmod\t,|punct\ta|det\t-|nsubjpass\t,|punct\twas|auxpass\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "437 patients, all hospitalized.",
+            "question_answers": [
+                {
+                    "question": "How many patients were hospitalized on 21/01/2021?",
+                    "answer": "437"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many patients were hospitalized in the year 2015?",
+                    "score": 0.8198,
+                    "answers": "that 437 patients , all hospitalized|ccomp"
+                },
+                {
+                    "question": "How many patients have been hospitalized since Jan. 21, 2015?",
+                    "score": 0.8187,
+                    "answers": "www.eltiempo.com reported on 21/01/2021 that 437 patients , all hospitalized|ROOT"
+                }
+            ]
+        }
+    ]
+}

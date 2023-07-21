@@ -1,0 +1,186 @@
+{
+    "id": "91_Society_94",
+    "claim": "This morning the local airport was going back into chaos. Long queues to pass the security control and flights lit by the drivers strike in FranceThose flying this morning from Ibiza airport are encountering endless queues to pass the security control. As it happened a few days ago, the line started on the ground floor of the airport and went up the stairs, touring the entire first floor until arriving at the controls. According to data offered by AENA today, change of fortnight, it is expected that for Es Codolar pass  passengers. To this fact is added the strike of air traffic controllers today in France that, for the moment, is provoked in addition to several delays, the cancellation of  flights, two with destination/origin to the country Gaul and  with origin or destination in the other European countries. AENA gives explanationsWhen at the beginning of the month it was reported the problem with which the travelers were found having been so late to pass the security control, AENA attributed to the works that are being executed at the airport of Ibiza and to the coincidence of several flights the long queues that were recorded. In that monento, to avoid the recurrence of this situation (which has occurred again today), from AENA de Baleares stated that it was planned to strengthen the workforce in view of the summer season, but they did not need how many people will join the current staff of the security personnel or when. I'm sorry.",
+    "source": "www.diariodeibiza.es",
+    "date": "16/06/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "This morning the local airport was going back into chaos.",
+            "question_answers": [
+                {
+                    "question": "What was going back into chaos this morning?",
+                    "answer": "the local airport"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the local airport going into chaos in 2018?",
+                    "score": 0.8229,
+                    "answers": "www.diariodeibiza.es said on 16/06/2018 that This morning the local airport was going back into chaos|ROOT"
+                },
+                {
+                    "question": "What is the name of the website that is linked to the local airport?",
+                    "score": 0.7578,
+                    "answers": "www.diariodeibiza.es|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Long queues to pass the security control and flights lit by the drivers strike in FranceThose flying This morning from the local airport are encountering Long queues to pass the security control .",
+            "question_answers": [
+                {
+                    "question": "What was the cause of a strike in France?",
+                    "answer": "Long queues to pass the security control"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many passengers were flying this morning from the local airport in France?",
+                    "score": 0.7766,
+                    "answers": "in FranceThose flying This morning from the local airport|prep"
+                },
+                {
+                    "question": "What are the reasons for the drivers striking in France?",
+                    "score": 0.7083,
+                    "answers": "the drivers strike in FranceThose flying This morning from the local airport|pobj"
+                },
+                {
+                    "question": "What are the long queues to pass security control and flights to pass the security control?",
+                    "score": 0.6728,
+                    "answers": "that Long queues to pass the security control and flights lit by the drivers strike in FranceThose flying This morning from the local airport are encountering Long queues to pass the security control|ccomp"
+                },
+                {
+                    "question": "What is the security control?",
+                    "score": 0.5735,
+                    "answers": "the security control|dobj\tthe security control|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "As it happened a few days ago, the line started on the ground floor of the local airport and went up the stairs, touring the entire first floor until arriving at the controls.",
+            "question_answers": [
+                {
+                    "question": "Where did the line start?",
+                    "answer": "the ground floor of the local airport"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the line visit the ground floor of the local airport?",
+                    "score": 0.7661,
+                    "answers": "arriving at the controls|pcomp"
+                },
+                {
+                    "question": "How many floor did the line go up the stairs at the local airport?",
+                    "score": 0.7098,
+                    "answers": "the entire first floor|dobj"
+                },
+                {
+                    "question": "How many people attended the airport in the first quarter of 2018?",
+                    "score": 0.6534,
+                    "answers": "few|amod"
+                }
+            ]
+        },
+        {
+            "claim": "According to data offered by AENA today , change of fortnight, it is expected that for Es Codolar pass  passengers.",
+            "question_answers": [
+                {
+                    "question": "According to data offered by what organization, change of fortnight is expected for Es Codolar pass passengers?",
+                    "answer": "AENA today"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the date of the exchange of passengers for the Es Codolar pass?",
+                    "score": 0.7542,
+                    "answers": "that|mark\tthat|mark\tfor|prep"
+                },
+                {
+                    "question": "What is the name of the website that is linked to the letter from AENA?",
+                    "score": 0.5774,
+                    "answers": "www.diariodeibiza.es|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "To expected is added the strike of air traffic controllers today in France that, for the moment, is provoked in addition to several delays, the cancellation of  flights, two with destination/origin to the country Gaul and  with origin or destination in the other European countries.",
+            "question_answers": [
+                {
+                    "question": "How many flights were cancelled in France due to the strike of air traffic controllers?",
+                    "answer": "two with destination/origin to the country Gaul"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many flights were cancelled due to a strike of air traffic controllers in France?",
+                    "score": 0.7012,
+                    "answers": "  flights , two with destination / origin to the country Gaul and   with origin or destination in the other European countries|dep"
+                },
+                {
+                    "question": "What is the origin of France's air traffic controllers?",
+                    "score": 0.6591,
+                    "answers": "two with destination / origin to the country Gaul and   with origin or destination in the other European countries|appos"
+                }
+            ]
+        },
+        {
+            "claim": "AENA gives explanationsWhen at the beginning of the month it was reported the problem with which the travelers were found having been so late to pass the security control , AENA attributed to the works that are being executed at the local airport and to the coincidence of several flights the long queues that were recorded.",
+            "question_answers": [
+                {
+                    "question": "What was reported at the beginning of the month?",
+                    "answer": "the problem with which the travelers were found having been so late to pass the security control"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did AENA say about the airport?",
+                    "score": 0.6688,
+                    "answers": "the works that are being executed at the local airport|pobj"
+                },
+                {
+                    "question": "What was the cause of the long queues at the local airport?",
+                    "score": 0.6026,
+                    "answers": "having been so late to pass the security control|advcl\tto the coincidence of several flights the long queues that were recorded|conj\tof several flights|prep"
+                },
+                {
+                    "question": "What is AENA?",
+                    "score": 0.5343,
+                    "answers": "on 16/06/2018|prep\tthat|mark\texplanationsWhen|punct\tat the beginning of the month|prep\tthe|det\tof the month|prep\tthe|det\tthe month|pobj\tit|nsubjpass\twas|auxpass\tthe|det\twith which|prep\twhich|pobj\tthe|det\tthe travelers|nsubjpass\twere|auxpass\twith which the travelers were found having been so late to pass the security control|relcl\thaving|aux\tso|advmod\tso late to pass the security control|acomp\tto|aux\tto pass the security control|xcomp\tthe|det\tsecurity|compound\tthe security control|dobj\t,|punct\tat the beginning of the month it was reported the problem with which the travelers were found having been so late to pass the security control , AENA attributed to the works that are being executed at the local airport and to the coincidence of several flights the long queues that were recorded|ROOT\tto the works that are being executed at the local airport and to the coincidence of several flights the long queues that were recorded|prep\tthe|det\tthat|nsubjpass\tare|aux\tbeing|auxpass\tthat are being executed at the local airport|relcl\tat the local airport|prep\tthe|det\tlocal|amod\tthe local airport|pobj\tand|cc\tthe|det\tthe coincidence of several flights|pobj\tseveral|amod\tseveral flights|pobj\tthe|det\tlong|amod\tthe long queues that were recorded|pobj\tthat|nsubjpass\twere|auxpass\tthat were recorded|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "In that monento, to avoid the recurrence of this situation (which has occurred again today ), from AENA stated that it was planned to strengthen the workforce in view of the summer season, but AENA did not need how many people will join the current staff of the security personnel or when.",
+            "question_answers": [
+                {
+                    "question": "When did AENA want to avoid a recurrence of this situation?",
+                    "answer": "today"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were added to the AENA workforce in 2018?",
+                    "score": 0.6539,
+                    "answers": "www.diariodeibiza.es|nsubj\tto avoid the recurrence of this situation|advcl\tthat it was planned to strengthen the workforce in view of the summer season , but AENA did not need how many people will join the current staff of the security personnel or when|ccomp\tthe workforce|dobj\tin view of the summer season|prep\thow many|amod\thow many people|nsubj"
+                },
+                {
+                    "question": "How many people will join the current staff of the AENA staff?",
+                    "score": 0.6538,
+                    "answers": "that|mark\tthat|det\t,|punct\tto|aux\t(|punct\t)|punct\t,|punct\tthat|mark\tto|aux\t,|punct\tcurrent|amod"
+                },
+                {
+                    "question": "What was AENA's plan for the summer season in 2018?",
+                    "score": 0.6403,
+                    "answers": "to strengthen the workforce in view of the summer season|xcomp"
+                },
+                {
+                    "question": "How many security personnel were added to AENA in 2018?",
+                    "score": 0.6308,
+                    "answers": "of the security personnel|prep\tthe security personnel|pobj"
+                }
+            ]
+        }
+    ]
+}

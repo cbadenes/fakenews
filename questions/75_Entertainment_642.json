@@ -1,0 +1,307 @@
+{
+    "id": "75_Entertainment_642",
+    "claim": "With more than twenty melodramas behind them, including international successes such as The usurper (), Real Love () and more recently Because Love Commands (); Fernando Colunga is one of the most successful telenovela galans, but also one of the most reserved in all matters concerning his private life. Every time he finishes filming a project, the Mexican actor moves away completely from the spotlights to the point that everyone, fans and media, we completely lose the track. This has been the case since the recording of the melodrama Pasion y poder, his latest project to date with Televisa, was completed in March last year. During all this time that has not been in telenovela, the occasions on which Colunga has been publicly seen have been very numerous as it is not common for him to attend an event or a red carpet. Where is the unforgettable gallon of I am your owner and, above all, how it looks today at its  years?, many people frequently wonder through social networks. Today, thanks to a photo recently shared by Colombian actor and director Miguel Varoni on Instagram, we can finally answer one of those questions. Catherine Siachoque's husband, who runs the fourth season of the Superseries Lady Steel (Telemundo), met last Sunday in the United States with the Mexican gallant and shared a photo of the evening with his more than  million followers. The snapshot shows the great physical state that still preserves the unforgettable protagonist of the successful melodrama Tomorrow is forever to his  years of age. 'It's good to see Fernando .. he's missed on television!'or'How nice to see my Fer as beautiful as ever, I miss him in the novels ', were some of the hundreds of comments that flooded the publication. And you, too, miss Fernando Colunga on soap operas?",
+    "source": "peopleenespanol.com",
+    "date": "13/11/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "With more than twenty melodramas behind them, including international successes such as The usurper (), Real Love () and more recently Because Love Commands (); Fernando Colunga is one of the most successful telenovela galans, but also one of the most reserved in all matters concerning private life.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the recent melodramas?",
+                    "answer": "Because Love Commands"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What international success has Fernando Colunga had?",
+                    "score": 0.8243,
+                    "answers": "including international successes such as The usurper ( ) , Real Love ( ) and more recently Because Love Commands|prep"
+                },
+                {
+                    "question": "How many melodramas has Fernando Colunga won?",
+                    "score": 0.7166,
+                    "answers": "on 13/11/2017|prep\tFernando|compound"
+                },
+                {
+                    "question": "What are the most successful telenovela galans?",
+                    "score": 0.6624,
+                    "answers": "all matters concerning private life|pobj"
+                },
+                {
+                    "question": "What is the best telenovela galan?",
+                    "score": 0.6372,
+                    "answers": "of the most successful telenovela galans|prep"
+                },
+                {
+                    "question": "What is the definition of melodramas?",
+                    "score": 0.5867,
+                    "answers": "the most reserved in all matters concerning private life|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Every time Fernando Colunga finishes filming a project, Fernando Colunga moves away completely from the spotlights to the point that everyone, fans and media, we completely lose the track.",
+            "question_answers": [
+                {
+                    "question": "What does Fernando Colunga move away from when he finishes filming a project?",
+                    "answer": "spotlights"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Colunga do to finish filming a project?",
+                    "score": 0.7374,
+                    "answers": "Fernando Colunga finishes filming a project|relcl"
+                },
+                {
+                    "question": "What is the relationship between Fernando Colunga and the film industry?",
+                    "score": 0.6052,
+                    "answers": "fans and media|conj"
+                },
+                {
+                    "question": "What is the track of a project?",
+                    "score": 0.5815,
+                    "answers": "a project|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "This has been the case since the recording of the melodrama Pasion y poder, latest project to date with Televisa, was completed in March last year.",
+            "question_answers": [
+                {
+                    "question": "When was Pasion y poder completed?",
+                    "answer": "March"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the melodrama Pasion y poder recorded?",
+                    "score": 0.7134,
+                    "answers": "on 13/11/2017|prep\tthat|mark\thas|aux\tthe|det\tsince|mark\tthe|det\tthe recording of the melodrama Pasion y poder , latest project to date with Televisa ,|nsubjpass\tthe|det\t,|punct\tlatest|amod\tdate|pobj\t,|punct\twas|auxpass\tin March last year|prep\tlast year|npadvmod"
+                },
+                {
+                    "question": "What is the latest project to date with Televisa?",
+                    "score": 0.5831,
+                    "answers": "latest project to date with Televisa|appos"
+                },
+                {
+                    "question": "What is the melodrama pasion y poder?",
+                    "score": 0.5675,
+                    "answers": "the melodrama Pasion y poder , latest project to date with Televisa ,|pobj"
+                },
+                {
+                    "question": "What is Melodrama Pasion y poder?",
+                    "score": 0.5545,
+                    "answers": "This|nsubj"
+                },
+                {
+                    "question": "What is Pasion y poder?",
+                    "score": 0.5321,
+                    "answers": "Pasion|compound"
+                }
+            ]
+        },
+        {
+            "claim": "During all this time that has not been in telenovela, the occasions on which Fernando Colunga has been publicly seen have been very numerous as it is not common for Fernando Colunga to attend an event or a red carpet.",
+            "question_answers": [
+                {
+                    "question": "Why has Fernando Colunga not been publicly seen in telenovela?",
+                    "answer": "it is not common for Fernando Colunga to attend an event or a red carpet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many times has Fernando Colunga been seen in telenovela?",
+                    "score": 0.7635,
+                    "answers": "all this time that has not been in telenovela|pobj\tin telenovela|prep\ttelenovela|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Where is the unforgettable gallon of I am your owner and, above all, how the unforgettable gallon of I am your owner looks today at  years?, many people frequently wonder through social networks.",
+            "question_answers": [
+                {
+                    "question": "What do many people frequently wonder through?",
+                    "answer": "social networks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many gallons of gasoline are in a gallon?",
+                    "score": 0.7452,
+                    "answers": "social networks|pobj"
+                },
+                {
+                    "question": "What are the names of the gallon of I am the owner of a gallon of you gallon?",
+                    "score": 0.7354,
+                    "answers": "frequently|advmod"
+                },
+                {
+                    "question": "What is the average gallon of gasoline per gallon?",
+                    "score": 0.7002,
+                    "answers": "above all|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Today, thanks to a photo recently shared by Colombian actor and director Miguel Varoni on Instagram, we can finally answer one of those questions.",
+            "question_answers": [
+                {
+                    "question": "What Colombian actor and director shared a photo with peopleenespanol.com?",
+                    "answer": "Miguel Varoni"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who shared the photo of Miguel Varoni on Instagram?",
+                    "score": 0.652,
+                    "answers": "thanks to a photo recently shared by Colombian actor and director Miguel Varoni on Instagram|npadvmod"
+                },
+                {
+                    "question": "What did Miguel Varoni do on Instagram?",
+                    "score": 0.6286,
+                    "answers": "peopleenespanol.com reported on 13/11/2017 that Today , thanks to a photo recently shared by Colombian actor and director Miguel Varoni on Instagram , we can finally answer one of those questions|ROOT\tthat|mark\ta|det\tMiguel|compound\ton Instagram|prep\tInstagram|pobj\twe|nsubj\tfinally|advmod\tthose|det"
+                },
+                {
+                    "question": "What questions did Miguel Varoni pose on Instagram?",
+                    "score": 0.6254,
+                    "answers": "one of those questions|dobj\tof those questions|prep\tthose questions|pobj"
+                },
+                {
+                    "question": "Who is Miguel Varoni?",
+                    "score": 0.5512,
+                    "answers": "Colombian actor and director|nmod\tdirector|conj"
+                },
+                {
+                    "question": "What questions can we answer on Instagram?",
+                    "score": 0.5403,
+                    "answers": "that Today , thanks to a photo recently shared by Colombian actor and director Miguel Varoni on Instagram , we can finally answer one of those questions|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Catherine Siachoque's husband, who runs the fourth season of the Superseries Lady Steel (Telemundo), met last Sunday in the United States with Fernando Colunga and shared a photo of the evening with more than  million followers.",
+            "question_answers": [
+                {
+                    "question": "Who did Catherine Siachoque's husband meet with on Sunday?",
+                    "answer": "Fernando Colunga"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many followers does Catherine Siachoque have?",
+                    "score": 0.6264,
+                    "answers": "that Catherine Siachoque 's husband , who runs the fourth season of the Superseries Lady Steel ( Telemundo ) , met last Sunday in the United States with Fernando Colunga and shared a photo of the evening with more than   million followers|ccomp"
+                },
+                {
+                    "question": "What did Catherine Siachoque's husband do with Fernando Colunga?",
+                    "score": 0.5931,
+                    "answers": "the Superseries Lady Steel ( Telemundo )|pobj"
+                },
+                {
+                    "question": "What is the name of the fourth season of the Superseries Lady Steel?",
+                    "score": 0.5859,
+                    "answers": "the fourth season of the Superseries Lady Steel ( Telemundo )|dobj"
+                },
+                {
+                    "question": "Who is Catherine Siachoque's husband?",
+                    "score": 0.5407,
+                    "answers": "Catherine Siachoque 's|poss\tCatherine Siachoque 's husband , who runs the fourth season of the Superseries Lady Steel ( Telemundo ) ,|nsubj"
+                },
+                {
+                    "question": "What was the relationship between Catherine Siachoque and Fernando Colunga?",
+                    "score": 0.5249,
+                    "answers": "Superseries|compound\tlast|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The snapshot shows the great physical state that still preserves the unforgettable protagonist of the successful melodrama Tomorrow is forever to his  years of age.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the physical state of the protagonist of the successful melodrama Tomorrow is forever to his age?",
+                    "score": 0.5286,
+                    "answers": "great|amod\tyears of age|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'It's good to see Fernando .. he's missed on television!'or'How nice to see my Fer as beautiful as ever, I miss him in the novels ', were some of the hundreds of comments that flooded the publication.",
+            "question_answers": [
+                {
+                    "question": "Where did peopleenespanol.com say they miss Fernando?",
+                    "answer": "in the novels"
+                },
+                {
+                    "question": "Where did peopleenespanol.com say they miss Fernando?",
+                    "answer": "in the novels"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the website that reported that Fernando missed on television?",
+                    "score": 0.615,
+                    "answers": "ever|pcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the comments made by people about Fernando Fer in novels?",
+                    "score": 0.6115,
+                    "answers": "the novels|pobj"
+                },
+                {
+                    "question": "How many people missed their Fer in the novels?",
+                    "score": 0.5689,
+                    "answers": "peopleenespanol.com reported on 13/11/2017 that ' It 's good to see Fernando .. he 's missed on television!'or'How nice to see my Fer as beautiful as ever , I miss him in the novels|ccomp"
+                },
+                {
+                    "question": "How many comments were made on the publication in 2017?",
+                    "score": 0.5456,
+                    "answers": "of the hundreds of comments that flooded the publication|prep\tthat flooded the publication|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "And you, too, miss Fernando Colunga on soap operas?.",
+            "question_answers": [
+                {
+                    "question": "Who reported that you miss Fernando Colunga on soap operas?",
+                    "answer": "peopleenespanol.com"
+                },
+                {
+                    "question": "Who did peopleenespanol.com say you miss on soap operas?",
+                    "answer": "Fernando Colunga"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of soap operas has Fernando Colunga been in?",
+                    "score": 0.8753,
+                    "answers": "soap operas|pobj"
+                },
+                {
+                    "question": "What does Colunga miss about soap operas?",
+                    "score": 0.8529,
+                    "answers": "that And you , too , miss Fernando Colunga on soap operas|ccomp"
+                },
+                {
+                    "question": "What does it mean to miss Fernando Colunga on soap operas?",
+                    "score": 0.8208,
+                    "answers": "you|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Fernando Colunga and soap operas?",
+                    "score": 0.7376,
+                    "answers": "peopleenespanol.com reported on 13/11/2017 that And you , too , miss Fernando Colunga on soap operas ?|ROOT\tthat|mark\tAnd|cc\t,|punct\ttoo|advmod\t,|punct\tFernando|compound\ton soap operas|prep\tsoap|compound\t?|punct"
+                },
+                {
+                    "question": "What is the source of evidence of Colunga's role in soap operas?",
+                    "score": 0.7197,
+                    "answers": "on 13/11/2017|prep"
+                }
+            ]
+        }
+    ]
+}

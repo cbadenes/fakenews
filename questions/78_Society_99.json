@@ -1,0 +1,498 @@
+{
+    "id": "78_Society_99",
+    "claim": "They may seem harmless but portable pools and inflatables are far more dangerous than many parents think and many children drown in them. That is the conclusion of a new study conducted at the Center for Injury Research and Policy at the National Children's Hospital in Ohio, United States. According to scientists, a child drowns in one of these pools every five days during the summer in that country. And because they have a low cost and are easy to use, they have become an increasingly common entertainment in many American homes. However, says the study published in the journal Pediatrics, many parents are not aware that these pools are much more dangerous than they think. Researchers found that most cases of drowning in portable and inflatable pools involve children under the age of  and occur in their own courtyards or gardens during the summer months. 'Because portable pools are usually small, inexpensive and easy to use, parents often don't think about the potential dangers they present,'says Dr. Gary Smith, who led the study. 'It only takes two minutes and a few inches of water to drown a child'. 'That is why it is important for parents to realize that portable swimming pools are as dangerous as land-level swimming pools ', he adds. Monitoring loopsDr. Smith and his team investigated the circumstances of all drowning deaths in portable and inflatable pools of children under the age of  years from  to . The results showed that % of the victims were under  years of age, most of the deaths were due to 'short periods of time in supervision 'and others resulted when children 'found ways to overcome the barriers that had been put in place to keep them safe'. 'More than % of children in this study were being supervised by an adult when the immersion event occurred 'say researchers. 'In % of cases, a brief interruption in supervision, such as socializing with neighbors, answering the phone or carrying out other tasks, was enough for the immersion event to happen ', they add. According to researchers, this shows that it is not enough for an adult to supervise children in the pool, but it is necessary to implement 'multiple levels of supervision 'to avoid drowning. This includes measures such as preventing children from having access to the pool when the adult is not present (just a few minutes), keeping children safe when they are inside the pool, and being prepared to respond to the emergency if an immersion injury occurs. Researchers also found 'lack of accessibility 'to drowning prevention tools, such as security fences to isolate swimming pools, security decks, portable stairs and alarms designed specifically for these types of pools. Many of these accessories, authors say, are too expensive or simply not available. 'Manufacturers of portable and inflatable pools should develop more effective and less expensive tools to help parents reduce the drowning hazards associated with these products 'says Dr. Smith. As experts point out, adult supervision is essential, but the key to preventing these events is awareness that it is enough to turn around or distract yourself for a child to drown in a pool. I'm sorry.",
+    "source": "www.bbc.com",
+    "date": "21/06/2011",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "They may seem harmless but They are far more dangerous than many parents think and many children drown in They .",
+            "question_answers": [
+                {
+                    "question": "Who reported on the dangers of drowning in They on 21/06/2011?",
+                    "answer": "www.bbc.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the risks of drowning children?",
+                    "score": 0.7715,
+                    "answers": "www.bbc.com|nsubj\ton 21/06/2011|prep\tmay|aux\tharmless|oprd\tThey are far more dangerous than many parents think and many children drown in They|conj\tfar|advmod\tfar more|advmod\tfar more dangerous than many parents think|acomp\tthan|mark\tmany|amod\tmany parents|nsubj\tthan many parents think|advcl\tand|cc\tmany|amod\tmany children|nsubj\tmany children drown in They|conj"
+                },
+                {
+                    "question": "What are the dangers of drowning children?",
+                    "score": 0.7573,
+                    "answers": "www.bbc.com reported on 21/06/2011 that They may seem harmless but They are far more dangerous than many parents think and many children drown in They|ROOT\tthat|mark\tThey|nsubj\tthat They may seem harmless but They are far more dangerous than many parents think and many children drown in They|ccomp\tbut|cc\tThey|nsubj\tin They|prep\tThey|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "That is the conclusion of children a new study conducted at the Center for Injury Research and Policy at the National Children's Hospital in Ohio, United States .",
+            "question_answers": [
+                {
+                    "question": "Where was the study conducted?",
+                    "answer": "Center for Injury Research and Policy at the National Children's Hospital"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the conclusion of children in a study conducted at the National Children's Hospital in Ohio, United States?",
+                    "score": 0.7718,
+                    "answers": "the conclusion of children|attr"
+                }
+            ]
+        },
+        {
+            "claim": "According to scientists, a child drowns in the immersion event every five days researchers summer in United States .",
+            "question_answers": [
+                {
+                    "question": "How many days does a child drown in the immersion event?",
+                    "answer": "every five days"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many children drown in the immersion event every five days researchers summer in the United States?",
+                    "score": 0.7413,
+                    "answers": "on 21/06/2011|prep\tAccording to scientists|prep\tto scientists|prep\ta child|nsubj\tthat According to scientists , a child drowns in the immersion event every five days researchers summer in United States|ccomp\tevery five days researchers summer|npadvmod\tresearchers summer|appos\tin United States|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And because They have a low cost and are easy to use, They have become an increasingly common entertainment in many American homes.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that bbc televisions became more popular?",
+                    "answer": "21/06/2011"
+                },
+                {
+                    "question": "What is one of the most common uses of electronic devices in American homes?",
+                    "answer": "entertainment"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many American homes have low cost and easy to use?",
+                    "score": 0.794,
+                    "answers": "increasingly|advmod\tin many American homes|prep\tmany American homes|pobj"
+                },
+                {
+                    "question": "What is the average cost of an American home?",
+                    "score": 0.7228,
+                    "answers": "a low cost|dobj"
+                },
+                {
+                    "question": "What is the most popular type of entertainment in American homes?",
+                    "score": 0.7134,
+                    "answers": "an increasingly common entertainment|attr"
+                }
+            ]
+        },
+        {
+            "claim": "the immersion event a new study conducted at the Center for Injury Research and Policy at the National Children's Hospital in Ohio, United States , many parents are not aware that They are much more dangerous than many parents think.",
+            "question_answers": [
+                {
+                    "question": "Where was the new study conducted?",
+                    "answer": "Center for Injury Research and Policy at the National Children's Hospital in Ohio, United States"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many parents think immersion events are dangerous?",
+                    "score": 0.7566,
+                    "answers": "many parents|nsubj\tthat the immersion event a new study conducted at the Center for Injury Research and Policy at the National Children 's Hospital in Ohio , United States , many parents are not aware that They are much more dangerous than many parents think|ccomp\tmany parents|nsubj\tthan many parents think|advcl"
+                },
+                {
+                    "question": "What are the risks of immersion events in Ohio?",
+                    "score": 0.7478,
+                    "answers": "that They are much more dangerous than many parents think|ccomp"
+                },
+                {
+                    "question": "What was the study conducted at the National Children's Hospital in Ohio?",
+                    "score": 0.6806,
+                    "answers": "www.bbc.com reported on 21/06/2011 that the immersion event a new study conducted at the Center for Injury Research and Policy at the National Children 's Hospital in Ohio , United States , many parents are not aware that They are much more dangerous than many parents think|ROOT\tthat|mark\tthe immersion event a new study conducted at the Center for Injury Research and Policy at the National Children 's Hospital in Ohio , United States|dep\tInjury|compound\tPolicy|conj\t's|case\tin Ohio , United States|prep\tmany|amod\tthat|mark\tmuch more dangerous than many parents think|acomp\tmany|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Researchers found that most cases 'multiple levels of supervision ' pools involve 'multiple levels of supervision ' children under the age of   and occur in own courtyards or gardens the pool summer months.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many levels of supervision do children under the age of 18 have in swimming pools?",
+                    "score": 0.8135,
+                    "answers": "occur in own courtyards or gardens the pool summer months|advcl"
+                },
+                {
+                    "question": "What is the age of supervision in swimming pools?",
+                    "score": 0.733,
+                    "answers": "the age of|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Because portable pools are usually small, children and easy children use, parents the pool don't think about the potential dangers portable pools present,'says Dr. Gary Smith, who led the study .",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that 'parents the pool don't think about the potential dangers portable pools present'?",
+                    "answer": "21/06/2011"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Dr. Gary Smith say about the dangers of portable pools?",
+                    "score": 0.8249,
+                    "answers": "who led the study|relcl"
+                },
+                {
+                    "question": "What are the dangers of using portable pools?",
+                    "score": 0.8139,
+                    "answers": "that|mark\t'|punct\tBecause|mark\tportable pools|nsubj\tusually|advmod\t,|punct\tchildren and easy children use|conj\tand|cc\teasy|amod\teasy children|conj\tuse|conj\t,|punct\tthe|det\tthe pool|appos\tdo|aux\tn't|neg\tthe|det\tportable pools|nsubj\tportable pools present,'says Dr. Gary Smith , who led the study|relcl\t,|punct\twho|nsubj\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'It only takes two minutes and a few drowning prevention tools, such as security fences to isolate swimming pools, security decks, portable stairs and alarms designed specifically for these types of pools .",
+            "question_answers": [
+                {
+                    "question": "How long does it take to isolate swimming pools?",
+                    "answer": "two minutes"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long does it take to prevent drowning in swimming pools?",
+                    "score": 0.8408,
+                    "answers": "drowning|compound\tdrowning prevention|compound"
+                }
+            ]
+        },
+        {
+            "claim": "drowning prevention tools, such as security fences to isolate swimming pools, security decks, portable stairs and alarms designed specifically for these types of pools adds.",
+            "question_answers": [
+                {
+                    "question": "What are some drowning prevention tools?",
+                    "answer": "security fences to isolate swimming pools, security decks, portable stairs and alarms"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many drowning prevention tools are there?",
+                    "score": 0.8503,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/06/2011 that drowning prevention tools , such as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools adds|ROOT\ton 21/06/2011|prep\tdrowning|compound"
+                },
+                {
+                    "question": "What are the drowning prevention tools for swimming pools?",
+                    "score": 0.849,
+                    "answers": "drowning prevention tools , such as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|nsubj"
+                },
+                {
+                    "question": "What type of security fences are used for swimming pools?",
+                    "score": 0.8407,
+                    "answers": "such as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|prep\tportable|amod\tdesigned specifically for these types of pools|acl"
+                },
+                {
+                    "question": "What type of detectors are used in swimming pools?",
+                    "score": 0.8259,
+                    "answers": "of pools|prep"
+                },
+                {
+                    "question": "What is a drowning prevention tool?",
+                    "score": 0.8061,
+                    "answers": "drowning prevention|compound\tthat drowning prevention tools , such as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools adds|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Monitoring drowning prevention tools, such as security fences to isolate swimming pools, security decks, portable stairs and alarms designed specifically for these types of pools .",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report on drowning prevention tools?",
+                    "answer": "21/06/2011"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of monitoring prevention tools are available for swimming pools?",
+                    "score": 0.7957,
+                    "answers": "portable|amod"
+                },
+                {
+                    "question": "What is the purpose of monitoring drowning prevention tools?",
+                    "score": 0.7541,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/06/2011 that Monitoring drowning prevention tools , such as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|ROOT\ton 21/06/2011|prep\tthat|mark\tthat Monitoring drowning prevention tools , such as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|ccomp\tdrowning|compound\tdrowning prevention|compound\tdrowning prevention tools , such as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|dobj\t,|punct\tsuch|amod\tsuch as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|prep\tsecurity|compound\tsecurity fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|pobj\tto|aux\tto isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|relcl\tswimming|compound\tswimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|dobj\t,|punct\tsecurity|compound\tsecurity decks , portable stairs and alarms designed specifically for these types of pools|conj\t,|punct\tportable stairs and alarms designed specifically for these types of pools|conj\tand|cc\talarms designed specifically for these types of pools|conj\tdesigned specifically for these types of pools|acl\tspecifically|advmod\tspecifically for these types of pools|prep\tthese|det\tthese types of pools|pobj\tof pools|prep\tpools|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Dr. Gary Smith, who led the study and team investigated the circumstances of all drowning deaths in portable and inflatable pools of children under the age of  years from  to .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Dr. Gary Smith do to investigate the circumstances of all drowning deaths in inflatable pools?",
+                    "score": 0.7067,
+                    "answers": "who|nsubj"
+                },
+                {
+                    "question": "How many drowning deaths are there per year?",
+                    "score": 0.7008,
+                    "answers": "of all drowning deaths in portable and inflatable pools of children under the age of|prep\tall drowning deaths in portable and inflatable pools of children under the age of|pobj"
+                },
+                {
+                    "question": "What was Dr. Gary Smith's role in investigating drowning deaths?",
+                    "score": 0.6794,
+                    "answers": "on 21/06/2011|prep"
+                },
+                {
+                    "question": "What is Dr. Gary Smith's research on drowning deaths in portable and inflatable pools?",
+                    "score": 0.6711,
+                    "answers": "of children under the age of|prep\tchildren under the age of|pobj\t  years from|dep"
+                }
+            ]
+        },
+        {
+            "claim": "The results showed that % of the victims were under  years of age, most of the deaths were due to 'short periods of time in supervision 'and others resulted when children 'found ways to overcome the barriers that had been put in place to keep them safe'.",
+            "question_answers": [
+                {
+                    "question": "What were most of the deaths due to?",
+                    "answer": "'short periods of time in supervision"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of deaths were due to short periods of time in supervision?",
+                    "score": 0.7929,
+                    "answers": "years of age|dobj\tof age|prep\tage|pobj"
+                },
+                {
+                    "question": "What barriers were put in place to keep children safe?",
+                    "score": 0.7588,
+                    "answers": "ways to overcome the barriers that had been put in place to keep them safe|dobj\tto overcome the barriers that had been put in place to keep them safe|relcl\tthe barriers that had been put in place to keep them safe|dobj\tthat had been put in place to keep them safe|relcl"
+                },
+                {
+                    "question": "How many deaths occurred in the United States in the year 2011?",
+                    "score": 0.7327,
+                    "answers": "that|mark\tThe|det\tThe results|nsubj\tthat|mark\tthe|det\t,|punct\tthe|det\tmost of the deaths were due to ' short periods of time in supervision ' and others resulted when children ' found ways to overcome the barriers that had been put in place to keep them safe '|conj\t'|punct\t'|punct\tand|cc\tothers|nsubj\twhen|advmod\t'|punct\tto|aux\tthe|det\tthat|nsubjpass\thad|aux\tbeen|auxpass\tin place|prep\tplace|pobj\tto|aux\tthem|dobj\tsafe|oprd\t'|punct"
+                },
+                {
+                    "question": "How many children were under the age of 18 in Florida in 2011?",
+                    "score": 0.6866,
+                    "answers": "that The results showed that % of the victims were under|ccomp\tthat % of the victims were under|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'More than % of children in this study were being supervised by an adult when the immersion event occurred 'say researchers.",
+            "question_answers": [
+                {
+                    "question": "What percentage of children were being supervised by an adult when the immersion event occurred?",
+                    "answer": "% of children in this study were being supervised by an adult when the immersion event occurred"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many children were being supervised by an adult when the immersion event occurred?",
+                    "score": 0.8283,
+                    "answers": "when the immersion event occurred|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "'In % of cases, a brief interruption in supervision, such as socializing with neighbors, answering the phone or carrying out other tasks, was enough for the immersion event to happen ', they add.",
+            "question_answers": [
+                {
+                    "question": "How did the bbc report that a brief interruption in supervision was enough for the immersion event to happen?",
+                    "answer": "enough for the immersion event to happen"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many interruptions were there during the immersion event?",
+                    "score": 0.707,
+                    "answers": "www.bbc.com|nsubj\ton 21/06/2011|prep\tbrief|amod"
+                },
+                {
+                    "question": "How many hours of supervision did the immersion event require?",
+                    "score": 0.7061,
+                    "answers": "in supervision|prep\tother tasks|dobj"
+                },
+                {
+                    "question": "How long did it take for the immersion event to happen?",
+                    "score": 0.7055,
+                    "answers": "enough for the immersion event to happen|acomp\tfor the immersion event to happen|advcl"
+                },
+                {
+                    "question": "What is the average amount of supervision for an immersion event?",
+                    "score": 0.7039,
+                    "answers": "supervision|pobj\tcarrying out other tasks|conj"
+                },
+                {
+                    "question": "What is the relationship between supervision and contact with neighbors?",
+                    "score": 0.5869,
+                    "answers": "neighbors|pobj\tto|aux"
+                }
+            ]
+        },
+        {
+            "claim": "According to researchers, this shows that it is not enough for an adult to supervise children in the pool, but it is necessary to implement 'multiple levels of supervision 'to avoid drowning.",
+            "question_answers": [
+                {
+                    "question": "What is it necessary to implement to avoid drowning?",
+                    "answer": "'multiple levels of supervision"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is it necessary to implement multiple levels of supervision to avoid drowning?",
+                    "score": 0.8554,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "How many levels of supervision are needed to prevent drowning in a swimming pool?",
+                    "score": 0.8267,
+                    "answers": "the pool|pobj"
+                },
+                {
+                    "question": "What is the purpose of supervision for children in a pool?",
+                    "score": 0.7479,
+                    "answers": "According to researchers|prep"
+                }
+            ]
+        },
+        {
+            "claim": "This includes measures such as preventing children from having access to the pool when the adult is not present (just a few minutes), keeping children safe when they are inside the pool, and being prepared to respond to the emergency if an immersion injury occurs.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that the pool was closed?",
+                    "answer": "21/06/2011"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures are taken to keep children safe when they are inside a swimming pool?",
+                    "score": 0.8397,
+                    "answers": "on 21/06/2011|prep\twhen the adult is not present ( just a few minutes|advcl"
+                },
+                {
+                    "question": "What steps are taken to respond to an emergency if an immersion injury occurs?",
+                    "score": 0.7849,
+                    "answers": "to respond to the emergency if an immersion injury occurs|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Researchers also found 'lack of accessibility 'to drowning prevention tools, such as security fences to isolate swimming pools, security decks, portable stairs and alarms designed specifically for these types of pools.",
+            "question_answers": [
+                {
+                    "question": "What did researchers find about drowning prevention tools?",
+                    "answer": "'lack of accessibility"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the study find about swimming pools?",
+                    "score": 0.791,
+                    "answers": "on 21/06/2011|prep"
+                },
+                {
+                    "question": "What type of security fences are used for swimming pools?",
+                    "score": 0.7884,
+                    "answers": "swimming|compound\tswimming pools|dobj\tportable|amod\tdesigned specifically for these types of pools|acl\tspecifically for these types of pools|prep"
+                },
+                {
+                    "question": "How many drowning prevention tools are there?",
+                    "score": 0.7644,
+                    "answers": "drowning prevention tools , such as security fences to isolate swimming pools , security decks , portable stairs and alarms designed specifically for these types of pools|pobj"
+                },
+                {
+                    "question": "What is the use of swimming pools for drowning prevention?",
+                    "score": 0.7597,
+                    "answers": "drowning prevention|compound"
+                },
+                {
+                    "question": "How many swimming pools are there?",
+                    "score": 0.7583,
+                    "answers": "of pools|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Many of these accessories, authors say, are too expensive or simply not available.",
+            "question_answers": [
+                {
+                    "question": "What did the authors say about many of the accessories?",
+                    "answer": "too expensive"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why are so many of these accessories too expensive or not available?",
+                    "score": 0.9103,
+                    "answers": "www.bbc.com reported on 21/06/2011 that Many of these accessories , authors say , are too expensive or simply not available|ROOT\tthat|mark\tthese|det\t,|punct\t,|punct\tthat Many of these accessories , authors say , are too expensive or simply not available|ccomp\ttoo expensive or simply not available|acomp\tor|cc\tsimply|advmod\tsimply not available|conj"
+                },
+                {
+                    "question": "What is the average price of an accessory?",
+                    "score": 0.8448,
+                    "answers": "on 21/06/2011|prep\tMany of these accessories|nsubj\tof these accessories|prep\tthese accessories|pobj\tauthors|nsubj\t, authors say ,|parataxis\ttoo|advmod\tnot|neg"
+                }
+            ]
+        },
+        {
+            "claim": "'Manufacturers of portable and inflatable pools should develop more effective and less expensive tools to help parents reduce the drowning hazards associated with these products 'says Dr. Smith.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com report that manufacturers of portable and inflatable pools should develop?",
+                    "answer": "more effective and less expensive tools to help parents reduce the drowning hazards associated with these products"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Dr. Smith say about the use of inflatable pools?",
+                    "score": 0.7698,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 21/06/2011 that ' Manufacturers of portable and inflatable pools should develop more effective and less expensive tools to help parents reduce the drowning hazards associated with these products ' says Dr. Smith|ROOT\ton 21/06/2011|prep\tof portable and inflatable pools|prep\tportable and inflatable pools|pobj\tManufacturers of portable and inflatable pools should develop more effective and less expensive tools to help parents reduce the drowning hazards associated with these products|ccomp\tmore effective and less expensive|amod\tless expensive|conj\tto help parents reduce the drowning hazards associated with these products|relcl\tparents|nsubj\tparents reduce the drowning hazards associated with these products|ccomp\tassociated with these products|acl\twith these products|prep\tthese products|pobj\tthat ' Manufacturers of portable and inflatable pools should develop more effective and less expensive tools to help parents reduce the drowning hazards associated with these products ' says Dr. Smith|ccomp\tDr. Smith|nsubj"
+                },
+                {
+                    "question": "What are the drowning hazards associated with inflatable pools?",
+                    "score": 0.7667,
+                    "answers": "the drowning hazards associated with these products|dobj"
+                },
+                {
+                    "question": "What is Dr. Smith's position on inflatable pools?",
+                    "score": 0.7108,
+                    "answers": "Manufacturers of portable and inflatable pools|nsubj\tportable and inflatable|amod\tinflatable|conj"
+                }
+            ]
+        },
+        {
+            "claim": "As experts point out, adult supervision is essential, but the key to preventing these events is awareness that it is enough to turn around or distract yourself for a child to drown in a pool.",
+            "question_answers": [
+                {
+                    "question": "What is the key to preventing drownings?",
+                    "answer": "awareness that it is enough to turn around or distract yourself for a child to drown"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the key to preventing child drowning in a pool?",
+                    "score": 0.7805,
+                    "answers": "awareness that it is enough to turn around or distract yourself for a child to drown in a pool|attr\ta child|nsubj"
+                },
+                {
+                    "question": "What are the safety standards for swimming in a pool?",
+                    "score": 0.7505,
+                    "answers": "for a child to drown in a pool|advcl"
+                },
+                {
+                    "question": "What should be done to prevent these events in a pool?",
+                    "score": 0.7464,
+                    "answers": "in a pool|prep\ta pool|pobj"
+                },
+                {
+                    "question": "What is the importance of adult supervision?",
+                    "score": 0.7085,
+                    "answers": "adult supervision|nsubj"
+                }
+            ]
+        }
+    ]
+}

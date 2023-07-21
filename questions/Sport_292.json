@@ -1,0 +1,447 @@
+{
+    "id": "Sport_292",
+    "claim": "Sad news for Club America fans, as no one expected the legendary team to be sold, but it finally happened. 'I know it's hard for club followers, but it was inevitable ', said Bernardo Gomez, Vice President of Televisa at a press conference. 'Because of the restructuring of our company, we had no choice. As of September, all our channels will become cultural, and there will be no place for football between our programming of symphonic concerts, ballet, opera and reviews of artistic exhibitions'. Although the buyer was not revealed, El was able to learn that it was Don Servando Esparragoza Carrillo, also known as 'El Asparago 'or 'Z- ', a humble agricultural and livestock entrepreneur, owner of the ranch 'Las Pitayas ', in the northern part of the Golden Triangle. This reporter moved to Culiacán, Sinaloa, to interview Mr. Esparragoza, who said that buying America was like a dream:'When I was a plebe I went to America, and all my friends mocked. Now I'm big and I already own America. Pity that all the batons who mocked me are already cold ', he said. Mr. Esparragoza, who dresses like a peasantshambre, white shirt, crocodile boots, dark glasses, gold chains, and ivory gunclaims that he is already building a stadium for the Eagles.'I'm doing it in La Mojonera, here in Culiacan, and it'll be called Mojonera Stadium. He will be to every mother, verdah of God ', revealed. On the other hand, the businessman still does not decide if he will continue to call the team 'Eagles 'or he will look for another mote: 'I thought about leaving him Eagles, but I also thought about Hawks, because hawks are very useful, bato. Although I can also combine Eagles with Culiacan to make them the Culiáguilas'. After the interview, Don Esparragoza kindly offered to take us to the airport:'Here my boys can give you a lift.. Tell me, ride'. Meanwhile, in the capital of the country, there are already about  a thousand fans who chained themselves to the Aztec Stadium and have declared themselves on hunger strike until Televisa cancels the transaction. We'll keep reporting. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "28/06/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Sad news for Club America fans, as no one expected Club America to be sold , but sold finally happened.",
+            "question_answers": [
+                {
+                    "question": "What was the sad news for Club America fans?",
+                    "answer": "no one expected Club America to be sold"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Club America fans were sold in 2017?",
+                    "score": 0.8462,
+                    "answers": "that Sad news for Club America fans , as no one expected Club America to be sold , but sold finally happened|dobj\tsold|nsubj\tsold finally happened|conj"
+                },
+                {
+                    "question": "What did the website \"eldizque.com\" say about Club America being sold?",
+                    "score": 0.8215,
+                    "answers": "www.eldizque.com reported on 28/06/2017 that Sad news for Club America fans , as no one expected Club America to be sold , but sold finally happened|ROOT"
+                },
+                {
+                    "question": "What is the relationship between Club America and Club America?",
+                    "score": 0.7785,
+                    "answers": "that|mark\tSad|amod\tClub|compound\t,|punct\tas|mark\tno|det\tno one|nsubj\tClub|compound\t,|punct\tbut|cc\tfinally|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "'I know it's hard for club followers, but sold was inevitable ', said I at a press conference.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com say about selling?",
+                    "answer": "inevitable"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many followers does the club have?",
+                    "score": 0.8339,
+                    "answers": "www.eldizque.com reported on 28/06/2017 that ' I know it 's hard for club followers , but sold was inevitable|ccomp\ton 28/06/2017|prep\t28/06/2017|pobj\tthat|mark\t'|punct\tI|nsubj\tthat ' I know it 's hard for club followers , but sold was inevitable|ccomp\tit|nsubj\tit 's hard for club followers|ccomp\thard|acomp\tfor club followers|prep\tclub|compound\tclub followers|pobj\t,|punct\tbut|cc\tsold|nsubj\tsold was inevitable|conj\tinevitable|acomp\t'|punct\t,|punct\twww.eldizque.com reported on 28/06/2017 that ' I know it 's hard for club followers , but sold was inevitable ' , said I at a press conference|ROOT\tI|nsubj\tat a press conference|prep\ta|det\tpress|compound"
+                },
+                {
+                    "question": "How many followers doesldizque.com have?",
+                    "score": 0.8242,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What was the purpose of the press conference?",
+                    "score": 0.7257,
+                    "answers": "a press conference|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Because of the restructuring of Televisa , Televisa had no choice.",
+            "question_answers": [
+                {
+                    "question": "What company was restructured?",
+                    "answer": "Televisa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Televisa do after it was restructuring?",
+                    "score": 0.8706,
+                    "answers": "that ' Because of the restructuring of Televisa , Televisa had no choice|ccomp"
+                },
+                {
+                    "question": "What was Televisa's position on the restructuring in 2017?",
+                    "score": 0.8072,
+                    "answers": "on 28/06/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "As of September, all channels will become cultural, and there will be no place for football between programming of symphonic concerts, ballet, opera and reviews of artistic exhibitions'.",
+            "question_answers": [
+                {
+                    "question": "Along with ballet, opera, and reviews of artistic exhibitions, what type of concerts will no longer be shown on cultural channels?",
+                    "answer": "symphonic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many channels were there for football in September 2017?",
+                    "score": 0.7312,
+                    "answers": "www.eldizque.com reported on 28/06/2017 that As of September , all channels will become cultural , and there will be no place for football between programming of symphonic concerts , ballet , opera and reviews of artistic exhibitions '|ROOT\tthat As of September , all channels will become cultural , and there will be no place for football between programming of symphonic concerts , ballet , opera and reviews of artistic exhibitions '|ccomp"
+                },
+                {
+                    "question": "What is the sport of football?",
+                    "score": 0.6951,
+                    "answers": "for football|prep\tfootball|pobj"
+                },
+                {
+                    "question": "What is the history of football in the USA?",
+                    "score": 0.6937,
+                    "answers": "programming of symphonic concerts , ballet , opera and reviews of artistic exhibitions '|pobj\tof symphonic concerts , ballet , opera and reviews of artistic exhibitions '|prep\tsymphonic concerts , ballet , opera and reviews of artistic exhibitions '|pobj\tballet , opera and reviews of artistic exhibitions '|conj\topera and reviews of artistic exhibitions '|conj\tof artistic exhibitions '|prep"
+                },
+                {
+                    "question": "What is the purpose of football?",
+                    "score": 0.6797,
+                    "answers": "no place for football between programming of symphonic concerts , ballet , opera and reviews of artistic exhibitions '|attr\tbetween programming of symphonic concerts , ballet , opera and reviews of artistic exhibitions '|prep"
+                },
+                {
+                    "question": "What is the relationship between football and symphonic concerts?",
+                    "score": 0.6753,
+                    "answers": "symphonic|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Although the buyer was not revealed, El was able to learn that the buyer was Don Servando Esparragoza Carrillo, also known as 'El Asparago 'or 'Z- ', a humble agricultural and livestock entrepreneur, owner of the ranch 'Las Pitayas ', in the northern part of the Golden Triangle.",
+            "question_answers": [
+                {
+                    "question": "What ranch did Don Servando Esparragoza Carrillo own?",
+                    "answer": "'Las Pitayas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who owns the Ranch Las Pitayas?",
+                    "score": 0.7445,
+                    "answers": "owner of the ranch ' Las Pitayas ' , in the northern part of the Golden Triangle|appos"
+                },
+                {
+                    "question": "What did Don Servando Esparragoza Carrillo do for the ranch?",
+                    "score": 0.7411,
+                    "answers": "agricultural and livestock|amod"
+                },
+                {
+                    "question": "Who was the owner of the ranch Las Pitayas?",
+                    "score": 0.6682,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 28/06/2017 that Although the buyer was not revealed , El was able to learn that the buyer was Don Servando Esparragoza Carrillo , also known as ' El Asparago ' or ' Z- ' , a humble agricultural and livestock entrepreneur , owner of the ranch ' Las Pitayas ' , in the northern part of the Golden Triangle|ROOT\tthat|mark\tAlthough|mark\tthe|det\twas|auxpass\tnot|neg\t,|punct\tthat Although the buyer was not revealed , El was able to learn that the buyer was Don Servando Esparragoza Carrillo , also known as ' El Asparago ' or ' Z- ' , a humble agricultural and livestock entrepreneur , owner of the ranch ' Las Pitayas ' , in the northern part of the Golden Triangle|ccomp\table to learn that the buyer was Don Servando Esparragoza Carrillo , also known as ' El Asparago ' or ' Z- ' , a humble agricultural and livestock entrepreneur , owner of the ranch ' Las Pitayas ' , in the northern part of the Golden Triangle|acomp\tto|aux\tthat|mark\tthe|det\t,|punct\talso|advmod\tor|cc\t,|punct\ta|det\tand|cc\t,|punct\tthe|det\tLas|compound\t,|punct\tthe|det\tthe|det\tGolden|compound"
+                },
+                {
+                    "question": "Who is Don Servando Esparragoza Carrillo?",
+                    "score": 0.6262,
+                    "answers": "to learn that the buyer was Don Servando Esparragoza Carrillo , also known as ' El Asparago ' or ' Z- ' , a humble agricultural and livestock entrepreneur , owner of the ranch ' Las Pitayas ' , in the northern part of the Golden Triangle|xcomp\tthat the buyer was Don Servando Esparragoza Carrillo , also known as ' El Asparago ' or ' Z- ' , a humble agricultural and livestock entrepreneur , owner of the ranch ' Las Pitayas ' , in the northern part of the Golden Triangle|ccomp\tDon|compound\tServando|compound\tEsparragoza|compound\tDon Servando Esparragoza Carrillo , also known as ' El Asparago ' or ' Z- ' , a humble agricultural and livestock entrepreneur , owner of the ranch ' Las Pitayas ' , in the northern part of the Golden Triangle|attr\ta humble agricultural and livestock entrepreneur , owner of the ranch ' Las Pitayas ' , in the northern part of the Golden Triangle|appos"
+                },
+                {
+                    "question": "What is the relationship between El Asparago and Z-Z-Carrillo?",
+                    "score": 0.6131,
+                    "answers": "as ' El Asparago ' or ' Z- '|prep"
+                }
+            ]
+        },
+        {
+            "claim": "El moved to Culiacán, Sinaloa , to interview Mr. Esparragoza, who said that buying Club America was like a dream:'When the buyer was a plebe the buyer went to Club America , and all friends mocked.",
+            "question_answers": [
+                {
+                    "question": "Where did El move to to interview Mr. Esparragoza?",
+                    "answer": "Culiacán, Sinaloa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did El move to Sinaloa?",
+                    "score": 0.8726,
+                    "answers": "Culiacán , Sinaloa|pobj"
+                },
+                {
+                    "question": "What did El say about buying Club America?",
+                    "score": 0.8523,
+                    "answers": "www.eldizque.com|nsubj\tMr.|compound\tClub|compound\tthat buying Club America was like a dream:'When|ccomp\tlike a dream:'When|prep\ta dream:'When|pobj\tthe buyer was a plebe|ccomp\tClub|compound"
+                },
+                {
+                    "question": "What did El's friends say about the purchase of Club America?",
+                    "score": 0.8419,
+                    "answers": "all friends mocked|conj"
+                },
+                {
+                    "question": "What was the relationship between El and Club America?",
+                    "score": 0.7621,
+                    "answers": "to interview Mr. Esparragoza , who said that buying Club America was like a dream:'When the buyer was a plebe the buyer went to Club America , and all friends mocked|advcl\tMr. Esparragoza , who said that buying Club America was like a dream:'When the buyer was a plebe the buyer went to Club America , and all friends mocked|dobj\twho said that buying Club America was like a dream:'When the buyer was a plebe the buyer went to Club America , and all friends mocked|relcl\tthe buyer went to Club America , and all friends mocked|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Now the buyer 'm big and the buyer already own Club America .",
+            "question_answers": [
+                {
+                    "question": "Who owns Club America?",
+                    "answer": "the buyer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who owns Club America?",
+                    "score": 0.8555,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 28/06/2017 that Now the buyer ' m big and the buyer already own Club America|ROOT\ton 28/06/2017|prep\tthat|mark\tNow|advmod\tthe|det\tthe buyer|nsubj\tthat Now the buyer ' m big and the buyer already own Club America|ccomp\tbig|acomp\tand|cc\tthe|det\tthe buyer|nsubj\talready|advmod\tthe buyer already own Club America|conj\tClub|compound"
+                },
+                {
+                    "question": "What is Club America?",
+                    "score": 0.7682,
+                    "answers": "m big|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Pity that all the batons who mocked the buyer are already cold ', the buyer said.",
+            "question_answers": [
+                {
+                    "question": "How did the buyer feel about the batons?",
+                    "answer": "all the batons who mocked the buyer are already cold"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who mocked the buyer?",
+                    "score": 0.8129,
+                    "answers": "all the batons who mocked the buyer|nsubj\twho mocked the buyer|relcl"
+                },
+                {
+                    "question": "How many batons did the seller mocked the buyer?",
+                    "score": 0.7728,
+                    "answers": "www.eldizque.com reported on 28/06/2017 that Pity that all the batons who mocked the buyer are already cold ' , the buyer said|ROOT\tcold|acomp\t,|punct"
+                },
+                {
+                    "question": "What did the seller say about the purchase?",
+                    "score": 0.7681,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What was the price of the batons that mocked the buyer?",
+                    "score": 0.6909,
+                    "answers": "Pity that all the batons who mocked the buyer are already cold|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the seller and the seller?",
+                    "score": 0.5962,
+                    "answers": "on 28/06/2017|prep\tthat|mark\tthat|mark\tall|predet\tthe|det\twho|nsubj\tthe|det\tthe buyer|dobj\t'|punct\tthe|det\tthe buyer|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Mr. Esparragoza, who dresses like a peasantshambre, white shirt, crocodile boots, dark glasses, gold chains, and ivory gunclaims that the buyer is already building a stadium for the Eagles .",
+            "question_answers": [
+                {
+                    "question": "Who is building a stadium for the Eagles?",
+                    "answer": "the buyer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of jewelry does Mr. Esparragoza wear?",
+                    "score": 0.778,
+                    "answers": "like a peasantshambre , white shirt , crocodile boots , dark glasses , gold chains , and ivory|prep\twhite shirt , crocodile boots , dark glasses , gold chains , and ivory|conj\tcrocodile boots , dark glasses , gold chains , and ivory|conj\tdark glasses , gold chains , and ivory|conj\tgold|amod\tgold chains , and ivory|conj"
+                },
+                {
+                    "question": "Who is building a stadium for the Eagles?",
+                    "score": 0.7299,
+                    "answers": "on 28/06/2017|prep\t28/06/2017|pobj\tthat|mark\t,|punct\twho|nsubj\ta|det\t,|punct\t,|punct\t,|punct\t,|punct\t,|punct\tand|cc\tthat|mark\tthe|det\talready|advmod\tthat the buyer is already building a stadium for the Eagles|ccomp\ta|det\ta stadium for the Eagles|dobj\tfor the Eagles|prep\tthe|det\tthe Eagles|pobj"
+                },
+                {
+                    "question": "What type of shirt is Mr. Esparragoza wearing?",
+                    "score": 0.7298,
+                    "answers": "white|amod"
+                },
+                {
+                    "question": "What is the relationship between Mr. Esparragoza and the seller of the stadium?",
+                    "score": 0.6393,
+                    "answers": "the buyer|nsubj"
+                },
+                {
+                    "question": "Who is Mr. Esparragoza?",
+                    "score": 0.6243,
+                    "answers": "www.eldizque.com reported on 28/06/2017 that Mr. Esparragoza , who dresses like a peasantshambre , white shirt , crocodile boots , dark glasses , gold chains , and ivory gunclaims that the buyer is already building a stadium for the Eagles|ROOT\tMr.|compound\tMr. Esparragoza , who dresses like a peasantshambre , white shirt , crocodile boots , dark glasses , gold chains , and ivory|nsubj\twho dresses like a peasantshambre , white shirt , crocodile boots , dark glasses , gold chains , and ivory|relcl\tthat Mr. Esparragoza , who dresses like a peasantshambre , white shirt , crocodile boots , dark glasses , gold chains , and ivory gunclaims that the buyer is already building a stadium for the Eagles|ccomp\tis|aux"
+                }
+            ]
+        },
+        {
+            "claim": "'I'm doing a stadium for the Eagles in La Mojonera, here in Culiacán, Sinaloa , and a stadium for the Eagles 'll be called Mojonera Stadium.",
+            "question_answers": [
+                {
+                    "question": "Where is the stadium for the Eagles located?",
+                    "answer": "Culiacán, Sinaloa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is La Mojonera Stadium located?",
+                    "score": 0.7847,
+                    "answers": "La Mojonera , here in Culiacán , Sinaloa|pobj"
+                },
+                {
+                    "question": "Who is building a stadium for the Eagles in La Mojonera?",
+                    "score": 0.773,
+                    "answers": "a stadium for the Eagles in La Mojonera , here in Culiacán , Sinaloa ,|dobj"
+                },
+                {
+                    "question": "Where is Mojonera Stadium located?",
+                    "score": 0.7639,
+                    "answers": "here in Culiacán , Sinaloa|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "He will be to every mother, verdah of God ', revealed.",
+            "question_answers": [
+                {
+                    "question": "What did eldizque.com say He would be to every mother?",
+                    "answer": "verdah of God"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the verdah of God?",
+                    "score": 0.7499,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, the businessman still does not decide if he will continue to call the team 'Eagles 'or he will look for another mote: 'I thought about leaving him Eagles, but I also thought about Hawks, because hawks are very useful, bato.",
+            "question_answers": [
+                {
+                    "question": "What does the businessman still not decide if he will continue to call the team?",
+                    "answer": "'Eagles"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the businessman think about calling the Eagles?",
+                    "score": 0.6407,
+                    "answers": "www.eldizque.com reported on 28/06/2017 that On the other hand , the businessman still does not decide if he will continue to call the team ' Eagles ' or he will look for another mote :|ROOT"
+                },
+                {
+                    "question": "What is the name of the businessman who thought about leaving the Eagles?",
+                    "score": 0.5662,
+                    "answers": "the businessman|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Although I can also combine Eagles with Culiacan to make them the Culiáguilas'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that I could combine Eagles with Culiacan to make them the Culiaguilas'?",
+                    "answer": "28/06/2017"
+                },
+                {
+                    "question": "What other team can I combine the Eagles with to make them the Culiaguilas?",
+                    "answer": "Culiacan"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to combine Eagles with Culiacan?",
+                    "score": 0.8538,
+                    "answers": "that|mark\tcan|aux\talso|advmod\tto|aux"
+                },
+                {
+                    "question": "What are the Culiáguilas?",
+                    "score": 0.764,
+                    "answers": "www.eldizque.com reported on 28/06/2017 that Although I can also combine Eagles with Culiacan to make them the Culiáguilas '|ROOT\tI|nsubj\tthem|nsubj\tthe|det\tthem the Culiáguilas '|ccomp\t'|case"
+                },
+                {
+                    "question": "What are the Culiacguilas?",
+                    "score": 0.7527,
+                    "answers": "on 28/06/2017|prep\tto make them the Culiáguilas '|advcl"
+                },
+                {
+                    "question": "What is the relationship between Eagles and Culiáguilas?",
+                    "score": 0.7345,
+                    "answers": "Although|mark"
+                }
+            ]
+        },
+        {
+            "claim": "After the interview, Don Esparragoza kindly offered to take us to the airport:'Here my boys can give you a lift.. Tell me, ride'.",
+            "question_answers": [
+                {
+                    "question": "Who kindly offered to take us to the airport after the interview?",
+                    "answer": "Don Esparragoza"
+                },
+                {
+                    "question": "What did Esparragoza offer to take us to the airport?",
+                    "answer": "ride'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Don Esparragoza offer rides to the airport?",
+                    "score": 0.8443,
+                    "answers": "the airport:'Here|pobj"
+                },
+                {
+                    "question": "Did Don Esparragoza offer to take us to the airport?",
+                    "score": 0.8361,
+                    "answers": "that|mark\tthe interview|pobj\tthat After the interview , Don Esparragoza kindly offered to take us to the airport:'Here|ccomp\tto|aux\ta|det\ta lift|dobj\tme|dobj"
+                },
+                {
+                    "question": "Did Don Esparragoza take his boys to the airport?",
+                    "score": 0.8255,
+                    "answers": "www.eldizque.com reported on 28/06/2017 that After the interview , Don Esparragoza kindly offered to take us to the airport:'Here my boys can give you a lift ..|ROOT\tAfter the interview|prep"
+                },
+                {
+                    "question": "What did Don Esparragoza say to the interview?",
+                    "score": 0.771,
+                    "answers": "the|det\t,|punct\tDon|compound\tthe|det\t..|punct\t,|punct\t'|punct"
+                },
+                {
+                    "question": "What is the relationship between Don Esparragoza and the airport?",
+                    "score": 0.6421,
+                    "answers": "kindly|advmod\tus|dobj\tmy|poss\tmy boys|nsubj\tcan|aux\tyou|dative"
+                }
+            ]
+        },
+        {
+            "claim": "Meanwhile, in the capital of the country, there are already about  a thousand fans who chained themselves to the Aztec Stadium and have declared themselves on hunger strike until Televisa cancels the transaction.",
+            "question_answers": [
+                {
+                    "question": "What are the fans declaring themselves on until Televisa cancels the transaction?",
+                    "answer": "hunger strike"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many fans have committed to the Aztec stadium?",
+                    "score": 0.7182,
+                    "answers": "that Meanwhile , in the capital of the country , there are already about   a thousand fans who chained themselves to the Aztec Stadium and have declared themselves on hunger strike until Televisa cancels the transaction|ccomp\tabout   a thousand fans who chained themselves to the Aztec Stadium and have declared themselves on hunger strike until Televisa cancels the transaction|attr"
+                },
+                {
+                    "question": "How many fans attend the Aztec Stadium every year?",
+                    "score": 0.7045,
+                    "answers": "to the Aztec Stadium|prep"
+                },
+                {
+                    "question": "How many people have been tied to the Aztec stadium since Televisa cancelled the transaction?",
+                    "score": 0.6482,
+                    "answers": "who chained themselves to the Aztec Stadium and have declared themselves on hunger strike until Televisa cancels the transaction|relcl"
+                },
+                {
+                    "question": "How many fans are in the capital of the country?",
+                    "score": 0.6461,
+                    "answers": "that|mark\tthere|expl\talready|advmod\tabout|advmod\twho|nsubj\tand|cc\thave|aux\tuntil|mark"
+                }
+            ]
+        }
+    ]
+}

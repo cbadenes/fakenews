@@ -1,0 +1,306 @@
+{
+    "id": "Sport_304",
+    "claim": "The pact was a word agreement between club owners that prevented the player from negotiating with another Mexican team without the authorization of the entity to which he belonged. Reuters. – The MX League and the Mexican Football Association announced on Wednesday that all players will be able to hire with the club they prefer without having to have the endorsement of their previous team, finally giving the controversial'gentlemen's pact'. The pact was a word agreement between the club owners that prevented the player from negotiating with another Mexican team without the authorization of the entity to which he belonged, so the directive for which he played determined where he was transferred, violating one of the FIFA articles. 'Players who finish their contract and do not have an offer from their last club will be able to hire themselves freely, and in addition the period of transfers for such players is extended ', said in a press conference the member of the Association, the goalkeeper Moises Muñoz. FIFA's rules on the status and transfer of players state that a professional player will be free to sign with another club if his contract with the current team has expired or will expire within six months.'We are working for the good of football. Today's agreements should leave footballers alone because we are listened to, valued and incorporated into the works and dialogue tables to improve our conditions ', Muñoz said. The Association of Footballers had threatened not to play the seventeenth and final day of the local Closing Tournament if they did not reach any agreement. The day will be played between the  and the  of April.'It's a historic day for Mexican football. After holding dialogue tables we have reached the following agreements: to work for the elaboration of a new regulation of transfers and contracts, which will enter into force at the beginning of the opening  ', said the president of the League MX, Enrique Bonilla. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "25/04/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The pact was a word agreement between club owners that prevented the player from negotiating with another Mexican team without the authorization of the entity to which the player belonged.",
+            "question_answers": [
+                {
+                    "question": "What did the club owners have to do to prevent a player from negotiating with another Mexican team?",
+                    "answer": "authorization of the entity to which the player belonged"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the agreement between club owners and the player?",
+                    "score": 0.7348,
+                    "answers": "on 25/04/2018|prep\tthat|mark\tThe|det\ta|det\tword|compound\tbetween club owners|prep\tclub|compound\tthat|nsubj\tthe|det\tanother|det\tthe|det\tthe authorization of the entity to which the player belonged|pobj\tthe|det\tthe entity to which the player belonged|pobj\twhich|pobj\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "Reuters.",
+            "question_answers": [
+                {
+                    "question": "On what date did Reuters report that they were informed of the report by www.forbes.com.mx?",
+                    "answer": "25/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of all the quotes from Reuters in 2018?",
+                    "score": 0.7902,
+                    "answers": "that Reuters|dobj"
+                },
+                {
+                    "question": "What is the website for Forbes.com.mx?",
+                    "score": 0.7446,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 25/04/2018 that Reuters|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "– The MX League and the Mexican Football Association announced on Wednesday that all players will be able to hire with the club all players prefer without having to have the endorsement of previous team, finally giving the controversial'gentlemen's pact'.",
+            "question_answers": [
+                {
+                    "question": "Who announced on Wednesday that all players would be able to hire with the club all players prefer?",
+                    "answer": "The MX League and the Mexican Football Association"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the MX League and the Mexican Football Association?",
+                    "score": 0.6445,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 25/04/2018 that – The MX League and the Mexican Football Association announced on Wednesday that all players will be able to hire with the club all players prefer without having to have the endorsement of previous team , finally giving the controversial'gentlemen 's pact '|ROOT\ton 25/04/2018|prep\tthat|mark\t–|punct\tThe|det\tMX|compound\tThe MX League and the Mexican Football Association|nsubj\tand|cc\tthe|det\tMexican|compound\tFootball|compound\tthat – The MX League and the Mexican Football Association announced on Wednesday that all players will be able to hire with the club all players prefer without having to have the endorsement of previous team , finally giving the controversial'gentlemen 's pact '|ccomp\ton Wednesday|prep\tthat|mark\tall|det\tall players|nsubj\twill|aux\tthat all players will be able to hire with the club all players prefer without having to have the endorsement of previous team , finally giving the controversial'gentlemen 's pact '|ccomp\tto|aux\twith the club all players prefer|prep\tthe|det\tthe club all players prefer|pobj\tall|det\tall players|nsubj\tall players prefer|relcl\twithout having to have the endorsement of previous team|prep\thaving to have the endorsement of previous team|pcomp\tto|aux\tthe|det\tthe endorsement of previous team|dobj\tof previous team|prep\tprevious|amod\tprevious team|pobj\t,|punct\tfinally|advmod\tfinally giving the controversial'gentlemen 's pact '|advcl\tthe|det\tcontroversial'gentlemen 's|poss\t's|case\tthe controversial'gentlemen 's pact '|dobj\t'|punct"
+                },
+                {
+                    "question": "What is the meaning of thegentlemen pact?",
+                    "score": 0.6176,
+                    "answers": "able to hire with the club all players prefer without having to have the endorsement of previous team , finally giving the controversial'gentlemen 's pact '|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "The pact was a word agreement between the club owners that prevented the player from negotiating with another Mexican team without the authorization of the entity to which the player belonged, so the directive for which the player played determined where the player was transferred, violating one of the FIFA articles.",
+            "question_answers": [
+                {
+                    "question": "Who signed the pact between the player and the Mexican team?",
+                    "answer": "club owners"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the agreement between the club owners and the player?",
+                    "score": 0.7033,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 25/04/2018 that The pact was a word agreement between the club owners that prevented the player from negotiating with another Mexican team without the authorization of the entity to which the player belonged , so the directive for which the player played determined where the player was transferred , violating one of the FIFA articles|ROOT\ton 25/04/2018|prep\tthat|mark\tThe|det\tThe pact|nsubj\tThe pact was a word agreement between the club owners that prevented the player from negotiating with another Mexican team without the authorization of the entity to which the player belonged|ccomp\ta|det\tword|compound\tbetween the club owners|prep\tthe|det\tclub|compound\tthe club owners|pobj\tthat|nsubj\tthat prevented the player from negotiating with another Mexican team without the authorization of the entity to which the player belonged|relcl\tthe|det\tthe player|dobj\tfrom negotiating with another Mexican team without the authorization of the entity to which the player belonged|prep\tnegotiating with another Mexican team without the authorization of the entity to which the player belonged|pcomp\twith another Mexican team|prep\tanother|det\tanother Mexican team|pobj\twithout the authorization of the entity to which the player belonged|prep\tthe|det\tthe authorization of the entity to which the player belonged|pobj\tof the entity to which the player belonged|prep\tthe|det\tthe entity to which the player belonged|pobj\tto which|prep\twhich|pobj\tthe|det\tthe player|nsubj\tto which the player belonged|relcl\t,|punct\tso|advmod\tthe|det\tthe directive for which the player played|nsubj\tfor which|prep\twhich|pobj\tthe|det\tthe player|nsubj\tfor which the player played|relcl\tthat The pact was a word agreement between the club owners that prevented the player from negotiating with another Mexican team without the authorization of the entity to which the player belonged , so the directive for which the player played determined where the player was transferred , violating one of the FIFA articles|ccomp\twhere|advmod\tthe|det\tthe player|nsubjpass\twas|auxpass\twhere the player was transferred|ccomp\t,|punct\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'Players who finish their contract and do not have an offer from their last club will be able to hire Players who finish their contract and do not have an offer from their last club freely, and in addition the period of transfers for such players is extended ', said in a press conference the member of the Association, the goalkeeper Moises Muñoz .",
+            "question_answers": [
+                {
+                    "question": "What happens to the period of transfers for players who finish their contract and do not have an offer from their last club?",
+                    "answer": "extended"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What clubs can hire players who finish their contract and do not have an offer from their last club?",
+                    "score": 0.8274,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 25/04/2018 that ' Players who finish their contract and do not have an offer from their last club will be able to hire Players who finish their contract and do not have an offer from their last club freely , and in addition the period of transfers for such players is extended|ccomp\ton 25/04/2018|prep\t25/04/2018|pobj\tthat|mark\t'|punct\tPlayers who finish their contract and do not have an offer from their last club|nsubj\twho|nsubj\twho finish their contract and do not have an offer from their last club|relcl\ttheir|poss\ttheir contract|dobj\tand|cc\tdo|aux\tnot|neg\tdo not have an offer from their last club|conj\tan|det\tan offer from their last club|dobj\tfrom their last club|prep\ttheir|poss\tlast|amod\ttheir last club|pobj\twill|aux\table to hire Players who finish their contract and do not have an offer from their last club freely|acomp\tto|aux\tto hire Players who finish their contract and do not have an offer from their last club freely|xcomp\tPlayers who finish their contract and do not have an offer from their last club freely|dobj\twho|nsubj\twho finish their contract and do not have an offer from their last club freely|relcl\ttheir|poss\ttheir contract|dobj\tand|cc\tdo|aux\tnot|neg\tdo not have an offer from their last club freely|conj\tan|det\tan offer from their last club|dobj\tfrom their last club|prep\ttheir|poss\tlast|amod\ttheir last club|pobj\tfreely|advmod\t,|punct\tand|cc\taddition|pobj\tthe|det\tfor such players|prep\tsuch|amod\tsuch players|pobj\tis|auxpass\t'|punct\t,|punct\ta|det\tthe|det\tthe|det\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What did Moises Muñoz say about transfers?",
+                    "score": 0.8034,
+                    "answers": "in addition|prep\tin a press conference|prep\ta press conference|pobj"
+                },
+                {
+                    "question": "What is Moises Muñoz's stance on transfers?",
+                    "score": 0.6923,
+                    "answers": "of transfers for such players|prep"
+                },
+                {
+                    "question": "Who is Moises Muñoz?",
+                    "score": 0.6338,
+                    "answers": "the goalkeeper Moises Muñoz|appos"
+                }
+            ]
+        },
+        {
+            "claim": "FIFA rules on the status and transfer of players state that a professional player will be free to sign with another club if contract with the current team has expired or will expire within six months.",
+            "question_answers": [
+                {
+                    "question": "How long does it take for a player to sign with a new club?",
+                    "answer": "six months"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long can a professional player be free to sign with another club if their contract expires or will expire?",
+                    "score": 0.7767,
+                    "answers": "that a professional player will be free to sign with another club if contract with the current team has expired or will expire within six months|ccomp"
+                },
+                {
+                    "question": "What are the FIFA rules on the status and transfer of players?",
+                    "score": 0.7486,
+                    "answers": "FIFA rules on the status and transfer of players|nsubj\ton the status and transfer of players|prep\tof players|prep\tthat FIFA rules on the status and transfer of players state that a professional player will be free to sign with another club if contract with the current team has expired or will expire within six months|ccomp\ta professional player|nsubj"
+                },
+                {
+                    "question": "What is the process for signing a professional football player?",
+                    "score": 0.7471,
+                    "answers": "free to sign with another club|acomp"
+                },
+                {
+                    "question": "What are the rules on transfers and transfers of players?",
+                    "score": 0.7354,
+                    "answers": "the status and transfer of players|pobj"
+                },
+                {
+                    "question": "What is the relationship between a professional football club and a professional player?",
+                    "score": 0.682,
+                    "answers": "professional|amod"
+                }
+            ]
+        },
+        {
+            "claim": "'We are working for the good of football.",
+            "question_answers": [
+                {
+                    "question": "When did www.forbes.com.mx report that they were working for the good of football?",
+                    "answer": "25/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the best way to improve football?",
+                    "score": 0.8681,
+                    "answers": "www.forbes.com.mx reported on 25/04/2018 that ' We are working for the good of football|ROOT"
+                },
+                {
+                    "question": "What is the relationship between football and soccer?",
+                    "score": 0.8284,
+                    "answers": "that|mark\t'|punct\tWe|nsubj\tare|aux\tthe|det"
+                },
+                {
+                    "question": "What is the purpose of football?",
+                    "score": 0.8225,
+                    "answers": "that ' We are working for the good of football|ccomp\tfor the good of football|prep\tthe good of football|pobj\tof football|prep\tfootball|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of money spent on football in the country?",
+                    "score": 0.789,
+                    "answers": "www.forbes.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Today's agreements should leave footballers alone because footballers are listened to, valued and incorporated into the works and dialogue tables to improve conditions ', the member of the Association, the goalkeeper Moises Muñoz said.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of incorporating footballers into the dialogue tables?",
+                    "answer": "improve conditions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What agreements should leave footballers alone?",
+                    "score": 0.8052,
+                    "answers": "Today 's|poss\tToday 's agreements|nsubj"
+                },
+                {
+                    "question": "What did Moises Muñoz say about today's agreements?",
+                    "score": 0.7677,
+                    "answers": "www.forbes.com.mx reported on 25/04/2018 that Today 's agreements should leave footballers alone because footballers are listened to , valued and incorporated into the works and dialogue tables to improve conditions '|ccomp\ton 25/04/2018|prep\tbecause footballers are listened to , valued and incorporated into the works and dialogue tables to improve conditions|advcl\tvalued and incorporated into the works and dialogue tables to improve conditions|conj\tincorporated into the works and dialogue tables to improve conditions|conj\tinto the works and dialogue tables|prep\tthe works and dialogue tables|pobj\tthe goalkeeper Moises Muñoz|appos"
+                },
+                {
+                    "question": "What is Moises Muñoz's stance on football?",
+                    "score": 0.6582,
+                    "answers": "footballers|dobj\tfootballers|nsubjpass\tworks and dialogue|nmod\tdialogue|conj\tMoises|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The Association of Footballers had threatened not to play the seventeenth and final day of the local Closing Tournament if they did not reach any agreement.",
+            "question_answers": [
+                {
+                    "question": "Who threatened not to play the seventeenth and final day of the Closing Tournament if they did not reach any agreement?",
+                    "answer": "The Association of Footballers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the Association of Footballers threaten not to play the final day of the local Closing Tournament?",
+                    "score": 0.827,
+                    "answers": "www.forbes.com.mx reported on 25/04/2018 that The Association of Footballers had threatened not to play the seventeenth and final day of the local Closing Tournament if they did not reach any agreement|ROOT\ton 25/04/2018|prep\tfinal|conj\tthe seventeenth and final day of the local Closing Tournament|dobj\tClosing|compound\tthe local Closing Tournament|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The day will be played between the  and the  of April.",
+            "question_answers": [
+                {
+                    "question": "When did forbes report that the day would be played between the and the of April?",
+                    "answer": "25/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What day of the week is April 25th?",
+                    "score": 0.7986,
+                    "answers": "on 25/04/2018|prep\tand the|det"
+                },
+                {
+                    "question": "What will happen on April 25th 2018?",
+                    "score": 0.7429,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is the date of the game?",
+                    "score": 0.7128,
+                    "answers": "www.forbes.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'It's a historic day for Mexican football.",
+            "question_answers": [
+                {
+                    "question": "On what date was it reported that it's a historic day for Mexican football?",
+                    "answer": "25/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the history of Mexican football?",
+                    "score": 0.9039,
+                    "answers": "www.forbes.com.mx|nsubj\ton 25/04/2018|prep\tthat|mark\t'|punct\tIt|nsubj\ta|det\tfor Mexican football|prep\tMexican football|pobj"
+                },
+                {
+                    "question": "What is the historic day for Mexican football?",
+                    "score": 0.8881,
+                    "answers": "www.forbes.com.mx reported on 25/04/2018 that ' It 's a historic day for Mexican football|ROOT\tthat ' It 's a historic day for Mexican football|ccomp\thistoric|amod\ta historic day for Mexican football|attr"
+                }
+            ]
+        },
+        {
+            "claim": "After holding dialogue tables we have reached the following agreements: to work for the elaboration of a new regulation of transfers and contracts, which will enter into force at the beginning of the opening  ', said the president of the League MX, Enrique Bonilla.",
+            "question_answers": [
+                {
+                    "question": "When will the new regulation of transfers and contracts enter into force?",
+                    "answer": "at the beginning of the opening"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What agreements did Bonilla sign at the beginning of 2018?",
+                    "score": 0.8079,
+                    "answers": "which will enter into force at the beginning of the opening|relcl\tthe beginning of the opening|pobj"
+                },
+                {
+                    "question": "What agreements have been made for the elaboration of a new regulation of transfers?",
+                    "score": 0.8023,
+                    "answers": "dialogue tables|dobj"
+                },
+                {
+                    "question": "How many agreements has Enrique Bonilla signed since he was president of League MX?",
+                    "score": 0.7384,
+                    "answers": "the president of the League MX , Enrique Bonilla|nsubj"
+                },
+                {
+                    "question": "How many transfers and contracts were there in 2018?",
+                    "score": 0.7353,
+                    "answers": "of transfers and contracts|prep\ttransfers and contracts|pobj"
+                },
+                {
+                    "question": "What is the purpose of regulation of transfers and contracts?",
+                    "score": 0.6797,
+                    "answers": "to work for the elaboration of a new regulation of transfers and contracts , which will enter into force at the beginning of the opening|acl\tfor the elaboration of a new regulation of transfers and contracts , which will enter into force at the beginning of the opening|prep\tthe elaboration of a new regulation of transfers and contracts , which will enter into force at the beginning of the opening|pobj\tof a new regulation of transfers and contracts , which will enter into force at the beginning of the opening|prep\ta new regulation of transfers and contracts , which will enter into force at the beginning of the opening|pobj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,457 @@
+{
+    "id": "74_Health_220",
+    "claim": "Researchers expect that environmental conditions and overfishing will cause more sightings in tourist areas of the Mediterranean Last April the alarm went off on the beaches of Alicante due to the presence in the Mediterranean of the feared Portuguese carabels. A species similar to jellyfish that has forced to close since then several sands of the Valencian Community -where a minor was hospitalized by the brushing of a specimen- and Murcia. Researchers predict that this summer, in the midst of a massive influx of bathers to the beaches, environmental conditions and overfishing will cause more sightings in the main tourist areas of the Mediterranean. The bite of this species of jellyfish is one of the most poisonous and painful. That's why it's very important to know how a jellyfish stings and its methods of prevention. Although it is true that it is one of the most striking species, its bite occurs in thousandths of a second. Very little time to react and try to avoid it. Each of its long tentacles contains thousands of urticating cells that are activated upon physical contact with human skin. These cells contain tubules such as harpoons that inject poison into the skin, causing pain, rashes, and redness. Each tentacle contains millions of urticating cells. All organisms belonging to the family 'phylum Cnidaria ', such as jellyfish themselves, coral or anemones, are equipped with this type of cells, which protect them from predators. Each of these cells (cnidoblasts) consists of a capsule containing: a coiled filament finished in a dart and potent toxins. Urticating cells are activated by having physical contact with human skin, firing their dart. These inject their poison into the skin, causing pain, rashes, and redness. The bite of this feared species is poisonous and very painful. It can cause fever, headache, local inflammation, nausea, vomiting and/or nervousness. To avoid this series of discomforts among bathers, the SAFE SEA brand distributes in the pharmaceutical market a range of sunscreens that inhibit the bite of all kinds of jellyfish. And among them, that of the dreaded Portuguese Carabela. I'm sorry.",
+    "source": "www.abc.es",
+    "date": "06/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Researchers expect that environmental conditions and overfishing will cause more sightings in tourist areas of the Mediterranean Last April the alarm went off on the beaches of Alicante due to the presence in the Mediterranean of the feared Portuguese carabels .",
+            "question_answers": [
+                {
+                    "question": "What did researchers expect to cause more sightings in tourist areas of the Mediterranean?",
+                    "answer": "environmental conditions and overfishing"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the feared Portuguese carabels?",
+                    "score": 0.7474,
+                    "answers": "of the feared Portuguese carabels|prep\tthe feared Portuguese carabels|pobj"
+                },
+                {
+                    "question": "What is the presence of the feared Portuguese carabels in Alicante?",
+                    "score": 0.7361,
+                    "answers": "that|mark\tthat|mark\tand|cc\twill|aux\tin tourist areas of the Mediterranean|prep\ttourist areas of the Mediterranean|pobj\tof the Mediterranean|prep\tthe|det\tthe Mediterranean|pobj\tLast|amod\tthe|det\tLast April the alarm went off on the beaches of Alicante due to the presence in the Mediterranean of the feared Portuguese carabels|ccomp\ton the beaches of Alicante|prep\tthe|det\tthe beaches of Alicante|pobj\tof Alicante|prep\tto|pcomp\tthe|det\tin the Mediterranean|prep\tthe|det\tthe Mediterranean|pobj\tthe|det\tfeared|amod"
+                },
+                {
+                    "question": "What is the evidence of overfishing on the beaches of Alicante?",
+                    "score": 0.7275,
+                    "answers": "www.abc.es said on 06/07/2018 that Researchers expect that environmental conditions and overfishing will cause more sightings in tourist areas of the Mediterranean Last April the alarm went off on the beaches of Alicante due to the presence in the Mediterranean of the feared Portuguese carabels|ROOT\ton 06/07/2018|prep"
+                },
+                {
+                    "question": "What is the source of evidence of overfishing in tourist areas of the Mediterranean?",
+                    "score": 0.6861,
+                    "answers": "that Researchers expect that environmental conditions and overfishing will cause more sightings in tourist areas of the Mediterranean|ccomp\tthat environmental conditions and overfishing will cause more sightings in tourist areas of the Mediterranean|ccomp"
+                },
+                {
+                    "question": "What are the environmental conditions and overfishing?",
+                    "score": 0.6821,
+                    "answers": "environmental conditions and overfishing|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "A species similar to jellyfish that has forced to close since then several sands of the Valencian Community -where a minor was hospitalized by the brushing of a specimen- and Murcia.",
+            "question_answers": [
+                {
+                    "question": "Where was a minor hospitalized by the brushing of a jellyfish?",
+                    "answer": "several sands of the Valencian Community"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of shark is similar to jellyfish?",
+                    "score": 0.7492,
+                    "answers": "to jellyfish|prep\tjellyfish|pobj"
+                },
+                {
+                    "question": "How many species of jellyfish have closed since then several sands of the Valencian Community?",
+                    "score": 0.7255,
+                    "answers": "and|cc"
+                },
+                {
+                    "question": "What is the name of the species similar to jellyfish?",
+                    "score": 0.6691,
+                    "answers": "the brushing of a specimen-|pobj\tof a specimen-|prep"
+                },
+                {
+                    "question": "How many sands of Valencian Community were closed in 2018?",
+                    "score": 0.6654,
+                    "answers": "that has forced to close since then several sands of the Valencian Community -where a minor was hospitalized by the brushing of a specimen- and Murcia|relcl"
+                },
+                {
+                    "question": "What is the relationship between jellyfish and the Valencian Community?",
+                    "score": 0.6532,
+                    "answers": "on 06/07/2018|prep\tthat A species similar to jellyfish that has forced to close since then several sands of the Valencian Community -where a minor was hospitalized by the brushing of a specimen- and Murcia|ccomp\tsimilar to jellyfish|amod\tto|aux\tsince then|prep\tseveral|amod\t-where|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Researchers predict that this summer, in the midst of a massive influx of bathers to the beaches, environmental conditions and overfishing will cause more sightings in the main tourist areas of the Mediterranean .",
+            "question_answers": [
+                {
+                    "question": "What causes more sightings in the main tourist areas of the Mediterranean?",
+                    "answer": "environmental conditions and overfishing"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many bathers were seen on beaches in the summer of 2018?",
+                    "score": 0.7582,
+                    "answers": "of bathers|prep"
+                },
+                {
+                    "question": "How many bathers are there in the main tourist areas of the Mediterranean each year?",
+                    "score": 0.7075,
+                    "answers": "bathers|pobj"
+                },
+                {
+                    "question": "What is overfishing?",
+                    "score": 0.672,
+                    "answers": "overfishing|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The bite of the feared Portuguese carabels is one of the most poisonous and painful.",
+            "question_answers": [
+                {
+                    "question": "What is one of the most poisonous and painful injuries?",
+                    "answer": "The bite of the feared Portuguese carabels"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How poisonous is the bite of the feared Portuguese carabels?",
+                    "score": 0.9388,
+                    "answers": "the most poisonous and painful|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "That's why it's very important to know how a jellyfish stings and methods of prevention.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say it was important to know how a jellyfish stings?",
+                    "answer": "06/07/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What methods are available to prevent shark stings?",
+                    "score": 0.9109,
+                    "answers": "and methods of prevention|dep\tprevention|pobj"
+                },
+                {
+                    "question": "Why is it important to know how a jellyfish stings?",
+                    "score": 0.9089,
+                    "answers": "why it 's very important to know how a jellyfish stings|advcl"
+                },
+                {
+                    "question": "What are the methods to prevent a jellyfish from sting?",
+                    "score": 0.8811,
+                    "answers": "on 06/07/2018|prep\tit|nsubj\tvery|advmod\ta|det\tand|cc\tof prevention|prep"
+                },
+                {
+                    "question": "What is the scientific evidence of how a jellyfish stings and methods of prevention?",
+                    "score": 0.8676,
+                    "answers": "why|advmod"
+                },
+                {
+                    "question": "What is a jellyfish?",
+                    "score": 0.8084,
+                    "answers": "a jellyfish|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Although it is true that the feared Portuguese carabels is one of the most striking species, its bite occurs in thousandths of a second.",
+            "question_answers": [
+                {
+                    "question": "When does the bite of the Portuguese carabels occur?",
+                    "answer": "thousandths of a second"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the bite rate of the feared Portuguese carabels?",
+                    "score": 0.8611,
+                    "answers": "www.abc.es said on 06/07/2018 that Although it is true that the feared Portuguese carabels is one of the most striking species , its bite occurs in thousandths of a second|ROOT\tthat Although it is true that the feared Portuguese carabels is one of the most striking species , its bite occurs in thousandths of a second|ccomp\tof a second|prep\ta second|pobj"
+                },
+                {
+                    "question": "What is the most striking species of carabels?",
+                    "score": 0.8079,
+                    "answers": "of the most striking species|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Very little time to react and try to avoid its bite .",
+            "question_answers": [
+                {
+                    "question": "How much time did the BBC have to react to its bite?",
+                    "answer": "Very little time"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take for a dog to react and try to avoid its bite?",
+                    "score": 0.9071,
+                    "answers": "that Very little time to react and try to avoid its bite|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Each of long tentacles contains thousands of urticating cells that are activated upon physical contact with human skin .",
+            "question_answers": [
+                {
+                    "question": "What do tentacles contain that are activated when they come into contact with human skin?",
+                    "answer": "urticating cells"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many urticating cells are in a human's tentacles?",
+                    "score": 0.7902,
+                    "answers": "Each of long tentacles|nsubj"
+                },
+                {
+                    "question": "What are urticating cells?",
+                    "score": 0.7399,
+                    "answers": "thousands of urticating cells that are activated upon physical contact with human skin|dobj\tof urticating cells that are activated upon physical contact with human skin|prep\turticating cells that are activated upon physical contact with human skin|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "thousands of urticating cells that are activated upon physical contact with human skin contain tubules such as harpoons that inject poison into the skin, causing pain, rashes, and redness.",
+            "question_answers": [
+                {
+                    "question": "What are tubules called that inject poison into the skin?",
+                    "answer": "harpoons"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are harpoons used to injecting poison into human skin?",
+                    "score": 0.8831,
+                    "answers": "tubules such as harpoons that inject poison into the skin , causing pain , rashes , and redness|dobj"
+                },
+                {
+                    "question": "How many urticating cells are in contact with human skin?",
+                    "score": 0.859,
+                    "answers": "www.abc.es|nsubj\tthat|mark\tthat|nsubjpass\tare|auxpass\tphysical|amod\thuman|amod\thuman skin|pobj\tthat thousands of urticating cells that are activated upon physical contact with human skin contain tubules such as harpoons that inject poison into the skin , causing pain , rashes , and redness|ccomp\tthat|nsubj\tpoison|dobj\tthe|det\tthe skin|pobj\t,|punct\t,|punct\t,|punct\tand|cc"
+                },
+                {
+                    "question": "What are the effects of urticating cells on human skin?",
+                    "score": 0.8224,
+                    "answers": "causing pain , rashes , and redness|advcl\tpain , rashes , and redness|dobj\trashes , and redness|conj"
+                },
+                {
+                    "question": "What are urticating cells?",
+                    "score": 0.7775,
+                    "answers": "thousands of urticating cells that are activated upon physical contact with human skin|nsubj\tof urticating cells that are activated upon physical contact with human skin|prep\turticating|compound\turticating cells that are activated upon physical contact with human skin|pobj"
+                },
+                {
+                    "question": "What is the relationship between urticating cells and human skin?",
+                    "score": 0.7533,
+                    "answers": "on 06/07/2018|prep\tupon physical contact with human skin|prep\tphysical contact with human skin|pobj\tredness|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Each tentacle contains millions of urticating cells.",
+            "question_answers": [
+                {
+                    "question": "How many urticating cells does each tentacle contain?",
+                    "answer": "millions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many urticating cells are in a tentacle?",
+                    "score": 0.9084,
+                    "answers": "that|mark\tEach|det\tEach tentacle|nsubj\tthat Each tentacle contains millions of urticating cells|ccomp\tmillions of urticating cells|dobj\tof urticating cells|prep\turticating|amod\turticating cells|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "jellyfish themselves , are equipped with this type of cells, which protect jellyfish themselves from predators.",
+            "question_answers": [
+                {
+                    "question": "Who are equipped with cells that protect jellyfish from predators?",
+                    "answer": "jellyfish themselves"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of cells do jellyfish have?",
+                    "score": 0.9079,
+                    "answers": "www.abc.es|nsubj\twww.abc.es said on 06/07/2018 that jellyfish themselves , are equipped with this type of cells , which protect jellyfish themselves from predators|ROOT\ton 06/07/2018|prep\tthat|mark\tjellyfish themselves|nsubjpass\tthemselves|appos\t,|punct\tare|auxpass\tthat jellyfish themselves , are equipped with this type of cells , which protect jellyfish themselves from predators|ccomp\twith this type of cells , which protect jellyfish themselves from predators|prep\tthis|det\tthis type of cells , which protect jellyfish themselves from predators|pobj\tof cells|prep\tcells|pobj\t,|punct\twhich|nsubj\twhich protect jellyfish themselves from predators|relcl\tjellyfish themselves|dobj\tthemselves|appos\tfrom predators|prep\tpredators|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Each of these cells (cnidoblasts) consists of a capsule containing: a coiled filament finished in a dart and potent toxins.",
+            "question_answers": [
+                {
+                    "question": "What is a coiled filament finished in?",
+                    "answer": "a dart"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many cells are in a dart?",
+                    "score": 0.8354,
+                    "answers": "in a dart|prep"
+                },
+                {
+                    "question": "What is the purpose of a dart?",
+                    "score": 0.7997,
+                    "answers": "finished in a dart|acl\ta dart|pobj"
+                },
+                {
+                    "question": "How many cnidoblasts are there?",
+                    "score": 0.7984,
+                    "answers": "these cells ( cnidoblasts )|pobj\tcnidoblasts|appos"
+                },
+                {
+                    "question": "What type of chemicals are contained in the filament?",
+                    "score": 0.791,
+                    "answers": "potent|amod"
+                },
+                {
+                    "question": "How many neurotoxic cells are there?",
+                    "score": 0.7819,
+                    "answers": "potent toxins|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Urticating cells are activated by having physical contact with human skin, firing their dart.",
+            "question_answers": [
+                {
+                    "question": "What cells are activated by physical contact with human skin?",
+                    "answer": "Urticating cells"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How are Urticating cells triggered by physical contact with human skin?",
+                    "score": 0.8906,
+                    "answers": "that Urticating cells are activated by having physical contact with human skin , firing their dart|ccomp"
+                },
+                {
+                    "question": "What are Urticating cells?",
+                    "score": 0.8084,
+                    "answers": "Urticating|amod\tUrticating cells|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "These inject their poison into the skin, causing pain, rashes, and redness.",
+            "question_answers": [
+                {
+                    "question": "On what date did the abc.es say the poison was injected into the skin?",
+                    "answer": "06/07/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the effects of injecting poison into the skin?",
+                    "score": 0.8545,
+                    "answers": "www.abc.es said on 06/07/2018 that These inject their poison into the skin , causing pain , rashes , and redness|ROOT\ton 06/07/2018|prep\tthat|mark\tThese|nsubj\tthat These inject their poison into the skin , causing pain , rashes , and redness|ccomp\ttheir|poss\ttheir poison|dobj\tinto the skin|prep\tthe|det\tthe skin|pobj\t,|punct\tcausing pain , rashes , and redness|advcl\tpain , rashes , and redness|dobj\t,|punct\trashes , and redness|conj\t,|punct\tand|cc\tredness|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The bite of this feared species is poisonous and very painful.",
+            "question_answers": [
+                {
+                    "question": "How does the bite of this feared species feel?",
+                    "answer": "very painful"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How painful is the bite of the feared species?",
+                    "score": 0.8983,
+                    "answers": "poisonous and very painful|acomp\tvery painful|conj"
+                }
+            ]
+        },
+        {
+            "claim": "It can cause fever, headache, local inflammation, nausea, vomiting and/or nervousness.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that it can cause fever, headache, local inflammation, nausea, vomiting and/or nervousness?",
+                    "answer": "06/07/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the symptoms of the flu?",
+                    "score": 0.8503,
+                    "answers": "www.abc.es|nsubj\twww.abc.es said on 06/07/2018 that It can cause fever , headache , local inflammation , nausea , vomiting and/or nervousness|ROOT\ton 06/07/2018|prep\tIt|nsubj\tcan|aux\tthat It can cause fever , headache , local inflammation , nausea , vomiting and/or nervousness|ccomp\tfever , headache , local inflammation , nausea , vomiting and/or nervousness|dobj\theadache , local inflammation , nausea , vomiting and/or nervousness|conj\tlocal|amod\tnausea , vomiting and/or nervousness|conj\tand/or|cc"
+                },
+                {
+                    "question": "What are the causes of fever, headache, local inflammation, nausea, and vomiting?",
+                    "score": 0.8026,
+                    "answers": "that|mark\t,|punct\t,|punct\t,|punct\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "To avoid this series of discomforts among bathers, the SAFE SEA brand distributes in the pharmaceutical market a range of sunscreens that inhibit the bite of all kinds of jellyfish.",
+            "question_answers": [
+                {
+                    "question": "What does the SAFE SEA brand distribute in the pharmaceutical market?",
+                    "answer": "in the pharmaceutical market a range of sunscreens that inhibit the bite of all kinds of jellyfish"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of sunscreens does SAFE SEA distributes?",
+                    "score": 0.849,
+                    "answers": "pharmaceutical|amod"
+                },
+                {
+                    "question": "What does the SAFE SEA brand distributes in the pharmaceutical market?",
+                    "score": 0.7844,
+                    "answers": "in the pharmaceutical market|prep"
+                },
+                {
+                    "question": "What are the names of the companies that distributes sunscreens?",
+                    "score": 0.7739,
+                    "answers": "that|mark\tTo|aux\tthis|det\tamong bathers|prep\t,|punct\tthat|nsubj\tall|det"
+                },
+                {
+                    "question": "What is the name of the pharmaceutical market that distributes sunscreens?",
+                    "score": 0.7706,
+                    "answers": "bathers|pobj"
+                },
+                {
+                    "question": "What are the discomforts among bathers?",
+                    "score": 0.7263,
+                    "answers": "To avoid this series of discomforts among bathers|advcl\tthis series of discomforts among bathers|dobj\tof discomforts among bathers|prep\tdiscomforts among bathers|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "And among them, that of the dreaded Portuguese Carabela.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that among them, that of the dreaded Portuguese Carabela?",
+                    "answer": "06/07/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the dreaded Portuguese Carabela?",
+                    "score": 0.8506,
+                    "answers": "that And among them , that of the dreaded Portuguese Carabela|ccomp"
+                },
+                {
+                    "question": "Who was Carabela?",
+                    "score": 0.8161,
+                    "answers": "on 06/07/2018|prep"
+                },
+                {
+                    "question": "Who is Carabela?",
+                    "score": 0.8021,
+                    "answers": "of the dreaded Portuguese Carabela|prep\tthe dreaded Portuguese Carabela|pobj"
+                }
+            ]
+        }
+    ]
+}

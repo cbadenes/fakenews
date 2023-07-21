@@ -1,0 +1,264 @@
+{
+    "id": "98_Security_184",
+    "claim": "The body showed signs of violence; neighbors say they had time not to see her and point to her boyfriend as an addict.The woman was lying on her bed and had blood stains on her nose.With blows on her face and signs of decomposition, the body of a woman was found inside the apartment that lived in this municipality. Near : hours, a family member of Magdalena Alcántara González, from  years old, entered the property number  of Lago Gran Oso street, Agua Azul colony. According to the Municipal Police, the neighbors alerted Magdalena's relatives, who lived alone and had no children, who had not seen her for several days; and her door, on the second floor, remained closed. Neighbors reported a series of gunshots; the victims were left on the Tenango del Valle-Ixtapan de la Sal highway 'The neighbors spoke to her, as they had several days that they did not see her ', the police detailed. The woman was lying on her bed and had blood stains on her nose. After the discovery, his family asked for help. Lifeguards detailed that the woman had signs of violence in her face. The inhabitants said that their boyfriend, identified as Oscar 'N ', who is addicted to drugs, left Tuesday afternoon with a gas tank and no longer saw him again. I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "05/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The body showed signs of violence; neighbors say neighbors had time not to see her and point to her face as an addict.",
+            "question_answers": [
+                {
+                    "question": "What did neighbors say about the body showing signs of violence?",
+                    "answer": "neighbors say neighbors had time not to see her"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did neighbors say about the body of an addict?",
+                    "score": 0.8842,
+                    "answers": "neighbors|nsubj\tneighbors|nsubj\tneighbors had time not to see her and point to her face as an addict|ccomp"
+                },
+                {
+                    "question": "Where was the body of the alleged overdose victim from?",
+                    "score": 0.8129,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What are the signs of violence in Mexico?",
+                    "score": 0.7535,
+                    "answers": "signs of violence|dobj"
+                },
+                {
+                    "question": "What is the relationship between an alcoholic and an addict?",
+                    "score": 0.7447,
+                    "answers": "an addict|pobj"
+                },
+                {
+                    "question": "What is the name of the person who was reported as an addict?",
+                    "score": 0.6659,
+                    "answers": "to her face|prep"
+                }
+            ]
+        },
+        {
+            "claim": "her was lying on her bed .",
+            "question_answers": [
+                {
+                    "question": "When did eluniversal.com.mx report that she was lying on her bed?",
+                    "answer": "05/07/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was lying on her bed in 2018?",
+                    "score": 0.8369,
+                    "answers": "www.eluniversal.com.mx reported on 05/07/2018 that her was lying on her bed|ROOT\ton 05/07/2018|prep\tthat|mark\ther|nsubj\twas|aux\ther|poss\ther bed|pobj"
+                },
+                {
+                    "question": "What was the name of the woman lying on her bed?",
+                    "score": 0.8002,
+                    "answers": "that her was lying on her bed|ccomp\ton her bed|prep"
+                }
+            ]
+        },
+        {
+            "claim": "With blows on her bed and had blood stains on her nose and signs of decomposition, The body was found inside the apartment that lived in this municipality .",
+            "question_answers": [
+                {
+                    "question": "What was the name of the incident that caused the body to be found in the apartment that lived in the municipality?",
+                    "answer": "blows"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was the body of the dead woman found?",
+                    "score": 0.7148,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 05/07/2018|prep\tWith blows on her bed and|prep\tblows on her bed and|pobj\ton her bed|prep\ther bed|pobj\tWith blows on her bed and had blood stains on her nose and signs of decomposition|advcl\ton her nose|prep\tdecomposition|pobj\twas|auxpass\tthat With blows on her bed and had blood stains on her nose and signs of decomposition , The body was found inside the apartment that lived in this municipality|ccomp\tinside the apartment that lived in this municipality|prep\tthe apartment that lived in this municipality|pobj\tthat lived in this municipality|relcl\tin this municipality|prep\tthis municipality|pobj"
+                },
+                {
+                    "question": "What was the cause of death of the body found inside the apartment that lived in Bern?",
+                    "score": 0.6383,
+                    "answers": "blood stains on her nose and signs of decomposition|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Near : hours, a family member of her , entered the apartment that lived in this municipality .",
+            "question_answers": [
+                {
+                    "question": "Who entered the apartment that lived in the municipality?",
+                    "answer": "a family member of her"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the family member that entered the apartment that lived in this municipality?",
+                    "score": 0.6888,
+                    "answers": "that|mark\tNear|nmod\t:|punct\t,|punct\ta|det\tfamily|compound\ther|pobj\t,|punct\tthat|nsubj"
+                },
+                {
+                    "question": "What is the link betweeneluniversal.com.mx and facebook?",
+                    "score": 0.5762,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the Municipal Police , the neighbors alerted her relatives, who lived alone and had no children, who had not seen her for several days; and door, on the second floor, remained closed.",
+            "question_answers": [
+                {
+                    "question": "Who alerted her relatives?",
+                    "answer": "Municipal Police"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the neighbors say about Rosario Palmer's death?",
+                    "score": 0.719,
+                    "answers": "her relatives , who lived alone and had no children , who had not seen her for several days|dobj"
+                },
+                {
+                    "question": "How many children did the neighbors have?",
+                    "score": 0.7173,
+                    "answers": "had no children|conj"
+                },
+                {
+                    "question": "What did the Municipal Police say about the incident?",
+                    "score": 0.6646,
+                    "answers": "According to the Municipal Police|prep\tto the Municipal Police|prep\tMunicipal|compound"
+                },
+                {
+                    "question": "Who alerted the neighbors that the neighbors had not seen her for several days?",
+                    "score": 0.6631,
+                    "answers": "the neighbors|nsubj"
+                },
+                {
+                    "question": "What was the name of the house where the neighbors alerted her relatives that she lived alone?",
+                    "score": 0.5996,
+                    "answers": "alone|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Neighbors reported a series of gunshots; the victims were left on the Tenango del Valle-Ixtapan de la Sal highway 'Neighbors spoke to her , as Neighbors had several days that Neighbors did not see her ', the Municipal Police detailed.",
+            "question_answers": [
+                {
+                    "question": "Why were the victims left on the Tenango del Valle-Ixtapan de la Sal highway?",
+                    "answer": "'Neighbors spoke to her"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Neighbors say about the alleged series of gunshots?",
+                    "score": 0.8474,
+                    "answers": "Neighbors|nsubj\tNeighbors|nsubj\tNeighbors|nsubj\tNeighbors|nsubj"
+                },
+                {
+                    "question": "How many days did Neighbors speak to Connie Mack?",
+                    "score": 0.7885,
+                    "answers": "Neighbors spoke to her , as Neighbors had several days that Neighbors did not see her|ccomp"
+                },
+                {
+                    "question": "What was the cause of the shooting?",
+                    "score": 0.7745,
+                    "answers": "the Tenango del Valle - Ixtapan de la Sal highway|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the shooting?",
+                    "score": 0.7453,
+                    "answers": "www.eluniversal.com.mx reported on 05/07/2018 that Neighbors reported a series of gunshots|ccomp\tthat Neighbors reported a series of gunshots|ccomp\ta series of gunshots|dobj"
+                },
+                {
+                    "question": "What are the names of the victims of the murders?",
+                    "score": 0.7354,
+                    "answers": "the victims were left on the Tenango del Valle - Ixtapan de la Sal highway|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "her was lying on her bed .",
+            "question_answers": [
+                {
+                    "question": "When did eluniversal.com.mx report that she was lying on her bed?",
+                    "answer": "05/07/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was lying on her bed in 2018?",
+                    "score": 0.8369,
+                    "answers": "www.eluniversal.com.mx reported on 05/07/2018 that her was lying on her bed|ROOT\ton 05/07/2018|prep\tthat|mark\ther|nsubj\twas|aux\ther|poss\ther bed|pobj"
+                },
+                {
+                    "question": "What was the name of the woman lying on her bed?",
+                    "score": 0.8002,
+                    "answers": "that her was lying on her bed|ccomp\ton her bed|prep"
+                }
+            ]
+        },
+        {
+            "claim": "After the discovery, family asked for help.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 05/07/2018 that after the discovery, family asked for help?",
+                    "answer": "www.eluniversal.com.mx"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the family ask for help after the discovery?",
+                    "score": 0.8911,
+                    "answers": "After the discovery|prep"
+                },
+                {
+                    "question": "What is the link betweeneluniversal.com.mx and facebook?",
+                    "score": 0.6408,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Lifeguards detailed that her had signs of violence in her bed and had blood stains on her nose .",
+            "question_answers": [
+                {
+                    "question": "What kind of stains did Lifeguards see on the victim's nose?",
+                    "answer": "blood stains"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Lifeguards say about the incident?",
+                    "score": 0.8126,
+                    "answers": "www.eluniversal.com.mx reported on 05/07/2018 that Lifeguards detailed that her had signs of violence in her bed and had blood stains on her nose|ROOT\ton 05/07/2018|prep\tthat|mark\tthat Lifeguards detailed that her had signs of violence in her bed and had blood stains on her nose|ccomp\tthat|mark\ther|nsubj\tof violence|prep\tin her bed|prep\ther|poss\tand|cc\thad blood stains on her nose|conj\ton her nose|prep\ther|poss\ther nose|pobj"
+                },
+                {
+                    "question": "What are the signs of violence in the bed and blood stains on her nose?",
+                    "score": 0.6756,
+                    "answers": "signs of violence|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the blood stains on Floridians noses?",
+                    "score": 0.6391,
+                    "answers": "blood stains|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "her nose said that her face , left Tuesday afternoon with a gas tank and no longer saw her face again.",
+            "question_answers": [
+                {
+                    "question": "What happened to her face when she left with a gas tank and no longer saw her face again?",
+                    "answer": "her nose said that her face"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the person who left the gas tank with a fake face?",
+                    "score": 0.6752,
+                    "answers": "on 05/07/2018|prep"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,770 @@
+{
+    "id": "103_Science_130",
+    "claim": "A popular initiative has already raised more than  euros to buy the building where the inventor worked. The future museum in the United States on the life and work of Nikola Tesla, scientist and inventor of the alternating current, seems more possible than ever. And that, thanks to the more than  donors who, in less than a week and in exchange for different rewards, have contributed more than  dollars (about  euros) through the crowdfunding website Indiegogo. (the largest global platform of collective cooperation carried out by individuals promoting an initiative to raise money or other resources, in order to finance efforts and initiatives of other individuals or organizations). This crowdfunding initiative, promoted under the slogan We are going to build a damn museum for Tesla, was marked last August  a final goal of  dollars, although everything seems to indicate that by the end of the term, the  of September, will have exceeded by far such a quantity. Yesterday, this campaign was number one in fund-raising on that website, surpassing last June's campaign to help a bus monitor harassed by several students, who got  dollars, one of the most successful in the United States until Tesla and her museum have come into play. 'We are trying to get enough money to buy this inventor's old laboratory, known as Wardenclyffe Tower, located in New York State, to open a museum with his research and studies ', assures the architect of the successful campaign, the NGO Tesla Science Center, a team of eight people including physicists, some educator, an expert geologist, a geographer and bookmaker Matthew Inman, creator of the comic The Oatmeal. The space is currently on sale and is about to be purchased by  millions of dollars for the construction of commercial premises. This fact led the platform to defend this enclosure as a historical monument. 'Tesla Science Center is a non-profit organization that has been fighting for more than a decade to protect this property. The most important thing is that the place is in the best hands ', says Inman on his blog. The laboratory closed in  when the researcher ruined Tesla, a physicist born in Croatia in  within a Serbian family and nationalized American in , dominated disciplines such as physics, mathematics and electrical engineering. He's one of the founders of the electric industry. He was also the inventor of radioin the 1970s the U.S. Supreme Court ruled that the patent relating to this invention was legitimately owned by Tesla, not Marconithe speaker, the neon light, the remote control or the alternator, among others. Some of his inventions came to touch the nonsense, such as his theory about the ray of deatha weapon of  millions of volts, death and extermination to  kilometers awayor his idea of transmitting wireless energy. His poor financial management led him to die ruined in . The funds raised will thus make the old laboratory where Tesla worked, founded in  and where the famous inventor wanted to develop a tower that would provide wireless electricity to everyone, can be reborn from his ashes. Owners ask for  million euros on the groundThe lack of funds caused Tesla's project to be interrupted in , and the property where his laboratory was located was sold to a film manufacturer. Although the tower of  meters was demolished, the laboratory and the facilities below have remained intact until today, has assured Inman. 'There is no museum about this scientist and inventor in the United States, and to achieve this goal would ensure that his research would remain protected in what would be called Nikola Tesla Scientific Center ', says Inman. The total acquisition of the space, valued at some  millions of dollars, seems more within reach thanks to the  dollars that they hope to raise perhaps by far  with this campaign and the contribution of the same amount by the State of New York. In addition to the Internet collection, Inman has called on large companies to become part of the project. It has addressed Google, Tesla Motors and J. P. Morgan, among others. Because, if you finally manage to acquire the property, then you will need more money to turn the place into a museum. 'The  million give us only for the ground ', says Inman. One of those who have taken a step forward has been Elon Musk, creator of PayPal and founder of Tesla Motors, although the amount he will donate has not yet been made public. I'm sorry.",
+    "source": "elpais.com",
+    "date": "21/08/2012",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The space A popular initiative has already raised more than  euros to buy the Tesla's where the inventor worked.",
+            "question_answers": [
+                {
+                    "question": "Who reported that The space A popular initiative had already raised more than euros to buy the Tesla's?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money has space a popular initiative raised?",
+                    "score": 0.807,
+                    "answers": "space A|nmod"
+                },
+                {
+                    "question": "How much money did the space program raise?",
+                    "score": 0.7893,
+                    "answers": "that|mark\tThe|det\tspace|nmod\tpopular|amod\thas|aux\talready|advmod\tthat The space A popular initiative has already raised more than|ccomp\tthan|prep"
+                },
+                {
+                    "question": "What is the space program?",
+                    "score": 0.6398,
+                    "answers": "The space A popular initiative|nsubj"
+                },
+                {
+                    "question": "What is the name of the company that the inventor worked for?",
+                    "score": 0.5916,
+                    "answers": "where the inventor worked|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The future museum in the United States his laboratory the life and work of The space the inventor , seems his laboratory than ever.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 21/08/2012?",
+                    "answer": "The space the inventor"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the history of the space lab?",
+                    "score": 0.5752,
+                    "answers": "than ever|prep"
+                },
+                {
+                    "question": "What is the life and work of space the inventor?",
+                    "score": 0.5682,
+                    "answers": "elpais.com reported on 21/08/2012 that The future museum in the United States his laboratory the life and work of The space the inventor , seems his laboratory than ever|ROOT"
+                },
+                {
+                    "question": "What is the name of the space the inventor?",
+                    "score": 0.5342,
+                    "answers": "the inventor|appos"
+                }
+            ]
+        },
+        {
+            "claim": "And seems , thanks to the more than  donors who, in less The space Inman and in exchange for different Tesla's more than  dollars Inman ) through The laboratory website Indiegogo.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 21/08/2012?",
+                    "answer": "And seems"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Indiegogo donate to the Tesla project in 2012?",
+                    "score": 0.8302,
+                    "answers": "that And seems , thanks to the more than|ccomp\tfor different Tesla 's more than|prep"
+                },
+                {
+                    "question": "How much space does Indiegogo have compared to Tesla's inman?",
+                    "score": 0.7751,
+                    "answers": "thanks to the more than|npadvmod"
+                },
+                {
+                    "question": "How much space is available for each Tesla donor?",
+                    "score": 0.7304,
+                    "answers": "  donors who , in less The space Inman and in exchange for different Tesla 's more than|dep\twho , in less The space Inman and in exchange for different Tesla 's more than|relcl"
+                },
+                {
+                    "question": "What is the amount of money that Tesla donated to Indiegogo?",
+                    "score": 0.7174,
+                    "answers": "in exchange for different Tesla 's more than|conj"
+                },
+                {
+                    "question": "What is the difference between the amount of Tesla's inman and Indiegogo?",
+                    "score": 0.5965,
+                    "answers": "exchange for different Tesla 's more than|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "(the largest Tesla, a physicist born in Croatia in  within a Serbian family and nationalized American in to raise the space other resources, in order to finance efforts and initiatives of other individuals or organizations).",
+            "question_answers": [
+                {
+                    "question": "Who reported that the largest Tesla was a physicist born in Croatia?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Tesla born?",
+                    "score": 0.794,
+                    "answers": "born in Croatia in|acl"
+                },
+                {
+                    "question": "Where was the Tesla born?",
+                    "score": 0.7783,
+                    "answers": "in Croatia|prep\ta Serbian family|pobj"
+                },
+                {
+                    "question": "Who is the largest Tesla from Croatia?",
+                    "score": 0.745,
+                    "answers": "and|cc\tand|cc"
+                },
+                {
+                    "question": "How much money did elpais.com raise from the space program in 2012?",
+                    "score": 0.7371,
+                    "answers": "nationalized American in to raise the space other resources , in order to finance efforts and initiatives of other individuals or organizations|conj"
+                },
+                {
+                    "question": "What was the purpose of the Tesla project?",
+                    "score": 0.7253,
+                    "answers": "in order to finance efforts and initiatives of other individuals or organizations|prep"
+                }
+            ]
+        },
+        {
+            "claim": "A popular initiative radioin A popular initiative , was marked radioin  a final goal of  dollarsInman everything seems to indicate that by the end of the term, the  of September, will Tesla Motors by Tesla, a physicist born in Croatia in  within a Serbian family and nationalized American in such a quantity.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 21/08/2012 that was marked radioin a final goal of dollarsInman?",
+                    "answer": "A popular initiative"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Tesla Motors born?",
+                    "score": 0.6666,
+                    "answers": "born in Croatia in|acl\tborn in Croatia in   within a Serbian family and nationalized American in such a quantity|dep"
+                },
+                {
+                    "question": "How much money did Tesla Motors make from radioin in 2012?",
+                    "score": 0.6597,
+                    "answers": "dollarsInman|dep"
+                },
+                {
+                    "question": "What is Tesla Motors?",
+                    "score": 0.6403,
+                    "answers": "dollarsInman everything seems to indicate that by the end of the term , the   of September , will Tesla Motors by Tesla , a physicist|ccomp\tto indicate that by the end of the term , the   of September , will Tesla Motors by Tesla , a physicist|xcomp\tthat by the end of the term , the   of September , will Tesla Motors by Tesla , a physicist|dep\t, will Tesla Motors by Tesla , a physicist|dep\tTesla , a physicist|pobj\ta physicist|appos"
+                },
+                {
+                    "question": "What was the purpose of radioin a popular initiative?",
+                    "score": 0.6165,
+                    "answers": "on 21/08/2012|prep\tthat|mark\tA|det\tA|det\t,|punct\twas|auxpass\ta|det\tof|prep\tto|aux\tthat|mark\tthe end of the term , the|pobj\t,|punct\t,|punct\twill|aux\tby Tesla , a physicist|prep\t,|punct\ta|det\tin|prep\ta|det\tand|cc\tin such a quantity|prep\ta|det\tsuch a quantity|pobj"
+                },
+                {
+                    "question": "What was the final goal of the radioin initiative?",
+                    "score": 0.6097,
+                    "answers": "final|amod\teverything|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Yesterday, A popular initiative was Tesla, a physicist born in Croatia in  within a Serbian family and nationalized American in one in fundthe space that website, surpassing last June's campaign the space help a bus monitor harassed by several students, who got  dollars, Inman of Tesla, a physicist born in Croatia in  within a Serbian family and nationalized American in most successful in the United States Tesla, a physicist born in Croatia in  within a Serbian family and nationalized American in until the inventor Elon Musk, creator of PayPal and founder of Tesla Motors .",
+            "question_answers": [
+                {
+                    "question": "What is Elon Musk's company called?",
+                    "answer": "PayPal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Tesla born?",
+                    "score": 0.7242,
+                    "answers": "  within a Serbian family and nationalized American in one in fundthe space that website , surpassing last June 's campaign the space help a bus monitor harassed by several students , who got|dep"
+                },
+                {
+                    "question": "Where was Inman of Tesla born?",
+                    "score": 0.7191,
+                    "answers": "elpais.com reported on 21/08/2012 that Yesterday , A popular initiative was Tesla , a physicist born in Croatia in   within a Serbian family and nationalized American in one in fundthe space that website , surpassing last June 's campaign the space help a bus monitor harassed by several students , who got   dollars , Inman of Tesla , a physicist born in Croatia in   within a Serbian family and nationalized American in most successful in the United States Tesla , a physicist born in Croatia in   within a Serbian family and nationalized American in until the inventor Elon Musk , creator of PayPal and founder of Tesla Motors|ROOT\ton 21/08/2012|prep\tthat|mark\t,|punct\tA|det\tpopular|amod\tA popular initiative|nsubj\tthat Yesterday , A popular initiative was Tesla , a physicist born in Croatia in|ccomp\tTesla , a physicist born in Croatia in|attr\t,|punct\ta|det\ta physicist born in Croatia in|appos\tborn in Croatia in|acl\tin Croatia|prep\tin|prep\twithin a Serbian family and nationalized American in one in fundthe space that website , surpassing last June 's campaign the space help a bus monitor harassed by several students , who got|prep\ta|det\ta Serbian family|pobj\tand|cc\tin one|prep\tone|pobj\tin fundthe space that website|prep\tfundthe|nmod\tfundthe space that website|pobj\tthat|det\tthat website|appos\t,|punct\tlast|amod\tlast June 's|poss\t's|case\tthe|det\tthe space|nsubj\ta|det\tbus|compound\ta bus monitor harassed by several students , who got|dobj\tby several students , who got|agent\tseveral|amod\tseveral students , who got|pobj\t,|punct\twho|nsubj\twho got|relcl\t  dollars|dep\tdollars|dobj\t,|punct\tInman of Tesla , a physicist born in Croatia in|dep\tof Tesla|prep\t,|punct\ta|det\ta physicist born in Croatia in|appos\tborn in Croatia in|acl\tin Croatia|prep\tin|prep\t  within a Serbian family and nationalized American in most successful in the United States Tesla ,|dep\twithin a Serbian family and nationalized American in most successful in the United States Tesla ,|prep\ta|det\ta Serbian family|pobj\tand|cc\tnationalized American in most successful in the United States Tesla|conj\tin most successful in the United States|prep\tmost|advmod\tmost successful in the United States|amod\tin the United States|prep\tthe|det\tUnited|compound\t,|punct\ta|det\ta physicist born in Croatia in   within a Serbian family and nationalized American in until the inventor Elon Musk , creator of PayPal and founder of Tesla Motors|dobj\tborn in Croatia in|acl\tin Croatia|prep\tin|prep\t  within a Serbian family and nationalized American in until the inventor Elon Musk , creator of PayPal and founder of Tesla Motors|dep\twithin a Serbian family and nationalized American in until the inventor Elon Musk , creator of PayPal and founder of Tesla Motors|prep\ta|det\ta Serbian family|pobj\tand|cc\tnationalized American in until the inventor Elon Musk , creator of PayPal and founder of Tesla Motors|conj\tin|prep\tuntil the inventor Elon Musk , creator of PayPal and founder of Tesla Motors|prep\tthe|det\tthe inventor Elon Musk , creator of PayPal and founder of Tesla Motors|pobj\tElon|compound\tElon Musk , creator of PayPal and founder of Tesla Motors|appos\t,|punct\tcreator of PayPal and founder of Tesla Motors|appos\tof PayPal|prep\tand|cc\tfounder of Tesla Motors|conj\tof Tesla Motors|prep"
+                },
+                {
+                    "question": "Who was Inman of Tesla?",
+                    "score": 0.6704,
+                    "answers": "the space help a bus monitor harassed by several students , who got|acl"
+                },
+                {
+                    "question": "How many students were harassed by Tesla in June of 2012?",
+                    "score": 0.6529,
+                    "answers": "surpassing last June 's campaign the space help a bus monitor harassed by several students , who got|acl\tlast June 's campaign the space help a bus monitor harassed by several students , who got|dobj"
+                },
+                {
+                    "question": "What is the name of the website that Inman of Tesla was a part of?",
+                    "score": 0.6345,
+                    "answers": "harassed by several students , who got|acl"
+                }
+            ]
+        },
+        {
+            "claim": "Elon Musk, creator of PayPal and founder of Tesla Motors The laboratory and studies ', Tesla, a physicist born in Croatia in  within a Serbian family and nationalized American in the architect of the successful campaign, the NGO Tesla Science Center, a team of eight people including physicists, some educator, an expert geologist, a geographer and bookmaker Matthew Inman, creator of the comic The Oatmeal.",
+            "question_answers": [
+                {
+                    "question": "What was the name of Elon Musk's company?",
+                    "answer": "The laboratory and studies"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Elon Musk born?",
+                    "score": 0.6774,
+                    "answers": "elpais.com reported on 21/08/2012 that Elon Musk , creator of PayPal and founder of Tesla Motors The laboratory and studies ' , Tesla , a physicist born in Croatia in   within a Serbian family and nationalized American in the architect of the successful campaign , the NGO Tesla Science Center , a team of eight people including physicists , some educator , an expert geologist , a geographer and bookmaker Matthew Inman , creator of the comic The Oatmeal|ROOT\ton 21/08/2012|prep\tthat|mark\tElon|compound\tthat Elon Musk , creator of PayPal and founder of Tesla Motors The laboratory and studies ' , Tesla , a physicist born in Croatia in|dobj\t,|punct\tcreator of PayPal and founder of Tesla Motors The laboratory and studies|appos\tof PayPal|prep\tand|cc\tfounder of Tesla Motors The laboratory and studies|conj\tof Tesla Motors The laboratory and studies|prep\tTesla Motors The laboratory and studies|pobj\tThe|det\tThe laboratory and studies|appos\tand|cc\tstudies|conj\t'|punct\t,|punct\t,|punct\ta|det\ta physicist born in Croatia in|appos\tborn in Croatia in|acl\tin Croatia|prep\tin|prep\t  within a Serbian family and nationalized American in the architect of the successful campaign , the NGO Tesla Science Center , a team of eight people including physicists , some educator , an expert geologist , a geographer and bookmaker Matthew Inman , creator of the comic The Oatmeal|dep\twithin a Serbian family and nationalized American in the architect of the successful campaign , the NGO Tesla Science Center , a team of eight people including physicists , some educator , an expert geologist , a geographer and bookmaker Matthew Inman , creator of the comic The Oatmeal|prep\ta|det\ta Serbian family|pobj\tand|cc\tnationalized|amod\tthe|det\tthe|det\tsuccessful|amod\t,|punct\tthe|det\tScience|compound\t,|punct\ta|det\t,|punct\tsome|det\t,|punct\tan|det\texpert|compound\t,|punct\ta|det\tand|cc\t,|punct\tthe|det\tThe|det"
+                },
+                {
+                    "question": "What was the purpose of the NGO Tesla Science Center?",
+                    "score": 0.5889,
+                    "answers": "nationalized American in the architect of the successful campaign , the NGO Tesla Science Center , a team of eight people including physicists , some educator , an expert geologist , a geographer and bookmaker Matthew Inman , creator of the comic The Oatmeal|conj\tin the architect of the successful campaign , the NGO Tesla Science Center|prep\tthe architect of the successful campaign , the NGO Tesla Science Center|pobj\tof the successful campaign|prep\tthe successful campaign|pobj"
+                },
+                {
+                    "question": "What is the name of the comic The Oatmeal?",
+                    "score": 0.5392,
+                    "answers": "of the comic The Oatmeal|prep\tthe comic The Oatmeal|pobj"
+                },
+                {
+                    "question": "Who is Matthew Inman?",
+                    "score": 0.5159,
+                    "answers": "some educator , an expert geologist ,|appos\tan expert geologist ,|conj\ta geographer and bookmaker Matthew Inman , creator of the comic The Oatmeal|appos\tbookmaker|conj\tMatthew|compound\tMatthew Inman , creator of the comic The Oatmeal|appos"
+                }
+            ]
+        },
+        {
+            "claim": "The space is currently on sale and is about to be purchased by  millions of dollars for the construction of commercial premises.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the space was on sale and about to be purchased by millions of dollars?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much is the construction of commercial premises expected to cost?",
+                    "score": 0.7731,
+                    "answers": "to be purchased by|xcomp"
+                },
+                {
+                    "question": "What type of commercial space is currently being purchased by  millions of dollars?",
+                    "score": 0.7679,
+                    "answers": "commercial|amod"
+                },
+                {
+                    "question": "What is the name of the space that is currently available for purchase?",
+                    "score": 0.5867,
+                    "answers": "that The space is currently on sale and is about to be purchased by|ccomp"
+                },
+                {
+                    "question": "What is the purpose of the website \"lpais.com\"?",
+                    "score": 0.4853,
+                    "answers": "for the construction of commercial premises|prep\tof commercial premises|prep\tcommercial premises|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This fact led the platform to defend this enclosure as a historical monument.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the enclosure was a historical monument?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of defending the enclosure as a historical monument?",
+                    "score": 0.682,
+                    "answers": "that This fact led the platform to defend this enclosure as a historical monument|ccomp\tto defend this enclosure as a historical monument|xcomp\tthis enclosure|dobj\tas a historical monument|prep"
+                },
+                {
+                    "question": "What is the history of the elephant enclosure?",
+                    "score": 0.6594,
+                    "answers": "the platform|dobj"
+                },
+                {
+                    "question": "What does elpais.com do?",
+                    "score": 0.5916,
+                    "answers": "on 21/08/2012|prep"
+                },
+                {
+                    "question": "What does elpais.com stand for?",
+                    "score": 0.5412,
+                    "answers": "that|mark\tto|aux"
+                },
+                {
+                    "question": "What is the historical monument?",
+                    "score": 0.5286,
+                    "answers": "historical|amod\ta historical monument|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Tesla Science Center is a non-profit organization that has been fighting for more than a decade to protect this property.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Tesla Science Center is a non-profit organization?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has it been since the Tesla Science Center been fighting for property rights?",
+                    "score": 0.7683,
+                    "answers": "for more than a decade|prep"
+                },
+                {
+                    "question": "What is the name of the non profit organization that is trying to protect the property of the Tesla Science Center?",
+                    "score": 0.7644,
+                    "answers": "that ' Tesla Science Center is a non - profit organization that has been fighting for more than a decade to protect this property|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Tesla Science Center and Elpais.com?",
+                    "score": 0.6477,
+                    "answers": "Tesla|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The most important thing is that the place is in the best hands ', says Inman on his blog.",
+            "question_answers": [
+                {
+                    "question": "What did Inman say was the most important thing?",
+                    "answer": "the place is in the best hands"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Inman say about the best hands?",
+                    "score": 0.6904,
+                    "answers": "the best hands|pobj"
+                },
+                {
+                    "question": "What did Inman say about Inman's blog?",
+                    "score": 0.6862,
+                    "answers": "that|mark\tThe|det\tmost|advmod\tmost important|amod\tthat|mark\tthe|det\tthe|det\tbest|amod\t'|punct\t,|punct"
+                },
+                {
+                    "question": "What did Inman write on his blog in 2012?",
+                    "score": 0.6535,
+                    "answers": "on his blog|prep"
+                },
+                {
+                    "question": "What is the most important thing to know about the place in the best hands?",
+                    "score": 0.5779,
+                    "answers": "that The most important thing is that the place is in the best hands|ccomp"
+                },
+                {
+                    "question": "What is Inman's blog?",
+                    "score": 0.5668,
+                    "answers": "his|poss\this blog|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The laboratory closed in  when the researcher ruined Tesla, a physicist born in Croatia in  within a Serbian family and nationalized American in , dominated disciplines such as physics, mathematics and electrical engineering.",
+            "question_answers": [
+                {
+                    "question": "What was Tesla's nationality?",
+                    "answer": "nationalized American in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Tesla's laboratory close in 2012?",
+                    "score": 0.7747,
+                    "answers": "that The laboratory closed in|ccomp"
+                },
+                {
+                    "question": "Where was Tesla born?",
+                    "score": 0.6913,
+                    "answers": "elpais.com reported on 21/08/2012 that The laboratory closed in   when the researcher ruined Tesla , a physicist born in Croatia in   within a Serbian family and nationalized American in , dominated disciplines such as physics , mathematics and electrical engineering|ROOT\ton 21/08/2012|prep\tthat|mark\tThe|det\tin|advmod\t  when the researcher ruined Tesla , a physicist born in Croatia in|dep\twhen|advmod\tthe|det\twhen the researcher ruined Tesla , a physicist born in Croatia in|advcl\tTesla , a physicist born in Croatia in|dobj\t,|punct\ta|det\ta physicist born in Croatia in|appos\tborn in Croatia in|acl\tin Croatia|prep\tin|prep\t  within a Serbian family and nationalized American in , dominated disciplines such as physics , mathematics and electrical engineering|dep\twithin a Serbian family and nationalized American in , dominated disciplines such as physics , mathematics and electrical engineering|prep\ta|det\ta Serbian family|pobj\tand|cc\tnationalized American in , dominated disciplines such as physics , mathematics and electrical engineering|conj\tin|prep\t,|punct\tdominated disciplines such as physics , mathematics and electrical engineering|dep\tsuch|amod\tsuch as physics , mathematics and electrical engineering|prep\tphysics , mathematics and electrical engineering|pobj\t,|punct\tmathematics and electrical engineering|conj\tand|cc\telectrical|amod\telectrical engineering|conj"
+                },
+                {
+                    "question": "What was the name of Tesla's laboratory in Croatia?",
+                    "score": 0.6448,
+                    "answers": "disciplines such as physics , mathematics and electrical engineering|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "He's one of the founders of the electric industry.",
+            "question_answers": [
+                {
+                    "question": "What website reported that he's one of the founders of the electric industry?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who founded the electric industry?",
+                    "score": 0.8965,
+                    "answers": "that He 's one of the founders of the electric industry|ccomp\tthe founders of the electric industry|pobj\tof the electric industry|prep\telectric|amod\tthe electric industry|pobj"
+                },
+                {
+                    "question": "Who founded elpais.com?",
+                    "score": 0.8844,
+                    "answers": "elpais.com reported on 21/08/2012 that He 's one of the founders of the electric industry|ROOT\ton 21/08/2012|prep\tthat|mark\tHe|nsubj\tone of the founders of the electric industry|attr\tof the founders of the electric industry|prep\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "He was also the inventor of radioin the 1970s the U.S. Supreme Court ruled that the patent relating to this invention was legitimately owned by Tesla, not Marconithe speaker, the neon light, the remote control or the alternator, among others.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Tesla was the inventor of radio?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the first person to patent a patent for radio in the 1970s?",
+                    "score": 0.7776,
+                    "answers": "the inventor of radioin the 1970s|attr\tof radioin the 1970s|prep\tradioin the 1970s|pobj\tamong others|prep"
+                },
+                {
+                    "question": "What did the Supreme Court rule about the claim of ownership by Tesla in the 1970s?",
+                    "score": 0.7495,
+                    "answers": "by Tesla , not Marconithe speaker , the neon light , the remote control or the alternator , among others|agent"
+                },
+                {
+                    "question": "What is the name of the patent that Tesla was patenting in the 1970s?",
+                    "score": 0.7362,
+                    "answers": "this invention|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Some of his inventions came to touch the nonsense, such as his theory about the ray of deatha weapon of  millions of volts, death and extermination to  kilometers awayor his idea of transmitting wireless energy.",
+            "question_answers": [
+                {
+                    "question": "What was the name of Elpais' theory of a weapon of millions of volts, death and extermination to kilometers away?",
+                    "answer": "ray of death"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did elpais.com say about the ray of deatha weapon?",
+                    "score": 0.5757,
+                    "answers": "elpais.com reported on 21/08/2012 that Some of his inventions such as his theory about the ray of deatha weapon of came to touch the nonsense ,   millions of volts , death and extermination to   kilometers awayor his idea of transmitting wireless energy|ROOT\tSome of his inventions such as his theory about the ray of deatha weapon of|nsubj\tsuch|amod"
+                },
+                {
+                    "question": "What is wireless energy?",
+                    "score": 0.5601,
+                    "answers": "wireless energy|dobj"
+                },
+                {
+                    "question": "What is the ray of deatha?",
+                    "score": 0.5491,
+                    "answers": "deatha|pobj"
+                },
+                {
+                    "question": "What is the origin of the phrase \" ray of deatha weapon of  millions of volts, death and extermination\"?",
+                    "score": 0.5455,
+                    "answers": "the nonsense|dobj"
+                },
+                {
+                    "question": "What is the purpose of the ray of death weapon?",
+                    "score": 0.5441,
+                    "answers": "of transmitting wireless energy|prep\ttransmitting wireless energy|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "His poor financial management led him to die ruined in .",
+            "question_answers": [
+                {
+                    "question": "What led him to die ruined in 2012?",
+                    "answer": "poor financial management"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did elpais.com say about his poor financial management?",
+                    "score": 0.7546,
+                    "answers": "elpais.com reported on 21/08/2012 that His poor financial management led him to die ruined in|ROOT\ton 21/08/2012|prep"
+                },
+                {
+                    "question": "What is the source of evidence of his finances?",
+                    "score": 0.6746,
+                    "answers": "financial|amod"
+                },
+                {
+                    "question": "What was the cause of death for Elpais in 2012?",
+                    "score": 0.6315,
+                    "answers": "that His poor financial management led him to die ruined in|ccomp"
+                },
+                {
+                    "question": "What was the name of the man that died from poor financial management in 2012?",
+                    "score": 0.6206,
+                    "answers": "His poor financial management|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The funds raised will thus make the old laboratory where Tesla worked, founded in  and where the famous inventor wanted to develop a tower that would provide wireless electricity to everyone, can be reborn from his ashes.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the old laboratory where Tesla worked can be reborn from his ashes?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of electricity would be provided from the tower that Tesla worked in?",
+                    "score": 0.724,
+                    "answers": "wireless|amod"
+                },
+                {
+                    "question": "How much money will be raised for the building of the old laboratory where Tesla worked, founded in?",
+                    "score": 0.7207,
+                    "answers": "raised|acl"
+                },
+                {
+                    "question": "What was the name of the building where the famous inventor wanted to develop a tower that would provide wireless electricity to everyone?",
+                    "score": 0.6712,
+                    "answers": "a|det"
+                },
+                {
+                    "question": "How much money did Elon Musk receive from the National Association of Electron Research and Manufacturers?",
+                    "score": 0.6504,
+                    "answers": "to everyone|prep"
+                },
+                {
+                    "question": "What was the purpose of the building of elpais.com?",
+                    "score": 0.4705,
+                    "answers": "where to develop a tower that would provide wireless electricity to everyone|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Owners ask for  million euros on the groundThe lack of funds caused Tesla's project to be interrupted in , and the property where his laboratory was located was sold to a film manufacturer.",
+            "question_answers": [
+                {
+                    "question": "What happened to Tesla's project?",
+                    "answer": "interrupted in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why was Tesla's project interrupted?",
+                    "score": 0.7621,
+                    "answers": "Tesla 's project to be interrupted in|ccomp"
+                },
+                {
+                    "question": "Who owns the property where Tesla's lab was located?",
+                    "score": 0.6985,
+                    "answers": "a film manufacturer|pobj"
+                },
+                {
+                    "question": "How much money was needed to finish the project of Tesla's lab?",
+                    "score": 0.6723,
+                    "answers": "of funds|prep"
+                },
+                {
+                    "question": "What was the name of the film manufacturer that took over the property where Tesla was located?",
+                    "score": 0.5809,
+                    "answers": "on 21/08/2012|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of funds that Tesla received from the film manufacturer?",
+                    "score": 0.5784,
+                    "answers": "funds|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Although the tower of  meters was demolished, the laboratory and the facilities below have remained intact until today, has assured Inman.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the laboratory and facilities below remained intact until today?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many meters was the building of the Laboratory and the facilities below?",
+                    "score": 0.5342,
+                    "answers": "meters|npadvmod"
+                },
+                {
+                    "question": "What was the location of Inman's lab and facilities after it was demolished?",
+                    "score": 0.4959,
+                    "answers": "on 21/08/2012|prep"
+                },
+                {
+                    "question": "What is the tower of Inman?",
+                    "score": 0.4888,
+                    "answers": "the tower of|nsubj"
+                },
+                {
+                    "question": "What is the name of the building where Inman's lab was located?",
+                    "score": 0.483,
+                    "answers": "the facilities below|conj"
+                },
+                {
+                    "question": "What is the evidence of the remains of Inman after the building was demolished?",
+                    "score": 0.4764,
+                    "answers": "elpais.com reported on 21/08/2012 that Although the tower of   meters was demolished , the laboratory and the facilities below have remained intact until today , has assured Inman|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'There is no museum about this scientist and inventor in the United States, and to achieve this goal would ensure that his research would remain protected in what would be called Nikola Tesla Scientific Center ', says Inman.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the facility where Tesla's research would be protected?",
+                    "answer": "Nikola Tesla Scientific Center"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Inman do to ensure his research would remain protected in what would be called Nikola Tesla Scientific Center?",
+                    "score": 0.7621,
+                    "answers": "inventor|conj"
+                },
+                {
+                    "question": "Where is the Nikola Tesla Scientific Center located?",
+                    "score": 0.7416,
+                    "answers": "no museum about this scientist and inventor in the United States|attr\tin the United States|prep"
+                },
+                {
+                    "question": "What is the name of the museum named after Inman?",
+                    "score": 0.6161,
+                    "answers": "about this scientist and inventor|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The total acquisition of the space, valued at some  millions of dollars, seems more within reach thanks to the  dollars that they hope to raise perhaps by far  with this campaign and the contribution of the same amount by the State of New York.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the acquisition of the space on 21/08/2012?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the state of New York contribute to the purchase of the space shuttle program?",
+                    "score": 0.7736,
+                    "answers": "of the same amount|prep"
+                },
+                {
+                    "question": "What is the total acquisition of the space shuttle?",
+                    "score": 0.6947,
+                    "answers": "The total acquisition of the space , valued at some   millions of dollars ,|nsubj\tthat The total acquisition of the space , valued at some   millions of dollars , seems more within reach thanks to|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In addition to the Internet collection, Inman has called on large companies to become part of the project.",
+            "question_answers": [
+                {
+                    "question": "What website reported on Inman's project on 21/08/2012?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Inman call for companies to do with the internet?",
+                    "score": 0.6944,
+                    "answers": "Internet|compound"
+                },
+                {
+                    "question": "What is Inman's stance on internet collection?",
+                    "score": 0.6307,
+                    "answers": "large|amod\tlarge companies|pobj"
+                },
+                {
+                    "question": "What is the purpose of Inman's internet collection project?",
+                    "score": 0.6236,
+                    "answers": "addition to the Internet collection|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It has addressed Google, Tesla Motors and J. P. Morgan, among others.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/08/2012 that it addressed Google, Tesla Motors and J. P. Morgan?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does elpais.com address Google, Tesla Motors, and J. P. Morgan?",
+                    "score": 0.7326,
+                    "answers": "that It has addressed Google , Tesla Motors and J. P. Morgan , among others|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Google and J. P Morgan?",
+                    "score": 0.6345,
+                    "answers": "Google , Tesla Motors and J. P. Morgan , among others|dobj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.519,
+                    "answers": "elpais.com reported on 21/08/2012 that It has addressed Google , Tesla Motors and J. P. Morgan , among others|ROOT\ton 21/08/2012|prep\tthat|mark\tIt|nsubj\thas|aux\t,|punct\tTesla|compound\tand|cc\tP.|compound\t,|punct\tamong others|prep\tothers|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Because, if you finally manage to acquire the property, then you will need more money to turn the place into a museum.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/08/2012 that if you manage to acquire the property, you will need more money to turn it into a museum?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is needed to turn the property into a museum?",
+                    "score": 0.7411,
+                    "answers": "elpais.com reported on 21/08/2012 that Because , if you finally manage to acquire the property , then you will need more money to turn the place into a museum|ROOT\ton 21/08/2012|prep\tthat|mark\tBecause|mark\t,|punct\tif|mark\tyou|nsubj\tfinally|advmod\tif you finally manage to acquire the property|advcl\tto|aux\tto acquire the property|xcomp\tthe|det\tthe property|dobj\t,|punct\tthen|advmod\tyou|nsubj\twill|aux\tthat Because , if you finally manage to acquire the property , then you will need more money to turn the place into a museum|ccomp\tmore|amod\tmore money|dobj\tto|aux\tto turn the place into a museum|advcl\tthe|det\tthe place|dobj\tinto a museum|prep\ta|det\ta museum|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'The  million give us only for the ground ', says Inman.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Inman saying that the million give us only for the ground?",
+                    "score": 0.5092,
+                    "answers": "the ground|pobj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4164,
+                    "answers": "elpais.com reported on 21/08/2012 that ' The   million give us only for the ground ' , says Inman|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "One of those who have taken a step forward has been Elon Musk, creator of PayPal and founder of Tesla Motors, although the amount he will donate has not yet been made public.",
+            "question_answers": [
+                {
+                    "question": "What company did Elon Musk create?",
+                    "answer": "PayPal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Elon Musk donate to Tesla Motors?",
+                    "score": 0.8598,
+                    "answers": "forward|advmod\talthough the amount he will donate has not yet been made public|advcl"
+                },
+                {
+                    "question": "Who is Elon Musk?",
+                    "score": 0.6325,
+                    "answers": "on 21/08/2012|prep\tOne of those who have taken a step forward|nsubj\tof those who have taken a step forward|prep\tthose who have taken a step forward|pobj\twho have taken a step forward|relcl\tElon|compound\tElon Musk , creator of PayPal and founder of Tesla Motors|attr\tcreator of PayPal and founder of Tesla Motors|appos\tfounder of Tesla Motors|conj\tof Tesla Motors|prep"
+                }
+            ]
+        }
+    ]
+}

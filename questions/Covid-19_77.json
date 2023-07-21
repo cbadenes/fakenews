@@ -1,0 +1,472 @@
+{
+    "id": "Covid-19_77",
+    "claim": "On Friday the CDC (Centers for Disease Control and Prevention of the United States) published a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend. The headline of the Washington Post has been: “Following the lifting of restrictions by the state, CDC claims that masking orders can reduce deaths.”. The New York Times states that “the use of masks, according to the CDC study, was related to a decrease in coronavirus infections and Covid-19 deaths”. For its part, the NBC network qualifies the report as a “solid evidence that mandatory masks can slow the spread of the coronavirus”. Since these means lack the slightest credibility, we turn to the original report (1), according to which the difference between the counties that in the United States imposed the masks necessarily and those that is not 1.32 percent in favor of the first ones in the 100 days after their obligatory. As you can see, the difference is insignificant and does not justify media headlines. The report has been written by at least a dozen doctors, doctoral researchers and, curiously, a handful of lawyers. According to the analysis, between 1 March and 31 December last year masks were mandatory in 2. 313 of the 3. 142 counties in the United States. From the data it is possible to make all kinds of cabals, such as the assumption that the fact that masks are not mandatory does not mean that people do not carry them on a voluntary basis. But it can also be thought, in the opposite sense, that although they are mandatory, there are many people who do not carry them. However, from the political point of view, what is of interest is the obligatory nature of these, which is where failure really exists: the imposition of masks, besides being a gesture of humiliation towards people, lacks epidemiological relevance or, in other words, the same results would have been obtained with a simple recommendation of use. If we move from politics to science, the conclusion is identical, as we have stated since the beginning of the pandemic. It's known for decades. For example, in 1981 Neil W. Orr studied the incidence of infections in operating rooms by stopping using masks for 6 months, in which there was no increase in infections in wounds (2). Ten years later surgeons found a much more surprising result, published in the medical journal World Journal of Surgery: the use of surgical masks does not decrease post-operative wound infections. On the contrary: infections are halved when masks are not used (3). All these thesis have been repeated on quite a number of occasions. Consequently, if science is arguing that masks are useless, not even in an operating room, why are people forced to take them down the street?",
+    "source": "mpr21.info",
+    "date": "10/03/2021",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "On Friday the CDC (Centers for Disease Control and Prevention of the United States) published a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend masks a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend masks a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021 that the CDC published a report on the effectiveness of masks in the spread of the coronavirus?",
+                    "answer": "mpr21.info"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the CDC report on the effectiveness of masks for the spread of coronavirus?",
+                    "score": 0.7514,
+                    "answers": "for Disease Control and Prevention|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The headline of the Washington Post has been: “Following the lifting of restrictions masks the state, the CDC (Centers for Disease Control and Prevention of the United States) claims that masking orders can reduce deaths.",
+            "question_answers": [
+                {
+                    "question": "What does the CDC claim can reduce deaths?",
+                    "answer": "masking orders"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the CDC say about masks masks?",
+                    "score": 0.831,
+                    "answers": "of the Washington Post|prep\tDisease Control and Prevention|pobj"
+                },
+                {
+                    "question": "What is the CDC doing to reduce deaths?",
+                    "score": 0.6929,
+                    "answers": "“|punct\tof restrictions masks the state|prep\tthe state|dobj\tthe United States|pobj\torders|dobj\tdeaths|dobj"
+                },
+                {
+                    "question": "What is the CDC?",
+                    "score": 0.5977,
+                    "answers": "the CDC ( Centers for Disease Control and Prevention of the United States )|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The New York Times states that masks use of masks, according to a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend , was related to a decrease in coronavirus infections and Covid-19 deaths”.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the Covid-19 deaths?",
+                    "score": 0.6329,
+                    "answers": "Covid-19|conj"
+                },
+                {
+                    "question": "How many coronavirus infections and Covid-19 deaths occurred each year?",
+                    "score": 0.626,
+                    "answers": "media|compound"
+                },
+                {
+                    "question": "What is the use of masks for coronavirus?",
+                    "score": 0.6237,
+                    "answers": "masks use of masks|nsubj"
+                },
+                {
+                    "question": "How many coronavirus deaths were there over the weekend?",
+                    "score": 0.6222,
+                    "answers": "a triumphant media reception|dobj"
+                },
+                {
+                    "question": "What is the effect of masks on coronavirus?",
+                    "score": 0.6092,
+                    "answers": "mpr21.info reported on 10/03/2021 that The New York Times states that masks use of masks , according to a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend , was related to a decrease in coronavirus infections and Covid-19 deaths ”|ROOT\tthat The New York Times states that masks use of masks , according to a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend , was related to a decrease in coronavirus infections and Covid-19 deaths|ccomp\tin the spread of the coronavirus that has had a triumphant media reception throughout the weekend|prep\tof the coronavirus that has had a triumphant media reception throughout the weekend|prep\tthe coronavirus that has had a triumphant media reception throughout the weekend|pobj\tthat has had a triumphant media reception throughout the weekend|relcl\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "For part, its qualifies a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend as a “solid evidence that mandatory masks can slow the spread of the coronavirus ”.",
+            "question_answers": [
+                {
+                    "question": "What did mpr21.info say mandatory masks can do?",
+                    "answer": "slow the spread of the coronavirus"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How effective are masks to slow the spread of coronavirus?",
+                    "score": 0.7999,
+                    "answers": "mpr21.info reported on 10/03/2021 that For part , its qualifies a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend as a “ solid evidence that mandatory masks can slow the spread of the coronavirus ”|ROOT\tthat|mark\tpart|pobj\t,|punct\tits|nsubj\ta|det\tthe|det\tmasks|pobj\tthe|det\tthe|det\tthat|nsubj\thas|aux\ta|det\ttriumphant|amod\tthe|det\ta|det\tthat|mark\tcan|aux\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What did the coronavirus say about masks?",
+                    "score": 0.7074,
+                    "answers": "on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend|prep\tin the spread of the coronavirus that has had a triumphant media reception throughout the weekend|prep"
+                },
+                {
+                    "question": "What is the purpose of mandatory masks?",
+                    "score": 0.663,
+                    "answers": "mandatory|amod"
+                },
+                {
+                    "question": "What did mpr21.info say about masks in the spread of the coronavirus?",
+                    "score": 0.6224,
+                    "answers": "a triumphant media reception|dobj"
+                },
+                {
+                    "question": "What is the coronavirus?",
+                    "score": 0.5938,
+                    "answers": "the coronavirus|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Since these means lack the slightest the conclusion we turn to the original report (1), according to which the difference between the counties that in the United States the conclusion the difference between the counties that in the United States imposed the masks necessarily and those that is not 1.32 percent in favor of the first ones in the 100 days after obligatory.",
+            "question_answers": [
+                {
+                    "question": "What did mpr21.info say was the difference between the counties that in the United States imposed the masks necessarily and those that is not 1.32 percent in favor of the first ones?",
+                    "answer": "the difference between the counties that in the United States the conclusion the difference between the counties that in the United States imposed the masks necessarily and those that is not 1.32 percent in favor of the first ones"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the difference between the counties that imposed the masks and the counties who imposed the first ones?",
+                    "score": 0.6264,
+                    "answers": "that Since these means lack the slightest the conclusion we turn to the original report ( 1 ) , according to which the difference between the counties that in the United States the conclusion the difference between the counties that in the United States imposed the masks necessarily and those that is not 1.32 percent in favor of the first ones in the 100 days after obligatory|ccomp"
+                },
+                {
+                    "question": "What is the conclusion of the original report?",
+                    "score": 0.5986,
+                    "answers": "Since these means lack the slightest the conclusion|advcl\tthe slightest the conclusion|dobj\tin favor of the first ones in the 100 days after obligatory|prep"
+                }
+            ]
+        },
+        {
+            "claim": "As you can see, the difference between the counties that in the United States is insignificant and does not justify media headlines.",
+            "question_answers": [
+                {
+                    "question": "When did mpr21.info report?",
+                    "answer": "10/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the difference between counties in the United States and counties that do not justify media headlines?",
+                    "score": 0.746,
+                    "answers": "that|mark\tAs|mark\tyou|nsubj\t,|punct\tthe|det\tthe|det\tthe|det\tUnited|compound\tand|cc\tnot|neg"
+                }
+            ]
+        },
+        {
+            "claim": "a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend has been written by at least a dozen doctors, doctoral researchers and, curiously, a handful of lawyers.",
+            "question_answers": [
+                {
+                    "question": "How many doctors wrote a report on the effectiveness of masks in the spread of the coronavirus?",
+                    "answer": "at least a dozen"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who wrote the report on the effectiveness of masks in the spread of coronavirus?",
+                    "score": 0.7089,
+                    "answers": "by at least a dozen doctors , doctoral researchers and , curiously , a handful of lawyers|agent\ta handful of lawyers|conj"
+                },
+                {
+                    "question": "What was the purpose of the coronavirus in spread?",
+                    "score": 0.6269,
+                    "answers": "a report on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend|nsubjpass"
+                },
+                {
+                    "question": "What is coronavirus?",
+                    "score": 0.6207,
+                    "answers": "the spread of the coronavirus that has had a triumphant media reception throughout the weekend|pobj"
+                },
+                {
+                    "question": "What was the coronavirus's effect on masks?",
+                    "score": 0.6177,
+                    "answers": "on the effectiveness of masks in the spread of the coronavirus that has had a triumphant media reception throughout the weekend|prep"
+                },
+                {
+                    "question": "What is the coronavirus?",
+                    "score": 0.6108,
+                    "answers": "of the coronavirus that has had a triumphant media reception throughout the weekend|prep\tthe coronavirus that has had a triumphant media reception throughout the weekend|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the analysis, between 1 March and 31 December last year masks were mandatory in 2.",
+            "question_answers": [
+                {
+                    "question": "What was mandatory between 1 March and 31 December last year?",
+                    "answer": "masks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When were masks mandatory in South Africa between March and December last year?",
+                    "score": 0.7514,
+                    "answers": "1 March and 31 December|pobj"
+                },
+                {
+                    "question": "How many masks were mandatory in December last year?",
+                    "score": 0.6536,
+                    "answers": "31|nummod\t31 December|conj\tin 2|prep"
+                }
+            ]
+        },
+        {
+            "claim": "142 counties in the United States .",
+            "question_answers": [
+                {
+                    "question": "How many counties did mpr21.info report on on 10/03/2021?",
+                    "answer": "142"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many counties are in the United States?",
+                    "score": 0.8423,
+                    "answers": "mpr21.info reported on 10/03/2021 that 142 counties in the United States|ROOT\ton 10/03/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "From the data it is possible to make all kinds of cabals, such as the assumption that the fact that masks are not mandatory does not mean that people do not carry them on a voluntary basis.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021 that it was possible to make all kinds of cabals?",
+                    "answer": "mpr21.info"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are masks mandatory?",
+                    "score": 0.8565,
+                    "answers": "the fact that masks are not mandatory|nsubj\tmasks|nsubj\tthat the fact that masks are not mandatory does not mean that people do not carry them on a voluntary basis|acl"
+                },
+                {
+                    "question": "Are masks voluntary or voluntary?",
+                    "score": 0.8484,
+                    "answers": "voluntary|amod"
+                },
+                {
+                    "question": "What do people think about masks?",
+                    "score": 0.7464,
+                    "answers": "the assumption that the fact that masks are not mandatory does not mean that people do not carry them on a voluntary basis|pobj"
+                },
+                {
+                    "question": "What does it mean to carry masks on a voluntary basis?",
+                    "score": 0.7211,
+                    "answers": "that people do not carry them on a voluntary basis|ccomp"
+                },
+                {
+                    "question": "What is the evidence that masks are not mandatory?",
+                    "score": 0.7018,
+                    "answers": "that From the data it is possible to make all kinds of cabals , such as the assumption that the fact that masks are not mandatory does not mean that people do not carry them on a voluntary basis|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "But it can also be thought, in the opposite sense, that although they are mandatory, there are many people who do not carry them.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021?",
+                    "answer": "mpr21.info"
+                },
+                {
+                    "question": "What can be thought of as a downside of carrying a carry-on?",
+                    "answer": "there are many people who do not carry them"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are people who do not carry them mandatory?",
+                    "score": 0.8721,
+                    "answers": "But|cc\talso|advmod\topposite|amod\talthough|mark\tnot|neg"
+                },
+                {
+                    "question": "How many people do not carry their own bicycles?",
+                    "score": 0.7132,
+                    "answers": "on 10/03/2021|prep\tthat|mark\tit|nsubjpass\tcan|aux\tbe|auxpass\t,|punct\tthe|det\t,|punct\tthat|mark\tthey|nsubj\tmandatory|acomp\t,|punct\tthere|expl\tthat although they are mandatory , there are many people who do not carry them|ccomp\tmany|amod\tmany people who do not carry them|attr\twho|nsubj\tdo|aux\twho do not carry them|relcl\tthem|dobj"
+                },
+                {
+                    "question": "What is mpr21.info?",
+                    "score": 0.5485,
+                    "answers": "in the opposite sense|prep\tthe opposite sense|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, from the political point of view, what is of interest is the obligatory nature of these, which is where failure really exists: the imposition of masks, besides being a gesture of humiliation towards people, lacks epidemiological relevance or, in other words, the same results would have been obtained with a simple recommendation of use.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021?",
+                    "answer": "mpr21.info"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the obligatory nature of the imposition of masks?",
+                    "score": 0.5621,
+                    "answers": "mpr21.info reported on 10/03/2021 that However , from the political point of view , what is of interest is the obligatory nature of these , which is where failure really exists : the imposition of masks , besides being a gesture of humiliation towards people , lacks epidemiological relevance or , in other words , the same results would have been obtained with a simple recommendation of use|ROOT\tthat|mark\tHowever|advmod\t,|punct\tfrom the political point of view|prep\tthe|det\tpolitical|amod\tof view|prep\tview|pobj\t,|punct\twhat|nsubj\tof interest|prep\tinterest|pobj\tthe|det\tof these|prep\tthese|pobj\t,|punct\twhich|nsubj\twhere|advmod\tfailure|nsubj\treally|advmod\twhere failure really exists|advcl\t:|punct\tthe|det\tthe imposition of masks|nsubj\tof masks|prep\tmasks|pobj\t,|punct\tbeing a gesture of humiliation towards people|pcomp\ta|det\tof humiliation towards people|prep\thumiliation towards people|pobj\ttowards people|prep\tpeople|pobj\t,|punct\tor|cc\t,|punct\tin other words|prep\tother|amod\tother words|pobj\t,|punct\tthe|det\tsame|amod\tthe same results|nsubjpass\twould|aux\thave|aux\tbeen|auxpass\twith a simple recommendation of use|prep\ta|det\tsimple|amod\tof use|prep\tuse|pobj"
+                },
+                {
+                    "question": "What is mpr21.info?",
+                    "score": 0.4352,
+                    "answers": "a simple recommendation of use|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "If we move from politics to science, the conclusion is identical, as we have stated since the beginning of the pandemic.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021 that if we move from politics to science, the conclusion would be identical?",
+                    "answer": "mpr21.info"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the conclusion of the pandemic if we move from politics to science?",
+                    "score": 0.6301,
+                    "answers": "the pandemic|pobj"
+                },
+                {
+                    "question": "What is the relationship between politics and science?",
+                    "score": 0.5569,
+                    "answers": "on 10/03/2021|prep\tthat|mark\tIf|mark\twe|nsubj\tfrom politics|prep\tpolitics|pobj\tscience|pobj\t,|punct\tthe|det\t,|punct\tas|mark\twe|nsubj\thave|aux\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "It's known for decades.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021 that it's known for decades?",
+                    "answer": "mpr21.info"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is mpr21.info?",
+                    "score": 0.6878,
+                    "answers": "mpr21.info reported on 10/03/2021 that It 's known for decades|ROOT\ton 10/03/2021|prep\tthat|mark\tIt|nsubjpass\t's|auxpass\tthat It 's known for decades|ccomp\tfor decades|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For example, in 1981 Neil W. Orr studied the incidence of infections in operating rooms by stopping using masks for 6 months, in which there was no increase in infections in wounds (2).",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021 that Neil W. Orr studied the incidence of infections in operating rooms by stopping using masks for 6 months?",
+                    "answer": "mpr21.info"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Neil W. Orr study about operating rooms in 1981?",
+                    "score": 0.6197,
+                    "answers": "mpr21.info reported on 10/03/2021 that For example , in 1981 Neil W. Orr studied the incidence of infections in operating rooms by stopping using masks for 6 months , in which there was no increase in infections in wounds ( 2 )|ROOT\tthat|mark\tFor example|prep\texample|pobj\t,|punct\tin 1981|prep\tW.|compound\tthat For example , in 1981 Neil W. Orr studied the incidence of infections in operating rooms by stopping using masks for 6 months , in which there was no increase in infections in wounds ( 2 )|ccomp\tthe|det\toperating|compound\toperating rooms|pobj\t6|nummod\t,|punct\tin which|prep\twhich|pobj\tthere|expl\tno|det\tin wounds|prep\t(|punct\t)|punct"
+                },
+                {
+                    "question": "What are the effects of using masks in operating rooms for 6 months?",
+                    "score": 0.5702,
+                    "answers": "infections in wounds|pobj"
+                },
+                {
+                    "question": "What is mpr21.info?",
+                    "score": 0.5377,
+                    "answers": "wounds|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Ten years later surgeons found a much more surprising result, published in the medical journal World Journal of Surgery: the use of surgical masks does not decrease post-operative wound infections.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the article published by mpr21.info on 10/03/2021?",
+                    "answer": "World Journal of Surgery: the use of surgical masks does not decrease post-operative wound infections"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the World Journal of Surgery say about the use of surgical masks?",
+                    "score": 0.8585,
+                    "answers": "a much more surprising result , published in the medical journal World Journal of Surgery : the use of surgical masks does not decrease post - operative wound infections|dobj\tthe use of surgical masks|nsubj"
+                },
+                {
+                    "question": "How many post-operative wound infections are there each year?",
+                    "score": 0.8075,
+                    "answers": "post - operative wound infections|dobj"
+                },
+                {
+                    "question": "What medical journal is World Journal of Surgery?",
+                    "score": 0.8053,
+                    "answers": "the medical journal World Journal of Surgery|pobj"
+                },
+                {
+                    "question": "What is the relationship between surgery masks and post-operative wound infections?",
+                    "score": 0.7407,
+                    "answers": "that Ten years later surgeons found a much more surprising result , published in the medical journal World Journal of Surgery : the use of surgical masks does not decrease post - operative wound infections|ccomp"
+                },
+                {
+                    "question": "What is mpr21.info?",
+                    "score": 0.6412,
+                    "answers": "medical|amod\tof Surgery|prep\tSurgery|pobj\toperative|amod\twound|compound"
+                }
+            ]
+        },
+        {
+            "claim": "On the contrary: infections are halved when masks are not used (3).",
+            "question_answers": [
+                {
+                    "question": "When are infections halved?",
+                    "answer": "masks are not used"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many infections are halved when masks are not used?",
+                    "score": 0.7138,
+                    "answers": "mpr21.info reported on 10/03/2021 that On the contrary : infections are halved when masks are not used ( 3 )|ROOT\ton 10/03/2021|prep\tthat|mark\tOn the contrary|prep\tthe|det\tthe contrary|pobj\t:|punct\tinfections|nsubjpass\tare|auxpass\tthat On the contrary : infections are halved when masks are not used|ccomp\twhen|advmod\tmasks|nsubjpass\tare|auxpass\tnot|neg\twhen masks are not used|advcl\t(|punct\t)|punct"
+                }
+            ]
+        },
+        {
+            "claim": "All these thesis have been repeated on quite a number of occasions.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021 that All these thesis have been repeated quite a number of times?",
+                    "answer": "mpr21.info"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many times has mpr21.info been used?",
+                    "score": 0.807,
+                    "answers": "on quite a number of occasions|prep\tquite a number of occasions|pobj\tof occasions|prep"
+                },
+                {
+                    "question": "What is mpr21.info?",
+                    "score": 0.671,
+                    "answers": "on 10/03/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Consequently, if science is arguing that masks are useless, not even in an operating room, why are people forced to take them down the street?.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/03/2021 that if science is arguing that masks are useless, why are people forced to take them down the street?",
+                    "answer": "mpr21.info"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why are people forced to take masks down the street?",
+                    "score": 0.7869,
+                    "answers": "on 10/03/2021|prep\tthat masks are useless , not even in an operating room|ccomp\tnot even in an operating room|prep"
+                },
+                {
+                    "question": "What is mpr21.info?",
+                    "score": 0.4816,
+                    "answers": "that|mark\tConsequently|advmod\t,|punct\tif|mark\tscience|nsubj\tis|aux\tthat|mark\tmasks|nsubj\tuseless|acomp\t,|punct\tnot|neg\teven|advmod\tan|det\toperating|compound\t,|punct\tare|auxpass\tpeople|nsubjpass\tto|aux\tthem|dobj\tthe|det\t?|punct"
+                }
+            ]
+        }
+    ]
+}

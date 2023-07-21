@@ -1,0 +1,243 @@
+{
+    "id": "4_Science_149",
+    "claim": "The ancestor common to all placental mammals such as man, horse, dog, monkey or whale appeared after the extinction of dinosaurs millions of years ago , as shown by an international research published on Thursday. This study solves the debate about the origins of mammals, which previous works placed before the disappearance of dinosaurs and the % of the species of the planet that would have been caused, according to the most commonly accepted theory, by the impact of an asteroid that revolutionized the climate. To reach this conclusion, the researchers relied on the largest data bank in the world where they compared the genetic and morphological traits of the different species to reconstruct the genealogical tree of placental mammals, the most important branch of this family that has more than  living species. However, previous genetic analyses had suggested that mammals were already a diversified group at the end of the Cretaceous period. From now on, it is estimated that its emergence was between  and  years after the disappearance of the dinosaurs. 'It is about  millions of years later than estimates based only on genetic data ', underlines Marcelo Weksler, paleontologist of the National Museum-UFRJ of Brazil and one of the  coauthors of the study published in the American journal Science with date of  of February. To go back to the common ancestor of mammals, an animal that would have been the size of a small rat, these scientists degrated the physical and genetic characteristics of  species,  of them already extinct but known thanks to fossils. In the process they collected  morphological characteristics such as the presence or absence of wings, teeth and certain types of skeletons, and then combined them with genetic data. This databank contains ten times more information than those used so far to study the history of mammals, according to researchers, while requiring that it is accessible to the public on the Internet, on the *URL* site with more than  illustrations. I'm sorry.",
+    "source": "www.nacion.com",
+    "date": "20/07/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The ancestor common to all placental mammals such as man, horse, dog, monkey or whale appeared after the extinction of dinosaurs millions of years ago , as shown by an international research published on Thursday .",
+            "question_answers": [
+                {
+                    "question": "How long ago was the extinction of dinosaurs?",
+                    "answer": "millions of years ago"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the first placental mammals appear?",
+                    "score": 0.8616,
+                    "answers": "after the extinction of dinosaurs|prep"
+                },
+                {
+                    "question": "How long has it been since the extinction of dinosaurs?",
+                    "score": 0.8063,
+                    "answers": "millions of years|npadvmod\tof years|prep\tyears|pobj"
+                },
+                {
+                    "question": "What did the international research published on Thursday find about the ancestors of man, horse, dog, and monkey?",
+                    "score": 0.7593,
+                    "answers": "by an international research published on Thursday|agent"
+                },
+                {
+                    "question": "What is the origin of whales?",
+                    "score": 0.7357,
+                    "answers": "whale|conj"
+                }
+            ]
+        },
+        {
+            "claim": "an international research published on Thursday solves the debate about the origins of mammals, which previous works placed before the extinction of dinosaurs and the % of the species of the planet that would have been caused, according to the most commonly accepted theory, by the impact of an asteroid that revolutionized the climate.",
+            "question_answers": [
+                {
+                    "question": "What did the research solve the debate about the origins of mammals?",
+                    "answer": "the % of the species of the planet that would have been caused, according to the most commonly accepted theory, by the impact of an asteroid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did an international research published on Thursday solve the debate about the origins of mammals?",
+                    "score": 0.7514,
+                    "answers": "that|mark\tan|det\tinternational|amod\ton Thursday|prep\tthe|det\tthe|det\t,|punct\twhich|dobj\tbefore the extinction of dinosaurs|prep\tthe|det\tof dinosaurs|prep\tand|cc\tthe|det\tthe|det\tthe species of the planet|pobj\tof the planet|prep\tthe|det\tthat|nsubjpass\thave|aux\tbeen|auxpass\t,|punct\tthe|det\tmost|advmod\t,|punct\tthe|det\tan|det\tthat|nsubj\tthe|det"
+                },
+                {
+                    "question": "What was the impact of an asteroid on the species of the planet that would have been caused by the extinction of dinosaurs?",
+                    "score": 0.7216,
+                    "answers": "dinosaurs|pobj"
+                },
+                {
+                    "question": "What is the most commonly accepted theory about the extinction of the planet?",
+                    "score": 0.6104,
+                    "answers": "the most commonly accepted theory|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "To reach solves , the researchers relied on the largest data bank in the world where the researchers compared the genetic and morphological traits of the different species to reconstruct the genealogical tree of placental mammals, the most important branch of this family that has more than  living species.",
+            "question_answers": [
+                {
+                    "question": "Why did the researchers use the largest data bank in the world to reconstruct the genealogical tree of placental mammals?",
+                    "answer": "To reach solves"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the researchers rely on the largest data bank to reconstruct the genealogical tree of placental mammals?",
+                    "score": 0.7596,
+                    "answers": "of the different species|prep"
+                },
+                {
+                    "question": "What is the most important branch of placental mammals?",
+                    "score": 0.6677,
+                    "answers": "where|advmod\twhere the researchers compared the genetic and morphological traits of the different species to reconstruct the genealogical tree of placental mammals , the most important branch of this family that has more than|relcl\tto reconstruct the genealogical tree of placental mammals , the most important branch of this family that has more than|advcl\tof placental mammals , the most important branch of this family that has more than|prep\tplacental|amod\tplacental mammals , the most important branch of this family that has more than|pobj"
+                },
+                {
+                    "question": "What is the genetic and morphological traits of the different species?",
+                    "score": 0.5914,
+                    "answers": "that|mark\tTo|aux\t,|punct\tthe|det\tthe|det\tthe|det\tthe|det\tthe|det\tgenetic and morphological|amod\tand|cc\tmorphological|conj\tthe genetic and morphological traits of the different species|dobj\tthe|det\tdifferent|amod\tto|aux\tthe|det\t,|punct\tthe|det\tmost|advmod\tthis|det\tthat|nsubj\tthat has more than|relcl\tthan|prep\t  living species|dep\tliving|amod\tliving species|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, previous genetic analyses had suggested that mammals were already a diversified group at the end of the Cretaceous period.",
+            "question_answers": [
+                {
+                    "question": "When did www.nacion.com report that mammals were already a diversified group at the end of the Cretaceous period?",
+                    "answer": "20/07/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many mammals were in a diversified group at the end of the Cretaceous period?",
+                    "score": 0.8113,
+                    "answers": "on 20/07/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "From now on, it is estimated that dinosaurs was between  and  years after the extinction of dinosaurs .",
+            "question_answers": [
+                {
+                    "question": "When did www.nacion.com report that dinosaurs was estimated to be between and years after the extinction of dinosaurs?",
+                    "answer": "20/07/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the extinction of dinosaurs occur?",
+                    "score": 0.8851,
+                    "answers": "the extinction of dinosaurs|pobj"
+                },
+                {
+                    "question": "What is the date of extinction of dinosaurs?",
+                    "score": 0.8121,
+                    "answers": ",|punct"
+                }
+            ]
+        },
+        {
+            "claim": "'dinosaurs is about  millions of years later than estimates based only on genetic data ', underlines Marcelo Weksler, paleontologist of the National Museum-UFRJ of Brazil and one of the  coauthors of an international research published on Thursday .",
+            "question_answers": [
+                {
+                    "question": "What did www.nacion.com report that Dinosaurs are about millions of years later than estimates based on?",
+                    "answer": "genetic data"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many years did it take for scientists to studyosaurs?",
+                    "score": 0.773,
+                    "answers": "of years later than estimates based only on genetic data|prep\tyears later than estimates based only on genetic data|pcomp\tgenetic|amod"
+                },
+                {
+                    "question": "What is the source of evidence of Dinosaurs' genetic data?",
+                    "score": 0.7622,
+                    "answers": "genetic data|pobj"
+                },
+                {
+                    "question": "What is the date of the scientific study of dinosaurs?",
+                    "score": 0.751,
+                    "answers": "www.nacion.com reported on 20/07/2021 that ' dinosaurs is about|ROOT"
+                },
+                {
+                    "question": "What is the genetic data ofosaurs?",
+                    "score": 0.7288,
+                    "answers": "than estimates based only on genetic data|prep\testimates based only on genetic data|pobj\tof the National Museum - UFRJ of Brazil|prep\tthe National Museum - UFRJ of Brazil|pobj"
+                },
+                {
+                    "question": "What is the current population ofosaurs?",
+                    "score": 0.6935,
+                    "answers": "on 20/07/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "To go back to the common ancestor of mammals, an animal that would have been the size of a small rat, the researchers degrated the physical and genetic characteristics of  its emergence .",
+            "question_answers": [
+                {
+                    "question": "When did www.nacion.com report that mammals were the size of a rat?",
+                    "answer": "20/07/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the physical and genetic characteristics of the common ancestor of mammals?",
+                    "score": 0.7091,
+                    "answers": "To go back to the common ancestor of mammals , an animal that would have been the size of a small rat ,|advcl\tcommon|amod"
+                },
+                {
+                    "question": "What is the size of a rat?",
+                    "score": 0.6954,
+                    "answers": "www.nacion.com reported on 20/07/2021 that To go back to the common ancestor of mammals , an animal that would have been the size of a small rat , the researchers degrated the physical and genetic characteristics of   its emergence|ROOT\tof mammals , an animal that would have been the size of a small rat|prep\tmammals , an animal that would have been the size of a small rat|pobj\tan animal that would have been the size of a small rat|appos\tthat would have been the size of a small rat|relcl\tthe size of a small rat|attr\tof a small rat|prep\tsmall|amod\ta small rat|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In the process they collected  morphological characteristics such as the presence or absence of wings, teeth and certain types of skeletons, and then combined them with genetic data.",
+            "question_answers": [
+                {
+                    "question": "When did www.nacion.com report that they collected morphological characteristics?",
+                    "answer": "20/07/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the morphological characteristics of skeletons?",
+                    "score": 0.7278,
+                    "answers": "of skeletons|prep"
+                },
+                {
+                    "question": "What are the genetic characteristics of morphological characteristics like wings, teeth and certain types of skeletons?",
+                    "score": 0.6721,
+                    "answers": "genetic|amod"
+                },
+                {
+                    "question": "What is genetic data?",
+                    "score": 0.6651,
+                    "answers": "with genetic data|prep"
+                },
+                {
+                    "question": "What is the genetic data collected by the National Institute of Health Sciences?",
+                    "score": 0.6389,
+                    "answers": "genetic data|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This databank contains ten times more information than those used so far to study the history of mammals, according to researchers, while requiring that it is accessible to the public on the Internet, on the *URL* site with more than  illustrations.",
+            "question_answers": [
+                {
+                    "question": "When did www.nacion.com report that the databank contained ten times more information than those used to study the history of mammals?",
+                    "answer": "20/07/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much information does a databank contain?",
+                    "score": 0.8283,
+                    "answers": "www.nacion.com|nsubj\twww.nacion.com reported on 20/07/2021 that This databank contains ten times more information than those used so far to study the history of mammals , according to researchers , while requiring that it is accessible to the public on the Internet , on the * URL * site with more than   illustrations|ROOT\ton 20/07/2021|prep\tThis databank|nsubj\tthat This databank contains ten times more information than those used so far to study the history of mammals , according to researchers , while requiring that it is accessible to the public on the Internet , on the * URL * site with more than|ccomp\tten times|npadvmod\tten times more|amod\tthan those used so far to study the history of mammals|prep\taccording to researchers|prep\taccessible to the public on the Internet , on the * URL * site|acomp\ton the Internet , on the * URL * site|prep\ton the * URL * site|prep\tthe * URL * site|pobj\twith more than|prep\tmore than|pobj"
+                },
+                {
+                    "question": "How much information is available to the public on the internet?",
+                    "score": 0.7757,
+                    "answers": "ten times more information than those used so far to study the history of mammals|dobj\tto the public|prep\tthe public|pobj\tthe Internet|pobj"
+                },
+                {
+                    "question": "What is the purpose of a databank?",
+                    "score": 0.7188,
+                    "answers": "those used so far to study the history of mammals|pobj\tused so far to study the history of mammals|acl\tto study the history of mammals|xcomp\twhile requiring that it is accessible to the public on the Internet , on the * URL * site with more than|advcl\tthat it is accessible to the public on the Internet , on the * URL * site with more than|ccomp"
+                }
+            ]
+        }
+    ]
+}

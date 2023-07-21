@@ -1,0 +1,252 @@
+{
+    "id": "58_Security_192",
+    "claim": "Jewels, personal documents, and cash are some of the things that the thieves took for four hours, reported the Procuraduría CapitalinaThe Procuraduría Capitalina has images of at least three of the criminals who entered last Saturday at the home of driver Andrea Legarreta to steal jewelry, personal documents, and cash not yet quantified; the first advances in the investigation detail that apparently entered the house of the same actress by an abandoned site adjacent to her. The criminals took advantage that Andrea's family was gone, they were in at least four hours, time in which they checked everything and chose to steal what they considered valuable. It was not until the inhabitants returned that they realized the outrage and immediately asked the authorities for help. In this sense, it was announced that the activity of the criminals was recorded in the security cameras that the home counts, also the escape route that they used, since in the streets around the colony where the robbery was perpetrated in the Tlalpan delegation there are also security cameras. Also located is the vehicle that they used for the escape. So far it is not ruled out that the criminals who entered the home of the Hoy program driver are an organized gang dedicated to this crime in Coyoacán, Tlalpan and Magdalena Contreras. 'We learned through social media about the event that happened on Saturday and immediately started the investigation kit, it is up to this moment that the affected family is raising the complaint because it was not here and we are already raising the indications and assessments that can lead to the capture of the suspects ', commented the provincial attorney, Edmundo Garrido. Both Erik Rubín, who was at a Timbiriche concert in Guadalajara at the time of the robbery, and Andrea Legarreta declined to give interviews. I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "24/10/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Jewels, personal documents, and cash are some of the things that the thieves took for four hours, reported the Procuraduría CapitalinaThe Procuraduría Capitalina has images of at least three of the thieves ; the first advances in the investigation detail that apparently entered the home of driver Andrea Legarreta by an abandoned site adjacent to driver Andrea Legarreta .",
+            "question_answers": [
+                {
+                    "question": "The Procuradura Capitalina has images of how many thieves?",
+                    "answer": "three of the thieves"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the thieves do with the stolen documents?",
+                    "score": 0.7572,
+                    "answers": "cash|conj"
+                },
+                {
+                    "question": "What did the Procuraduría Capitalina steal?",
+                    "score": 0.754,
+                    "answers": "personal|amod"
+                },
+                {
+                    "question": "Where did the thieves enter the home of Andrea Legarreta?",
+                    "score": 0.7477,
+                    "answers": "an abandoned site adjacent to driver Andrea Legarreta|pobj"
+                },
+                {
+                    "question": "How long did it take for the thieves to steal money and personal documents?",
+                    "score": 0.7461,
+                    "answers": "that Jewels , personal documents , and cash are some of the things that the thieves took for four hours|ccomp"
+                },
+                {
+                    "question": "What was the crime committed by the thieves?",
+                    "score": 0.7104,
+                    "answers": "the first advances in the investigation detail that apparently entered the home of driver Andrea Legarreta by an abandoned site adjacent to driver Andrea Legarreta|dep"
+                }
+            ]
+        },
+        {
+            "claim": "the thieves took advantage that Andrea's family was gone, the thieves were in at least four hours, time in which the thieves checked everything and chose to steal what the thieves considered valuable.",
+            "question_answers": [
+                {
+                    "question": "When did the thieves take advantage that Andrea's family was gone?",
+                    "answer": "24/10/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the thieves do to steal Andrea's family's property?",
+                    "score": 0.8153,
+                    "answers": "that the thieves took advantage that Andrea 's family was gone , the thieves were in at least four hours , time the thieves checked everything and in which chose to steal what the thieves considered valuable|ccomp"
+                },
+                {
+                    "question": "How many hours did the thieves steal from Andrea's family?",
+                    "score": 0.7973,
+                    "answers": "at least four|nummod"
+                },
+                {
+                    "question": "Who took advantage of Andrea's family?",
+                    "score": 0.7596,
+                    "answers": "the thieves took advantage that Andrea 's family was gone|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It was not until Andrea's family returned that Andrea's family realized the outrage and immediately asked the authorities for help.",
+            "question_answers": [
+                {
+                    "question": "When did Andrea's family realize the outrage?",
+                    "answer": "Andrea's family returned"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Andrea's family ask for help?",
+                    "score": 0.8768,
+                    "answers": "www.eluniversal.com.mx reported on 24/10/2017 that It was not until Andrea 's family returned Andrea 's family realized the outrage and that immediately asked the authorities for help|ROOT\tnot|neg\tAndrea 's family realized the outrage and that immediately asked the authorities for help|ccomp\timmediately|advmod"
+                },
+                {
+                    "question": "What did Andrea's family do to help the authorities?",
+                    "score": 0.84,
+                    "answers": "that It was not until Andrea 's family returned Andrea 's family realized the outrage and that immediately asked the authorities for help|ccomp\tthe outrage|dobj\tthat immediately asked the authorities for help|conj"
+                },
+                {
+                    "question": "What was the relationship between Andrea and Andrea?",
+                    "score": 0.8241,
+                    "answers": "Andrea 's|poss\tAndrea 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "In this sense, it was announced that the activity of the thieves was recorded in the security cameras that the home of driver Andrea Legarreta counts, also the escape route that the thieves used, since in the streets around the colony where the robbery was perpetrated in the Tlalpan delegation there are also security cameras.",
+            "question_answers": [
+                {
+                    "question": "Where are there security cameras in the Tlalpan delegation?",
+                    "answer": "in the streets around the colony where the robbery was perpetrated"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where were the robbery occured in the Tlalpan delegation?",
+                    "score": 0.6995,
+                    "answers": "in the streets around the colony where the robbery was perpetrated in the Tlalpan delegation|prep"
+                },
+                {
+                    "question": "What is the evidence of the activity of thieves in South Africa?",
+                    "score": 0.6663,
+                    "answers": "the activity of the thieves|nsubjpass"
+                },
+                {
+                    "question": "What was the method used to capture the thieves?",
+                    "score": 0.6561,
+                    "answers": "the colony where the robbery was perpetrated|pobj\tthe robbery|nsubjpass\twhere the robbery was perpetrated|relcl"
+                },
+                {
+                    "question": "How many security cameras are there in South Africa?",
+                    "score": 0.6515,
+                    "answers": "security|compound\tsince in the streets around the colony where the robbery was perpetrated in the Tlalpan delegation there are also security cameras|advcl\tsecurity|compound\tsecurity cameras|attr"
+                },
+                {
+                    "question": "What are the security cameras that the thieves used?",
+                    "score": 0.65,
+                    "answers": "www.eluniversal.com.mx|nsubj\tthe Tlalpan delegation|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Also located is the vehicle that the thieves used for the escape.",
+            "question_answers": [
+                {
+                    "question": "What was located on 24/10/2017 by www.eluniversal.com.mx?",
+                    "answer": "the vehicle that the thieves used for the escape"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the vehicle that the thieves used for escape?",
+                    "score": 0.6945,
+                    "answers": "www.eluniversal.com.mx reported on 24/10/2017 that Also located is the vehicle that the thieves used for the escape|ROOT\tthat|mark\tAlso|advmod\tAlso located|acomp\tthe|det\tthat|dobj\tthe|det\tfor the escape|prep\tthe|det\tthe escape|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "So far it is not ruled out that the thieves are an organized gang dedicated to this crime in Coyoacán, Tlalpan and Magdalena Contreras.",
+            "question_answers": [
+                {
+                    "question": "What type of gang did the thieves belong to?",
+                    "answer": "organized gang"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the crime committed by the thieves in Coyoacán, Tlalpan and Magdalena Contreras?",
+                    "score": 0.7571,
+                    "answers": "to this crime|prep"
+                },
+                {
+                    "question": "What is the evidence of gang affiliation in Coyoacán, Tlalpan, and Magdalena Contreras?",
+                    "score": 0.7303,
+                    "answers": "this|det"
+                },
+                {
+                    "question": "Who are the thieves in Coyoacán and Magdalena Contreras?",
+                    "score": 0.7188,
+                    "answers": "Tlalpan and Magdalena Contreras|conj"
+                },
+                {
+                    "question": "What is Magdalena Contreras?",
+                    "score": 0.6794,
+                    "answers": "Magdalena|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'the Procuraduría CapitalinaThe learned through social media about the robbery and immediately started the investigation kit, it is up to this moment that Andrea's family is raising the complaint because it was not here and the Procuraduría CapitalinaThe are already raising the indications and assessments that can lead to the capture of the thieves ', commented the provincial attorney, Edmundo Garrido.",
+            "question_answers": [
+                {
+                    "question": "What did the Procuradura Capitalina raise the indications and assessments that could lead to?",
+                    "answer": "the capture of the thieves"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Procuraduría Capitalina learn about the robbery?",
+                    "score": 0.7099,
+                    "answers": "about the robbery|prep"
+                },
+                {
+                    "question": "What did the family say about the robbery?",
+                    "score": 0.6917,
+                    "answers": "that Andrea 's family is raising the complaint because it was not here|ccomp"
+                },
+                {
+                    "question": "What is the investigation into the robbery?",
+                    "score": 0.6224,
+                    "answers": "immediately started the investigation kit|conj"
+                },
+                {
+                    "question": "What is the evidence of the capture of the thieves?",
+                    "score": 0.5856,
+                    "answers": "up to this moment|prep\tthe capture of the thieves|pobj"
+                },
+                {
+                    "question": "Who is the Procuraduría Capitalina?",
+                    "score": 0.5004,
+                    "answers": "the provincial attorney , Edmundo Garrido|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Both Erik Rubín, who was at a Timbiriche concert in Guadalajara at the time of the robbery, and Andrea Legarreta declined to give interviews.",
+            "question_answers": [
+                {
+                    "question": "Where was the Timbiriche concert?",
+                    "answer": "Guadalajara"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the robbery occur in Guadalajara?",
+                    "score": 0.8688,
+                    "answers": "in Guadalajara|prep"
+                },
+                {
+                    "question": "Where was the Timbiriche concert held?",
+                    "score": 0.8523,
+                    "answers": "a Timbiriche concert in Guadalajara|pobj"
+                },
+                {
+                    "question": "What did Legarreta say about the robbery in Guadalajara?",
+                    "score": 0.8435,
+                    "answers": "interviews|dobj"
+                },
+                {
+                    "question": "Who was at a Timbiriche concert in Guadalajara in 2017?",
+                    "score": 0.8234,
+                    "answers": "Both Erik Rubín , who was at a Timbiriche concert in Guadalajara at the time of the robbery , and Andrea Legarreta|nsubj\twho was at a Timbiriche concert in Guadalajara at the time of the robbery|relcl\tthat Both Erik Rubín , who was at a Timbiriche concert in Guadalajara at the time of the robbery , and Andrea Legarreta declined to give interviews|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the robbery of Erik Rubin?",
+                    "score": 0.8108,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        }
+    ]
+}

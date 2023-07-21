@@ -1,0 +1,570 @@
+{
+    "id": "153_Society_52",
+    "claim": "In January of , when President Enrique Peña Nieto was barely in his second month of rule, his family traveled to Key Biscayne, Miami, Florida, where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building. Peña Nieto did not travel with his family, as he was visiting Chile, to participate in the Summit of the Community of Latin American and Caribbean States and the European Union, also known as the Celac-EU Summit. In Miami, the president's family was accompanied by escorts from the Presidential General Staff (EMP), who rented seven rooms at the luxury hotel The Ritz-Carlton, from the  to the  in January of that year. On that occasion, only for the flights to Miami and the lodging in Key Biscayne for the officers of the General Staff, the Presidency disbursed little more than 1,000 pesos. That wasn't the only visit to that tourist destination. Between  and , EMP trips to Florida have been repeated during  occasions, of which  have been to Key Biscayne, where Rivera has his department. The journeys of the EMP to Key Biscayne have cost taxpayers little more than million 1,000 pesos, according to the vouchers of flights and lodging that the Presidency gave to Aristegui News, through the Law of Transparency. For lodgings, the Presidency has disbursed million 1,000 pesos. For plane tickets, they've spent almost a thousand pesos. Although the EMP reported trips to Florida on May *, in addition to February, April and JuneNUMBER*, the expenditure vouchers for those dates were not provided via transparency. Travel has been justified under article , section I, of the Presidential General Staff Regulations which establishes the obligation of this body to ensure the safety of the President and his family. The last trip of the EMP to Key Biscayne that has been recorded, occurred on August  last year. Just that same day, the British newspaper The Guardian revealed that Rivera's department property was paid for by businessman Ricardo Pierdant, Peña Nieto's friend. The value of Rivera's department oscillates the  millions of dollars and occupies the  number of the Ocean Tower One building. The latest trips have been the most economical of the EMP as well. The security team is no longer staying at The Ritz-Carlton but has chosen the Silver Sands Beach Resort, a simple hotel with a much lower price. Miami is not the only tourist destination where the First Lady goes with escort. The General Staff also accompanied Angelica Rivera to Brazil, during the  Soccer World Cup, and Beverly Hills, in Los Angeles, California, in April of , where he went shopping and visited Disney Park. Just for these two trips, the Presidency eroding more than  a thousand pesos in public resources to care for the First Lady and her family. I'm sorry.",
+    "source": "aristeguinoticias.com",
+    "date": "01/01/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "In January of , when President Enrique Peña Nieto was barely in the President month of rule, his family traveled to Key Biscayne, Miami, Florida, where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building .",
+            "question_answers": [
+                {
+                    "question": "When did President Enrique Pea Nieto's family travel to Key Biscayne?",
+                    "answer": "January of"
+                },
+                {
+                    "question": "When did President Enrique Pea Nieto's family travel to Key Biscayne?",
+                    "answer": "January of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did President Enrique Peña Nieto's family visit Key Biscayne?",
+                    "score": 0.7906,
+                    "answers": "that|mark\tof|prep\t,|punct\twhen|advmod\tEnrique|compound\t,|punct\this|poss\t,|punct\t,|punct\t,|punct"
+                },
+                {
+                    "question": "Where did Angelica Rivera live in January of 2018?",
+                    "score": 0.6847,
+                    "answers": "to Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|prep\tKey Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|pobj"
+                },
+                {
+                    "question": "What was the relationship between President Enrique Peña Nieto and First Lady Angelica Rivera?",
+                    "score": 0.6307,
+                    "answers": "President|compound\tPresident|compound\tof rule|prep\trule|pobj"
+                },
+                {
+                    "question": "What is the name of Angelica Rivera's apartment?",
+                    "score": 0.6212,
+                    "answers": "Angelica|compound"
+                },
+                {
+                    "question": "Where is the Ocean Tower One luxury building?",
+                    "score": 0.6108,
+                    "answers": "where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|relcl\tan apartment in the Ocean Tower One luxury building|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "President Enrique Peña Nieto did not travel with his family , as President Enrique Peña Nieto was visiting Chile, to participate in the Summit of the Community of Latin American and Caribbean States and the European Unionthe Presidency as the Presidency Celac-EU Summit.",
+            "question_answers": [
+                {
+                    "question": "What did aristeguinoticias.com report on 01/01/2023",
+                    "answer": "did not travel with his family"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did President Enrique Peña Nieto travel with his family to Chile?",
+                    "score": 0.8866,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that President Enrique Peña Nieto did not travel with his family , as President Enrique Peña Nieto was visiting Chile , to participate in the Summit of the Community of Latin American and Caribbean States and the European Unionthe Presidency as the Presidency Celac - EU Summit|ROOT\tthat President Enrique Peña Nieto did not travel with his family , as President Enrique Peña Nieto was visiting Chile , to participate in the Summit of the Community of Latin American and Caribbean States and the European Unionthe Presidency as the Presidency|ccomp\this family|pobj"
+                },
+                {
+                    "question": "When did Peña Nieto visit Chile?",
+                    "score": 0.8711,
+                    "answers": "as President Enrique Peña Nieto was visiting Chile , to participate in the Summit of the Community of Latin American and Caribbean States and the European Unionthe|advcl"
+                },
+                {
+                    "question": "Did Peña Nieto attend the Summit of the Community of Latin American and Caribbean States?",
+                    "score": 0.8552,
+                    "answers": "did|aux\tnot|neg\tto|aux"
+                },
+                {
+                    "question": "What is the presidency of the European Unionthe presidency?",
+                    "score": 0.6281,
+                    "answers": "the Summit of the Community of Latin American and Caribbean States and the European Unionthe|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In Miami, Florida the President his family was accompanied by escorts from the Presidential General Staff (EMP) , who rented seven rooms at the luxury hotel The RitzRivera's in January of that year.",
+            "question_answers": [
+                {
+                    "question": "What did aristeguinoticias.com report on 01/01/2023",
+                    "answer": "the President his family was accompanied by escorts from the Presidential General Staff (EMP)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who rented seven rooms at The Ritz Riveraa's in January of 2018?",
+                    "score": 0.6273,
+                    "answers": "by escorts from the Presidential General Staff ( EMP ) , who rented seven rooms at the luxury hotel The RitzRivera 's in January of that year|agent"
+                },
+                {
+                    "question": "Where did the President's family stay in Miami in January of 2023?",
+                    "score": 0.6166,
+                    "answers": "at the luxury hotel The RitzRivera 's|prep"
+                },
+                {
+                    "question": "How many rooms did The Ritz Riveraa's have?",
+                    "score": 0.5591,
+                    "answers": "seven rooms|dobj"
+                },
+                {
+                    "question": "What is the name of the luxury hotel The Ritz Riveraa's?",
+                    "score": 0.5123,
+                    "answers": "luxury|compound\tThe|det\tThe RitzRivera 's|appos"
+                },
+                {
+                    "question": "What was the relationship between the President's family and The Ritz Riveraa's?",
+                    "score": 0.5072,
+                    "answers": "that year|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "On that occasion , only the Presidency to Miami, Florida and the Rivera's for the officers of the Presidential General Staff (EMP) , EMP disbursed little more than 1,000 pesos.",
+            "question_answers": [
+                {
+                    "question": "What did aristeguinoticias.com report on 01/01/2023?",
+                    "answer": "only the Presidency to Miami, Florida and the Rivera's for the officers of the Presidential General Staff (EMP)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money didEMP disbursed to the officers of the Presidential General Staff?",
+                    "score": 0.7143,
+                    "answers": "the officers of the Presidential General Staff ( EMP )|pobj"
+                },
+                {
+                    "question": "How much money did the Eastern Hemisphere grant to the Rivera's?",
+                    "score": 0.6918,
+                    "answers": "to Miami , Florida|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of money that was given to the Empower General Staff?",
+                    "score": 0.5484,
+                    "answers": "General|compound"
+                },
+                {
+                    "question": "Who is the president of the Eastern Hemisphere?",
+                    "score": 0.5389,
+                    "answers": "the Rivera 's for the officers of the Presidential General Staff ( EMP )|conj"
+                },
+                {
+                    "question": "What does the acronymEMP stand for?",
+                    "score": 0.5288,
+                    "answers": "the Presidential General Staff ( EMP )|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "that occasion wasn't the only visit to Key Biscayne, Miami, Florida, where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building .",
+            "question_answers": [
+                {
+                    "question": "Who is the First Lady of Key Biscayne?",
+                    "answer": "Angelica Rivera"
+                },
+                {
+                    "question": "How many apartments does Angelica Rivera have in the Ocean Tower?",
+                    "answer": "One"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Angelica Rivera live in the Ocean Tower One luxury building?",
+                    "score": 0.8484,
+                    "answers": "that that occasion was n't the only visit to Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|ccomp"
+                },
+                {
+                    "question": "What type of apartments does Angelica Rivera own in Miami?",
+                    "score": 0.7956,
+                    "answers": "luxury|compound"
+                },
+                {
+                    "question": "How many times has Angelica Rivera visited Key Biscayne?",
+                    "score": 0.7563,
+                    "answers": "that occasion|nsubj\tKey|compound"
+                },
+                {
+                    "question": "What is the name of Angelica Rivera's apartment in Miami?",
+                    "score": 0.6721,
+                    "answers": "First|compound\tOne|nummod"
+                },
+                {
+                    "question": "What is Ocean Tower One?",
+                    "score": 0.5765,
+                    "answers": "the Ocean Tower One luxury building|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Between  and , First Lady Angelica Rivera trips to Florida have been repeated during  occasions, of which  have been to Key Biscayne, Miami, Florida, where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many times has Angelica Rivera visited Florida?",
+                    "score": 0.7545,
+                    "answers": "aristeguinoticias.com|nsubj\taristeguinoticias.com reported on 01/01/2023 that Between   and , First Lady Angelica Rivera trips to Florida have been repeated during   occasions , of which   have been to Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|ROOT\ton 01/01/2023|prep\tthat|mark\tthat Between   and , First Lady Angelica Rivera trips to Florida have been repeated during|prep\t  and|dep\tand|cc\t,|punct\tFirst|compound\tFirst Lady|compound\tAngelica|compound\tFirst Lady Angelica Rivera|compound\tFirst Lady Angelica Rivera trips to Florida|nsubjpass\tto Florida|prep\thave|aux\tbeen|auxpass\t, First Lady Angelica Rivera trips to Florida have been repeated during|pcomp\tduring|prep\t  occasions , of which   have been to Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|dep\toccasions , of which   have been to Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|dobj\t,|punct\tof which|prep\twhich|pobj\tof which  |dep\thave|aux\tof which   have been to Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|relcl\tto Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|prep\tKey|compound\tKey Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|pobj\t,|punct\tMiami , Florida|appos\t,|punct\t,|punct\twhere|advmod\tFirst|compound\tFirst Lady|compound\tAngelica|compound\tFirst Lady Angelica Rivera|nsubj\tan|det\tin the Ocean Tower One luxury building|prep\tthe|det\tOcean|nmod\tOne|nummod\tluxury|compound\tthe Ocean Tower One luxury building|pobj"
+                },
+                {
+                    "question": "Where is Angelica Rivera living?",
+                    "score": 0.7329,
+                    "answers": "where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|relcl"
+                },
+                {
+                    "question": "What is the name of Angelica Rivera's apartment?",
+                    "score": 0.6935,
+                    "answers": "an apartment in the Ocean Tower One luxury building|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The journeys of First Lady Angelica Rivera to Key Biscayne, Miami, Florida, where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building have cost taxpayers the EMP than million 1,000 the President to the vouchers the EMP lodging that EMP gave to Aristegui News, through the Law of Transparency.",
+            "question_answers": [
+                {
+                    "question": "Where is Angelica Rivera's apartment located?",
+                    "answer": "Ocean Tower"
+                },
+                {
+                    "question": "How many vouchers did EMP give to Aristegui News?",
+                    "answer": "1,000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Angelica Rivera receive from the Chinese government?",
+                    "score": 0.6965,
+                    "answers": "million|quantmod\tthan million 1,000 the President|dobj\tthe President|appos\tAristegui|compound"
+                },
+                {
+                    "question": "What did Angelica Rivera do to help the President?",
+                    "score": 0.6851,
+                    "answers": "that The journeys of First Lady Angelica Rivera to Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building have cost taxpayers the EMP than million 1,000 the President to the vouchers the EMP lodging that EMP gave to Aristegui News , through the Law of Transparency|ccomp"
+                },
+                {
+                    "question": "Where is Angelica Rivera living?",
+                    "score": 0.6633,
+                    "answers": "to Key Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|prep"
+                },
+                {
+                    "question": "What is the name of Angelica Rivera's apartment?",
+                    "score": 0.6361,
+                    "answers": "Angelica|compound\tKey Biscayne , Miami , Florida , where First Lady Angelica Rivera has an apartment in the Ocean Tower One luxury building|pobj\tAngelica|compound\tan apartment in the Ocean Tower One luxury building|dobj"
+                },
+                {
+                    "question": "Who is First Lady Angelica Rivera?",
+                    "score": 0.6287,
+                    "answers": "of First Lady Angelica Rivera|prep\tFirst Lady Angelica Rivera|pobj\tFirst Lady Angelica Rivera|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "For lodgings, EMP has disbursed million 1,000 pesos.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that EMP has disbursed million 1,000 pesos for lodgings?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money has EMP disbursed for lodgings?",
+                    "score": 0.8358,
+                    "answers": "that For lodgings , EMP has disbursed million 1,000 pesos|ccomp\tmillion|compound"
+                },
+                {
+                    "question": "How much money hasEMP disbursed for lodgings?",
+                    "score": 0.8193,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that For lodgings , EMP has disbursed million 1,000 pesos|ROOT\tlodgings|pobj"
+                },
+                {
+                    "question": "What is the amount of money thatEMP has given to lodgings?",
+                    "score": 0.7142,
+                    "answers": "million 1,000|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "For plane tickets, they've spent almost a thousand pesos.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that they've spent almost a thousand pesos on plane tickets?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money do people spend on plane tickets?",
+                    "score": 0.8638,
+                    "answers": "that For plane tickets , they 've spent almost a thousand pesos|ccomp"
+                },
+                {
+                    "question": "What is the cost of plane tickets?",
+                    "score": 0.8082,
+                    "answers": "For plane tickets|prep\tplane|compound\tplane tickets|pobj"
+                },
+                {
+                    "question": "What is the amount spent on plane tickets?",
+                    "score": 0.791,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that For plane tickets , they 've spent almost a thousand pesos|ROOT\talmost|advmod\talmost a thousand|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "Although the EMP reported trips to Florida on May *, in addition to February, April and JuneNUMBER*, the expenditure vouchers for those dates were not provided via transparency.",
+            "question_answers": [
+                {
+                    "question": "Why were the expenditure vouchers not provided via transparency?",
+                    "answer": "expenditure vouchers for those dates were not provided via transparency"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What date did the EMP visit Florida?",
+                    "score": 0.7824,
+                    "answers": "the EMP|nsubj\tto February , April and JuneNUMBER|prep\tFebruary , April and JuneNUMBER|pobj\tnot|neg"
+                },
+                {
+                    "question": "How many trips did the EMP make to Florida in May?",
+                    "score": 0.7122,
+                    "answers": "that Although the EMP reported trips to Florida on May * , in addition to February , April and JuneNUMBER * , the expenditure vouchers for those dates were not provided via transparency|ccomp"
+                },
+                {
+                    "question": "What was the expenditure vouchers for the trips to Florida in May and June?",
+                    "score": 0.666,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that Although the EMP reported trips to Florida on May * , in addition to February , April and JuneNUMBER * , the expenditure vouchers for those dates were not provided via transparency|ROOT"
+                },
+                {
+                    "question": "What is the date of theEMP trips to Florida?",
+                    "score": 0.6556,
+                    "answers": "on May|prep"
+                },
+                {
+                    "question": "What dates were not provided by transparency?",
+                    "score": 0.5907,
+                    "answers": ", in addition to February , April and JuneNUMBER|prep\tand|cc\tfor those dates|prep\tthose|det\tthose dates|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Travel has been justified under article , section I, of the Presidential General Staff Regulations which establishes the obligation of this body to ensure the safety of the President and his family.",
+            "question_answers": [
+                {
+                    "question": "What article of the Presidential General Staff Regulations establishes the obligation of this body to ensure the safety of the President and his family?",
+                    "answer": "article"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Presidential General Staff Regulations say about travel?",
+                    "score": 0.8604,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that Travel has been justified under article , section I , of the Presidential General Staff Regulations which establishes the obligation of this body to ensure the safety of the President and his family|ROOT\twhich establishes the obligation of this body to ensure the safety of the President and his family|relcl"
+                },
+                {
+                    "question": "What is the responsibility of the body to ensure the safety of President and family?",
+                    "score": 0.6518,
+                    "answers": "the obligation of this body to ensure the safety of the President and his family|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The last trip of the EMP to Key Biscayne that has been recorded, occurred on August  last year.",
+            "question_answers": [
+                {
+                    "question": "When did the last trip of the EMP to Key Biscayne occur?",
+                    "answer": "August"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the last trip of the EMP to Key Biscayne?",
+                    "score": 0.8388,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that The last trip of the EMP to Key Biscayne that has been recorded , occurred on August   last year|ROOT\tlast|amod\tThe last trip of the EMP to Key Biscayne that has been recorded|nsubj\tto Key Biscayne|prep\t,|punct\tthat The last trip of the EMP to Key Biscayne that has been recorded , occurred on August|ccomp\ton August|prep\tAugust|pobj\tlast|amod\tlast year|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "Just that same day, the British newspaper The Guardian revealed that Rivera's department property was paid for by businessman Ricardo Pierdant, Peña Nieto's friend.",
+            "question_answers": [
+                {
+                    "question": "What newspaper revealed that Rivera's department property was paid for by Ricardo Pierdant?",
+                    "answer": "The Guardian"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who paid for Rivera's department property?",
+                    "score": 0.7881,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that Just that same day , the British newspaper The Guardian revealed that Rivera 's department property was paid for by businessman Ricardo Pierdant , Peña Nieto 's friend|ROOT\ton 01/01/2023|prep\tthat|mark\tJust|advmod\tthat|det\tsame|amod\t,|punct\tthe|det\tThe|det\tthat Just that same day , the British newspaper The Guardian revealed that Rivera 's department property was paid for by businessman Ricardo Pierdant , Peña Nieto 's friend|ccomp\tthat|mark\tRivera 's|poss\t's|case\tdepartment|compound\twas|auxpass\tthat Rivera 's department property was paid for by businessman Ricardo Pierdant , Peña Nieto 's friend|ccomp\tfor|prep\tby businessman Ricardo Pierdant , Peña Nieto 's friend|agent\tRicardo|compound\tbusinessman Ricardo Pierdant , Peña Nieto 's friend|pobj\t,|punct\tPeña|compound\t's|case"
+                },
+                {
+                    "question": "What did the British newspaper The Guardian say about Rivera's department property?",
+                    "score": 0.6838,
+                    "answers": "the British newspaper The Guardian|nsubj"
+                },
+                {
+                    "question": "What is the name of Peña Nieto's department property?",
+                    "score": 0.5965,
+                    "answers": "Peña Nieto 's|poss"
+                },
+                {
+                    "question": "What is the relationship between Rivera and Peña Nieto?",
+                    "score": 0.5553,
+                    "answers": "Peña Nieto 's friend|appos"
+                },
+                {
+                    "question": "What is aristeguinoticias.com?",
+                    "score": 0.4658,
+                    "answers": "aristeguinoticias.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The value of Rivera's department oscillates the  millions of dollars and occupies the  number of the Ocean Tower One building.",
+            "question_answers": [
+                {
+                    "question": "What building does Rivera's departmentoccupy the number of?",
+                    "answer": "Ocean Tower One"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much is the Ocean Tower One building worth?",
+                    "score": 0.6989,
+                    "answers": "  millions of dollars and occupies the   number of the Ocean Tower One building|dep\tthe   number of the Ocean Tower One building|dep"
+                },
+                {
+                    "question": "What is the value of Rivera's department building?",
+                    "score": 0.6766,
+                    "answers": "occupies the   number of the Ocean Tower One building|conj\tof the Ocean Tower One building|prep"
+                },
+                {
+                    "question": "What is Ocean Tower One building?",
+                    "score": 0.6026,
+                    "answers": "the Ocean Tower One building|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The latest trips have been the most economical of the EMP as well.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the latest trips were the most economical of the EMP?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the most economical of the EMP trips?",
+                    "score": 0.8159,
+                    "answers": "on 01/01/2023|prep\tthat|mark\tThe|det\tlatest|amod\tThe latest trips|nsubj\thave|aux\tthat The latest trips have been the most economical of the EMP as well|ccomp\tthe|det\tmost|advmod\tthe|det\tthe EMP|pobj\tas|advmod"
+                },
+                {
+                    "question": "How many trips have been made since the end of theEMP?",
+                    "score": 0.7807,
+                    "answers": "of the EMP|prep\tas well|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "The security team is no longer staying at The Ritz-Carlton but has chosen the Silver Sands Beach Resort, a simple hotel with a much lower price.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that The security team is no longer staying at The Ritz-Carlton?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is the security team staying at The Ritz-Carlton?",
+                    "score": 0.7839,
+                    "answers": "that The security team is no longer staying at The Ritz - Carlton but has chosen the Silver Sands Beach Resort , a simple hotel with a much lower price|ccomp"
+                },
+                {
+                    "question": "Where is the Silver Sands Beach Resort?",
+                    "score": 0.7195,
+                    "answers": "at The Ritz - Carlton|prep\tRitz|compound\tThe Ritz - Carlton|pobj\tBeach|compound"
+                },
+                {
+                    "question": "What is aristeguinoticias.com?",
+                    "score": 0.4447,
+                    "answers": "aristeguinoticias.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Miami is not the only tourist destination where the First Lady goes with escort.",
+            "question_answers": [
+                {
+                    "question": "What website reported that Miami is not the only tourist destination where the First Lady goes with escorts?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many tourist destinations does the First Lady go with escort in?",
+                    "score": 0.7173,
+                    "answers": "that Miami is not the only tourist destination where the First Lady goes with escort|ccomp"
+                },
+                {
+                    "question": "What is the only tourist destination where the First Lady goes with escort?",
+                    "score": 0.6381,
+                    "answers": "only|amod\tthe only tourist destination where the First Lady goes with escort|attr"
+                },
+                {
+                    "question": "What is the relationship between First Lady and First Lady?",
+                    "score": 0.5856,
+                    "answers": "on 01/01/2023|prep\tFirst|compound\tthe First Lady|nsubj\twhere the First Lady goes with escort|relcl\twith escort|prep\tescort|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The General Staff also accompanied Angelica Rivera to Brazil, during the  Soccer World Cup, and Beverly Hills, in Los Angeles, California, in April of , where he went shopping and visited Disney Park.",
+            "question_answers": [
+                {
+                    "question": "When did Angelica Rivera go to Beverly Hills?",
+                    "answer": "April of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Angelica Rivera visit Brazil during the Soccer World Cup?",
+                    "score": 0.8644,
+                    "answers": "Beverly Hills , in Los Angeles , California , in April of , he went shopping and where visited Disney Park|conj"
+                },
+                {
+                    "question": "When did Angelica Rivera go to Brazil?",
+                    "score": 0.8143,
+                    "answers": "Soccer World Cup|pobj\tin April of|prep"
+                },
+                {
+                    "question": "Where did Angelica Rivera attend the Soccer World Cup in Brazil in 2015?",
+                    "score": 0.7587,
+                    "answers": "  Soccer World Cup|dep"
+                },
+                {
+                    "question": "What is the source of evidence of Angelica Rivera's trips to Brazil?",
+                    "score": 0.6632,
+                    "answers": "shopping|dobj"
+                },
+                {
+                    "question": "Who is Angelica Rivera?",
+                    "score": 0.6349,
+                    "answers": "Angelica|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Just for these two trips, the Presidency eroding more than  a thousand pesos in public resources to care for the First Lady and her family.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Presidency eroding more than a thousand pesos to care for the First Lady and her family?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the presidency spend to care for the First Lady and her family?",
+                    "score": 0.7125,
+                    "answers": "that|mark\tJust|advmod\tJust for these two trips|prep\tthese|det\tthese two trips|pobj\t,|punct\tthat Just for these two trips , the Presidency eroding more than|ccomp\tthan|prep\ta|quantmod\ta thousand|nummod\tin public resources|prep\tpublic|amod\tpublic resources|pobj\tto|aux\tand|cc"
+                },
+                {
+                    "question": "What is the relationship between the presidency and First Lady?",
+                    "score": 0.5348,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that Just for these two trips , the Presidency eroding more than|ROOT\ther|poss"
+                }
+            ]
+        }
+    ]
+}

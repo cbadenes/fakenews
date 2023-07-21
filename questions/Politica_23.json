@@ -1,0 +1,666 @@
+{
+    "id": "Politica_23",
+    "claim": "Weather and climate conditions, including the onset of higher temperatures in the spring of the northern hemisphere, should not be used as a pretext to relax public health measures to stop the spread of the SARS-CoV-2 virus, assures a report* of the World Meteorological Organization on weather and air quality factors affecting the COVID-19 pandemic. 'At this stage, knowledge (scientific) does not support the use of weather and air quality factors as a basis for governments to relax their interventions aimed at reducing transmission ', according to the co-chair of the research team, Dr. Ben Zaitchik, Department of Earth Sciences and Planetaries, at Johns Hopkins University, USA. 'We saw waves of infections that increased in warm seasons and warm regions during the first year of the pandemic, and there is no evidence that this cannot happen again next year ', he added. The dynamics of COVID-19 transmission in 2020 and early 2021 appear to have been influenced mainly by government interventions such as mask mandates and travel restrictions rather than weather factors, according to the panel of 16 members of experts in terrestrial and medical sciences and public health. Other relevant drivers include changes in human behaviour and demographics of affected populations and, more recently, virus mutations. The report analyses the potential role of seasonality. Respiratory viral infections often show some type of seasonality, particularly the fall-winter peak for influenza and coronaviruses that cause the cold in temperate climates. This has fueled expectations that, if it persists for many years, COVID-19 will prove to be a strongly seasonal disease. “The underlying mechanisms that drive the seasonality of respiratory viral infections are not yet well understood. A combination of direct impacts on virus survival, impacts on human resistance to infection, and the indirect influence of weather and season through changes in human behavior may be at stake,” says the report. “The laboratory studies of SARS-CoV-2, the virus that causes COVID-19, have shown some evidence that the virus survives longer in cold, dry and low ultraviolet conditions.”. However, these studies have not yet indicated whether direct weather influences on the virus have a significant influence on transmission rates in real-world conditions,” according to the paper. Poor air quality increases deaths, but not transmissionThe evidence about the influence of air quality factors is not yet conclusive. There is some preliminary evidence that poor air quality increases mortality rates from COVID-19, but not that pollution directly affects the aerial transmission of SARS-CoV-2, the virus that causes COVID-19, according to the Task Force. The report focuses on meteorology and air quality conditions and does not address the details of air circulation in indoor areas. The Interdisciplinary and International Task Force was established by the Board of Inquiry of the World Meteorological Organization to provide a quick summary of the state of knowledge about possible weather influences and air quality in the dynamics of COVID-19, given the staggering number of documents and preprints currently available. “The rapid pace of COVID-19 research has meant that studies with limited data appeared faster than information could be compared and peer-reviewed. It soon became clear that the evidence reported was often contradictory or selective due to methodological and data-related deficiencies. Therefore, the Task Force seeks to promote good practices in research and communication,” says Prof. Juerg Luterbacher, Director of Science and Innovation and Head of the UN Agency. The future work of the Task Force will include updating scientific evidence over the coming months, identifying and promoting a structured set of priority research questions, objectives and priorities for investment in research in pandemic areas: climate, climate and air quality nexus. Researchers will also advise and report on good practices and minimum standards for integrated modeling methods for infectious diseases considering environmental determinants. The UN agency considers it equally important to maintain clear and active communication between researchers, the media and decision makers to ensure that scientific findings are applied to policies in an appropriate, objective, transparent and responsible manner. I'm sorry.",
+    "source": "news.un.org",
+    "date": "11/10/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Weather and climate conditions, including the onset of higher temperatures in the spring of the northern hemisphere, should not be used as a pretext to relax public health measures to stop the spread of the co-chair of the research team, Dr. Ben Zaitchik, Department of Earth Sciences and Planetaries, at Johns Hopkins University, USA , assures the SARS-CoV-2 virus .",
+            "question_answers": [
+                {
+                    "question": "Where is Dr. Ben Zaitchik from?",
+                    "answer": "Johns Hopkins University, USA"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Dr. Ben Zaitchik say about the SARS-CoV-2 virus?",
+                    "score": 0.6784,
+                    "answers": "a pretext to relax public health measures to stop the spread of the co - chair of the research team , Dr. Ben Zaitchik , Department of Earth Sciences and Planetaries , at Johns Hopkins University , USA , assures the SARS - CoV-2 virus|pobj"
+                },
+                {
+                    "question": "What is the SARS-CoV-2 virus?",
+                    "score": 0.649,
+                    "answers": "as a pretext to relax public health measures to stop the spread of the co - chair of the research team , Dr. Ben Zaitchik , Department of Earth Sciences and Planetaries , at Johns Hopkins University , USA , assures the SARS - CoV-2 virus|prep\t, assures the SARS - CoV-2 virus|dep\tSARS - CoV-2|compound\tthe SARS - CoV-2 virus|dobj"
+                },
+                {
+                    "question": "What is SARS-CoV-2 virus?",
+                    "score": 0.6408,
+                    "answers": "SARS|compound"
+                },
+                {
+                    "question": "What is Dr. Ben Zaitchik's position on the SARS-CoV-2 virus?",
+                    "score": 0.6365,
+                    "answers": "to relax public health measures to stop the spread of the co - chair of the research team , Dr. Ben Zaitchik , Department of Earth Sciences and Planetaries , at Johns Hopkins University , USA , assures the SARS - CoV-2 virus|acl"
+                },
+                {
+                    "question": "What measures should be taken to stop the spread of the co-chair of the research team?",
+                    "score": 0.5978,
+                    "answers": "public health measures to stop the spread of the co - chair of the research team , Dr. Ben Zaitchik , Department of Earth Sciences and Planetaries , at Johns Hopkins University , USA|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'At this stage, knowledge (scientific) does not support the use of weather and air The laboratory studies of SARS-CoV-2, the virus that causes COVID-19 SARS-CoV-2, the virus that causes COVID-19 reducing transmission ', according it waves of infections that increased in warm seasons and warm regions during the first year of the pandemic SARS-CoV-2, the virus that causes COVID-19 waves of infections that increased in warm seasons and warm regions during the first year of the pandemic .",
+            "question_answers": [
+                {
+                    "question": "What does SARS-CoV-2 do for COVID-19?",
+                    "answer": "reducing transmission"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is COVID-19 SARS-CoV-2?",
+                    "score": 0.7136,
+                    "answers": "that|mark\t'|punct\tAt this stage|prep\tthis|det\tthis stage|pobj\t,|punct\t(|punct\tscientific|amod\t)|punct\tdoes|aux\tnot|neg\tthe|det\tweather and air|pobj\tand|cc\tair|conj\tThe|det\tThe laboratory|compound\tSARS|compound\t-|punct\t,|punct\tthe|det\tthat|nsubj\tSARS|compound\t-|punct\t,|punct\tthe|det\tthat|nsubj\treducing|amod\t'|punct\t,|punct\tit|pcomp\tthat|nsubj\twarm|amod\tand|cc\twarm|amod\tthe|det\tfirst|amod\tthe|det\tthe pandemic|pobj\tSARS|compound\t-|punct\t,|punct\tthe|det\tthat|nsubj\tthat|nsubj\twarm|amod\tand|cc\twarm|amod\tthe|det\tfirst|amod\tthe|det\tthe pandemic|pobj"
+                },
+                {
+                    "question": "What is COVID-CoV-2?",
+                    "score": 0.6972,
+                    "answers": "on 11/10/2021|prep\tThe laboratory studies of SARS - CoV-2 , the virus that causes COVID-19 SARS - CoV-2 , the virus that causes COVID-19 reducing transmission '|ccomp\tof SARS - CoV-2 , the virus that causes COVID-19 SARS - CoV-2 , the virus that causes COVID-19 reducing transmission|prep\tSARS - CoV-2 , the virus that causes COVID-19 SARS - CoV-2 , the virus that causes COVID-19 reducing transmission|pobj\tthe virus that causes COVID-19 SARS - CoV-2 , the virus that causes COVID-19 reducing transmission|appos\tthat causes COVID-19 SARS - CoV-2 , the virus that causes COVID-19 reducing transmission|relcl\taccording it waves of infections that increased in warm seasons and warm regions during the first year of the pandemic SARS - CoV-2 , the virus that causes COVID-19 waves of infections that increased in warm seasons and warm regions during the first year of the pandemic|advcl\tthat increased in warm seasons and warm regions during the first year of the pandemic|relcl\tin warm seasons and warm regions|prep\twarm seasons and warm regions|pobj\tduring the first year of the pandemic|prep\tthe first year of the pandemic|pobj\tSARS - CoV-2 , the virus that causes COVID-19 waves of infections that increased in warm seasons and warm regions during the first year of the pandemic|appos\tthat increased in warm seasons and warm regions during the first year of the pandemic|relcl\tin warm seasons and warm regions|prep\twarm seasons and warm regions|pobj\tduring the first year of the pandemic|prep\tthe first year of the pandemic|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of SARS-CoV-2?",
+                    "score": 0.696,
+                    "answers": "knowledge ( scientific )|nsubj\tthat ' At this stage , knowledge ( scientific ) does not support the use of weather and air|ccomp\tof weather and air|prep"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.6856,
+                    "answers": "news.un.org said on 11/10/2021 that ' At this stage , knowledge ( scientific ) does not support the use of weather and air The laboratory studies of SARS - CoV-2 , the virus that causes COVID-19 SARS - CoV-2 , the virus that causes COVID-19 reducing transmission ' , according it waves of infections that increased in warm seasons and warm regions during the first year of the pandemic SARS - CoV-2 , the virus that causes COVID-19 waves of infections that increased in warm seasons and warm regions during the first year of the pandemic|ROOT\tCOVID-19|dobj\tthe virus that causes COVID-19 reducing transmission|appos\tthat causes COVID-19 reducing transmission|relcl\tCOVID-19|nmod\tCOVID-19 reducing transmission|dobj\twaves of infections that increased in warm seasons and warm regions during the first year of the pandemic SARS - CoV-2 , the virus that causes COVID-19 waves of infections that increased in warm seasons and warm regions during the first year of the pandemic|dobj\tof infections that increased in warm seasons and warm regions during the first year of the pandemic|prep\tinfections that increased in warm seasons and warm regions during the first year of the pandemic|pobj\twarm regions|conj\tof the pandemic|prep\tthe virus that causes COVID-19 waves of infections that increased in warm seasons and warm regions during the first year of the pandemic|appos\tthat causes COVID-19 waves of infections that increased in warm seasons and warm regions during the first year of the pandemic|relcl\tCOVID-19|dobj\twaves of infections that increased in warm seasons and warm regions during the first year of the pandemic|dobj\tof infections that increased in warm seasons and warm regions during the first year of the pandemic|prep\tinfections that increased in warm seasons and warm regions during the first year of the pandemic|pobj\twarm regions|conj\tof the pandemic|prep"
+                },
+                {
+                    "question": "What is SARS-CoV-2?",
+                    "score": 0.6856,
+                    "answers": "the use of weather and air|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We saw the COVID-19 pandemic it the COVID-19 pandemic , and The laboratory studies of SARS-CoV-2, the virus that causes COVID-19 no evidence that the COVID-19 pandemic cannot happen again next year ', waves of infections that increased in warm seasons and warm regions during the first year of the pandemic added.",
+            "question_answers": [
+                {
+                    "question": "What did news.un.org say we saw on 11/10/2021?",
+                    "answer": "the COVID-19 pandemic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the COVID-19 pandemic?",
+                    "score": 0.7859,
+                    "answers": "news.un.org said on 11/10/2021 that ' We saw the COVID-19 pandemic waves of infections that increased in warm seasons and warm regions during the first year of the pandemic it the COVID-19 pandemic , and The laboratory studies of SARS - CoV-2 , the virus that causes COVID-19 no evidence that the COVID-19 pandemic can not happen again next year ' , added|ROOT\tthat|mark\t'|punct\tWe|nsubj\tthat ' We saw the COVID-19 pandemic waves of infections that increased in warm seasons and warm regions during the first year of the pandemic it the COVID-19 pandemic , and The laboratory studies of SARS - CoV-2 , the virus that causes COVID-19 no evidence that the COVID-19 pandemic can not happen again next year ' ,|ccomp\tthe|det\tCOVID-19|nmod\tthe COVID-19 pandemic waves of infections that increased in warm seasons and warm regions during the first year of the pandemic|dobj\tthe|det\tthe COVID-19|appos\t,|punct\tand|cc\tThe|det\tlaboratory|compound\t-|punct\t,|punct\tthe|det\tthat|nsubj\tCOVID-19|dobj\tno|det\tThe laboratory studies of SARS - CoV-2 , the virus that causes COVID-19 no evidence that the COVID-19 pandemic can not happen again next year|conj\tthat|mark\tthe|det\tCOVID-19|nmod\tnot|neg\tagain|advmod\tnext|amod\t'|punct\t,|punct\twaves of infections that increased in warm seasons and warm regions during the first year of the pandemic|appos\tof infections that increased in warm seasons and warm regions during the first year of the pandemic|prep\tinfections that increased in warm seasons and warm regions during the first year of the pandemic|pobj\tthat|nsubj\tthat increased in warm seasons and warm regions during the first year of the pandemic|relcl\twarm|amod\twarm seasons and warm regions|pobj\tand|cc\twarm|amod\tduring the first year of the pandemic|prep\tthe|det\tfirst|amod\tthe first year of the pandemic|pobj\tof the pandemic|prep\tthe|det\tadded|advcl"
+                },
+                {
+                    "question": "What is the COVID-19 pandemic?",
+                    "score": 0.7531,
+                    "answers": "on 11/10/2021|prep\tit the COVID-19|nsubj\tit the COVID-19 pandemic|conj\tThe laboratory studies of SARS - CoV-2 , the virus that causes COVID-19|nsubj\tof SARS - CoV-2 , the virus that causes COVID-19|prep\tSARS|compound\tSARS - CoV-2 , the virus that causes COVID-19|pobj\tthe virus that causes COVID-19|appos\tthat causes COVID-19|relcl\tcan|aux\tthat the COVID-19 pandemic can not happen again next year|acl\tin warm seasons and warm regions|prep\twarm regions|conj\tthe pandemic|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The dynamics of the co-chair of the research team, Dr. Ben Zaitchik, Department of Earth Sciences and Planetaries, at Johns Hopkins University, USA transmission in 2020 and early 2021 appear to have been influenced mainly by government interventions such as mask mandates and travel a report* of the World Meteorological Organization on weather and air quality factors affecting the COVID-19 pandemic rather than weather factors, according to the panel of 16 members it sciences and public the report .",
+            "question_answers": [
+                {
+                    "question": "What did the World Meteorological Organization do to influence the dynamics of the co-chair of the research team?",
+                    "answer": "mask mandates and travel a report* of the World Meteorological Organization on weather and air quality factors affecting the COVID-19 pandemic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many members did Dr. Ben Zaitchik have on the COVID-19 pandemic?",
+                    "score": 0.6118,
+                    "answers": "of 16 members|prep\t16 members|pobj"
+                },
+                {
+                    "question": "What was Dr. Ben Zaitchik's role in developing the COVID-19 pandemic?",
+                    "score": 0.59,
+                    "answers": "Planetaries|conj\tJohns Hopkins University , USA|pobj\ttransmission in 2020 and early 2021|nsubj"
+                },
+                {
+                    "question": "What was the COVID-19 pandemic?",
+                    "score": 0.5586,
+                    "answers": "to have been influenced mainly by government interventions such as mask mandates and travel a report * of the World Meteorological Organization on weather and air quality factors affecting the COVID-19 pandemic rather than weather factors|xcomp\tgovernment interventions such as mask mandates and travel a report * of the World Meteorological Organization on weather and air quality factors affecting the COVID-19 pandemic rather than weather factors|pobj"
+                },
+                {
+                    "question": "What was the purpose of the COVID-19 pandemic?",
+                    "score": 0.5535,
+                    "answers": "by government interventions such as mask mandates and travel a report * of the World Meteorological Organization on weather and air quality factors affecting the COVID-19 pandemic rather than weather factors|agent\tthe panel of 16 members it sciences and public the report|pobj"
+                },
+                {
+                    "question": "What is Dr. Ben Zaitchik's position on climate change?",
+                    "score": 0.511,
+                    "answers": "on 11/10/2021|prep\tat Johns Hopkins University , USA|prep\tit sciences and public the report|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "the report The laboratory studies of SARS-CoV-2, the virus that causes COVID-19 drivers include changes in human behaviour and demographics of affected populations and, more recently, virus mutations.",
+            "question_answers": [
+                {
+                    "question": "What did the laboratory studies of SARS-CoV-2 include?",
+                    "answer": "changes in human behaviour and demographics of affected populations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What causes COVID-19 drivers?",
+                    "score": 0.7878,
+                    "answers": "that causes COVID-19 drivers|relcl"
+                },
+                {
+                    "question": "What is COVID-19 drivers?",
+                    "score": 0.7234,
+                    "answers": "changes in human behaviour and demographics of affected populations and , more recently , virus mutations|dobj"
+                },
+                {
+                    "question": "What is the relationship between SARS-CoV-2 and COVID-19 drivers?",
+                    "score": 0.7227,
+                    "answers": "on 11/10/2021|prep\tthe report|nsubj\tof affected populations|prep\taffected|amod\taffected populations|pobj\tmore|advmod\tmore recently|advmod"
+                },
+                {
+                    "question": "What is SARS-CoV-2?",
+                    "score": 0.7192,
+                    "answers": "laboratory|compound\tThe laboratory studies of SARS - CoV-2 , the virus that causes COVID-19 drivers|nsubj\tof SARS - CoV-2 , the virus that causes COVID-19 drivers|prep\tSARS|compound\tSARS - CoV-2 , the virus that causes COVID-19 drivers|pobj\tthat the report The laboratory studies of SARS - CoV-2 , the virus that causes COVID-19 drivers include changes in human behaviour and demographics of affected populations and , more recently , virus mutations|ccomp\tvirus|compound"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.7049,
+                    "answers": "the virus that causes COVID-19 drivers|appos\tCOVID-19|nmod\tCOVID-19 drivers|dobj\tvirus mutations|conj"
+                }
+            ]
+        },
+        {
+            "claim": "the report .",
+            "question_answers": [
+                {
+                    "question": "Who said that the report was published on 11/10/2021?",
+                    "answer": "news.un.org"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did news.un.org say about the report?",
+                    "score": 0.746,
+                    "answers": "that the report|ccomp"
+                },
+                {
+                    "question": "What is news.un.org?",
+                    "score": 0.499,
+                    "answers": "news.un.org said on 11/10/2021 that the report|ROOT\ton 11/10/2021|prep\tthat|mark\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "Respiratory viral infections often show some type of seasonality, particularly the fall-winter peak for influenza and coronaviruses that cause the cold in temperate climates.",
+            "question_answers": [
+                {
+                    "question": "What did news.un.org say on 11/10/2021?",
+                    "answer": "news.un.org said on 11/10/2021 that Respiratory viral infections often show some type of seasonality, particularly the fall-winter peak for influenza and coronaviruses"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of viral infections are common in fall-winter peak for influenza and coronaviruses?",
+                    "score": 0.7436,
+                    "answers": "Respiratory|amod"
+                },
+                {
+                    "question": "How many influenza and coronaviruses are there in the fall-winter peak for influenza?",
+                    "score": 0.7355,
+                    "answers": "some|det\t,|punct\tparticularly|advmod\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the seasonality of influenza and coronavirus?",
+                    "score": 0.6958,
+                    "answers": "of seasonality|prep\tseasonality|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of influenza and coronaviruses?",
+                    "score": 0.6741,
+                    "answers": "viral|amod"
+                },
+                {
+                    "question": "What is coronavirus?",
+                    "score": 0.664,
+                    "answers": "coronaviruses|conj"
+                }
+            ]
+        },
+        {
+            "claim": "This has fueled expectations that, if it persists for many years, COVID-19 will prove to be a strongly seasonal disease.",
+            "question_answers": [
+                {
+                    "question": "Who said on 11/10/2021 that COVID-19 will prove to be a strongly seasonal disease?",
+                    "answer": "news.un.org"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.7118,
+                    "answers": "news.un.org said on 11/10/2021 that This has fueled expectations that , if it persists for many years , COVID-19 will prove to be a strongly seasonal disease|ROOT\ton 11/10/2021|prep\tthat|mark\tThis|nsubj\thas|aux\tthat This has fueled expectations that , if it persists for many years , COVID-19 will prove to be a strongly seasonal disease|ccomp\texpectations that , if it persists for many years , COVID-19 will prove to be a strongly seasonal disease|dobj\tthat|mark\t,|punct\tif|mark\tit|nsubj\tif it persists for many years|advcl\tfor many years|prep\tmany|amod\t,|punct\tCOVID-19|nsubj\twill|aux\tthat , if it persists for many years , COVID-19 will prove to be a strongly seasonal disease|acl\tto|aux\tto be a strongly seasonal disease|xcomp\ta|det\tstrongly|advmod\tstrongly seasonal|amod\ta strongly seasonal disease|attr"
+                }
+            ]
+        },
+        {
+            "claim": "“The underlying mechanisms that drive the seasonality of respiratory viral infections are not yet well understood.",
+            "question_answers": [
+                {
+                    "question": "Who said on 11/10/2021 that “The underlying mechanisms that drive the seasonality of respiratory viral infections are not yet well understood”?",
+                    "answer": "news.un.org"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the underlying mechanisms that drive seasonality of respiratory viral infections?",
+                    "score": 0.7297,
+                    "answers": "news.un.org said on 11/10/2021 that “ The underlying mechanisms that drive the seasonality of respiratory viral infections are not yet well understood|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "A combination of direct impacts on virus survival, impacts on human resistance to infection, and the indirect influence of weather and season through changes in human behavior may be at stake,” says the report.",
+            "question_answers": [
+                {
+                    "question": "Who said on 11/10/2021 that direct impacts on virus survival, impacts on human resistance to infection, and the indirect influence of weather and season through changes in human behavior may be at stake?",
+                    "answer": "news.un.org"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What impact did the virus have on human resistance to infection?",
+                    "score": 0.7652,
+                    "answers": "direct impacts on virus survival , impacts on human resistance to infection , and the indirect influence of weather and season through changes in human behavior|pobj\ton virus survival|prep"
+                },
+                {
+                    "question": "What impact does human resistance to infection have on human behavior?",
+                    "score": 0.7242,
+                    "answers": "on human resistance to infection|prep\thuman resistance to infection|pobj"
+                },
+                {
+                    "question": "What are the impacts of direct impacts on virus survival, human resistance to infection, and climate change on human behavior?",
+                    "score": 0.6599,
+                    "answers": "at stake|prep"
+                },
+                {
+                    "question": "What are the effects of human behavior on virus survival?",
+                    "score": 0.6446,
+                    "answers": "changes in human behavior|pobj"
+                },
+                {
+                    "question": "What is the effect of weather and season on human behavior?",
+                    "score": 0.6235,
+                    "answers": "season|conj"
+                }
+            ]
+        },
+        {
+            "claim": "“The laboratory studies of SARS-CoV-2, the virus that causes COVID-19, have shown some evidence that the virus survives longer in cold, dry and low ultraviolet conditions.",
+            "question_answers": [
+                {
+                    "question": "What does the SARS-CoV-2 virus do?",
+                    "answer": "the virus survives longer in cold, dry and low ultraviolet conditions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What conditions does COVID-19 live in?",
+                    "score": 0.7641,
+                    "answers": "cold , dry and low ultraviolet|amod"
+                },
+                {
+                    "question": "What conditions does SARS-CoV-2 live in?",
+                    "score": 0.7638,
+                    "answers": "in cold , dry and low ultraviolet conditions|prep\tdry and low|conj\tlow|conj\tcold , dry and low ultraviolet conditions|pobj"
+                },
+                {
+                    "question": "What does SARS-CoV-2 do?",
+                    "score": 0.7451,
+                    "answers": "The laboratory studies of SARS - CoV-2 , the virus that causes COVID-19 ,|nsubj"
+                },
+                {
+                    "question": "What conditions does COVID-2 live in?",
+                    "score": 0.7427,
+                    "answers": "that the virus survives longer in cold , dry and low ultraviolet conditions|acl\tcold , dry and low|amod"
+                },
+                {
+                    "question": "How long does it take for COVID-2 to live?",
+                    "score": 0.7124,
+                    "answers": "longer|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "However, these studies have not yet indicated whether direct weather influences on the virus have a significant influence on transmission rates in real-world conditions,” according to the paper.",
+            "question_answers": [
+                {
+                    "question": "Who said on 11/10/2021 that studies have not yet indicated whether direct weather influences on the virus have a significant influence on transmission rates in real-world conditions?",
+                    "answer": "news.un.org"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does weather influence transmission rates in real-world conditions?",
+                    "score": 0.6783,
+                    "answers": "weather|compound\tin real - world conditions|prep\treal - world conditions|pobj"
+                },
+                {
+                    "question": "What are the effects of weather on transmission rates in real world conditions?",
+                    "score": 0.5981,
+                    "answers": "whether direct weather influences on the virus have a significant influence on transmission rates in real - world conditions|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Poor air quality increases deaths, but not transmissionThe evidence about the influence of air quality factors is not yet conclusive.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the effect of poor air quality on deaths?",
+                    "score": 0.7161,
+                    "answers": "that Poor air quality increases deaths , but not|ccomp"
+                },
+                {
+                    "question": "What is the evidence of the influence of air quality factors on deaths?",
+                    "score": 0.6942,
+                    "answers": "news.un.org said on 11/10/2021 that Poor air quality increases deaths , but not transmissionThe evidence about the influence of air quality factors is not yet conclusive|ROOT"
+                },
+                {
+                    "question": "What are air quality factors?",
+                    "score": 0.688,
+                    "answers": "air quality factors|pobj"
+                },
+                {
+                    "question": "What is air quality?",
+                    "score": 0.6776,
+                    "answers": "air|compound\tair|compound\tair quality|compound"
+                },
+                {
+                    "question": "What is the relationship between air quality and transmission?",
+                    "score": 0.6064,
+                    "answers": "that|mark\tPoor|amod\tPoor air quality|nsubj\tdeaths , but not|dobj\t,|punct\tbut|cc\tnot|conj\ttransmissionThe|det\tthe|det\tnot|neg\tyet|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "There is some preliminary evidence that poor air quality increases mortality rates from COVID-19, but not that pollution directly affects the aerial transmission of SARS-CoV-2, the virus that causes COVID-19, according to the Task Force.",
+            "question_answers": [
+                {
+                    "question": "When did news.un.org say that poor air quality increased mortality rates from COVID-19?",
+                    "answer": "11/10/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the mortality rates from COVID-19?",
+                    "score": 0.7047,
+                    "answers": "that poor air quality increases mortality rates from COVID-19 , but not that pollution directly affects the aerial transmission of SARS - CoV-2 , the virus that causes COVID-19 ,|advcl"
+                },
+                {
+                    "question": "What is the mortality rate of COVID-19?",
+                    "score": 0.6867,
+                    "answers": "mortality|compound"
+                },
+                {
+                    "question": "What is the source of evidence of COVID-19?",
+                    "score": 0.6682,
+                    "answers": "news.un.org said on 11/10/2021 that There is some preliminary evidence that poor air quality increases mortality rates from COVID-19 , but not that pollution directly affects the aerial transmission of SARS - CoV-2 , the virus that causes COVID-19 , according to the Task Force|ROOT\tthat|mark\tThere|expl\tsome|det\tpreliminary|amod\tthat|mark\tair|compound\t,|punct\tbut|cc\tthat|mark\tpollution|nsubj\tdirectly|advmod\tthe|det\taerial|amod\t-|punct\t,|punct\tthe|det\tthat|nsubj\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What is the relationship between air quality and COVID-19?",
+                    "score": 0.6357,
+                    "answers": "poor|amod\tpoor air quality|nsubj"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.6182,
+                    "answers": "on 11/10/2021|prep\tthat There is some preliminary evidence that poor air quality increases mortality rates from COVID-19 , but not that pollution directly affects the aerial transmission of SARS - CoV-2 , the virus that causes COVID-19 , according to the Task Force|ccomp\tsome preliminary evidence that poor air quality increases mortality rates from COVID-19 , but not that pollution directly affects the aerial transmission of SARS - CoV-2 , the virus that causes COVID-19 ,|attr\tfrom COVID-19|prep\tCOVID-19|pobj\tnot that pollution directly affects the aerial transmission of SARS - CoV-2 , the virus that causes COVID-19 ,|conj\tof SARS - CoV-2 , the virus that causes COVID-19|prep\tSARS - CoV-2 , the virus that causes COVID-19|pobj\tthe virus that causes COVID-19|appos\tthat causes COVID-19|relcl\tCOVID-19|dobj\tTask|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The report focuses on meteorology and air quality conditions and does not address the details of air circulation in indoor areas.",
+            "question_answers": [
+                {
+                    "question": "Who said that the report focusing on meteorology and air quality conditions did not address details of air circulation in indoor areas?",
+                    "answer": "news.un.org"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is air circulation in indoor areas?",
+                    "score": 0.6101,
+                    "answers": "of air circulation in indoor areas|prep\tair circulation in indoor areas|pobj"
+                },
+                {
+                    "question": "What is the focus of the report on meteorology and air quality conditions?",
+                    "score": 0.6049,
+                    "answers": "that The report focuses on meteorology and air quality conditions and does not address the details of air circulation in indoor areas|ccomp"
+                },
+                {
+                    "question": "What is air quality in indoor areas?",
+                    "score": 0.5883,
+                    "answers": "air|compound\tair|compound"
+                },
+                {
+                    "question": "What is air quality?",
+                    "score": 0.585,
+                    "answers": "air quality|conj"
+                },
+                {
+                    "question": "What are the details of air quality conditions?",
+                    "score": 0.5847,
+                    "answers": "meteorology and air quality|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "The Interdisciplinary and International Task Force was established by the Board of Inquiry of the World Meteorological Organization to provide a quick summary of the state of knowledge about possible weather influences and air quality in the dynamics of COVID-19, given the staggering number of documents and preprints currently available.",
+            "question_answers": [
+                {
+                    "question": "Who established the Interdisciplinary and International Task Force?",
+                    "answer": "the Board of Inquiry of the World Meteorological Organization"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many documents and preprints are available for COVID-19?",
+                    "score": 0.5888,
+                    "answers": "of the state of knowledge about possible weather influences and air quality in the dynamics of COVID-19 , given the staggering number of documents and preprints currently available|prep"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.5505,
+                    "answers": "in the dynamics of COVID-19|prep\tthe dynamics of COVID-19|pobj\tof COVID-19|prep\tCOVID-19|pobj"
+                },
+                {
+                    "question": "What was the purpose of the Interdisciplinary and International Task Force?",
+                    "score": 0.5327,
+                    "answers": "news.un.org said on 11/10/2021 that The Interdisciplinary and International Task Force was established by the Board of Inquiry of the World Meteorological Organization to provide a quick summary of the state of knowledge about possible weather influences and air quality in the dynamics of COVID-19 , given the staggering number of documents and preprints currently available|ROOT\ton 11/10/2021|prep\tthat|mark\tThe|det\tand|cc\tInternational|conj\twas|auxpass\tthat The Interdisciplinary and International Task Force was established by the Board of Inquiry of the World Meteorological Organization to provide a quick summary of the state of knowledge about possible weather influences and air quality in the dynamics of COVID-19 , given the staggering number of documents and preprints currently available|ccomp\tthe|det\tof the World Meteorological Organization|prep\tthe|det\tWorld|compound\tMeteorological|compound\tto|aux\tto provide a quick summary of the state of knowledge about possible weather influences and air quality in the dynamics of COVID-19 , given the staggering number of documents and preprints currently available|advcl\ta|det\tquick|amod\ta quick summary of the state of knowledge about possible weather influences and air quality in the dynamics of COVID-19 , given the staggering number of documents and preprints currently available|dobj\tthe|det\tthe state of knowledge about possible weather influences and air quality in the dynamics of COVID-19 , given the staggering number of documents and preprints currently available|pobj\tof knowledge about possible weather influences and air quality in the dynamics of COVID-19|prep\tknowledge about possible weather influences and air quality in the dynamics of COVID-19|pobj\tabout possible weather influences and air quality in the dynamics of COVID-19|prep\tpossible|amod\tweather|compound\tpossible weather influences and air quality in the dynamics of COVID-19|pobj\tand|cc\tair|compound\tair quality|conj\tthe|det\t,|punct\tthe|det\tstaggering|amod\tand|cc\tcurrently|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "“The rapid pace of COVID-19 research has meant that studies with limited data appeared faster than information could be compared and peer-reviewed.",
+            "question_answers": [
+                {
+                    "question": "What did news.un.org say about the rapid pace of COVID-19 research?",
+                    "answer": "studies with limited data appeared faster than information could be compared"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current rate of COVID-19 research?",
+                    "score": 0.7372,
+                    "answers": "peer - reviewed|conj"
+                },
+                {
+                    "question": "What is COVID-19 research?",
+                    "score": 0.7224,
+                    "answers": "news.un.org said on 11/10/2021 that “ The rapid pace of COVID-19 research has meant that studies with limited data appeared faster than information could be compared and peer - reviewed|ROOT\ton 11/10/2021|prep\tthat|mark\t“|punct\tThe|det\trapid|amod\tThe rapid pace of COVID-19 research|nsubj\tof COVID-19 research|prep\tCOVID-19 research|pobj\thas|aux\tthat “ The rapid pace of COVID-19 research has meant that studies with limited data appeared faster than information could be compared and peer - reviewed|ccomp\tthat|mark\tstudies with limited data|nsubj\twith limited data|prep\tlimited|amod\tlimited data|pobj\tfaster than information could be compared and peer - reviewed|advmod\tthan|mark\tinformation|nsubjpass\tcould|aux\tbe|auxpass\tthan information could be compared and peer - reviewed|advcl\tand|cc\tpeer|dep\t-|punct"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.7124,
+                    "answers": "COVID-19|nummod\tthat studies with limited data appeared faster than information could be compared and peer - reviewed|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It soon became clear that the evidence reported was often contradictory or selective due to methodological and data-related deficiencies.",
+            "question_answers": [
+                {
+                    "question": "Why did news.un.org say the evidence reported was often contradictory or selective?",
+                    "answer": "methodological and data-related deficiencies"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the evidence that was often contradictory or selective?",
+                    "score": 0.6192,
+                    "answers": "that It soon became clear that the evidence reported was often contradictory or selective|ccomp"
+                },
+                {
+                    "question": "What is the evidence of errors in data and analysis?",
+                    "score": 0.5732,
+                    "answers": "contradictory or selective|acomp\tor|cc"
+                },
+                {
+                    "question": "What is data related to?",
+                    "score": 0.5527,
+                    "answers": "data - related|conj"
+                },
+                {
+                    "question": "What is the source of evidence of the errors in data?",
+                    "score": 0.5513,
+                    "answers": "data|npadvmod"
+                },
+                {
+                    "question": "What is the relationship between methodological and data-related deficiencies?",
+                    "score": 0.5319,
+                    "answers": "methodological and data - related|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, the Task Force seeks to promote good practices in research and communication,” says Prof. Juerg Luterbacher, Director of Science and Innovation and Head of the UN Agency.",
+            "question_answers": [
+                {
+                    "question": "What does the Task Force seek to promote in research and communication?",
+                    "answer": "good practices"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Task Force seek to promote good practices in?",
+                    "score": 0.7331,
+                    "answers": "research and communication|pobj"
+                },
+                {
+                    "question": "Who is Prof. Juerg Luterbacher?",
+                    "score": 0.5683,
+                    "answers": "Prof. Juerg Luterbacher , Director of Science and Innovation and Head of the UN Agency|nsubj"
+                },
+                {
+                    "question": "Who is Dr. Juerg Luterbacher?",
+                    "score": 0.5552,
+                    "answers": "”|punct\tJuerg|compound\tDirector of Science and Innovation and Head of the UN Agency|appos"
+                },
+                {
+                    "question": "Who is the Director of Science and Innovation and Head of the UN Agency?",
+                    "score": 0.551,
+                    "answers": "of Science and Innovation|prep\tScience and Innovation|pobj"
+                },
+                {
+                    "question": "What is the purpose of the Task Force?",
+                    "score": 0.5297,
+                    "answers": "Task|compound\tthat Therefore , the Task Force seeks to promote good practices in research and communication|ccomp\tto promote good practices in research and communication|xcomp\tin research and communication|prep\tcommunication|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The future work of the Task Force will include updating scientific evidence over the coming months, identifying and promoting a structured set of priority research questions, objectives and priorities for investment in research in pandemic areas: climate, climate and air quality nexus.",
+            "question_answers": [
+                {
+                    "question": "What are three pandemic areas that the Task Force will focus on?",
+                    "answer": "climate, climate and air quality"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the priorities for investment in research in pandemic areas?",
+                    "score": 0.6292,
+                    "answers": "climate , climate and air quality|nmod"
+                },
+                {
+                    "question": "What is air quality?",
+                    "score": 0.5997,
+                    "answers": "air quality|conj"
+                },
+                {
+                    "question": "What are the objectives and priorities of the Task Force?",
+                    "score": 0.579,
+                    "answers": "objectives and priorities|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Researchers will also advise and report on good practices and minimum standards for integrated modeling methods for infectious diseases considering environmental determinants.",
+            "question_answers": [
+                {
+                    "question": "What will researchers advise and report on for integrated modeling methods for infectious diseases?",
+                    "answer": "good practices and minimum standards"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the standards for integrated modeling methods for infectious diseases?",
+                    "score": 0.6446,
+                    "answers": "good practices and minimum standards for integrated modeling methods for infectious diseases considering environmental determinants|pobj\tintegrated|amod"
+                },
+                {
+                    "question": "What is environmental determinants?",
+                    "score": 0.5401,
+                    "answers": "infectious diseases considering environmental determinants|pobj\tconsidering environmental determinants|acl\tenvironmental determinants|dobj"
+                },
+                {
+                    "question": "What does news.un.org say about climate change?",
+                    "score": 0.5057,
+                    "answers": "news.un.org said on 11/10/2021 that Researchers will also advise and report on good practices and minimum standards for integrated modeling methods for infectious diseases considering environmental determinants|ROOT\ton 11/10/2021|prep\twill|aux\talso|advmod\tfor infectious diseases considering environmental determinants|prep\tenvironmental|amod"
+                },
+                {
+                    "question": "What is news.un.org?",
+                    "score": 0.4079,
+                    "answers": "Researchers|nsubj\tand|cc\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "The UN agency considers it equally important to maintain clear and active communication between researchers, the media and decision makers to ensure that scientific findings are applied to policies in an appropriate, objective, transparent and responsible manner.",
+            "question_answers": [
+                {
+                    "question": "What did news.un.org say the UN agency considers it equally important to maintain clear and active communication between researchers, the media and decision makers?",
+                    "answer": "to ensure that scientific findings are applied to policies in an appropriate, objective, transparent and responsible manner"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does news.un.org say about scientific findings?",
+                    "score": 0.6563,
+                    "answers": "to ensure that scientific findings are applied to policies in an appropriate , objective , transparent and responsible manner|advcl\tthat scientific findings are applied to policies in an appropriate , objective , transparent and responsible manner|ccomp"
+                },
+                {
+                    "question": "What is the purpose of news.un.org?",
+                    "score": 0.455,
+                    "answers": "on 11/10/2021|prep\tit equally important to maintain clear and active communication between researchers , the media and decision makers to ensure that scientific findings are applied to policies in an appropriate , objective , transparent and responsible manner|ccomp\tappropriate , objective , transparent and responsible|amod\tan appropriate , objective , transparent and responsible manner|pobj"
+                },
+                {
+                    "question": "What is news.un.org?",
+                    "score": 0.4547,
+                    "answers": "news.un.org said on 11/10/2021 that The UN agency considers it equally important to maintain clear and active communication between researchers , the media and decision makers to ensure that scientific findings are applied to policies in an appropriate , objective , transparent and responsible manner|ROOT\tthat|mark\tThe|det\tit|nsubj\tto|aux\tand|cc\t,|punct\tthe|det\tand|cc\tdecision|compound\tto|aux\tthat|mark\tare|auxpass\tan|det\t,|punct\t,|punct\tand|cc\tresponsible|conj"
+                }
+            ]
+        }
+    ]
+}

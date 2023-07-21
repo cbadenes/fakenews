@@ -1,0 +1,172 @@
+{
+    "id": "Economy_243",
+    "claim": "Gasoline will replace the peso as Mexican currencyIn some areas of Mexico, gasoline has reached twenty pesos per liter, which can be an indication that things in economic matters must change, even though candidate Meade says exactly the opposite. Many analysts have pointed out the need to make an adjustment in our monetary policy, and this is how the Bank of Mexico is considering the possibility of repealing the peso as an internal currency and starting to use the liter of gasoline as a basis for the economy. 'We were told long ago that silver coins would be the option for the country, since silver would not suffer devaluations, thus avoiding excessive price increases, but no one considered that gasoline could serve as a currency, because thanks to the Energy Reform, not only will it not be devalued, but it will continually exceed its value, which will cause those who invest in gasoline to see profits daily, to a greater interest than any banking institution, and even more than any governmental investment instrument ', said Alejandro Díaz de Leon, governor of the Banco de Mexico, at a press conference. Díaz de Leon showed the graphs of the rising price of gasoline, which is already above the value of the dollar: 'By instituting the liter of gasoline as a currency, the economy would automatically grow to a higher rank even than that of the US currency and put us in a privileged position. We would be above economies like Saudi Arabia and many European countries! 'This idea continues to be analyzed, and if it came into effect, prices would be set in gasoline units, based on the day price of that fuel to be used as a currency. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "07/05/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Gasoline will replace the peso as Mexican currencyIn some areas of Mexico , gasoline has reached twenty pesos per liter, which can be an indication that things in economic matters must change, even though candidate Meade says exactly the opposite.",
+            "question_answers": [
+                {
+                    "question": "Where has gasoline reached twenty pesos per liter?",
+                    "answer": "some areas of Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of gasoline being replaced by the peso as Mexican currency?",
+                    "score": 0.8336,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the dollar value of gasoline in Mexico?",
+                    "score": 0.8267,
+                    "answers": "on 07/05/2018|prep\tthat Gasoline will replace the peso as|ccomp\tthe peso|dobj\tMexican currencyIn some areas of Mexico|punct\tof Mexico|prep"
+                },
+                {
+                    "question": "What is Meade's stance on gasoline?",
+                    "score": 0.8012,
+                    "answers": "candidate|compound\tcandidate Meade|nsubj"
+                },
+                {
+                    "question": "What is the relationship between gasoline and Mexican currency?",
+                    "score": 0.7964,
+                    "answers": "that|mark\twill|aux\tas|prep\tsome|det\tsome areas of Mexico|pobj\t,|punct\thas|aux\t,|punct\tthat|mark\t,|punct\teven|advmod\tthough|mark\texactly|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Many analysts have pointed out the need to make an adjustment in monetary policy, and this is how the Bank of Mexico is considering the possibility of repealing the peso as an internal currency and starting to use the liter of gasoline as a basis for the economy .",
+            "question_answers": [
+                {
+                    "question": "How much gasoline does the Bank of Mexico want to use as a basis for the economy?",
+                    "answer": "liter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is the Bank of Mexico considering repealing the peso as an internal currency?",
+                    "score": 0.8856,
+                    "answers": "the peso|dobj\tas an internal currency|prep\tinternal|amod\tan internal currency|pobj\tto use the liter of gasoline as a basis for the economy|xcomp\tfor the economy|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'We were told long ago that silver coins would be the option for Mexico , since silver would not suffer devaluations, thus avoiding excessive price increases, but no one considered that gasoline could serve as a currency, because thanks to the Energy Reform, not only will gasoline not be devalued, but gasoline will continually exceed value, which will cause those who invest in gasoline to see profits daily, to a greater interest than any banking institution, and even more than any governmental investment instrument ', said Alejandro Díaz de Leon, governor of the Banco de Mexico , at a press conference.",
+            "question_answers": [
+                {
+                    "question": "Alejandro Daz de Leon is the governor of what bank?",
+                    "answer": "Banco de Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will gasoline be devalued under the Energy Reform?",
+                    "score": 0.855,
+                    "answers": "because thanks to the Energy Reform , not only will gasoline not be devalued , but gasoline will continually exceed value , which will cause those who invest in gasoline to see profits daily , to a greater interest than any banking institution , and even more than any governmental investment instrument|advcl"
+                },
+                {
+                    "question": "What will happen to those who invest in gasoline to see profits daily, to a greater interest than any banking institution?",
+                    "score": 0.8514,
+                    "answers": "those who invest in gasoline to see profits daily , to a greater interest than any banking institution , and even more than any governmental investment instrument|ccomp"
+                },
+                {
+                    "question": "What was the exchange rate for silver coins before the Energy Reform?",
+                    "score": 0.8412,
+                    "answers": "since silver would not suffer devaluations , thus avoiding excessive price increases|advcl"
+                },
+                {
+                    "question": "What did the Energy Reform say about the use of silver coins?",
+                    "score": 0.8053,
+                    "answers": "would|aux\twould|aux"
+                },
+                {
+                    "question": "What is the interest rate of investing in gasoline?",
+                    "score": 0.8009,
+                    "answers": "a greater interest than any banking institution , and even more than any governmental investment instrument|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Alejandro Díaz de Leon, governor of the Banco de Mexico showed the graphs of the rising price of gasoline, which is already above the value of the dollar : 'By instituting the liter of gasoline as a currency, the economy would automatically grow to a higher rank even than that of the dollar and put Mexico in a privileged position.",
+            "question_answers": [
+                {
+                    "question": "What is the price of gasoline already above?",
+                    "answer": "the value of the dollar"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the rising price of gasoline?",
+                    "score": 0.8028,
+                    "answers": "that Alejandro Díaz de Leon , governor of the Banco de Mexico showed the graphs of the rising price of gasoline , which is already above the value of the dollar|ccomp\tthe rising price of gasoline , which is already above the value of the dollar|pobj"
+                },
+                {
+                    "question": "What is the average price of gasoline in Mexico?",
+                    "score": 0.7962,
+                    "answers": "of the Banco de Mexico|prep\tBanco|nmod\ta higher rank even than that of the dollar|pobj\tput Mexico in a privileged position|conj\tin a privileged position|prep\tprivileged|amod\ta privileged position|pobj"
+                },
+                {
+                    "question": "What is the price of gasoline?",
+                    "score": 0.7935,
+                    "answers": "of gasoline|prep\tabove the value of the dollar|prep\tthe liter of gasoline|dobj\tof gasoline|prep"
+                },
+                {
+                    "question": "What is the cost of gasoline as a currency?",
+                    "score": 0.7857,
+                    "answers": "of the rising price of gasoline , which is already above the value of the dollar|prep\tBy instituting the liter of gasoline as a currency|prep\tinstituting the liter of gasoline as a currency|pcomp"
+                },
+                {
+                    "question": "What is the current price of gasoline?",
+                    "score": 0.7834,
+                    "answers": "that|mark\tAlejandro|compound\tDíaz|compound\tde|compound\t,|punct\tthe|det\tde|nmod\tthe|det\tthe graphs of the rising price of gasoline , which is already above the value of the dollar|dobj\tthe|det\trising|amod\tgasoline|pobj\t,|punct\twhich|nsubj\twhich is already above the value of the dollar|relcl\talready|advmod\tthe|det\tthe value of the dollar|pobj\tof the dollar|prep\tthe|det\tthe dollar|pobj\t:|punct\t'|punct\tthe|det\tgasoline|pobj\tas a currency|prep\ta|det\ta currency|pobj\t,|punct\tthe|det\tthe economy|nsubj\twould|aux\tautomatically|advmod\tto a higher rank even than that of the dollar|prep\ta|det\thigher|amod\teven|advmod\teven than that of the dollar|prep\tthat of the dollar|pobj\tof the dollar|prep\tthe|det\tthe dollar|pobj\tand|cc\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "We would be above economies like Saudi Arabia and many European countries! 'This idea continues to be analyzed, and if it came into effect, prices would be set in gasoline units, based on the day price of that fuel to be used as a currency.",
+            "question_answers": [
+                {
+                    "question": "What country did www.eldizque.com say we would be above?",
+                    "answer": "Saudi Arabia"
+                },
+                {
+                    "question": "What would the gasoline prices be based on?",
+                    "answer": "the day price of that fuel"
+                },
+                {
+                    "question": "What would the gasoline prices be based on?",
+                    "answer": "the day price of that fuel"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have higher economies than Saudi Arabia?",
+                    "score": 0.8703,
+                    "answers": "above economies like Saudi Arabia and many European countries|prep"
+                },
+                {
+                    "question": "What countries would be above economies like Saudi Arabia?",
+                    "score": 0.8662,
+                    "answers": "Saudi Arabia and many European countries|pobj\tmany European countries|conj"
+                },
+                {
+                    "question": "What would the price of gasoline be if it came into effect?",
+                    "score": 0.8366,
+                    "answers": "if it came into effect , prices would be set in gasoline units , based on the day price of that fuel to be used as a currency|conj"
+                },
+                {
+                    "question": "What is the current price of gasoline in Saudi Arabia?",
+                    "score": 0.8183,
+                    "answers": "Saudi|compound"
+                },
+                {
+                    "question": "What would be the cost of using gasoline as a currency?",
+                    "score": 0.8103,
+                    "answers": "to be used as a currency|relcl\tas a currency|prep"
+                }
+            ]
+        }
+    ]
+}

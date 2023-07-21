@@ -1,0 +1,211 @@
+{
+    "id": "Sport_310",
+    "claim": "For marketing reasons, many teams from the MX League wear an alternative uniform alluding to the colors of the National Selection. Such green uniforms have been a success, but none like the one recently used by America, with which they won a close match against Santos. The green shirt, Nike reports, is the best-selling of all alternative shirts in the history of Mexican football. That is why the Mexican Football Federation (Femexfut) is considering it to be the model to be used in Russia , instead of those already presented for the National Selection. 'Since the Selection is everyone's, and we are all the Selection, we consider that the T-shirt should give us an identity, something with which we have an empathy and move us to the most intimate fibers of the heart ', declared Decio de María, president of the Femexfut. 'We know that many will criticize us; others will say that it is the most blatant proof that Televisa is the owner of Mexican football and the National Team; others will say that it is a mockery of the hobby; but no, the numbers indicate that the hobby is the one that will be the happiest that this is the T-shirt of the National Team ', added De María. For its fine finishes and embroidered, the new American T-shirt/National Selection will now have a price of  pesos in authorized stores,and with an additional weight, they will customize it with the number and name that the buyer wantsall as long as people feel united by the Selection in the Russian World Cup . I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "01/05/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "For marketing reasons, many teams from the MX League wear an alternative uniform alluding to the colors of the National Selection .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that many teams from the MX League wear an alternative uniform alluding to the colors of the National Selection?",
+                    "answer": "01/05/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many teams from the MX League wear the colors of the National Selection?",
+                    "score": 0.8255,
+                    "answers": "to the colors of the National Selection|prep"
+                },
+                {
+                    "question": "What is the color of the National Selection uniform?",
+                    "score": 0.7877,
+                    "answers": "an alternative uniform alluding to the colors of the National Selection|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Such green uniforms have been a success, but none like the one recently used by America , with which America won a close match against Santos.",
+            "question_answers": [
+                {
+                    "question": "Who won a close match against Santos?",
+                    "answer": "America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many green uniforms has America won against Santos?",
+                    "score": 0.8919,
+                    "answers": "www.eldizque.com reported on 01/05/2018 that Such green uniforms have been a success , but none like the one recently used by America , with which America won a close match against Santos|ROOT\tthat Such green uniforms have been a success , but none like the one recently used by America , with which America won a close match against Santos|ccomp\tbut none like the one recently used by America , with which America won a close match against Santos|dep\tlike the one recently used by America , with which America won a close match against Santos|prep"
+                },
+                {
+                    "question": "What is the name of the green uniform that America used against Santos?",
+                    "score": 0.8184,
+                    "answers": "the one recently used by America , with which America won a close match against Santos|pobj"
+                },
+                {
+                    "question": "What is the relationship between America and Santos?",
+                    "score": 0.7685,
+                    "answers": "recently used by America , with which America won a close match against Santos|acl\tby America , with which America won a close match against Santos|agent\tAmerica , with which America won a close match against Santos|pobj\twith which America won a close match against Santos|relcl\ta close match against Santos|dobj\tagainst Santos|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The green shirt , Nike reports, is the best-selling of all alternative shirts in the history of Mexican football .",
+            "question_answers": [
+                {
+                    "question": "What is the best-selling alternative shirt in the history of Mexican football?",
+                    "answer": "The green shirt"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the best alternative shirts in history of Mexican football?",
+                    "score": 0.8794,
+                    "answers": "best|advmod"
+                },
+                {
+                    "question": "What is Nike's green shirt?",
+                    "score": 0.8244,
+                    "answers": ", Nike reports ,|parataxis"
+                }
+            ]
+        },
+        {
+            "claim": "is is why the Mexican Football Federation (Femexfut) is considering The green shirt to be the model to be used in Russia , instead of those already presented for the National Selection .",
+            "question_answers": [
+                {
+                    "question": "In what country is the green shirt being used as a model for the Mexican Football Federation?",
+                    "answer": "Russia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is the Mexican Football Federation making the green shirt the model for the National Selection?",
+                    "score": 0.8921,
+                    "answers": "why the Mexican Football Federation ( Femexfut ) is considering The green shirt to be the model to be used in Russia , instead of those already presented for the National Selection|advcl"
+                },
+                {
+                    "question": "What does Femexfut think about the green shirt being used in Russia?",
+                    "score": 0.8335,
+                    "answers": "www.eldizque.com reported on 01/05/2018 that is is why the Mexican Football Federation ( Femexfut ) is considering The green shirt to be the model to be used in Russia , instead of those already presented for the National Selection|ROOT"
+                },
+                {
+                    "question": "What is the green shirt model for Russia?",
+                    "score": 0.7682,
+                    "answers": "green|amod"
+                },
+                {
+                    "question": "What is Femexfut's green shirt?",
+                    "score": 0.7533,
+                    "answers": "The green shirt|nsubj"
+                },
+                {
+                    "question": "What is Femexfut's stance on green shirts?",
+                    "score": 0.7506,
+                    "answers": "that|nsubj\tis|dep\twhy|advmod\tthe|det\t(|punct\t)|punct\tis|aux\tThe|det\tto|aux\tthe|det\tto|aux\tbe|auxpass\t,|punct\talready|advmod\tthe|det\tNational|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'Since the National Selection is everyone's, and we are all the Selection, the Mexican Football Federation (Femexfut) consider that the T-shirt should give we an identity, something with which we have an empathy and move we to the most intimate fibers of the heart ', declared Decio de María, president of the Femexfut .",
+            "question_answers": [
+                {
+                    "question": "Where did the Femexfut believe the T-shirt should move us to?",
+                    "answer": "the most intimate fibers of the heart"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Decio de María say about National Selection?",
+                    "score": 0.6741,
+                    "answers": "www.eldizque.com|nsubj\ton 01/05/2018|prep\tNational|compound\tSince the National Selection is everyone 's , and we are all the Selection|advcl\twe are all the Selection|conj\twith which move we to the most intimate fibers of the heart|conj\tthe Femexfut|pobj"
+                },
+                {
+                    "question": "What does Femexfut believe about the National Selection?",
+                    "score": 0.6418,
+                    "answers": "that ' Since the National Selection is everyone 's , and we are all the Selection , the Mexican Football Federation ( Femexfut ) consider that the T - shirt should give we an identity , something we have an empathy and with which move we to the most intimate fibers of the heart|ccomp"
+                },
+                {
+                    "question": "What is the National Selection?",
+                    "score": 0.5783,
+                    "answers": "the National Selection|nsubj"
+                },
+                {
+                    "question": "What does Femexfut stand for?",
+                    "score": 0.5521,
+                    "answers": "the Mexican Football Federation ( Femexfut )|nsubj"
+                },
+                {
+                    "question": "Who is the president of the Femexfut?",
+                    "score": 0.5185,
+                    "answers": "president of the Femexfut|appos"
+                }
+            ]
+        },
+        {
+            "claim": "'the Mexican Football Federation (Femexfut) know that many will criticize the Mexican Football Federation (Femexfut) ; others will say that it is the most blatant proof that Televisa is the owner of Mexican football and the National Selection ; others will say that it is a mockery of the hobby ; but no, the numbers indicate that the hobby is the one that will be the happiest that it is the T-shirt of the National Selection ', added Decio de María, president of the Femexfut .",
+            "question_answers": [
+                {
+                    "question": "What is the hobby that will be the happiest?",
+                    "answer": "the T-shirt of the National Selection"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Televisa the owner of Mexican football and the National Selection?",
+                    "score": 0.7243,
+                    "answers": "that|mark\t'|punct\tthe|det\t(|punct\t)|punct\tthat|mark\tmany|nsubj\twill|aux\tthe|det\t(|punct\t)|punct\t;|punct\tothers|nsubj\twill|aux\tthat|mark\tit|nsubj\tthat it is the most blatant proof that Televisa is the owner of Mexican football and the National Selection|ccomp\tthe|det\tmost|advmod\tmost blatant|amod\tthat|mark\tthe|det\tand|cc\tthe|det\tNational|compound\t;|punct\tothers|nsubj\twill|aux\t' the Mexican Football Federation ( Femexfut ) know that many will criticize the Mexican Football Federation ( Femexfut ) ; others will say that it is the most blatant proof that Televisa is the owner of Mexican football and the National Selection ; others will say that it is a mockery of the hobby ; but no , the numbers indicate that the hobby is the one that will be the happiest that it is the T - shirt of the National Selection|ccomp\tthat|mark\tit|nsubj\ta|det\tthe|det\t;|punct\tbut|cc\tno|intj\t,|punct\tthe|det\tthe numbers|nsubj\tthat|mark\tthe|det\tthe|det\tthat|nsubj\twill|aux\tthe|advmod\tthat|mark\tit|nsubj\tthe|det\tT|compound\tthe|det\tNational|compound\t'|punct\t,|punct\tde|compound\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What is Televisa's ownership of Mexican football?",
+                    "score": 0.7187,
+                    "answers": "of the National Selection|prep"
+                },
+                {
+                    "question": "What is Televisa's interest in Mexican football?",
+                    "score": 0.7093,
+                    "answers": "of Mexican football and the National Selection|prep"
+                },
+                {
+                    "question": "What is Televisa's relationship with the Mexican Football Federation (Femexfut)?",
+                    "score": 0.6984,
+                    "answers": "the happiest|attr"
+                },
+                {
+                    "question": "What is Televisa's favorite sport?",
+                    "score": 0.6851,
+                    "answers": "no , the numbers indicate that the hobby is the one that will be the happiest that it is the T - shirt of the National Selection|conj"
+                }
+            ]
+        },
+        {
+            "claim": "For fine finishes and embroidered, it will now have a price of  pesos in authorized stores,and with an additional weight, they will customize it with the number and name that the buyer wantsall as long as people feel united by the National Selection in the Russian World Cup .",
+            "question_answers": [
+                {
+                    "question": "What will the additional weight of the embroidered shirt be able to be customized with?",
+                    "answer": "the number and name that the buyer wantsall as long as people feel united by the National Selection"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the price of the Russian World Cup in 2018?",
+                    "score": 0.6223,
+                    "answers": "  pesos|dep\twith an additional weight|prep"
+                },
+                {
+                    "question": "What will happen if people feel united by the National Selection in the Russian World Cup?",
+                    "score": 0.6209,
+                    "answers": "as people feel united by the National Selection in the Russian World Cup|advcl"
+                },
+                {
+                    "question": "What is the price for fine finishes and embroidered?",
+                    "score": 0.6125,
+                    "answers": "For fine finishes and embroidered|prep\tfine finishes and embroidered|pobj\tembroidered|conj"
+                }
+            ]
+        }
+    ]
+}

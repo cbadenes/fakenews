@@ -1,0 +1,176 @@
+{
+    "id": "53_Entertainment_648",
+    "claim": "The controversy on social networks did not wait before the announcement of the news Last night the rumor about the death of journalist Carmen Aristegui circulated on social networks, after the supposed Twitter account of Joaquín Lopez Doriga announced this information. However, a few minutes later the communicator Javier Solorzano denied the news, clarifying that he had communicated with her and was well. Faced with the fact, Doriga posted a message claiming that his account had manipulated and that message was part of a campaign against him. 'Of course, the tweet about Carmen's death @AristeguiOnline is false and dismayed. It is part of the offensive against me and her ', he said. Hours later, the identity of the supposed hacker who orchestrated this message was revealed on the Internet, here the images. So far the communicator has not issued any comment on the rumor that circulated on the Internet last weekend. I'm sorry.",
+    "source": "www.elgrafico.mx",
+    "date": "06/03/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The controversy on social networks did not wait before the announcement of the news Last night the rumor about the death of journalist Carmen Aristegui circulated on social networks, after the supposed Twitter account of Joaquín Lopez Doriga announced this information.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "When did Carmen Aristegui die?",
+                    "score": 0.871,
+                    "answers": "the death of journalist Carmen Aristegui|pobj"
+                },
+                {
+                    "question": "When was the rumor about Carmen Aristegui circulated on social networks?",
+                    "score": 0.8532,
+                    "answers": "the announcement of the news|pobj"
+                },
+                {
+                    "question": "What was the death of journalist Carmen Aristegui?",
+                    "score": 0.8179,
+                    "answers": "journalist Carmen Aristegui|pobj"
+                },
+                {
+                    "question": "How long did the rumor of Carmen Aristegui wait?",
+                    "score": 0.7811,
+                    "answers": "that The controversy on social networks did not wait before the announcement of the news|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Carmen Aristegui's death?",
+                    "score": 0.7747,
+                    "answers": "www.elgrafico.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, a few minutes later the communicator Javier Solorzano denied the news, clarifying that he had communicated with her and was well.",
+            "question_answers": [
+                {
+                    "question": "Who was the communicator that denied the news?",
+                    "answer": "Javier Solorzano"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Javier Solorzano say about his communication with Javier?",
+                    "score": 0.7523,
+                    "answers": "Javier|compound"
+                },
+                {
+                    "question": "Who was the communicator Javier Solorzano spoke with?",
+                    "score": 0.6703,
+                    "answers": "the communicator Javier Solorzano|nsubj"
+                },
+                {
+                    "question": "What was the relationship between Javier Solorzano and Hillary Clinton?",
+                    "score": 0.6642,
+                    "answers": "with her|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Faced with the fact, Doriga posted a message claiming that his account had manipulated and that message was part of a campaign against him.",
+            "question_answers": [
+                {
+                    "question": "What did Doriga claim about his account?",
+                    "answer": "that message was part of a campaign against him"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What campaign did Doriga participate in?",
+                    "score": 0.8394,
+                    "answers": "of a campaign against him|prep"
+                },
+                {
+                    "question": "Did Doriga post a message claiming his account had been manipulated and that he was involved in a campaign against him?",
+                    "score": 0.7831,
+                    "answers": "that Faced with the fact , Doriga posted a message claiming that his account had manipulated and that message was part of a campaign against him|ccomp"
+                },
+                {
+                    "question": "What did Doriga say about his message?",
+                    "score": 0.7545,
+                    "answers": "on 06/03/2017|prep\tFaced with the fact|prep"
+                },
+                {
+                    "question": "What was the name of the campaign against Doriga?",
+                    "score": 0.6566,
+                    "answers": "that message was part of a campaign against him|conj\ta campaign against him|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Of course, the tweet about Carmen's death @AristeguiOnline is false and dismayed.",
+            "question_answers": [
+                {
+                    "question": "Who tweeted about Carmen's death?",
+                    "answer": "@AristeguiOnline"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Carmen's death?",
+                    "score": 0.8614,
+                    "answers": "www.elgrafico.mx|nsubj\twww.elgrafico.mx said on 06/03/2017 that ' Of course , the tweet about Carmen 's death @AristeguiOnline is false and dismayed|ROOT\ton 06/03/2017|prep\t06/03/2017|pobj\tthat|mark\t'|punct\tOf|advmod\tOf course|advmod\t,|punct\tthe|det\tthe tweet about Carmen 's death @AristeguiOnline|nsubj\tabout Carmen 's death|prep\tCarmen 's|poss\t's|case\tCarmen 's death|pobj\t@AristeguiOnline|appos\tthat ' Of course , the tweet about Carmen 's death @AristeguiOnline is false and dismayed|ccomp\tfalse and dismayed|acomp\tand|cc\tdismayed|conj"
+                }
+            ]
+        },
+        {
+            "claim": "It is part of the offensive against me and her ', he said.",
+            "question_answers": [
+                {
+                    "question": "What did 'elgrafico.mx' say it was part of?",
+                    "answer": "offensive against me and her"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the website \"elgrafico.mx\" do?",
+                    "score": 0.7842,
+                    "answers": "www.elgrafico.mx|nsubj"
+                },
+                {
+                    "question": "What does it mean to be offensive against me and her?",
+                    "score": 0.7636,
+                    "answers": "It|nsubj"
+                },
+                {
+                    "question": "What was the purpose of the offensive against Trump and Hillary Clinton?",
+                    "score": 0.7419,
+                    "answers": "part of the offensive against me and her|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Hours later, the identity of the supposed hacker who orchestrated this message was revealed on the Internet, here the images.",
+            "question_answers": [
+                {
+                    "question": "When did www.elgrafico.mx say that the identity of the supposed hacker was revealed on the internet?",
+                    "answer": "06/03/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the identity of the hacker who orchestrated this message?",
+                    "score": 0.7801,
+                    "answers": "this|det\tthis message|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "So far the communicator has not issued any comment on the rumor that circulated on the Internet last weekend.",
+            "question_answers": [
+                {
+                    "question": "What did www.elgrafico.mx say about the rumor?",
+                    "answer": "So far the communicator has not issued any comment on the rumor that circulated on the Internet last weekend"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the communicator say about the rumor?",
+                    "score": 0.8367,
+                    "answers": "www.elgrafico.mx said on 06/03/2017 that So far the communicator has not issued any comment on the rumor that circulated on the Internet last weekend|ROOT\ton 06/03/2017|prep\tSo far|advmod\tany comment on the rumor that circulated on the Internet last weekend|dobj\ton the rumor that circulated on the Internet last weekend|prep\tthe rumor that circulated on the Internet last weekend|pobj\tthat circulated on the Internet last weekend|relcl\tthe Internet|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the rumor that circulated on the internet last weekend?",
+                    "score": 0.6966,
+                    "answers": "www.elgrafico.mx|nsubj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "id": "87_Health_219",
+    "claim": "Experts recommend that we take two liters -eight glasses - of liquids each day for optimal health. Our daily liquid consumption may include drinks such as coffee, tea, and juices in addition to water. But as a new study in Australia suggests, this recommendation has been misinterpreted and we mistakenly believe that we should specifically drink water, eight glasses of water. Our two liters of daily liquids should include all coffee, tea, juices and other beverages, says the report published in the Australian and New Zealand Journal of Public Health. Because we're uselessly drinking too much water, mainly bottled water, he adds. As Professor Spero Tsindos of the Department of Dietetics and Human Nutrition of the University of La Trobe in Melbourne puts it,'this misinterpretation of drinking specifically two liters of water has led to a gradual growth in the use of bottled water'. 'But the industry has made us believe that drinking water can contribute to losing weight, reducing the consumption of sugary drinks and, consumed in a bottle, the water is even healthier'. Use 'useless 'The scientist wanted to investigate how many liquids people normally drink and if we really need to supplement our consumption with two extra liters per day. After reviewing Australia's National Nutrition Survey - which since  has followed Australian eating habits - found that women drank on average  liters of liquids and men  liters per day. This included fluids found in vegetables, fruits and other foods. When only drinks were taken into account - i.e. water, tea, coffee, juices, etc. -'optimal 'daily consumption was found to be  liters in men and  liters in women. This means that if we supplement our daily consumption of liquids with the two additional liters recommended by the experts, 'we are drinking too much water ', says Professor Tsindos. According to the researcher sitting down to drink a huge amount of water to reach the daily recommended consumption is 'useless 'because the water is not distributed where it is necessary in the organism.'This has no hydration effect, all the water does is dilute in the urine ', he notes,'If you feel thirsty of course you should take a drink. But it doesn't have to be water'says Professor Tsindos.'I'm not saying I don't drink water. What I'm saying is that the need to drink two liters of water regularly is a total myth.\". 'We must educate the general public that beverages such as tea and coffee, despite their caffeine content, do not lead to dehydration and contribute to a person's daily fluid needs 'he adds. Professor Tsindos' study supports other past research that shows that drinking eight glasses of water daily'is a myth'. At , Dr. Margaret McCartney, Glasgow's general physician, conducted a review of available studies on whether humans really need to drink two liters of water to avoid dehydration. He found that all the recommendations and claims that we do not drink enough water 'are nonsense 'and 'there is no scientific evidence to support these claims'. As the researcher said'the eight glasses of water a day as necessary for health, it is a myth'. 'Tap water is a good drink and we must drink everything we want or need when we are thirsty'. 'But the idea that there is a'perfect 'amount that we should drink is not based on evidence'. I'm sorry.",
+    "source": "www.bbc.com",
+    "date": "06/06/2012",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Experts recommend that we take two liters -eight glasses - of liquids each day for optimal health.",
+            "question_answers": [
+                {
+                    "question": "How many liters of liquids do Experts recommend that we take each day for optimal health?",
+                    "answer": "two liters"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average amount of liquids that we take per day?",
+                    "score": 0.7181,
+                    "answers": "liquids|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Our daily liquid consumption may include drinks such as coffee, tea, and juices in found to water.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that our daily liquid consumption may include drinks such as coffee, tea, and juices?",
+                    "answer": "06/06/2012"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average daily consumption of coffee and tea?",
+                    "score": 0.8564,
+                    "answers": "Our daily liquid consumption|nsubj"
+                },
+                {
+                    "question": "How many gallons of water are found to be in a day?",
+                    "score": 0.844,
+                    "answers": "found to water|pcomp"
+                },
+                {
+                    "question": "What are the sources of evidence of coffee and tea consumption in the United States?",
+                    "score": 0.8289,
+                    "answers": "tea , and juices|conj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of water used in drinking coffee and tea?",
+                    "score": 0.7956,
+                    "answers": "in found to water|prep"
+                }
+            ]
+        },
+        {
+            "claim": "But as a new study in Australia suggests, recommend has been misinterpreted and we mistakenly believe that we should specifically drink water, eight glasses of water.",
+            "question_answers": [
+                {
+                    "question": "How many glasses of water did a study in Australia say we should drink?",
+                    "answer": "eight"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Australian study say about drinking water?",
+                    "score": 0.8318,
+                    "answers": "www.bbc.com reported on 06/06/2012 that But as a new study in Australia suggests , recommend has been misinterpreted and we mistakenly believe that we should specifically drink water , eight glasses of water|ROOT\ton 06/06/2012|prep\tthat|mark\tBut|cc\tas|mark\ta|det\tnew|amod\tin Australia|prep\tas a new study in Australia suggests|advcl\t,|punct\trecommend|nsubjpass\thas|aux\tbeen|auxpass\tthat But as a new study in Australia suggests , recommend has been misinterpreted and we mistakenly believe that we should specifically drink water , eight glasses of water|ccomp\tand|cc\twe|nsubj\tmistakenly|advmod\twe mistakenly believe that we should specifically drink water , eight glasses of water|conj\tthat|mark\twe|nsubj\tshould|aux\tspecifically|advmod\tthat we should specifically drink water , eight glasses of water|ccomp\t,|punct\twater|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Australia's drinking water?",
+                    "score": 0.8033,
+                    "answers": "www.bbc.com|nsubj\tof water|prep"
+                },
+                {
+                    "question": "What is the study in Australia about drinking water?",
+                    "score": 0.7842,
+                    "answers": "a new study in Australia|nsubj"
+                },
+                {
+                    "question": "How many glasses of water should we drink every day?",
+                    "score": 0.7831,
+                    "answers": "water , eight glasses of water|dobj\teight glasses of water|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Our two liters of Professor Tsindos include all Professor Tsindos , juices and other beverages, says a new study in Australia .",
+            "question_answers": [
+                {
+                    "question": "What is included in the two liters of Professor Tsindos?",
+                    "answer": "all Professor Tsindos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many liters of Professor Tsindos drink?",
+                    "score": 0.8709,
+                    "answers": "www.bbc.com reported on 06/06/2012 that Our two liters of Professor Tsindos include all Professor Tsindos , juices and other beverages|ccomp\tthat Our two liters of Professor Tsindos include all Professor Tsindos , juices and other beverages|ccomp\tall Professor Tsindos , juices and other beverages|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Professor Tsindos and other beverages in Australia?",
+                    "score": 0.7836,
+                    "answers": "juices and other beverages|conj"
+                },
+                {
+                    "question": "Who is Professor Tsindos?",
+                    "score": 0.7311,
+                    "answers": "of Professor Tsindos|prep\tProfessor|compound\tProfessor Tsindos|pobj\tProfessor|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the water we're uselessly drinking too much water, mainly bottled water, he adds.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that we're drinking too much water?",
+                    "answer": "06/06/2012"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water does the United States drink per day?",
+                    "score": 0.8627,
+                    "answers": "too much|amod"
+                },
+                {
+                    "question": "What is bottled water?",
+                    "score": 0.8147,
+                    "answers": "mainly bottled water|appos"
+                },
+                {
+                    "question": "What is the source of evidence of drinking too much water and bottled water?",
+                    "score": 0.7831,
+                    "answers": "www.bbc.com reported on 06/06/2012 that the water we 're uselessly drinking too much water , mainly bottled water|ccomp"
+                },
+                {
+                    "question": "What is the average bottle of bottled water per day?",
+                    "score": 0.7807,
+                    "answers": "too much water , mainly bottled water|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "As he Professor Tsindos he puts a drink misinterpretation of drinking Professor Tsindos two liters of water has led to a gradual Professor Tsindos in the use of bottled water'.",
+            "question_answers": [
+                {
+                    "question": "Whose drinking misinterpretation of drinking two liters of water has led to a gradual use of bottled water?",
+                    "answer": "Professor Tsindos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Professor Tsindos say about drinking Professor Tindos bottles of water?",
+                    "score": 0.8517,
+                    "answers": "As he Professor Tsindos he puts a drink misinterpretation of drinking Professor Tsindos|advcl\tmisinterpretation of drinking Professor Tsindos|npadvmod"
+                },
+                {
+                    "question": "How many liters of water did Professor Tsindos drink in a day?",
+                    "score": 0.8278,
+                    "answers": "on 06/06/2012|prep\tthat|mark\tAs|mark\tProfessor|compound\the|nsubj\ta|det\ta drink|dobj\tof drinking|prep\tdrinking|pobj\tProfessor|compound\ttwo|nummod\ttwo liters of water|nsubj\thas|aux\tthat As he Professor Tsindos he puts a drink misinterpretation of drinking Professor Tsindos two liters of water has led to a gradual Professor Tsindos in the use of bottled water|ccomp\ta|det\tgradual|amod\tProfessor|compound\tthe|det\t'|punct"
+                },
+                {
+                    "question": "What is the source of evidence of Professor Tsindos drinking two liters of water?",
+                    "score": 0.7769,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 06/06/2012 that As he Professor Tsindos he puts a drink misinterpretation of drinking Professor Tsindos two liters of water has led to a gradual Professor Tsindos in the use of bottled water '|ROOT\tin the use of bottled water|prep\tthe use of bottled water|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'But the industry has made us believe that drinking water can contribute to losing weight, beverages such as tea and coffee drinks beverages such as tea and coffee consumed in a bottle, the water is even healthier'.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that drinking water can contribute to losing weight?",
+                    "answer": "06/06/2012"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does drinking water do to help lose weight?",
+                    "score": 0.847,
+                    "answers": "to losing weight|prep\tlosing weight|pcomp"
+                },
+                {
+                    "question": "What does the industry think about drinking water?",
+                    "score": 0.8141,
+                    "answers": "the industry|nsubj"
+                },
+                {
+                    "question": "What is the average weight of a bottle of water?",
+                    "score": 0.7765,
+                    "answers": "a bottle|pobj"
+                },
+                {
+                    "question": "What are the benefits of drinking water in a bottle?",
+                    "score": 0.7762,
+                    "answers": "in a bottle|prep"
+                },
+                {
+                    "question": "What is the weight of drinking water?",
+                    "score": 0.7675,
+                    "answers": "weight|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Use 'useless 'he wanted to investigate Professor Tsindos normally drink and if we really need to supplement our consumption with two extra liters per day.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 06/06/2012?",
+                    "answer": "Use 'useless"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Professor Tsindos drinking alcohol?",
+                    "score": 0.7371,
+                    "answers": "www.bbc.com|nsubj\ton 06/06/2012|prep\tUse|dep\tProfessor|compound"
+                },
+                {
+                    "question": "How many liters of alcohol do we consume per day?",
+                    "score": 0.693,
+                    "answers": "per day|prep"
+                },
+                {
+                    "question": "Who is Professor Tsindos?",
+                    "score": 0.6324,
+                    "answers": "Professor Tsindos|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "After reviewing Australia National Nutrition Survey - which since  has followed Australian eating habits - found that women drank on average  liters of liquids and men  liters per day.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did the Australian National Nutrition Survey show about drinking liquids and men?",
+                    "score": 0.8184,
+                    "answers": "of liquids|prep\tliquids|pobj"
+                },
+                {
+                    "question": "How many liters of liquids and men drank per day in Australia in 2012?",
+                    "score": 0.7654,
+                    "answers": "that women drank on average|ccomp\tmen|nsubj\tmen  |dep"
+                },
+                {
+                    "question": "What is Australia's National Nutrition Survey?",
+                    "score": 0.7536,
+                    "answers": "Australia|compound\taverage|amod"
+                }
+            ]
+        },
+        {
+            "claim": "This included fluids found in vegetables, fruits and other foods.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com report on on 06/06/2012?",
+                    "answer": "fluids found in vegetables, fruits and other foods"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What fluids are found in vegetables, fruits, and other foods?",
+                    "score": 0.9388,
+                    "answers": "fluids found in vegetables , fruits and other foods|dobj"
+                },
+                {
+                    "question": "What are the fluids found in vegetables, fruits and other foods?",
+                    "score": 0.9127,
+                    "answers": "found in vegetables , fruits and other foods|acl"
+                }
+            ]
+        },
+        {
+            "claim": "When only drinks were taken into account - i.e. water, tea, coffee, juices, etc.",
+            "question_answers": [
+                {
+                    "question": "What drinks were taken into account by www.bbc.com on 06/06/2012?",
+                    "answer": "- i.e. water, tea, coffee, juices,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was taken into account in the study?",
+                    "score": 0.7982,
+                    "answers": "www.bbc.com reported on 06/06/2012 that When only drinks i.e. water , tea , coffee , juices , etc were taken into account -|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of all the beverages taken into account?",
+                    "score": 0.7692,
+                    "answers": "www.bbc.com|nsubj\ton 06/06/2012|prep\tthat|mark\tWhen|advmod\tonly|advmod\twere|auxpass\tthat When only drinks i.e. water , tea , coffee , juices , etc were taken into account -|ccomp\tinto account|prep\taccount|pobj\t-|punct\ti.e.|advmod\ti.e. water , tea , coffee , juices , etc|appos\t,|punct\ttea , coffee , juices , etc|conj\t,|punct\tcoffee , juices , etc|conj\t,|punct\tjuices , etc|conj\t,|punct\tetc|conj"
+                }
+            ]
+        },
+        {
+            "claim": "-'optimal 'daily consumption was found to be  liters in men and  liters in women.",
+            "question_answers": [
+                {
+                    "question": "What was the optimal 'daily consumption' in men?",
+                    "answer": "liters"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many liters of liters were found in men per day in 2012?",
+                    "score": 0.7949,
+                    "answers": "in men|prep"
+                },
+                {
+                    "question": "What is the average daily consumption of liters in men and women?",
+                    "score": 0.7744,
+                    "answers": "www.bbc.com reported on 06/06/2012 that -'optimal ' daily consumption was found to be   liters in men and   liters in women|ROOT\tmen|pobj\t  liters in women|conj\twomen|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This means that if we supplement our daily consumption of liquids with the two additional liters recommended by the experts, 'we are drinking too much water ', says Professor Tsindos.",
+            "question_answers": [
+                {
+                    "question": "What does Professor Tsindos say if we supplement our daily consumption of liquids with the two additional liters recommended by the experts?",
+                    "answer": "'we are drinking too much water"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water do we drink per day?",
+                    "score": 0.7861,
+                    "answers": "too much water|dobj"
+                },
+                {
+                    "question": "What is the average daily consumption of liquids?",
+                    "score": 0.7776,
+                    "answers": "our daily consumption of liquids|dobj"
+                },
+                {
+                    "question": "What is Professor Tsindos' position on drinking too much water?",
+                    "score": 0.7362,
+                    "answers": "Professor|compound\tProfessor Tsindos|nsubj"
+                },
+                {
+                    "question": "How many additional liters are recommended by the experts?",
+                    "score": 0.733,
+                    "answers": "with the two additional liters recommended by the experts|prep\tthe two additional liters recommended by the experts|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Professor Tsindos' claim?",
+                    "score": 0.6498,
+                    "answers": "the experts|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the researcher sitting down to drink a huge amount of water to reach the daily recommended consumption is 'useless 'because the water is not distributed where it is necessary in the organism.",
+            "question_answers": [
+                {
+                    "question": "What did the researcher say about sitting down to drink a huge amount of water to reach the daily recommended consumption?",
+                    "answer": "'useless"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is it useless to drink a huge amount of water to reach the daily recommended consumption?",
+                    "score": 0.7359,
+                    "answers": "www.bbc.com reported on 06/06/2012 that According to the researcher sitting down to drink a huge amount of water to reach the daily recommended consumption is ' useless ' because the water is not distributed where it is necessary in the organism|ROOT"
+                },
+                {
+                    "question": "What is the average daily consumption of water?",
+                    "score": 0.6645,
+                    "answers": "to drink a huge amount of water|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "'This has no hydration effect, all the water does is dilute in the urine ', he notes,'If you feel thirsty of course you should take a drink.",
+            "question_answers": [
+                {
+                    "question": "What does the water do?",
+                    "answer": "dilute in the urine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why should you take a drink if you feel thirsty?",
+                    "score": 0.8465,
+                    "answers": ", he notes,'If you feel thirsty|parataxis\twww.bbc.com reported on 06/06/2012 that ' This has no hydration effect , all the water does is dilute in the urine ' , he notes,'If you feel thirsty of course you should take a drink|ROOT"
+                },
+                {
+                    "question": "What are the hydration effects of drinking water?",
+                    "score": 0.798,
+                    "answers": "no|det\tof course|prep"
+                },
+                {
+                    "question": "What is the hydration effect of urine?",
+                    "score": 0.7943,
+                    "answers": "the urine|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the hydration effect in urine?",
+                    "score": 0.7841,
+                    "answers": "on 06/06/2012|prep"
+                },
+                {
+                    "question": "What is hydration?",
+                    "score": 0.7629,
+                    "answers": "hydration|compound"
+                }
+            ]
+        },
+        {
+            "claim": "But it doesn't have to be water'says Professor Tsindos.",
+            "question_answers": [
+                {
+                    "question": "Who said \"But it doesn't have to be water\"?",
+                    "answer": "Professor Tsindos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Professor Tsindos' water'says?",
+                    "score": 0.7203,
+                    "answers": "to be water'says|xcomp\twater'says|attr"
+                },
+                {
+                    "question": "Who is Professor Tsindos?",
+                    "score": 0.6699,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 06/06/2012 that But it does n't have to be water'says Professor Tsindos|ROOT\ton 06/06/2012|prep\tthat|mark\tBut|cc\tit|nsubj\tdoes|aux\tn't|neg\tthat But it does n't have to be water'says Professor Tsindos|ccomp\tto|aux\tProfessor|compound\tProfessor Tsindos|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'I'm not saying I don't drink water.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that they didn't drink water?",
+                    "answer": "06/06/2012"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why don't people drink water?",
+                    "score": 0.9367,
+                    "answers": "I do n't drink water|ccomp"
+                },
+                {
+                    "question": "What is the difference between drinking water and not drinking water?",
+                    "score": 0.8513,
+                    "answers": "that ' I 'm not saying I do n't drink water|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the number of people who drink water?",
+                    "score": 0.8301,
+                    "answers": "water|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "What I'm saying is that the need to drink two liters of water regularly is a total myth.",
+            "question_answers": [
+                {
+                    "question": "How many liters of water did the bbc report on the need to drink regularly?",
+                    "answer": "two liters"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many liters of water do you need to drink per day?",
+                    "score": 0.834,
+                    "answers": "two liters of water|dobj"
+                },
+                {
+                    "question": "What are the myths about drinking two liters of water a day?",
+                    "score": 0.7972,
+                    "answers": "that the need to drink two liters of water regularly is a total myth|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'We must educate the general public that beverages such as tea and coffee, despite their caffeine content, do not lead to dehydration and contribute to a person's daily fluid needs 'he adds.",
+            "question_answers": [
+                {
+                    "question": "What do beverages such as tea and coffee contribute to?",
+                    "answer": "a person's daily fluid needs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much caffeine does coffee add to a person's daily fluid needs?",
+                    "score": 0.8535,
+                    "answers": "contribute to a person 's daily fluid needs|conj"
+                },
+                {
+                    "question": "What is the caffeine content of coffee?",
+                    "score": 0.7737,
+                    "answers": "such as tea and coffee|prep\tdespite their caffeine content|prep\ttheir caffeine content|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of caffeine in coffee and coffee?",
+                    "score": 0.739,
+                    "answers": "a person 's daily fluid needs|pobj"
+                },
+                {
+                    "question": "What is the relationship between caffeine content and dehydration?",
+                    "score": 0.6977,
+                    "answers": "to dehydration|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Professor Tsindos' study supports other past research that shows that drinking eight glasses of water daily'is a myth'.",
+            "question_answers": [
+                {
+                    "question": "What did the report say about Professor Tsindos' study?",
+                    "answer": "supports other past research that shows that drinking eight glasses of water daily'is a myth'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Professor Tsindos say about drinking eight glasses of water daily?",
+                    "score": 0.8227,
+                    "answers": "www.bbc.com reported on 06/06/2012 that Professor Tsindos ' study supports other past research that shows that drinking eight glasses of water daily'is a myth '|ROOT\tProfessor Tsindos '|poss\tProfessor Tsindos ' study|nsubj\tother|amod\tpast|amod\tother past research that shows that drinking eight glasses of water daily'is a myth|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "At , Dr. Margaret McCartney, Glasgow's general physician, conducted a review of available studies on whether humans really need to drink two liters of water to avoid dehydration.",
+            "question_answers": [
+                {
+                    "question": "When did Dr. Margaret McCartney conduct a review of available studies?",
+                    "answer": "At"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many liters of water do humans need to drink to avoid dehydration?",
+                    "score": 0.8431,
+                    "answers": "available studies on whether humans really need to drink two liters of water to avoid dehydration|pobj\thumans|nsubj\ttwo|nummod\ttwo liters of water|dobj\tof water|prep\twater|pobj"
+                },
+                {
+                    "question": "What did Dr. Margaret McCartney say about drinking two liters of water?",
+                    "score": 0.8347,
+                    "answers": "At|mark\tto drink two liters of water to avoid dehydration|xcomp"
+                },
+                {
+                    "question": "What is Dr. Margaret McCartney's position on water consumption?",
+                    "score": 0.6964,
+                    "answers": "general|amod"
+                },
+                {
+                    "question": "Who is Dr. Margaret McCartney?",
+                    "score": 0.6635,
+                    "answers": "Dr. Margaret McCartney , Glasgow 's general physician ,|nsubj\tGlasgow 's general physician|appos"
+                }
+            ]
+        },
+        {
+            "claim": "He found that all the recommendations and claims that we do not drink enough water 'are nonsense 'and 'there is no scientific evidence to support these claims'.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report that all the recommendations and claims that we do not drink enough water were?",
+                    "answer": "nonsense"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Dr. George Flinn say about drinking enough water?",
+                    "score": 0.8104,
+                    "answers": "www.bbc.com reported on 06/06/2012 that He found that all the recommendations and claims that we do not drink enough water ' are nonsense ' and ' there is no scientific evidence to support these claims '|ROOT\ton 06/06/2012|prep\t' there is no scientific evidence to support these claims '|conj"
+                },
+                {
+                    "question": "What are the recommendations for drinking enough water?",
+                    "score": 0.7677,
+                    "answers": "that|mark\tthat He found that all the recommendations and claims that we do not drink enough water ' are nonsense ' and ' there is no scientific evidence to support these claims '|ccomp\tthat|mark\tclaims that we do not drink enough water|conj\tthat|mark\tdo|aux\tthat we do not drink enough water|acl\tenough water|dobj"
+                },
+                {
+                    "question": "What are all the recommendations and claims that we don't drink enough water?",
+                    "score": 0.7446,
+                    "answers": "all|predet\tthat all the recommendations and claims that we do not drink enough water ' are nonsense ' and ' there is no scientific evidence to support these claims '|ccomp\tnonsense|acomp"
+                },
+                {
+                    "question": "What is the scientific evidence that we do not drink enough water?",
+                    "score": 0.733,
+                    "answers": "no scientific evidence to support these claims|attr"
+                }
+            ]
+        },
+        {
+            "claim": "As the researcher said'the eight glasses of water a day as necessary for health, it is a myth'.",
+            "question_answers": [
+                {
+                    "question": "What did the researcher say was necessary for health?",
+                    "answer": "eight glasses of water a day"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many glasses of water a day is necessary for health?",
+                    "score": 0.8119,
+                    "answers": "www.bbc.com reported on 06/06/2012 that As the researcher said'the eight glasses of water a day as necessary for health , it is a myth '|ROOT\ton 06/06/2012|prep\tthat|mark\tAs|mark\tthe|det\tthe researcher|nsubj\tAs the researcher said'the|dep\tthat As the researcher said'the eight glasses of water a day as necessary for health|dobj\tof water|prep\twater|pobj\ta|det\ta day|npadvmod\tnecessary for health|amod\tfor health|prep\thealth|pobj\t,|punct\tit|nsubj\t, it is a myth '|ccomp\ta|det\ta myth|attr\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "'Tap water is a good drink and we must drink everything we want or need when we are thirsty'.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that 'Tap water is a good drink and we must drink everything we want or need when we are thirsty'?",
+                    "answer": "06/06/2012"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water should we drink when we are thirsty?",
+                    "score": 0.8418,
+                    "answers": "must|aux\twe must drink everything we want or need when we are thirsty|conj"
+                },
+                {
+                    "question": "What are the requirements for drinking tap water?",
+                    "score": 0.8212,
+                    "answers": "everything we want or need|dobj\twe want or need|relcl"
+                },
+                {
+                    "question": "What are the benefits of drinking tap water?",
+                    "score": 0.805,
+                    "answers": "good|amod"
+                },
+                {
+                    "question": "What is the need for tap water?",
+                    "score": 0.8017,
+                    "answers": "need|conj"
+                },
+                {
+                    "question": "What is tap water?",
+                    "score": 0.8013,
+                    "answers": "Tap|amod\tTap water|nsubj\ta good drink|attr"
+                }
+            ]
+        },
+        {
+            "claim": "'But the idea that there is a'perfect 'amount that we should drink is not based on evidence'.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that 'But the idea that there is a perfect 'amount that we should drink is not based on evidence'?",
+                    "answer": "06/06/2012"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average amount that we should drink?",
+                    "score": 0.865,
+                    "answers": "a'perfect ' amount that we should drink|attr"
+                },
+                {
+                    "question": "What is the idea that we should drink not based on evidence?",
+                    "score": 0.8487,
+                    "answers": "that we should drink|relcl"
+                },
+                {
+                    "question": "What is the basis of evidence?",
+                    "score": 0.7313,
+                    "answers": "on evidence|prep"
+                }
+            ]
+        }
+    ]
+}

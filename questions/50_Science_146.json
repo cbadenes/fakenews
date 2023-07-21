@@ -1,0 +1,169 @@
+{
+    "id": "50_Science_146",
+    "claim": "According to local sources, yesterday the battery of an iPhone exploded inside the Apple Store of Colon Street in Valencia, Spain, which caused panic among customers and the intervention of the police and fire department of the city. The same source indicates that after the heavy explosion the entire upper floor was filled with smoke, forcing customers and employees to evacuate the store, but fortunately there were no injuries of any kind. Apple Store staff followed all security protocols, and witnesses report that the site's employees opened the windows and ground the battery to drown the fire, although the store's fire system was also successfully activated. Unfortunately for Apple, the exact same case happened in Zurich, Switzerland, as the Apple Store located in Bahnhofstrasse also reported the explosion of an iPhone battery, resulting in minor injuries to seven people, including an employee who suffered burns while trying to suffocate the fire. So far Apple has not issued an official statement, and unfortunately there is still no information about the iPhone models whose batteries exploded, but we must remember that a few months ago several users reported that some of the iPhone batteries  and  Plus were inflated by connecting the device to the electric current, which could cause an explosion of the lithium ion battery. I'm sorry.",
+    "source": "www.unocero.com",
+    "date": "11/01/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "According to local sources, yesterday the battery of an iPhone exploded inside the Apple Store of Colon Street in Valencia, Spain, which caused panic among customers and the intervention of the police and fire department of the city.",
+            "question_answers": [
+                {
+                    "question": "Who intervened when an iPhone exploded in the Apple Store of Colon Street in Valencia?",
+                    "answer": "police and fire department"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did the battery of an iPhone explode in Valencia, Spain?",
+                    "score": 0.8562,
+                    "answers": "of an iPhone|prep"
+                },
+                {
+                    "question": "What was the name of the battery that exploded in the Apple Store of Colon Street in Valencia, Spain?",
+                    "score": 0.6568,
+                    "answers": "among customers|prep"
+                },
+                {
+                    "question": "What did the police and fire department do to respond to the incident?",
+                    "score": 0.5505,
+                    "answers": "the police and fire department of the city|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The same source indicates that after the heavy explosion the entire upper floor was filled with smoke, forcing customers and employees to evacuate the store, but fortunately there were no injuries of any kind.",
+            "question_answers": [
+                {
+                    "question": "How many people were injured in the explosion?",
+                    "answer": "no injuries"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many injuries were there after the massive explosion at the store?",
+                    "score": 0.7061,
+                    "answers": "no injuries of any kind|attr"
+                },
+                {
+                    "question": "What kind of injuries were reported after the heavy smoke?",
+                    "score": 0.6668,
+                    "answers": "any kind|pobj"
+                },
+                {
+                    "question": "What was the smoke from the store after the heavy explosion?",
+                    "score": 0.6622,
+                    "answers": "smoke|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Apple Store staff followed all security protocols, and witnesses report that the site's employees opened the windows and ground the battery to drown the fire, although the store's fire system was also successfully activated.",
+            "question_answers": [
+                {
+                    "question": "What did Apple employees do to drown the fire?",
+                    "answer": "ground the battery"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Apple store staff follow all security protocols?",
+                    "score": 0.8655,
+                    "answers": "that Apple Store staff followed all security protocols|ccomp\tall|det\tsecurity|compound\tall security protocols|dobj"
+                },
+                {
+                    "question": "What was the Apple store's fire system in 2018?",
+                    "score": 0.741,
+                    "answers": "that|mark\tand|cc\tthat|mark\tthe|det\t's|case\tthe|det\tand|cc\tthe|det\tthe|det\tthe|det\t's|case\twas|auxpass\talthough the store 's fire system was also successfully activated|advcl"
+                },
+                {
+                    "question": "What was the cause of the fire at the Apple Store in 2018?",
+                    "score": 0.7208,
+                    "answers": "the fire|dobj\tfire|compound"
+                },
+                {
+                    "question": "What was the location of the Apple Store?",
+                    "score": 0.7166,
+                    "answers": "the site 's|poss"
+                },
+                {
+                    "question": "What is the Apple Store's fire system?",
+                    "score": 0.7136,
+                    "answers": "www.unocero.com|nsubj\tthe battery|dobj\talso|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Unfortunately for Apple, the exact same case happened in Zurich, Switzerland, as the Apple Store located in Bahnhofstrasse also reported the explosion of an iPhone battery, resulting in minor injuries to seven people, including an employee who suffered burns while trying to suffocate the fire.",
+            "question_answers": [
+                {
+                    "question": "What kind of injuries did the explosion of an iPhone battery cause?",
+                    "answer": "minor injuries"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What happened to an iPhone battery in Zurich, Switzerland in 2018?",
+                    "score": 0.8029,
+                    "answers": "on 11/01/2018|prep\tthe explosion of an iPhone battery|dobj"
+                },
+                {
+                    "question": "Where was the Apple store located in Switzerland in 2018?",
+                    "score": 0.7793,
+                    "answers": "the Apple Store located in Bahnhofstrasse|nsubj"
+                },
+                {
+                    "question": "What did Apple say about the incident in Zurich in 2018?",
+                    "score": 0.7685,
+                    "answers": "www.unocero.com reported on 11/01/2018 that Unfortunately for Apple , the exact same case happened in Zurich , Switzerland , as the Apple Store located in Bahnhofstrasse also reported the explosion of an iPhone battery , resulting in minor injuries to seven people , including an employee who suffered burns while trying to suffocate the fire|ROOT\tUnfortunately for Apple|advmod\tthat Unfortunately for Apple , the exact same case happened in Zurich , Switzerland , as the Apple Store located in Bahnhofstrasse also reported the explosion of an iPhone battery , resulting in minor injuries to seven people , including an employee who suffered burns while trying to suffocate the fire|ccomp"
+                },
+                {
+                    "question": "Where is Apple located in Switzerland?",
+                    "score": 0.7553,
+                    "answers": "located in Bahnhofstrasse|acl"
+                },
+                {
+                    "question": "What happened to the employee who suffered burns while trying to suffocate a fire?",
+                    "score": 0.754,
+                    "answers": "www.unocero.com|nsubj\tthat|mark\t,|punct\texact|amod\texact same|amod\tthe exact same case|nsubj\t,|punct\t, Switzerland|appos\t,|punct\tas|mark\talso|advmod\t,|punct\tresulting in minor injuries to seven people , including an employee who suffered burns while trying to suffocate the fire|advcl\t,|punct\tincluding an employee who suffered burns while trying to suffocate the fire|prep\tan employee who suffered burns while trying to suffocate the fire|pobj\twho|nsubj\twho suffered burns while trying to suffocate the fire|relcl\twhile|mark\twhile trying to suffocate the fire|advcl\tto|aux"
+                }
+            ]
+        },
+        {
+            "claim": "So far Apple has not issued an official statement, and unfortunately there is still no information about the iPhone models whose batteries exploded, but we must remember that a few months ago several users reported that some of the iPhone batteries  and  Plus were inflated by connecting the device to the electric current, which could cause an explosion of the lithium ion battery.",
+            "question_answers": [
+                {
+                    "question": "What type of battery could explode?",
+                    "answer": "lithium ion"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Apple make an official statement about the overheating of their iPhone models?",
+                    "score": 0.9017,
+                    "answers": "official|amod"
+                },
+                {
+                    "question": "What did Apple say about the batteries of the iPhone models?",
+                    "score": 0.871,
+                    "answers": "that|mark\tSo far|advmod\tthere|expl\tno information about the iPhone models whose batteries exploded|attr\twhose batteries exploded|relcl\twe|nsubj\tthat|mark\ta few months|npadvmod\tseveral|amod\tseveral users|nsubj\tthat|mark\twere|auxpass"
+                },
+                {
+                    "question": "What did Apple do to cause the battery to explode?",
+                    "score": 0.8633,
+                    "answers": "connecting the device to the electric current , which could cause an explosion of the lithium ion battery|pcomp"
+                },
+                {
+                    "question": "How many iPhone batteries have exploded?",
+                    "score": 0.8588,
+                    "answers": "that So far Apple has not issued an official statement , and unfortunately there is still no information about the iPhone models whose batteries exploded , but we must remember that a few months ago several users reported that some of the iPhone batteries   and   Plus were inflated by connecting the device to the electric current , which could cause an explosion of the lithium ion battery|ccomp"
+                },
+                {
+                    "question": "What is the evidence of the battery overheating on iPhone models?",
+                    "score": 0.8289,
+                    "answers": "unfortunately there is still no information about the iPhone models whose batteries exploded , but we must remember that a few months ago several users reported that some of the iPhone batteries   and   Plus were inflated by connecting the device to the electric current , which could cause an explosion of the lithium ion battery|conj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "Economy_232",
+    "claim": "Banxico predicts economic growth if Lopez Obrador wins the elections this first of JulyPese a las últimas menaces. Alejandr Díaz de Leon, governor of Banxic. The central Mexican banking system is the only one that is shown to be timista, recently, the OECD also revealed the feasibility of a growing mejrara the ecmía of Mexic and ahra the financial  Nmura, it also reveals that it is becoming more reliable among the internal investmentists. In a letter to the Japanese bank, it is shown that between the . I'm sorry.",
+    "source": "nacionunida.com",
+    "date": "01/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Banxico predicts economic growth if Lopez Obrador wins the elections this first of JulyPese a las últimas menaces.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Banxico predict economic growth if Lopez Obrador win the election?",
+                    "score": 0.7721,
+                    "answers": "nacionunida.com reported on 01/06/2018 that Banxico predicts economic growth if Lopez Obrador wins the elections this first of JulyPese a las últimas menaces|ROOT\tthat|mark\tLopez|compound\tthe|det\tthe elections|dobj\tthis|det\tJulyPese|nmod\ta|nmod\tlas|nmod\tJulyPese a las últimas menaces|pobj"
+                },
+                {
+                    "question": "What did Banxico say about Lopez Obrador winning the election?",
+                    "score": 0.7412,
+                    "answers": "of JulyPese a las últimas menaces|prep"
+                },
+                {
+                    "question": "What would happen if Lopez Obrador won the election?",
+                    "score": 0.68,
+                    "answers": "if Lopez Obrador wins the elections this first of JulyPese a las últimas menaces|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Alejandr Díaz de Leon, governor of Banxic.",
+            "question_answers": [
+                {
+                    "question": "What website reported that Alejandr Daz de Leon was the governor of Banxic?",
+                    "answer": "nacionunida.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Alejandr Díaz de Leon?",
+                    "score": 0.6429,
+                    "answers": "Alejandr|compound\tDíaz|compound\tthat Alejandr Díaz de Leon , governor of Banxic|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Alejandr Díaz de Leon and the governor of Banxic?",
+                    "score": 0.5812,
+                    "answers": "that|mark\tde|compound\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "The central Mexican banking system is the only one that is shown to be timista, recently, the OECD also revealed the feasibility of a growing mejrara the ecmía of Mexic and ahra the financial  Nmura, it also reveals that it is becoming more reliable among the internal investmentists.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the central Mexican banking system is the only one that is timista?",
+                    "answer": "nacionunida.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How reliable is the central Mexican banking system?",
+                    "score": 0.8852,
+                    "answers": "that The central Mexican banking system is the only one that is shown to be timista|ccomp\tNmura|dep\tthat it is becoming more reliable among the internal investmentists|ccomp\tmore reliable|acomp\tamong the internal investmentists|prep\tinternal|amod\tthe internal investmentists|pobj"
+                },
+                {
+                    "question": "What is the Central Mexican banking system?",
+                    "score": 0.7644,
+                    "answers": "nacionunida.com reported on 01/06/2018 that The central Mexican banking system is the only one that is shown to be timista|ccomp"
+                },
+                {
+                    "question": "What is the economic outlook of the mexican banking system?",
+                    "score": 0.7532,
+                    "answers": "a growing mejrara the ecmía of Mexic and ahra the financial|pobj"
+                },
+                {
+                    "question": "What did the OECD say about a growing mejrara the ecmía of Mexic and ahra?",
+                    "score": 0.7472,
+                    "answers": "recently , the OECD also revealed the feasibility of a growing mejrara the ecmía of Mexic and ahra the financial  |dep"
+                },
+                {
+                    "question": "What is timista?",
+                    "score": 0.6282,
+                    "answers": "banking|compound\tthat is shown to be timista|relcl\ttimista|attr\tnacionunida.com reported on 01/06/2018 that The central Mexican banking system is the only one that is shown to be timista , recently , the OECD also revealed the feasibility of a growing mejrara the ecmía of Mexic and ahra the financial   Nmura , it also reveals that it is becoming more reliable among the internal investmentists|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "In a letter to the Japanese bank, it is shown that between the .",
+            "question_answers": [
+                {
+                    "question": "What website reported on 01/06/2018?",
+                    "answer": "nacionunida.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the letter sent to the Japanese bank?",
+                    "score": 0.7897,
+                    "answers": "a letter to the Japanese bank|pobj"
+                },
+                {
+                    "question": "What did the letter from the Japanese bank say about the letter?",
+                    "score": 0.774,
+                    "answers": "In a letter to the Japanese bank|prep\tthat In a letter to the Japanese bank , it is shown that between the|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the Japanese bank and nacionunida.com?",
+                    "score": 0.5607,
+                    "answers": "nacionunida.com reported on 01/06/2018 that In a letter to the Japanese bank , it is shown that between the|ROOT\ton 01/06/2018|prep\tthat|mark\tthe|det\tit|nsubjpass\tis|auxpass\tthat|mark\tthat between the|prep\tthe|pobj"
+                }
+            ]
+        }
+    ]
+}

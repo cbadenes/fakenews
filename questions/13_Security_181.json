@@ -1,0 +1,369 @@
+{
+    "id": "13_Security_181",
+    "claim": "Through social networks, the president of the Municipal Committee of the Institutional Revolutionary Party (PRI) in the port of Veracruz, Raúl Díaz Diez, denounced an alleged attack on the facilities of that political institute. 'A few moments ago unknown subjects attacked the headquarters of our party. There are no injured! ', he posted on his Twitter account @rauldiazdiez. 'We categorically reject these acts that threaten free democratic participation! They will not intimidate us! ', was another message from the PRI municipal leader. Although he did not specify how the PRI offices were attacked, located on Netzahualcoyotl Avenue, between Carlos Cruz and Juan Soto, of the Centro de Veracruz colony, Díaz Diez disseminated two photographs showing a slightly calcined wall. During the course of this morning, the PRI leader is expected to issue a statement detailing the alleged attack. The company INDEMERC carried out a survey that was carried out in Veracruz and was published El Portal, newspaper of that state. The survey was taken between April  and May. With an error margin of less than +/- % for each estimate, these are the results of what the company manages as 'ModelIndermerc'. I. - Yunes Landa (PRI), leader; Yunes Linares (PAN-PRD), second; Cuitláhuac (Morena), third. o Con % Hector Yunes Landa, del PRI-Verde-NA-PC-AVE o Con o Miguel Ángel Yunes Linares, del PAN-PRD o Con % Cuitláhuac García Jimenez, de Morena o Con % Juan Bueno Torio, independiente o Con % Alba Leonila Mendez Herrera, del PT o Con % Armando Mendez de la Luz, de Movimiento Ciudadano o Víctor Alejandro Vázquez Cuevas, del PES II. - The PRI would carry a thousand votes of advantage to the PAN",
+    "source": "www.argumentopolitico.com",
+    "date": "01/03/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Through social networks, the president of the Municipal Committee of the Institutional Revolutionary Party (PRI) in the port of Veracruz , Raúl Díaz Diez, denounced an alleged attack on the facilities of that political institute .",
+            "question_answers": [
+                {
+                    "question": "Where was the Municipal Committee of the Institutional Revolutionary Party (PRI) located?",
+                    "answer": "the port of Veracruz"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Was there an alleged attack on the facilities of the Institutional Revolutionary Party (PRI)?",
+                    "score": 0.8929,
+                    "answers": "an alleged attack on the facilities of that political institute|dobj"
+                },
+                {
+                    "question": "What was the purpose of the attack on the port of Veracruz in 2018?",
+                    "score": 0.6667,
+                    "answers": "the Municipal Committee of the Institutional Revolutionary Party ( PRI ) in the port of Veracruz|pobj\tin the port of Veracruz|prep"
+                },
+                {
+                    "question": "What is the relationship between social networks and political institutions?",
+                    "score": 0.6447,
+                    "answers": "social networks|pobj"
+                },
+                {
+                    "question": "What is the name of the political institute in Veracruz?",
+                    "score": 0.6276,
+                    "answers": "that political institute|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'A few moments ago unknown subjects an alleged attack on the facilities of that political institute the facilities of that political institute .",
+            "question_answers": [
+                {
+                    "question": "What happened to the facilities of a political institute?",
+                    "answer": "an alleged attack on the facilities of that political institute"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who attacked the facilities of a political institute in Florida in 2018?",
+                    "score": 0.7867,
+                    "answers": "on the facilities of that political institute the facilities of that political institute|prep\tthe facilities of that political institute the facilities of that political institute|pobj"
+                },
+                {
+                    "question": "What was the alleged attack on the facilities of that political institute?",
+                    "score": 0.7181,
+                    "answers": "that|mark\t'|punct\tA|det\tfew|amod\tan|det\talleged|amod\tthat ' A few moments ago unknown subjects an alleged attack on the facilities of that political institute the facilities of that political institute|ccomp\tthe|det\tthat|det\tthe|det\tthat|det"
+                },
+                {
+                    "question": "What is the name of the political institute that was attacked by unknown subjects?",
+                    "score": 0.606,
+                    "answers": "political|amod\tpolitical|amod"
+                }
+            ]
+        },
+        {
+            "claim": "There are no injured! ', he posted on Twitter account @rauldiazdiez.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the Twitter account where the report was posted?",
+                    "answer": "Twitter account @rauldiazdiez"
+                },
+                {
+                    "question": "What was the name of the Twitter account where the report was posted?",
+                    "answer": "Twitter account @rauldiazdiez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the injuries of Rodrigo Duterte?",
+                    "score": 0.6943,
+                    "answers": "on Twitter account @rauldiazdiez|prep"
+                },
+                {
+                    "question": "How many injured people have been injured on facebook?",
+                    "score": 0.6888,
+                    "answers": "www.argumentopolitico.com reported on 01/03/2018 that There are no injured ! ' , he posted on Twitter account @rauldiazdiez|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'the Institutional Revolutionary Party (PRI) categorically reject these acts that threaten free democratic participation ! these acts that threaten free democratic participation will not intimidate the Institutional Revolutionary Party (PRI) ! ', was another message from he .",
+            "question_answers": [
+                {
+                    "question": "What did the PRI do?",
+                    "answer": "categorically reject these acts that threaten free democratic participation"
+                },
+                {
+                    "question": "What did he say the PRI would not do to the Institutional Revolutionary Party?",
+                    "answer": "intimidate the Institutional Revolutionary Party (PRI)"
+                },
+                {
+                    "question": "What did he say the PRI would not do to the Institutional Revolutionary Party?",
+                    "answer": "intimidate the Institutional Revolutionary Party (PRI)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Institutional Revolutionary Party (PRI) say about free democratic participation?",
+                    "score": 0.8013,
+                    "answers": "another message from he|attr\tfrom he|prep"
+                },
+                {
+                    "question": "What are the acts that threaten free democratic participation?",
+                    "score": 0.7708,
+                    "answers": "www.argumentopolitico.com reported on 01/03/2018 that ' the Institutional Revolutionary Party ( PRI ) categorically reject these acts that threaten free democratic participation ! these acts that threaten free democratic participation will not intimidate the Institutional Revolutionary Party ( PRI )|ccomp\ton 01/03/2018|prep\tthat|mark\t'|punct\tthe|det\tInstitutional|compound\tRevolutionary|compound\tthe Institutional Revolutionary Party ( PRI )|nsubj\t(|punct\t)|punct\tcategorically|advmod\tthat ' the Institutional Revolutionary Party ( PRI ) categorically reject these acts that threaten free democratic participation !|ccomp\tthese|det\tthese acts that threaten free democratic participation|dobj\tthat|nsubj\tthat threaten free democratic participation|relcl\tfree|amod\tdemocratic|amod\tfree democratic participation|dobj\t!|punct\tthese|det\tthese acts that threaten free democratic participation|nsubj\tthat|nsubj\tthat threaten free democratic participation|relcl\tfree|amod\tdemocratic|amod\tfree democratic participation|dobj\twill|aux\tnot|neg\tthese acts that threaten free democratic participation will not intimidate the Institutional Revolutionary Party ( PRI )|ccomp\tthe|det\tInstitutional|compound\tRevolutionary|compound\tthe Institutional Revolutionary Party ( PRI )|dobj\t(|punct\t)|punct\t!|punct\t'|punct\t,|punct\twww.argumentopolitico.com reported on 01/03/2018 that ' the Institutional Revolutionary Party ( PRI ) categorically reject these acts that threaten free democratic participation ! these acts that threaten free democratic participation will not intimidate the Institutional Revolutionary Party ( PRI ) ! ' , was another message from he|ROOT\tanother|det\the|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Although he did not specify how the facilities of that political institute were an alleged attack on the facilities of that political institute , located on Netzahualcoyotl Avenue, between Carlos Cruz and Juan Soto, of the Centro de Veracruz colony, he disseminated two photographs showing a slightly calcined wall.",
+            "question_answers": [
+                {
+                    "question": "What did www.argumentopolitico.com not specify?",
+                    "answer": "how the facilities of that political institute were an alleged attack on the facilities of that political institute"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Was there an attack on the facilities of the Centro de Veracruz colony?",
+                    "score": 0.818,
+                    "answers": "not|neg\tan alleged attack on the facilities of that political institute , located on Netzahualcoyotl Avenue , between Carlos Cruz and Juan Soto , of the Centro de Veracruz colony ,|attr"
+                },
+                {
+                    "question": "Where is Netzahualcoyotl Avenue?",
+                    "score": 0.6286,
+                    "answers": "located on Netzahualcoyotl Avenue , between Carlos Cruz and Juan Soto , of the Centro de Veracruz colony|acl\ton Netzahualcoyotl Avenue|prep"
+                },
+                {
+                    "question": "What was the name of the building where Carlos Cruz and Juan Soto were attacked?",
+                    "score": 0.5839,
+                    "answers": "on 01/03/2018|prep\tof that political institute|prep"
+                },
+                {
+                    "question": "What is Netzahualcoyotl Avenue?",
+                    "score": 0.5688,
+                    "answers": "Netzahualcoyotl|compound"
+                }
+            ]
+        },
+        {
+            "claim": "During the course of this morning, he is expected to issue a statement detailing an alleged attack on the facilities of that political institute .",
+            "question_answers": [
+                {
+                    "question": "What is expected to happen during the course of this morning?",
+                    "answer": "he is expected to issue a statement detailing an alleged attack on the facilities"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the alleged attack on the facilities of the Washington University political institute?",
+                    "score": 0.7013,
+                    "answers": "www.argumentopolitico.com reported on 01/03/2018 that During the course of this morning , he is expected to issue a statement detailing an alleged attack on the facilities of that political institute|ROOT\tdetailing an alleged attack on the facilities of that political institute|acl\talleged|amod"
+                },
+                {
+                    "question": "What was the purpose of the attack?",
+                    "score": 0.6293,
+                    "answers": "During the course of this morning|prep\tthe course of this morning|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The company INDEMERC carried out a survey that was carried out in Veracruz and was published El Portal, newspaper of that state .",
+            "question_answers": [
+                {
+                    "question": "Where was the survey carried out?",
+                    "answer": "Veracruz"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did INDEMERC conduct their survey in Veracruz?",
+                    "score": 0.7732,
+                    "answers": "in Veracruz|prep\tand|cc"
+                },
+                {
+                    "question": "What survey was carried out in Veracruz in 2018?",
+                    "score": 0.7318,
+                    "answers": "on 01/03/2018|prep\tthat|mark\tout|prt\ta|det\ta survey that was carried out in Veracruz and was published El Portal , newspaper of that state|dobj\tthat|nsubjpass\twas|auxpass\tout|prt\twas|auxpass\t,|punct\tthat|det"
+                },
+                {
+                    "question": "What was the purpose of the survey carried out in Veracruz?",
+                    "score": 0.6582,
+                    "answers": "www.argumentopolitico.com reported on 01/03/2018 that The company INDEMERC carried out a survey that was carried out in Veracruz and was published El Portal , newspaper of that state|ROOT\tthat The company INDEMERC carried out a survey that was carried out in Veracruz and was published El Portal , newspaper of that state|ccomp\tthat was carried out in Veracruz and was published El Portal , newspaper of that state|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of INDEMERC's survey in Veracruz?",
+                    "score": 0.6009,
+                    "answers": "El|compound"
+                },
+                {
+                    "question": "What is the name of the newspaper El Portal?",
+                    "score": 0.5624,
+                    "answers": "of that state|prep\tthat state|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "a survey that was carried out in Veracruz and was published El Portal, newspaper of that state was taken between April  and May.",
+            "question_answers": [
+                {
+                    "question": "Where was the survey carried out?",
+                    "answer": "Veracruz"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What survey was carried out in Veracruz?",
+                    "score": 0.814,
+                    "answers": "that a survey that was carried out in Veracruz and was published El Portal , newspaper of that state was taken between April|ccomp"
+                },
+                {
+                    "question": "When was El Portal published?",
+                    "score": 0.8117,
+                    "answers": "www.argumentopolitico.com reported on 01/03/2018 that a survey that was carried out in Veracruz and was published El Portal , newspaper of that state was taken between April   and May|ROOT\tbetween April|prep\tApril|pobj\t  and May|dobj"
+                },
+                {
+                    "question": "What is El Portal?",
+                    "score": 0.5422,
+                    "answers": "was published El Portal , newspaper of that state|conj\tEl Portal , newspaper of that state|npadvmod\tnewspaper of that state|appos"
+                }
+            ]
+        },
+        {
+            "claim": "With an error margin of less than +/- % for each estimate, these are the results of what The company INDEMERC manages as 'ModelIndermerc'.",
+            "question_answers": [
+                {
+                    "question": "What was the error margin for each estimate?",
+                    "answer": "+/-"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the error margin for the company INDEMERC managing as Model Indermerc?",
+                    "score": 0.7638,
+                    "answers": "the results of what The company INDEMERC manages as ' ModelIndermerc '|attr"
+                },
+                {
+                    "question": "What is the name of the company that INDEMERC runs as Model Indermerc?",
+                    "score": 0.6638,
+                    "answers": "of what The company INDEMERC manages as ' ModelIndermerc '|prep"
+                },
+                {
+                    "question": "What is Model Indermerc?",
+                    "score": 0.6604,
+                    "answers": "as ' ModelIndermerc '|prep"
+                },
+                {
+                    "question": "What is the relationship between INDEMERC and Model Indermerc?",
+                    "score": 0.656,
+                    "answers": "what The company INDEMERC manages as ' ModelIndermerc '|pcomp"
+                },
+                {
+                    "question": "What is INDEMERC?",
+                    "score": 0.6199,
+                    "answers": "The company INDEMERC|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "I. - Yunes Landa (the Institutional Revolutionary Party (PRI) ), leader; Yunes Linares (PAN-PRD), second; Cuitláhuac (Morena), third.",
+            "question_answers": [
+                {
+                    "question": "What party did Yunes Landa belong to?",
+                    "answer": "Institutional Revolutionary Party (PRI)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the leader of the Institutional Revolutionary Party (PRI)?",
+                    "score": 0.6881,
+                    "answers": "I.|compound"
+                },
+                {
+                    "question": "Who is Yunes Landa?",
+                    "score": 0.664,
+                    "answers": "that I. - Yunes Landa ( the Institutional Revolutionary Party ( PRI ) ) , leader ; Yunes Linares ( PAN - PRD ) , second ; Cuitláhuac ( Morena ) , third|dobj"
+                },
+                {
+                    "question": "Who is Yunes Linares?",
+                    "score": 0.6421,
+                    "answers": "Yunes|compound\tYunes|compound\tYunes Linares ( PAN - PRD ) , second ; Cuitláhuac ( Morena ) , third|appos"
+                }
+            ]
+        },
+        {
+            "claim": "o Con % Hector Yunes Landa, del PRI-Verde-NA-PC-AVE o Con o Miguel Ángel Yunes Linares, del PAN-PRD o Con % Cuitláhuac García Jimenez, de Morena o Con % Juan Bueno Torio, independiente o Con % Alba Leonila Mendez Herrera, del PT o Con % Armando Mendez de la Luz, de Movimiento Ciudadano o Víctor Alejandro Vázquez Cuevas, del PES II.",
+            "question_answers": [
+                {
+                    "question": "What percentage of Hector Yunes Landa was del PRI-Verde-NA-PC-AVE?",
+                    "answer": "o Con"
+                },
+                {
+                    "question": "What percentage of Cuitláhuac Garca Jimenez did the PAN-PRD have?",
+                    "answer": "Con"
+                },
+                {
+                    "question": "What percentage of Cuitláhuac Garca Jimenez did the PAN-PRD have?",
+                    "answer": "Con"
+                },
+                {
+                    "question": "What percentage of Cuitláhuac Garca Jimenez did the PAN-PRD have?",
+                    "answer": "Con"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the organization that Hector Yunes Landa is a part of?",
+                    "score": 0.5703,
+                    "answers": "PRI|nmod"
+                },
+                {
+                    "question": "What is the relationship between  Hector Yunes Landa and  Miguel Cuitláhuac\\ Jimenez?",
+                    "score": 0.5471,
+                    "answers": "that o Con % Hector Yunes Landa , del PRI - Verde - NA - PC - AVE o Con o Miguel Ángel Yunes Linares , del PAN - PRD o Con % Cuitláhuac García Jimenez , de Morena o Con % Juan Bueno Torio , independiente o Con % Alba Leonila Mendez Herrera , del PT o Con % Armando Mendez de la Luz , de Movimiento Ciudadano o Víctor Alejandro Vázquez Cuevas , del PES II|dobj"
+                },
+                {
+                    "question": "What does the acronym PES stand for?",
+                    "score": 0.5366,
+                    "answers": "PES|nmod"
+                },
+                {
+                    "question": "Who is Armando Mendez de la Luz?",
+                    "score": 0.526,
+                    "answers": "Con % Armando Mendez de la Luz , de Movimiento Ciudadano o Víctor Alejandro Vázquez Cuevas , del PES II|conj"
+                },
+                {
+                    "question": "What doesargumentopolitico.com do?",
+                    "score": 0.523,
+                    "answers": "www.argumentopolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "- The PRI would carry a thousand votes of advantage to the PAN.",
+            "question_answers": [
+                {
+                    "question": "When did www.argumentopolitico.com report that the PRI would carry a thousand votes of advantage to the PAN?",
+                    "answer": "01/03/2018"
+                },
+                {
+                    "question": "How many votes would the PRI have in favor of the PAN?",
+                    "answer": "a thousand votes"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many votes would the PRI gain to the PAN?",
+                    "score": 0.8247,
+                    "answers": "to the PAN|prep"
+                },
+                {
+                    "question": "What is the relationship between the PRI and the PAN?",
+                    "score": 0.6879,
+                    "answers": "on 01/03/2018|prep\tThe PRI|nsubj"
+                }
+            ]
+        }
+    ]
+}

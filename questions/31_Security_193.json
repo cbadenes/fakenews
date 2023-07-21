@@ -1,0 +1,169 @@
+{
+    "id": "31_Security_193",
+    "claim": "A government spokesman has reported through an official communique that he will legalize various minor offences during Innocent Day as long as it is proven that they have been committed by way of a joke. According to the data he has shown, the inocenced ones have decreased during the last  years'we worry that this funny custom will be lost and we want to encourage people to continue celebrating inocenced on this special day'. As they have assured, the jokes have been transferred to social networks missing out on the true essence of this day. In order to enhance the inocenced ones, the Government will allow some acts that are normally illegal '. We have been inspired a little bit by the saga of films in La Purga, where they allow any criminal act for a day to alleviate the tensions of the citizens, logically we will not go that far, only minor crimes can be carried out and always justified as an innocent '. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "20/12/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A government spokesman has reported through an official communique that he will legalize various minor offences during Innocent Day as long as it is proven that they have been committed by way of a joke.",
+            "question_answers": [
+                {
+                    "question": "Who said on 20/12/2017 that a government spokesman will legalize various minor offences during Innocent Day?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What crimes are committed on Innocent Day?",
+                    "score": 0.7109,
+                    "answers": "various minor offences|dobj\tInnocent|compound"
+                },
+                {
+                    "question": "What is the source of evidence of the government's plan to legalize minor crimes during Innocent Day?",
+                    "score": 0.5938,
+                    "answers": "on 20/12/2017|prep\tgovernment|compound"
+                },
+                {
+                    "question": "What does it mean to be a joke?",
+                    "score": 0.5161,
+                    "answers": "as long as it is proven that they have been committed by way of a joke|advmod"
+                },
+                {
+                    "question": "What is the purpose of Innocent Day?",
+                    "score": 0.4987,
+                    "answers": "during Innocent Day|prep"
+                },
+                {
+                    "question": "What did the government say on 20/12/2017?",
+                    "score": 0.4885,
+                    "answers": "A government spokesman|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the data he has shown, the inocenced ones have decreased during the last  years'we worry that this funny custom will be lost and we want to encourage people to continue celebrating inocenced on this special day'.",
+            "question_answers": [
+                {
+                    "question": "What custom has decreased during the last years?",
+                    "answer": "inocenced"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many inocenced animals were there in the USA in the year 2017?",
+                    "score": 0.5461,
+                    "answers": "we want to encourage people to continue celebrating inocenced on this special day|conj\tto continue celebrating inocenced on this special day|xcomp"
+                },
+                {
+                    "question": "How many inocenced ones have decreased during the last years?",
+                    "score": 0.4832,
+                    "answers": "the last|pobj\t |dep"
+                },
+                {
+                    "question": "How many people were inocenced on this special day in 2017?",
+                    "score": 0.4586,
+                    "answers": "years'we worry that this funny custom will be lost and we want to encourage people to continue celebrating inocenced on this special day '|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "As they have assured, the jokes have been transferred to social networks missing out on the true essence of this day.",
+            "question_answers": [
+                {
+                    "question": "Who said on 20/12/2017 that jokes were transferred to social networks missing out on the true essence of this day?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How were the jokes transferred to social networks?",
+                    "score": 0.7954,
+                    "answers": "that As they have assured , the jokes have been transferred to social networks missing out on the true essence of this day|ccomp"
+                },
+                {
+                    "question": "What is the true essence of a joke?",
+                    "score": 0.6099,
+                    "answers": "to social networks missing out on the true essence of this day|prep\tout|prt\ton the true essence of this day|prep\ttrue|amod\tthe true essence of this day|pobj\tthis|det"
+                },
+                {
+                    "question": "What is the meaning of social networks?",
+                    "score": 0.563,
+                    "answers": "social|amod"
+                }
+            ]
+        },
+        {
+            "claim": "In order to enhance the inocenced ones, the Government will allow some acts that are normally illegal '.",
+            "question_answers": [
+                {
+                    "question": "What will the government allow in order to enhance the inocenced ones?",
+                    "answer": "some acts that are normally illegal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What acts are normally illegal?",
+                    "score": 0.8045,
+                    "answers": "some acts that are normally illegal|dobj"
+                },
+                {
+                    "question": "What are some acts that are normally illegal?",
+                    "score": 0.7084,
+                    "answers": "haynoticia.es said on 20/12/2017 that In order to enhance the inocenced ones , the Government will allow some acts that are normally illegal '|ROOT\ton 20/12/2017|prep\tthat|mark\tIn order to enhance the inocenced ones|prep\tto|aux\tthe|det\t,|punct\tthe|det\tthe Government|nsubj\twill|aux\tsome|det\tthat|nsubj\tnormally|advmod\t'|punct"
+                },
+                {
+                    "question": "What did the government do to enhance the inocenced ones?",
+                    "score": 0.6725,
+                    "answers": "to enhance the inocenced ones|acl"
+                },
+                {
+                    "question": "What is the government doing to enhance inocenced ones?",
+                    "score": 0.662,
+                    "answers": "that In order to enhance the inocenced ones , the Government will allow some acts that are normally illegal|ccomp"
+                },
+                {
+                    "question": "What are the laws regarding inocenced ones?",
+                    "score": 0.6537,
+                    "answers": "the inocenced ones|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "We have been inspired a little bit by the saga of films in La Purga, where they allow any criminal act for a day to alleviate the tensions of the citizens, logically we will not go that far, only minor crimes can be carried out and always justified as an innocent '.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say about La Purga?",
+                    "answer": "only minor crimes can be carried out and always justified as an innocent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the film La Purga do to reduce tensions of citizens?",
+                    "score": 0.6569,
+                    "answers": "haynoticia.es said on 20/12/2017 that We have been inspired a little bit by the saga of films in La Purga , where they allow any criminal act for a day to alleviate the tensions of the citizens , logically we will not go that far , only minor crimes can be carried out and always justified as an innocent '|ROOT"
+                },
+                {
+                    "question": "What crimes can be carried out and always justified as innocent?",
+                    "score": 0.6299,
+                    "answers": "minor|amod"
+                },
+                {
+                    "question": "What is the story of films in La Purga?",
+                    "score": 0.575,
+                    "answers": "by the saga of films in La Purga , where they allow any criminal act for a day to alleviate the tensions of the citizens|agent\tthe saga of films in La Purga , where they allow any criminal act for a day to alleviate the tensions of the citizens|pobj"
+                },
+                {
+                    "question": "What are the laws in La Purga?",
+                    "score": 0.5566,
+                    "answers": "We have been inspired a little bit by the saga of films in La Purga , where they allow any criminal act for a day to alleviate the tensions of the citizens|ccomp\tof films in La Purga , where they allow any criminal act for a day to alleviate the tensions of the citizens|prep\twhere they allow any criminal act for a day to alleviate the tensions of the citizens|relcl\tany criminal act for a day|nsubj\tany criminal act for a day to alleviate the tensions of the citizens|ccomp"
+                },
+                {
+                    "question": "What is the meaning of the story of La Purga?",
+                    "score": 0.5335,
+                    "answers": "an innocent|pobj"
+                }
+            ]
+        }
+    ]
+}

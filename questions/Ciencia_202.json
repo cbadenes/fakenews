@@ -1,0 +1,195 @@
+{
+    "id": "Ciencia_202",
+    "claim": "At the end of December, the so-called 5G chips began to go viral on social networks and to inoculate people with them in order to control them, although they have proved to be the indications for making a guitar pedal. One of the theories of the conspiracy that has grown with the pandemic is Bill Gates' supposed plans to insert chips with the Covid-19 vaccines; therefore they viralized supposed completely false plans of the chips. In recent days an image with a supposed diagram of the aforementioned 5G chip has been extended on social networks, with the mention of 'confidential'. These are, however, plans for making a guitar pedal. As they point out in Gizmodo, this message was generated in Romania as a joke at the end of December, but someone translated it into English, which facilitated its extension to other European countries, such as Italy. Some of the clues that imply that it is not true are found in the diagram itself, with references to the change pedals or MT-2. I'm sorry.",
+    "source": "www.milenio.com",
+    "date": "06/01/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "At the end of December, the so-called 5G chips began to go viral on social networks and to inoculate people with them in order to control them, although they have proved to be the indications for making a guitar pedal.",
+            "question_answers": [
+                {
+                    "question": "Where did the 5G chips go viral?",
+                    "answer": "social networks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the 5G chips?",
+                    "score": 0.7126,
+                    "answers": "www.milenio.com|nsubj\twww.milenio.com reported on 06/01/2021 that At the end of December , the so - called 5 G chips began to go viral on social networks and to inoculate people with them in order to control them , although they have proved to be the indications for making a guitar pedal|ROOT\ton 06/01/2021|prep\tthat|mark\tAt the end of December|prep\tthe|det\tof December|prep\tDecember|pobj\t,|punct\tthe|det\tso|advmod\t-|punct\tso - called|amod\t5|compound\tG|compound\tthe so - called 5 G chips|nsubj\tthat At the end of December , the so - called 5 G chips began to go viral on social networks and to inoculate people with them in order to control them , although they have proved to be the indications for making a guitar pedal|ccomp\tto|aux\tto go viral on social networks and to inoculate people with them in order to control them , although they have proved to be the indications for making a guitar pedal|xcomp\tviral|acomp\ton social networks|prep\tsocial|amod\tsocial networks|pobj\tand|cc\tto|aux\tto inoculate people with them in order to control them , although they have proved to be the indications for making a guitar pedal|conj\tpeople|dobj\twith them|prep\tthem|pobj\tin order to control them|prep\torder to control them|pobj\tto|aux\tto control them|acl\tthem|dobj\t,|punct\talthough|mark\tthey|nsubj\thave|aux\talthough they have proved to be the indications for making a guitar pedal|advcl\tto|aux\tto be the indications for making a guitar pedal|xcomp\tthe|det\tthe indications for making a guitar pedal|attr\tmaking a guitar pedal|pcomp\ta|det\tguitar|compound\ta guitar pedal|dobj"
+                },
+                {
+                    "question": "What was the purpose of the 5G chips?",
+                    "score": 0.6965,
+                    "answers": "for making a guitar pedal|prep"
+                }
+            ]
+        },
+        {
+            "claim": "One of the theories of the conspiracy that has grown with the pandemic is Bill Gates' supposed plans to insert chips with the Covid-19 vaccines; therefore they viralized supposed completely false plans of the chips.",
+            "question_answers": [
+                {
+                    "question": "What happened to Bill Gates' plans to insert chips with the Covid-19 vaccines?",
+                    "answer": "they viralized supposed completely false plans"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Bill Gates say about the Covid-19 vaccines?",
+                    "score": 0.8496,
+                    "answers": "Bill Gates ' supposed plans to insert chips with the Covid-19 vaccines|attr\tto insert chips with the Covid-19 vaccines|acl\tof the chips|prep"
+                },
+                {
+                    "question": "What are the conspiracy theories of Bill Gates' supposed plans to insert chips with Covid-19 vaccines?",
+                    "score": 0.824,
+                    "answers": "chips|dobj"
+                },
+                {
+                    "question": "What conspiracy is Bill Gates involved in?",
+                    "score": 0.8048,
+                    "answers": "on 06/01/2021|prep\tthat|mark\tthe|det\tthe|det\tthat|nsubj\tthe|det\tthe pandemic|pobj\tBill Gates '|poss\t'|case\tto|aux\tthe|det\t;|punct\ttherefore|advmod\tthey|nsubj\tcompletely|advmod\tcompletely false|amod\tthe|det"
+                },
+                {
+                    "question": "What conspiracy has grown with the pandemic?",
+                    "score": 0.7945,
+                    "answers": "www.milenio.com reported on 06/01/2021 that One of the theories of the conspiracy that has grown with the pandemic is Bill Gates ' supposed plans to insert chips with the Covid-19 vaccines ; therefore they viralized supposed completely false plans of the chips|ROOT\tthe theories of the conspiracy that has grown with the pandemic|pobj\thas|aux\tBill|compound\tthat One of the theories of the conspiracy that has grown with the pandemic is Bill Gates ' supposed plans to insert chips with the Covid-19 vaccines ; therefore they viralized supposed completely false plans of the chips|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the Covid-19 vaccine?",
+                    "score": 0.7712,
+                    "answers": "with the pandemic|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In recent days an image with a supposed diagram of the aforementioned 5G chip has been extended on social networks, with the mention of 'confidential'.",
+            "question_answers": [
+                {
+                    "question": "When did milenio.com report that an image with a supposed diagram of the 5G chip was extended on social networks?",
+                    "answer": "06/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the secret value of a 5G chip?",
+                    "score": 0.7139,
+                    "answers": "with the mention of ' confidential '|prep"
+                },
+                {
+                    "question": "What is the 5G chip?",
+                    "score": 0.6949,
+                    "answers": "5|compound"
+                },
+                {
+                    "question": "What is the purpose of the 5G chip?",
+                    "score": 0.6901,
+                    "answers": "an image with a supposed diagram of the aforementioned 5 G chip|nsubjpass\twith a supposed diagram of the aforementioned 5 G chip|prep\ta supposed diagram of the aforementioned 5 G chip|pobj\tof the aforementioned 5 G chip|prep\tthe aforementioned 5 G chip|pobj"
+                },
+                {
+                    "question": "What is the relationship between Confidential and the 5G chip?",
+                    "score": 0.6266,
+                    "answers": "www.milenio.com reported on 06/01/2021 that In recent days an image with a supposed diagram of the aforementioned 5 G chip has been extended on social networks , with the mention of ' confidential '|ROOT"
+                },
+                {
+                    "question": "What is the link between the 5G chip and Confidential?",
+                    "score": 0.6078,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "These are, however, plans for making a guitar pedal.",
+            "question_answers": [
+                {
+                    "question": "When did milenio.com report that there were plans for making a guitar pedal?",
+                    "answer": "06/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of making a guitar pedal?",
+                    "score": 0.9213,
+                    "answers": "www.milenio.com reported on 06/01/2021 that These are , however , plans for making a guitar pedal|ROOT\tthat|mark\tThese|nsubj\tthat These are , however , plans for making a guitar pedal|ccomp\t,|punct\thowever|advmod\t,|punct\tfor making a guitar pedal|prep\tmaking a guitar pedal|pcomp\ta|det\tguitar|compound\ta guitar pedal|dobj"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.7415,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "As they point out in Gizmodo, this message was generated in Romania as a joke at the end of December, but someone translated it into English, which facilitated its extension to other European countries, such as Italy.",
+            "question_answers": [
+                {
+                    "question": "When didmilenio.com report that the message was generated in Romania as a joke?",
+                    "answer": "06/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the Gizmodo message being translated into English?",
+                    "score": 0.7391,
+                    "answers": "someone translated it into English , which facilitated its extension to other European countries , such as Italy|conj"
+                },
+                {
+                    "question": "What was the meaning of Gizmodo at the end of December in Romania?",
+                    "score": 0.7316,
+                    "answers": "at the end of December|prep"
+                },
+                {
+                    "question": "What is the origin of Gizmodo?",
+                    "score": 0.7096,
+                    "answers": "such as Italy|prep"
+                },
+                {
+                    "question": "What is Gizmodo?",
+                    "score": 0.695,
+                    "answers": "on 06/01/2021|prep\tAs they point out in Gizmodo|advcl\tin Gizmodo|prep\tas a joke|prep\ta joke|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the message being generated in Romania?",
+                    "score": 0.681,
+                    "answers": "www.milenio.com reported on 06/01/2021 that As they point out in Gizmodo , this message was generated in Romania as a joke at the end of December , but someone translated it into English , which facilitated its extension to other European countries , such as Italy|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Some of the clues that imply that it is not true are found in the diagram itself, with references to the change pedals or MT-2.",
+            "question_answers": [
+                {
+                    "question": "When did www.milenio.com report that some of the clues that imply that it wasn't true were found in the diagram itself?",
+                    "answer": "06/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the references to the change pedals or MT-2 in the diagram?",
+                    "score": 0.722,
+                    "answers": "the diagram itself , with references to the change pedals or MT-2|pobj\twith references to the change pedals or MT-2|prep"
+                },
+                {
+                    "question": "What clues are found in the diagram itself?",
+                    "score": 0.7156,
+                    "answers": "the clues that imply that it is not true|pobj"
+                },
+                {
+                    "question": "What is the relationship between the change pedals and MT-2?",
+                    "score": 0.6936,
+                    "answers": "that|mark\tthe|det\tthat|nsubj\tthat|mark\tit|nsubj\tnot|neg\ttrue|acomp\tare|auxpass\tthe|det\titself|appos\t,|punct\treferences to the change pedals or MT-2|pobj\tthe|det\tchange|compound\tor|cc"
+                },
+                {
+                    "question": "What are the clues that imply that it is not true?",
+                    "score": 0.6393,
+                    "answers": "www.milenio.com reported on 06/01/2021 that Some of the clues that imply that it is not true are found in the diagram itself , with references to the change pedals or MT-2|ROOT\tSome of the clues that imply that it is not true|nsubjpass\tthat imply that it is not true|relcl\tthat Some of the clues that imply that it is not true are found in the diagram itself , with references to the change pedals or MT-2|ccomp"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.5351,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

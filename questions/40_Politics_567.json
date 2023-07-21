@@ -1,0 +1,310 @@
+{
+    "id": "40_Politics_567",
+    "claim": "Last June  the Tokyo Assembly passed with the majority vote of all political formations except the Liberal Democratic Party a new ordinance to give greater protection to passive smokers in the capital. This measure is much stricter than the reform now under full deliberation in the Diet, and contains rules such as the total prohibition of smoking inside restaurants with employees regardless of the size of the establishment's space. Fines for non-compliance with the regulations shall be up to  yen. This ordinance will begin to be implemented gradually, and it is expected to be fully implemented by April of , before the Olympic and Paralympic Games. After the vote in the assembly, Governor Koike Yuriko told the press that'The goal is to make Tokyo a comfortable place for people who smoke and also for those who don't. With this regulation we want to continue to create a policy that puts health first '. The reform of the state law will allow smoking in restaurants with a surface area of less than  square meters, while the ordinance for Tokyo Prefecture will impose a smoking ban throughout the premises provided that they are not restaurants run solely by members of the same family, and will only allow smoking in rooms specifically equipped for this purpose. With regard to unburned tobacco, as its health effects are not yet clear, Tokyo will comply with state law and for the time being will allow its consumption as long as the area of smokers separates from that of non-smokers. In addition, the Ordinance also provides for the elimination of designated outdoor smoking areas near kindergartens, day-care centres and primary, secondary and secondary schools, with the aim of protecting minors in the capital, who are more likely to suffer passive smoking. Prior to the vote, the Liberal Democratic Party stated in this regard that 'The ban on smoking when the premises have employees is ambiguous, since in some cases it is difficult to discern whether they are family members or not'. For its part, the Kōmeitō, who voted in favour, warned that 'Tokyo must be prepared to deal with the problems that establishments will suffer after the tightening of measures to protect passive smokers'. I'm sorry.",
+    "source": "www.nippon.com",
+    "date": "28/06/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Last June  the Tokyo Assembly passed with the majority vote of all political formations except the Liberal Democratic Party a new ordinance to give greater protection to passive smokers in the capital .",
+            "question_answers": [
+                {
+                    "question": "Which party did not vote on a new ordinance to give greater protection to passive smokers?",
+                    "answer": "Liberal Democratic Party"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many smoke detectors were there in the capital of Japan in June 2018?",
+                    "score": 0.6861,
+                    "answers": "passive smokers in the capital|pobj"
+                },
+                {
+                    "question": "What was the purpose of the ordinance passed by the Tokyo Assembly in June 2018?",
+                    "score": 0.6639,
+                    "answers": "to passive smokers in the capital|dative\tpassive|amod"
+                },
+                {
+                    "question": "How many votes did the Tokyo Assembly pass in June 2018?",
+                    "score": 0.6424,
+                    "answers": "with the majority vote of all political formations except the Liberal Democratic Party|prep\tthe majority vote of all political formations except the Liberal Democratic Party|pobj\tof all political formations except the Liberal Democratic Party|prep"
+                }
+            ]
+        },
+        {
+            "claim": "a new ordinance to give greater protection to passive smokers in the capital is much stricter than the reform now under full deliberation in the Diet, and contains rules such as the total prohibition of smoking inside restaurants with employees regardless of the size of the establishment's space.",
+            "question_answers": [
+                {
+                    "question": "What rules are in the new ordinance to give greater protection to passive smokers?",
+                    "answer": "the total prohibition of smoking inside restaurants with employees"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the rules for smoking inside a restaurant?",
+                    "score": 0.753,
+                    "answers": "of smoking inside restaurants with employees regardless of the size of the establishment 's space|prep\tsmoking inside restaurants with employees regardless of the size of the establishment 's space|pcomp\tregardless of the size of the establishment 's space|advmod\tof the size of the establishment 's space|prep\tthe size of the establishment 's space|pobj\tof the establishment 's space|prep\tthe establishment 's|poss\tthe establishment 's space|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Fines for non-compliance with the regulations shall be up to  yen.",
+            "question_answers": [
+                {
+                    "question": "What shall be up to yen for non-compliance with the regulations?",
+                    "answer": "Fines for non-compliance with the regulations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the penalties for non- compliance with the regulations?",
+                    "score": 0.8102,
+                    "answers": "www.nippon.com|nsubj\ton 28/06/2018|prep\tthat|mark\tFines for non - compliance with the regulations|nsubj\tfor non - compliance with the regulations|prep\tnon|pobj\t-|pobj\tcompliance with the regulations|pobj\twith the regulations|prep\tthe|det\tthe regulations|pobj\tshall|aux\tthat Fines for non - compliance with the regulations shall be up to|ccomp\tup to|advmod\tto|prep\t  yen|dep\tyen|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "a new ordinance to give greater protection to passive smokers in the capital will begin to be implemented gradually, and a new ordinance to give greater protection to passive smokers in the capital is expected to be fully implemented by April of , before the Olympic and Paralympic Games.",
+            "question_answers": [
+                {
+                    "question": "When is the new ordinance to give greater protection to passive smokers expected to be fully implemented?",
+                    "answer": "April of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will the ordinance be implemented in the capital of New Jersey?",
+                    "score": 0.7889,
+                    "answers": "fully|advmod"
+                },
+                {
+                    "question": "What Olympics will be held in New Jersey in 2018?",
+                    "score": 0.7617,
+                    "answers": "Olympic and Paralympic|nmod"
+                },
+                {
+                    "question": "What will be the purpose of the ordinance to give greater protection to passive smokers in the capital?",
+                    "score": 0.7068,
+                    "answers": "www.nippon.com reported on 28/06/2018 that a new ordinance to give greater protection to passive smokers in the capital will begin to be implemented gradually , and a new ordinance to give greater protection to passive smokers in the capital is expected to be fully implemented by April of , before the Olympic and Paralympic Games|ROOT\tbe|auxpass\tbe|auxpass"
+                },
+                {
+                    "question": "What is the Olympic and Paralympic Games?",
+                    "score": 0.6409,
+                    "answers": "Paralympic|conj"
+                }
+            ]
+        },
+        {
+            "claim": "After passed , Governor Koike Yuriko told the press that'The goal is to make the capital a comfortable place for people who smoke and also for those who don't.",
+            "question_answers": [
+                {
+                    "question": "When did Governor Koike Yuriko say his goal was to make the capital a comfortable place for people who smoke?",
+                    "answer": "After passed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Governor Koike Yuriko's stance on smoking in the capital?",
+                    "score": 0.6721,
+                    "answers": "that After passed , Governor Koike Yuriko told the press that'The goal is to make the capital a comfortable place for people who smoke and also for those who do n't|ccomp\tthat'The goal is to make the capital a comfortable place for people who smoke and also for those who do n't|ccomp\tto make the capital a comfortable place for people who smoke and also for those who do n't|xcomp"
+                },
+                {
+                    "question": "What does Governor Koike Yuriko want to do with the capital of Nigeria?",
+                    "score": 0.6447,
+                    "answers": "also for those who do n't|conj"
+                },
+                {
+                    "question": "What is the goal of Governor Koike Yuriko?",
+                    "score": 0.5721,
+                    "answers": "that'The goal|nsubj"
+                },
+                {
+                    "question": "Who is Governor Koike Yuriko?",
+                    "score": 0.5605,
+                    "answers": "Governor Koike Yuriko|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "With a new ordinance to give greater protection to passive smokers in the capital we want to continue to create a policy that puts health first '.",
+            "question_answers": [
+                {
+                    "question": "What do we want to continue to create with the new ordinance to give greater protection to passive smokers?",
+                    "answer": "a policy that puts health first"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the new ordinance that gives health first to passive smokers?",
+                    "score": 0.7263,
+                    "answers": "www.nippon.com reported on 28/06/2018 that With a new ordinance to give greater protection to passive smokers in the capital we want to continue to create a policy that puts health first '|ROOT"
+                },
+                {
+                    "question": "What is the purpose of creating a policy that puts health first?",
+                    "score": 0.6306,
+                    "answers": "to create a policy that puts health first|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "The reform of the state law will allow smoking in restaurants with a surface area of less than  square meters, while the ordinance for Tokyo Prefecture will impose a smoking ban throughout the premises provided that the premises are not restaurants run solely by members of the same family, and will only allow smoking in rooms specifically equipped for this purpose.",
+            "question_answers": [
+                {
+                    "question": "What will the ordinance for Tokyo Prefecture impose?",
+                    "answer": "smoking ban throughout the premises provided that the premises are not restaurants run solely by members of the same family,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many family members are allowed to smoke in restaurants in Japan?",
+                    "score": 0.7729,
+                    "answers": "of the same family|prep\tthe same family|pobj"
+                },
+                {
+                    "question": "What is the name of the law that bans smoking in restaurants?",
+                    "score": 0.7328,
+                    "answers": "The|det\tof the state law|prep\tthe|det\ta|det\tthe|det\tthe ordinance for Tokyo Prefecture|nsubj\ta|det\tthe|det\tthe premises|pobj\tthe|det\tthe premises|nsubj\tsolely|advmod\tthe|det\tsame|amod\tspecifically|advmod"
+                },
+                {
+                    "question": "What is the smoking ban in restaurants?",
+                    "score": 0.7237,
+                    "answers": "www.nippon.com reported on 28/06/2018 that The reform of the state law will allow smoking in restaurants with a surface area of less than   square meters , while the ordinance for Tokyo Prefecture will impose a smoking ban throughout the premises provided that the premises are not restaurants run solely by members of the same family , and will only allow smoking in rooms specifically equipped for this purpose|ROOT\tprovided that the premises are not restaurants run solely by members of the same family|prep\tthat the premises are not restaurants run solely by members of the same family|pcomp\tsmoking in rooms specifically equipped for this purpose|dobj"
+                },
+                {
+                    "question": "What is the purpose of smoking in restaurants?",
+                    "score": 0.7071,
+                    "answers": "rooms specifically equipped for this purpose|pobj\tspecifically equipped for this purpose|acl"
+                },
+                {
+                    "question": "What is the surface area of a restaurant?",
+                    "score": 0.669,
+                    "answers": "with a surface area of less than|prep"
+                }
+            ]
+        },
+        {
+            "claim": "With regard to unburned tobacco , as health effects are not yet clear, the capital will comply with state law and for the time being will allow consumption as long as the area of smokers separates from that of non-smokers.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the health effects of unburned tobacco?",
+                    "score": 0.8004,
+                    "answers": "www.nippon.com reported on 28/06/2018 that With regard to unburned tobacco , as health effects are not yet clear , the capital will comply with state law and for the time being will allow consumption as long as the area of smokers separates from that of non - smokers|ROOT\ton 28/06/2018|prep\tWith regard to unburned tobacco|prep\tregard to unburned tobacco|pobj\tto unburned tobacco|prep\tunburned|amod\tunburned tobacco|pobj\thealth|compound\thealth effects|nsubj\tas health effects are not yet clear|advcl\tclear|acomp\tthat With regard to unburned tobacco , as health effects are not yet clear , the capital will comply with state law and for the time being will allow consumption as long as the area of smokers separates from that of non - smokers|ccomp\tfor the time being|prep\tthe time being|pobj\tfor the time being will allow consumption as long as the area of smokers separates from that of non - smokers|conj\tconsumption|dobj\tas long as the area of smokers separates from that of non - smokers|advmod\tthe area of smokers|nsubj\tof smokers|prep\tas the area of smokers separates from that of non - smokers|advcl\tfrom that of non - smokers|prep\tthat of non - smokers|pobj\tof non - smokers|prep"
+                },
+                {
+                    "question": "What is the state law on unburned tobacco?",
+                    "score": 0.7785,
+                    "answers": "the capital|nsubj\twith state law|prep\tstate law|pobj"
+                },
+                {
+                    "question": "What is the difference between smoking and unburned tobacco?",
+                    "score": 0.7503,
+                    "answers": "yet|advmod\tbeing|amod\tnon|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, the Ordinance also provides for the elimination of designated outdoor smoking areas near kindergartens, day-care centres and primary, secondary and secondary schools, with the aim of protecting minors in the capital, who are more likely to suffer passive smoking.",
+            "question_answers": [
+                {
+                    "question": "Why are minors in the capital more or less likely to suffer passive smoking?",
+                    "answer": "more likely"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many minors suffer passive smoking?",
+                    "score": 0.8018,
+                    "answers": "day - care centres and primary , secondary and secondary schools|conj\twith the aim of protecting minors in the capital , who are more likely to suffer passive smoking|prep\tprotecting minors in the capital , who are more likely to suffer passive smoking|pcomp"
+                },
+                {
+                    "question": "How many minors in the capital suffer passive smoking?",
+                    "score": 0.7954,
+                    "answers": "minors in the capital , who are more likely to suffer passive smoking|dobj"
+                },
+                {
+                    "question": "What are the restrictions on smoking near kindergartens, day-care centers and primary schools?",
+                    "score": 0.728,
+                    "answers": "near kindergartens , day - care centres and primary , secondary and secondary schools|prep"
+                },
+                {
+                    "question": "What is the rate of passive smoking in the capital of South Africa?",
+                    "score": 0.7257,
+                    "answers": "who are more likely to suffer passive smoking|relcl\tmore likely to suffer passive smoking|acomp"
+                },
+                {
+                    "question": "What are the symptoms of passive smoking?",
+                    "score": 0.7147,
+                    "answers": "to suffer passive smoking|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Prior to the vote, the Liberal Democratic Party stated in this regard that 'The ban on smoking when the premises have employees is ambiguous, since in some cases it is difficult to discern whether they are family members or not'.",
+            "question_answers": [
+                {
+                    "question": "What did the Liberal Democratic Party say about the ban on smoking when the premises have employees?",
+                    "answer": "'The ban on smoking when the premises have employees is ambiguous, since in some cases it is difficult to discern whether they are family members or not'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the laws on smoking when a premises have employees?",
+                    "score": 0.7732,
+                    "answers": "that ' The ban on smoking when the premises have employees is ambiguous , since in some cases it is difficult to discern whether they are family members or not|ccomp"
+                },
+                {
+                    "question": "What is the name of the law that bans smoking at a premises?",
+                    "score": 0.7463,
+                    "answers": "the|det\t,|punct\tthe|det\tthis|det\t'|punct\tThe|det\tthe|det\t,|punct\tit|nsubj\t'|punct"
+                },
+                {
+                    "question": "What is the difference between smoking and smoking when the premises have employees and why?",
+                    "score": 0.6843,
+                    "answers": "when|advmod\tdifficult|acomp\twhether|mark"
+                },
+                {
+                    "question": "What is the relationship between smoking and smoking?",
+                    "score": 0.6827,
+                    "answers": "ambiguous|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "For its part, the Kōmeitō, who voted in favour, warned that 'Tokyo must be prepared to deal with the problems that establishments will suffer after the tightening of measures to protect passive smokers'.",
+            "question_answers": [
+                {
+                    "question": "What did the Kmeit warn about?",
+                    "answer": "'Tokyo must be prepared to deal with the problems that establishments will suffer after the tightening of measures to protect passive smokers'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures were taken to protect passive smokers?",
+                    "score": 0.8548,
+                    "answers": "to protect passive smokers|relcl"
+                },
+                {
+                    "question": "What did Kōmeitō say about Tukukin�s position on smoking?",
+                    "score": 0.8115,
+                    "answers": "www.nippon.com|nsubj"
+                },
+                {
+                    "question": "How many smoker deaths were there in Japan in 2018?",
+                    "score": 0.7793,
+                    "answers": "with the problems that establishments will suffer after the tightening of measures to protect passive smokers|prep\tthe problems that establishments will suffer after the tightening of measures to protect passive smokers|pobj"
+                },
+                {
+                    "question": "What are the measures to protect passive smokers inTokyo?",
+                    "score": 0.7556,
+                    "answers": "passive|amod"
+                },
+                {
+                    "question": "What was Kōmeitō's position on gun control?",
+                    "score": 0.6819,
+                    "answers": "on 28/06/2018|prep\tits part|pobj\twho voted in favour|relcl\tprepared to deal with the problems that establishments will suffer after the tightening of measures to protect passive smokers|acomp\tpassive smokers|dobj"
+                }
+            ]
+        }
+    ]
+}

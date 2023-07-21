@@ -1,0 +1,534 @@
+{
+    "id": "49_Science_161",
+    "claim": "This morning a press conference was held where the merger of two of the most important global technology brands was announced: Microsoft and Apple. This union was already coming. Microsoft began flirting with its historic competitor when it announced that its Office software would be free for iPhone and iPad. Then they launched a Skype commercial in which MacBooks were used instead of Windows PCs. Satya Nadella, who until today was Executive Director of Microsoft, commented:'Times demanded such a change. The new technological trends needed the two great benefactors of progress to unite to form what is now Micropple'. MICROPPLETim Cook, Executive Director of the missing Apple, abounded:'The already existing products will be combined in crossovers that will truly be realizing the wet dreams of millions of geeks around the world'. An example of this is the classic Mac, which will be renamed McPC.'It's basically a Mac, but with a Windows XP operating system,'Cook said. Asked why not Windows , Nadella clarified:'It's that XP is more stable, the truth is'. Nokia phones, which were already a division of Microsoft, will now work with Apple's iOS. 'The new Lumia will look better than ever with the functionality of the App Store and iTunes Store ', Nadella said. And as for the iPhones? “Now they'll be called MyPhone, and they'll work with the Windows Phone operating system,” said an excited Cook.'Something similar will happen with tablets, both iPad and Surface'.  Will they also change their name?  The idea is to combine them into one, which will be called SurfPad.  And what would be the operating system that would run? To avoid fighting, the best option is Android.  And what about personal computers? Instead of Mac operating systems, with names like Jaguar, Panther, etc., they will now work with a new version of Windows, called Windows Gato. While the announcement, broadcast live via YouTube, social media began to fill up with memes, while the HT #AreYouBothFuckingCrazy? placed itself as the world's number one trend topic of Twitter. And who will be Executive Director of Micropple?The position will be shared by Cook and Nadella, but an automaton will be created that will be the one to appear as a public leader starting next year. Your name?Gate Jobs. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "25/06/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "This morning a press conference was held where the merger of two of the most important global technology brands was announced: Microsoft and Apple .",
+            "question_answers": [
+                {
+                    "question": "What were the names of two of the most important technology brands?",
+                    "answer": "Microsoft and Apple"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the merger of Microsoft and Apple?",
+                    "score": 0.7147,
+                    "answers": "the merger of two of the most important global technology brands Microsoft and Apple|nsubjpass"
+                },
+                {
+                    "question": "What is the relationship between Microsoft and Apple?",
+                    "score": 0.6471,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that This morning a press conference was held where the merger of two of the most important global technology brands Microsoft and Apple was announced :|ROOT\ton 25/06/2016|prep\tthat|mark\tThis|det\ta|det\twas|auxpass\tthat This morning a press conference was held where the merger of two of the most important global technology brands Microsoft and Apple was announced :|ccomp\twhere|advmod\tthe|det\tof two of the most important global technology brands|prep\ttwo of the most important global technology brands|pobj\tof the most important global technology brands|prep\tthe|det\tmost|advmod\tmost important|amod\tglobal|amod\ttechnology|compound\tthe most important global technology brands|pobj\twas|auxpass\twhere the merger of two of the most important global technology brands Microsoft and Apple was announced :|relcl\t:|punct\tMicrosoft and Apple|appos\tand|cc"
+                },
+                {
+                    "question": "What is the purpose of a press conference?",
+                    "score": 0.6164,
+                    "answers": "a press conference|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "the merger of two of the most important global technology brands was announced: Microsoft and Apple was already coming.",
+            "question_answers": [
+                {
+                    "question": "Which two major technology brands were merging?",
+                    "answer": "Microsoft and Apple"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the merger of Microsoft and Apple announced?",
+                    "score": 0.9022,
+                    "answers": "that the merger of two of the most important global technology brands was announced : Microsoft and Apple was already coming|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the merger between Microsoft and Apple?",
+                    "score": 0.8416,
+                    "answers": "the merger of two of the most important global technology brands|nsubjpass\tthat the merger of two of the most important global technology brands was announced|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Microsoft began flirting with Apple when Microsoft announced that Office software would be free for iPhone and iPad.",
+            "question_answers": [
+                {
+                    "question": "When did Microsoft begin flirting with Apple?",
+                    "answer": "Microsoft announced that Office software would be free for iPhone and iPad"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Microsoft say about Office software?",
+                    "score": 0.862,
+                    "answers": "Office software|nsubj"
+                },
+                {
+                    "question": "What are the benefits of Office software for iPhone and iPad?",
+                    "score": 0.7909,
+                    "answers": "www.eldizque.com|nsubj\twhen Microsoft announced that Office software would be free for iPhone and iPad|advcl\tfree for iPhone and iPad|acomp\tfor iPhone and iPad|prep\tiPhone and iPad|pobj"
+                },
+                {
+                    "question": "What is the relationship between Microsoft and Apple?",
+                    "score": 0.7148,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that Microsoft began flirting with Apple when Microsoft announced that Office software would be free for iPhone and iPad|ROOT\ton 25/06/2016|prep\tthat|mark\tthat Microsoft began flirting with Apple when Microsoft announced that Office software would be free for iPhone and iPad|ccomp\tflirting with Apple|xcomp\twith Apple|prep\twhen|advmod\tthat|mark\twould|aux\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Then Microsoft launched a Skype commercial in which MacBooks were used instead of Windows PCs.",
+            "question_answers": [
+                {
+                    "question": "What was used instead of Windows PCs in the Skype commercial?",
+                    "answer": "MacBooks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Microsoft do with the Skype commercial?",
+                    "score": 0.8477,
+                    "answers": "Then|advmod\tinstead|advmod\tinstead of Windows PCs|prep\tWindows PCs|pobj"
+                },
+                {
+                    "question": "How many MacBooks were used in the Skype commercial?",
+                    "score": 0.8324,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that Then Microsoft launched a Skype commercial in which MacBooks were used instead of Windows PCs|ROOT\tthat Then Microsoft launched a Skype commercial in which MacBooks were used instead of Windows PCs|ccomp\tin which MacBooks were used instead of Windows PCs|relcl"
+                },
+                {
+                    "question": "What was the purpose of the Skype commercial?",
+                    "score": 0.7763,
+                    "answers": "www.eldizque.com|nsubj\ton 25/06/2016|prep\tthat|mark\ta|det\ta Skype commercial in which MacBooks were used instead of Windows PCs|dobj\tin which|prep\twhich|pobj\twere|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "Satya Nadella, who until today was Executive Director of Microsoft , commented:'Times demanded such a change.",
+            "question_answers": [
+                {
+                    "question": "What was Satya Nadella's job until today?",
+                    "answer": "Executive Director of Microsoft"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Nadella become Executive Director of Microsoft?",
+                    "score": 0.8985,
+                    "answers": "until today|prep\twho until today was Executive Director of Microsoft|relcl\tof Microsoft|prep"
+                },
+                {
+                    "question": "What did Nadella say about the Times demanding a change?",
+                    "score": 0.835,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that Satya Nadella , who until today was Executive Director of Microsoft , commented:'Times demanded such a change|ROOT\tthat|mark\t,|punct\t,|punct"
+                },
+                {
+                    "question": "What was the relationship between Nadella and Microsoft?",
+                    "score": 0.7411,
+                    "answers": "who|nsubj\tExecutive|compound"
+                },
+                {
+                    "question": "What is the source of evidence of Nadella's relationship with Time?",
+                    "score": 0.6746,
+                    "answers": "on 25/06/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The new technological trends needed two of the most important global technology brands was announced: Microsoft and Apple to the merger of two of the most important global technology brands was announced: Microsoft and Apple to form what is now Micropple'.",
+            "question_answers": [
+                {
+                    "question": "What were the two most important global technology brands?",
+                    "answer": "Microsoft and Apple"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Microsoft and Apple do to form Micropple?",
+                    "score": 0.7596,
+                    "answers": "the merger of two of the most important global technology brands was announced : Microsoft and Apple to form what is now Micropple|pcomp"
+                },
+                {
+                    "question": "What was the purpose of the merger between Microsoft and Apple?",
+                    "score": 0.7404,
+                    "answers": "The new technological trends|nsubj\tThe new technological trends needed|ccomp\tto the merger of two of the most important global technology brands was announced : Microsoft and Apple to form what is now Micropple '|prep\tthe merger of two of the most important global technology brands|nsubjpass\tthe merger of two of the most important global technology brands was announced :|parataxis"
+                },
+                {
+                    "question": "What is Micropple?",
+                    "score": 0.667,
+                    "answers": "what is now Micropple|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "MICROPPLETim Cook, Executive Director of Apple , abounded:'The already existing products will be combined in crossovers that will truly be realizing the wet dreams of millions of geeks around the world '.",
+            "question_answers": [
+                {
+                    "question": "What did MICROPPLETim Cook say Apple's crossovers would be realizing?",
+                    "answer": "the wet dreams of millions of geeks around the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Tim Cook say about combining existing products with new products?",
+                    "score": 0.8408,
+                    "answers": "the world|pobj"
+                },
+                {
+                    "question": "How many new products will Apple create in 2016?",
+                    "score": 0.7972,
+                    "answers": "already existing products|nsubjpass"
+                },
+                {
+                    "question": "How many geeks are there?",
+                    "score": 0.7786,
+                    "answers": "of millions of geeks around the world|prep\tmillions of geeks around the world|pobj\tof geeks around the world|prep"
+                },
+                {
+                    "question": "What is the relationship between Tim Cook and the wet dream of millions of geeks?",
+                    "score": 0.6905,
+                    "answers": "on 25/06/2016|prep"
+                },
+                {
+                    "question": "What are the similarities between existing products and new products?",
+                    "score": 0.6724,
+                    "answers": "already existing products will be combined in crossovers that will truly be realizing the wet dreams of millions of geeks around the world '|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "An example of crossovers that will truly be realizing the wet dreams of millions of geeks around the world is the classic Mac, which will be renamed McPC.'It's basically a Mac, but with a Windows XP operating system,'Cook said.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that the classic Mac will be renamed McPC?",
+                    "answer": "25/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the crossovers that will be realized the wet dreams of millions of geeks around the world?",
+                    "score": 0.6977,
+                    "answers": "that An example of crossovers that will truly be realizing the wet dreams of millions of geeks around the world is the classic Mac , which will be renamed|ccomp"
+                },
+                {
+                    "question": "What is McPC?",
+                    "score": 0.6828,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 25/06/2016 that An example of crossovers that will truly be realizing the wet dreams of millions of geeks around the world is the classic Mac , which will be renamed McPC.'It 's basically a Mac , but with a Windows XP operating system,'Cook|ccomp\ton 25/06/2016|prep\tthat|mark\tAn|det\tAn example of crossovers that will truly be realizing the wet dreams of millions of geeks around the world|nsubj\tof crossovers that will truly be realizing the wet dreams of millions of geeks around the world|prep\tcrossovers that will truly be realizing the wet dreams of millions of geeks around the world|pobj\tthat|nsubj\twill|aux\ttruly|advmod\tbe|aux\tthat will truly be realizing the wet dreams of millions of geeks around the world|relcl\tthe|det\twet|amod\tthe wet dreams of millions of geeks around the world|dobj\tof millions of geeks around the world|prep\tmillions of geeks around the world|pobj\tof geeks around the world|prep\tgeeks around the world|pobj\taround the world|prep\tthe|det\tthe world|pobj\tthe|det\tclassic|amod\tthe classic Mac , which will be renamed|attr\t,|punct\twhich|nsubjpass\twill|aux\tbe|auxpass\twhich will be renamed|relcl\tMcPC.'It|punct\t's basically a Mac , but with a Windows XP operating system,'Cook|conj\tbasically|advmod\ta|det\ta Mac|attr\t,|punct\tbut with a Windows XP|cc\twith a Windows XP|prep\ta|det\tWindows|compound\ta Windows XP|pobj\toperating|amod\toperating system,'Cook|conj\twww.eldizque.com reported on 25/06/2016 that An example of crossovers that will truly be realizing the wet dreams of millions of geeks around the world is the classic Mac , which will be renamed McPC.'It 's basically a Mac , but with a Windows XP operating system,'Cook said|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Asked why not Windows , Satya Nadella, who until today was Executive Director of Microsoft clarified:'It's that Windows XP is more stable, the truth is'.",
+            "question_answers": [
+                {
+                    "question": "What did Satya Nadella say about Windows XP?",
+                    "answer": "Asked why not Windows"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Nadella say about Windows XP?",
+                    "score": 0.8625,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 25/06/2016 that Asked why not Windows , Satya Nadella , who until today was Executive Director of Microsoft clarified:'It 's that Windows XP is more stable , the truth is '|ROOT\ton 25/06/2016|prep\tthat|mark\tAsked why not Windows|advcl\twhy|advmod\twhy not|neg\t,|punct\tSatya|compound\tSatya Nadella , who until today was Executive Director of Microsoft clarified:'It|nsubj\t,|punct\twho|nsubj\tuntil today|prep\twho until today was Executive Director of Microsoft|relcl\tExecutive|compound\tExecutive Director of Microsoft|attr\tof Microsoft|prep\tclarified:'It|punct\tSatya Nadella , who until today was Executive Director of Microsoft clarified:'It 's that Windows XP is more stable|parataxis\tthat|mark\tthat Windows XP is more stable|ccomp\tmore|advmod\tmore stable|acomp\t,|punct\tthe|det\tthe truth|nsubj\tthat Asked why not Windows , Satya Nadella , who until today was Executive Director of Microsoft clarified:'It 's that Windows XP is more stable , the truth is '|ccomp\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Nokia phones, which were already a division of Microsoft , will now work with Apple iOS.",
+            "question_answers": [
+                {
+                    "question": "What company was Nokia a division of?",
+                    "answer": "Microsoft"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Apple iOS and Nokia phones?",
+                    "score": 0.7877,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that Nokia phones , which were already a division of Microsoft , will now work with Apple iOS|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'The new Lumia will look better than ever with the functionality of the App Store and iTunes Store ', Satya Nadella, who until today was Executive Director of Microsoft said.",
+            "question_answers": [
+                {
+                    "question": "The Lumia will look better than ever with the functionality of what two stores?",
+                    "answer": "App Store and iTunes Store"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will the new Lumia look better than ever before?",
+                    "score": 0.8373,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 25/06/2016 that ' The new Lumia will look better than ever with the functionality of the App Store and iTunes Store|ccomp"
+                },
+                {
+                    "question": "When did Satya Nadella become Executive Director of Microsoft?",
+                    "score": 0.8348,
+                    "answers": "until today|prep"
+                },
+                {
+                    "question": "What features did Satya Nadella add to the App Store and iTunes Store?",
+                    "score": 0.8319,
+                    "answers": "the App Store and iTunes Store|pobj"
+                },
+                {
+                    "question": "What did Microsoft say about the new Lumia?",
+                    "score": 0.8134,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that ' The new Lumia will look better than ever with the functionality of the App Store and iTunes Store ' , Satya Nadella , who until today was Executive Director of Microsoft said|ROOT"
+                },
+                {
+                    "question": "What is the new Lumia?",
+                    "score": 0.7198,
+                    "answers": "The new Lumia|nsubj\tthat ' The new Lumia will look better than ever with the functionality of the App Store and iTunes Store|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "And as for the iPhones ? “Now the iPhones 'll be called MyPhone, and the iPhones 'll work with the Windows Phone operating system,” said an excited Cook.",
+            "question_answers": [
+                {
+                    "question": "What will be called MyPhone?",
+                    "answer": "iPhones"
+                },
+                {
+                    "question": "What will be called MyPhone?",
+                    "answer": "iPhones"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will the iPhone work with the Windows Phone operating system?",
+                    "score": 0.8358,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that And as for the iPhones ? “ Now the iPhones 'll be called MyPhone , and the iPhones 'll work with the Windows Phone operating system|ROOT\tthe iPhones|pobj\tthe iPhones|nsubjpass\t'll|aux\tthat And as for the iPhones ? “ Now the iPhones 'll be called MyPhone , and the iPhones 'll work with the Windows Phone operating system|ccomp\tthe iPhones|nsubj\t'll|aux\tthe iPhones 'll work with the Windows Phone operating system|conj"
+                },
+                {
+                    "question": "What will the iPhone do with Windows Phone operating systems?",
+                    "score": 0.7827,
+                    "answers": "www.eldizque.com|nsubj\toperating|amod\texcited|amod\tan excited Cook|nsubj"
+                },
+                {
+                    "question": "What is My Phone?",
+                    "score": 0.6301,
+                    "answers": ", ” said an excited Cook|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'Something similar will happen with tablets, both iPad and Surface'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'Something similar will happen with tablets, both iPad and Surface'?",
+                    "answer": "25/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What will happen with iPad and Surface?",
+                    "score": 0.7995,
+                    "answers": "that|mark\twill|aux"
+                },
+                {
+                    "question": "What are the similarities between iPad and Surface computers?",
+                    "score": 0.7935,
+                    "answers": "on 25/06/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": " Will they also change their name?  The idea is to combine them into one, which will be called SurfPad.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that they would also change their name?",
+                    "answer": "25/06/2016"
+                },
+                {
+                    "question": "What will the new name be?",
+                    "answer": "SurfPad"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of creating the SurfPad?",
+                    "score": 0.6614,
+                    "answers": "to combine them into one , which will be called SurfPad|xcomp"
+                },
+                {
+                    "question": "What is the proposed name of the SurfPad?",
+                    "score": 0.6267,
+                    "answers": "www.eldizque.com|nsubj\ton 25/06/2016|prep\tWill they also change their name ?|ccomp"
+                },
+                {
+                    "question": "What is the current name of SurfPad?",
+                    "score": 0.6151,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that   Will they also change their name ?   The idea is to combine them into one , which will be called SurfPad|ROOT\twhich will be called SurfPad|relcl"
+                }
+            ]
+        },
+        {
+            "claim": " And what would be the operating system that would run? To avoid fighting, the best option is Android.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that what would be the operating system that would run?",
+                    "answer": "25/06/2016"
+                },
+                {
+                    "question": "What is the best option to avoid fighting?",
+                    "answer": "Android"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the best option for running Android operating system?",
+                    "score": 0.7599,
+                    "answers": "that would run|relcl"
+                }
+            ]
+        },
+        {
+            "claim": " And what about personal computers? Instead of Mac operating systems, with names like Jaguar, Panther, etc.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report on personal computers?",
+                    "answer": "25/06/2016"
+                },
+                {
+                    "question": "What operating system did eldizque use instead of personal computers?",
+                    "answer": "Mac"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the names of personal computers that differ from Mac operating systems?",
+                    "score": 0.8584,
+                    "answers": "like Jaguar , Panther , etc|prep"
+                },
+                {
+                    "question": "What is the difference between Mac operating systems and personal computers?",
+                    "score": 0.8213,
+                    "answers": "that|mark\tthat  |dep\tAnd|cc\twhat|dep\t?|punct\tInstead|advmod\toperating|compound\t,|punct\t,|punct\t,|punct\tetc|conj"
+                }
+            ]
+        },
+        {
+            "claim": ", they will now work with a new version of Windows, called Windows Gato.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that they will now work with a new version of Windows?",
+                    "answer": "25/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Windows Gato?",
+                    "score": 0.7229,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that , they will now work with a new version of Windows , called Windows Gato|ROOT\ton 25/06/2016|prep\tthat|mark\t,|punct\tthey|nsubj\twill|aux\tnow|advmod\tthat , they will now work with a new version of Windows , called Windows Gato|ccomp\twith a new version of Windows , called Windows Gato|prep\ta|det\tnew|amod\ta new version of Windows , called Windows Gato|pobj\tof Windows|prep\t,|punct\tcalled Windows Gato|acl"
+                },
+                {
+                    "question": "What is the current version of Windows Gato?",
+                    "score": 0.7121,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "While the announcement, broadcast live via YouTube, social media began to fill up with memes, while the HT #AreYouBothFuckingCrazy? placed itself as the world's number one trend topic of Twitter.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that social media began to fill up with memes?",
+                    "answer": "25/06/2016"
+                },
+                {
+                    "question": "Where did #AreYouBothFuckingCrazy?",
+                    "answer": "Twitter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the most popular memes on Twitter?",
+                    "score": 0.711,
+                    "answers": "to fill up with memes|xcomp\tmemes|pobj"
+                },
+                {
+                    "question": "What is the number one trend topic of Twitter?",
+                    "score": 0.6447,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that While the announcement , broadcast live via YouTube , social media began to fill up with memes , while the HT # AreYouBothFuckingCrazy ? placed itself as the world 's number one trend topic of Twitter|ROOT\ton 25/06/2016|prep\tthat|mark\tWhile|mark\tthe|det\tsocial|amod\tsocial media|nsubj\tthat While the announcement , broadcast live via YouTube , social media began to fill up with memes , while the HT # AreYouBothFuckingCrazy ? placed itself as the world 's number one trend topic of Twitter|ccomp\tto|aux\tup|prt\twhile|mark\tthe|det\t#|nmod\t# AreYouBothFuckingCrazy|appos\twhile the HT # AreYouBothFuckingCrazy ? placed itself as the world 's number one trend topic of Twitter|advcl\tthe|det\tTwitter|pobj"
+                },
+                {
+                    "question": "What was the purpose of this announcement on Twitter?",
+                    "score": 0.6257,
+                    "answers": "the announcement , broadcast live via YouTube ,|nsubj"
+                },
+                {
+                    "question": "What is the trend on Twitter?",
+                    "score": 0.6133,
+                    "answers": "with memes|prep\ttrend|compound"
+                },
+                {
+                    "question": "What is the name of the website that broadcast live via youtube?",
+                    "score": 0.5951,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And who will be Executive Director of Micropple?The position will be shared by Cook and Nadella, but an automaton will be created that will be the one to appear as a public leader starting next year.",
+            "question_answers": [
+                {
+                    "question": "What will be created that will be the one to appear as a public leader?",
+                    "answer": "an automaton"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who will be the first public leader to appear as a public leader?",
+                    "score": 0.7203,
+                    "answers": "the one to appear as a public leader starting next year|attr"
+                },
+                {
+                    "question": "Who will be Executive Director of Micropple in 2016?",
+                    "score": 0.7164,
+                    "answers": "an|det\tas a public leader|prep\ta public leader|pobj\tstarting next year|advcl\tnext|amod"
+                },
+                {
+                    "question": "What is the position of Executive Director of Micropple?",
+                    "score": 0.7043,
+                    "answers": "position|nsubjpass"
+                },
+                {
+                    "question": "Who is the current executive director of Micropple?",
+                    "score": 0.6768,
+                    "answers": "of Micropple?The|prep\tby Cook and Nadella|agent\tCook and Nadella|pobj\tpublic|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Your name?Gate Jobs.",
+            "question_answers": [
+                {
+                    "question": "When did eldizque.com report that Your name?",
+                    "answer": "25/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What isGate Jobs?",
+                    "score": 0.6319,
+                    "answers": "that Your name?Gate Jobs|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Gate Jobs?",
+                    "score": 0.6263,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is Gate Jobs?",
+                    "score": 0.6143,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that Your name?Gate Jobs|ROOT\ton 25/06/2016|prep\tthat|mark\tYour|poss\tYour name?Gate|compound"
+                }
+            ]
+        }
+    ]
+}

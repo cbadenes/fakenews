@@ -1,0 +1,321 @@
+{
+    "id": "Economy_234",
+    "claim": "BdeM issued a commemorative note to the centennial of the ConstitutionNew  pesos and  pesos bills issued by the central bank and already in circulationPhoto BdeMThe Bank of Mexico (BdeM) issued a  pesos note and put into circulation a  pesos coin in commemoration of the centenary of the promulgation of the Political Constitution of the United Mexican States of  February of . In a statement, the central bank indicated that both currencies are legal tender and began to circulate this Sunday. He explained that on the front the ticket carries the vignette of Venustiano Carranza, first head of the Constitutionalist Army, and Luis Manuel Rojas, president of the Constituent Congress, while on the back it has as main motive, and to the center, the engraving of the moment when the constituent deputies swear the new Magna Carta. At the bottom of the front you can see traces of the balconies of the Iturbide Theatre, today of La República, from which straight lines are projected, diagonally, to the right, printed in relief sensitive to the touch. In the upper left, Banco de Mexico is read and below, the Constitution is appreciated with the numerals  and  in two lines, printed with ink that changes color, from green to gold, depending on the visual angle. To the right and below the Constitution is read: One Hundred Years of the Political Constitution of the United Mexican States. In the lower left corner there is a paragraph that says: Venustiano Carranza and Luis Manuel Rojas, president of the Constituent Congress, during the solemn closing session of this one. At the bottom and in a line, you can see the inscription Banco de Mexico  pesos in microprinting and on repeated occasions. In the lower central part, superimposed on the main vignette, the denomination Cien Pesos is observedIn the upper right corner the denomination is represented with numbers  pesos; below are two watermarks, one with the Mexican eagle used on the cover of the original Magna Carta and another with the numeral . To the right of the marks are located the series and the date of issue, the latter in vertical position. In the lower right corner are the signatures of a member of the Board of Government and the Chief Cashier of the Bank of Mexico, and below the prefix and serial number, printed in increasing typography. The banknote is crossed, from top to bottom, between the main vignette and the watermark, by a windowed thread, which has figures corresponding to small square blocks that come together and separate when tilting the banknote back and forth; in addition, they change from green to gold. I'm sorry.",
+    "source": "www.jornada.com.mx",
+    "date": "06/02/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "BdeM issued a commemorative note to the centennial of the ConstitutionNew  pesos and  pesos bills issued by BdeM and already in circulationPhoto BdeM Bank of Mexico (BdeM) issued a commemorative note and put into circulation a  pesos coin in commemoration of the centennial of the ConstitutionNew .",
+            "question_answers": [
+                {
+                    "question": "What did BdeM issue to commemorate the centennial of the Constitution?",
+                    "answer": "commemorative note"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did BdeM issue a commemorative note to the centennial of the Constitution New?",
+                    "score": 0.8702,
+                    "answers": "BdeM Bank of Mexico ( BdeM ) issued a commemorative note and put into circulation|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "In a statement, BdeM indicated that both currencies are legal tender and began to circulate this Sunday.",
+            "question_answers": [
+                {
+                    "question": "What did BdeM say in a statement?",
+                    "answer": "both currencies are legal tender"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the legal tender for the two currencies?",
+                    "score": 0.7956,
+                    "answers": "legal|amod"
+                },
+                {
+                    "question": "What is legal tender?",
+                    "score": 0.7855,
+                    "answers": "that both currencies are legal tender|ccomp\tlegal tender|attr"
+                },
+                {
+                    "question": "What is the source of evidence of the legal tender of the two currencies?",
+                    "score": 0.765,
+                    "answers": "a|det\tthat In a statement , BdeM indicated that both currencies are legal tender and began to circulate this Sunday|ccomp\tboth|det\tboth currencies|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the dollar and the dollar?",
+                    "score": 0.7316,
+                    "answers": "06/02/2017|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "He explained that on the front a commemorative note carries the vignette of Venustiano Carranza, first head of the Constitutionalist Army, and Luis Manuel Rojas, president of the Constituent Congress, while on the back a commemorative note has as main motive, and to the center, the engraving of the moment when the constituent deputies swear the new Magna Carta.",
+            "question_answers": [
+                {
+                    "question": "What is on the center of the commemorative note?",
+                    "answer": "the engraving of the moment when the constituent deputies swear the new Magna Carta"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the commemorative note that the constituent deputies swore the new Magna Carta?",
+                    "score": 0.702,
+                    "answers": "Magna|compound"
+                },
+                {
+                    "question": "Who was Luis Manuel Rojas president of the Constituent Congress?",
+                    "score": 0.6966,
+                    "answers": "president of the Constituent Congress|appos"
+                },
+                {
+                    "question": "What was the purpose of the commemorative note?",
+                    "score": 0.6772,
+                    "answers": "www.jornada.com.mx|nsubj"
+                },
+                {
+                    "question": "Who was the first head of the Constitutionalist Army and Luis Manuel Rojas?",
+                    "score": 0.6679,
+                    "answers": "the constituent deputies|nsubj"
+                },
+                {
+                    "question": "What is the significance of the vignette of Venustiano Carranza?",
+                    "score": 0.6541,
+                    "answers": "the vignette of Venustiano Carranza , first head of the Constitutionalist Army , and Luis Manuel Rojas , president of the Constituent Congress|dobj\tof the moment when the constituent deputies swear the new Magna Carta|prep\tthe moment when the constituent deputies swear the new Magna Carta|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "At the bottom of the front you can see traces of the balconies of the Iturbide Theatre, today of La República, from which straight lines are projected, diagonally, to the right, printed in relief sensitive to the touch.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Where can you see traces of the balconies of the Iturbide Theatre?",
+                    "score": 0.7698,
+                    "answers": "www.jornada.com.mx reported on 06/02/2017 that At the bottom of the front you can see traces of the balconies of the Iturbide Theatre , today of La República , from which straight lines are projected , diagonally , to the right , printed in relief sensitive to the touch|ROOT\tAt the bottom of the front|prep"
+                },
+                {
+                    "question": "Where are the scenes of the Iturbide Theatre projected in relief sensitive to touch?",
+                    "score": 0.7094,
+                    "answers": "of the front|prep"
+                },
+                {
+                    "question": "Where is the Iturbide Theatre located?",
+                    "score": 0.7065,
+                    "answers": "of the Iturbide Theatre ,|prep\tthe Iturbide Theatre ,|pobj\tLa|compound"
+                },
+                {
+                    "question": "What are the features of Iturbide Theatre?",
+                    "score": 0.6915,
+                    "answers": "today|npadvmod"
+                },
+                {
+                    "question": "Where is La Repubide Theatre located?",
+                    "score": 0.6811,
+                    "answers": "of La República|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In the upper left, BdeM is read and below, the Political Constitution of the United Mexican States is appreciated with the numerals  and  in two lines, printed with ink that changes color, from green to gold, depending on the visual angle.",
+            "question_answers": [
+                {
+                    "question": "What is appreciated with the numerals and in two lines?",
+                    "answer": "the Political Constitution of the United Mexican States"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What color is the Political Constitution of the United Mexican States printed with?",
+                    "score": 0.7371,
+                    "answers": "in two lines , printed with ink that changes color , from green to gold , depending on the visual angle|prep\twith ink that changes color , from green to gold , depending on the visual angle|prep\tink that changes color , from green to gold , depending on the visual angle|pobj"
+                },
+                {
+                    "question": "What is BdeM?",
+                    "score": 0.5499,
+                    "answers": "upper|amod\tBdeM|nsubjpass\tPolitical|compound\ton the visual angle|prep\tvisual|amod"
+                }
+            ]
+        },
+        {
+            "claim": "To the right and below the Political Constitution of the United Mexican States is read: One Hundred Years of the Political Constitution of the United Mexican States .",
+            "question_answers": [
+                {
+                    "question": "How long is the Political Constitution of the United Mexican States?",
+                    "answer": "One Hundred Years"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Political Constitution of the United Mexican States?",
+                    "score": 0.7792,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 06/02/2017 that To the right and below the Political Constitution of the United Mexican States is read : One Hundred Years of the Political Constitution of the United Mexican States|ROOT\ton 06/02/2017|prep\tthat|mark\tTo the right and below the Political Constitution of the United Mexican States|prep\tthe|det\tthe right|pobj\tand|cc\tbelow the Political Constitution of the United Mexican States|conj\tthe|det\tof the United Mexican States|prep\tthe|det\tUnited|compound\tMexican|compound\tthe United Mexican States|pobj\tis|auxpass\t:|punct\tOne|compound\tOne Hundred|nummod\tOne Hundred Years of the Political Constitution of the United Mexican States|appos\tof the Political Constitution of the United Mexican States|prep\tthe|det\tof the United Mexican States|prep\tthe|det\tUnited|compound\tMexican|compound\tthe United Mexican States|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In the lower left corner there is a paragraph that says: Venustiano Carranza and Luis Manuel Rojas, president of the Constituent Congress, during the solemn closing session of this one.",
+            "question_answers": [
+                {
+                    "question": "Where is the paragraph that says: Venustiano Carranza and Luis Manuel Rojas, president of the Constituent Congress?",
+                    "answer": "lower left corner"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Venustiano Carranza and Luis Manuel Rojas do during the closing session of the Constituent Congress?",
+                    "score": 0.8052,
+                    "answers": "during the solemn closing session of this one|prep"
+                },
+                {
+                    "question": "Who was the president of the Constituent Congress in 2017?",
+                    "score": 0.7446,
+                    "answers": "on 06/02/2017|prep\tlower|amod\tleft|amod\tthat says : Venustiano Carranza and Luis Manuel Rojas , president of the Constituent Congress , during the solemn closing session of this one|relcl\t:|punct\tVenustiano Carranza and Luis Manuel Rojas , president of the Constituent Congress , during the solemn closing session of this one|ccomp\tLuis|compound\tpresident of the Constituent Congress|appos\tof the Constituent Congress|prep\tof this one|prep"
+                },
+                {
+                    "question": "Who is Luis Manuel Rojas?",
+                    "score": 0.6617,
+                    "answers": "Luis Manuel Rojas , president of the Constituent Congress ,|conj"
+                }
+            ]
+        },
+        {
+            "claim": "At the bottom and in a line, you can see the inscription Banco de Mexico  pesos in microprinting and on repeated occasions.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many times has Banco de Mexico been microprinted?",
+                    "score": 0.8126,
+                    "answers": "in microprinting and on repeated occasions|prep"
+                },
+                {
+                    "question": "What is Banco de Mexico?",
+                    "score": 0.7267,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 06/02/2017 that At the bottom and in a line , you can see the inscription Banco de Mexico   pesos in microprinting and on repeated occasions|ROOT\ton 06/02/2017|prep\tthat|mark\tAt the bottom and in a line|prep\tthe|det\tthe bottom|pobj\tand|cc\tin a line|conj\ta|det\ta line|pobj\t,|punct\tyou|nsubj\tcan|aux\tthat At the bottom and in a line , you can see the inscription Banco de Mexico|ccomp\tthe|det\tthe inscription Banco de Mexico|dobj\tBanco|nmod\tde|nmod\t  pesos|dep\tpesos|dobj\tand|cc"
+                },
+                {
+                    "question": "What is the process of microprinting?",
+                    "score": 0.7028,
+                    "answers": "microprinting|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In the lower central part, superimposed on the main vignette, the denomination Cien Pesos is observedIn the upper right corner the denomination is represented with numbers  pesos; below are two watermarks, one with the Mexican eagle used on the cover of the original Magna Carta and another with the numeral .",
+            "question_answers": [
+                {
+                    "question": "What animal was used on the cover of the original Magna Carta?",
+                    "answer": "Mexican eagle"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many watermarks are on the cover of the original Magna Carta?",
+                    "score": 0.7372,
+                    "answers": "two watermarks , one with the Mexican eagle used on the cover of the original Magna Carta and another with the numeral|nsubj"
+                },
+                {
+                    "question": "What are the numbers in the lower central part of the denomination Cien Pesos?",
+                    "score": 0.7046,
+                    "answers": "right|amod\tthe upper right corner|pobj\tthe denomination|nsubjpass\tIn the lower central part , superimposed on the main vignette , the denomination Cien Pesos is observedIn the upper right corner the denomination is represented with numbers   pesos|ccomp\tanother with the numeral|conj"
+                },
+                {
+                    "question": "What are the main watermarks of the Cien Pesos?",
+                    "score": 0.6977,
+                    "answers": "main|amod"
+                },
+                {
+                    "question": "What is the main vignette of the Magna Carta?",
+                    "score": 0.6456,
+                    "answers": "the main vignette|pobj"
+                },
+                {
+                    "question": "What is Cien Pesos?",
+                    "score": 0.6416,
+                    "answers": "that|mark\tthe|det\tcentral|amod\t, superimposed on the main vignette ,|punct\tthe|det\t,|punct\tthe|det\tis|auxpass\tthe|det\tthe|det\tis|auxpass\t;|punct\t,|punct\tthe|det\tthe|det\tthe|det\tand|cc\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "To the right of the marks are located the series and the date of issue, the latter in vertical position.",
+            "question_answers": [
+                {
+                    "question": "Where are the series and the date of issue located?",
+                    "answer": "To the right of the marks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where are the series and date of issue located?",
+                    "score": 0.7159,
+                    "answers": "the latter in vertical position|appos"
+                },
+                {
+                    "question": "What is the location of the series and the date of issue?",
+                    "score": 0.6326,
+                    "answers": "the|det\tthe|det\tthe|det\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the right of the marks?",
+                    "score": 0.6197,
+                    "answers": "To the right of the marks|prep\tthe right of the marks|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In the lower right corner are the signatures of a member of the Board of Government and the Chief Cashier of the Bank of Mexico, and below the prefix and serial number, printed in increasing typography.",
+            "question_answers": [
+                {
+                    "question": "Where are the signatures of a member of the Board of Government and the Chief Cashier of the Bank of Mexico located?",
+                    "answer": "lower right corner"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the signatures of a member of the Board of Government and the Chief Cashier of the Bank of Mexico?",
+                    "score": 0.7526,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 06/02/2017 that In the lower right corner are the signatures of a member of the Board of Government and the Chief Cashier of the Bank of Mexico , and below the prefix and serial number , printed in increasing typography|ROOT\tthat In the lower right corner are the signatures of a member of the Board of Government and the Chief Cashier of the Bank of Mexico , and below the prefix and serial number , printed in increasing typography|ccomp\tbelow the prefix and serial number , printed in increasing typography|conj\tthe prefix and serial number , printed in increasing typography|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The banknote is crossed, from top to bottom, between the main vignette and the watermark, by a windowed thread, which has figures corresponding to small square blocks that come together and separate when tilting the banknote back and forth; in addition, they change from green to gold.",
+            "question_answers": [
+                {
+                    "question": "What color do the figures on the banknote change from?",
+                    "answer": "green"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How do small square blocks come together and separate when tilting the banknote back and forth?",
+                    "score": 0.7911,
+                    "answers": "that come together and separate when tilting the banknote back and forth|relcl"
+                },
+                {
+                    "question": "How is the banknote crossed between the main vignette and the watermark?",
+                    "score": 0.7726,
+                    "answers": "that The banknote is crossed , from top to bottom , between the main vignette and the watermark , by a windowed thread , which has figures corresponding to small square blocks that come together and separate when tilting the banknote back and forth ; in addition , they change from green to gold|ROOT"
+                },
+                {
+                    "question": "How many square blocks are in a banknote?",
+                    "score": 0.7575,
+                    "answers": "figures corresponding to small square blocks that come together and separate when tilting the banknote back and forth|dobj\tcorresponding to small square blocks that come together and separate when tilting the banknote back and forth|acl\tto small square blocks that come together and separate when tilting the banknote back and forth|prep\tsmall|amod\tsquare|amod"
+                },
+                {
+                    "question": "How are small square blocks connected to the banknote?",
+                    "score": 0.7555,
+                    "answers": "small square blocks that come together and separate when tilting the banknote back and forth|pobj"
+                },
+                {
+                    "question": "What is the relationship between top and bottom of a banknote?",
+                    "score": 0.706,
+                    "answers": "to bottom|prep"
+                }
+            ]
+        }
+    ]
+}

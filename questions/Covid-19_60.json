@@ -1,0 +1,129 @@
+{
+    "id": "Covid-19_60",
+    "claim": "In a recent interview by Bill Gates on the United States' CNBC channel, he publicly acknowledged a terrifying fact and advises governments to legally protect themselves from deaths that are necessarily going to occur as a result of the COVID-19 vaccine. In that interview, Gates states that the current vaccines do not work in the elderly, so the vaccine against the COVID-19 has to be truly effective and protect that segment of the population. However, vaccinating the population always leads to many deaths, so it is necessary to point to the least number of deaths possible from the vaccine. Getting only 1 in 10,000 people vaccinated to die, that would be a good result according to Gates. But as the vaccine is going to be mandatory, governments are going to have to protect themselves in some way and offer some kind of compensation due to the number of people who are going to die from the COVID-19 vaccine, which at best will exceed 770,000 deaths. I'm sorry.",
+    "source": "www.diario26.com",
+    "date": "11/04/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "In a recent interview by Bill Gates on the United States' CNBC channel, he publicly acknowledged a terrifying fact and advises governments to legally protect themselves from deaths that are necessarily going to occur as a result of the COVID-19 vaccine.",
+            "question_answers": [
+                {
+                    "question": "What vaccine did Bill Gates advise governments to protect themselves from deaths that are going to occur as a result of?",
+                    "answer": "COVID-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Bill Gates say about the COVID-19 vaccine?",
+                    "score": 0.8139,
+                    "answers": "In a recent interview by Bill Gates on the United States ' CNBC channel|prep\trecent|amod\ta recent interview by Bill Gates on the United States ' CNBC channel|pobj\tby Bill Gates|prep\tBill|compound\ton the United States ' CNBC channel|prep\tthe United States ' CNBC channel|pobj\tpublicly|advmod\tterrifying|amod\tadvises governments to legally protect themselves from deaths that are necessarily going to occur as a result of the COVID-19 vaccine|conj\tlegally|advmod"
+                },
+                {
+                    "question": "What is the COVID-19 vaccine?",
+                    "score": 0.7546,
+                    "answers": "www.diario26.com|nsubj\twww.diario26.com reported on 11/04/2020 that In a recent interview by Bill Gates on the United States ' CNBC channel , he publicly acknowledged a terrifying fact and advises governments to legally protect themselves from deaths that are necessarily going to occur as a result of the COVID-19 vaccine|ROOT\ton 11/04/2020|prep\t11/04/2020|pobj\tthat|mark\ta|det\tthe|det\tUnited|compound\tthe United States '|poss\t'|case\t,|punct\the|nsubj\tthat In a recent interview by Bill Gates on the United States ' CNBC channel , he publicly acknowledged a terrifying fact and advises governments to legally protect themselves from deaths that are necessarily going to occur as a result of the COVID-19 vaccine|ccomp\ta|det\ta terrifying fact|dobj\tand|cc\tgovernments|dobj\tto|aux\tto legally protect themselves from deaths that are necessarily going to occur as a result of the COVID-19 vaccine|xcomp\tthemselves|dobj\tfrom deaths that are necessarily going to occur as a result of the COVID-19 vaccine|prep\tdeaths that are necessarily going to occur as a result of the COVID-19 vaccine|pobj\tthat|nsubj\tare|aux\tnecessarily|advmod\tthat are necessarily going to occur as a result of the COVID-19 vaccine|relcl\tto|aux\tto occur as a result of the COVID-19 vaccine|xcomp\tas a result of the COVID-19 vaccine|prep\ta|det\ta result of the COVID-19 vaccine|pobj\tof the COVID-19 vaccine|prep\tthe|det\tCOVID-19|nmod\tthe COVID-19 vaccine|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In that interview, Gates states that the current vaccines do not work in the elderly, so the vaccine against the COVID-19 has to be truly effective and protect that segment of the population.",
+            "question_answers": [
+                {
+                    "question": "What vaccine did Gates say had to be truly effective and protect that segment of the population?",
+                    "answer": "COVID-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How effective is the COVID-19 vaccine?",
+                    "score": 0.8823,
+                    "answers": "truly effective|acomp"
+                },
+                {
+                    "question": "What did Gates say about the COVID-19 vaccine?",
+                    "score": 0.8568,
+                    "answers": "www.diario26.com reported on 11/04/2020 that In that interview , Gates states that the current vaccines do not work in the elderly , so the vaccine against the COVID-19 has to be truly effective and protect that segment of the population|ROOT\tIn that interview|prep\tthat interview|pobj\tto|aux"
+                },
+                {
+                    "question": "What age group does COVID-19 target?",
+                    "score": 0.8527,
+                    "answers": "the elderly|pobj"
+                },
+                {
+                    "question": "What percentage of the elderly get the COVID-19 vaccine?",
+                    "score": 0.848,
+                    "answers": "the current vaccines do not work in the elderly|ccomp"
+                },
+                {
+                    "question": "What segment of the population does COVID-19 target?",
+                    "score": 0.8386,
+                    "answers": "protect that segment of the population|conj\tthat segment of the population|dobj\tof the population|prep"
+                }
+            ]
+        },
+        {
+            "claim": "However, vaccinating the population always leads to many deaths, so it is necessary to point to the least number of deaths possible from the vaccine.",
+            "question_answers": [
+                {
+                    "question": "Why is it necessary to point to the least number of deaths possible from the vaccine?",
+                    "answer": "vaccinating the population always leads to many deaths, so it is necessary to point to the least number of deaths possible from the vaccine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many deaths are caused by the Vaccine Vaccine?",
+                    "score": 0.8773,
+                    "answers": "that However , vaccinating the population always leads to many deaths ,|ccomp"
+                },
+                {
+                    "question": "How many deaths occur from the flu every year?",
+                    "score": 0.8588,
+                    "answers": "many deaths|pobj"
+                },
+                {
+                    "question": "What is Vaccine?",
+                    "score": 0.8225,
+                    "answers": "vaccinating the population|csubj"
+                }
+            ]
+        },
+        {
+            "claim": "Getting only 1 in 10,000 people vaccinated to die, that would be a good result according to Gates.",
+            "question_answers": [
+                {
+                    "question": "How many people were vaccinated to die on 11/04/2020?",
+                    "answer": "1 in 10,000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people would need to get vaccinated to die?",
+                    "score": 0.8531,
+                    "answers": "Getting only 1 in 10,000 people vaccinated to die|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "But as the vaccine is going to be mandatory, governments are going to have to protect themselves in some way and offer some kind of compensation due to the number of people who are going to die from the COVID-19 vaccine, which at best will exceed 770,000 deaths.",
+            "question_answers": [
+                {
+                    "question": "How many deaths will the COVID-19 vaccine cause?",
+                    "answer": "770,000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people will die from the COVID-19 vaccine?",
+                    "score": 0.8214,
+                    "answers": "www.diario26.com|nsubj\twww.diario26.com reported on 11/04/2020 that But as the vaccine is going to be mandatory , governments are going to have to protect themselves in some way and offer some kind of compensation due to the number of people who are going to die from the COVID-19 vaccine , which at best will exceed 770,000 deaths|ROOT\ton 11/04/2020|prep\tthat|mark\tBut|cc\tas|mark\tthe|det\tis|aux\tto|aux\t,|punct\tgovernments|nsubj\tare|aux\tthat But as the vaccine is going to be mandatory , governments are going to have to protect themselves in some way and offer some kind of compensation due to the number of people who are going to die from the COVID-19 vaccine , which at best will exceed 770,000 deaths|ccomp\tto|aux\tto have to protect themselves in some way and offer some kind of compensation due to the number of people who are going to die from the COVID-19 vaccine , which at best will exceed 770,000 deaths|xcomp\tto|aux\tto protect themselves in some way and offer some kind of compensation due to the number of people who are going to die from the COVID-19 vaccine , which at best will exceed 770,000 deaths|xcomp\tthemselves|dobj\tin some way|prep\tsome|det\tsome way|pobj\tand|cc\toffer some kind of compensation due to the number of people who are going to die from the COVID-19 vaccine , which at best will exceed 770,000 deaths|conj\tsome|det\tsome kind of compensation due to the number of people who are going to die from the COVID-19 vaccine , which at best will exceed 770,000 deaths|dobj\tof compensation|prep\tcompensation|pobj\tdue|amod\tdue to the number of people who are going to die from the COVID-19 vaccine , which at best will exceed 770,000 deaths|prep\tthe|det\tthe number of people who are going to die from the COVID-19 vaccine , which at best will exceed 770,000 deaths|pobj\tof people|prep\tpeople|pobj\twho|nsubj\tare|aux\twho are going to die from the COVID-19 vaccine|relcl\tto|aux\tto die from the COVID-19 vaccine|xcomp\tthe|det\tCOVID-19|nmod\t,|punct\twhich|nsubj\tat|advmod\tat best|advmod\twill|aux\twhich at best will exceed 770,000 deaths|relcl\t770,000 deaths|dobj"
+                },
+                {
+                    "question": "What is the COVID-19 vaccine?",
+                    "score": 0.8119,
+                    "answers": "the vaccine|nsubj\tas the vaccine is going to be mandatory|advcl\tto be mandatory|xcomp\tmandatory|acomp\tfrom the COVID-19 vaccine|prep\tthe COVID-19 vaccine|pobj"
+                }
+            ]
+        }
+    ]
+}

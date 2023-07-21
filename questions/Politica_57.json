@@ -1,0 +1,600 @@
+{
+    "id": "Politica_57",
+    "claim": "The NBC broadcast on March 9 an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin. A day later, the Kremlin's official website featured the full interview, from which it follows that the channel cut off some of Putin's sentences to the American public. Both the title of the program'Fighting Putin'and the aggressive way Megyn Kelly conducted the interview were aimed at inciting the viewer to a sense of confrontation between the journalist and the president. In the middle of the dialogue, the president even had to make a small comment to Kelly and told her that'it is not very polite that I am constantly interrupting'. In the full version of the interview, posted on the Kremlin website, Kelly apologizes to Putin, but those apologies were not shown in the version published by NBC. And this is not the only fragment of the encounter that was not shown to the American viewer. While it is common in journalistic work to cut interviews  especially when they are television and the answers are extended for a long time  it is always important to reveal the key ideas that the interviewee wants to convey, especially if he explicitly asks them to reach the public. However, this was not the case in the interview of the Russian president that NBC broadcast on prime time. Sputnik has compiled some of Putin's ideas that the American television viewer failed to see. On U.S. law to interfere in other countries' politicsThe issue of the Kremlin's alleged interference in past U.S. presidential elections was at the center of the interview. During the dialogue, Megyn Kelly tried to 'bomb' Vladimir Putin with accusations of having planned and perpetrated the attack, something the Russian president denied saying that, apart from hypothesis, no evidence has yet been presented involving the Russian government. In one of the many comments, Vladimir Putin mentioned the issue of continued US interference in Russia's political life.'I'd like you to listen well to me and let your viewers know what I'll tell you next. When we deal with our American partners, state representatives, we tell them that they constantly interfere in our political life. Imagine, they don't even deny it ', he said. What they cut from the interview was Putin's reply on how U.S. officials defended their right to interfere in other countries. 'And what did [American officials] respond to?They said, 'Yes, we interfere, but we have the right to do so because we are leading democracy. But you can't, you can't. Do you think this is a civilized and modern way to conduct international relations?'Putin asked Kelly, without finding an answer. Later, the Russian leader answered the question about a possible future rapprochement between Moscow and Washington. Putin mentioned the issue of U.S. involvement in the coup in Ukraine as the main drawback to achieving that rapprochement. However, that Putin replica was also cut from the final version issued in the US. 'I could ask you another question: why did you favor the coup d'etat in Ukraine?What did you do it for?You recognized that you spent millions of dollars on that?. His officials told him publicly. I'm sorry.",
+    "source": "mundo.sputniknews.com",
+    "date": "11/03/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The NBC broadcast on March 9 an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin the Kremlin's an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What was the relationship between Megyn Kelly and Vladimir Putin?",
+                    "score": 0.6988,
+                    "answers": "that The NBC broadcast on March 9 an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin the Kremlin 's an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin|ccomp\tMegyn|compound\tRussian President Vladimir Putin|pobj\tMegyn|compound\tRussian President Vladimir Putin|pobj"
+                },
+                {
+                    "question": "Who is political tertuliana Megyn Kelly?",
+                    "score": 0.6737,
+                    "answers": "political tertuliana|compound\tpolitical tertuliana Megyn Kelly|nsubj\tpolitical tertuliana|compound\tpolitical tertuliana Megyn Kelly|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Vladimir Putin and Megyn Kelly?",
+                    "score": 0.6653,
+                    "answers": "on 11/03/2018|prep\twith Russian President Vladimir Putin|prep\tVladimir|compound\twith Russian President Vladimir Putin|prep\tVladimir|compound"
+                },
+                {
+                    "question": "Who is Vladimir Putin?",
+                    "score": 0.6648,
+                    "answers": "Russian President|compound\tRussian President|compound"
+                },
+                {
+                    "question": "What is mundo.sputniknews.com?",
+                    "score": 0.5476,
+                    "answers": "mundo.sputniknews.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "A day later, the Kremlin's official website the interview the Kremlin's official website the interview the Megyn Kelly , from which Vladimir Putin The NBC cut off some of Russian President Vladimir Putin sentences to the American public.",
+            "question_answers": [
+                {
+                    "question": "Who was the interviewer on the Kremlin's official website?",
+                    "answer": "Megyn Kelly"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Putin do to the American people?",
+                    "score": 0.733,
+                    "answers": "of Russian President Vladimir Putin sentences to the American public|prep\tRussian President Vladimir Putin sentences to the American public|pobj"
+                },
+                {
+                    "question": "What did the Kremlin say about the interview between Vladimir Putin and Megyn Kelly?",
+                    "score": 0.7205,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that A day later , the Kremlin 's official website the interview the Kremlin 's official website the interview the Megyn Kelly , from which Vladimir Putin The NBC cut off some of Russian President Vladimir Putin sentences to the American public|ROOT"
+                },
+                {
+                    "question": "What are the sentences of Russian President Vladimir Putin?",
+                    "score": 0.6533,
+                    "answers": "some of Russian President Vladimir Putin sentences to the American public|dobj"
+                },
+                {
+                    "question": "What is Megyn Kelly?",
+                    "score": 0.6476,
+                    "answers": "Megyn|compound"
+                },
+                {
+                    "question": "What is the relationship between the Kremlin and Megyn Kelly?",
+                    "score": 0.6371,
+                    "answers": "the Kremlin 's|poss\tthe Kremlin 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "Both Vladimir Putin program'Fighting Putin'and the aggressive way political tertuliana Megyn Kelly conducted an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin were aimed the Kremlin's to a sense of confrontation Vladimir Putin political tertuliana Megyn Kelly and Russian President Vladimir Putin .",
+            "question_answers": [
+                {
+                    "question": "What did tertuliana Megyn Kelly do with Vladimir Putin?",
+                    "answer": "aggressive way political tertuliana Megyn Kelly conducted an extensive interview"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Vladimir Putin and Megyn Kelly?",
+                    "score": 0.6648,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that Both Vladimir Putin program'Fighting Putin'and the aggressive way political tertuliana Megyn Kelly conducted an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin were aimed the Kremlin 's to a sense of confrontation Vladimir Putin political tertuliana Megyn Kelly and Russian President Vladimir Putin|ROOT\ton 11/03/2018|prep\tthat|mark\tBoth|preconj\tVladimir|compound\tthat Both Vladimir Putin program'Fighting Putin'and the aggressive way political tertuliana Megyn Kelly conducted an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin were aimed the Kremlin 's to a sense of confrontation Vladimir Putin political tertuliana Megyn Kelly and Russian President Vladimir Putin|dobj\tPutin'and|punct\tthe|det\taggressive|amod\tthe aggressive way political tertuliana Megyn Kelly conducted an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin were aimed the Kremlin 's to a sense of confrontation|appos\tpolitical|amod\tpolitical tertuliana|compound\tMegyn|compound\tpolitical tertuliana Megyn Kelly|nsubj\tpolitical tertuliana Megyn Kelly conducted an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin were aimed the Kremlin 's to a sense of confrontation|relcl\tan|det\textensive|amod\tan extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin|nsubjpass\tthat|dobj\tpolitical|amod\tpolitical tertuliana|compound\tMegyn|compound\tpolitical tertuliana Megyn Kelly|nsubj\tthat political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin|relcl\twith Russian President Vladimir Putin|prep\tRussian President|compound\tVladimir|compound\tRussian President Vladimir Putin|pobj\twere|auxpass\tan extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin were aimed the Kremlin 's to a sense of confrontation|ccomp\tthe|det\tthe Kremlin 's to a sense of confrontation|dobj\t's|case\tto a sense of confrontation|prep\ta|det\ta sense of confrontation|pobj\tof confrontation|prep\tconfrontation|pobj\tVladimir|nmod\tpolitical|amod\tVladimir Putin political tertuliana Megyn Kelly and Russian President Vladimir Putin|appos\tMegyn|compound\tMegyn Kelly and|appos\tand|cc\tRussian President|compound\tVladimir|compound\tRussian President Vladimir Putin|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In the middle of the dialogueRussia's political life had to Megyn Kelly a small comment to political tertuliana Megyn Kelly and Megyn Kelly political tertuliana Megyn Kelly that'it is not very polite that Russian President Vladimir Putin am constantly interruptingour American partners, state representatives .",
+            "question_answers": [
+                {
+                    "question": "Who is the Russian President?",
+                    "answer": "Vladimir Putin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Megyn Kelly and Vladimir Putin?",
+                    "score": 0.6239,
+                    "answers": "political tertuliana Megyn Kelly and Megyn Kelly political tertuliana Megyn Kelly|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "our American partners, state representatives , posted our American partners, state representatives the Kremlin's official website our American partners, state representatives the Kremlin's official website , interfere Russia's political life apologizes were not shown interfere the Vladimir Putin published by The NBC .",
+            "question_answers": [
+                {
+                    "question": "Who posted the Kremlin's official website?",
+                    "answer": "our American partners, state representatives"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Russia do to interfere with the Kremlin's official website?",
+                    "score": 0.6948,
+                    "answers": "apologizes|dep"
+                },
+                {
+                    "question": "What is the relationship between Russia and Vladimir Putin?",
+                    "score": 0.6183,
+                    "answers": "interfere the Vladimir Putin published by The NBC|npadvmod"
+                },
+                {
+                    "question": "What is the official website of the Kremlin?",
+                    "score": 0.6005,
+                    "answers": "official|amod\tofficial|amod"
+                },
+                {
+                    "question": "What is mundo.sputniknews.com?",
+                    "score": 0.4943,
+                    "answers": "mundo.sputniknews.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And the interview the Vladimir Putin of an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin U.S. officials was not U.S. officials to the American viewer.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/03/2018 that the interview that Megyn Kelly conducted with Vladimir Putin was not conducted by U.S. officials?",
+                    "answer": "mundo.sputniknews.com"
+                },
+                {
+                    "question": "Who did Megyn Kelly interview?",
+                    "answer": "Russian President Vladimir Putin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the relationship between Megyn Kelly and Vladimir Putin?",
+                    "score": 0.6877,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that And the interview the Vladimir Putin of an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin U.S. officials was not U.S. officials to the American viewer|ROOT\tMegyn|compound\tpolitical tertuliana Megyn Kelly|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the United States and Vladimir Putin?",
+                    "score": 0.6631,
+                    "answers": "U.S. officials|attr"
+                }
+            ]
+        },
+        {
+            "claim": "While it is common in journalistic work to cut interviews  especially when interviews are television and the answers are extended for a long time  it is always important to reveal the key ideas that the interviewee wants to convey, especially if the interviewee explicitly asks Vladimir Putin the public.",
+            "question_answers": [
+                {
+                    "question": "What is important in a journalistic interview?",
+                    "answer": "to reveal the key ideas that the interviewee wants to convey, especially if the interviewee explicitly asks Vladimir Putin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long do interviews with Vladimir Putin last?",
+                    "score": 0.7684,
+                    "answers": "a long time|pobj"
+                },
+                {
+                    "question": "What does it mean to ask Vladimir Putin for an interview?",
+                    "score": 0.754,
+                    "answers": "that|mark\tWhile|mark\tit|nsubj\tcommon|acomp\tto|aux\twhen|advmod\tand|cc\tthe|det\twhen the answers are extended for a long time|conj\ta|det\t |dep\tit|nsubj\talways|advmod\tto|aux\tthe|det\tthat|dobj\tthe|det\tto|aux\t,|punct\tif|mark\tthe|det\texplicitly|advmod\tVladimir|compound\tthe|det\tthe public|dobj"
+                },
+                {
+                    "question": "What does it take to cut an interview?",
+                    "score": 0.709,
+                    "answers": "While it is common in journalistic work to cut interviews   especially interviews are television and when the answers are extended for a long time  |advcl"
+                },
+                {
+                    "question": "What is the process used to cut interviews?",
+                    "score": 0.6698,
+                    "answers": "journalistic|amod\tinterviews|dobj\tinterviews|nsubj"
+                },
+                {
+                    "question": "What are the key ideas the interviewee explicitly asks Vladimir Putin the public?",
+                    "score": 0.6687,
+                    "answers": "that While it is common in journalistic work to cut interviews   especially interviews are television and when the answers are extended for a long time   it is always important to reveal the key ideas the interviewee wants that to convey , especially if the interviewee explicitly asks Vladimir Putin the public|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, this was not the case in an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin Vladimir Putin an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin .",
+            "question_answers": [
+                {
+                    "question": "Who did Megyn Kelly interview on 11/03/2018?",
+                    "answer": "Vladimir Putin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the interview between Megyn Kelly and Vladimir Putin?",
+                    "score": 0.7664,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that However , this was not the case in an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin Vladimir Putin an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin|ROOT\tan extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin Vladimir Putin an extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin|pobj\tan extensive interview that political tertuliana Megyn Kelly conducted with Russian President Vladimir Putin|pobj"
+                },
+                {
+                    "question": "What is Megyn Kelly's political affiliation with Vladimir Putin?",
+                    "score": 0.7658,
+                    "answers": "Megyn|compound\tMegyn|compound"
+                },
+                {
+                    "question": "Who is Vladimir Putin?",
+                    "score": 0.7227,
+                    "answers": "Russian President|compound\tRussian President|compound"
+                },
+                {
+                    "question": "What is the relationship between Vladimir Putin and Megyn Kelly?",
+                    "score": 0.7227,
+                    "answers": "Russian President Vladimir Putin Vladimir Putin|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Sputnik has compiled some of Russian President Vladimir Putin ideas that the American television viewer failed to see.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Sputnik had compiled some of Vladimir Putin's ideas that the American television viewer failed to see?",
+                    "answer": "mundo.sputniknews.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Sputnik say about Russian President Vladimir Putin ideas?",
+                    "score": 0.8212,
+                    "answers": "on 11/03/2018|prep\ttelevision|compound"
+                },
+                {
+                    "question": "What did the American television viewer fail to see?",
+                    "score": 0.7523,
+                    "answers": "the American television viewer failed that to see|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of Russian President Vladimir Putin's ideas?",
+                    "score": 0.7263,
+                    "answers": "some of Russian President Vladimir Putin ideas the American television viewer failed that to see|dobj\tof Russian President Vladimir Putin ideas the American television viewer failed that to see|prep\tRussian President Vladimir Putin ideas the American television viewer failed that to see|pobj"
+                },
+                {
+                    "question": "What is the relationship between Russia and the United States?",
+                    "score": 0.6505,
+                    "answers": "Russian President|compound"
+                },
+                {
+                    "question": "What is the website \" mundo.sputniknews.com\"?",
+                    "score": 0.592,
+                    "answers": "mundo.sputniknews.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "On U.S. law to interfere in other countries' politicsThe issue of the Kremlin's alleged interference in past U.S. presidential elections was at the center of the interview.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/03/2018 that On U.S. law to interfere in other countries' politics?",
+                    "answer": "mundo.sputniknews.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the Kremlin's interference in past US presidential elections?",
+                    "score": 0.6639,
+                    "answers": "of the Kremlin 's alleged interference in past U.S. presidential elections|prep"
+                },
+                {
+                    "question": "What is the relationship between the Kremlin and U.S. presidential elections?",
+                    "score": 0.6068,
+                    "answers": "in past U.S. presidential elections|prep"
+                },
+                {
+                    "question": "What is the US law on interference in other countries' politics?",
+                    "score": 0.5835,
+                    "answers": "On U.S. law to interfere in other countries '|prep\tU.S. law to interfere in other countries '|pobj\tthat On U.S. law to interfere in other countries ' politicsThe|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "During the dialogue, Megyn Kelly tried to 'bomb' Vladimir Putin with accusations of having planned and perpetrated the attack, something the Russian president denied saying that, apart from hypothesis, no evidence has yet been presented involving the Russian government.",
+            "question_answers": [
+                {
+                    "question": "Who tried to 'bomb' Vladimir Putin?",
+                    "answer": "Megyn Kelly"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What evidence has been presented of the Russian government planning to bomb Vladimir Putin?",
+                    "score": 0.8457,
+                    "answers": "that , apart from hypothesis , no evidence has yet been presented involving the Russian government|ccomp"
+                },
+                {
+                    "question": "What did Megyn Kelly say about the attack on Vladimir Putin?",
+                    "score": 0.7924,
+                    "answers": "Megyn|compound\tof having planned and perpetrated the attack|prep\thaving planned and perpetrated the attack|pcomp"
+                },
+                {
+                    "question": "What was the relationship between Megyn Kelly and Vladimir Putin?",
+                    "score": 0.6728,
+                    "answers": "During the dialogue|prep\tthe Russian president|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the Russian government and Megyn Kelly?",
+                    "score": 0.6086,
+                    "answers": "involving the Russian government|advcl\tthe Russian government|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In one of the many comments, Vladimir Putin mentioned the issue of continued US interference in Russia's political life.",
+            "question_answers": [
+                {
+                    "question": "What issue did Vladimir Putin mention in his comments?",
+                    "answer": "continued US interference in Russia's political life"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Putin say about US interference in Russia's political life?",
+                    "score": 0.8398,
+                    "answers": "the issue of continued US interference in Russia 's political life|dobj\tof continued US interference in Russia 's political life|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Russia's political life?",
+                    "score": 0.6595,
+                    "answers": "Russia 's political life|pobj"
+                },
+                {
+                    "question": "What is the relationship between the US and Russia?",
+                    "score": 0.6392,
+                    "answers": "continued US interference in Russia 's political life|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'I'd like you to listen well to me and let your viewers know what I'll tell you next.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/03/2018 that 'I'd like you to listen well to me and let your viewers know what I'll tell you next'?",
+                    "answer": "mundo.sputniknews.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Barack Obama and Vladimir Putin?",
+                    "score": 0.6782,
+                    "answers": "that ' I 'd like you to listen well to me and let your viewers know what I 'll tell you next|ccomp"
+                },
+                {
+                    "question": "What is the name of the website that claims that Trump wants to deliver a message to viewers?",
+                    "score": 0.6581,
+                    "answers": "I|nsubj\tI|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the quotes from Trump about listening well to his followers?",
+                    "score": 0.655,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that ' I 'd like you to listen well to me and let your viewers know what I 'll tell you next|ROOT\t'll|aux"
+                },
+                {
+                    "question": "What is the meaning of \"dialogue\"?",
+                    "score": 0.5862,
+                    "answers": "let your viewers know what I 'll tell you next|conj"
+                },
+                {
+                    "question": "What is the next best thing to listen well to me and let your viewers know what I'll tell you next?",
+                    "score": 0.5669,
+                    "answers": "next|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "When we deal with our American partners, state representatives, we tell them that they constantly interfere in our political life.",
+            "question_answers": [
+                {
+                    "question": "What did mundo.sputniknews.com report on 11/03/2018?",
+                    "answer": "state representatives, we tell them that they constantly interfere in our political life"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the US and the Russian government?",
+                    "score": 0.5622,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that When we deal with our American partners , state representatives , we tell them that they constantly interfere in our political life|ROOT"
+                },
+                {
+                    "question": "What is mundo.sputniknews.com?",
+                    "score": 0.4559,
+                    "answers": "mundo.sputniknews.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "What they cut from the interview was Putin's reply on how U.S. officials defended their right to interfere in other countries.",
+            "question_answers": [
+                {
+                    "question": "What website reported on Putin's interview on 11/03/2018?",
+                    "answer": "mundo.sputniknews.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Putin say about US interference in other countries?",
+                    "score": 0.8311,
+                    "answers": "Putin 's reply on how U.S. officials defended their right to interfere in other countries|attr\ton how U.S. officials defended their right to interfere in other countries|prep"
+                },
+                {
+                    "question": "What was Putin's response to the interview?",
+                    "score": 0.761,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that What they cut from the interview was Putin 's reply on how U.S. officials defended their right to interfere in other countries|ROOT\ton 11/03/2018|prep\tthat What they cut from the interview was Putin 's reply on how U.S. officials defended their right to interfere in other countries|ccomp\tPutin 's|poss\thow|advmod\tU.S. officials|nsubj"
+                },
+                {
+                    "question": "What was the purpose of the interview between Putin and Trump?",
+                    "score": 0.6883,
+                    "answers": "What they cut from the interview|csubj\tthe interview|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'And what did [American officials] respond to?They said, 'Yes, we interfere, but we have the right to do so because we are leading democracy.",
+            "question_answers": [
+                {
+                    "question": "What did American officials say on 11/03/2018?",
+                    "answer": "'Yes, we interfere, but we have the right to do so because we are leading democracy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the American officials say about interfering with democracy?",
+                    "score": 0.806,
+                    "answers": "that|mark\t'|punct\tAmerican officials|nsubj\t]|punct\tto?They|punct\t,|punct\t'|punct\tYes|intj\t,|punct\twe|nsubj\t,|punct\tbut|cc\twe|nsubj\tthe|det\tto|aux\tto do so|acl\tso|advmod\tbecause|mark\twe|nsubj\tare|aux\tdemocracy|dobj"
+                },
+                {
+                    "question": "What is the right to interfere with a country?",
+                    "score": 0.6223,
+                    "answers": "we have the right to do so because we are leading democracy|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Do you think this is a civilized and modern way to conduct international relations?'Putin asked Kelly, without finding an answer.",
+            "question_answers": [
+                {
+                    "question": "How did Putin respond to Kelly's question?",
+                    "answer": "without finding an answer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Putin think about international relations?",
+                    "score": 0.8706,
+                    "answers": "international relations?'Putin|dobj"
+                },
+                {
+                    "question": "What did Putin ask Kelly about international relations?",
+                    "score": 0.8495,
+                    "answers": "finding an answer|pcomp"
+                },
+                {
+                    "question": "What is the relationship between Putin and Trump?",
+                    "score": 0.745,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that Do you think this is a civilized and modern way to conduct international relations?'Putin|ccomp\ta civilized and modern way to conduct international relations?'Putin|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Later, the Russian leader answered the question about a possible future rapprochement between Moscow and Washington.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Later answered the question about a possible future rapprochement between Moscow and Washington?",
+                    "answer": "mundo.sputniknews.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of rapprochement between Moscow and Washington?",
+                    "score": 0.6519,
+                    "answers": "that Later , the Russian leader answered the question about a possible future rapprochement between Moscow and Washington|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Russia and Washington?",
+                    "score": 0.587,
+                    "answers": "on 11/03/2018|prep\tthat|mark\tLater|advmod\t,|punct\tthe|det\tthe Russian leader|nsubj\tthe|det\ta|det\tpossible|amod\tfuture|amod\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Putin mentioned the issue of U.S. involvement in the coup in Ukraine as the main drawback to achieving that rapprochement.",
+            "question_answers": [
+                {
+                    "question": "What did Putin say was the main drawback to rapprochement?",
+                    "answer": "the issue of U.S. involvement in the coup in Ukraine"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Putin say about US involvement in the coup in Ukraine?",
+                    "score": 0.8586,
+                    "answers": "that Putin mentioned the issue of U.S. involvement in the coup in Ukraine as the main drawback to achieving that rapprochement|ccomp"
+                },
+                {
+                    "question": "What is the main drawback of rapprochement with Ukraine?",
+                    "score": 0.6831,
+                    "answers": "as the main drawback to achieving that rapprochement|prep"
+                },
+                {
+                    "question": "What is the relationship between Russia and Ukraine?",
+                    "score": 0.6566,
+                    "answers": "mundo.sputniknews.com|nsubj\ton 11/03/2018|prep\tthat|mark\tthe|det\tthe|det\tin Ukraine|prep\tthe|det\tmain|amod\tthat|det"
+                },
+                {
+                    "question": "What is the purpose of rapprochement?",
+                    "score": 0.6469,
+                    "answers": "to achieving that rapprochement|prep\tachieving that rapprochement|pcomp\tthat rapprochement|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, that Putin replica was also cut from the final version issued in the US.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Putin replica was also cut from the final version issued in the US?",
+                    "answer": "mundo.sputniknews.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why was the Putin replica cut from the final version issued?",
+                    "score": 0.844,
+                    "answers": "that However , that Putin replica was also cut from the final version issued in the US|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the Putin replica?",
+                    "score": 0.7018,
+                    "answers": "that Putin replica|nsubjpass"
+                },
+                {
+                    "question": "What was the final version of the Putin replica issued in the US?",
+                    "score": 0.6984,
+                    "answers": "mundo.sputniknews.com reported on 11/03/2018 that However , that Putin replica was also cut from the final version issued in the US|ROOT"
+                },
+                {
+                    "question": "What is the relationship between Russia and the United States?",
+                    "score": 0.5821,
+                    "answers": "on 11/03/2018|prep\tthat|mark\t,|punct\tthat|det\twas|auxpass\talso|advmod\tthe|det\tissued in the US|acl\tin the US|prep\tthe|det\tthe US|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'I could ask you another question: why did you favor the coup d'etat in Ukraine?What did you do it for?You recognized that you spent millions of dollars on that?.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/03/2018?",
+                    "answer": "mundo.sputniknews.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Barack Obama do to support the coup d'etat in Ukraine?",
+                    "score": 0.8172,
+                    "answers": "another question : why did you favor the coup d'etat in|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "His officials told him publicly.",
+            "question_answers": [
+                {
+                    "question": "What website reported on the 11/03/2018 that His officials told him publicly?",
+                    "answer": "mundo.sputniknews.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump's officials tell him publicly in 2018?",
+                    "score": 0.8679,
+                    "answers": "that His officials told him publicly|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Trump and Putin?",
+                    "score": 0.7717,
+                    "answers": "on 11/03/2018|prep"
+                }
+            ]
+        }
+    ]
+}

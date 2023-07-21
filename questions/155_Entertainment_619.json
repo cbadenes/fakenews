@@ -1,0 +1,184 @@
+{
+    "id": "155_Entertainment_619",
+    "claim": "Followers of the singer congratulated her after the publication of a'revealer'imageMiley Cyrus, the singer who went from singing Hannah Montana to a rebellious pop artist, turned yesterday  years and celebrated it, literally, in great. Her boyfriend, the autralian actor Liam Hemsworth consented to her with a colorful diamond necklace, a floral arrangement of roses in different hues and helium balloons with the letters of her name, gifts that the performer of'Wrecking Ball 'showed on her Instagram account for Thanksgiving. But what caught the attention most was an image of the artist wearing only a long, broad T-shirt in grey tone with her hands on a small lump in the upper abdomen that naturally raised suspicions of a possible pregnancy. The photograph obtained more than  millions of 'likes 'and comments of 'congratulations ', a situation that Cyrus was responsible for clarifying hours later. 'I'm not pregnant, I was just eating a bunch of turkey tofu (vegan turkey) ', he wrote about the same photo he posted on his social networks. In April of this year rumors had emerged that Miley Cyrus and Liam Hemsworth had been married, a fact that the celebrity couple went out to deny. I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "24/11/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Followers of the singer congratulated her after the publication of a'revealer'imageMiley Cyrus, the singer who went from singing Hannah Montana to a rebellious pop artist, turned yesterday  years and celebrated it, literally, in great.",
+            "question_answers": [
+                {
+                    "question": "What did followers of Miley Cyrus do?",
+                    "answer": "congratulated her after the publication of a'revealer'imageMiley Cyrus, the singer who went from singing Hannah Montana to a rebellious pop artist,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Cyrus do to celebrate her musical career?",
+                    "score": 0.7227,
+                    "answers": "Cyrus , the singer who went from singing Hannah Montana to a rebellious pop artist ,|nsubj\tcelebrated it , literally , in great|conj"
+                },
+                {
+                    "question": "What is Miley Cyrus' musical style?",
+                    "score": 0.6458,
+                    "answers": "after the publication of|prep\tthe publication of|pobj\tin great|prep"
+                },
+                {
+                    "question": "What is the relationship between Cyrus and Miley Cyrus?",
+                    "score": 0.6247,
+                    "answers": "rebellious|amod\tyears|dobj\tit|dobj"
+                },
+                {
+                    "question": "Who is Miley Cyrus?",
+                    "score": 0.616,
+                    "answers": "www.eluniversal.com.mx reported on 24/11/2017 that Followers of the singer congratulated her after the publication of a'revealer'imageMiley|ROOT\ton 24/11/2017|prep\t24/11/2017|pobj\tthat|mark\tFollowers of the singer|nsubj\tof the singer|prep\tthe|det\tthe singer|pobj\tthat Followers of the singer congratulated her after the publication of|ccomp\ther|dobj\tthe|det\tof|prep\t,|punct\tthe|det\tthe singer who went from singing Hannah Montana to a rebellious pop artist|appos\twho|nsubj\twho went from singing Hannah Montana to a rebellious pop artist|relcl\tsinging Hannah Montana|pcomp\tHannah|compound\tto a rebellious pop artist|prep\ta|det\tpop|compound\ta rebellious pop artist|pobj\t,|punct\tCyrus , the singer who went from singing Hannah Montana to a rebellious pop artist , turned yesterday   years and celebrated it , literally , in great|ROOT\t  years|dep\tand|cc\t,|punct\t,|punct"
+                },
+                {
+                    "question": "What is the name of Miley Cyrus' image?",
+                    "score": 0.6026,
+                    "answers": "a'revealer'imageMiley|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Her boyfriend, the autralian actor Liam Hemsworth consented to her with a colorful diamond necklace, a floral arrangement of roses in different hues and helium balloons with the letters of her name, gifts that the performer of'Wrecking Ball 'showed on her Instagram account for Thanksgiving.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the show that the performer of 'Wrecking Ball' showed on her Instagram account?",
+                    "answer": "Wrecking Ball"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Hemsworth say about her relationship with Liam Hemsworth?",
+                    "score": 0.7803,
+                    "answers": "of roses in different hues|prep"
+                },
+                {
+                    "question": "What gifts did Hemsworth make on her Instagram account for Thanksgiving?",
+                    "score": 0.77,
+                    "answers": "gifts that the performer of'Wrecking Ball ' showed on her Instagram account for Thanksgiving|appos"
+                },
+                {
+                    "question": "Who did Hemsworth consented to with a colorful diamond necklace?",
+                    "score": 0.763,
+                    "answers": "www.eluniversal.com.mx reported on 24/11/2017 that Her boyfriend , the autralian actor Liam Hemsworth consented to her with a colorful diamond necklace , a floral arrangement of roses in different hues and helium balloons with the letters of her name , gifts that the performer of'Wrecking Ball ' showed on her Instagram account for Thanksgiving|ROOT"
+                },
+                {
+                    "question": "What is the flower arrangement of Liam Hemsworth's birthday?",
+                    "score": 0.6825,
+                    "answers": "roses in different hues|pobj"
+                },
+                {
+                    "question": "Who was the performer of the song \"Wrecking Ball\"?",
+                    "score": 0.6519,
+                    "answers": "the performer of'Wrecking Ball '|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But what caught the attention most was an image of the artist wearing only a long, broad T-shirt in grey tone with her hands on a small lump in the upper abdomen that naturally raised suspicions of a possible pregnancy.",
+            "question_answers": [
+                {
+                    "question": "What caught the attention of eluniversal?",
+                    "answer": "an image of the artist wearing only a long, broad T-shirt in grey tone with her hands on a small lump in the upper abdomen"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of T-shirt did the artist wear?",
+                    "score": 0.763,
+                    "answers": "broad|amod"
+                },
+                {
+                    "question": "What color was the image of the artist wearing a long, broad T-shirt with a small lump in the upper abdomen?",
+                    "score": 0.6865,
+                    "answers": "grey|amod"
+                },
+                {
+                    "question": "What is the evidence of a pregnancy?",
+                    "score": 0.6217,
+                    "answers": "possible|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The photograph obtained more than  millions of 'likes 'and comments of 'congratulations ', a situation that Cyrus was responsible for clarifying hours later.",
+            "question_answers": [
+                {
+                    "question": "What kind of comments did Cyrus get?",
+                    "answer": "'congratulations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Cyrus say about the photo?",
+                    "score": 0.859,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 24/11/2017 that The photograph obtained more than   millions of ' likes ' and comments of ' congratulations ' , a situation that Cyrus was responsible for clarifying hours later|ROOT\ton 24/11/2017|prep\t24/11/2017|pobj\tthat|mark\tThe|det\tThe photograph|nsubj\tmore|amod\tmore than|prep\t  millions of ' likes ' and comments of ' congratulations ' , a situation that Cyrus was responsible for clarifying hours later|dep\tof ' likes ' and comments of ' congratulations|prep\t'|punct\t' likes ' and comments of ' congratulations|pobj\t'|punct\tand|cc\tcomments of ' congratulations|conj\tof ' congratulations|prep\t'|punct\tcongratulations|pobj\t'|punct\t,|punct\ta|det\tthat|dobj\thours|npadvmod"
+                },
+                {
+                    "question": "What did Cyrus do to clarify the photo?",
+                    "score": 0.8556,
+                    "answers": "for clarifying hours later|prep"
+                },
+                {
+                    "question": "How many likes and comments did Cyrus get for the photo?",
+                    "score": 0.8364,
+                    "answers": "millions of ' likes ' and comments of ' congratulations ' , a situation that Cyrus was responsible for clarifying hours later|dobj"
+                },
+                {
+                    "question": "How many views did Cyrus get on the photo?",
+                    "score": 0.831,
+                    "answers": "that The photograph obtained more than|ccomp"
+                },
+                {
+                    "question": "What was Cyrus responsible for clarifying hours later?",
+                    "score": 0.8227,
+                    "answers": "a situation that Cyrus was responsible for clarifying hours later|appos\tthat Cyrus was responsible for clarifying hours later|relcl\tresponsible for clarifying hours later|acomp\tclarifying hours later|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "'I'm not pregnant, I was just eating a bunch of turkey tofu (vegan turkey) ', he wrote about the same photo he posted on his social networks.",
+            "question_answers": [
+                {
+                    "question": "What did www.eluniversal.com.mx report on 24/11/2017?",
+                    "answer": "'I'm not pregnant, I was just eating a bunch of turkey tofu (vegan turkey)"
+                },
+                {
+                    "question": "What did he post on his social networks?",
+                    "answer": "', he wrote about the same photo he posted on his social networks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who posted the same photo as the one posted on Facebook?",
+                    "score": 0.8354,
+                    "answers": "about the same photo he posted on his social networks|prep\tthe same photo he posted on his social networks|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the photo of the man eating turkey tofu?",
+                    "score": 0.7862,
+                    "answers": "of turkey tofu ( vegan turkey )|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In April of this year rumors had emerged that Miley Cyrus and Liam Hemsworth had been married, a fact that the celebrity couple went out to deny.",
+            "question_answers": [
+                {
+                    "question": "Who were the rumors that Miley Cyrus and Liam Hemsworth were married?",
+                    "answer": "Miley Cyrus and Liam Hemsworth"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Miley Cyrus and Liam Hemsworth?",
+                    "score": 0.7527,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 24/11/2017 that In April of this year rumors that Miley Cyrus and Liam Hemsworth had been married , a fact that the celebrity couple went out to deny had emerged|ROOT\ton 24/11/2017|prep\t24/11/2017|pobj\tthat|mark\tIn April of this year|prep\tof this year|prep\tthis|det\tthis year|pobj\trumors that Miley Cyrus and Liam Hemsworth had been married , a fact that the celebrity couple went out to deny|nsubj\thad|aux\tthat In April of this year rumors that Miley Cyrus and Liam Hemsworth had been married , a fact that the celebrity couple went out to deny had emerged|ccomp\tthat|mark\tMiley|compound\tMiley Cyrus and Liam Hemsworth|nsubj\tand|cc\tLiam|compound\thad|aux\tthat Miley Cyrus and Liam Hemsworth had been married , a fact that the celebrity couple went out to deny|acl\tmarried|acomp\t,|punct\ta|det\ta fact that the celebrity couple went out to deny|npadvmod\tthat|dobj\tthe|det\tcelebrity|compound\tthe celebrity couple|nsubj\tthat the celebrity couple went out to deny|relcl\tout|prt\tto|aux\tto deny|advcl"
+                }
+            ]
+        }
+    ]
+}

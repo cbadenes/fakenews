@@ -1,0 +1,395 @@
+{
+    "id": "131_Entertainment_623",
+    "claim": "Jennifer Aniston, Courteney Cox and Lisa Kudrow relive their characters with Jimmy KimmelThe next  of September marks the anniversary of the beginning of Friends, one of the comedies that marked time within the television panorama. Having ruled out the return of the series, not even in the form of a film, as rumored for a long time, the sitcom's birthday has been the perfect excuse for part of its cast to meet and recover its old characters. Such a circumstance has occurred in the program Jimmy Kimmel Live!. In an interview with Jennifer Anniston, the presenter proposes that the actress read with him some lines of script written by himself years ago from the characters of the series. To do this, the program had recreated the iconic kitchen of the apartment in which Monica and Rachel lived in the fiction of the American NBC network. While Anniston and Kimmel (in the role of Ross) read their lines of text, and to the surprise of the spectators, Courteney Cox (Monica en Friends) and Lisa Kudrow (Phoebe) made their appearance on stage at a celebrated reunion. It only lasted a few seconds, but long enough for the reunion to have gone around the world. In addition, and also on the occasion of the anniversary of the premiere of the series, the legendary Central Perk, the coffee frequented by the six New York friends, will be recreated in Manhattan. Although the coffee shop that appears in fiction does not exist in New York, for a month Warner Bros will open the doors of a replica, which can be visited between the next  of September and the  of October. The cafeteria will be located at  on Lafayette Street in New York. In it, visitors will be able to taste a coffee while taking photos on the famous sofa where they sat Ross, Joey, Chandler, Monica, Rachel and Phoebe and listen to music related to the series, such as Phoebe's mythical Smelly cat creation. In addition, James Michael Tyler, who played Gunther in fiction, will also sometimes be behind the coffee bar. I'm sorry.",
+    "source": "elpais.com",
+    "date": "28/08/2014",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Jennifer Aniston, Courteney Cox and Lisa Kudrow relive their characters with Jimmy KimmelThe next  of September marks the anniversary of the beginning of Friends, one of the comedies that marked time within the television panorama .",
+            "question_answers": [
+                {
+                    "question": "Who reported that Jennifer Aniston, Courteney Cox and Lisa Kudrow relive their characters with Jimmy Kimmel?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Jimmy Kimmel and Jennifer Aniston reunite?",
+                    "score": 0.7378,
+                    "answers": "Jimmy|compound\tnext   of September|dep\tof September|prep\tof the comedies that marked time within the television panorama|prep\tthe comedies that marked time within the television panorama|pobj\tthat marked time within the television panorama|relcl\ttime|dobj\twithin the television panorama|prep\tthe television panorama|pobj"
+                },
+                {
+                    "question": "When did Friends first air?",
+                    "score": 0.6934,
+                    "answers": "marks the anniversary of the beginning of Friends , one of the comedies that marked time within the television panorama|advcl\tthe anniversary of the beginning of Friends , one of the comedies that marked time within the television panorama|dobj\tof Friends , one of the comedies that marked time within the television panorama|prep\tFriends , one of the comedies that marked time within the television panorama|pobj"
+                },
+                {
+                    "question": "When was the beginning of Friends?",
+                    "score": 0.6282,
+                    "answers": "of the beginning of Friends , one of the comedies that marked time within the television panorama|prep\tthe beginning of Friends , one of the comedies that marked time within the television panorama|pobj"
+                },
+                {
+                    "question": "What is the relationship between Jennifer Aniston and Jimmy Kimmel?",
+                    "score": 0.5973,
+                    "answers": "Jennifer Aniston , Courteney Cox and Lisa Kudrow|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Having ruled out the return of Friends, one of the comedies that marked time within the television panorama , not even in the form of a film, as rumored for a long time, the anniversary of the beginning of Friends, one of the comedies that marked time within the television panorama has been the perfect excuse for part of cast to meet and recover their characters .",
+            "question_answers": [
+                {
+                    "question": "What was Friends?",
+                    "answer": "one of the comedies that marked time within the television panorama"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Friends first air on television?",
+                    "score": 0.7349,
+                    "answers": "Having ruled out the return of Friends , one of the comedies that marked time within the television panorama , not even in the form of a film , as rumored for a long time , the anniversary of the beginning of Friends ,|advcl\tthe return of Friends , one of the comedies that marked time within the television panorama , not even in the form of a film , as rumored for a long time , the anniversary of the beginning of Friends ,|dobj\tof Friends , one of the comedies that marked time within the television panorama , not even in the form of a film , as rumored for a long time , the anniversary of the beginning of Friends ,|prep\tFriends , one of the comedies that marked time within the television panorama , not even in the form of a film , as rumored for a long time , the anniversary of the beginning of Friends ,|pobj\tone of the comedies that marked time within the television panorama , not even in the form of a film|appos\tof the comedies that marked time within the television panorama , not even in the form of a film|prep\tthe comedies that marked time within the television panorama , not even in the form of a film|pobj\tthat marked time within the television panorama , not even in the form of a film|relcl\ttime within the television panorama|dobj\twithin the television panorama|prep\ttelevision|compound\tthe television panorama|pobj\tthe form of a film|pobj\ta long time|pobj\tthe anniversary of the beginning of Friends|appos\tof the beginning of Friends|prep\tthe beginning of Friends|pobj\tof Friends|prep\tone of the comedies that marked time within the television panorama|nsubj\tof the comedies that marked time within the television panorama|prep\tthe comedies that marked time within the television panorama|pobj\tthat marked time within the television panorama|relcl\ttime within the television panorama|dobj\twithin the television panorama|prep\ttelevision|compound\tthe television panorama|pobj\tthat Having ruled out the return of Friends , one of the comedies that marked time within the television panorama , not even in the form of a film , as rumored for a long time , the anniversary of the beginning of Friends , one of the comedies that marked time within the television panorama has been the perfect excuse for part of cast to meet and recover their characters|ccomp"
+                },
+                {
+                    "question": "How long did it take to meet and recover Friends characters?",
+                    "score": 0.6265,
+                    "answers": "long|amod"
+                },
+                {
+                    "question": "What was the purpose of Friends?",
+                    "score": 0.5934,
+                    "answers": "the perfect excuse for part of cast to meet and recover their characters|attr"
+                },
+                {
+                    "question": "What is the relationship between the cast and the characters of Friends?",
+                    "score": 0.5784,
+                    "answers": "their characters|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Such a circumstance has occurred in the program Jimmy Kimmel Live! .",
+            "question_answers": [
+                {
+                    "question": "What website reported on theoccurrence of such a circumstance in Jimmy Kimmel Live?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Jimmy Kimmel Live?",
+                    "score": 0.7624,
+                    "answers": "elpais.com reported on 28/08/2014 that Such a circumstance has occurred in the program Jimmy Kimmel Live !|ROOT\ton 28/08/2014|prep\tthat|mark\tSuch|predet\ta|det\tSuch a circumstance|nsubj\thas|aux\tthat Such a circumstance has occurred in the program Jimmy Kimmel Live|ccomp\tin the program Jimmy Kimmel Live|prep\tthe|det\tthe program Jimmy Kimmel Live|pobj\tJimmy|compound\tLive|advmod\t!|punct"
+                }
+            ]
+        },
+        {
+            "claim": "In an interview with Jennifer Aniston , Jimmy KimmelThe proposes that Jennifer Aniston read with Jimmy KimmelThe some lines of script written by himself years ago from the characters of the series .",
+            "question_answers": [
+                {
+                    "question": "Who did Jimmy Kimmel interview on elpais.com?",
+                    "answer": "Jennifer Aniston"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jimmy Kimmel say about Jennifer Aniston and Jimmy Kimmel?",
+                    "score": 0.7176,
+                    "answers": "elpais.com reported on 28/08/2014 that In an interview with Jennifer Aniston , Jimmy KimmelThe proposes that Jennifer Aniston read with Jimmy KimmelThe some lines of script written by himself years ago from the characters of the series|ROOT"
+                },
+                {
+                    "question": "How many lines of script did Jimmy Kimmel write with Jennifer Aniston?",
+                    "score": 0.7069,
+                    "answers": "that In an interview with Jennifer Aniston , Jimmy KimmelThe proposes that Jennifer Aniston read with Jimmy KimmelThe some lines of script written by himself years ago from the characters of the series|ccomp"
+                },
+                {
+                    "question": "Who wrote the script for the characters of Jimmy Kimmel's series?",
+                    "score": 0.7008,
+                    "answers": "by himself|agent"
+                },
+                {
+                    "question": "What was the relationship between Jimmy Kimmel and Jennifer Aniston?",
+                    "score": 0.6408,
+                    "answers": "with Jimmy KimmelThe|prep"
+                },
+                {
+                    "question": "Who is Jimmy Kimmel?",
+                    "score": 0.6028,
+                    "answers": "Jimmy|compound\tJimmy|compound\thimself|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "To do read , the program Jimmy Kimmel Live! had recreated the iconic kitchen of the apartment in which Monica and Rachel lived in the fiction of the American NBC network.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report that Jimmy Kimmel Live! recreated the iconic kitchen of the apartment in which Monica and Rachel lived?",
+                    "answer": "To do read"
+                },
+                {
+                    "question": "What did elpais.com report that Jimmy Kimmel Live! recreated the iconic kitchen of the apartment in which Monica and Rachel lived?",
+                    "answer": "To do read"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Monica and Rachel live during Jimmy Kimmel Live!?",
+                    "score": 0.7321,
+                    "answers": "in which Monica and Rachel lived|relcl"
+                },
+                {
+                    "question": "Who was Monica and Rachel living in the fiction of the American NBC network?",
+                    "score": 0.6374,
+                    "answers": "Monica and Rachel|nsubj"
+                },
+                {
+                    "question": "What is Jimmy Kimmel Live!?",
+                    "score": 0.6072,
+                    "answers": "To do read|advcl\tread|dep\tthe program Jimmy Kimmel Live !|nsubj\tJimmy|compound\tLive|advmod\tin the fiction of the American NBC network|prep\tthe fiction of the American NBC network|pobj\tof the American NBC network|prep"
+                },
+                {
+                    "question": "What is the name of the apartment that Monica and Rachel lived in?",
+                    "score": 0.6012,
+                    "answers": "elpais.com reported on 28/08/2014 that To do read , the program Jimmy Kimmel Live ! had recreated the iconic kitchen of the apartment in which Monica and Rachel lived in the fiction of the American NBC network|ROOT\ton 28/08/2014|prep\tthat To do read , the program Jimmy Kimmel Live ! had recreated the iconic kitchen of the apartment in which Monica and Rachel lived in the fiction of the American NBC network|ccomp\tthe iconic kitchen of the apartment in which Monica and Rachel lived|dobj\tof the apartment in which Monica and Rachel lived|prep\tthe apartment in which Monica and Rachel lived|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "While Anniston and Kimmel (in the role of Ross) read some lines of script written by himself years ago from the characters of the series , and to the surprise of the spectators, Jennifer Aniston, Courteney Cox and Lisa Kudrow made Courteney Cox on stage at their appearance .",
+            "question_answers": [
+                {
+                    "question": "Where did Anniston and Kimmel read some lines of script written by themselves years ago?",
+                    "answer": "the characters of the series"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Anniston and Kimmel read the script for the role of Ross?",
+                    "score": 0.7984,
+                    "answers": "While Anniston and Kimmel ( in the role of Ross ) read some lines of script written by himself years ago from the characters of the series , and to the surprise of the spectators|advcl\tthat While Anniston and Kimmel ( in the role of Ross ) read some lines of script written by himself years ago from the characters of the series , and to the surprise of the spectators , Jennifer Aniston , Courteney Cox and Lisa Kudrow made Courteney Cox on stage at their appearance|ccomp"
+                },
+                {
+                    "question": "How did the audience react to the appearance of Anniston and Kimmel?",
+                    "score": 0.6788,
+                    "answers": "to the surprise of the spectators|conj"
+                },
+                {
+                    "question": "What role did Anniston and Kimmel play in the show?",
+                    "score": 0.6785,
+                    "answers": "Anniston and Kimmel ( in the role of Ross )|nsubj"
+                },
+                {
+                    "question": "How many lines of script did Anniston read from the characters of the series?",
+                    "score": 0.644,
+                    "answers": "some lines of script written by himself years ago from the characters of the series|dobj"
+                },
+                {
+                    "question": "What was the name of the script written by Anniston and Kimmel?",
+                    "score": 0.5696,
+                    "answers": "Jennifer Aniston , Courteney Cox and Lisa Kudrow|nsubj\tCourteney|compound\tCourteney|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Courteney Cox only lasted a few seconds, but long enough for their appearance to have gone around the world.",
+            "question_answers": [
+                {
+                    "question": "Who reported on Courteney Cox's appearance on 28/08/2014?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did Cox and Cox last together?",
+                    "score": 0.7278,
+                    "answers": "that Courteney Cox only lasted a few seconds , but long enough for their appearance to have gone around the world|ccomp"
+                },
+                {
+                    "question": "How long was Courteney Cox's appearance in the world?",
+                    "score": 0.7166,
+                    "answers": "a few seconds , but long enough for their appearance to have gone around the world|npadvmod"
+                },
+                {
+                    "question": "How long did Courteney Cox live in the world?",
+                    "score": 0.699,
+                    "answers": "elpais.com reported on 28/08/2014 that Courteney Cox only lasted a few seconds , but long enough for their appearance to have gone around the world|ROOT\ton 28/08/2014|prep\tthat|mark\tCourteney|compound\tonly|advmod\ta|det\tfew|amod\t,|punct\ttheir|poss\ttheir appearance|nsubj\tto|aux\thave|aux\taround the world|prep\tthe|det\tthe world|pobj"
+                },
+                {
+                    "question": "How long did it take for Courteney Cox's appearance to last?",
+                    "score": 0.6766,
+                    "answers": "but long enough for their appearance to have gone around the world|cc\tlong enough for their appearance to have gone around the world|advmod\tfor their appearance to have gone around the world|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, and also on the occasion of the anniversary of the beginning of Friends, one of the comedies that marked time within the television panorama , the legendary Central Perk, the coffee frequented by the six New York friends, will be recreated in Manhattan.",
+            "question_answers": [
+                {
+                    "question": "What was Friends a part of?",
+                    "answer": "television panorama"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Friends first shown on television?",
+                    "score": 0.6277,
+                    "answers": "Friends , one of the comedies that marked time within the television panorama|pobj"
+                },
+                {
+                    "question": "When was the Central Perk built?",
+                    "score": 0.5914,
+                    "answers": "on 28/08/2014|prep\twill|aux"
+                },
+                {
+                    "question": "When was the beginning of Friends?",
+                    "score": 0.589,
+                    "answers": "the beginning of Friends , one of the comedies that marked time within the television panorama|pobj"
+                },
+                {
+                    "question": "How many friends did the six New York friends invite to the Central Perk?",
+                    "score": 0.5831,
+                    "answers": "by the six New York friends|agent"
+                },
+                {
+                    "question": "What was the purpose of the Central Perk on the anniversary of Friends?",
+                    "score": 0.5406,
+                    "answers": "on the occasion of the anniversary of the beginning of Friends , one of the comedies that marked time within the television panorama|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Although the coffee shop that appears in fiction does not exist in New York, for a month Warner Bros will open the doors of a replica, which can be visited between the next  of September and the  of October.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the coffee shop that appears in fiction does not exist in New York?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Warner Brothers open a new coffee shop in New York?",
+                    "score": 0.779,
+                    "answers": "  of September and the   of October|dep\tof September and the   of October|prep\tthe   of October|dep\tof October|prep"
+                },
+                {
+                    "question": "What is the date of Warner Bros' replica coffee shop opening in New York?",
+                    "score": 0.6201,
+                    "answers": "September|pobj\tOctober|pobj"
+                },
+                {
+                    "question": "What is the name of the replica of Warner Bros coffee shop that appears in fiction?",
+                    "score": 0.617,
+                    "answers": "on 28/08/2014|prep\twhich can be visited between the next|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The cafeteria will be located at  on Lafayette Street in New York.",
+            "question_answers": [
+                {
+                    "question": "Where will the cafeteria be located?",
+                    "answer": "Lafayette Street"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is the cafeteria located in New York?",
+                    "score": 0.8257,
+                    "answers": "The cafeteria|nsubjpass"
+                },
+                {
+                    "question": "Where is Lafayette Street located?",
+                    "score": 0.7923,
+                    "answers": "Lafayette Street in New York|pobj"
+                },
+                {
+                    "question": "Where is Lafayette Street?",
+                    "score": 0.7417,
+                    "answers": "on Lafayette Street in New York|prep"
+                },
+                {
+                    "question": "What is the location of the new school?",
+                    "score": 0.7083,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is the name of the library where the new cafeteria will be located?",
+                    "score": 0.6708,
+                    "answers": "Lafayette|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In it, visitors will be able to taste a coffee while taking photos on the famous sofa where they sat Ross, Joey, Chandler, Monica, Rachel and Phoebe and listen to music related to the series, such as Phoebe's mythical Smelly cat creation.",
+            "question_answers": [
+                {
+                    "question": "Who reported that visitors will be able to taste a coffee while taking photos on the famous sofa?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Ross, Chandler, Monica, Rachel and Phoebe take a coffee while taking photos on the famous sofa where they sat?",
+                    "score": 0.6891,
+                    "answers": "while taking photos on the famous sofa where they sat Ross , Joey , Chandler , Monica , Rachel and Phoebe|advcl"
+                },
+                {
+                    "question": "Where did Ross, Joey, Chandler, Monica, Rachel, and Phoebe meet?",
+                    "score": 0.656,
+                    "answers": "on the famous sofa where they sat Ross , Joey , Chandler , Monica , Rachel and Phoebe|prep\tthe famous sofa where they sat Ross , Joey , Chandler , Monica , Rachel and Phoebe|pobj"
+                },
+                {
+                    "question": "What kind of cat is the Smelly Cat?",
+                    "score": 0.647,
+                    "answers": "Smelly cat|compound"
+                },
+                {
+                    "question": "What is phoebe's mythical cat creation?",
+                    "score": 0.5948,
+                    "answers": "Joey , Chandler , Monica , Rachel and Phoebe|conj\tChandler , Monica , Rachel and Phoebe|conj\tsuch as Phoebe 's mythical Smelly cat creation|prep\tPhoebe 's mythical Smelly cat creation|pobj"
+                },
+                {
+                    "question": "What is Phoebe's mythical cat creation?",
+                    "score": 0.5948,
+                    "answers": "to music related to the series , such as Phoebe 's mythical Smelly cat creation|prep\tmusic related to the series , such as Phoebe 's mythical Smelly cat creation|pobj\tPhoebe 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, James Michael Tyler, who played Gunther in fiction, will also sometimes be behind the coffee bar.",
+            "question_answers": [
+                {
+                    "question": "Who reported that James Michael Tyler will sometimes be behind the coffee bar?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who played Gunther in fiction?",
+                    "score": 0.7963,
+                    "answers": "James Michael Tyler , who played Gunther in fiction ,|nsubj\twho played Gunther in fiction|relcl"
+                },
+                {
+                    "question": "What type of fiction is James Michael Tyler known for?",
+                    "score": 0.7815,
+                    "answers": "fiction|pobj"
+                },
+                {
+                    "question": "Where did James Michael Tyler play Gunther in fiction?",
+                    "score": 0.772,
+                    "answers": "that In addition , James Michael Tyler , who played Gunther in fiction , will also sometimes be behind the coffee bar|ccomp"
+                },
+                {
+                    "question": "What is James Michael Tyler's role in Gunther in fiction?",
+                    "score": 0.6593,
+                    "answers": "elpais.com reported on 28/08/2014 that In addition , James Michael Tyler , who played Gunther in fiction , will also sometimes be behind the coffee bar|ROOT\tsometimes|advmod"
+                },
+                {
+                    "question": "Who is James Michael Tyler?",
+                    "score": 0.6282,
+                    "answers": "on 28/08/2014|prep\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\tJames|compound\tMichael|compound\t,|punct\twho|nsubj\tin fiction|prep\t,|punct\twill|aux\talso|advmod\tthe|det"
+                }
+            ]
+        }
+    ]
+}

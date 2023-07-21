@@ -1,0 +1,283 @@
+{
+    "id": "17_Security_195",
+    "claim": "A graphic comedian was slightly injured after being shot by three fans of Maluma. The cartoonist Julián Torreblanca, better known as Colorín, had published a caricature of the Colombian singer in a musical magazine a few days ago, partly animated by the fact that some tweeps had told him 'with Maluma there are no eggs ', thus challenging him to publish the drawing. After the publication, early in the morning, three hooded fans entered the home of the cartoonist, located in Soria, to the cry of 'Maluma is great! ', shooting at Colorín. According to the couple of the assaulted, before leaving the crime scene one of them said 'I'm going to be happy, I'm going to be happy, happy loh four ', a verse well known among the Malumethanes. The director of the newspaper that published the portrait of Maluma claims that this attack will not achieve its purpose, which is nothing other than the malumization of the West. 'We will not kneel before Latin music ', he said in a statement. 'We will continue to make use of freedom of expression until our daughters and sons can go out on the street and get their ass in pomp without fear that someone will perish with them ', he added. The violent Reguetonic State is an extremist branch of panchanguism that promotes the ideas that Maluma is its prophet. As such, he interprets as an offense any cartoon drawing of his idol. Instead, it has no problem with studio and shirtless images that publish several musical magazines, with which it is intended to capture new followers. I'm sorry.",
+    "source": "www.elmundotoday.com",
+    "date": "27/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A graphic comedian was slightly injured after being shot by three fans of Maluma .",
+            "question_answers": [
+                {
+                    "question": "What was the profession of Maluma?",
+                    "answer": "graphic comedian"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Was the graphic comedian injured by three fans of Maluma?",
+                    "score": 0.8884,
+                    "answers": "A graphic comedian|nsubjpass\twas|auxpass\tslightly|advmod\tthat A graphic comedian was slightly injured after being shot by three fans of Maluma|ccomp\tbeing|auxpass\tby three fans of Maluma|agent"
+                }
+            ]
+        },
+        {
+            "claim": "A graphic comedian , had published a caricature of the Colombian singer in a musical magazine a few days ago, partly animated by the fact that some tweeps had told A graphic comedian 'with Maluma there are no eggs ', thus challenging A graphic comedian to publish a caricature of the Colombian singer .",
+            "question_answers": [
+                {
+                    "question": "Who published a caricature of the Colombian singer in a musical magazine?",
+                    "answer": "A graphic comedian"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did a graphic comedian say about Maluma in a musical magazine?",
+                    "score": 0.7653,
+                    "answers": "in a musical magazine|prep"
+                },
+                {
+                    "question": "What is the name of the magazine that a graphic comedian published a parody of Maluma?",
+                    "score": 0.7058,
+                    "answers": "musical|amod\ta musical magazine|pobj"
+                },
+                {
+                    "question": "How many eggs does Maluma have?",
+                    "score": 0.7009,
+                    "answers": "there are no eggs|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "After published , early in the morning, three fans of Maluma entered the home of A graphic comedian , located in Soria, to the cry of 'Maluma is great! ', shooting at A graphic comedian .",
+            "question_answers": [
+                {
+                    "question": "What is the profession of Maluma?",
+                    "answer": "graphic comedian"
+                },
+                {
+                    "question": "What is the profession of Maluma?",
+                    "answer": "graphic comedian"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Maluma shooting at a graphic comedian?",
+                    "score": 0.7268,
+                    "answers": "shooting at A graphic comedian|advcl"
+                },
+                {
+                    "question": "What did Maluma say to a graphic comedian?",
+                    "score": 0.7037,
+                    "answers": "to the cry of ' Maluma is great ! '|prep"
+                },
+                {
+                    "question": "Where is Maluma's home?",
+                    "score": 0.644,
+                    "answers": "the home of A graphic comedian , located in Soria|dobj\tA graphic comedian , located in Soria|pobj\tlocated in Soria|acl\tin Soria|prep"
+                },
+                {
+                    "question": "What is Maluma's career?",
+                    "score": 0.6368,
+                    "answers": "graphic|amod\tgraphic|amod"
+                },
+                {
+                    "question": "What was the name of the graphic comedian Maluma was shooting at?",
+                    "score": 0.6361,
+                    "answers": "on 27/06/2018|prep\tthe morning|pobj\tgreat|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "According to the couple of the assaulted, before leaving the crime scene one of them said 'one of them 'm going to be happy, one of them 'm going to be happy, happy loh four ', a verse well known among the Malumethanes.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Who was assaulted at the crime scene?",
+                    "score": 0.6951,
+                    "answers": "the assaulted|pobj"
+                },
+                {
+                    "question": "What did Malumethanes say about the crime scene?",
+                    "score": 0.6811,
+                    "answers": "crime|compound"
+                },
+                {
+                    "question": "What did the Malumethanes say before the crime scene?",
+                    "score": 0.6447,
+                    "answers": "one of them ' m going to be happy , one of them ' m going to be happy , happy loh four ' , a verse well known among the Malumethanes|ccomp"
+                },
+                {
+                    "question": "What was the relationship between the couple assaulted?",
+                    "score": 0.5934,
+                    "answers": "According to the couple of the assaulted|prep\tto the couple of the assaulted|prep\tthe couple of the assaulted|pobj"
+                },
+                {
+                    "question": "What is the meaning of the song \"one of them will be happy, happy loh four?",
+                    "score": 0.5815,
+                    "answers": "to be happy|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "The director of the newspaper that published the portrait of Maluma claims that shooting will not achieve purpose, which is nothing other than the malumization of the West.",
+            "question_answers": [
+                {
+                    "question": "What did the director of the newspaper that published the portrait of Maluma claim that shooting will not achieve?",
+                    "answer": "the malumization of the West"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Maluma say about shooting?",
+                    "score": 0.7519,
+                    "answers": "www.elmundotoday.com reported on 27/06/2018 that The director of the newspaper that published the portrait of Maluma claims that shooting will not achieve purpose , which is nothing other than the malumization of the West|ROOT\ton 27/06/2018|prep\tthat|mark\tThe|det\tthe|det\tthat|nsubj\tthat published the portrait of Maluma|relcl\tthe|det\tthe portrait of Maluma|dobj\tof Maluma|prep\tthat|mark\tshooting|nsubj\twill|aux\tnot|neg\t,|punct\twhich|nsubj\tthe|det\tof the West|prep\tthe|det"
+                },
+                {
+                    "question": "What is the purpose of shooting?",
+                    "score": 0.6918,
+                    "answers": "that The director of the newspaper that published the portrait of Maluma claims that shooting will not achieve purpose , which is nothing other than the malumization of the West|ccomp\tthat shooting will not achieve purpose , which is nothing other than the malumization of the West|ccomp\tpurpose , which is nothing other than the malumization of the West|dobj"
+                },
+                {
+                    "question": "What is the name of the newspaper that published the portrait of Maluma?",
+                    "score": 0.5975,
+                    "answers": "of the newspaper that published the portrait of Maluma|prep\tthe newspaper that published the portrait of Maluma|pobj"
+                },
+                {
+                    "question": "What is the Malumization of the West?",
+                    "score": 0.5832,
+                    "answers": "which is nothing other than the malumization of the West|relcl\tnothing other than the malumization of the West|attr\tother than the malumization of the West|amod\tthan the malumization of the West|prep\tthe malumization of the West|pobj\tthe West|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We will not kneel before Latin music ', The director of the newspaper that published the portrait of Maluma said in a statement.",
+            "question_answers": [
+                {
+                    "question": "What did www.elmundotoday.com report on 27/06/2018?",
+                    "answer": "'We will not kneel before Latin music"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of music is Latin music?",
+                    "score": 0.8931,
+                    "answers": "Latin music|pobj"
+                },
+                {
+                    "question": "What did Maluma say about Latin music?",
+                    "score": 0.8578,
+                    "answers": "before Latin music|prep"
+                },
+                {
+                    "question": "What did the director of the newspaper that published the portrait of Maluma say about kneeling before Latin music?",
+                    "score": 0.7767,
+                    "answers": "'|punct\twill|aux\t'|punct\t,|punct\ta|det\ta statement|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We will continue to make use of freedom of expression until our daughters and sons can go out on the street and get ass in pomp without fear that someone will perish with our daughters and sons ', The director of the newspaper that published the portrait of Maluma added.",
+            "question_answers": [
+                {
+                    "question": "How long did Elmundotoday.com say they would continue to make use of freedom of expression?",
+                    "answer": "until our daughters and sons can go out on the street and get ass in pomp without fear that someone will perish with our daughters and sons"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Maluma say about freedom of expression?",
+                    "score": 0.7372,
+                    "answers": "www.elmundotoday.com|nsubj\twww.elmundotoday.com reported on 27/06/2018 that ' We will continue to make use of freedom of expression until our daughters and sons can go out on the street and get ass in pomp without fear that someone will perish with our daughters and sons '|ccomp\ton 27/06/2018|prep\tthat|mark\t'|punct\tWe|nsubj\twill|aux\tthat ' We will continue to make use of freedom of expression until our daughters and sons can go out on the street and get ass in pomp without fear that someone will perish with our daughters and sons|ccomp\tto|aux\tto make use of freedom of expression|xcomp\tuse|dobj\tof freedom of expression|prep\tfreedom of expression|pobj\tof expression|prep\texpression|pobj\tuntil|mark\tour|poss\tour daughters and sons|nsubj\tand|cc\tsons|conj\tcan|aux\tuntil our daughters and sons can go out on the street and get ass in pomp without fear that someone will perish with our daughters and sons|advcl\tout|advmod\ton the street|prep\tthe|det\tthe street|pobj\tand|cc\tget ass in pomp without fear that someone will perish with our daughters and sons|conj\tass|dobj\tin pomp|prep\tpomp|pobj\twithout fear that someone will perish with our daughters and sons|prep\tfear that someone will perish with our daughters and sons|pobj\tthat|mark\tsomeone|nsubj\twill|aux\tthat someone will perish with our daughters and sons|acl\twith our daughters and sons|prep\tour|poss\tour daughters and sons|pobj\tand|cc\tsons|conj\t'|punct\t,|punct\tThe|det\tthe|det\tthat|nsubj\tthe|det\tthe portrait of Maluma|dobj\tof Maluma|prep\twww.elmundotoday.com reported on 27/06/2018 that ' We will continue to make use of freedom of expression until our daughters and sons can go out on the street and get ass in pomp without fear that someone will perish with our daughters and sons ' , The director of the newspaper that published the portrait of Maluma added|ROOT"
+                },
+                {
+                    "question": "Who published the portrait of Maluma?",
+                    "score": 0.6744,
+                    "answers": "The director of the newspaper that published the portrait of Maluma|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The violent Reguetonic State is an extremist branch of panchanguism that promotes the ideas that Maluma is prophet.",
+            "question_answers": [
+                {
+                    "question": "What type of branch of panchanguism is the Reguetonic State?",
+                    "answer": "extremist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How violent is Reguetonic State?",
+                    "score": 0.8081,
+                    "answers": "violent|amod"
+                },
+                {
+                    "question": "What does Reguetonic state promote the ideas that Maluma is prophet?",
+                    "score": 0.8045,
+                    "answers": "that|mark\textremist|amod\tthat|nsubj\tthe|det\tthat|mark"
+                },
+                {
+                    "question": "What does the Reguetonic state promote?",
+                    "score": 0.7501,
+                    "answers": "that promotes the ideas that Maluma is prophet|relcl"
+                },
+                {
+                    "question": "What is the name of the radical branch of panchanguism that promotes Maluma is prophet?",
+                    "score": 0.6774,
+                    "answers": "on 27/06/2018|prep"
+                },
+                {
+                    "question": "What is Maluma's role in the Reguetonic state?",
+                    "score": 0.6523,
+                    "answers": "that Maluma is prophet|acl"
+                }
+            ]
+        },
+        {
+            "claim": "As such, he interprets as an offense any cartoon drawing of his idol.",
+            "question_answers": [
+                {
+                    "question": "What did he interpret as an offense?",
+                    "answer": "any cartoon drawing"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the meaning of this cartoon?",
+                    "score": 0.768,
+                    "answers": "an offense|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the cartoon of an idol being made by a cartoon artist?",
+                    "score": 0.737,
+                    "answers": "any cartoon drawing of his idol|dobj"
+                },
+                {
+                    "question": "What is the website \"elmundotoday.com\"?",
+                    "score": 0.6897,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Instead, it has no problem with studio and shirtless images that publish several musical magazines, with which it is intended to capture new followers.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What type of music magazines are there?",
+                    "score": 0.8308,
+                    "answers": "musical|amod"
+                },
+                {
+                    "question": "What is the purpose of the musical magazines?",
+                    "score": 0.6992,
+                    "answers": "that publish several musical magazines , with which it is intended to capture new followers|relcl\tseveral musical magazines , with which it is intended to capture new followers|dobj"
+                },
+                {
+                    "question": "What is the relationship between studio and shirtless images?",
+                    "score": 0.6347,
+                    "answers": "studio and shirtless|nmod"
+                }
+            ]
+        }
+    ]
+}

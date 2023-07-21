@@ -1,0 +1,573 @@
+{
+    "id": "97_Society_70",
+    "claim": "The mayor orders the police to change their tactics following reports of racial detentionsThe arrests in New York for possession and use of marijuana are very little more than a thing of the past. Mayor Bill de Blasio gives a month to his Police Department (NYPD) to reform the tactics that follow in repressing those who smoke cannabis in public areas. The change is announced after statistics reveal clear racial discrimination in detentions. NYPD made arrests last year related to possession or use of marijuana. It is a much lower figure than  arrests in , to a large extent because for the past three years summonses have been issued – fines – that do not create criminal record. This allowed arrests throughout the city to be reduced by % when compared to  figures. But statistics show that % of detainees are Black or of Latino origin. In other words, people of color are eight times more likely to be arrested than a target, even though the level of consumption is similar. NYPD Chief Commissioner James O'Neill denies that his police officers act in a 'racial pattern ', although he does admit that practices should be reviewed. The purpose, he explained, is to concentrate police action on cases that pose a risk to public security, while achieving an application that is consistent with the values of justice, in order to strengthen the 'confidence 'of communities in the work of the agents. 'We must end unnecessary detentions and the disparity in the application of laws ', insisted the mayor. 'This disparity is intolerable ', denounces Reverend Al Sharpton, 'must end'. The debate about police action happens while the State of New York tries to decide to legalize marijuana. Manhattan District Attorneys Cyrus Vance and Brooklyn Attorney Eric González also announced that since August they will not prosecute most people arrested for using grass. 'The double mission of the prosecutor's office ', says Vance, 'is a safe city and a more equitable judicial system. Predominant arrests and criminal proceedings against Blacks and Hispanics do not serve these objectives'. González adds that more needs to be done to ensure that the system is fair. But it also points out that a number of exceptions must be made in the field of security. New York Governor Andrew Cuomo wants to form a group to study the benefits of legalization of marijuana. Cannabis is seen less and less as a gateway to drug use. In parallel, it is estimated that it could contribute more than  millions of dollars in tax revenues to the city and others  millions to the state as a whole. I'm sorry.",
+    "source": "elpais.com",
+    "date": "16/05/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The mayor orders the police to change their tactics following reports of racial detentionsThe arrests in New York for possession and use of marijuana are very little more than a thing of the past.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the mayor orders the police to change their tactics after reports of racial detentions?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many arrests were there in New York for possession and use of marijuana?",
+                    "score": 0.7612,
+                    "answers": "their tactics|dobj"
+                },
+                {
+                    "question": "Why did the mayor order the police to change their tactics?",
+                    "score": 0.7368,
+                    "answers": "that The mayor orders the police to change their tactics following reports of racial detentionsThe|ccomp"
+                },
+                {
+                    "question": "What were the arrests of marijuana possession and use in New York in 2018?",
+                    "score": 0.7123,
+                    "answers": "arrests in New York for possession and use of marijuana|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The mayor gives a month to his Police Department (NYPD) to reform their tactics .",
+            "question_answers": [
+                {
+                    "question": "Who reported that the mayor gave a month to his Police Department to reform their tactics?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the mayor give to his police department in 2018?",
+                    "score": 0.6847,
+                    "answers": "elpais.com reported on 16/05/2018 that The mayor gives a month to reform their tactics to his Police Department ( NYPD )|ROOT\tthat The mayor gives a month to reform their tactics to his Police Department ( NYPD )|ccomp\ta month to reform their tactics|dobj\tto his Police Department ( NYPD )|dative\this Police Department ( NYPD )|pobj"
+                },
+                {
+                    "question": "What is the purpose of the New York Police Department (NYPD)?",
+                    "score": 0.6556,
+                    "answers": "to reform their tactics|acl"
+                },
+                {
+                    "question": "What is the relationship between mayor of New York and the NYPD?",
+                    "score": 0.608,
+                    "answers": "on 16/05/2018|prep\tthat|mark\ta|det\t(|punct\t)|punct\tto|aux\ttheir|poss"
+                },
+                {
+                    "question": "What is the name of the police department that the mayor gave a month to?",
+                    "score": 0.5672,
+                    "answers": "Police|compound"
+                }
+            ]
+        },
+        {
+            "claim": "reform is announced after statistics reveal clear racial discrimination in detentions.",
+            "question_answers": [
+                {
+                    "question": "Who reported that reform was announced after statistics reveal clear racial discrimination in detentions?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the statistics of racial discrimination in detentions?",
+                    "score": 0.8335,
+                    "answers": "statistics|nsubj"
+                },
+                {
+                    "question": "How many detentions were there in 2018?",
+                    "score": 0.802,
+                    "answers": "detentions|pobj"
+                },
+                {
+                    "question": "What is the reform for detentions?",
+                    "score": 0.7158,
+                    "answers": "that reform is announced after statistics reveal clear racial discrimination in detentions|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "his Police Department (NYPD) made arrests last year related to possession or use of marijuana.",
+            "question_answers": [
+                {
+                    "question": "What website reported that the NYPD made arrests for possession or use of marijuana?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What arrests were made in New York last year related to possession or use of marijuana?",
+                    "score": 0.8881,
+                    "answers": "arrests related to possession or use of marijuana|dobj"
+                },
+                {
+                    "question": "What did the NYPD make arrests for in 2018?",
+                    "score": 0.8634,
+                    "answers": "Police|compound"
+                },
+                {
+                    "question": "What is the relationship between marijuana use and possession of marijuana?",
+                    "score": 0.8263,
+                    "answers": "related to possession or use of marijuana|acl\tpossession or use of marijuana|pobj\tor|cc"
+                },
+                {
+                    "question": "What is the use of marijuana?",
+                    "score": 0.8216,
+                    "answers": "use|conj"
+                },
+                {
+                    "question": "What is the name of the NYPD?",
+                    "score": 0.6915,
+                    "answers": "his Police Department ( NYPD )|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "arrests is a much lower figure than  arrests in , to a large extent because for the past three years summonses have been issued – fines – that do not create criminal record.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report that arrests are a much lower figure than?",
+                    "answer": "arrests in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many arrests were there in Florida in 2018?",
+                    "score": 0.7553,
+                    "answers": "elpais.com reported on 16/05/2018 that arrests is a much lower figure than   arrests in , to a large extent because for the past three years summonses fines that do not create criminal record have been issued – –|ROOT\tthat|mark\tarrests|nsubj\tthat arrests is a much lower figure than|ccomp\ta|det\tmuch|advmod\tthan|prep\tarrests in ,|pobj\tin ,|prep\t,|punct\tto a large extent|prep\ta|det\tlarge|amod\tbecause|mark\tthe|det\tpast|amod\tthree|nummod\tsummonses fines that do not create criminal record|nsubjpass\thave|aux\tbeen|auxpass\t–|punct\tfines|appos\t–|punct\tthat|nsubj\tdo|aux\tnot|neg\tcriminal|amod"
+                },
+                {
+                    "question": "How many arrests have been issued in Florida in the last 3 years?",
+                    "score": 0.7368,
+                    "answers": "because for the past three years summonses fines that do not create criminal record have been issued – –|advcl"
+                },
+                {
+                    "question": "What is the arrest rate for those who do not have a criminal record?",
+                    "score": 0.7096,
+                    "answers": "a much lower figure than|attr\t  arrests in ,|dep\ta large extent|pobj\tfor the past three years|prep\tthat do not create criminal record|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "issued allowed arrests throughout New York to be reduced by % when compared to  figures.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on?",
+                    "answer": "arrests throughout New York to be reduced by %"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many arrests were there in New York in 2018?",
+                    "score": 0.8226,
+                    "answers": "elpais.com reported on 16/05/2018 that issued allowed arrests throughout New York to be reduced by % when compared to   figures|ROOT\ton 16/05/2018|prep\tthat|mark\tissued|nsubj\tthat issued allowed arrests throughout New York to be reduced by % when compared to|ccomp\tarrests throughout New York|nsubjpass\tthroughout New York|prep\tNew|compound\tto|aux\tbe|auxpass\tarrests throughout New York to be reduced by % when compared to|ccomp\tby %|prep\t%|pobj\twhen|advmod\twhen compared to|advcl\tto|prep\t  figures|dep\tfigures|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "But statistics show that % of detainees are Black or of Latino origin.",
+            "question_answers": [
+                {
+                    "question": "What website reported that % of detainees are Black or of Latino origin?",
+                    "answer": "elpais.com"
+                },
+                {
+                    "question": "What showed that % of detainees are Black or of Latino origin?",
+                    "answer": "statistics"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of detainees are black or of Latino origin?",
+                    "score": 0.888,
+                    "answers": "Latino origin|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In other words, people of color are eight times more likely to be arrested than a target, even though the level of consumption is similar.",
+            "question_answers": [
+                {
+                    "question": "How much more likely are people of color to be arrested than a target?",
+                    "answer": "eight times"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the statistics on people of color being arrested?",
+                    "score": 0.7539,
+                    "answers": "on 16/05/2018|prep"
+                },
+                {
+                    "question": "How many people of color are arrested more than a target?",
+                    "score": 0.7444,
+                    "answers": "other|amod\ta|det"
+                },
+                {
+                    "question": "What is the rate of arrest for people of color?",
+                    "score": 0.7312,
+                    "answers": "that|mark\tother words|pobj\t,|punct\tpeople of color|nsubj\tcolor|pobj\ttimes|quantmod\teight times more|advmod\tto|aux\tbe|auxpass\tto be arrested|xcomp\t,|punct\teven|advmod\tthough|mark\tthe|det"
+                },
+                {
+                    "question": "What is the average arrest rate of people of color in 2018?",
+                    "score": 0.7112,
+                    "answers": "eight times|npadvmod"
+                },
+                {
+                    "question": "What is the consumption of people of color?",
+                    "score": 0.6951,
+                    "answers": "In other words|prep\tthe level of consumption|nsubj\teven though the level of consumption is similar|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "NYPD Chief Commissioner James O'Neill denies that police officers act in a 'racial pattern ', although NYPD Chief Commissioner James O'Neill does admit that practices should be reviewed.",
+            "question_answers": [
+                {
+                    "question": "What does the NYPD Chief Commissioner deny that police officers act in?",
+                    "answer": "'racial pattern"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did James O'Neill say about police practices?",
+                    "score": 0.8056,
+                    "answers": "elpais.com reported on 16/05/2018 that NYPD Chief Commissioner James O'Neill denies that police officers act in a ' racial pattern ' , although NYPD Chief Commissioner James O'Neill does admit that practices should be reviewed|ROOT\ton 16/05/2018|prep\tthat|mark\tChief|compound\tNYPD Chief Commissioner James O'Neill|nsubj\tthat NYPD Chief Commissioner James O'Neill denies that police officers act in a ' racial pattern ' , although NYPD Chief Commissioner James O'Neill does admit that practices should be reviewed|ccomp\tthat|mark\tpolice|compound\tpolice officers|nsubj\tthat police officers act in a ' racial pattern|ccomp\ta|det\t'|punct\tracial|amod\t'|punct\t,|punct\talthough|mark\tChief|compound\tNYPD Chief Commissioner James O'Neill|nsubj\tdoes|aux\talthough NYPD Chief Commissioner James O'Neill does admit that practices should be reviewed|advcl\tthat|mark\tpractices|nsubjpass\tshould|aux\tbe|auxpass\tthat practices should be reviewed|ccomp"
+                },
+                {
+                    "question": "What is the racial pattern of NYPD Chief Commissioner James O'Neill?",
+                    "score": 0.73,
+                    "answers": "a ' racial pattern|pobj"
+                },
+                {
+                    "question": "Who is James O'Neill?",
+                    "score": 0.6528,
+                    "answers": "NYPD Chief Commissioner|compound\tNYPD Chief Commissioner|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The purpose, NYPD Chief Commissioner James O'Neill explained, is to concentrate police action on cases that pose a risk to public security, while achieving an application that is consistent with the values of justice, in order to strengthen the 'confidence 'of communities in the work of the agents.",
+            "question_answers": [
+                {
+                    "question": "What did the NYPD hope to strengthen in communities in the work of their agents?",
+                    "answer": "'confidence"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of NYPD Chief Commissioner James O'Neill focusing on cases that pose a risk to public security?",
+                    "score": 0.6297,
+                    "answers": "The purpose|nsubj\tto public security|prep\tpublic|amod\tof communities|prep\tof the agents|prep"
+                },
+                {
+                    "question": "What does elpais.com say about police action?",
+                    "score": 0.5516,
+                    "answers": "the ' confidence ' of communities in the work of the agents|dobj"
+                },
+                {
+                    "question": "What are the values of justice?",
+                    "score": 0.5206,
+                    "answers": "consistent with the values of justice|acomp\tthe values of justice|pobj\tjustice|pobj"
+                },
+                {
+                    "question": "What does elpais.com stand for?",
+                    "score": 0.4742,
+                    "answers": "while achieving an application that is consistent with the values of justice|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "'We must end unnecessary detentions and the disparity in the application of laws ', insisted the mayor.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com say we must end?",
+                    "answer": "unnecessary detentions and the disparity in the application of laws"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many detentions and disparity in application of laws are there?",
+                    "score": 0.6151,
+                    "answers": "We must end unnecessary detentions and the disparity in the application of laws|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'This disparity is intolerable ', denounces Reverend Al Sharpton, 'must end'.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com say about the disparity?",
+                    "answer": "intolerable"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Sharpton say about the disparity in clergy?",
+                    "score": 0.8014,
+                    "answers": "Reverend Al Sharpton|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Al Sharpton's comments on clergy?",
+                    "score": 0.6647,
+                    "answers": "on 16/05/2018|prep"
+                },
+                {
+                    "question": "What is the disparity between Sharpton and Al Sharpton?",
+                    "score": 0.6426,
+                    "answers": "This disparity|nsubj\tThis disparity is intolerable|ccomp"
+                },
+                {
+                    "question": "Who is Reverend Al Sharpton?",
+                    "score": 0.6314,
+                    "answers": "Reverend|compound"
+                },
+                {
+                    "question": "What does elpais.com say about Reverend Al Sharpton?",
+                    "score": 0.6181,
+                    "answers": "elpais.com reported on 16/05/2018 that ' This disparity is intolerable ' , denounces Reverend Al Sharpton , ' must end '|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The debate about police action happens while the State of New York tries to decide to legalize marijuana.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the debate about police action happens while the State of New York tries to decide to legalize marijuana?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many states try to legalize marijuana?",
+                    "score": 0.8826,
+                    "answers": "on 16/05/2018|prep"
+                },
+                {
+                    "question": "What is the source of evidence of New York trying to legalize marijuana?",
+                    "score": 0.848,
+                    "answers": "to decide to legalize marijuana|xcomp"
+                },
+                {
+                    "question": "What is New York's stance on marijuana legalization?",
+                    "score": 0.8273,
+                    "answers": "of New York|prep\tNew York|pobj\twhile the State of New York tries to decide to legalize marijuana|advcl"
+                },
+                {
+                    "question": "What is the name of the state that tried to decide to legalize marijuana?",
+                    "score": 0.824,
+                    "answers": "that The debate about police action happens while the State of New York tries to decide to legalize marijuana|ccomp"
+                },
+                {
+                    "question": "What is the debate about police action in New York?",
+                    "score": 0.7496,
+                    "answers": "The debate about police action|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Manhattan District Attorneys Cyrus Vance and Brooklyn Attorney Eric González also announced that since August they will not prosecute most people arrested for using grass.",
+            "question_answers": [
+                {
+                    "question": "Who announced that they would not prosecute most people arrested for using grass?",
+                    "answer": "Cyrus Vance and Brooklyn Attorney Eric González"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Cyrus Vance and Eric González say about grass arrest?",
+                    "score": 0.6845,
+                    "answers": "Brooklyn Attorney|compound"
+                },
+                {
+                    "question": "How many people are arrested for using grass?",
+                    "score": 0.6349,
+                    "answers": "most people arrested for using grass|dobj"
+                },
+                {
+                    "question": "How many people have been arrested for using grass since August?",
+                    "score": 0.5879,
+                    "answers": "that since August they will not prosecute most people arrested for using grass|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'The double mission of the prosecutor's office ', says Vance, 'is a safe city and a more equitable judicial system.",
+            "question_answers": [
+                {
+                    "question": "What office did elpais.com say has a double mission?",
+                    "answer": "the prosecutor's office"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the role of the prosecutor's office in the judicial system?",
+                    "score": 0.655,
+                    "answers": "judicial|amod"
+                },
+                {
+                    "question": "What is the double mission of the prosecutor's office?",
+                    "score": 0.6414,
+                    "answers": "elpais.com reported on 16/05/2018 that ' The double mission of the prosecutor 's office ' , says Vance , ' is a safe city and a more equitable judicial system|ROOT\ton 16/05/2018|prep\t'|punct\tThe double mission of the prosecutor 's office|nsubj\tof the prosecutor 's office|prep\tthe prosecutor 's|poss\t's|case\tthe prosecutor 's office|pobj\t'|punct\t' , says Vance ,|parataxis\t'|punct\tthat ' The double mission of the prosecutor 's office ' , says Vance , ' is a safe city and a more equitable judicial system|ccomp\ta|det\ta safe city and a more equitable judicial system|attr\ta|det\ta more equitable judicial system|conj"
+                },
+                {
+                    "question": "What is the relationship between the prosecutor's office and the judicial system?",
+                    "score": 0.633,
+                    "answers": "more equitable|amod"
+                },
+                {
+                    "question": "What is the crime rate in Vance?",
+                    "score": 0.6242,
+                    "answers": "safe|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Predominant arrests and criminal proceedings against Blacks and Hispanics do not serve these objectives'.",
+            "question_answers": [
+                {
+                    "question": "What website reported that predominant arrests and criminal proceedings against Blacks and Hispanics did not serve these objectives?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of arrests and criminal proceedings against Blacks and Hispanics?",
+                    "score": 0.7965,
+                    "answers": "that Predominant arrests and criminal proceedings against Blacks and Hispanics do not serve these objectives|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "González adds that more needs to be done to ensure that the system is fair.",
+            "question_answers": [
+                {
+                    "question": "Who reported that González said more needs to be done to ensure that the system is fair?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did González say about the system?",
+                    "score": 0.7258,
+                    "answers": "the system|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But it also points out that a number of exceptions must be made in the field of security.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/05/2018 that a number of exceptions must be made in the field of security?",
+                    "answer": "elpais.com"
+                },
+                {
+                    "question": "What does elpais.com say must be made in the field of security?",
+                    "answer": "a number of exceptions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What exceptions must be made in the field of security?",
+                    "score": 0.7287,
+                    "answers": "exceptions|pobj"
+                },
+                {
+                    "question": "What does elpais.com say about security?",
+                    "score": 0.6042,
+                    "answers": "that|mark\tBut|cc\tout|prt\tthat|mark"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4909,
+                    "answers": "it|nsubj\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "New York Governor Andrew Cuomo wants to form a group to study the benefits of legalization of marijuana.",
+            "question_answers": [
+                {
+                    "question": "Who is the governor of New York?",
+                    "answer": "Andrew Cuomo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the benefits of legalization of marijuana?",
+                    "score": 0.8501,
+                    "answers": "to study the benefits of legalization of marijuana|relcl"
+                },
+                {
+                    "question": "What is Governor Andrew Cuomo's position on marijuana legalization?",
+                    "score": 0.8278,
+                    "answers": "the benefits of legalization of marijuana|dobj\tof legalization of marijuana|prep\tlegalization of marijuana|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Governor Cuomo wanting to study the benefits of marijuana legalization?",
+                    "score": 0.8211,
+                    "answers": "marijuana|pobj"
+                },
+                {
+                    "question": "What is the name of the group that Andrew Cuomo wants to form?",
+                    "score": 0.7201,
+                    "answers": "to form a group to study the benefits of legalization of marijuana|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Cannabis is seen less and less as a gateway to drug use.",
+            "question_answers": [
+                {
+                    "question": "Who reported that cannabis is seen less and less as a gateway to drug use?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of cannabis as a gateway to drug use?",
+                    "score": 0.8497,
+                    "answers": "drug|compound"
+                },
+                {
+                    "question": "What is the relationship between cannabis and drug use?",
+                    "score": 0.8481,
+                    "answers": "elpais.com reported on 16/05/2018 that Cannabis is seen less and less as a gateway to drug use|ROOT\ton 16/05/2018|prep\tthat|mark\tCannabis|nsubjpass\tis|auxpass\tthat Cannabis is seen less and less as a gateway to drug use|ccomp\tless and less|advmod\tand|cc\tless|conj\tas a gateway to drug use|prep\ta|det\ta gateway to drug use|pobj\tto drug use|prep\tdrug use|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In parallel, it is estimated that it could contribute more than  millions of dollars in tax revenues to the city and others  millions to the state as a whole.",
+            "question_answers": [
+                {
+                    "question": "Who reported that it could contribute more than millions of dollars in tax revenues to the city?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money would the city of Tallahassee contribute to the state of Florida?",
+                    "score": 0.8682,
+                    "answers": "the city|pobj"
+                },
+                {
+                    "question": "How much money does the state of Florida contribute to the state?",
+                    "score": 0.8682,
+                    "answers": "the state as a whole|pobj"
+                },
+                {
+                    "question": "How much tax revenue does elpais.com contribute to the city?",
+                    "score": 0.8091,
+                    "answers": "tax revenues|pobj"
+                },
+                {
+                    "question": "How much money is the city of Florida projected to receive from the program?",
+                    "score": 0.7676,
+                    "answers": "on 16/05/2018|prep"
+                }
+            ]
+        }
+    ]
+}

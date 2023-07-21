@@ -1,0 +1,645 @@
+{
+    "id": "48_Science_166",
+    "claim": "The company deletes three applications that added  millions of downloads and will delete user information in  daysFacebook has reported a bug in its system that has allowed access to contact users' information that had been blocked. The error has been detected between the  of May and the  of June and has affected  profiles, as acknowledged by the company. The company has also announced the closure of three applications that added  million downloads. The social network has limited the scope of the error to a single user blocked in the % of profiles and has warned that 'no friendships have been reestablished that had been cut'. During those days, however, they had access to the information of the holders who had expelled them from their social network. The social network has also announced the elimination of three applications for not meeting their usage expectations. It is about Hello, Moves and tbn, programs purchased or launched in the last four years and that, despite having  millions of followers in the case of tbn and  millions of downloads of Moves, will be eliminated in the next  days, including user information. The company has announced the abolition of these three services it began to offer in ,  and last year. Hello, deployed three years ago in Brazil, the United States and Nigeria, allows the user to combine Facebook information with the contact list and displays social network data when receiving a call. The objective was to provide more information to the recipient about who was trying to contact him. However, little more than  users downloaded it and disappeared from the Android store just over a week ago. Moves, acquired by Facebook on , registers and encourages users to maintain an active life by providing travel data on walking, cycling or running. The next  July will be completely eliminated despite attracting the attention of  millions of users. This program has failed to bring together the concept of community linked to the exercise and has been overtaken by other applications available with wider records. The youngest of the evicted apps is tbn, also purchased by Facebook on . It is a social network aimed at high school students who have not had the expected evolution. Facebook has submitted an explanation of the decision taken on these three programs: 'We review our apps to find out which ones are the most valued. Sometimes, this means closure. We know that some people still use them that will be disappointed. We take this opportunity to thank you for your support, but we need to prioritize our work. Only with trial and error will we create great social experiences ',. I'm sorry.",
+    "source": "elpais.com",
+    "date": "03/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The company deletes three applications that added  millions of downloads and will delete user information in  daysFacebook has reported a bug in its system that has allowed access to contact users' information that had been blocked .",
+            "question_answers": [
+                {
+                    "question": "Who reported that Facebook deletes three applications that added millions of downloads and will delete user information in days?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Facebook do to delete user information?",
+                    "score": 0.7332,
+                    "answers": "elpais.com reported on 03/07/2018 that The company deletes three applications that added   millions of downloads and will delete user information in   daysFacebook|ROOT\ton 03/07/2018|prep\tthat|mark\tThe|det\tThe company|nsubj\tthat|nsubj\twill|aux\twill delete user information in|conj\t |dep\thas|aux\ta|det\tin its system|prep\tits|poss\tits system|pobj\tthat|nsubj\thas|aux\tthat has allowed access to contact users ' information that had been blocked|relcl\tto|aux\t'|case\tusers ' information that had been blocked|dobj\tthat|nsubjpass\thad|aux\tbeen|auxpass\tthat had been blocked|relcl"
+                },
+                {
+                    "question": "How many applications did Facebook delete in 2018?",
+                    "score": 0.6929,
+                    "answers": "that The company deletes three applications that added   millions of downloads and will delete user information in|ccomp\tthree applications that added|dobj"
+                },
+                {
+                    "question": "What was the name of the bug in Facebook's system that allowed access to contact users?",
+                    "score": 0.6093,
+                    "answers": "has reported a bug in its system that has allowed access to contact users ' information that had been blocked|ROOT\ta bug in its system that has allowed access to contact users ' information that had been blocked|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "a bug in its system that has allowed access to contact users' information that had been blocked has been detected between the  of May and the  of June and has affected  profiles, as acknowledged by The company .",
+            "question_answers": [
+                {
+                    "question": "Who reported a bug in its system that allowed access to contact users' information that had been blocked?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the bug detected?",
+                    "score": 0.7085,
+                    "answers": "between the   of May and|prep"
+                },
+                {
+                    "question": "What was the name of the bug that affected users' contact information?",
+                    "score": 0.6462,
+                    "answers": "to contact users ' information|xcomp"
+                },
+                {
+                    "question": "What was the result of the bug in elpais.com?",
+                    "score": 0.5581,
+                    "answers": "a|det\ta bug in its system that has allowed access to contact users ' information that had been blocked|nsubjpass\tthat has allowed access to contact users ' information that had been blocked|relcl\thas affected   profiles , as acknowledged by The company|conj\t  profiles , as acknowledged by The company|dep\tas acknowledged by The company|conj"
+                },
+                {
+                    "question": "What was the date of the bug?",
+                    "score": 0.5465,
+                    "answers": "May and|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The company has also announced the closure of three applications that added  millions of downloads .",
+            "question_answers": [
+                {
+                    "question": "Who reported on the closure of three applications that added millions of downloads?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many downloads did elpais.com receive in 2018?",
+                    "score": 0.6541,
+                    "answers": "of downloads|prep"
+                },
+                {
+                    "question": "How many applications did elpais.com announce they closed in 2018?",
+                    "score": 0.642,
+                    "answers": "on 03/07/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The company has limited the scope of a bug in its system that has allowed access to contact users' information that had been blocked to a single user blocked in the % of profiles and has warned that 'no friendships have been reestablished that had been cut'.",
+            "question_answers": [
+                {
+                    "question": "What percentage of profiles were blocked in elpais.com's system?",
+                    "answer": "blocked in the % of profiles"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many users were blocked from using elpais.com?",
+                    "score": 0.6528,
+                    "answers": "that had been blocked to a single user blocked in the % of profiles|relcl\tto a single user blocked in the % of profiles|prep\ta single user blocked in the % of profiles|pobj"
+                },
+                {
+                    "question": "What was the name of the bug that blocked contact with a single user?",
+                    "score": 0.624,
+                    "answers": "blocked in the % of profiles|acl"
+                },
+                {
+                    "question": "What is the scope of a bug in elpais.com's system that allows access to contact users?",
+                    "score": 0.6144,
+                    "answers": "users '|poss\tno friendships|nsubjpass"
+                },
+                {
+                    "question": "What did elpais.com say about the bug?",
+                    "score": 0.6137,
+                    "answers": "has warned that ' no friendships have been reestablished that had been cut '|conj"
+                },
+                {
+                    "question": "What was the purpose of the bug in elpais.com?",
+                    "score": 0.5665,
+                    "answers": "the % of profiles|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "During the  of May and the  of June , however, they had access to the information of the holders who had expelled they from social network.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What information did elpais.com have on holders who were expelled from social network?",
+                    "score": 0.734,
+                    "answers": "that During the   of May and the   of June , however , they had access to the information of the holders who had expelled they from social network|ccomp"
+                },
+                {
+                    "question": "What information was available to holders of social networks in May and June of 2018?",
+                    "score": 0.5742,
+                    "answers": "social|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The company has also announced the elimination of three applications that added  millions of downloads for not meeting usage expectations.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/07/2018 that the company announced the elimination of three applications that added millions of downloads?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the usage expectations for downloading applications?",
+                    "score": 0.7325,
+                    "answers": "not meeting usage expectations|pcomp\tusage expectations|dobj"
+                },
+                {
+                    "question": "How many applications does elpais.com offer?",
+                    "score": 0.6842,
+                    "answers": "that|mark\tThe|det\talso|advmod\tthe|det\tthat|nsubj"
+                },
+                {
+                    "question": "How many downloads did elpais.com add in 2018?",
+                    "score": 0.652,
+                    "answers": "  millions of downloads|dep\tmillions of downloads|dobj\tof downloads|prep\tdownloads|pobj"
+                },
+                {
+                    "question": "How many applications did elpais.com eliminate for not meeting usage expectations?",
+                    "score": 0.6439,
+                    "answers": "the elimination of three applications that added|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "It is about Hello, Moves and tbn , programs purchased or launched in the last four years and that, despite having  millions of followers in the case of tbn and  millions of downloads of Moves , will be eliminated in the next  days, including user information.",
+            "question_answers": [
+                {
+                    "question": "What programs did elpais.com say it was about?",
+                    "answer": "Hello, Moves and tbn"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What programs have been purchased or launched in the last four years?",
+                    "score": 0.7143,
+                    "answers": "programs purchased or launched in the last four years|appos"
+                },
+                {
+                    "question": "How many followers does tbn and tbn have?",
+                    "score": 0.6706,
+                    "answers": "millions of followers in the case of tbn and   millions of downloads of Moves|dobj"
+                },
+                {
+                    "question": "What is the number of followers of tbn?",
+                    "score": 0.6308,
+                    "answers": "on 03/07/2018|prep"
+                },
+                {
+                    "question": "How many followers will tbn have in the next four years?",
+                    "score": 0.6181,
+                    "answers": "next|amod\tdays|npadvmod"
+                },
+                {
+                    "question": "How many users does tbn have?",
+                    "score": 0.6103,
+                    "answers": "Moves and tbn ,|conj\tof Moves|prep\tuser|compound\tuser information|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The company has announced the abolition of three applications that added  millions of downloads .",
+            "question_answers": [
+                {
+                    "question": "Who reported on the abolition of three applications?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many applications did elpais.com offer in 2018?",
+                    "score": 0.6794,
+                    "answers": "on 03/07/2018|prep\tthat|mark\tThe|det\tthe|det\tthe abolition of three applications that added|dobj\tthat|nsubj"
+                },
+                {
+                    "question": "How many applications does elpais.com have?",
+                    "score": 0.6729,
+                    "answers": "has|aux"
+                },
+                {
+                    "question": "How many downloads did elpais.com receive in 2018?",
+                    "score": 0.6654,
+                    "answers": "  millions of downloads|dep\tmillions of downloads|dobj\tof downloads|prep\tdownloads|pobj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4805,
+                    "answers": "The company|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Hello, deployed three years ago in Brazil, the United States and Nigeria, allows the user to combine The company information with the contact list and displays social network data when receiving a call.",
+            "question_answers": [
+                {
+                    "question": "What does Hello display when receiving a call?",
+                    "answer": "social network data"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries has Hello deployed to?",
+                    "score": 0.6616,
+                    "answers": "Brazil , the United States and Nigeria|pobj"
+                },
+                {
+                    "question": "What countries have deployed their own companies?",
+                    "score": 0.657,
+                    "answers": "in Brazil , the United States and Nigeria|prep"
+                },
+                {
+                    "question": "How many times has Hello been deployed in Nigeria?",
+                    "score": 0.6423,
+                    "answers": "Hello , deployed three years ago in Brazil , the United States and Nigeria ,|nsubj\tdeployed three years ago in Brazil , the United States and Nigeria|acl"
+                },
+                {
+                    "question": "What was the purpose of the company that deployed three years ago in Nigeria?",
+                    "score": 0.5699,
+                    "answers": "that Hello , deployed three years ago in Brazil , the United States and Nigeria , allows the user to combine The company information with the contact list and displays social network data when receiving a call|ccomp"
+                },
+                {
+                    "question": "What is the technology used to combine information with contact lists and display social network data?",
+                    "score": 0.5446,
+                    "answers": "the user to combine The company information with the contact list and displays social network data when receiving a call|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The objective was to provide more information to the recipient about who was trying to contact him.",
+            "question_answers": [
+                {
+                    "question": "What was the goal of elpais.com?",
+                    "answer": "to provide more information to the recipient about who was trying to contact him"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of elpais.com?",
+                    "score": 0.5671,
+                    "answers": "who was trying to contact him|pcomp"
+                },
+                {
+                    "question": "What is the objective of elpais.com?",
+                    "score": 0.5434,
+                    "answers": "The objective|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, little more than  users downloaded it and disappeared from the Android store just over a week ago.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/07/2018 that users disappeared from the Android store just over a week ago?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Android disappear from the Android store?",
+                    "score": 0.8559,
+                    "answers": "from the Android store|prep"
+                },
+                {
+                    "question": "When did the Android store disappear?",
+                    "score": 0.83,
+                    "answers": "disappeared from the Android store just over a week ago|conj"
+                },
+                {
+                    "question": "How many users downloaded Android and disappeared from the Android store a week ago?",
+                    "score": 0.7663,
+                    "answers": "little|npadvmod\tthan|prep\tthe|det"
+                },
+                {
+                    "question": "How many users did elpais.com have?",
+                    "score": 0.6342,
+                    "answers": "users|nsubj"
+                },
+                {
+                    "question": "How long did it take for elpais.com to disappear?",
+                    "score": 0.6224,
+                    "answers": "just over a week|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "Moves, acquired by Facebook on , registers and encourages users to maintain an active life by providing travel data on walking, cycling or running.",
+            "question_answers": [
+                {
+                    "question": "What company acquired Moves?",
+                    "answer": "Facebook on"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What kind of travel data does Facebook provide on walking, cycling or running?",
+                    "score": 0.6858,
+                    "answers": "cycling or running|conj"
+                },
+                {
+                    "question": "How active is elpais.com?",
+                    "score": 0.5761,
+                    "answers": "active|amod"
+                },
+                {
+                    "question": "What is the name of the website that offers travel data on walking, cycling, and running?",
+                    "score": 0.5387,
+                    "answers": "running|conj"
+                },
+                {
+                    "question": "What is the purpose of walking, cycling, and running on Facebook?",
+                    "score": 0.5381,
+                    "answers": "to maintain an active life by providing travel data on walking , cycling or running|xcomp"
+                },
+                {
+                    "question": "What is the travel data for walking, cycling, or running?",
+                    "score": 0.5292,
+                    "answers": "on walking , cycling or running|prep\twalking , cycling or running|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The next  July will be completely eliminated despite attracting the attention of  millions of users.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/07/2018 that The next July will be completely eliminated despite attracting the attention of millions of users?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many followers does elpais.com have?",
+                    "score": 0.7645,
+                    "answers": "completely|advmod\tJuly will be completely eliminated despite attracting the attention of|ccomp\tthe attention of|dobj"
+                },
+                {
+                    "question": "How many users does elpais.com have?",
+                    "score": 0.7048,
+                    "answers": "elpais.com reported on 03/07/2018 that The next   July will be completely eliminated despite attracting the attention of   millions of users|ROOT\tthat|mark\tThe|det\twill|aux\tbe|auxpass\tthe|det\tof|prep\t  millions of users|dep\tmillions of users|pobj\tof users|prep\tusers|pobj"
+                },
+                {
+                    "question": "What is the date of the next July?",
+                    "score": 0.6174,
+                    "answers": "July|nsubjpass"
+                },
+                {
+                    "question": "What is the next July?",
+                    "score": 0.6022,
+                    "answers": "The next|amod"
+                }
+            ]
+        },
+        {
+            "claim": "This program has failed to bring together the concept of community linked to the exercise and has been overtaken by other applications available with wider records.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/07/2018 that this program failed to bring together the concept of community linked to the exercise?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the program do to bring together communities linked to the exercise?",
+                    "score": 0.6272,
+                    "answers": "the exercise|pobj"
+                },
+                {
+                    "question": "How many records does the program have?",
+                    "score": 0.5744,
+                    "answers": "available with wider records|amod\twith wider records|prep\twider records|pobj"
+                },
+                {
+                    "question": "What is the relationship between the program linked to the exercise and community linked to it?",
+                    "score": 0.5457,
+                    "answers": "other|amod"
+                },
+                {
+                    "question": "What did elpais.com say about the program?",
+                    "score": 0.5351,
+                    "answers": "on 03/07/2018|prep"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4067,
+                    "answers": "elpais.com reported on 03/07/2018 that This program has failed to bring together the concept of community linked to the exercise and has been overtaken by other applications available with wider records|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The youngest of the evicted apps is tbn, also purchased by Facebook on .",
+            "question_answers": [
+                {
+                    "question": "Who purchased tbn?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many evicted apps have been purchased by Facebook?",
+                    "score": 0.8387,
+                    "answers": "the evicted apps|pobj"
+                },
+                {
+                    "question": "What did Facebook do with the tbn app?",
+                    "score": 0.8054,
+                    "answers": "by Facebook|agent"
+                },
+                {
+                    "question": "What is the youngest evicted app?",
+                    "score": 0.7614,
+                    "answers": "The youngest of the evicted apps|nsubj"
+                },
+                {
+                    "question": "What is the name of the app that Facebook purchased in 2018?",
+                    "score": 0.6831,
+                    "answers": "tbn , also purchased by Facebook on|attr\talso purchased by Facebook on|acl"
+                },
+                {
+                    "question": "What is tbn?",
+                    "score": 0.6689,
+                    "answers": "on 03/07/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It is a social network aimed at high school students who have not had the expected evolution.",
+            "question_answers": [
+                {
+                    "question": "Who is elpais.com aimed at?",
+                    "answer": "high school students"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.5569,
+                    "answers": "a|det"
+                },
+                {
+                    "question": "What is the purpose of elpais.com?",
+                    "score": 0.5524,
+                    "answers": "elpais.com reported on 03/07/2018 that It is a social network aimed at high school students who have not had the expected evolution|ROOT\ton 03/07/2018|prep\tthat|mark\tIt|nsubj\tthat It is a social network aimed at high school students who have not had the expected evolution|ccomp\tsocial|amod\ta social network aimed at high school students who have not had the expected evolution|attr\taimed at high school students who have not had the expected evolution|acl\tat high school students who have not had the expected evolution|prep\thigh|amod\thigh school|compound\thigh school students who have not had the expected evolution|pobj\twho|nsubj\thave|aux\tnot|neg\twho have not had the expected evolution|relcl\tthe|det\texpected|amod\tthe expected evolution|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Facebook has submitted an explanation of the decision taken on these three programs: 'We review our apps to find out which ones are the most valued.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Facebook has submitted an explanation of the decision taken on these three programs?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many apps does Facebook review to find out which ones are the most valued?",
+                    "score": 0.8191,
+                    "answers": "an|det"
+                },
+                {
+                    "question": "How many apps are the most valued according to Facebook?",
+                    "score": 0.7779,
+                    "answers": "' We review our apps to find out which ones are the most valued|ccomp\tmost|advmod"
+                },
+                {
+                    "question": "What did Facebook say about the decision taken on the three programs?",
+                    "score": 0.7646,
+                    "answers": "elpais.com reported on 03/07/2018 that Facebook has submitted an explanation of the decision taken on these three programs : ' We review our apps to find out which ones are the most valued|ROOT\tthe decision taken on these three programs|pobj"
+                },
+                {
+                    "question": "What is Facebook's decision on these three programs?",
+                    "score": 0.723,
+                    "answers": "on 03/07/2018|prep\ttaken on these three programs|acl\ton these three programs|prep\tthese three programs|pobj\twhich ones|nsubj\twhich ones are the most valued|ccomp"
+                },
+                {
+                    "question": "What was Facebook's decision on the three programs in 2018?",
+                    "score": 0.702,
+                    "answers": "that Facebook has submitted an explanation of the decision taken on these three programs|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Sometimes, this means closure.",
+            "question_answers": [
+                {
+                    "question": "Who reported that sometimes, this means closure?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does closure mean?",
+                    "score": 0.7602,
+                    "answers": "on 03/07/2018|prep\tthat|mark\tSometimes|advmod\t,|punct\tthis|nsubj"
+                },
+                {
+                    "question": "What is closure?",
+                    "score": 0.6491,
+                    "answers": "that Sometimes , this means closure|ccomp\tclosure|dobj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.5122,
+                    "answers": "elpais.com reported on 03/07/2018 that Sometimes , this means closure|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "We know that some people still use them that will be disappointed.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/07/2018 that we know that some people still use them that are disappointed?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people use elpais.com?",
+                    "score": 0.7603,
+                    "answers": "on 03/07/2018|prep\tthat|mark\tWe|nsubj\tthat We know that some people still use them that will be disappointed|ccomp\tthat|mark\tsome people|nsubj\tthem|dobj\tthat|nsubjpass"
+                },
+                {
+                    "question": "How many people still use elpais.com?",
+                    "score": 0.7286,
+                    "answers": "elpais.com reported on 03/07/2018 that We know that some people still use them that will be disappointed|ROOT\tsome|det\tstill|advmod\tthat some people still use them|ccomp\twill|aux\tbe|auxpass\tthat will be disappointed|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "We take this opportunity to thank you for your support, but we need to prioritize our work.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/07/2018 that We take this opportunity to thank you for your support?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to prioritize your work?",
+                    "score": 0.7233,
+                    "answers": "to prioritize our work|xcomp"
+                },
+                {
+                    "question": "How many people support elpais.com?",
+                    "score": 0.6442,
+                    "answers": "this opportunity to thank you for your support|dobj\tto thank you for your support|acl"
+                },
+                {
+                    "question": "What did elpais.com say about their support?",
+                    "score": 0.6358,
+                    "answers": "elpais.com reported on 03/07/2018 that We take this opportunity to thank you for your support , but we need to prioritize our work|ROOT"
+                },
+                {
+                    "question": "What does elpais.com stand for?",
+                    "score": 0.5814,
+                    "answers": "on 03/07/2018|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of support for the Obama administration?",
+                    "score": 0.5765,
+                    "answers": "your support|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Only with trial and error will we create great social experiences ',.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report that only with trial and error will we create great?",
+                    "answer": "social experiences"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many social experiences will we create with trial and error?",
+                    "score": 0.7784,
+                    "answers": "will|aux\tgreat|amod\tsocial|amod"
+                },
+                {
+                    "question": "What does elpais.com say about trial and error?",
+                    "score": 0.7243,
+                    "answers": "elpais.com reported on 03/07/2018 that Only with trial and error will we create great social experiences ' ,|ROOT\ton 03/07/2018|prep\tthat|mark\twe|nsubj\t'|punct"
+                },
+                {
+                    "question": "What is the relationship between trial and error and creating great social experiences?",
+                    "score": 0.71,
+                    "answers": "Only|advmod\tgreat social experiences|dobj"
+                },
+                {
+                    "question": "What is the definition of trial and error?",
+                    "score": 0.6313,
+                    "answers": "trial and error|pobj\terror|conj\tthat Only with trial and error will we create great social experiences|ccomp"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.5454,
+                    "answers": "and|cc\t,|punct"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "id": "118_Politics_525",
+    "claim": "An information published yesterday in the French newspaper'La Verite 'assures that King Felipe VI might be planning to run for the next general elections in Spain to be held at the end of the year . According to the French publication the King, tired of the fact that the current parties do not know how to get Spain out of the crisis that has plagued him for almost a decade has decided that to row and be himself the one to take the country forward,. 'It is time to take the situation by the horns and finally put Spain in its rightful place. It is necessary to lay eggs 'Felipe declared to the newspaper'La Verite 'which ended by saying'I feel obliged to create a new party, of hope, without lefts or rights, transversal, that is able to unite all the Spaniards under the feeling of union and thus prevent this Spain, our Spain, from breaking'. His Majesty, Philip VI, besides being the head of the Spanish State and being Captain General of the Army has a career in law and two masters in international relations, besides speaking fluently  languages. More than enough preparation to govern Spain, even more preparation than most current Spanish politicians have. A survey conducted by the prestigious English magazine'Financial Dinners 'ensures that if a general election is held tomorrow in Spain the king would get a loose absolute majority with a % of the votes. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "11/10/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "An information published yesterday in the French newspaper'La Verite ' assures that King Felipe VI might be planning to run for the next general elections in Spain to be held at the end of the year .",
+            "question_answers": [
+                {
+                    "question": "What was the name of the French newspaper published on 11/10/2017?",
+                    "answer": "La Verite"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the French newspaper La Verite say about King Felipe VI running for election in Spain?",
+                    "score": 0.6926,
+                    "answers": "An information published yesterday in the French newspaper'La Verite '|nsubj"
+                },
+                {
+                    "question": "When will the next general elections be held in Spain?",
+                    "score": 0.6536,
+                    "answers": "for the next general elections in Spain to be held at the end of the year|prep"
+                },
+                {
+                    "question": "What is the date of the next general election in Spain?",
+                    "score": 0.5875,
+                    "answers": "on 11/10/2017|prep\tthat|mark\tAn|det\tthe|det\t'|punct\tthat An information published yesterday in the French newspaper'La Verite ' assures that King Felipe VI might be planning to run for the next general elections in Spain to be held at the end of the year|ccomp\tthat|mark\tFelipe|compound\tKing Felipe VI|nsubj\tmight|aux\tbe|aux\tthat King Felipe VI might be planning to run for the next general elections in Spain to be held at the end of the year|ccomp\tto|aux\tto run for the next general elections in Spain to be held at the end of the year|xcomp\tthe|det\tnext|amod\tgeneral|amod\tthe next general elections in Spain to be held at the end of the year|pobj\tin Spain|prep\tto|aux\tbe|auxpass\tto be held at the end of the year|relcl\tat the end of the year|prep\tthe|det\tof the year|prep\tthe|det\tthe year|pobj"
+                },
+                {
+                    "question": "What is the relationship between King Felipe VI and La Verite?",
+                    "score": 0.5449,
+                    "answers": "King|compound"
+                }
+            ]
+        },
+        {
+            "claim": "According to the French newspaper'La Verite ' King Felipe VI , tired of the fact that the current parties do not know how to get Spain out of the crisis that has plagued King Felipe VI for almost a decade has decided that to row and be King Felipe VI the one to take Spain forward,.",
+            "question_answers": [
+                {
+                    "question": "Who did haynoticia.es say to row and be the one to take Spain forward?",
+                    "answer": "King Felipe VI"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did King Felipe VI want to take over Spain?",
+                    "score": 0.7797,
+                    "answers": "haynoticia.es said on 11/10/2017 that According to the French newspaper'La Verite ' King Felipe VI , tired of the fact that the current parties do not know how to get Spain out of the crisis that has plagued King Felipe VI for almost a decade has decided that to row and be King Felipe VI the one to take Spain forward ,|ROOT\tto take Spain forward|relcl"
+                },
+                {
+                    "question": "What did the French newspaper La Verite claim about King Felipe VI?",
+                    "score": 0.6675,
+                    "answers": "that According to the French newspaper'La Verite ' King Felipe VI , tired of the fact that the current parties do not know how to get Spain out of the crisis that has plagued King Felipe VI for almost a decade has decided that to row and be King Felipe VI the one to take Spain forward|ccomp"
+                },
+                {
+                    "question": "What was King Felipe VI's position on the Spanish crisis?",
+                    "score": 0.63,
+                    "answers": "out of the crisis that has plagued King Felipe VI for almost a decade|prep"
+                },
+                {
+                    "question": "What is King Felipe VI's current political outlook?",
+                    "score": 0.6035,
+                    "answers": "tired of the fact that the current parties do not know how to get Spain out of the crisis that has plagued King Felipe VI for almost a decade|advcl"
+                },
+                {
+                    "question": "What is the current crisis that has plagued King Felipe VI?",
+                    "score": 0.6027,
+                    "answers": "of the crisis that has plagued King Felipe VI for almost a decade|prep\tthe crisis that has plagued King Felipe VI for almost a decade|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'It is time to take the situation by the horns and finally put Spain in rightful place.",
+            "question_answers": [
+                {
+                    "question": "When did haynoticia.es say 'It's time to take the situation by the horns and finally put Spain in rightful place'?",
+                    "answer": "11/10/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has it been since the horns have been in place in Spain?",
+                    "score": 0.6442,
+                    "answers": "by the horns|prep"
+                },
+                {
+                    "question": "What does it mean to take the horns and put Spain in rightful place?",
+                    "score": 0.6418,
+                    "answers": "in rightful place|prep\trightful|amod"
+                },
+                {
+                    "question": "What are the horns of the horns?",
+                    "score": 0.5824,
+                    "answers": "the horns|pobj"
+                },
+                {
+                    "question": "What is the relationship between the horns and Spain?",
+                    "score": 0.5461,
+                    "answers": "haynoticia.es said on 11/10/2017 that ' It is time to take the situation by the horns and finally put Spain in rightful place|ROOT\tthat|mark\t'|punct\tIt|nsubj\tto|aux\tthe|det\tthe situation|dobj\tthe|det\tand|cc\tfinally|advmod\trightful place|pobj"
+                },
+                {
+                    "question": "What did Haynoticia say about the situation by horns?",
+                    "score": 0.5215,
+                    "answers": "that ' It is time to take the situation by the horns and finally put Spain in rightful place|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It is necessary to lay eggs 'King Felipe VI declared to the French newspaper'La Verite ' which ended by saying'I feel obliged to create a new party, of hope, without lefts or rights, transversal, that is able to unite all the Spaniards under the feeling of union and thus prevent Spain , from breaking'.",
+            "question_answers": [
+                {
+                    "question": "What did King Felipe VI hope to do by creating a new party?",
+                    "answer": "prevent Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did King Felipe VI say to the French newspaper La Verite?",
+                    "score": 0.7766,
+                    "answers": "haynoticia.es|nsubj\ton 11/10/2017|prep\tthat|mark\tIt|nsubj\tthat It is necessary to lay eggs which ended by saying'I|ccomp\tnecessary|acomp\tto|aux\tto lay eggs which ended by saying'I|xcomp\teggs which ended by saying'I|dobj\t'|punct\tKing|compound\tKing Felipe VI|nsubj\thaynoticia.es said on 11/10/2017 that It is necessary to lay eggs which ended by saying'I ' King Felipe VI declared to the French newspaper'La Verite ' feel obliged to create a new party , of hope , without lefts or rights , transversal , that is able to unite all the Spaniards under the feeling of union and thus prevent Spain , from breaking '|ROOT\tto the French newspaper'La Verite '|prep\tthe|det\tnewspaper'La|punct\t'|punct\twhich|nsubj\twhich ended by saying'I|relcl\tby saying'I|prep\tsaying'I|pcomp\tto|aux\tto create a new party , of hope , without lefts or rights , transversal , that is able to unite all the Spaniards under the feeling of union and thus prevent Spain , from breaking|xcomp\ta|det\tnew|amod\ta new party , of hope , without lefts or rights , transversal , that is able to unite all the Spaniards under the feeling of union and thus prevent Spain , from breaking|dobj\t,|punct\tof hope|prep\thope|pobj\t,|punct\twithout lefts or rights|prep\tlefts or rights|pobj\tor|cc\t,|punct\t,|punct\tthat|nsubj\tthat is able to unite all the Spaniards under the feeling of union and thus prevent Spain , from breaking|relcl\table to unite all the Spaniards under the feeling of union and thus prevent Spain , from breaking|acomp\tto|aux\tall|predet\tthe|det\tall the Spaniards|dobj\tunder the feeling of union|prep\tthe|det\tthe feeling of union|pobj\tand|cc\tthus|advmod\t,|punct\tfrom breaking|prep\tbreaking|pcomp\t'|punct"
+                },
+                {
+                    "question": "What is the relationship between King Felipe VI and La Verite?",
+                    "score": 0.5946,
+                    "answers": "rights|conj\tof union|prep"
+                },
+                {
+                    "question": "What is transversal?",
+                    "score": 0.5519,
+                    "answers": "transversal|amod"
+                }
+            ]
+        },
+        {
+            "claim": "King Felipe VI , besides being the head of the Spanish State and being Captain General of the Army has a career in law and two masters in international relations, besides speaking fluently  languages.",
+            "question_answers": [
+                {
+                    "question": "Who is the head of the Spanish State?",
+                    "answer": "King Felipe VI"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What languages does King Felipe VI speak fluently?",
+                    "score": 0.803,
+                    "answers": "haynoticia.es said on 11/10/2017 that King Felipe VI , besides being the head of the Spanish State and being Captain General of the Army has a career in law and two masters in international relations , besides speaking fluently   languages|ROOT\tthat|mark\t,|punct\tthe|det\tthe|det\tand|cc\tthe|det\tand|cc\t,|punct\tbesides speaking fluently|prep\tspeaking fluently|pcomp\tfluently|advmod\t  languages|dep\tlanguages|dobj"
+                },
+                {
+                    "question": "What was King Felipe VI's role in the Spanish state?",
+                    "score": 0.6893,
+                    "answers": "of the Spanish State|prep\tthe Spanish State|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of King Felipe VI's career in law?",
+                    "score": 0.6704,
+                    "answers": "law|pobj"
+                },
+                {
+                    "question": "What is the history of King Felipe VI being the head of the Spanish state?",
+                    "score": 0.666,
+                    "answers": "of the Army|prep"
+                },
+                {
+                    "question": "What is the career of King Felipe VI?",
+                    "score": 0.6537,
+                    "answers": "a career in law and two masters in international relations|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "More than enough preparation to govern Spain , even more preparation than most current Spanish politicians have.",
+            "question_answers": [
+                {
+                    "question": "What country did haynoticia.es say there was more preparation than most current Spanish politicians have?",
+                    "answer": "Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the preparation to govern Spain?",
+                    "score": 0.8201,
+                    "answers": "haynoticia.es said on 11/10/2017 that More than enough preparation to govern Spain , even more preparation than most current Spanish politicians have|ROOT\ton 11/10/2017|prep\tthat|mark\tMore|amod\tthan|quantmod\tMore than enough|amod\tthat More than enough preparation to govern Spain , even more preparation than most current Spanish politicians have|dobj\tto|aux\tto govern Spain|acl\t,|punct\teven|advmod\teven more|amod\teven more preparation than most current Spanish politicians have|appos\tthan|mark\tmost|amod\tcurrent|amod\tmost current Spanish politicians|nsubj\tthan most current Spanish politicians have|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "A survey conducted by the prestigious English magazine'Financial Dinners 'ensures that if a general election is held tomorrow in Spain King Felipe VI would get a loose absolute majority with a % of the votes.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the prestigious English magazine that conducted a survey?",
+                    "answer": "Financial Dinners"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of votes did King Felipe VI receive in the election in Spain?",
+                    "score": 0.7754,
+                    "answers": "Felipe|compound"
+                },
+                {
+                    "question": "What was the survey conducted by the prestigious English magazine, Financial Dinners?",
+                    "score": 0.6573,
+                    "answers": "A survey conducted by the prestigious English magazine'Financial Dinners '|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the percentage of votes that King Felipe VI would receive in the election?",
+                    "score": 0.6257,
+                    "answers": "the prestigious English magazine'Financial Dinners '|pobj"
+                }
+            ]
+        }
+    ]
+}

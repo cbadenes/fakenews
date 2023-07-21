@@ -1,0 +1,337 @@
+{
+    "id": "121_Society_61",
+    "claim": "One study revealed that  % of Millennial travelers spend more than four hours a day with their cell phone during their getawaysFacebook is the star social network to show photos of a trip. If you are one of those who photograph the hotels you visit and the monuments you discover to upload the images to social networks, you have also turned your getaways into a way to show off to others. This trend reaches a third of travelers, who admit that the first thing they do when they arrive at a hotel is to take a selfie or take a photo of the room to upload it to its different profiles. Connected travelers This is revealed by the new Mobile Travel Tracker studio developed by Hotels. com, which analyzes how the millennials - young people between  and  years approximately, closely linked to the technology- of their journeys on social networks with the aim of obtaining the recognition of their family and friends. Specifically,  % of this population segment admits spending more than four hours a day with their cell phone in hand during their travels in order to get more 'likes 'in their different social profiles. For their part,  % of travellers who have between  and  years spend more than four hours on their phone, exactly the same percentage as among those who are in the decade of  years. In contrast, only the  % of travellers aged between  and  years do so. The study also contributes that  % of the snapshots published by travellers show food dishes - accompanied by popular upg #foodporn-. By age, this tendency to photograph gastronomy is carried out by  % of millennials, followed by those with ages between  and  years ( %), between  and  years ( %), between  and  years ( %) and between  and  years ( %). Other information  % of travellers between  and  years, who according to the study 'are lovers of filters and selfie-stick addicts ', admits that he would prefer to upload a self-portrait rather than a photo with his loved ones during a holiday. Millennial women, compared to  % of men, admit that they enjoy the fashion of taking pictures of themselves a lot; and that  % of travelers between  and  years prefer to share an urban landscape on social networks, compared to  % who prefer to show their favorite clothing garment. As for the most used channels, the study shows that Facebook is the star social network ( %), followed by WhatsApp ( %) and Instagram ( %). I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "30/12/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "One study revealed that  % of Millennial travelers spend more than four hours a day with cell phone during getawaysFacebook is the star social network to show photos of a trip.",
+            "question_answers": [
+                {
+                    "question": "What is the star social network to show photos of a trip?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of Millennial travelers spend four hours a day with cell phone during getaways?",
+                    "score": 0.8311,
+                    "answers": "% of Millennial travelers|nsubj"
+                },
+                {
+                    "question": "What is facebook?",
+                    "score": 0.6939,
+                    "answers": "www.eluniversal.com.mx reported on 30/12/2017 that One study revealed|ROOT"
+                },
+                {
+                    "question": "What is Facebook?",
+                    "score": 0.6939,
+                    "answers": "on 30/12/2017|prep\t30/12/2017|pobj\tthat|mark\tOne study|nsubj\tthat|mark\tof Millennial travelers|prep\tMillennial|amod\tMillennial travelers|pobj\tmore|amod\tthan|quantmod\ta|det\ta day|npadvmod\twith cell phone|prep\tcell|compound\tcell phone|pobj\tduring getawaysFacebook|prep\tgetawaysFacebook|pobj\tis the star social network to show photos of a trip|advcl\tthe|det\tstar|amod\tsocial|amod\tthe star social network to show photos of a trip|attr\tto|aux\tphotos of a trip|dobj\tof a trip|prep\ta|det\ta trip|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "If you are one of those who photograph the hotels you visit and the monuments you discover to upload the images to social networks, you have also turned your getaways into a way to show off to others.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What do you do with pictures of hotels you visit and monuments?",
+                    "score": 0.7494,
+                    "answers": "If you are one of those who photograph the hotels you visit and the monuments you discover to upload the images to social networks|advcl"
+                },
+                {
+                    "question": "What does it mean to take a photo of a hotel you visit and upload it to social networks?",
+                    "score": 0.7322,
+                    "answers": "a way to show off to others|pobj"
+                },
+                {
+                    "question": "What are the monuments that you discover to upload to social networks?",
+                    "score": 0.6747,
+                    "answers": "the monuments you discover|conj"
+                },
+                {
+                    "question": "What is the process used to upload images to social networks?",
+                    "score": 0.6672,
+                    "answers": "of those who photograph the hotels you visit and the monuments you discover to upload the images to social networks|prep\tthose who photograph the hotels you visit and the monuments you discover to upload the images to social networks|pobj\tto upload the images to social networks|advcl\tto social networks|prep\tinto a way to show off to others|prep\tto show off to others|relcl\toff|prt"
+                },
+                {
+                    "question": "What is the name of the website that takes pictures of hotels and monuments?",
+                    "score": 0.6631,
+                    "answers": "who|nsubj\tyou visit|relcl\tthe images|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "turned reaches a third of travelers, who admit that the first thing they do when they arrive at a hotel is to take a selfie or take a photo of the room to upload a photo of the room to different profiles.",
+            "question_answers": [
+                {
+                    "question": "What percentage of travelers admit that the first thing they do when they arrive at a hotel is to take a selfie?",
+                    "answer": "a third"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many travelers arrive at a hotel every night?",
+                    "score": 0.7522,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the first thing travelers do when they arrive at a hotel?",
+                    "score": 0.7515,
+                    "answers": "the first thing they do when they arrive at a hotel|nsubj\tthey do when they arrive at a hotel|relcl\twhen they arrive at a hotel|advcl\ttake a photo of the room|conj\tto upload a photo of the room to different profiles|advcl"
+                },
+                {
+                    "question": "How many travelers admit to taking a selfie or take a photo of their room to different profiles?",
+                    "score": 0.6924,
+                    "answers": "a third of travelers , who admit that the first thing they do when they arrive at a hotel is to take a selfie or take a photo of the room to upload a photo of the room to different profiles|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Connected travelers This is revealed by the new Mobile Travel Tracker studio developed by Hotels.",
+            "question_answers": [
+                {
+                    "question": "What type of travelers were revealed by the new Mobile Travel Tracker studio developed by Hotels?",
+                    "answer": "Connected travelers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who developed the Mobile Travel Tracker studio developed by Hotels?",
+                    "score": 0.7775,
+                    "answers": "developed by Hotels|acl\tby Hotels|agent"
+                }
+            ]
+        },
+        {
+            "claim": "com, which analyzes how the millennials - young people between  and  years approximately, closely linked to the technology- of journeys on social networks with the aim of obtaining the recognition of family and friends.",
+            "question_answers": [
+                {
+                    "question": "What does the com analyze how millennials travel on social networks with the aim of obtaining the recognition of family and friends?",
+                    "answer": "closely linked to the technology- of journeys on social networks with the aim of obtaining the recognition of family and friends"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What technology is linked to the millennials?",
+                    "score": 0.6866,
+                    "answers": "to the technology-|prep"
+                },
+                {
+                    "question": "What is the technology of journeys on social networks?",
+                    "score": 0.6436,
+                    "answers": ",|punct\twhich|nsubj\tapproximately|advmod\t,|punct"
+                },
+                {
+                    "question": "How many young people are connected to technology?",
+                    "score": 0.599,
+                    "answers": "the millennials - young people|nsubj\tyoung|amod\tyoung people|appos"
+                },
+                {
+                    "question": "What is the relationship between technology and millennials?",
+                    "score": 0.5707,
+                    "answers": "that|mark\twhich analyzes how the millennials - young people between|relcl\thow|advmod\tthe|det\t-|punct\tand|cc\tand   years approximately|dep\tyears approximately|dobj\tclosely|advmod\tthe|det\ton social networks|prep\tthe|det\tthe|det\tof family and friends|prep\tand|cc\tfriends|conj"
+                },
+                {
+                    "question": "What is the purpose of this website?",
+                    "score": 0.5613,
+                    "answers": "family and friends|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Specifically,  % of this population segment admits spending more than four hours a day with cell phone in hand during travels in order to get more 'likes 'in different social profiles.",
+            "question_answers": [
+                {
+                    "question": "What does this population segment want to get more of in different social profiles?",
+                    "answer": "'likes"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much time do you spend with cell phone in hand during travels?",
+                    "score": 0.8087,
+                    "answers": "spending more than four hours a day with cell phone in hand during travels in order to get more ' likes ' in different social profiles|xcomp"
+                },
+                {
+                    "question": "What is the relationship between cell phone and cell phone usage?",
+                    "score": 0.6592,
+                    "answers": "different social profiles|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "For part, their spend more than four hours on phone, exactly the same percentage as among those who are in the decade of  years.",
+            "question_answers": [
+                {
+                    "question": "How much time does a person spend on their phone?",
+                    "answer": "more than four hours"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average time spent on phone calls per year?",
+                    "score": 0.6789,
+                    "answers": "www.eluniversal.com.mx|nsubj\twww.eluniversal.com.mx reported on 30/12/2017 that For part , their spend more than four hours on phone , exactly the same percentage as among those who are in the decade of   years|ROOT\ton 30/12/2017|prep\t30/12/2017|pobj\tthat|mark\tFor part|prep\tpart|pobj\t,|punct\ttheir|nsubj\tthat For part , their spend more than four hours on phone , exactly the same percentage as among those who are in the decade of|ccomp\tmore|amod\tthan|quantmod\tmore than four|nummod\ton phone|prep\tphone|pobj\t,|punct\texactly|advmod\tthe|det\tsame|amod\texactly the same percentage as among those who are in the decade of|npadvmod\tas among those who are in the decade of|prep\tamong those who are in the decade of|prep\tthose who are in the decade of|pobj\twho|nsubj\twho are in the decade of|relcl\tin the decade of|prep\tthe|det\tthe decade of|pobj\tof|prep\t  years|dep\tyears|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "In contrast, only the  % of travellers aged between  and  years do so.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What percentage of travellers aged between 18 and 24 age are between the age of 18?",
+                    "score": 0.8888,
+                    "answers": "aged between|acl"
+                },
+                {
+                    "question": "What percentage of travel age groups are between and older than 30 years old?",
+                    "score": 0.8826,
+                    "answers": "% of travellers aged between|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The study also contributes that  % of the snapshots published by travellers show food dishes - accompanied by popular upg #foodporn-.",
+            "question_answers": [
+                {
+                    "question": "What percentage of snapshots published by travellers show food dishes?",
+                    "answer": "% of the snapshots published by travellers show food dishes"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of snapshots published by travellers show food dishes?",
+                    "score": 0.8033,
+                    "answers": "that|mark\tThe|det\talso|advmod\tthat|mark\tthe|det\ttravellers|pobj\t-|punct\tpopular|amod"
+                },
+                {
+                    "question": "How many snapshots of food dishes were published by travellers in 2017?",
+                    "score": 0.7965,
+                    "answers": "published by travellers|acl"
+                },
+                {
+                    "question": "How many food dishes were included in the study published by travellers?",
+                    "score": 0.7771,
+                    "answers": "of the snapshots published by travellers|prep\tthe snapshots published by travellers|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of food dishes?",
+                    "score": 0.7581,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What is foodporn?",
+                    "score": 0.745,
+                    "answers": "food|compound\tfood dishes - accompanied by popular upg # foodporn-|dobj\tby popular upg # foodporn-|agent\tfoodporn-|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "By age, this tendency to photograph gastronomy is carried out by  % of millennials, followed by those with ages between  and  years ( %), between  and  years ( %), between  and  years ( %) and between  and  years ( %).",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What percentage of millennials photograph gastronomy?",
+                    "score": 0.8063,
+                    "answers": "this tendency to photograph gastronomy|nsubjpass\t  % of millennials , followed by those with ages between|dep"
+                },
+                {
+                    "question": "What is the trend of photograph gastronomy?",
+                    "score": 0.7427,
+                    "answers": "that By age , this tendency to photograph gastronomy is carried out by|ccomp"
+                },
+                {
+                    "question": "What are the ages of those who photograph gastronomy?",
+                    "score": 0.7273,
+                    "answers": "followed by those with ages between|acl"
+                }
+            ]
+        },
+        {
+            "claim": "Other information  % of travellers between  and  years, who according to the study 'are lovers of filters and selfie-stick addicts ', admits that he would prefer to upload a self-portrait rather than a photo with his loved ones during a holiday.",
+            "question_answers": [
+                {
+                    "question": "What did the study say about travellers between and years?",
+                    "answer": "'are lovers of filters and selfie-stick addicts"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of travellers admit to wanting to upload a self-portrait?",
+                    "score": 0.7309,
+                    "answers": "% of travellers between   and   years , who according to the study ' are lovers of filters and selfie - stick addicts ' ,|nsubj\tyears , who according to the study ' are lovers of filters and selfie - stick addicts ' ,|dobj"
+                },
+                {
+                    "question": "What does the study show about selfie-stick addicts?",
+                    "score": 0.6826,
+                    "answers": "who according to the study ' are lovers of filters and selfie - stick addicts ' ,|relcl"
+                },
+                {
+                    "question": "What did the study find about the relationship between travel destinations and selfie-sticks?",
+                    "score": 0.618,
+                    "answers": "www.eluniversal.com.mx reported on 30/12/2017 that Other information   % of travellers between   and   years , who according to the study ' are lovers of filters and selfie - stick addicts ' , admits that he would prefer to upload a self - portrait rather than a photo with his loved ones during a holiday|ROOT"
+                },
+                {
+                    "question": "What is the study \"are lovers of filters and selfie-stick addicts?",
+                    "score": 0.6004,
+                    "answers": "www.eluniversal.com.mx|nsubj\tfilters|pobj"
+                },
+                {
+                    "question": "What is the relationship between a self-portrait and a photo?",
+                    "score": 0.5406,
+                    "answers": "a self - portrait rather than a photo|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Millennial women, compared to  % of men, admit that they enjoy the fashion of taking pictures of themselves a lot; and that  % of travelers between  and  years prefer to share an urban landscape on social networks, compared to  % who prefer to show their favorite clothing garment.",
+            "question_answers": [
+                {
+                    "question": "What percentage of men admit that they enjoy taking pictures of themselves a lot?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of travelers prefer to show their favorite clothing?",
+                    "score": 0.8064,
+                    "answers": "who prefer to show their favorite clothing garment|relcl"
+                },
+                {
+                    "question": "What percentage of women prefer to take pictures of themselves a lot?",
+                    "score": 0.7557,
+                    "answers": "that they enjoy the fashion of taking pictures of themselves a lot ; and|advcl\tthe fashion of taking pictures of themselves a lot|dobj"
+                },
+                {
+                    "question": "What percent of men prefer to share a urban landscape on social networks?",
+                    "score": 0.7235,
+                    "answers": "of men|prep"
+                },
+                {
+                    "question": "What is the relationship between taking pictures of themselves and wearing their favorite clothing?",
+                    "score": 0.6525,
+                    "answers": ", admit that they enjoy the fashion of taking pictures of themselves a lot ; and|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "As for the most used channels, the study shows that Facebook is the star social network ( %), followed by WhatsApp ( %) and Instagram ( %).",
+            "question_answers": [
+                {
+                    "question": "What is the second most used social network?",
+                    "answer": "WhatsApp"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the most used social networks?",
+                    "score": 0.7471,
+                    "answers": "As for the most used channels|prep\tthe most used channels|pobj\tthat As for the most used channels , the study shows that Facebook is the star social network ( % ) , followed by WhatsApp ( % ) and Instagram ( % )|ccomp\tWhatsApp ( % ) and Instagram ( % )|pobj"
+                }
+            ]
+        }
+    ]
+}

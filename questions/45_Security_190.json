@@ -1,0 +1,159 @@
+{
+    "id": "45_Security_190",
+    "claim": "This very morning a journalist from a well-known national newspaper, whose name they have not wanted to reveal for the time being to protect the anonymity of the alleged offender, was arrested after a long investigation of various crimes that occurred during the last year and which he had allegedly carried out and subsequently drafted in his news section. The police had been suspicious for months of this warped journalist 'after going to investigate several crimes, the same journalist always arrived instantly to cover the news, even on the last occasions he was there when some of our comrades arrived, he was very suspicious'. The journalist was arrested while writing his alleged last misdeed at the offices of the prestigious daily. The crimes have been of all kinds, ranging from petty shoplifting to bank robberies to alleged pet kidnappings, a genuine catalogue of criminal acts that casually later documented and published the same. The journalist has stated that'I confess my crimes, but it was impossible for me to reach the end of the month with the current of this country, I never liked to write about politics and sports and there was no more material, so I decided to create it myself'. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "28/02/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "This very morning a journalist from a well-known national newspaper, whose name they have not wanted to reveal for the time being to protect the anonymity of the alleged offender, was arrested after a long investigation of various crimes that occurred during the last year and which he had allegedly carried out and subsequently drafted in his news section.",
+            "question_answers": [
+                {
+                    "question": "Who said on 28/02/2018 that a journalist from a well-known national newspaper was arrested?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What crimes were committed during the last year?",
+                    "score": 0.5408,
+                    "answers": "various|amod"
+                },
+                {
+                    "question": "What was the crime committed by the alleged offender?",
+                    "score": 0.5048,
+                    "answers": "a long investigation of various crimes that occurred during the last year and he had allegedly carried out and which subsequently drafted in his news section|pobj"
+                },
+                {
+                    "question": "What was the name of the journalist who was arrested?",
+                    "score": 0.5033,
+                    "answers": "haynoticia.es said on 28/02/2018 that This very morning a journalist from a well - known national newspaper , they have not wanted whose name to reveal for the time being to protect the anonymity of the alleged offender , was arrested after a long investigation of various crimes that occurred during the last year and he had allegedly carried out and which subsequently drafted in his news section|ROOT\ton 28/02/2018|prep\tthat|mark\tThis|det\tvery|amod\ta|det\ta journalist from a well - known national newspaper , they have not wanted whose name to reveal for the time being to protect the anonymity of the alleged offender ,|nsubjpass\ta|det\twell|advmod\t-|punct\twell - known|amod\tnational|amod\t,|punct\twhose|poss\twhose name|dobj\tthey|nsubj\thave|aux\tnot|neg\tto|aux\twhose name to reveal|xcomp\tfor the time being|prep\tthe|det\tthe time being|pobj\tbeing|acl\tto|aux\tthe|det\tthe|det\t,|punct\twas|auxpass\tthat This very morning a journalist from a well - known national newspaper , they have not wanted whose name to reveal for the time being to protect the anonymity of the alleged offender , was arrested after a long investigation of various crimes that occurred during the last year and he had allegedly carried out and which subsequently drafted in his news section|ccomp\ta|det\tlong|amod\tvarious crimes that occurred during the last year and he had allegedly carried out and which subsequently drafted in his news section|pobj\tthat|nsubj\tduring the last year|prep\tthe|det\tlast|amod\tand|cc\twhich|dobj\the|nsubj\thad|aux\tallegedly|advmod\the had allegedly carried out and which subsequently drafted in his news section|conj\tout|prt\tand|cc\tsubsequently|advmod\tin his news section|prep\this|poss\tnews|compound\this news section|pobj"
+                },
+                {
+                    "question": "What crimes were carried out in Haynoticia.es?",
+                    "score": 0.4817,
+                    "answers": "that occurred during the last year and he had allegedly carried out and which subsequently drafted in his news section|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The police had been suspicious for months of this warped journalist 'after going to investigate several crimes, the same journalist always arrived instantly to cover the news, even on the last occasions he was there when some of our comrades arrived, he was very suspicious'.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say about the warped journalist?",
+                    "answer": "The police had been suspicious for months of this warped journalist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What crimes did the journalist investigate?",
+                    "score": 0.6968,
+                    "answers": "this warped journalist|pobj\tto investigate several crimes|advcl"
+                },
+                {
+                    "question": "What crimes did Haynoticia investigate?",
+                    "score": 0.6613,
+                    "answers": "on 28/02/2018|prep\tafter going to investigate several crimes|prep\tgoing to investigate several crimes|pcomp"
+                },
+                {
+                    "question": "When did the police arrive to investigate several crimes?",
+                    "score": 0.6481,
+                    "answers": "the same journalist always arrived instantly to cover the news|ccomp\tinstantly|advmod\teven on the last occasions he was there when some of our comrades arrived|prep\the was there when some of our comrades arrived|relcl"
+                },
+                {
+                    "question": "What did the police do to investigate the crimes committed by the journalist?",
+                    "score": 0.6009,
+                    "answers": "suspicious|acomp"
+                },
+                {
+                    "question": "How many crimes did Haynoticia.es investigate?",
+                    "score": 0.5411,
+                    "answers": "the last occasions he was there when some of our comrades arrived|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The journalist was arrested while writing his alleged last misdeed at the offices of the prestigious daily.",
+            "question_answers": [
+                {
+                    "question": "When was the journalist arrested?",
+                    "answer": "while writing his alleged last misdeed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the journalist that was arrested while writing his alleged last misdeed at the offices of the prestigious daily?",
+                    "score": 0.6518,
+                    "answers": "The journalist|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of the journalist's last misdeed?",
+                    "score": 0.6007,
+                    "answers": "prestigious|amod"
+                },
+                {
+                    "question": "What was the name of the journalist who committed the misdeed?",
+                    "score": 0.5797,
+                    "answers": "while writing his alleged last misdeed at the offices of the prestigious daily|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The crimes have been of all kinds, ranging from petty shoplifting to bank robberies to alleged pet kidnappings, a genuine catalogue of criminal acts that casually later documented and published the same.",
+            "question_answers": [
+                {
+                    "question": "Who said on 28/02/2018 that the crimes were of all kinds?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of crimes have been committed in regards to pet kidnappings?",
+                    "score": 0.8235,
+                    "answers": "bank|compound"
+                },
+                {
+                    "question": "How many crimes have been documented and published in this period?",
+                    "score": 0.6686,
+                    "answers": "of criminal acts|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The journalist has stated that'I confess my crimes, but it was impossible for me to reach the end of the month with the current of this country, I never liked to write about politics and sports and there was no more material, so I decided to create it myself'.",
+            "question_answers": [
+                {
+                    "question": "Why did haynoticia.es say that he did not like to write about politics and sports?",
+                    "answer": "I never liked to write about politics and sports and there was no more material, so I decided to create it myself'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What crimes did Haynoticia commit?",
+                    "score": 0.6505,
+                    "answers": "my crimes|dobj"
+                },
+                {
+                    "question": "What did the journalist say about his crimes?",
+                    "score": 0.6034,
+                    "answers": "haynoticia.es said on 28/02/2018 that The journalist has stated that'I confess my crimes , but it was impossible for me to reach the end of the month with the current of this country , I never liked to write about politics and sports and there was no more material , so I decided to create it myself '|ROOT\tthat The journalist has stated that'I confess my crimes , but it was impossible for me to reach the end of the month with the current of this country , I never liked to write about politics and sports and there was no more material , so I decided to create it myself '|ccomp\tthat'I|nsubj\tthat'I confess my crimes , but it was impossible for me to reach the end of the month with the current of this country|ccomp\tmy|poss\tbut|cc\tfor|mark\tto|aux\tof the month|prep\tthe month|pobj\tnever|neg\tthat'I confess my crimes , but it was impossible for me to reach the end of the month with the current of this country , I never liked to write about politics and sports and there was no more material , so I decided to create it myself '|ccomp\tto|aux\tno|det\tmore|amod\tso|cc\tto|aux"
+                },
+                {
+                    "question": "What is the name of the journalist who confesss crimes?",
+                    "score": 0.5754,
+                    "answers": "and|cc\tand|cc"
+                },
+                {
+                    "question": "What is the source of evidence of Haynoticia's crimes?",
+                    "score": 0.5025,
+                    "answers": "on 28/02/2018|prep\timpossible|acomp\tto write about politics and sports|xcomp\tsports|conj\tI decided to create it myself|conj"
+                },
+                {
+                    "question": "What is the current current political situation in the country?",
+                    "score": 0.4751,
+                    "answers": "for me to reach the end of the month with the current of this country|advcl\twith the current of this country|prep"
+                }
+            ]
+        }
+    ]
+}

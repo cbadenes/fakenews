@@ -1,0 +1,147 @@
+{
+    "id": "37_Society_102",
+    "claim": "A serious altercation took place last week at a nightclub in Logroño, when a group of exalted young people climbed onto the diskjockey stand to pounce on him and punch him and kick him. The security forces were barely able to give enough and had to call the police who quickly came forward and arrested  of the attackers who were taken to the police station. One of them explained to the agents that the diskjockey had been playing the song of Luis Fonsi 'Despacito 'all night long, that they had warned him to stop putting it because they were already fed up but that he kept putting it in a defiant attitude. When he did ten, they couldn't take it anymore and went up to beat him for being heavy and for being cool. Despite the fact that the officers were sympathetic for the reasons they had to file the complaint because, as they were told, 'problems are not solved by beating'. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "27/06/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A serious altercation took place last week at a nightclub in Logroño, when a group of exalted young people climbed onto the diskjockey stand to pounce on him and punch him and kick him.",
+            "question_answers": [
+                {
+                    "question": "Who said that a serious altercation took place last week at a nightclub in Logroo?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What happened to the diskjockey last week at a nightclub in Logroño?",
+                    "score": 0.5654,
+                    "answers": "haynoticia.es said on 27/06/2017 that A serious altercation took place last week at a nightclub in Logroño , a group of exalted young people climbed onto the diskjockey stand to pounce on him and when punch him and kick him|ROOT\tA serious altercation|nsubj"
+                },
+                {
+                    "question": "Where did the altercation take place?",
+                    "score": 0.5628,
+                    "answers": "at a nightclub in Logroño|prep\ta nightclub in Logroño|pobj"
+                },
+                {
+                    "question": "How many people attacked a diskjockey in Logroño?",
+                    "score": 0.5591,
+                    "answers": "a|det\ta|det\ta group of exalted young people climbed onto the diskjockey stand to pounce on him and when punch him and kick him|advcl"
+                },
+                {
+                    "question": "What is the source of evidence of the altercation that took place in Logroño?",
+                    "score": 0.5249,
+                    "answers": "on 27/06/2017|prep\tto|aux"
+                },
+                {
+                    "question": "What was the name of the nightclub in Logroño?",
+                    "score": 0.5184,
+                    "answers": "that A serious altercation took place last week at a nightclub in Logroño , a group of exalted young people climbed onto the diskjockey stand to pounce on him and when punch him and kick him|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The security forces were barely able to give enough and had to call the police who quickly came forward and arrested  of the attackers who were taken to the police station.",
+            "question_answers": [
+                {
+                    "question": "Who arrested the attackers?",
+                    "answer": "the police"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who were the attackers that were taken to the police station?",
+                    "score": 0.4367,
+                    "answers": "the attackers who were taken to the police station|pobj"
+                },
+                {
+                    "question": "What did the police say about the attack?",
+                    "score": 0.4298,
+                    "answers": "the police station|pobj"
+                },
+                {
+                    "question": "What did the security forces do to stop the attack?",
+                    "score": 0.4221,
+                    "answers": "that The security forces were barely able to give enough and had to call the police who quickly came forward and arrested|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "One of them explained to the agents that the diskjockey had been playing the song of Luis Fonsi 'Despacito 'all night long, that they had warned him to stop putting it because they were already fed up but that he kept putting it in a defiant attitude.",
+            "question_answers": [
+                {
+                    "question": "Whose song did haynoticia.es say the diskjockey had been playing all night long?",
+                    "answer": "Luis Fonsi 'Despacito"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who warned Luis Fonsi to stop playing Despacito?",
+                    "score": 0.6865,
+                    "answers": "to the agents|prep"
+                },
+                {
+                    "question": "What song was Luis Fonsi playing all night long?",
+                    "score": 0.6543,
+                    "answers": "the|det\tthe|det\tthat the diskjockey had been playing the song of Luis Fonsi ' Despacito ' all night long , that they had warned him to stop putting it because they were already fed up but that he kept putting it in a defiant attitude|advcl\tthe|det\tthe song of Luis Fonsi|dobj\t'|punct\t' Despacito '|npadvmod\t'|punct\the|nsubj"
+                },
+                {
+                    "question": "What song did Luis Fonsi play all night long?",
+                    "score": 0.6528,
+                    "answers": "that|mark\tthat|mark\thad|aux\tLuis|compound\t,|punct\tthat|mark\thad|aux\tto|aux\tit|dobj\talready|advmod\tthat|mark\tit|dobj\ta|det"
+                },
+                {
+                    "question": "Who warned Fonsi to stop putting it into song?",
+                    "score": 0.5967,
+                    "answers": "of them|prep\tthe agents|pobj"
+                },
+                {
+                    "question": "What did the agent say about Fonsi's song?",
+                    "score": 0.5727,
+                    "answers": "in a defiant attitude|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Despite the fact that the officers were sympathetic for the reasons they had to file the complaint because, as they were told, 'problems are not solved by beating'.",
+            "question_answers": [
+                {
+                    "question": "When did haynoticia.es say they had to file a complaint?",
+                    "answer": "27/06/2017"
+                },
+                {
+                    "question": "Why did haynoticia.es say they had to file a complaint?",
+                    "answer": "'problems are not solved by beating'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the officers file the complaints?",
+                    "score": 0.7576,
+                    "answers": "for the reasons|prep\tto file the complaint|xcomp\tbecause|mark"
+                },
+                {
+                    "question": "Why were the officers sympathetic for the reasons they had to file a complaint?",
+                    "score": 0.7292,
+                    "answers": "Despite the fact that the officers were sympathetic for the reasons|prep\tthe fact that the officers were sympathetic for the reasons|pobj"
+                },
+                {
+                    "question": "What did the officers say about the complaints filed against them?",
+                    "score": 0.5559,
+                    "answers": "that|mark\tthe|det\tthat|mark\tthe|det\tsympathetic|acomp\tthe|det\tthey|nsubj\tto|aux\tthe|det\t,|punct\tas|mark\tthey|nsubjpass\twere|auxpass\t,|punct"
+                },
+                {
+                    "question": "What did Haynoticia say about the beating?",
+                    "score": 0.5276,
+                    "answers": "by beating|agent"
+                },
+                {
+                    "question": "What was the outcome of the lawsuit filed against the officers?",
+                    "score": 0.5157,
+                    "answers": "the officers|nsubj"
+                }
+            ]
+        }
+    ]
+}

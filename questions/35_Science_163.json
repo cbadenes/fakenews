@@ -1,0 +1,402 @@
+{
+    "id": "35_Science_163",
+    "claim": "After only two years in orbit, the European Space Agency (ESA) GOCE satellite has collected enough data to create an unprecedentedly accurate map of Earth's gravity. Scientists now have access to the most accurate geoid model ever produced to improve our understanding of how the Earth works. The model serves to illustrate the differences of gravity at different points of the Planet. Thus, the areas of recreation in yellow are those where gravity is greater, while in blue the level is lower. The new geoid, reminiscent of a potato, was unveiled yesterday at the Fourth International Workshop for GOCE Users organized at the Technical University of Munich, Germany. The geoid is the surface of a global ocean in the absence of tides and currents, uniquely by gravity effect. It is a key benchmark for measuring ocean circulation, sea-level change and ice dynamics, all of which are processes affected by climate change. TOPOGRAPHS Professor Reiner Rummel, former head of the Institute of Astronomy and Physical Geodesy at the Technical University of Munich, explained:'GOCE will give us dynamic topography and patterns of ocean circulation with unprecedented quality and resolution. I am confident that these results will help to improve our understanding of the dynamics of the world's oceans. '. In addition, GOCE's gravity data are helping to develop a deeper understanding of the processes that cause earthquakes, such as the case that recently devastated Japan. Since this earthquake was caused by the movement of tectonic plates under the ocean, the movement cannot be observed directly from space. However, earthquakes create signatures on gravity data, which could be used to understand the processes leading to these natural disasters and ultimately help predict them. The GOCE satellite was launched in March of  and has been collecting gravity data for twelve months. I'm sorry.",
+    "source": "www.opinion.com.bo",
+    "date": "31/03/2011",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "After only two years in orbit, the European Space Agency (ESA) GOCE satellite has collected enough data to create an unprecedentedly accurate map of Earth's gravity.",
+            "question_answers": [
+                {
+                    "question": "What satellite has collected enough data to create an unprecedented accurate map of Earth's gravity?",
+                    "answer": "European Space Agency (ESA) GOCE satellite"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How accurate is the Earth's gravity?",
+                    "score": 0.9079,
+                    "answers": "unprecedentedly accurate|amod"
+                },
+                {
+                    "question": "How much data has ESA collected for a map of Earth's gravity?",
+                    "score": 0.8985,
+                    "answers": "( ESA )|appos"
+                },
+                {
+                    "question": "How many years has the European Space Agency (ESA) GOCE satellite been in orbit?",
+                    "score": 0.8457,
+                    "answers": "only two|nummod"
+                },
+                {
+                    "question": "What is the ESA GOCE satellite?",
+                    "score": 0.744,
+                    "answers": "European Space Agency ( ESA )|nmod"
+                },
+                {
+                    "question": "What is the GOCE satellite?",
+                    "score": 0.7326,
+                    "answers": "www.opinion.com.bo|nsubj\tan unprecedentedly accurate map of Earth 's gravity|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Scientists now have access to the most accurate geoid model ever produced to improve our understanding of how the Earth works .",
+            "question_answers": [
+                {
+                    "question": "What did the opinion.com.bo report on 31/03/2011?",
+                    "answer": "the most accurate geoid model ever produced"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How accurate is the geoid model?",
+                    "score": 0.9248,
+                    "answers": "www.opinion.com.bo|nsubj\ton 31/03/2011|prep\tScientists|nsubj\tthat Scientists now have access to the most accurate geoid model ever produced to improve our understanding of how the Earth works|ccomp\taccess to the most accurate geoid model ever produced|dobj\tto the most accurate geoid model ever produced|prep\tmost accurate|amod\tthe most accurate geoid model ever produced|pobj\tever|advmod\tever produced|acl\tof how the Earth works|prep\tthe Earth|nsubj\thow the Earth works|pcomp"
+                },
+                {
+                    "question": "How accurate is geoid model?",
+                    "score": 0.9233,
+                    "answers": "that|mark\tnow|advmod\tthe|det\tmost|advmod\tgeoid|compound\tto|aux\tour|poss\thow|advmod\tthe|det"
+                },
+                {
+                    "question": "What is the most accurate geoid model ever produced?",
+                    "score": 0.869,
+                    "answers": "our understanding of how the Earth works|dobj"
+                },
+                {
+                    "question": "What is the purpose of geoid modeling?",
+                    "score": 0.8562,
+                    "answers": "to improve our understanding of how the Earth works|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "the most accurate geoid model ever produced to improve our understanding of how the Earth works serves to illustrate the differences of gravity at different points of Earth's .",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of the geoid model?",
+                    "answer": "to illustrate the differences of gravity at different points of Earth's"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How accurate is the geoid model?",
+                    "score": 0.9314,
+                    "answers": "www.opinion.com.bo|nsubj\twww.opinion.com.bo reported on 31/03/2011 that the most accurate geoid model ever produced to improve our understanding of how the Earth works serves to illustrate the differences of gravity at different points of Earth 's|ROOT\ton 31/03/2011|prep\tthat|mark\tthe|det\tmost|advmod\tmost accurate|amod\tever|advmod\tto|aux\tour|poss\tthe|det\tthe Earth|nsubj\tto|aux\tthe|det\tof Earth 's|prep\tEarth 's|pobj\t's|case"
+                },
+                {
+                    "question": "How accurate is geoid model?",
+                    "score": 0.9299,
+                    "answers": "geoid|compound"
+                },
+                {
+                    "question": "What are the points of Earth's gravity?",
+                    "score": 0.8978,
+                    "answers": "different points of Earth 's|pobj"
+                },
+                {
+                    "question": "What is the most accurate geoid model ever produced to improve our understanding of how the Earth works?",
+                    "score": 0.8909,
+                    "answers": "ever produced to improve our understanding of how the Earth works|acl\tto improve our understanding of how the Earth works|advcl\tour understanding of how the Earth works|dobj\tof how the Earth works|prep\tto illustrate the differences of gravity at different points of Earth 's|xcomp\tthe differences of gravity at different points of Earth 's|dobj\tat different points of Earth 's|prep"
+                },
+                {
+                    "question": "What is the geoid model of gravity?",
+                    "score": 0.8828,
+                    "answers": "of gravity|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Thus, the areas of recreation in yellow are those where gravity is greater, while in blue the level is lower.",
+            "question_answers": [
+                {
+                    "question": "In what color is the level of gravity lower?",
+                    "answer": "blue"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the areas of recreation in yellow?",
+                    "score": 0.8162,
+                    "answers": "gravity|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The new geoid, reminiscent of a potato, was unveiled yesterday at the Fourth International Workshop for the European Space Agency (ESA) GOCE satellite Users organized at the Technical University of Munich, Germany .",
+            "question_answers": [
+                {
+                    "question": "At what event was the new geoid unveiled?",
+                    "answer": "Fourth International Workshop for the European Space Agency (ESA) GOCE satellite Users"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of geoid is similar to a potato?",
+                    "score": 0.8082,
+                    "answers": "The new geoid , reminiscent of a potato ,|nsubjpass"
+                },
+                {
+                    "question": "Who organized the Fourth International Workshop for ESA GOCE satellite Users?",
+                    "score": 0.7786,
+                    "answers": "organized at the Technical University of Munich , Germany|acl\tthe Technical University of Munich , Germany|pobj"
+                },
+                {
+                    "question": "What is ESA GOCE satellite users?",
+                    "score": 0.7636,
+                    "answers": "for the European Space Agency ( ESA ) GOCE satellite Users|prep"
+                },
+                {
+                    "question": "Where was the GOCE satellite originally located?",
+                    "score": 0.7549,
+                    "answers": "of Munich , Germany|prep"
+                },
+                {
+                    "question": "What is the GOCE satellite?",
+                    "score": 0.6762,
+                    "answers": "www.opinion.com.bo|nsubj\twww.opinion.com.bo reported on 31/03/2011 that The new geoid , reminiscent of a potato , was unveiled yesterday at the Fourth International Workshop for the European Space Agency ( ESA ) GOCE satellite Users organized at the Technical University of Munich , Germany|ROOT\ton 31/03/2011|prep\tthat|mark\tThe|det\tnew|amod\t,|punct\tof a potato|prep\ta|det\ta potato|pobj\t,|punct\twas|auxpass\tthat The new geoid , reminiscent of a potato , was unveiled yesterday at the Fourth International Workshop for the European Space Agency ( ESA ) GOCE satellite Users organized at the Technical University of Munich , Germany|ccomp\tthe|det\tInternational|compound\tthe|det\tEuropean|nmod\tSpace|nmod\t(|punct\t)|punct\tGOCE|compound\tGOCE satellite|compound\tthe European Space Agency ( ESA ) GOCE satellite Users|pobj\tthe|det\tTechnical|compound\tMunich , Germany|pobj\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "The geoid is the surface of a global ocean in the absence of tides and currents, uniquely by gravity effect.",
+            "question_answers": [
+                {
+                    "question": "The geoid is unique in the absence of tides and currents by what effect?",
+                    "answer": "gravity"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the geoid?",
+                    "score": 0.7992,
+                    "answers": "www.opinion.com.bo|nsubj\twww.opinion.com.bo reported on 31/03/2011 that The geoid is the surface of a global ocean in the absence of tides and currents , uniquely by gravity effect|ROOT\ton 31/03/2011|prep\tthat|mark\tThe|det\tThe geoid|nsubj\tthat The geoid is the surface of a global ocean in the absence of tides and currents , uniquely by gravity effect|ccomp\tthe|det\tthe surface of a global ocean|attr\tof a global ocean|prep\ta|det\tglobal|amod\ta global ocean|pobj\tin the absence of tides and currents|prep\tthe|det\tthe absence of tides and currents|pobj\tof tides and currents|prep\ttides and currents|pobj\tand|cc\tcurrents|conj\t,|punct\tuniquely|advmod"
+                },
+                {
+                    "question": "What is gravity effect?",
+                    "score": 0.7774,
+                    "answers": "uniquely by gravity effect|prep\tgravity|compound\tgravity effect|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The geoid is a key benchmark for measuring ocean circulation, sea-level change and ice dynamics, all of which are processes affected by climate change.",
+            "question_answers": [
+                {
+                    "question": "What is a key benchmark for measuring ocean circulation, sea-level change and ice dynamics?",
+                    "answer": "The geoid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the geoid used to measure?",
+                    "score": 0.8449,
+                    "answers": "measuring ocean circulation , sea - level change and ice dynamics , all of which are processes affected by climate change|pcomp\tocean circulation , sea - level change and ice dynamics , all of which are processes affected by climate change|dobj\tsea - level|compound\tclimate|compound"
+                },
+                {
+                    "question": "What are the process that are affected by climate change?",
+                    "score": 0.8007,
+                    "answers": "all of which are processes affected by climate change|relcl"
+                },
+                {
+                    "question": "What is the geoid?",
+                    "score": 0.7998,
+                    "answers": "www.opinion.com.bo|nsubj\ton 31/03/2011|prep\tThe geoid|nsubj"
+                },
+                {
+                    "question": "What is climate change?",
+                    "score": 0.788,
+                    "answers": "climate change|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "TOPOGRAPHS Professor Reiner Rummel, former head of the Institute of Astronomy and Physical Geodesy at the Technical University of Munich , explained:'GOCE will give us dynamic topography and patterns of ocean circulation with unprecedented quality and resolution.",
+            "question_answers": [
+                {
+                    "question": "Where was Professor Reiner Rummel from?",
+                    "answer": "Technical University of Munich"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Reiner Rummel attend school?",
+                    "score": 0.8482,
+                    "answers": "of Munich|prep\tMunich|pobj"
+                },
+                {
+                    "question": "What did Reiner Rummel teach at the Technical University of Munich?",
+                    "score": 0.8388,
+                    "answers": "of Astronomy and Physical Geodesy|prep\tAstronomy and Physical Geodesy|pobj\tPhysical|compound"
+                },
+                {
+                    "question": "What are the topography and patterns of ocean circulation?",
+                    "score": 0.7265,
+                    "answers": "dynamic|amod\tpatterns|conj\tocean|compound"
+                },
+                {
+                    "question": "What is the relationship between TOPOGRAPHS professor Reiner Rummel and ocean circulation?",
+                    "score": 0.7157,
+                    "answers": "TOPOGRAPHS Professor Reiner Rummel , former head of the Institute of Astronomy and Physical Geodesy at the Technical University of Munich ,|nsubj"
+                },
+                {
+                    "question": "Who is TOPOGRAPHS professor Reiner Rummel?",
+                    "score": 0.7072,
+                    "answers": "TOPOGRAPHS Professor|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Professor Reiner Rummel, former head of the Institute of Astronomy and Physical Geodesy at the Technical University of Munich am confident that these results will help to improve our understanding of the dynamics of Earth's oceans.",
+            "question_answers": [
+                {
+                    "question": "Where is the Institute of Astronomy and Physical Geodesy located?",
+                    "answer": "the Technical University of Munich"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Reiner Rummel work as a professor of Astronomy and Physical Geodesy?",
+                    "score": 0.8805,
+                    "answers": "Technical|compound"
+                },
+                {
+                    "question": "What did Reiner Rummel do to improve the dynamics of Earth's oceans?",
+                    "score": 0.8633,
+                    "answers": "former|amod"
+                },
+                {
+                    "question": "What type of geodesy did Reiner Rummel teach at the Technical University of Munich?",
+                    "score": 0.8567,
+                    "answers": "Physical|compound"
+                },
+                {
+                    "question": "What is Reiner Rummel's opinion on the dynamics of the oceans?",
+                    "score": 0.768,
+                    "answers": "www.opinion.com.bo reported on 31/03/2011 that Professor Reiner Rummel , former head of the Institute of Astronomy and Physical Geodesy at the Technical University of Munich am confident that these results will help to improve our understanding of the dynamics of Earth 's oceans|ROOT\tthat Professor Reiner Rummel , former head of the Institute of Astronomy and Physical Geodesy at the Technical University of Munich am confident that these results will help to improve our understanding of the dynamics of Earth 's oceans|ccomp\tconfident that these results will help to improve our understanding of the dynamics of Earth 's oceans|acomp"
+                },
+                {
+                    "question": "Who is Reiner Rummel?",
+                    "score": 0.7307,
+                    "answers": "Professor|compound\tReiner|compound\tformer head of the Institute of Astronomy and Physical Geodesy at the Technical University of Munich|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, the European Space Agency (ESA) GOCE satellite gravity data are helping to develop a deeper understanding of the processes that cause earthquakes, such as the case that recently devastated Japan.",
+            "question_answers": [
+                {
+                    "question": "What is helping to develop a deeper understanding of the processes that cause earthquakes?",
+                    "answer": "the European Space Agency (ESA) GOCE satellite gravity data"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What causes earthquakes?",
+                    "score": 0.8704,
+                    "answers": "that cause earthquakes|relcl"
+                },
+                {
+                    "question": "What is the process that causes earthquakes in Japan?",
+                    "score": 0.8233,
+                    "answers": "such as the case that recently devastated Japan|prep\tthe case that recently devastated Japan|pobj\tthat recently devastated Japan|relcl"
+                },
+                {
+                    "question": "What is ESA GOCE satellite gravity data?",
+                    "score": 0.795,
+                    "answers": "( ESA )|appos"
+                },
+                {
+                    "question": "What is the GOCE satellite?",
+                    "score": 0.6701,
+                    "answers": "satellite|compound\tgravity|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Since this earthquake was caused by the movement of tectonic plates under the ocean, the movement cannot be observed directly from space.",
+            "question_answers": [
+                {
+                    "question": "What was the cause of the earthquake?",
+                    "answer": "movement of tectonic plates"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the cause of the earthquake?",
+                    "score": 0.8193,
+                    "answers": "Since this earthquake was caused by the movement of tectonic plates under the ocean|advcl\tthat Since this earthquake was caused by the movement of tectonic plates under the ocean , the movement can not be observed directly from space|ccomp"
+                },
+                {
+                    "question": "What are tectonic plates?",
+                    "score": 0.8072,
+                    "answers": "tectonic plates|pobj"
+                },
+                {
+                    "question": "What is the movement of tectonic plates?",
+                    "score": 0.7964,
+                    "answers": "www.opinion.com.bo|nsubj\twww.opinion.com.bo reported on 31/03/2011 that Since this earthquake was caused by the movement of tectonic plates under the ocean , the movement can not be observed directly from space|ROOT\ton 31/03/2011|prep\tthat|mark\tSince|mark\tthis|det\twas|auxpass\tby the movement of tectonic plates under the ocean|agent\tthe|det\tthe movement of tectonic plates under the ocean|pobj\tof tectonic plates|prep\tthe|det\t,|punct\tthe|det\tnot|neg\tbe|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "However, earthquakes create signatures on gravity data, which could be used to understand the processes leading to these natural disasters and ultimately help predict them.",
+            "question_answers": [
+                {
+                    "question": "What could signatures on gravity data be used for?",
+                    "answer": "to understand the processes leading to these natural disasters"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can earthquakes generate signatures on gravity data?",
+                    "score": 0.9116,
+                    "answers": "that However , earthquakes create signatures on gravity data , which could be used to understand the processes leading to these natural disasters and ultimately help predict them|ccomp"
+                },
+                {
+                    "question": "How is gravity data able to predict natural disasters?",
+                    "score": 0.9027,
+                    "answers": "signatures on gravity data , which could be used to understand the processes leading to these natural disasters and ultimately help predict them|dobj"
+                },
+                {
+                    "question": "What is the process leading to earthquakes?",
+                    "score": 0.8401,
+                    "answers": "earthquakes|nsubj\tpredict them|xcomp"
+                },
+                {
+                    "question": "What is the relationship between earthquakes and gravity data?",
+                    "score": 0.7991,
+                    "answers": "ultimately|advmod"
+                },
+                {
+                    "question": "What is gravity data?",
+                    "score": 0.7844,
+                    "answers": "on gravity data|prep\tgravity|compound\tgravity data|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The GOCE satellite was launched in March of  and has been collecting gravity data for twelve months.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "When was the GOCE satellite launched?",
+                    "score": 0.8855,
+                    "answers": "www.opinion.com.bo reported on 31/03/2011 that The GOCE satellite was launched in March of   and has been collecting gravity data for twelve months|ROOT\ton 31/03/2011|prep\tthat|mark\tThe|det\tThe GOCE satellite|nsubjpass\twas|auxpass\tthat The GOCE satellite was launched in March of|ccomp\tin March of|prep\tMarch of|pobj\tof|prep\tand|cc\thas|aux\tbeen|aux\tfor twelve months|prep\ttwelve|nummod"
+                },
+                {
+                    "question": "How long has the GOCE satellite been collecting gravity data?",
+                    "score": 0.8546,
+                    "answers": "has been collecting gravity data for twelve months|conj"
+                },
+                {
+                    "question": "What is the GOCE satellite?",
+                    "score": 0.7764,
+                    "answers": "www.opinion.com.bo|nsubj\tgravity|compound\tgravity data|dobj"
+                }
+            ]
+        }
+    ]
+}

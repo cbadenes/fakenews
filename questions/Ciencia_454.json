@@ -1,0 +1,770 @@
+{
+    "id": "Ciencia_454",
+    "claim": "“In any crisis, leaders have two equally important responsibilities: to solve the immediate problem and prevent it from happening again”. These are the words with which Bill Gates begins to degrate, in a letter sent to The New England Journal of Medicine, which he considers the perfect recipes to deal with the coronavirus. Improving both vaccine manufacturing and research processes, increasing public and private funding or improving access to treatments are some of the keys identified by Gates. Gates considers it necessary to build a system that can develop safe and effective vaccines and antivirals, obtain their approval and administer billions of doses months after discovering a new pathogen. A challenge that he assures is difficult but that can be achieved if all actors pool their resources and efforts. “One of the main technical challenges for vaccines is to improve the old forms of protein manufacturing, which are too slow to respond to an epidemic,” he says. To overcome these barriers, the tycoon recommends developing “platforms that are expected to be safe, so that regulatory reviews can be carried out quickly, and that make it easier for manufacturers to produce large-scale and low-cost doses”. “One of the main challenges is to improve the forms of protein manufacture” In the case of antiviral treatments, Gates raises the need to establish an “organized system to detect existing treatments and candidate molecules in a fast and standardized manner”. Accelerating R & DThe development of vaccines and antiviral treatments involves, according to Bill Gates, massive clinical trials, as well as licensing agreements that transcend national borders. To this end, the tycoon calls for maximum use of global forums to reach consensus on research priorities and test protocols so that promising vaccine and antiviral candidates can move forward quickly. “The objective should be to obtain conclusive results from clinical trials and achieve regulatory approval within three months or less, without compromising patient safety”. More public and private fundingTo get these drugs to patients as soon as possible, Bill Gates points to the need to increase funding efforts. “Budgets should be expanded. Billions of dollars are needed to complete phase III clinical trials and ensure regulatory approval of coronavirus vaccines.”. And even more, he points out, to ensure “surveillance and response” to Covid-19. Gates recalls that the development of pandemic products are investments “of extraordinary high risk”. “Increasing public funding will minimise risk for pharmaceutical companies,” he notes. But it goes much further, and it raises the possibility that governments and other agents can finance manufacturing facilities that can generate vaccine supplies within weeks. “These facilities can produce vaccines for routine immunization programs in normal times and would be quickly reconditioned for production during a pandemic.”. Finally, he insists, governments “should finance the acquisition and distribution of vaccines to populations in need”. “We already see how the coronavirus can disrupt supply chains and stock markets.”The mogul is aware of the investment that all this requires, although he remembers the impact that a pandemic can cause. “We are already seeing how Covid-19 can disrupt supply chains and stock markets, not to mention people's lives.”. For this reason, these investments are, in his opinion, “a bargain”. Access agreementsFinally Gates raises debate on access to treatment. From their point of view, governments and industry should agree: “during a pandemic, vaccines and antivirals cannot be sold simply to the highest bidder”. The treatments, he believes, “should be available and affordable for people who are at the center of the outbreak and who need them most”. I'm sorry.",
+    "source": "gacetamedica.com",
+    "date": "03/03/2020",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "“In any crisis, leaders have two equally important responsibilities: to solve the immediate problem Bill Gates prevent the immediate problem from happening again”.",
+            "question_answers": [
+                {
+                    "question": "What are the two responsibilities of leaders in a crisis?",
+                    "answer": "to solve the immediate problem Bill Gates prevent the immediate problem from happening again”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the responsibilities of leaders to solve the immediate problem Bill Gates?",
+                    "score": 0.7896,
+                    "answers": "Bill|compound"
+                }
+            ]
+        },
+        {
+            "claim": "These are the words with which Bill Gates begins to degrate, in a letter Bill Gates The New England Journal of Medicine, which Bill Gates considers the perfect recipes to deal with the coronavirus.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that Bill Gates begins to degrate?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Bill Gates say in a letter to the New England Journal of Medicine?",
+                    "score": 0.8288,
+                    "answers": "in a letter Bill Gates The New England Journal of Medicine , Bill Gates considers which the perfect recipes to deal with the coronavirus|prep"
+                },
+                {
+                    "question": "What does gacetamedica.com say about a coronavirus?",
+                    "score": 0.7756,
+                    "answers": "perfect|amod"
+                },
+                {
+                    "question": "What are the words that Bill Gates considers the perfect recipes to deal with the coronavirus?",
+                    "score": 0.7376,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that These are the words with which Bill Gates begins to degrate , in a letter Bill Gates The New England Journal of Medicine , Bill Gates considers which the perfect recipes to deal with the coronavirus|ROOT\tthat These are the words with which Bill Gates begins to degrate , in a letter Bill Gates The New England Journal of Medicine , Bill Gates considers which the perfect recipes to deal with the coronavirus|ccomp\tthe words with which Bill Gates begins to degrate|attr"
+                },
+                {
+                    "question": "What is the relationship between Bill Gates and the coronavirus?",
+                    "score": 0.6969,
+                    "answers": "with which Bill Gates begins to degrate|relcl\tto degrate|xcomp\tBill Gates The New England Journal of Medicine ,|appos"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6301,
+                    "answers": "the|det\ta|det\tThe|det\tNew|compound\tof Medicine|prep\tMedicine|pobj\tthe|det\twhich the perfect recipes to deal with the coronavirus|ccomp\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "Improving promising vaccine and antiviral candidates processes, increasing public and private funding or improving access to treatments are some of the keys identified by Bill Gates .",
+            "question_answers": [
+                {
+                    "question": "What are some of the keys identified by Bill Gates?",
+                    "answer": "increasing public and private funding or improving access to treatments"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the keys to developing promising vaccines and antiviral candidates?",
+                    "score": 0.8427,
+                    "answers": "promising|amod"
+                },
+                {
+                    "question": "What is the key to improving access to treatments?",
+                    "score": 0.7812,
+                    "answers": "improving access to treatments|conj"
+                },
+                {
+                    "question": "What are the key keys identified by Bill Gates?",
+                    "score": 0.7565,
+                    "answers": "antiviral|amod\tpromising vaccine and antiviral candidates processes|dobj\tprivate|conj\taccess to treatments|dobj"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6331,
+                    "answers": "public and private|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Bill Gates considers it necessary to build a system that can develop safe and effective vaccines and antivirals , obtain approval and administer billions Bill Gates after discovering a new pathogen.",
+            "question_answers": [
+                {
+                    "question": "What did Bill Gates consider it necessary to do?",
+                    "answer": "to build a system that can develop safe and effective vaccines and antivirals"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Bill Gates believe it necessary to develop safe and effective vaccines and antivirals?",
+                    "score": 0.9108,
+                    "answers": "that Bill Gates considers it necessary to build a system that can develop safe and effective vaccines and antivirals , obtain approval and administer billions Bill Gates after discovering a new pathogen|ccomp"
+                },
+                {
+                    "question": "What pathogen did Bill Gates discover?",
+                    "score": 0.8646,
+                    "answers": "after discovering a new pathogen|prep\tdiscovering a new pathogen|pcomp"
+                },
+                {
+                    "question": "What did Bill Gates say about creating a new pathogen?",
+                    "score": 0.8091,
+                    "answers": "obtain approval and administer billions Bill Gates after discovering a new pathogen|conj\tadminister billions Bill Gates after discovering a new pathogen|conj"
+                },
+                {
+                    "question": "What is Bill Gates's position on vaccines and antivirals?",
+                    "score": 0.7548,
+                    "answers": "it necessary to build a system that can develop safe and effective vaccines and antivirals , obtain approval and administer billions Bill Gates after discovering a new pathogen|ccomp"
+                },
+                {
+                    "question": "What is the purpose of the gacetamedica.com system?",
+                    "score": 0.6195,
+                    "answers": "to build a system that can develop safe and effective vaccines and antivirals , obtain approval and administer billions Bill Gates after discovering a new pathogen|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "A challenge that Bill Gates assures is difficult but that can be achieved if all actors pool resources and efforts.",
+            "question_answers": [
+                {
+                    "question": "How can a challenge that Bill Gates promises can be achieved?",
+                    "answer": "if all actors pool resources and efforts"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can all actors pool resources and efforts to attain Bill Gates’s goal?",
+                    "score": 0.8655,
+                    "answers": "can|aux"
+                },
+                {
+                    "question": "What does it mean to pool resources and efforts?",
+                    "score": 0.8369,
+                    "answers": "that can be achieved if all actors pool resources and efforts|conj\tall actors|nsubj\tif all actors pool resources and efforts|advcl"
+                },
+                {
+                    "question": "What is the challenge that Bill Gates is trying to achieve?",
+                    "score": 0.755,
+                    "answers": "that A challenge that Bill Gates assures is difficult but that can be achieved if all actors pool resources and efforts|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Bill Gates' achievement?",
+                    "score": 0.7373,
+                    "answers": "on 03/03/2020|prep\tthat|mark\tA|det\tthat|dobj\tbut|cc\tthat|nsubjpass\tbe|auxpass\tif|mark\tall|det"
+                },
+                {
+                    "question": "What does gacetamedica.com do?",
+                    "score": 0.6648,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that A challenge that Bill Gates assures is difficult but that can be achieved if all actors pool resources and efforts|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "“One of the main technical challenges for vaccines is to improve the old forms of protein manufacturing, which are too slow to respond to an epidemic Bill Gates the old forms of protein manufacturing, which are too slow to respond to an epidemic ,” Bill Gates says.",
+            "question_answers": [
+                {
+                    "question": "What did Bill Gates say about the old forms of protein manufacturing?",
+                    "answer": "too slow to respond to an epidemic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the process for making vaccines?",
+                    "score": 0.8117,
+                    "answers": "vaccines|pobj"
+                },
+                {
+                    "question": "What are the main technical challenges for vaccines?",
+                    "score": 0.8112,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that “ One of the main technical challenges for vaccines is to improve the old forms of protein manufacturing , which are too slow to respond to an epidemic Bill Gates the old forms of protein manufacturing , which are too slow to respond to an epidemic , ” Bill Gates says|ROOT\tOne of the main technical challenges for vaccines|nsubj\tof the main technical challenges for vaccines|prep\tthe main technical challenges for vaccines|pobj\tOne of the main technical challenges for vaccines is to improve the old forms of protein manufacturing , which are too slow to respond to an epidemic Bill Gates the old forms of protein manufacturing , which are too slow to respond to an epidemic|ccomp"
+                },
+                {
+                    "question": "How many new forms of protein manufacturing are there?",
+                    "score": 0.7396,
+                    "answers": "on 03/03/2020|prep\tto respond to an epidemic|xcomp\tto respond to an epidemic|xcomp"
+                },
+                {
+                    "question": "What are the technical challenges for improving the old forms of protein manufacturing?",
+                    "score": 0.7395,
+                    "answers": "technical|amod"
+                },
+                {
+                    "question": "What is the current rate of protein manufacturing in the United States?",
+                    "score": 0.7361,
+                    "answers": "an epidemic|pobj\tan epidemic|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "To overcome the old forms of protein manufacturing, which are too slow to respond to an epidemic , Bill Gates recommends developing “platforms that Increasing public funding , so that regulatory reviews can be carried out quickly, and that make it easier for manufacturers to produce large-scale and low-cost doses”.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Bill Gates say about the new forms of protein manufacturing?",
+                    "score": 0.8029,
+                    "answers": "quickly|advmod"
+                },
+                {
+                    "question": "How much money does Bill Gates want to spend on developing new platforms?",
+                    "score": 0.772,
+                    "answers": "that To overcome the old forms of protein manufacturing , which are too slow to respond to an epidemic , Bill Gates recommends developing “ platforms that Increasing public funding , so that regulatory reviews can be carried out quickly , and that make it easier for manufacturers to produce large - scale and low - cost doses|ccomp"
+                },
+                {
+                    "question": "What is the current rate of protein manufacturing?",
+                    "score": 0.7387,
+                    "answers": "To overcome the old forms of protein manufacturing , which are too slow to respond to an epidemic|advcl\tthe old forms of protein manufacturing , which are too slow to respond to an epidemic|dobj"
+                },
+                {
+                    "question": "What are the costs of developing new platforms for increasing public funding?",
+                    "score": 0.7057,
+                    "answers": "which are too slow to respond to an epidemic|relcl\tlarge - scale and low - cost doses|dobj"
+                },
+                {
+                    "question": "What is the process used to produce large-scale and low-cost doses?",
+                    "score": 0.6857,
+                    "answers": "for manufacturers to produce large - scale and low - cost doses|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "“One of the main challenges manufacturing facilities that can generate vaccine supplies within weeks antiviral manufacturing facilities that can generate vaccine supplies within weeks , Bill Gates raises the need to establish an “organized system to detect existing treatments and candidate molecules in a fast and standardized manner”.",
+            "question_answers": [
+                {
+                    "question": "What is one of the main challenges manufacturing facilities that can generate vaccine supplies within weeks?",
+                    "answer": "antiviral manufacturing facilities that can generate vaccine supplies within weeks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long does it take to generate vaccine supplies?",
+                    "score": 0.8087,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that “ One of the main challenges manufacturing facilities that can generate vaccine supplies within weeks antiviral manufacturing facilities that can generate vaccine supplies within weeks , Bill Gates raises the need to establish an “ organized system to detect existing treatments and candidate molecules in a fast and standardized manner ”|ROOT\tOne of the main challenges manufacturing facilities that can generate vaccine supplies within weeks antiviral manufacturing facilities that can generate vaccine supplies within weeks ,|nsubj\tof the main challenges manufacturing facilities that can generate vaccine supplies within weeks antiviral manufacturing facilities that can generate vaccine supplies within weeks|prep\tmanufacturing facilities that can generate vaccine supplies within weeks antiviral manufacturing facilities that can generate vaccine supplies within weeks|acl\tfacilities that can generate vaccine supplies within weeks antiviral manufacturing facilities that can generate vaccine supplies within weeks|dobj\tcan|aux\tthat can generate vaccine supplies within weeks|relcl\tvaccine|compound\tvaccine supplies|dobj\twithin weeks|prep\tantiviral|amod\tantiviral manufacturing facilities that can generate vaccine supplies within weeks|appos\tcan|aux\tthat can generate vaccine supplies within weeks|relcl\tvaccine|compound\tvaccine supplies|dobj\twithin weeks|prep\texisting|amod"
+                },
+                {
+                    "question": "How fast is the process to detect existing treatments and candidate molecules?",
+                    "score": 0.7877,
+                    "answers": "a fast and standardized manner|pobj"
+                },
+                {
+                    "question": "What are the main challenges of manufacturing facilities that generate vaccine supplies within weeks?",
+                    "score": 0.7199,
+                    "answers": "the main challenges manufacturing facilities that can generate vaccine supplies within weeks antiviral manufacturing facilities that can generate vaccine supplies within weeks|pobj"
+                },
+                {
+                    "question": "What is Bill Gates' position on vaccines?",
+                    "score": 0.7038,
+                    "answers": "Bill|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Accelerating R & DThe development of vaccines and antiviral treatments involves, according to Bill Gates, massive clinical trials, as well as licensing agreements that transcend national borders.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that Accelerating R & D involves massive clinical trials?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the licensing agreements for developing vaccines and antiviral treatments?",
+                    "score": 0.8405,
+                    "answers": "licensing agreements that transcend national borders|conj\tthat transcend national borders|relcl"
+                },
+                {
+                    "question": "What is the relationship between R & D and Vaccine?",
+                    "score": 0.6966,
+                    "answers": "as well as|cc"
+                },
+                {
+                    "question": "What is the purpose of developing R & D?",
+                    "score": 0.6756,
+                    "answers": "licensing|compound\tnational borders|dobj"
+                },
+                {
+                    "question": "What is Bill Gates' stance on R & D?",
+                    "score": 0.6626,
+                    "answers": "according to Bill Gates|prep\tBill|compound"
+                },
+                {
+                    "question": "What is R&D?",
+                    "score": 0.6269,
+                    "answers": "R & DThe|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "To this end, the tycoon calls for maximum use of global forums to reach consensus on research priorities and test protocols so that promising vaccine and antiviral candidates can move forward quickly.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the tycoon called for maximum use of global forums to reach consensus on research priorities and test protocols?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the tycoon call for global forums to reach consensus on research priorities?",
+                    "score": 0.7982,
+                    "answers": "on 03/03/2020|prep"
+                },
+                {
+                    "question": "What are the names of the promising vaccine and antiviral candidates?",
+                    "score": 0.7236,
+                    "answers": "promising vaccine and antiviral candidates|nsubj"
+                },
+                {
+                    "question": "What are the research priorities and test protocols that the tycoon calls for?",
+                    "score": 0.6759,
+                    "answers": "consensus on research priorities and test protocols|dobj"
+                },
+                {
+                    "question": "What is the relationship between the tycoon and the virus?",
+                    "score": 0.6189,
+                    "answers": "this end|pobj"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6074,
+                    "answers": "that|mark\tTo this end|prep\tthis|det\t,|punct\tthe|det\tmaximum|amod\tmaximum use of global forums|pobj\tof global forums|prep\tglobal|amod\tglobal forums|pobj\tto|aux\tresearch|compound\tand|cc\ttest|compound\tso|mark\tthat|mark\tpromising|amod\tvaccine and antiviral|nmod\tand|cc\tantiviral|conj\tcan|aux\tso that promising vaccine and antiviral candidates can move forward quickly|advcl\tforward|advmod\tquickly|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "“The objective should be to obtain conclusive results from clinical trials and achieve regulatory approval within three months or less, without compromising patient safety”.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that the objective should be to obtain conclusive results from clinical trials and achieve regulatory approval within three months or less?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does gacetamedica.com want to achieve?",
+                    "score": 0.8218,
+                    "answers": "achieve regulatory approval within three months or less , without compromising patient safety|conj"
+                },
+                {
+                    "question": "What does gacetamedica.com say about patient safety?",
+                    "score": 0.8177,
+                    "answers": "patient safety|dobj"
+                },
+                {
+                    "question": "What is the objective of gacetamedica.com?",
+                    "score": 0.7041,
+                    "answers": "The objective|nsubj"
+                },
+                {
+                    "question": "What is the purpose of gacetamedica.com?",
+                    "score": 0.7016,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that “ The objective should be to obtain conclusive results from clinical trials and achieve regulatory approval within three months or less , without compromising patient safety ”|ROOT\ton 03/03/2020|prep\tthat|mark\t“|punct\tThe|det\tshould|aux\tthat “ The objective should be to obtain conclusive results from clinical trials and achieve regulatory approval within three months or less , without compromising patient safety ”|ccomp\tto|aux\tto obtain conclusive results from clinical trials and achieve regulatory approval within three months or less , without compromising patient safety|xcomp\tconclusive|amod\tconclusive results|dobj\tfrom clinical trials|prep\tand|cc\twithin three months or less|prep\tthree|nummod\tor|cc\tor less|nummod\t,|punct\twithout compromising patient safety|prep\tcompromising patient safety|pcomp\tpatient|compound\t”|punct"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6905,
+                    "answers": "clinical|amod\tclinical trials|pobj\tregulatory|amod\tregulatory approval|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "More public and private fundingTo get these drugs to patients as soon as possible, Bill Gates points to the need to increase funding efforts.",
+            "question_answers": [
+                {
+                    "question": "What website reported that more public and private funding was needed to get drugs to patients as soon as possible?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is needed to get these drugs to patients?",
+                    "score": 0.9044,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that More public and private fundingTo get these drugs to patients as soon as possible , Bill Gates points to the need to increase funding efforts|ROOT\ton 03/03/2020|prep\tMore|amod\tMore public and private|amod\tand|cc\tprivate|conj\tMore public and private fundingTo|aux\tthat More public and private fundingTo get these drugs to patients as soon as possible|ccomp\tthese|det\tthese drugs|dobj\tto patients|prep\tpatients|pobj\tas soon as possible|advmod\tas possible|prep\tpossible|amod\tto the need to increase funding efforts|prep\tthe|det\tfunding|compound\tfunding efforts|dobj"
+                },
+                {
+                    "question": "What did Bill Gates say about the need to increase funding for these drugs?",
+                    "score": 0.8944,
+                    "answers": "to increase funding efforts|acl"
+                }
+            ]
+        },
+        {
+            "claim": "“Budgets should be expanded.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that “Budgets should be expanded”?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6525,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that “ Budgets should be expanded|ROOT\ton 03/03/2020|prep\tthat|mark\t“|punct\tBudgets|nsubjpass\tshould|aux\tbe|auxpass\tthat “ Budgets should be expanded|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Billions of dollars are needed to complete phase III clinical trials and ensure regulatory approval of coronavirus vaccines.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that Billions of dollars were needed to complete phase III clinical trials and ensure regulatory approval of coronavirus vaccines?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is needed to ensure regulatory approval of coronavirus vaccines?",
+                    "score": 0.9201,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that Billions of dollars are needed to complete phase III clinical trials and ensure regulatory approval of coronavirus vaccines|ROOT\tthat Billions of dollars are needed to complete phase III clinical trials and ensure regulatory approval of coronavirus vaccines|ccomp\tto|aux\tensure regulatory approval of coronavirus vaccines|conj\tcoronavirus|compound"
+                }
+            ]
+        },
+        {
+            "claim": "And even more, he points out, to ensure “surveillance and response” to Covid-19.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that And even more, to ensure “surveillance and response” to Covid-19?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Covid-19 program?",
+                    "score": 0.6429,
+                    "answers": ", he points out , to ensure “ surveillance and response ” to Covid-19|relcl"
+                },
+                {
+                    "question": "What does gacetamedica.com do to respond to Covid-19?",
+                    "score": 0.6305,
+                    "answers": "“ surveillance and response ” to Covid-19|dobj"
+                },
+                {
+                    "question": "What is the relationship between surveillance and response to Covid-19?",
+                    "score": 0.6148,
+                    "answers": "that And even more , he points out , to ensure “ surveillance and response ” to Covid-19|dobj"
+                },
+                {
+                    "question": "What is Covid-19?",
+                    "score": 0.6075,
+                    "answers": "to Covid-19|prep\tCovid-19|pobj"
+                },
+                {
+                    "question": "What does gacetamedica.com say about surveillance and response?",
+                    "score": 0.5324,
+                    "answers": "on 03/03/2020|prep\tout|prt"
+                }
+            ]
+        },
+        {
+            "claim": "Gates recalls that the development of pandemic products are investments “of extraordinary high risk”.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Gates recalls that the development of pandemic products are investments of extraordinary high risk?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the development of pandemic products?",
+                    "score": 0.8272,
+                    "answers": "that the development of pandemic products are investments “ of extraordinary high risk ”|ccomp"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6172,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that Gates recalls that the development of pandemic products are investments “ of extraordinary high risk ”|ROOT\ton 03/03/2020|prep\tthat|mark\tthat Gates recalls that the development of pandemic products are investments “ of extraordinary high risk ”|ccomp\tthat|mark\tthe|det\tthe development of pandemic products|nsubj\tof pandemic products|prep\tpandemic|amod\tpandemic products|pobj\tinvestments “ of extraordinary high risk|attr\t“|punct\tof extraordinary high risk|prep\textraordinary|amod\thigh|amod\textraordinary high risk|pobj\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "“Increasing public funding will minimise risk for pharmaceutical companies,” he notes.",
+            "question_answers": [
+                {
+                    "question": "What website reported that increasing public funding will minimise risk for pharmaceutical companies?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of public funding for pharmaceutical companies?",
+                    "score": 0.8832,
+                    "answers": "public funding|dobj\tthat “ Increasing public funding will minimise risk for pharmaceutical companies|ccomp"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6975,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that “ Increasing public funding will minimise risk for pharmaceutical companies|ccomp\ton 03/03/2020|prep\tthat|mark\t“|punct\tIncreasing public funding|csubj\tpublic|amod\twill|aux\trisk for pharmaceutical companies|dobj\tfor pharmaceutical companies|prep\tpharmaceutical|amod\tpharmaceutical companies|pobj\t,|punct\t”|punct\the|nsubj\tgacetamedica.com reported on 03/03/2020 that “ Increasing public funding will minimise risk for pharmaceutical companies , ” he notes|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "But it goes much further, and it raises the possibility that governments and other agents can finance manufacturing facilities that can generate vaccine supplies within weeks.",
+            "question_answers": [
+                {
+                    "question": "What website reported on this issue on 03/03/2020?",
+                    "answer": "gacetamedica.com"
+                },
+                {
+                    "question": "Who can finance manufacturing facilities that can produce vaccine supplies within weeks?",
+                    "answer": "governments and other agents"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money can the government fund to generate vaccine supplies?",
+                    "score": 0.8494,
+                    "answers": "that governments and other agents can finance manufacturing facilities that can generate vaccine supplies within weeks|acl"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.5758,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that But it goes much further , and it raises the possibility that governments and other agents can finance manufacturing facilities that can generate vaccine supplies within weeks|ROOT\ton 03/03/2020|prep\tthat|mark\tBut|cc\tit|nsubj\tthat But it goes much further , and it raises the possibility that governments and other agents can finance manufacturing facilities that can generate vaccine supplies within weeks|ccomp\tmuch|advmod\tmuch further|advmod\t,|punct\tand|cc\tit|nsubj\tit raises the possibility that governments and other agents can finance manufacturing facilities that can generate vaccine supplies within weeks|conj\tthe|det\tthe possibility that governments and other agents can finance manufacturing facilities that can generate vaccine supplies within weeks|dobj\tthat|mark\tgovernments and other agents|nsubj\tand|cc\tother|amod\tother agents|conj\tcan|aux\tmanufacturing|compound\tthat|nsubj\tcan|aux\tvaccine|compound"
+                }
+            ]
+        },
+        {
+            "claim": "“These facilities can produce vaccines for routine immunization programs in normal times and would be quickly reconditioned for production during a pandemic.",
+            "question_answers": [
+                {
+                    "question": "What website reported on vaccine production facilities on 03/03/2020?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of vaccines would be reconditioned for production during a pandemic?",
+                    "score": 0.8628,
+                    "answers": "These facilities|nsubj"
+                },
+                {
+                    "question": "How long would it take to recondition vaccines for routine immunization programs?",
+                    "score": 0.8271,
+                    "answers": "normal times|pobj"
+                },
+                {
+                    "question": "What type of immunization programs are available at these facilities?",
+                    "score": 0.8055,
+                    "answers": "routine immunization programs|pobj"
+                },
+                {
+                    "question": "What would happen if the flu was reconditioned?",
+                    "score": 0.7327,
+                    "answers": "a pandemic|pobj"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.5765,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that “ These facilities can produce vaccines for routine immunization programs in normal times and would be quickly reconditioned for production during a pandemic|ROOT\tthat|mark\t“|punct\tThese|det\tand|cc\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "Finally, he insists, governments “should finance the acquisition and distribution of vaccines to populations in need”.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that Finally, governments should finance the acquisition and distribution of vaccines to populations in need?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money should be spent to purchase and distribute vaccines to populations in need?",
+                    "score": 0.9057,
+                    "answers": "the acquisition and distribution of vaccines to populations in need|dobj"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6691,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that Finally , he insists , governments “ should finance the acquisition and distribution of vaccines to populations in need ”|ROOT\tthat|mark\tFinally|advmod\t,|punct\the|nsubj\t, he insists ,|parataxis\t,|punct\tgovernments|nsubj\t“|punct\tshould|aux\tthe|det\tand|cc\tdistribution|conj\tof vaccines|prep\tvaccines|pobj\tpopulations in need|pobj\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "“We already see how the coronavirus can disrupt supply chains and stock markets.",
+            "question_answers": [
+                {
+                    "question": "What website reported on the coronavirus on 03/03/2020?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can coronavirus disrupt supply chains and stock markets?",
+                    "score": 0.9152,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that “ We already see how the coronavirus can disrupt supply chains and stock markets|ROOT\ton 03/03/2020|prep\tthat “ We already see how the coronavirus can disrupt supply chains and stock markets|ccomp\thow the coronavirus can disrupt supply chains and stock markets|ccomp"
+                },
+                {
+                    "question": "What is the coronavirus?",
+                    "score": 0.8076,
+                    "answers": "the coronavirus|nsubj"
+                },
+                {
+                    "question": "What is the relationship between coronavirus and stock markets?",
+                    "score": 0.7575,
+                    "answers": "“|punct\tstock markets|conj"
+                }
+            ]
+        },
+        {
+            "claim": "”The mogul is aware of the investment that all this requires, although he remembers the impact that a pandemic can cause.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the mogul is aware of the investment that all this requires?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is required to fund the pandemic?",
+                    "score": 0.805,
+                    "answers": "aware of the investment that all this requires|acomp\tof the investment that all this requires|prep\tthe investment that all this requires|pobj"
+                },
+                {
+                    "question": "Who is aware of the impact that a pandemic can cause?",
+                    "score": 0.7343,
+                    "answers": "The mogul|nsubj"
+                },
+                {
+                    "question": "What is the impact of a pandemic?",
+                    "score": 0.7092,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that ” The mogul is aware of the investment that all this requires , although he remembers the impact that a pandemic can cause|ROOT\ton 03/03/2020|prep\t”|punct\tThe|det\tall|predet\tall this|nsubj\tthat all this requires|relcl\talthough|mark\talthough he remembers the impact that a pandemic can cause|advcl\ta pandemic|nsubj\tthat a pandemic can cause|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "“We are already seeing how Covid-19 can disrupt supply chains and stock markets, not to mention people's lives.",
+            "question_answers": [
+                {
+                    "question": "What website reported that \"We are already seeing how Covid-19 can disrupt supply chains and stock markets?\"",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can Covid-19 disrupt supply chains and stock markets?",
+                    "score": 0.9153,
+                    "answers": "that|mark\tWe|nsubj\tare|aux\talready|advmod\thow|advmod\tcan|aux\tand|cc\tstock|compound\t,|punct\tnot|neg\tto|dep"
+                },
+                {
+                    "question": "What is Covid-19?",
+                    "score": 0.7584,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that “ We are already seeing how Covid-19 can disrupt supply chains and stock markets , not to mention people 's lives|ROOT\ton 03/03/2020|prep\t“|punct\tthat “ We are already seeing how Covid-19 can disrupt supply chains and stock markets , not to mention people 's lives|ccomp\tCovid-19|nsubj\thow Covid-19 can disrupt supply chains and stock markets , not to mention people 's lives|ccomp\tsupply|compound\tsupply chains and stock markets , not to mention people 's lives|dobj\tnot to mention|cc\tpeople 's|poss\t's|case\tpeople 's lives|conj"
+                }
+            ]
+        },
+        {
+            "claim": "For this reason, these investments are, in his opinion, “a bargain”.",
+            "question_answers": [
+                {
+                    "question": "What website reported that these investments are, in his opinion, a bargain?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is a bargain?",
+                    "score": 0.8193,
+                    "answers": "that For this reason , these investments are , in his opinion , “ a bargain ”|ccomp\ta|det\ta bargain|attr"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of investments made by gacetamedica.com?",
+                    "score": 0.7126,
+                    "answers": "on 03/03/2020|prep"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6582,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that For this reason , these investments are , in his opinion , “ a bargain ”|ROOT\tthat|mark\tFor this reason|prep\tthis|det\tthis reason|pobj\t,|punct\tthese|det\tthese investments|nsubj\t,|punct\tin his opinion|prep\this|poss\this opinion|pobj\t,|punct\t“|punct\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Access agreementsFinally Gates raises debate on access to treatment.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that Access agreements raised debate on access to treatment?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Access agreements raise debate on access to treatment for?",
+                    "score": 0.872,
+                    "answers": "access to treatment|pobj"
+                },
+                {
+                    "question": "What does the Access Agreement say about access to treatment?",
+                    "score": 0.8492,
+                    "answers": "that Access agreementsFinally Gates raises debate on access to treatment|ccomp"
+                },
+                {
+                    "question": "How many Access agreements are there?",
+                    "score": 0.8458,
+                    "answers": "Access agreementsFinally Gates|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of Access agreements between Gates and Access agreements?",
+                    "score": 0.7902,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What are the Access Agreement Finally Gates?",
+                    "score": 0.7608,
+                    "answers": "Access agreementsFinally|dep"
+                }
+            ]
+        },
+        {
+            "claim": "From their point of view, governments and industry should agree: “during a pandemic, vaccines and antivirals cannot be sold simply to the highest bidder”.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that governments and industry should agree that vaccines and antivirals cannot be sold to the highest bidder?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many vaccines and antiretrovirals were sold during the pandemic?",
+                    "score": 0.8895,
+                    "answers": "vaccines and antivirals|nsubjpass"
+                },
+                {
+                    "question": "What does gacetamedica.com say about vaccines during a pandemic?",
+                    "score": 0.8884,
+                    "answers": "“ during a pandemic , vaccines and antivirals can not be sold simply to the highest bidder|ccomp"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6716,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that From their point of view , governments and industry should agree : “ during a pandemic , vaccines and antivirals can not be sold simply to the highest bidder ”|ROOT\ton 03/03/2020|prep\tthat|mark\tFrom their point of view|prep\ttheir|poss\ttheir point of view|pobj\tof view|prep\tview|pobj\t,|punct\tgovernments and industry|nsubj\tand|cc\tindustry|conj\tshould|aux\tthat From their point of view , governments and industry should agree : “ during a pandemic , vaccines and antivirals can not be sold simply to the highest bidder|ccomp\t:|punct\t“|punct\tduring a pandemic|prep\ta|det\ta pandemic|pobj\t,|punct\tand|cc\tantivirals|conj\tcan|aux\tnot|neg\tbe|auxpass\tsimply|advmod\tsimply to the highest bidder|prep\tthe|det\thighest|amod\tthe highest bidder|pobj\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "The treatments, he believes, “should be available and affordable for people who are at the center of the outbreak and who need them most”.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/03/2020 that the treatments should be available and affordable for people who are at the center of the outbreak and who need them most?",
+                    "answer": "gacetamedica.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does gacetamedica.com say about the treatment for people at the center of the outbreak?",
+                    "score": 0.738,
+                    "answers": "for people who are at the center of the outbreak and who need them most|prep\tat the center of the outbreak|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Dr. George Flinn's position on the flu outbreak?",
+                    "score": 0.726,
+                    "answers": "that|mark\t, he believes ,|parataxis\tmost|advmod"
+                },
+                {
+                    "question": "What is gacetamedica.com?",
+                    "score": 0.6154,
+                    "answers": "gacetamedica.com reported on 03/03/2020 that The treatments , he believes , “ should be available and affordable for people who are at the center of the outbreak and who need them most ”|ROOT\tThe|det\t,|punct\the|nsubj\t,|punct\t“|punct\tavailable and affordable|acomp\tand|cc\taffordable|conj\tthe|det\tthe center of the outbreak|pobj\tof the outbreak|prep\tthe|det\tthe outbreak|pobj\tand|cc\tthem|dobj\t”|punct"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "id": "51_Society_101",
+    "claim": "A group of Arab scientists admits that women are non-human mammalsIn an unprecedented decision, a group of scientists from Saudi Arabia have come to the conclusion that women are actually mammals, granting them the same rights as other mammalian species, such as camels, dromedaries and even goats. Kach: This makes everything clear to me, now I understand why they are so into zoophilia, they think that goats are better than the woman,!! okay!!. What leaves me a little out of place is what Jane Austin says, and with so much emotion, I don't know if I have to throw firecrackers for that great achievement, or throw at firecracker Jane Austin. The verdict, which was reduced to only hours before International Women's Day, is considered 'historic 'by some experts and women's rights groups. This is a big step forward for women's rights in Saudi Arabia, concludes Jane Austin, spokesperson for the Women's Liberation Action Network. It may seem too little, too late, but it is truly a milestone for all women in the region, she says, visibly excited. From now on, women will be regarded as members of the mammalian class, whereas earlier women shared the legal status of an object, similar to that of an appliance, admits. This verdict shows the incredible progress made by the women's rights movement in the last few years, he admitted at a press conference this morning. Finally, women will no longer be considered simply as objects without a soul, but as full-fledged mammals, with the same rights as other animals of their species, such as camels and goats, he said,visibly excited. Women are still far from being considered % human, but their condition will improve dramatically with this decision, believe firmly. The verdict, which fell like a ton of bricks in the Saudi state, has clearly not found unified support between religious authorities and the political elite, acknowledged experts. Significant turbulence could be created in the current state of Saudi Arabia's legal situation and judicial system, says Middle East political analyst Anthony Bochstein. If before women had the same rights as a chair or table and were seen more as individual property, they now have a range equivalent to that of some animal species, for it means that they should receive at least food, and a minimum of attention and respect, which was not the case before,explains. According to the panel of experts on the issue, women still lack a soul, but it has been shown that they possess common qualities of mammalian species, which would explain their ability to procreate and breastfeed, why they are equipped with seven cervical vertebrae, a unique characteristic of mammalian species. I'm sorry.",
+    "source": "www.argumentopolitico.com",
+    "date": "01/07/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A group of Arab scientists admits that women are non-human mammalsIn an unprecedented decision , A group of Arab scientists have come to the conclusion that women are actually mammals, granting women the same rights as other mammalian species, such as camels, dromedaries and even goats.",
+            "question_answers": [
+                {
+                    "question": "What was the decision made by the Arab scientists to admit that women are non-human mammals?",
+                    "answer": "unprecedented decision"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did a group of Arab scientists admit about women being non-human mammals?",
+                    "score": 0.8232,
+                    "answers": "that|mark\tA|det\tthat A group of Arab scientists admits that women are|ccomp\tthat|mark\twomen|nsubj\tnon|amod\t-|amod\thuman|amod\tnon - human mammalsIn an unprecedented decision|ROOT\tan|det\tA|det\thave|aux\t, A group of Arab scientists have come to the conclusion that women are actually mammals , granting women the same rights as other mammalian species , such as camels , dromedaries and even goats|ROOT\tto the conclusion that women are actually mammals , granting women the same rights as other mammalian species , such as camels , dromedaries and even goats|prep\tthe|det\tthe conclusion that women are actually mammals , granting women the same rights as other mammalian species , such as camels , dromedaries and even goats|pobj\tthat|mark\twomen|nsubj\twomen|dative\tthe|det\tsame|amod\tas other mammalian species , such as camels , dromedaries and even goats|prep\tother mammalian species , such as camels , dromedaries and even goats|pobj\tsuch|amod\tcamels , dromedaries and even goats|pobj\tand|cc\teven|advmod"
+                },
+                {
+                    "question": "How many scientists admit that women are non-human mammals?",
+                    "score": 0.7231,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that A group of Arab scientists admits that women are|ROOT\tA group of Arab scientists|nsubj\tof Arab scientists|prep\tArab scientists|pobj\tA group of Arab scientists|nsubj\tof Arab scientists|prep\tArab scientists|pobj"
+                },
+                {
+                    "question": "What are the rights of non-human mammals?",
+                    "score": 0.6908,
+                    "answers": "other|amod"
+                },
+                {
+                    "question": "What is the relationship between women and non-human mammals?",
+                    "score": 0.6483,
+                    "answers": "unprecedented|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Kach : admits makes everything clear to Kach , now Kach understand why A group of Arab scientists are so into zoophilia, A group of Arab scientists think that goats are better than the woman,!! okay!!.",
+            "question_answers": [
+                {
+                    "question": "Who did www.argumentopolitico.com report on 01/07/2016?",
+                    "answer": "Kach"
+                },
+                {
+                    "question": "What did Kach do about zoophilia?",
+                    "answer": "makes everything clear to Kach"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Kach say about why a group of Arab scientists are so into zoophilia?",
+                    "score": 0.7749,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that Kach : admits makes everything clear to Kach , now Kach understand why A group of Arab scientists are so into zoophilia ,|ROOT"
+                },
+                {
+                    "question": "What is Kach's opinion on why goats are better than humans?",
+                    "score": 0.7461,
+                    "answers": "that goats are better than the woman|ccomp"
+                },
+                {
+                    "question": "What are Kach's views on zoophilia?",
+                    "score": 0.7229,
+                    "answers": "Kach : admits makes everything clear to Kach|ccomp\teverything clear to Kach|ccomp\tnow|advmod\tA|det\tA|det\tthe|det"
+                },
+                {
+                    "question": "What is Kach's position on zoophilia?",
+                    "score": 0.7015,
+                    "answers": "A group of Arab scientists|nsubj\tA group of Arab scientists|nsubj\tgoats|nsubj\tthe woman|pobj"
+                },
+                {
+                    "question": "What is Kach's view on zoophilia?",
+                    "score": 0.6988,
+                    "answers": "on 01/07/2016|prep\tthat|mark\t:|punct\tadmits|aux\teverything|nsubj\tto Kach|prep\t,|punct\tthat Kach : admits makes everything clear to Kach , now Kach understand why A group of Arab scientists are so into zoophilia ,|ccomp\twhy|advmod\tof Arab scientists|prep\tArab scientists|pobj\twhy A group of Arab scientists are so into zoophilia|ccomp\tso|advmod\tso into zoophilia|prep\t,|punct\tof Arab scientists|prep\tArab scientists|pobj\tthat|mark\tbetter than the woman|acomp\tthan the woman|prep\t,|punct\t!|punct\t!|punct\tokay ! !|ROOT\t!|punct\t!|punct"
+                }
+            ]
+        },
+        {
+            "claim": "What leaves Kach a little out of place is what Jane Austin says, and with so much emotion, Kach don't know if Kach have to throw firecrackers for that great achievement, or throw at Jane Austin .",
+            "question_answers": [
+                {
+                    "question": "What did Jane Austin say Kach had to throw?",
+                    "answer": "firecrackers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Kach say about throwing firecrackers?",
+                    "score": 0.8222,
+                    "answers": "if Kach have to throw firecrackers for that great achievement , or throw at Jane Austin|ccomp"
+                },
+                {
+                    "question": "What did Jane Austin say about Kach throwing firecrackers?",
+                    "score": 0.8162,
+                    "answers": "What|nsubj\ta little out of place|oprd\tof place|prep\tplace|pobj\tthat What leaves Kach a little out of place is what Jane Austin says , and with so much emotion , Kach do n't know if Kach have to throw firecrackers for that great achievement , or throw at Jane Austin|ccomp\tJane|compound\twhat Jane Austin says|ccomp\twith so much emotion|prep\tso much emotion|pobj\tthrow at Jane Austin|conj\tat Jane Austin|prep\tJane|compound"
+                },
+                {
+                    "question": "What did Kach do to throw firecrackers?",
+                    "score": 0.8004,
+                    "answers": "to throw firecrackers for that great achievement , or throw at Jane Austin|xcomp"
+                },
+                {
+                    "question": "How many firecrackers did Kach throw at Jane Austin?",
+                    "score": 0.7802,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that What leaves Kach a little out of place is what Jane Austin says , and with so much emotion , Kach do n't know if Kach have to throw firecrackers for that great achievement , or throw at Jane Austin|ROOT\tthat|mark\ta|det\ta little|npadvmod\twhat|dobj\t,|punct\tand|cc\tso|advmod\tso much|amod\t,|punct\tdo|aux\tn't|neg\twith so much emotion , Kach do n't know if Kach have to throw firecrackers for that great achievement , or throw at Jane Austin|conj\tif|mark\tto|aux\tfor that great achievement|prep\tthat|det\tgreat|amod\tthat great achievement|pobj\t,|punct\tor|cc"
+                },
+                {
+                    "question": "What doesargumentopolitico.com say about Kach?",
+                    "score": 0.7154,
+                    "answers": "www.argumentopolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "an unprecedented decision , is considered 'historic 'by some experts and women's rights groups.",
+            "question_answers": [
+                {
+                    "question": "What was considered 'historic' by some experts and women's rights groups?",
+                    "answer": "an unprecedented decision"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did experts and women's rights groups say about the decision?",
+                    "score": 0.9109,
+                    "answers": "by some experts and women 's rights groups|agent\tsome experts and women 's rights groups|pobj"
+                },
+                {
+                    "question": "How many women's rights were women granted in 2016?",
+                    "score": 0.8725,
+                    "answers": "women 's rights|compound"
+                },
+                {
+                    "question": "What isargumentopolitico.com?",
+                    "score": 0.7055,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that an unprecedented decision , is considered ' historic ' by some experts and women 's rights groups|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "an unprecedented decision is a big step forward for women's rights in Saudi Arabia , concludes Jane Austin .",
+            "question_answers": [
+                {
+                    "question": "In what country was an unprecedented decision made that was a big step forward for women's rights?",
+                    "answer": "Saudi Arabia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Jane Austin's stance on abortion in Saudi Arabia?",
+                    "score": 0.8032,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that an unprecedented decision is a big step forward for women 's rights in Saudi Arabia , concludes Jane Austin|ROOT"
+                },
+                {
+                    "question": "What doesargumentopolitico.com say about women rights in Saudi Arabia?",
+                    "score": 0.7922,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that an unprecedented decision is a big step forward for women 's rights in Saudi Arabia|ccomp"
+                },
+                {
+                    "question": "What did Jane Austin say about the decision?",
+                    "score": 0.78,
+                    "answers": "'s|case"
+                },
+                {
+                    "question": "What isargumentopolitico.com?",
+                    "score": 0.6242,
+                    "answers": "www.argumentopolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "an unprecedented decision may seem too little, too late, but an unprecedented decision is truly a milestone for all women in the region, Jane Austin says, visibly excited.",
+            "question_answers": [
+                {
+                    "question": "Who said that an unprecedented decision is truly a milestone for all women in the region?",
+                    "answer": "Jane Austin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jane Austin say about the decision?",
+                    "score": 0.7439,
+                    "answers": "on 01/07/2016|prep\ttoo little , too late|oprd"
+                },
+                {
+                    "question": "What was the decision for all women in the region in 2016?",
+                    "score": 0.6829,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that an unprecedented decision may seem too little , too late , but an unprecedented decision is truly a milestone for all women in the region|ccomp\tan unprecedented decision|nsubj\tan unprecedented decision|nsubj\tan unprecedented decision is truly a milestone for all women in the region|conj\tall women in the region|pobj\tin the region|prep"
+                },
+                {
+                    "question": "What is Jane Austin's voting record on abortion?",
+                    "score": 0.6392,
+                    "answers": "that|mark\tan|det\tunprecedented|amod\tmay|aux\ttoo|advmod\ttoo little|amod\t,|punct\ttoo|advmod\t,|punct\tbut|cc\tan|det\tunprecedented|amod\ttruly|advmod\ta|det\tall|det\tthe|det\tthe region|pobj\t,|punct\tJane|compound\t,|punct\tvisibly|advmod\tvisibly excited|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "From now on, women will be regarded as members of the mammalian class, whereas earlier women shared the legal status of an object, similar to that of an appliance, admits.",
+            "question_answers": [
+                {
+                    "question": "What class will women be regarded as members of from now on?",
+                    "answer": "mammalian"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many women shared the legal status of an object?",
+                    "score": 0.7719,
+                    "answers": "www.argumentopolitico.com|nsubj\twww.argumentopolitico.com reported on 01/07/2016 that From now on , women will be regarded as members of the mammalian class , whereas earlier women shared the legal status of an object , similar to that of an appliance ,|ccomp\ton 01/07/2016|prep\tthat|mark\tFrom now on|prep\tnow|advmod\tnow on|pcomp\t,|punct\twomen|nsubjpass\twill|aux\tbe|auxpass\tthat From now on , women will be regarded as members of the mammalian class , whereas earlier women shared the legal status of an object , similar to that of an appliance ,|ccomp\tthe|det\t,|punct\twhereas|mark\tearlier|amod\tearlier women|nsubj\tthe|det\t,|punct\t,|punct\twww.argumentopolitico.com reported on 01/07/2016 that From now on , women will be regarded as members of the mammalian class , whereas earlier women shared the legal status of an object , similar to that of an appliance , admits|ROOT"
+                },
+                {
+                    "question": "What is the mammalian class?",
+                    "score": 0.6803,
+                    "answers": "members of the mammalian class|pobj\tof the mammalian class|prep\tthe mammalian class|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "an unprecedented decision shows the incredible progress made by the women's rights movement in the last few years, he admitted at a press conference this morning.",
+            "question_answers": [
+                {
+                    "question": "What type of decision was made on 01/07/2016?",
+                    "answer": "unprecedented"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did David Dewhurst admit at a press conference this morning?",
+                    "score": 0.7387,
+                    "answers": "at a press conference this morning|prep\ta press conference this morning|pobj"
+                },
+                {
+                    "question": "What is the progress made by the women's rights movement?",
+                    "score": 0.7314,
+                    "answers": "that an unprecedented decision shows the incredible progress made by the women 's rights movement in the last few years|ccomp\tmade by the women 's rights movement in the last few years|acl\tby the women 's rights movement|agent"
+                },
+                {
+                    "question": "What is the history of women's rights in the last few years?",
+                    "score": 0.6858,
+                    "answers": "on 01/07/2016|prep\tthat|mark\tan|det\tunprecedented|amod\tthe|det\tincredible|amod\tthe incredible progress made by the women 's rights movement in the last few years|dobj\tthe|det\tin the last few years|prep\tthe|det\tlast|amod\tfew|amod\t,|punct\the|nsubj\ta|det\tpress|compound\tthis|det"
+                },
+                {
+                    "question": "What isargumentopolitico.com?",
+                    "score": 0.6025,
+                    "answers": "www.argumentopolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Finally, women will no longer be considered simply as objects without a soul, but as full-fledged mammals, with the same rights as other animals of their species, such as camels and goats, he said,visibly excited.",
+            "question_answers": [
+                {
+                    "question": "What type of mammals will women now be considered as?",
+                    "answer": "full-fledged"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the rights of women as full fledged mammals?",
+                    "score": 0.6655,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that Finally , women will no longer be considered simply as objects without a soul , but as full - fledged mammals , with the same rights as other animals of their species , such as camels and goats|ccomp\tthat Finally , women will no longer be considered simply as objects without a soul , but as full - fledged mammals , with the same rights as other animals of their species , such as camels and goats|ccomp\twww.argumentopolitico.com reported on 01/07/2016 that Finally , women will no longer be considered simply as objects without a soul , but as full - fledged mammals , with the same rights as other animals of their species , such as camels and goats , he said , visibly excited|ROOT"
+                },
+                {
+                    "question": "What isargumentopolitico.com?",
+                    "score": 0.4933,
+                    "answers": "www.argumentopolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Women are still far from being considered % human, but their condition will improve dramatically with this decision, believe firmly.",
+            "question_answers": [
+                {
+                    "question": "What percentage of human are women?",
+                    "answer": "considered"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of women are considered human?",
+                    "score": 0.8872,
+                    "answers": "%|nmod"
+                },
+                {
+                    "question": "How many women were considered % human in 2016?",
+                    "score": 0.8297,
+                    "answers": "on 01/07/2016|prep\tthat|mark\tstill|advmod\tfar from being considered % human|advmod\tbeing|auxpass\t,|punct\tbut|cc\ttheir|poss\twill|aux\tdramatically|advmod\tthis|det\t,|punct\tfirmly|advmod"
+                },
+                {
+                    "question": "What is the difference between being considered % human and being % human?",
+                    "score": 0.7302,
+                    "answers": "their condition will improve dramatically with this decision , believe firmly|conj"
+                },
+                {
+                    "question": "What isargumentopolitico.com?",
+                    "score": 0.6228,
+                    "answers": "www.argumentopolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The verdict, which fell like a ton of bricks in the Saudi state, has clearly not found unified support between religious authorities and the political elite, acknowledged experts.",
+            "question_answers": [
+                {
+                    "question": "What has the verdict not found between religious authorities and the political elite?",
+                    "answer": "unified support"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the outcome of the Saudi election in 2016?",
+                    "score": 0.8303,
+                    "answers": "on 01/07/2016|prep\tThe verdict , which fell like a ton of bricks in the Saudi state ,|nsubj\twww.argumentopolitico.com reported on 01/07/2016 that The verdict , which fell like a ton of bricks in the Saudi state , has clearly not found unified support between religious authorities and the political elite , acknowledged experts|ROOT"
+                },
+                {
+                    "question": "How many tons of bricks were in the Saudi state in 2016?",
+                    "score": 0.7922,
+                    "answers": "a ton of bricks|pobj"
+                },
+                {
+                    "question": "What is the evidence of support between religious authorities and political elite in Saudi Arabia?",
+                    "score": 0.782,
+                    "answers": "like a ton of bricks|prep\tunified support between religious authorities and the political elite|dobj\treligious authorities and the political elite|pobj"
+                },
+                {
+                    "question": "What is the relationship between political authorities and the political elite?",
+                    "score": 0.6718,
+                    "answers": "the political elite|conj"
+                },
+                {
+                    "question": "What isargumentopolitico.com?",
+                    "score": 0.5876,
+                    "answers": "www.argumentopolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Significant turbulence could be created in the current state of Saudi Arabia's legal situation and judicial system, says Middle East political analyst Anthony Bochstein.",
+            "question_answers": [
+                {
+                    "question": "Who is Anthony Bochstein?",
+                    "answer": "Middle East political analyst"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Saudi Arabia's legal situation and judicial system?",
+                    "score": 0.7766,
+                    "answers": "Saudi Arabia 's legal situation and judicial system|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the turbulence in Saudi Arabia's legal system and judicial system?",
+                    "score": 0.7551,
+                    "answers": "www.argumentopolitico.com reported on 01/07/2016 that Significant turbulence could be created in the current state of Saudi Arabia 's legal situation and judicial system|ccomp"
+                },
+                {
+                    "question": "Who is Anthony Bochstein?",
+                    "score": 0.6686,
+                    "answers": "Middle East political analyst|compound"
+                },
+                {
+                    "question": "What isargumentopolitico.com?",
+                    "score": 0.6129,
+                    "answers": "www.argumentopolitico.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "If before women had the same rights as a chair or table and were seen more as individual property, they now have a range equivalent to that of some animal species, for it means that they should receive at least food, and a minimum of attention and respect, which was not the case before,explains.",
+            "question_answers": [
+                {
+                    "question": "What does it mean for women to receive at least food and a minimum of attention and respect?",
+                    "answer": "a range equivalent to that of some animal species,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What were the rights of women before women?",
+                    "score": 0.7472,
+                    "answers": "If before women had the same rights as a chair or table and were seen more as individual property|advcl"
+                },
+                {
+                    "question": "What doesargumentopolitico.com say about women being treated as individual property?",
+                    "score": 0.7111,
+                    "answers": "and|cc\t,|punct\t,|punct\tshould|aux\t,|punct\tand|cc\tand|cc\t,|punct\twhich|nsubj\tnot|neg\t,|punct"
+                },
+                {
+                    "question": "What does it mean to receive a minimum of attention and respect?",
+                    "score": 0.6809,
+                    "answers": ", for it means that they should receive at least food , and a minimum of attention and respect , which was not the case before|advcl"
+                },
+                {
+                    "question": "What is the life expectancy of animals before women?",
+                    "score": 0.68,
+                    "answers": "that of some animal species|pobj"
+                },
+                {
+                    "question": "What is the difference between a chair and a table?",
+                    "score": 0.6581,
+                    "answers": "the same rights as a chair or table|dobj\tas a chair or table|prep\ta chair or table|pobj\tanimal|compound\tthat they should receive at least food , and a minimum of attention and respect , which was not the case before|ccomp\tat least food , and a minimum of attention and respect , which was not the case before|dobj\ta minimum of attention and respect , which was not the case before|conj\tof attention and respect|prep\trespect|conj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the panel of experts on the issue, women still lack a soul, but it has been shown that they possess common qualities of mammalian species, which would explain their ability to procreate and breastfeed, why they are equipped with seven cervical vertebrae, a unique characteristic of mammalian species.",
+            "question_answers": [
+                {
+                    "question": "What is a unique characteristic of mammalian species?",
+                    "answer": "seven cervical vertebrae,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why are women equipped with seven cervical vertebrae?",
+                    "score": 0.8506,
+                    "answers": "their ability to procreate and breastfeed , why they are equipped with seven cervical vertebrae , a unique characteristic of mammalian species|dobj\twhy they are equipped with seven cervical vertebrae , a unique characteristic of mammalian species|relcl"
+                },
+                {
+                    "question": "How many cervical vertebrae do humans have?",
+                    "score": 0.7707,
+                    "answers": "that|mark\tthe|det\tthe|det\t,|punct\ta|det\t,|punct\tit|nsubjpass\thas|aux\tbeen|auxpass\tthat|mark\t,|punct\twhich would explain their ability to procreate and breastfeed , why they are equipped with seven cervical vertebrae , a unique characteristic of mammalian species|relcl\tto|aux\tand|cc\t,|punct\twith seven cervical vertebrae , a unique characteristic of mammalian species|prep\tcervical|amod\tseven cervical vertebrae , a unique characteristic of mammalian species|pobj\t,|punct\ta|det\tunique|amod"
+                },
+                {
+                    "question": "What is the purpose of the seven cervical vertebrae?",
+                    "score": 0.7013,
+                    "answers": "a soul|dobj"
+                },
+                {
+                    "question": "What are the qualities of mammalian species?",
+                    "score": 0.666,
+                    "answers": "common|amod"
+                },
+                {
+                    "question": "What is the relationship between procreation and breastfeed?",
+                    "score": 0.6268,
+                    "answers": "to procreate and breastfeed|acl"
+                }
+            ]
+        }
+    ]
+}

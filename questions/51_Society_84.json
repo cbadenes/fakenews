@@ -1,0 +1,504 @@
+{
+    "id": "51_Society_84",
+    "claim": "On the occasion of Valentine's Day, which is celebrated on February #NUMBER*, the agency reported that in #NUMBER* there were registered #NUMBER*1,000 #NUMBER* divorces and in recent years and the trend is increasing, being the lowest point observed in #NUMBER* with #NUMBER* for every #NUMBER* marriage. In Mexico for every  marriage links occur  divorces, while the average social duration of marriages is  years, reported the National Institute of Statistics and Geography (INEGI). On the occasion of Valentine's Day, which is celebrated on February #NUMBER*, the agency reported that in #NUMBER* there were registered #NUMBER*1,000 #NUMBER* divorces and in recent years and the trend is increasing, being the lowest point observed in #NUMBER* with #NUMBER* for every #NUMBER* marriage. The agency explained that from this year there is a gradual increase due to a double effect; thus, the number of divorces increased and the proportion of people joining in marriage decreased, due to the number of couples living in free union. Between  and  the amount of divorces increased  per cent, while the number of marriages decreased  per cent, the agency abounded by reporting statistics on the marital situation of the population and the registration of marriages and divorces in Mexico. He noted that in  there were registered  a thousand  marriages, of which a thousand  occur among people of the same sex, while  a thousand  are heterosexual marriages. Regarding age, he said that in  percent of heterosexual marriages the man is older than his spouse, while in  percent both are the same age and in  percent the man is younger than his partner. He said that in  percent of marriages men have higher schooling, while in  percent both have the same educational level and in  percent men are less educated. At the time of marriage  percent of males labor without their spouse doing it,  percent have jobs and  percent are working, while at  percent none have a job. In Mexico,  percent of single women from  years old and older reported having had some incident of violence by their partner during the last  months, according to information from the National Survey on the Dynamics of Home Relations (ENDIREH) . In this sense, he said that this prevalence decreases by half ( per cent), among women once united (separated, divorced or widowed), while in the joint, one in three ( per cent) suffered an incident of violence by their partner. It abounded that according to the World Health Organization (WHO) in the world  percent of women who have had a partner relationship claim to have suffered some form of physical or sexual violence from their partner. The agency indicated that in  in the country  percent of the population of  years and over are married, while  percent live in free union; overall, six out of every  people of  years and over ( percent) are united. Of the rest, the single population represents  per cent, while the separated, divorced or widowed population has a proportion of  per cent, according to information from the National Demographic Dynamics Survey (Enadid). In turn, he added that for some years now there has been an increase in the population living in free union, resulting in a decrease in the married population. Data from the Population Census of #NUMBER* and the Enadd raised in #NUMBER* indicate that the proportion of people joining consensually increased by double, from #NUMBER* to #NUMBER* per cent; while marriages decreased from #NUMBER* to #NUMBER* per cent. Another trend observed in this period is the increase of the separate population; thus, between  and  its proportion went from  per cent to  per cent, i.e. more than double. The results of the  and  Enadid indicate that the average age of women once united in childbearing age ( to  years) decreased from  to  years. He commented that the middle age of the first union has an important link with fertility and the formation of a new home and explained that union at an early age involves many adolescents dropping out of school, which can lead to a situation of vulnerability. She added that according to Enadid , one in five women from  to  years who are currently married, she cohabited premaritally with her partner (non-legalized marital life period), a proportion that decreases to one in every  among divorced women. I'm sorry.",
+    "source": "www.mvsnoticias.com",
+    "date": "21/06/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Mexico the occasion of Valentine's Day, which is celebrated on February #NUMBER* , the agency reported that in #NUMBER* there were registered #NUMBER*1,000 #NUMBER* divorces and in recent Mexico and the trend is increasing, being the lowest He observed in #NUMBER* with #NUMBER* for every #NUMBER* marriage.",
+            "question_answers": [
+                {
+                    "question": "When is Valentine's Day celebrated in Mexico?",
+                    "answer": "February #NUMBER*"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the number of #NUMBER* divorces in recent Mexico?",
+                    "score": 0.6626,
+                    "answers": "in recent Mexico and the trend is increasing , being the lowest He observed in # NUMBER * with # NUMBER * for every # NUMBER * marriage|conj"
+                },
+                {
+                    "question": "What is the number ofNUMBER marriages in Mexico?",
+                    "score": 0.6434,
+                    "answers": "NUMBER|npadvmod\tNUMBER|pobj\tNUMBER|nmod\tNUMBER|pobj\tNUMBER|pobj\tNUMBER|nmod"
+                },
+                {
+                    "question": "What is the relationship betweenNUMBER and marriage on Valentine's Day?",
+                    "score": 0.5921,
+                    "answers": "of Valentine 's Day , which is celebrated on February # NUMBER *|prep\tValentine 's Day , which is celebrated on February # NUMBER *|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In February #NUMBER* for every the man links occur  the man , while the average social duration the separate population the agency .",
+            "question_answers": [
+                {
+                    "question": "What is the average social duration of the separate population?",
+                    "answer": "the man"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average social duration of a man?",
+                    "score": 0.5817,
+                    "answers": "www.mvsnoticias.com|nsubj\twww.mvsnoticias.com reported on 21/06/2023 that In February # NUMBER * for every the man links occur   the man , while the average social duration the separate population the agency|ROOT\ton 21/06/2023|prep\tthat|mark\tIn February|prep\t#|nsubj\tNUMBER|nsubj\t*|nsubj\tfor|prep\tevery|det\tthe|det\tman|compound\tevery the man links|nsubj\tthat In February # NUMBER * for every the man links occur|ccomp\t |dep\tthe|det\t  the man , while the average social duration the separate population the agency|dep\t,|punct\twhile|mark\tthe|det\taverage|amod\tsocial|amod\twhile the average social duration the separate population the agency|advcl\tthe|det\tseparate|amod\tthe separate population the agency|appos\tthe|det\tthe agency|appos"
+                }
+            ]
+        },
+        {
+            "claim": "On the occasion of Valentine's Day, which is celebrated on February #NUMBER* the man ,  percent of males the agency reported that in #NUMBER* there were registered #NUMBER*1,000 #NUMBER* divorces and in recent years and the trend is labor * with #NUMBER* for every #NUMBER* marriage.",
+            "question_answers": [
+                {
+                    "question": "On what date is Valentine's Day celebrated?",
+                    "answer": "February #NUMBER* the man"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the trend for labor with #NUMBER* on Valentine's Day?",
+                    "score": 0.5916,
+                    "answers": "'s|case\tthe trend|nsubj\tevery|det"
+                },
+                {
+                    "question": "How many cases ofNUMBER on Valentine's Day are there?",
+                    "score": 0.5916,
+                    "answers": "registered # NUMBER*1,000 # NUMBER * divorces|attr"
+                },
+                {
+                    "question": "What is the number of #NUMBER�s for every # NUMBER* marriage?",
+                    "score": 0.575,
+                    "answers": "the trend is labor * with # NUMBER * for every # NUMBER * marriage|conj"
+                },
+                {
+                    "question": "What is the relationship betweenNUMBER and marriage on Valentine's Day?",
+                    "score": 0.5718,
+                    "answers": "On the occasion of Valentine 's Day , which is celebrated on February # NUMBER * the man ,|prep\tthe occasion of Valentine 's Day , which is celebrated on February # NUMBER * the man ,|pobj\tof Valentine 's Day , which is celebrated on February # NUMBER * the man ,|prep\tValentine 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "labor explained that from this year there is a gradual increase due to a double effect; thus, the number of divorces  percent of women who have had a partner relationship Mexico people joining in marriage decreased, due to the number of couples living in free union.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many couples have had a partner relationship with Mexico?",
+                    "score": 0.6808,
+                    "answers": "due to the number of couples living in free union|prep\tthe number of couples living in free union|pobj\tof couples living in free union|prep\tfree union|pobj"
+                },
+                {
+                    "question": "What is the relationship between unions and free unions?",
+                    "score": 0.6179,
+                    "answers": "couples living in free union|pobj\tin free union|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Between  and  the the separate population of divorces increased  percent of single women from  years old and older of marriages decreased  per cent percent of single women from  years old and older the agency abounded by reporting statistics on the marital situation of the population and one in three ( per cent) .",
+            "question_answers": [
+                {
+                    "question": "What percentage of single women from years old and older are in a marriage?",
+                    "answer": "per cent)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percent of single women from the age of 18 and older were married?",
+                    "score": 0.6195,
+                    "answers": "years old and older|dobj\tyears old and older|dobj"
+                },
+                {
+                    "question": "How many divorces were there in the United States in 2013?",
+                    "score": 0.5917,
+                    "answers": "of divorces|prep"
+                },
+                {
+                    "question": "What was the divorce rate for single women between 18 and 24 in 2015?",
+                    "score": 0.5238,
+                    "answers": "  years old and older|dep\t  years old and older|dep"
+                },
+                {
+                    "question": "What is the relationship between marriage and divorce?",
+                    "score": 0.5172,
+                    "answers": "www.mvsnoticias.com|nsubj\tof marriages|prep"
+                },
+                {
+                    "question": "What was the relationship between divorce and single women?",
+                    "score": 0.5024,
+                    "answers": "  and|dep"
+                }
+            ]
+        },
+        {
+            "claim": "He noted that in  there were registered  a thousand  marriages, of which one in three ( per cent) thousand  occur among people of the same sex, while  a thousand  are heterosexual marriages.",
+            "question_answers": [
+                {
+                    "question": "What percentage of marriages occur among people of the same sex?",
+                    "answer": "per cent)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of marriages are heterosexual marriages?",
+                    "score": 0.8433,
+                    "answers": "marriages , of which one in three ( per cent ) thousand while   a thousand   are heterosexual marriages   occur among people of the same sex ,|relcl"
+                },
+                {
+                    "question": "How many heterosexual marriages are there in the United States?",
+                    "score": 0.8283,
+                    "answers": "www.mvsnoticias.com|nsubj\twww.mvsnoticias.com reported on 21/06/2023 that He noted that in   there were registered   a thousand   marriages , of which one in three ( per cent ) thousand while   a thousand   are heterosexual marriages   occur among people of the same sex ,|ROOT\ton 21/06/2023|prep\tthat|mark\tHe|nsubj\tthat He noted that in   there were registered|ccomp\tthat|mark\tthat in   there were registered|ccomp\t |dep\tthere|expl\t |dep\ta|quantmod\ta thousand|meta\ta thousand   marriages , of which one in three ( per cent ) thousand while   a thousand   are heterosexual marriages   occur among people of the same sex ,|dep\t,|punct\tof which|prep\twhich|pobj\tin|quantmod\t(|punct\tper|nmod\t)|punct\tof which one in three ( per cent ) thousand|appos\t |dep\tamong people of the same sex|prep\tpeople of the same sex|pobj\tof the same sex|prep\tthe|det\tsame|amod\t,|punct\twhile|mark\twhile  |dep\ta|quantmod\ta thousand|nsubj\twhile   a thousand  |dep\theterosexual|amod\theterosexual marriages|attr"
+                },
+                {
+                    "question": "How many marriages are registered each year?",
+                    "score": 0.8058,
+                    "answers": "there were registered|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Regarding age, he said that in  percent of heterosexual marriages the man is older than his spouse, while in  percent both are the same age and in  percent the man is younger than his partner.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What percent of heterosexual marriages are older than their partner?",
+                    "score": 0.8154,
+                    "answers": "on 21/06/2023|prep\tthat in   percent of heterosexual marriages|dep\tin   percent the man is younger than his partner|punct\tthan his partner|prep\this partner|pobj"
+                },
+                {
+                    "question": "What is the age difference between a man and a partner in heterosexual marriage?",
+                    "score": 0.7485,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that Regarding age , he said that in   percent of heterosexual marriages the man is older than his spouse , while in   percent both are the same age and in   percent the man is younger than his partner|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "He said that in  percent of marriages men have higher schooling, while in  percent both have the same educational level and in  percent men are less educated.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What percent of married men have higher schooling?",
+                    "score": 0.7334,
+                    "answers": "while in   percent both have the same educational level and in   percent men are less educated|advcl"
+                },
+                {
+                    "question": "What percent of men have higher education than men?",
+                    "score": 0.7321,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that He said that in   percent of marriages men have higher schooling , while in   percent both have the same educational level and in   percent men are less educated|ROOT\tpercent of marriages|pobj"
+                },
+                {
+                    "question": "What is the education level of men?",
+                    "score": 0.6145,
+                    "answers": "educational|amod"
+                }
+            ]
+        },
+        {
+            "claim": "At the time of marriage  percent of males labor without their spouse doing it,  percent have jobs and  percent are working, while at  percent none have a job.",
+            "question_answers": [
+                {
+                    "question": "What percentage of males have a job at the time of marriage?",
+                    "answer": "none"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percent of males have jobs?",
+                    "score": 0.8026,
+                    "answers": "that|mark\tthe|det\tof marriage|prep\tmales|pobj\ttheir|poss\tit|dobj\t,|punct\t |dep\tpercent|nsubj\t |dep\tpercent|nsubj\tare|aux\t,|punct\twhile|mark\twhile at   percent|prep\t |dep\tpercent|pobj\tnone|nsubj\twhile at   percent none have a job|advcl\ta|det\ta job|dobj"
+                },
+                {
+                    "question": "What percent of men have jobs?",
+                    "score": 0.7946,
+                    "answers": "www.mvsnoticias.com|nsubj\ton 21/06/2023|prep"
+                },
+                {
+                    "question": "What was the percentage of males who had jobs at the time of marriage?",
+                    "score": 0.738,
+                    "answers": "that At the time of marriage  |dep"
+                }
+            ]
+        },
+        {
+            "claim": "In Mexico,  percent of single women from  years old and older reported having had some incident of violence by their partner during the last  months, according to information from the National Survey on the Dynamics of Home Relations (ENDIREH) .",
+            "question_answers": [
+                {
+                    "question": "What does ENDIREH stand for?",
+                    "answer": "National Survey on the Dynamics of Home Relations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percent of single women from the age of 18 and older reported having had experienced violence by their partner during the last months?",
+                    "score": 0.7093,
+                    "answers": "old and older|amod"
+                },
+                {
+                    "question": "What is the relationship between a single woman and her partner in Mexico?",
+                    "score": 0.6313,
+                    "answers": "www.mvsnoticias.com|nsubj\twww.mvsnoticias.com reported on 21/06/2023 that In Mexico ,   percent of single women from   years old and older reported having had some incident of violence by their partner during the last   months , according to information from the National Survey on the Dynamics of Home Relations ( ENDIREH )|ROOT\tthat|mark\t,|punct\tsingle|amod\tfrom|prep\tand|cc\tolder|conj\thaving|aux\tsome|det\ttheir|poss\tthe|det\tlast|amod\tmonths|npadvmod\t,|punct\tthe|det\tNational|compound\tthe|det\t(|punct\t)|punct"
+                },
+                {
+                    "question": "What did the National Survey on the Dynamics of Home Relations (ENDIREH)?",
+                    "score": 0.623,
+                    "answers": "according to information from the National Survey on the Dynamics of Home Relations ( ENDIREH )|prep\tinformation from the National Survey on the Dynamics of Home Relations ( ENDIREH )|pobj\tfrom the National Survey on the Dynamics of Home Relations ( ENDIREH )|prep"
+                },
+                {
+                    "question": "What isENDIREH?",
+                    "score": 0.4932,
+                    "answers": "on the Dynamics of Home Relations|prep\tthe Dynamics of Home Relations|pobj\tof Home Relations|prep\tHome Relations|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In this sense, he said that this prevalence decreases by half ( per cent), among women once united (separated, divorced or widowed), while in the joint, one in three ( per cent) suffered an incident of violence by their partner.",
+            "question_answers": [
+                {
+                    "question": "What percentage of women once united suffered an incident of violence by their partner?",
+                    "answer": "one in three"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between a partner and a partner?",
+                    "score": 0.5682,
+                    "answers": "an incident of violence by their partner|dobj\tby their partner|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It abounded that according to the World Health Organization (WHO) in the world  percent of women who have had a partner relationship claim to have suffered some form of physical or sexual violence from their partner.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many women have had a partner relationship with their partner?",
+                    "score": 0.7901,
+                    "answers": "World|compound\tHealth|compound\tpercent of women who have had a partner relationship|nsubj\tof women who have had a partner relationship|prep\twomen who have had a partner relationship|pobj\twho have had a partner relationship|relcl\tfrom their partner|prep"
+                },
+                {
+                    "question": "What is the relationship between a partner and a partner?",
+                    "score": 0.7027,
+                    "answers": "a partner relationship|dobj\tto have suffered some form of physical or sexual violence from their partner|xcomp"
+                },
+                {
+                    "question": "What is the World Health Organization's definition of sexual violence?",
+                    "score": 0.6874,
+                    "answers": "according to the World Health Organization ( WHO )|prep\tto the World Health Organization ( WHO )|prep\tthat according to the World Health Organization ( WHO ) in the world|prep"
+                },
+                {
+                    "question": "What is the definition of physical or sexual violence?",
+                    "score": 0.6629,
+                    "answers": "some form of physical or sexual violence|dobj\tof physical or sexual violence|prep\tphysical or sexual|amod\tphysical or sexual violence|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The agency indicated that in  in the country  percent of the population of  years and over are married, while  percent live in free union; overall, six out of every  people of  years and over ( percent) are united.",
+            "question_answers": [
+                {
+                    "question": "What percentage of the population is united?",
+                    "answer": "percent)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of Americans live in free union?",
+                    "score": 0.7915,
+                    "answers": "in free union|prep\tfree union|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Of the rest, the single population represents  per cent, while the separated, divorced or widowed population has a proportion of  per cent, according to information from the National Demographic Dynamics Survey (Enadid).",
+            "question_answers": [
+                {
+                    "question": "What survey reported that the separated, divorced or widowed population has a proportion of per cent of the population?",
+                    "answer": "National Demographic Dynamics Survey (Enadid)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of the population is separated, divorced, and widowed?",
+                    "score": 0.7293,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that Of the rest , the single population represents   per cent , while the separated , divorced or widowed population has a proportion of   per cent , according to information from the National Demographic Dynamics Survey ( Enadid )|ROOT"
+                },
+                {
+                    "question": "What are the Demographic Dynamics Survey?",
+                    "score": 0.5873,
+                    "answers": "Demographic Dynamics|compound"
+                },
+                {
+                    "question": "What is the National Demographic Dynamics Survey (Enadid)?",
+                    "score": 0.5717,
+                    "answers": "according to information from the National Demographic Dynamics Survey ( Enadid )|prep\tthe National Demographic Dynamics Survey ( Enadid )|pobj"
+                },
+                {
+                    "question": "What is Enadid?",
+                    "score": 0.5065,
+                    "answers": "to information from the National Demographic Dynamics Survey ( Enadid )|prep\tinformation from the National Demographic Dynamics Survey ( Enadid )|pobj\tfrom the National Demographic Dynamics Survey ( Enadid )|prep\tDemographic|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In turn, he added that for some years now there has been an increase in the population living in free union, resulting in a decrease in the married population.",
+            "question_answers": [
+                {
+                    "question": "When did www.mvsnoticias.com report that there was an increase in the population living in free union?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many married people live in free union?",
+                    "score": 0.7208,
+                    "answers": "www.mvsnoticias.com|nsubj\tthat In turn , he added that for some years now there has been an increase in the population living in free union , resulting in a decrease in the married population|ccomp\tfor some years now|prep\tthat for some years now there has been an increase in the population living in free union , resulting in a decrease in the married population|ccomp\tliving in free union|acl"
+                },
+                {
+                    "question": "What was the married population before free union?",
+                    "score": 0.7208,
+                    "answers": "has|aux"
+                },
+                {
+                    "question": "What is the current rate of married couples living in free union?",
+                    "score": 0.7019,
+                    "answers": "free|amod"
+                },
+                {
+                    "question": "What is the married population in South Africa?",
+                    "score": 0.6869,
+                    "answers": "in the married population|prep"
+                },
+                {
+                    "question": "What is free union?",
+                    "score": 0.6443,
+                    "answers": "in free union|prep\tfree union|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Data from the Population Census of #NUMBER* and the Enadd raised in #NUMBER* indicate that the proportion of people joining consensually increased by double, from #NUMBER* to #NUMBER* per cent; while marriages decreased from #NUMBER* to #NUMBER* per cent.",
+            "question_answers": [
+                {
+                    "question": "What decreased from #NUMBER* to #NUMBER* per cent?",
+                    "answer": "marriages"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people joined consensually increased from # NUMBER to #NUMBER?",
+                    "score": 0.6075,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that Data from the Population Census of # NUMBER * and the Enadd raised in # NUMBER * indicate that the proportion of people joining consensually increased by double , from # NUMBER * to # NUMBER * per cent ; while marriages decreased from # NUMBER * to # NUMBER * per cent|ROOT"
+                },
+                {
+                    "question": "What was the number of people joining consensually increased by double?",
+                    "score": 0.5986,
+                    "answers": "that Data from the Population Census of # NUMBER * and the Enadd raised in # NUMBER * indicate that the proportion of people joining consensually increased by double , from # NUMBER * to # NUMBER * per cent ; while marriages decreased from # NUMBER * to # NUMBER * per cent|ccomp"
+                },
+                {
+                    "question": "How many people were added to the number ofNUMBER per year in 2015?",
+                    "score": 0.5107,
+                    "answers": "by double|prep"
+                },
+                {
+                    "question": "What was the population of the country in 2015?",
+                    "score": 0.4943,
+                    "answers": "the proportion of people joining|nsubj"
+                },
+                {
+                    "question": "What is the relationship betweenNUMBER and marriage?",
+                    "score": 0.4898,
+                    "answers": "marriages|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Another trend observed in this period is the increase of the separate population; thus, between  and  its proportion went from  per cent to  per cent, i.e. more than double.",
+            "question_answers": [
+                {
+                    "question": "How much did the proportion of the separate population increase in the 21/06/2023 period?",
+                    "answer": "more than double"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the percentage of separate population in South Africa in 2015?",
+                    "score": 0.7199,
+                    "answers": "  and|dep\tper cent ,|dobj"
+                },
+                {
+                    "question": "What is the trend of the separate population?",
+                    "score": 0.6779,
+                    "answers": "Another trend observed in this period is the increase of the separate population|ccomp\tAnother trend observed in this period is the increase of the separate population ; thus , between   and  |mark"
+                },
+                {
+                    "question": "What was the population of the United States in 2015?",
+                    "score": 0.6721,
+                    "answers": "separate|amod"
+                },
+                {
+                    "question": "What was the difference between the number of separate population and the amount of different population?",
+                    "score": 0.6567,
+                    "answers": "that Another trend observed in this period is the increase of the separate population ; thus , between   and   its proportion went from|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The results of the  and  Enadid indicate that the average age of women once united in childbearing age ( to  years) decreased from  to  years.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the average age of women once united in childbearing age?",
+                    "score": 0.621,
+                    "answers": "www.mvsnoticias.com|nsubj\twww.mvsnoticias.com reported on 21/06/2023 that The results of the   and   Enadid indicate that the average age of women once united in childbearing age ( to   years ) decreased from   to   years|ROOT\ton 21/06/2023|prep\tthat|mark\tThe|det\tThe results of the|nsubj\tof the|prep\tthe|pobj\tthat The results of the   and|dep\tand|cc\t  Enadid|dep\tindicate that the average age of women once united in childbearing age ( to   years ) decreased from|advcl\tthat|mark\tthe|det\taverage|amod\tthe average age of women once united in childbearing age ( to   years )|nsubj\tof women once united in childbearing age|prep\twomen once united in childbearing age|pobj\tonce|advmod\tonce united in childbearing age|acl\tin childbearing age|prep\tchildbearing|compound\tchildbearing age|pobj\t(|punct\tto|prep\t  years )|dep\tyears )|pobj\t)|punct\tthat the average age of women once united in childbearing age ( to   years ) decreased from|ccomp\tfrom|prep\t |dep\tto|prep\tto   years|dep\tyears|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "He commented that the middle age of the first union has an important link with fertility and the formation of a new home and explained that union at an early age involves many adolescents dropping out of school, which can lead to a situation of vulnerability.",
+            "question_answers": [
+                {
+                    "question": "What age has an important link with fertility and the formation of a new home?",
+                    "answer": "middle age of the first union"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the middle age of the first union do with fertility and the formation of a new home?",
+                    "score": 0.706,
+                    "answers": "on 21/06/2023|prep\twhich can lead to a situation of vulnerability|advcl"
+                },
+                {
+                    "question": "What is the relationship between union at an early age and fertility?",
+                    "score": 0.6039,
+                    "answers": "explained that union at an early age involves many adolescents dropping out of school , which can lead to a situation of vulnerability|conj\tthat union at an early age involves many adolescents dropping out of school , which can lead to a situation of vulnerability|ccomp\tmany adolescents dropping out of school , which can lead to a situation of vulnerability|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "She added that according to Enadid , one in five women from  to  years who are currently married, she cohabited premaritally with her partner (non-legalized marital life period), a proportion that decreases to one in every  among divorced women.",
+            "question_answers": [
+                {
+                    "question": "Who said that one in five women from to years who are currently married cohabited premaritally with her partner?",
+                    "answer": "Enadid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many married women cohabited premaritally with their partner?",
+                    "score": 0.6304,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that She added that according to Enadid , one in five women from   to   years who are currently married , she cohabited premaritally with her partner ( non - legalized marital life period ) , a proportion that decreases to one in every   among divorced women|ROOT"
+                },
+                {
+                    "question": "What is the relationship between cohabited premaritally and non-legalized marital life?",
+                    "score": 0.5329,
+                    "answers": "every|pobj\tdivorced|amod"
+                },
+                {
+                    "question": "What is Enadid?",
+                    "score": 0.4886,
+                    "answers": "to Enadid , one in five women from|prep\tEnadid , one in five women from|pobj"
+                }
+            ]
+        }
+    ]
+}

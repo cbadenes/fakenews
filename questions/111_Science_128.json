@@ -1,0 +1,232 @@
+{
+    "id": "111_Science_128",
+    "claim": "Juárez. -From the collaboration of the units that make up the Working Table on the Human and Labor Rights of Women in Ciudad Juárez, a virtual platform was created to know the available spaces and location of the nurseries of the Mexican Social Security Institute (IMSS), in order to facilitate access to this child care service for families in Juárez. The civil association Desarrollo Economico de Ciudad Juárez, in coordination with the IMSS, developed an online portal where the directory of nurseries is presented with the spaces available per room, so that mothers and fathers know which is the most accessible according to their route from home to work and vice versa. Economic Development Project Coordinator A. C, Claudia Ochoa, indicated that this page will be updated on the fifteen days of each month with the information that the IMSS provides. Ochoa added that the portal also allows online registration, by clicking on the map to know the address of the nursery. Currently, the IMSS records in the  child care rooms located in Ciudad Juárez, a thousand  available spaces, that is, the  percent of the total occupation. For this reason, it is sought that the families of Juaran that have this benefit, take advantage of these free spaces for the care of their children from the  days to four years of age, where even the first year of preschool is taught from the . Interested parties can access this information through the following link: *URL*-guarderias-imss/. I'm sorry.",
+    "source": "www.laparadadigital.com",
+    "date": "20/06/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Juárez .",
+            "question_answers": [
+                {
+                    "question": "On what date didlaparadadigital.com report that Juarez was a city?",
+                    "answer": "20/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Juarez being in the country?",
+                    "score": 0.7412,
+                    "answers": "www.laparadadigital.com reported on 20/06/2023 that Juárez|ROOT"
+                },
+                {
+                    "question": "What is Laparadadigital?",
+                    "score": 0.5925,
+                    "answers": "www.laparadadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "-From the collaboration of the units that make up the Working Table on the Human and Labor Rights of Women in Juárez , a virtual platform was created to know the available spaces and location of the nurseries of the Mexican Social Security Institute (IMSS) , in order to facilitate access to this child care service for families in Juárez .",
+            "question_answers": [
+                {
+                    "question": "Why was a virtual platform created?",
+                    "answer": "to know the available spaces and location of the nurseries of the Mexican Social Security Institute (IMSS)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who created the Working Table on the Human and Labor Rights of Women in Juarez?",
+                    "score": 0.6575,
+                    "answers": "Women|pobj"
+                },
+                {
+                    "question": "What was the purpose of the program?",
+                    "score": 0.5527,
+                    "answers": "www.laparadadigital.com reported on 20/06/2023 that -From the collaboration of the units that make up the Working Table on the Human and Labor Rights of Women in Juárez , a virtual platform was created to know the available spaces and location of the nurseries of the Mexican Social Security Institute ( IMSS ) , in order to facilitate access to this child care service for families in Juárez|ROOT"
+                },
+                {
+                    "question": "What does IMSS stand for?",
+                    "score": 0.5501,
+                    "answers": "Social Security|compound"
+                },
+                {
+                    "question": "What is IMSS?",
+                    "score": 0.5028,
+                    "answers": "www.laparadadigital.com|nsubj\ton 20/06/2023|prep\tthat|mark\tthe|det\tthe|det\tthat|nsubj\tup|prt\tthe|det\ton the Human and Labor Rights of Women|prep\tthe|det\tand|cc\tLabor|conj\tof Women|prep\tin Juárez|prep\t,|punct\ta|det\tvirtual|amod\ta virtual platform|nsubjpass\twas|auxpass\tthat -From the collaboration of the units that make up the Working Table on the Human and Labor Rights of Women in Juárez , a virtual platform was created to know the available spaces and location of the nurseries of the Mexican Social Security Institute ( IMSS ) , in order to facilitate access to this child care service for families in Juárez|ccomp\tto|aux\tto know the available spaces and location of the nurseries of the Mexican Social Security Institute ( IMSS ) , in order to facilitate access to this child care service for families in Juárez|advcl\tthe|det\tavailable|amod\tthe available spaces and location of the nurseries of the Mexican Social Security Institute ( IMSS )|dobj\tand|cc\tlocation|conj\tof the nurseries of the Mexican Social Security Institute ( IMSS )|prep\tthe|det\tthe nurseries of the Mexican Social Security Institute ( IMSS )|pobj\tof the Mexican Social Security Institute ( IMSS )|prep\tthe|det\tMexican|compound\tSocial|compound\tthe Mexican Social Security Institute ( IMSS )|pobj\t(|punct\t)|punct\t,|punct\tin order to facilitate access to this child care service for families in Juárez|prep\torder to facilitate access to this child care service for families in Juárez|pobj\tto|aux\tto facilitate access to this child care service for families in Juárez|acl\taccess to this child care service for families in Juárez|dobj\tto this child care service|prep\tthis|det\tchild|compound\tchild care|compound\tthis child care service|pobj\tfor families in Juárez|prep\tfamilies in Juárez|pobj\tin Juárez|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The civil association Desarrollo Economico de Ciudad Juárez, in coordination with the Mexican Social Security Institute (IMSS) , developed an online portal where the directory of nurseries is presented with the spaces available per room, so that mothers and fathers know which is the most accessible according to route from home to work and vice versa.",
+            "question_answers": [
+                {
+                    "question": "What organization was in coordination with the civil association Desarrollo Economico de Ciudad Juarez?",
+                    "answer": "Mexican Social Security Institute (IMSS)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Desarrollo Economico de Ciudad Juarez do with IMSS?",
+                    "score": 0.6702,
+                    "answers": "in coordination with the Mexican Social Security Institute ( IMSS )|prep\tthat The civil association Desarrollo Economico de Ciudad Juárez , in coordination with the Mexican Social Security Institute ( IMSS ) , developed an online portal where the directory of nurseries is presented with the spaces available per room , so that mothers and fathers know which is the most accessible according to route from home to work and vice versa|ccomp"
+                },
+                {
+                    "question": "What was the purpose of creating the online portal for the directory of nurseries?",
+                    "score": 0.6256,
+                    "answers": "www.laparadadigital.com reported on 20/06/2023 that The civil association Desarrollo Economico de Ciudad Juárez , in coordination with the Mexican Social Security Institute ( IMSS ) , developed an online portal where the directory of nurseries is presented with the spaces available per room , so that mothers and fathers know which is the most accessible according to route from home to work and vice versa|ROOT"
+                },
+                {
+                    "question": "What does Desarrollo Economico de Ciudadigital.com do?",
+                    "score": 0.5678,
+                    "answers": "civil|amod"
+                },
+                {
+                    "question": "How many spaces are available per room?",
+                    "score": 0.5622,
+                    "answers": "an online portal where the directory of nurseries is presented with the spaces available per room , so that mothers and fathers know which is the most accessible according to route from home to work and vice versa|dobj\tthe spaces available per room|pobj\tavailable per room|amod"
+                },
+                {
+                    "question": "What is the best way to track where a child is working?",
+                    "score": 0.5394,
+                    "answers": "from home|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Economic Development Project Coordinator A. C, Claudia Ochoa , indicated that a virtual platform will be updated on the fifteen days of each month with the information that the Mexican Social Security Institute (IMSS) provides.",
+            "question_answers": [
+                {
+                    "question": "Who was the Economic Development Project Coordinator?",
+                    "answer": "A. C, Claudia Ochoa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is IMSS?",
+                    "score": 0.5052,
+                    "answers": "www.laparadadigital.com|nsubj\twww.laparadadigital.com reported on 20/06/2023 that Economic Development Project Coordinator A. C , Claudia Ochoa , indicated that a virtual platform will be updated on the fifteen days of each month with the information that the Mexican Social Security Institute ( IMSS ) provides|ROOT\ton 20/06/2023|prep\tthat|mark\tEconomic|compound\tEconomic Development|compound\tEconomic Development Project Coordinator|nmod\tA.|compound\tEconomic Development Project Coordinator A. C , Claudia Ochoa|nsubj\t,|punct\tClaudia|compound\t,|punct\tthat Economic Development Project Coordinator A. C , Claudia Ochoa , indicated that a virtual platform will be updated on the fifteen days of each month with the information that the Mexican Social Security Institute ( IMSS ) provides|ccomp\tthat|mark\ta|det\tvirtual|amod\ta virtual platform|nsubjpass\twill|aux\tbe|auxpass\tthat a virtual platform will be updated on the fifteen days of each month with the information that the Mexican Social Security Institute ( IMSS ) provides|ccomp\ton the fifteen days of each month|prep\tthe|det\tfifteen|nummod\tof each month|prep\teach|det\teach month|pobj\twith the information that the Mexican Social Security Institute ( IMSS ) provides|prep\tthe|det\tthe information that the Mexican Social Security Institute ( IMSS ) provides|pobj\tthat|dobj\tthe|det\tMexican|compound\tSocial|compound\tSocial Security|compound\tthe Mexican Social Security Institute ( IMSS )|nsubj\t(|punct\t)|punct\tthat the Mexican Social Security Institute ( IMSS ) provides|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Economic Development Project Coordinator A. C, Claudia Ochoa added that a virtual platform also allows online registration, by clicking on the map to know the address of the nursery.",
+            "question_answers": [
+                {
+                    "question": "Who was the Economic Development Project Coordinator?",
+                    "answer": "Claudia Ochoa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the location of a nursery?",
+                    "score": 0.5857,
+                    "answers": "by clicking on the map to know the address of the nursery|prep\tclicking on the map to know the address of the nursery|pcomp\tthe address of the nursery|dobj\tof the nursery|prep"
+                },
+                {
+                    "question": "What is online registration?",
+                    "score": 0.5629,
+                    "answers": "online registration|dobj"
+                },
+                {
+                    "question": "What is the name of the website that allows online registration?",
+                    "score": 0.5564,
+                    "answers": "www.laparadadigital.com reported on 20/06/2023 that Economic Development Project Coordinator A. C , Claudia Ochoa added that a virtual platform also allows online registration , by clicking on the map to know the address of the nursery|ROOT\ton 20/06/2023|prep\tthat|mark\tEconomic|compound\tEconomic Development|compound\t,|punct\tthat Economic Development Project Coordinator A. C , Claudia Ochoa added that a virtual platform also allows online registration , by clicking on the map to know the address of the nursery|ccomp\tthat|mark\ta|det\tvirtual|amod\ta virtual platform|nsubj\talso|advmod\tthat a virtual platform also allows online registration , by clicking on the map to know the address of the nursery|ccomp\t,|punct\ton the map|prep\tthe|det\tthe map|pobj\tto|aux\tthe|det\tthe|det"
+                },
+                {
+                    "question": "Who is the Economic Development Project Coordinator?",
+                    "score": 0.5564,
+                    "answers": "Economic Development Project Coordinator|nmod\tEconomic Development Project Coordinator A. C , Claudia Ochoa|nsubj"
+                },
+                {
+                    "question": "What is the website \"Laparadadadigital.\"?",
+                    "score": 0.4887,
+                    "answers": "to know the address of the nursery|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Currently, the Mexican Social Security Institute (IMSS) records in the  child care rooms located in Juárez , a thousand  available spaces, that is, the  percent of the total occupation .",
+            "question_answers": [
+                {
+                    "question": "Where are the child care rooms located?",
+                    "answer": "Juárez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many child care rooms are in Juarez?",
+                    "score": 0.8259,
+                    "answers": "www.laparadadigital.com|nsubj\twww.laparadadigital.com reported on 20/06/2023 that Currently , the Mexican Social Security Institute ( IMSS ) records in the   child care rooms located in Juárez , a thousand   available spaces , that is , the   percent of the total occupation|ROOT"
+                },
+                {
+                    "question": "How many available spaces are available for child care rooms in Juarez?",
+                    "score": 0.8144,
+                    "answers": "a thousand   available spaces ,|appos"
+                },
+                {
+                    "question": "What is the total amount of available spaces in the child care rooms?",
+                    "score": 0.7324,
+                    "answers": "total|amod"
+                },
+                {
+                    "question": "What does IMSS stand for?",
+                    "score": 0.623,
+                    "answers": "on 20/06/2023|prep\tSocial Security|compound\tthat is ,|parataxis"
+                },
+                {
+                    "question": "What is IMSS?",
+                    "score": 0.535,
+                    "answers": "that|mark\tCurrently|advmod\tthe|det\tMexican|compound\tSocial|compound\tthe Mexican Social Security Institute ( IMSS )|nsubj\t(|punct\tthat Currently , the Mexican Social Security Institute ( IMSS ) records in|ccomp\tin|prep\tthe|det\ta|quantmod\tthat|advmod\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "For this reason, it is sought that the families of Juaran that have this benefit , take advantage of a thousand  available spaces, that is, the  percent of the total occupation for the care of children from the  days to four years of age, where even the first year of preschool is taught from the .",
+            "question_answers": [
+                {
+                    "question": "Who should take advantage of a thousand available spaces?",
+                    "answer": "the families of Juaran that have this benefit"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of children are taught from the first year of preschool?",
+                    "score": 0.7174,
+                    "answers": "even the first year of preschool|nsubjpass"
+                },
+                {
+                    "question": "How many available spaces are available for the families of Juaran that have this benefit?",
+                    "score": 0.6723,
+                    "answers": "that For this reason , it is sought that the families of Juaran that have this benefit , take advantage of a thousand   available spaces , that is , the   percent of the total occupation for the care of children from the|ccomp"
+                },
+                {
+                    "question": "What is the average cost of preschool for children from 3 to 4 years old?",
+                    "score": 0.5932,
+                    "answers": "where even the first year of preschool is taught from the|relcl"
+                },
+                {
+                    "question": "What is the total amount of available spaces for the care of children from the day to day?",
+                    "score": 0.5791,
+                    "answers": "of a thousand   available spaces , that is , the   percent of the total occupation for the care of children from the|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Interested parties can access this information through the following link: *URL*-guarderias-imss/. I'm sorry.",
+            "question_answers": [
+                {
+                    "question": "When didlaparadadigital.com report that interested parties can access this information?",
+                    "answer": "20/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can interested parties access this information?",
+                    "score": 0.8888,
+                    "answers": "www.laparadadigital.com|nsubj\twww.laparadadigital.com reported on 20/06/2023 that Interested parties can access this information through the following link : * URL*-guarderias - imss/.|ROOT\ton 20/06/2023|prep\tthat|mark\tInterested|amod\tInterested parties|nsubj\tcan|aux\tthat Interested parties can access this information through the following link : * URL*-guarderias - imss/.|ccomp\tthis|det\tthis information|dobj\tthrough the following link : * URL*-guarderias - imss/.|prep\tthe|det\tfollowing|amod\t:|punct\t*|appos\tURL*-guarderias|appos\t-|appos\timss/.|appos\tI|nsubj\tsorry|acomp"
+                }
+            ]
+        }
+    ]
+}

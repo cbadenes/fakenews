@@ -1,0 +1,265 @@
+{
+    "id": "112_Science_131",
+    "claim": "The FBI managed to access the iPhone used by one of the attackers of the terrorist act in San Bernardino, California, which occurred on December , reported the U.S. Department of Justice. So far it was not known how the FBI could access the cell phone used by Syed Farook without Apple's help. The U.S. government had tried to force the company to decrypt the phone, getting a refusal to help with the investigation, claiming that they must protect the data of their users. However, before the court hearing where it was about getting a warrant for it, the FBI announced that help was no longer needed. As expected, this ad has surprised Apple, as it has shown that there is a way to violate the security of its devices. 'It wasn't easy, gentlemen,'James Comey, Director of the FBI, said at a press conference. 'The first thing we did was to turn to our most qualified engineers, but these were overtaken by Apple technology, as they reached a point where there was a danger that the device would explode along with all the data there contained, so they decided not to continue their attempts'. The FBI, then, called for support from experts from the CIA and Massachusetts Technology; however, none of them had the capacity to violate the security of the apparatus.'When everything seemed lost,'continued Comey,'it was an agent infiltrated in Mexico who gave the solution to the problem. We sent him the iPhone and went to the Central Axis area in Mexico City, where for  pesos and in a matter of  minutes, not only the device had been decrypted, but the information had been emptied to a USB and used to blow it and clean it'. It is known that Apple is now looking for those responsible for this, to tell them how they did it to him. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "31/03/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The FBI managed to this ad the iPhone used by one of the attackers of the terrorist act in San Bernardino, California, which occurred on December , reported the U.S. Department of Justice.",
+            "question_answers": [
+                {
+                    "question": "When did the terrorist act in San Bernardino occur?",
+                    "answer": "December"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the FBI use the iPhone used by the terrorists in San Bernardino, California?",
+                    "score": 0.8746,
+                    "answers": "U.S.|compound"
+                },
+                {
+                    "question": "What did the FBI do with the iPhone used in the terrorist act in San Bernardino?",
+                    "score": 0.8064,
+                    "answers": "www.eldizque.com reported on 31/03/2016 that The FBI managed to this ad the iPhone used by one of the attackers of the terrorist act in San Bernardino , California , which occurred on December|ccomp"
+                },
+                {
+                    "question": "What was the name of the ad used by the FBI in the San Bernardino terrorist act?",
+                    "score": 0.7244,
+                    "answers": "The|det"
+                },
+                {
+                    "question": "What is the Department of Justice?",
+                    "score": 0.5422,
+                    "answers": "Justice|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "So far it was not known how The FBI could access the iPhone used by one of the attackers of the terrorist act in San Bernardino, California, which occurred on December without one of the attackers of the terrorist act in San Bernardino, California, which occurred on December help.",
+            "question_answers": [
+                {
+                    "question": "When did the terrorist act in San Bernardino occur?",
+                    "answer": "December"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the FBI access the iPhone used by the terrorists in San Bernardino, California?",
+                    "score": 0.863,
+                    "answers": "one of the attackers of the terrorist act in San Bernardino , California , which occurred on December|pobj"
+                },
+                {
+                    "question": "When did the terrorist act in San Bernardino occur?",
+                    "score": 0.8176,
+                    "answers": "which occurred on December without one of the attackers of the terrorist act in San Bernardino , California , which occurred on December|relcl\twhich occurred on December|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The U.S. government had tried to force one of the attackers of the terrorist act in San Bernardino, California, which occurred on December to decrypt the iPhone used by one of the attackers of the terrorist act in San Bernardino, California, which occurred on December , getting a refusal to help with the investigation, claiming that one of the attackers of the terrorist act in San Bernardino, California, which occurred on December must protect the data of users.",
+            "question_answers": [
+                {
+                    "question": "When did the terrorist act in San Bernardino occur?",
+                    "answer": "December"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the US government try to force one of the terrorists of the terrorist act in San Bernardino?",
+                    "score": 0.896,
+                    "answers": "www.eldizque.com reported on 31/03/2016 that The U.S. government had tried to force one of the attackers of the terrorist act in San Bernardino , California , which occurred on December to decrypt the iPhone used by one of the attackers of the terrorist act in San Bernardino , California , which occurred on December , getting a refusal to help with the investigation , claiming that one of the attackers of the terrorist act in San Bernardino , California , which occurred on December must protect the data of users|ROOT"
+                },
+                {
+                    "question": "What is the investigation into the San Bernardino terrorist act?",
+                    "score": 0.6884,
+                    "answers": "with the investigation|prep\tthe investigation|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, before the court hearing where it was about getting a warrant for the iPhone used by one of the attackers of the terrorist act in San Bernardino, California, which occurred on December , The FBI announced that help was no longer needed.",
+            "question_answers": [
+                {
+                    "question": "When did the terrorist act in San Bernardino occur?",
+                    "answer": "December"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the FBI say about getting a warrant for the iPhone used by the terrorists?",
+                    "score": 0.7543,
+                    "answers": "on 31/03/2016|prep"
+                },
+                {
+                    "question": "When did the FBI announce that help was no longer needed?",
+                    "score": 0.6979,
+                    "answers": "on December|prep"
+                }
+            ]
+        },
+        {
+            "claim": "As expected, Apple's has surprised one of the attackers of the terrorist act in San Bernardino, California, which occurred on December , as Apple's has shown that there is a way to violate the security of devices.",
+            "question_answers": [
+                {
+                    "question": "When did the terrorist act in San Bernardino occur?",
+                    "answer": "December"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the terrorist act occur in San Bernardino, CA?",
+                    "score": 0.8758,
+                    "answers": "on December|prep"
+                },
+                {
+                    "question": "What did Apple do to violate the security of devices?",
+                    "score": 0.8475,
+                    "answers": "that there is a way to violate the security of devices|ccomp\ta way to violate the security of devices|attr\tto violate the security of devices|relcl\tthe security of devices|dobj\tof devices|prep\tdevices|pobj"
+                },
+                {
+                    "question": "What did Apple say about the terrorist act in San Bernardino, California?",
+                    "score": 0.8421,
+                    "answers": "www.eldizque.com reported on 31/03/2016 that As expected , Apple 's has surprised one of the attackers of the terrorist act in San Bernardino , California , which occurred on December , as Apple 's has shown that there is a way to violate the security of devices|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'this ad wasn't easy, gentlemen,'James Comey, Director of The FBI , said at a press conference.",
+            "question_answers": [
+                {
+                    "question": "What position did James Comey hold?",
+                    "answer": "Director of The FBI"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did James Comey say at a press conference?",
+                    "score": 0.7955,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 31/03/2016 that ' this ad was n't easy , gentlemen,'James Comey , Director of The FBI , said at a press conference|ROOT\ton 31/03/2016|prep\t'|punct\tthis|det\tthis ad|nsubj\tn't|neg\teasy|acomp\tDirector of The FBI|appos\tof The FBI|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'The first thing The FBI did was to turn to access , but access were overtaken by one of the attackers of the terrorist act in San Bernardino, California, which occurred on December technology, as access reached a point where there was a danger that the iPhone used by one of the attackers of the terrorist act in San Bernardino, California, which occurred on December would explode along with all the data there contained, so access decided not to continue attempts'.",
+            "question_answers": [
+                {
+                    "question": "What was the first thing the FBI did?",
+                    "answer": "turn to access"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the FBI do to gain access to the iPhone used by the terrorist act in San Bernardino?",
+                    "score": 0.7807,
+                    "answers": "The FBI did|relcl\taccess|pobj\taccess|nsubjpass\taccess|nsubj\twith all the data there contained|prep\tall the data there contained|pobj\taccess|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The FBI , then, called for support from our most qualified engineers ; however, none of our most qualified engineers had the capacity to violate the security of the apparatus.",
+            "question_answers": [
+                {
+                    "question": "Who called for support from our most qualified engineers?",
+                    "answer": "The FBI"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the FBI call for support from qualified engineers?",
+                    "score": 0.8616,
+                    "answers": "the capacity to violate the security of the apparatus|dobj"
+                },
+                {
+                    "question": "What is the security of the apparatus?",
+                    "score": 0.6464,
+                    "answers": "the security of the apparatus|dobj\tthe apparatus|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'When everything seemed lost,'continued Comey,'it was an agent infiltrated in Mexico who gave the solution to the problem.",
+            "question_answers": [
+                {
+                    "question": "Who gave the solution to the problem when everything seemed lost?",
+                    "answer": "an agent infiltrated in Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Comey do to solve the problem of illegal immigration in Mexico?",
+                    "score": 0.7574,
+                    "answers": "infiltrated in Mexico|acl"
+                },
+                {
+                    "question": "What is the solution to the problem?",
+                    "score": 0.6291,
+                    "answers": "the solution to the problem|dobj"
+                },
+                {
+                    "question": "What is the relationship between Comey and the Mexican government?",
+                    "score": 0.6025,
+                    "answers": "in Mexico|prep"
+                }
+            ]
+        },
+        {
+            "claim": "We sent him the iPhone and went to the Central Axis area in Mexico City, where for  pesos and in a matter of  minutes, not only the device had been decrypted, but the information had been emptied to a USB and used to blow it and clean it'.",
+            "question_answers": [
+                {
+                    "question": "What type of device was the iPhone emptied to?",
+                    "answer": "USB"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How was the iPhone decoded?",
+                    "score": 0.7336,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the process used to clean an iPhone?",
+                    "score": 0.6924,
+                    "answers": "used to blow it and clean it|conj\tto blow it and clean it|xcomp"
+                },
+                {
+                    "question": "How long did it take for the iPhone to be decrypted?",
+                    "score": 0.6899,
+                    "answers": "www.eldizque.com reported on 31/03/2016 that We sent him the iPhone and went to the Central Axis area in Mexico City , where for   pesos and in a matter of   minutes , not only the device had been decrypted , but the information had been emptied to a USB and used to blow it and clean it '|ROOT\tthat We sent him the iPhone and went to the Central Axis area in Mexico City , where for   pesos and in a matter of   minutes , not only the device had been decrypted , but the information had been emptied to a USB and used to blow it and clean it|ccomp\twent to the Central Axis area in Mexico City , where for   pesos and in a matter of   minutes , not only the device had been decrypted , but the information had been emptied to a USB and used to blow it and clean it|conj\tto the Central Axis area in Mexico City , where for   pesos and in a matter of   minutes , not only the device had been decrypted , but the information had been emptied to a USB and used to blow it and clean it|prep\tthe Central Axis area in Mexico City , where for   pesos and in a matter of   minutes , not only the device had been decrypted , but the information had been emptied to a USB and used to blow it and clean it|pobj\twhere for   pesos and in a matter of   minutes , not only the device had been decrypted , but the information had been emptied to a USB and used to blow it and clean it|relcl\ta USB|pobj"
+                },
+                {
+                    "question": "What was the method used to clean the iPhone?",
+                    "score": 0.6872,
+                    "answers": "the information had been emptied to a USB and used to blow it and clean it|conj"
+                },
+                {
+                    "question": "What was the location of the iPhone that was sent to Mexico City?",
+                    "score": 0.6592,
+                    "answers": "on 31/03/2016|prep\tMexico|compound"
+                }
+            ]
+        },
+        {
+            "claim": "It is known that Apple is now looking for those responsible for this, to tell them how they did it to him.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Apple is now looking for those responsible?",
+                    "answer": "31/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Apple looking for in regards to the email scandal?",
+                    "score": 0.8649,
+                    "answers": "how|advmod"
+                },
+                {
+                    "question": "Who is Apple looking for?",
+                    "score": 0.8318,
+                    "answers": "that|mark\tIt|nsubjpass\tis|auxpass\tthat It is known that Apple is now looking for those responsible for this , to tell them how they did it to him|ccomp\tthat|mark\tis|aux\tnow|advmod\tthose responsible for this|pobj\tresponsible for this|amod\tthis|pobj\t,|punct\tto tell them how they did it to him|advcl\tthem|dobj\tthey|nsubj\tit|dobj\thim|pobj"
+                }
+            ]
+        }
+    ]
+}

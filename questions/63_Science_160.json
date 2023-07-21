@@ -1,0 +1,294 @@
+{
+    "id": "63_Science_160",
+    "claim": "After years of extensive research by Japanese scientist and sexologist Seino Ketsubou, he discovered that the continued use of Pokemon video games can make sexual desire disappear in adults. 'I have been carefully following several patients, who have played from the Red and Blue versions to the X and Y versions ', the interview investigator said.'And I've been able to find out that each of them has, on average, a sexual relationship every six years.\". Despite this, he said, they do not present any symptoms of sexual need. 'However, if they get away from Pokemon video games for a period of more than five minutes, they show the same symptoms of a person experiencing prolonged sexual abstinence'. Fortunately, it seems that children are immune to this effect, but as soon as the patient reaches puberty, the phenomenon is immediately triggered. 'In fact, if the young man started to play it before he had his first sexual relationship, he may become a virgin until the \". The doctor explained that he is still trying to find the reason behind the phenomenon, without having found an answer: 'Even, some colleagues say that the one who plays Pokemon is not the cause of his little sex life, but the effect, because they are looking for what to occupy their time in the absence of erotic activity. This theory seems untenable to me. No one could be so incompetent at the social level, no one! 'concluded. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "07/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "After years of extensive research by Japanese scientist and sexologist Seino Ketsubou , Japanese scientist and sexologist Seino Ketsubou discovered that the continued use of Pokemon video games can make sexual desire disappear in adults.",
+            "question_answers": [
+                {
+                    "question": "Who discovered that the continued use of Pokemon video games can make sexual desire disappear in adults?",
+                    "answer": "Seino Ketsubou"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who discovered that the use of Pokemon video games can make sexual desire disappear in adults?",
+                    "score": 0.8751,
+                    "answers": "After years of extensive research by Japanese scientist and sexologist Seino Ketsubou|prep\tof extensive research by Japanese scientist and sexologist Seino Ketsubou|prep\textensive research by Japanese scientist and sexologist Seino Ketsubou|pobj\tby Japanese scientist and sexologist Seino Ketsubou|prep"
+                },
+                {
+                    "question": "What did Seino Ketsubou discover about Pokemon video games?",
+                    "score": 0.8678,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 07/06/2018 that After years of extensive research by Japanese scientist and sexologist Seino Ketsubou , Japanese scientist and sexologist Seino Ketsubou discovered that the continued use of Pokemon video games can make sexual desire disappear in adults|ROOT\ton 07/06/2018|prep\tyears of extensive research by Japanese scientist and sexologist Seino Ketsubou|pobj\tJapanese scientist and sexologist Seino Ketsubou|pobj\tand|cc\t,|punct\tand|cc\tJapanese scientist and sexologist Seino Ketsubou|nsubj\tthat After years of extensive research by Japanese scientist and sexologist Seino Ketsubou , Japanese scientist and sexologist Seino Ketsubou discovered that the continued use of Pokemon video games can make sexual desire disappear in adults|ccomp\tthe|det\tcontinued|amod\tthe continued use of Pokemon video games|nsubj\tof Pokemon video games|prep\tsexual|amod\tsexual desire|nsubj\tsexual desire disappear in adults|ccomp"
+                },
+                {
+                    "question": "What is Seino Ketsubou's research on Pokemon video games?",
+                    "score": 0.8147,
+                    "answers": "extensive|amod\tSeino|compound\tSeino|compound"
+                },
+                {
+                    "question": "Who is Seino Ketsubou?",
+                    "score": 0.7194,
+                    "answers": "Japanese scientist and sexologist|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "'Japanese scientist and sexologist Seino Ketsubou have been carefully following several patients, who have played from the Red and Blue versions to the X and Y versions ', Japanese scientist and sexologist Seino Ketsubou said.",
+            "question_answers": [
+                {
+                    "question": "What has Seino Ketsubou been watching patients play?",
+                    "answer": "from the Red and Blue versions to the X and Y versions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many patients has Seino Ketsubou played from Red and Blue versions to the X and Y versions?",
+                    "score": 0.8349,
+                    "answers": "Y|conj"
+                },
+                {
+                    "question": "What is Seino Ketsubou's career?",
+                    "score": 0.768,
+                    "answers": "sexologist|conj\tsexologist|conj"
+                },
+                {
+                    "question": "Who is Seino Ketsubou?",
+                    "score": 0.7351,
+                    "answers": "Japanese scientist and sexologist|nmod\tSeino|compound\tJapanese scientist and sexologist Seino Ketsubou|nsubj\tJapanese scientist and sexologist|nmod\tSeino|compound\tJapanese scientist and sexologist Seino Ketsubou|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'And Japanese scientist and sexologist Seino Ketsubou 've been able to find out that each of several patients, who have played from the Red and Blue versions to the X and Y versions has , on average, a sexual relationship every six years.",
+            "question_answers": [
+                {
+                    "question": "What did Seino Ketsubou find out about sexual relationships?",
+                    "answer": "each of several patients, who have played from the Red and Blue versions to the X and Y versions has"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Seino Ketsubou?",
+                    "score": 0.6601,
+                    "answers": "Japanese scientist and sexologist|nmod\tJapanese scientist and sexologist Seino Ketsubou|nsubj"
+                },
+                {
+                    "question": "What is Seino Ketsubou's profession?",
+                    "score": 0.6503,
+                    "answers": "sexologist|conj"
+                },
+                {
+                    "question": "How many patients have played from the Red and Blue versions to the X and Y versions?",
+                    "score": 0.622,
+                    "answers": "www.eldizque.com reported on 07/06/2018 that ' And Japanese scientist and sexologist Seino Ketsubou ' ve been able to find out that each of several patients , who have played from the Red and Blue versions to the X and Y versions has , on average , a sexual relationship every six years|ROOT\ton 07/06/2018|prep\tAnd|cc\tSeino|compound\tthat ' And Japanese scientist and sexologist Seino Ketsubou ' ve been able to find out that each of several patients , who have played from the Red and Blue versions to the X and Y versions has , on average , a sexual relationship every six years|ccomp\teach of several patients , who have played from the Red and Blue versions to the X and Y versions|nsubj\tof several patients , who have played from the Red and Blue versions to the X and Y versions|prep\tseveral patients , who have played from the Red and Blue versions to the X and Y versions|pobj\twho|nsubj\thave|aux\tfrom the Red and Blue versions|prep\tthe|det\tRed and Blue|amod\tBlue|conj\tthe Red and Blue versions|pobj\tto the X and Y versions|prep\tthe|det\tX and Y|nmod\tY|conj\tthe X and Y versions|pobj\ton average|prep\tsix|nummod"
+                },
+                {
+                    "question": "What is the average sexual relationship per six years?",
+                    "score": 0.6202,
+                    "answers": "a sexual relationship|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Despite has , Japanese scientist and sexologist Seino Ketsubou said, several patients, who have played from the Red and Blue versions to the X and Y versions do not present any symptoms of sexual need.",
+            "question_answers": [
+                {
+                    "question": "What did Seino Ketsubou say on 07/06/2018?",
+                    "answer": "Despite has"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What symptoms of sexual need are there?",
+                    "score": 0.8016,
+                    "answers": "any symptoms of sexual need|dobj"
+                },
+                {
+                    "question": "How many patients have played from Red and Blue versions to the X and Y versions?",
+                    "score": 0.7296,
+                    "answers": "and|cc\tand|cc\tand|cc"
+                },
+                {
+                    "question": "What are the symptoms of sexual need?",
+                    "score": 0.7268,
+                    "answers": "on 07/06/2018|prep"
+                },
+                {
+                    "question": "What is Seino Ketsubou's profession?",
+                    "score": 0.6698,
+                    "answers": "sexologist|conj"
+                },
+                {
+                    "question": "Who is Seino Ketsubou?",
+                    "score": 0.6643,
+                    "answers": "Japanese scientist and sexologist|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'However, if several patients, who have played from the Red and Blue versions to the X and Y versions get away from Pokemon video games for a period of more than five minutes, several patients, who have played from the Red and Blue versions to the X and Y versions show the same symptoms of a person experiencing prolonged sexual abstinence'.",
+            "question_answers": [
+                {
+                    "question": "What do patients who have played from the Red and Blue versions to the X and Y versions show?",
+                    "answer": "the same symptoms of a person experiencing prolonged sexual abstinence'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long do patients who played from the Red and Blue versions get away from Pokemon video games for?",
+                    "score": 0.8487,
+                    "answers": "for a period of more than five minutes|prep\ta period of more than five minutes|pobj"
+                },
+                {
+                    "question": "What are the symptoms of a person experiencing prolonged sexual abstinence?",
+                    "score": 0.7372,
+                    "answers": "of more than five minutes|prep\tprolonged|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Fortunately, it seems that children are immune to make , but as soon as the patient reaches puberty, make is immediately triggered.",
+            "question_answers": [
+                {
+                    "question": "What is triggered when a child reaches puberty?",
+                    "answer": "to make"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are children immune to make?",
+                    "score": 0.9161,
+                    "answers": "www.eldizque.com reported on 07/06/2018 that Fortunately , it seems that children are immune to make , but as soon as the patient reaches puberty , make is immediately triggered|ROOT\ton 07/06/2018|prep\tthat|mark\tFortunately|advmod\t,|punct\tit|nsubj\tthat Fortunately , it seems that children are immune to make , but as soon as the patient reaches puberty , make is immediately triggered|ccomp\tthat|mark\tchildren|nsubj\tthat children are immune to make|ccomp\timmune to make|acomp\tto make|prep\tmake|pobj\t,|punct\tbut|cc\tas|advmod\tas|mark\tthe|det\tthe patient|nsubj\tpuberty|dobj\t,|punct\tmake|nsubjpass\tis|auxpass\timmediately|advmod"
+                },
+                {
+                    "question": "How many children are immune to make as soon as they reach puberty?",
+                    "score": 0.7914,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What are the symptoms of being immune to make?",
+                    "score": 0.7728,
+                    "answers": "as soon as the patient reaches puberty , make is immediately triggered|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'In fact, if the young man started to play Pokemon before the young man had first sexual relationship, the young man may become a virgin until the \".",
+            "question_answers": [
+                {
+                    "question": "How long could a young man become a virgin if he started playing Pokemon before his first sexual relationship?",
+                    "answer": "until the \""
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take for a young man to become a virgin?",
+                    "score": 0.8374,
+                    "answers": "before|mark\tuntil the|prep"
+                },
+                {
+                    "question": "How long can a young man become a virgin?",
+                    "score": 0.8245,
+                    "answers": "www.eldizque.com reported on 07/06/2018 that ' In fact , if the young man started to play Pokemon before the young man had first sexual relationship , the young man may become a virgin until the \"|ROOT\tthe young man|nsubj\tthe young man|nsubj\tthe young man|nsubj"
+                },
+                {
+                    "question": "What is Pokemon?",
+                    "score": 0.8037,
+                    "answers": "to play Pokemon|xcomp\tPokemon|dobj"
+                },
+                {
+                    "question": "What is the process for becoming a virgin?",
+                    "score": 0.7529,
+                    "answers": "first|amod"
+                },
+                {
+                    "question": "What is a virgin?",
+                    "score": 0.7261,
+                    "answers": "a virgin|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Japanese scientist and sexologist Seino Ketsubou explained that Japanese scientist and sexologist Seino Ketsubou is still trying to find the reason behind make , without having found an answer: 'Even, some colleagues say that the one who plays Pokemon is not the cause of little sex life, but the effect, because the one who plays Pokemon are looking for what to occupy time in the absence of erotic activity.",
+            "question_answers": [
+                {
+                    "question": "What is Seino Ketsubou still trying to do?",
+                    "answer": "find the reason behind make"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Seino Ketsubou trying to do with Pokemon?",
+                    "score": 0.8261,
+                    "answers": "that|mark\tand|cc\tthat|mark\tand|cc\tto|aux\tthe|det\t'|punct\tthat|mark\tthe|det\twho|nsubj\tthe|det\tbut|cc\tthe|det\tbecause|mark\tthe|det\twho|nsubj\tbecause the one who plays Pokemon are looking for what to occupy time in the absence of erotic activity|advcl\tto|aux\tthe|det"
+                },
+                {
+                    "question": "What is Seino Ketsubou's relationship with Pokemon?",
+                    "score": 0.8017,
+                    "answers": "is|aux\t:|punct\tEven|advmod\tsome|det\tsome colleagues|nsubj\tnot|neg\tthe effect|conj\tare|aux"
+                },
+                {
+                    "question": "What is the cause of little sex life?",
+                    "score": 0.7463,
+                    "answers": "that the one who plays Pokemon is not the cause of little sex life , but the effect , because the one who plays Pokemon are looking for what to occupy time in the absence of erotic activity|ccomp\tthe cause of little sex life|attr\tof little sex life|prep\tlittle|amod\tlittle sex life|pobj"
+                },
+                {
+                    "question": "Who is Seino Ketsubou?",
+                    "score": 0.7295,
+                    "answers": "Japanese scientist and sexologist|nmod\tSeino|compound\tJapanese scientist and sexologist Seino Ketsubou|nsubj\tJapanese scientist and sexologist|nmod\tSeino|compound\tJapanese scientist and sexologist Seino Ketsubou|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "This theory seems untenable to me.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that this theory seems untenable?",
+                    "answer": "07/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What doesldizque.com say about the theory of communism?",
+                    "score": 0.9306,
+                    "answers": "me|pobj"
+                },
+                {
+                    "question": "What is the theory ofldizque?",
+                    "score": 0.868,
+                    "answers": "This theory|nsubj\tthat This theory seems untenable to me|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the theory ofldizque?",
+                    "score": 0.8509,
+                    "answers": "www.eldizque.com|nsubj\ton 07/06/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "No one could be so incompetent at the social level, no one! 'concluded.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 07/06/2018?",
+                    "answer": "No one could be so incompetent at the social level, no one!"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the social level of a politician?",
+                    "score": 0.8733,
+                    "answers": "that|mark\tNo|det\tcould|aux\tso|advmod\tthe|det\tsocial|amod\t,|punct\tno|det\t!|punct\t'|punct"
+                },
+                {
+                    "question": "Who concluded that no one could be so incompetent at the social level, no one!",
+                    "score": 0.8452,
+                    "answers": "' concluded|ROOT"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "id": "Sport_282",
+    "claim": "The whimsical world of football always gives us what to talk about, and on this occasion, two events took place just the same day, which were the departure of two renowned technical directors of their respective teams: Matías Almeyda and Zinedine Zidane. Zidane's, caused more surprise, because not even  days ago was champion of Europe with Real Madrid, while the technical director of the Chivas Rayadas of Guadalajara, who was removed from office and ready. All this, caused anger in both hobbies, because in addition, the Chivas will represent Mexico in the Club World Cup, where they expect to face Real Madrid. In view of this, Guadalajara managers have announced the following:'We know how important Matías was for the team, because he managed to bring the team forward when no one else believed it was possible, but we must also understand that everything is cyclical and the Matías cycle had already ended. 'Faced with this situation, it is a pleasure to announce that all this is due to the fact that we had already negotiated with Zinedine Zidane so that he will lead the Chivas in the next  years, since he has shown that he is a capable technician and that he likes the challenges, so and after many negotiations we can make official his arrival at our club, as the new shepherd of the herd. 'This was not something improvised, it had already been planned for a long time, that is why we saved ourselves the bonuses to the players and the now former technician, so that it would reach us for the salary of the first month of Zidane, not because we have not wanted to pay them, moreover, it has been shown that without payment they play better and even champions we are, so with this, we hope that the hobby chiva does not feel deceived or disappointed, on the contrary, everything we do, we do for you'. This is how Jorge Vergara gave his face for his team and shows that the least he wants is to fool the amateur, as many think after they paid his subscription to ChivasTV and saw nothing and that in the end, they ended up passing their games through TDN. 'No one is fooled here ', said categorically the owner of the team. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "01/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The whimsical world of football always gives us what to talk about, and on this occasion, two events took place just the same day, which were the departure of two renowned technical directors of their respective teams: Matías Almeyda and Zinedine Zidane .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "When did Matías Almeyda and Zinedine Zidane leave their teams?",
+                    "score": 0.7696,
+                    "answers": "this occasion which were the departure of two renowned technical directors of their respective teams : Matías Almeyda and Zinedine Zidane|pobj\tthe departure of two renowned technical directors of their respective teams : Matías Almeyda and Zinedine Zidane|attr"
+                },
+                {
+                    "question": "What did Zinedine Zidane and Matías Almeyda say about football?",
+                    "score": 0.7291,
+                    "answers": "of football|prep\tfootball|pobj"
+                },
+                {
+                    "question": "What events took place on the same day as the two renowned technical directors of their respective teams?",
+                    "score": 0.6276,
+                    "answers": "www.eldizque.com reported on 01/06/2018 that The whimsical world of football always gives us to talk what about , and on this occasion which were the departure of two renowned technical directors of their respective teams : Matías Almeyda and Zinedine Zidane , two events took place just the same day ,|ROOT"
+                },
+                {
+                    "question": "What is Zinedine Zidane's role in football?",
+                    "score": 0.6073,
+                    "answers": "Zinedine|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Zinedine Zidane , caused more surprise, because not even  days ago was champion of Europe with Real Madrid , while the technical director of the Chivas Rayadas of Guadalajara , who was removed from office and ready.",
+            "question_answers": [
+                {
+                    "question": "What team did Zinedine Zidane play for?",
+                    "answer": "Real Madrid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why was Zinedine Zidane removed from office?",
+                    "score": 0.8624,
+                    "answers": "while the technical director of the Chivas Rayadas of Guadalajara , who was removed from office and ready|advcl\twho was removed from office and ready|nmod"
+                },
+                {
+                    "question": "What did Zinedine Zidane do with Real Madrid?",
+                    "score": 0.8093,
+                    "answers": "on 01/06/2018|prep\tZinedine|compound\tdays ago was champion of Europe with Real Madrid , while the technical director of the Chivas Rayadas of Guadalajara , who was removed from office and ready|ccomp\tchampion of Europe with Real Madrid|attr\twho was|auxpass\tfrom office|prep"
+                },
+                {
+                    "question": "What was Zinedine Zidane's relationship with Real Madrid?",
+                    "score": 0.7578,
+                    "answers": "www.eldizque.com reported on 01/06/2018 that Zinedine Zidane , caused more surprise , because not even   days ago was champion of Europe with Real Madrid , while the technical director of the Chivas Rayadas of Guadalajara , who was removed from office and ready|ROOT\t,|punct\tmore surprise|dobj\t,|punct\tnot|neg\tbecause not even  |dep\t,|punct\t,|punct\twho|nsubj\tand|cc"
+                },
+                {
+                    "question": "What was the relationship between Zinedine Zidane and Real Madrid?",
+                    "score": 0.7092,
+                    "answers": "technical|amod\tready|conj"
+                },
+                {
+                    "question": "Who was the technical director of the Chivas Rayadas of Guadalajara?",
+                    "score": 0.6947,
+                    "answers": "of the Chivas Rayadas of Guadalajara|prep"
+                }
+            ]
+        },
+        {
+            "claim": "All this, caused anger in both hobbies, because in addition, the Chivas Rayadas of Guadalajara will represent Mexico in the Club World Cup, where the Chivas Rayadas of Guadalajara expect to face Real Madrid .",
+            "question_answers": [
+                {
+                    "question": "Who will represent Mexico in the Club World Cup?",
+                    "answer": "Chivas Rayadas of Guadalajara"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who are the Chivas Rayadas of Guadalajara?",
+                    "score": 0.7041,
+                    "answers": "the Chivas Rayadas of Guadalajara|nsubj\tthe Chivas Rayadas of Guadalajara|nsubj\tthe Chivas Rayadas of Guadalajara expect where to face Real Madrid|relcl"
+                },
+                {
+                    "question": "What is the relationship between Chivas Rayadas of Guadalajara and Real Madrid?",
+                    "score": 0.6746,
+                    "answers": "www.eldizque.com|nsubj\tthat All this , caused anger in both hobbies , because in addition , the Chivas Rayadas of Guadalajara will represent Mexico in the Club World Cup , the Chivas Rayadas of Guadalajara expect where to face Real Madrid|ccomp\tthe Club World Cup , the Chivas Rayadas of Guadalajara expect where to face Real Madrid|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In view of this, the Chivas Rayadas of Guadalajara managers have announced the following:'We know how important Matías Almeyda was for the Chivas Rayadas of Guadalajara , because Matías Almeyda managed to bring the Chivas Rayadas of Guadalajara forward when no one else believed bring was possible, but we must also understand that everything is cyclical and the Matías Almeyda cycle had already ended.",
+            "question_answers": [
+                {
+                    "question": "Who did the managers of the Chivas Rayadas of Guadalajara announce on 01/06/2018?",
+                    "answer": "the Chivas Rayadas of Guadalajara"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did Matías Almeyda bring the Chivas Rayadas of Guadalajara forward?",
+                    "score": 0.8886,
+                    "answers": "because Matías Almeyda managed to bring the Chivas Rayadas of Guadalajara forward when no one else believed bring was possible|advcl"
+                },
+                {
+                    "question": "What did Matías Almeyda do for Chivas Rayadas of Guadalajara?",
+                    "score": 0.8144,
+                    "answers": "the Matías Almeyda cycle|nsubj"
+                },
+                {
+                    "question": "What did the Chivas Rayadas say about Matías Almeyda?",
+                    "score": 0.7979,
+                    "answers": "www.eldizque.com reported on 01/06/2018 that In view of this , the Chivas Rayadas of Guadalajara managers have announced the following:'We know how important for the Chivas Rayadas of Guadalajara Matías Almeyda was , because Matías Almeyda managed to bring the Chivas Rayadas of Guadalajara forward when no one else believed bring was possible , but we must also understand that everything is cyclical and the Matías Almeyda cycle had already ended|ROOT\tview of this|pobj\tthe following:'We|dobj\tfor the Chivas Rayadas of Guadalajara|prep\tthe Chivas Rayadas of Guadalajara|pobj\tthe Chivas Rayadas of Guadalajara|dobj"
+                },
+                {
+                    "question": "What is the relationship between Matías Almeyda and the Chivas Rayadas?",
+                    "score": 0.715,
+                    "answers": "the Chivas Rayadas of Guadalajara managers|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Faced with this situation, it is a pleasure to announce that all this is due to the fact that the Chivas Rayadas of Guadalajara had already negotiated with Zinedine Zidane so that Zinedine Zidane will lead the Chivas Rayadas of Guadalajara in the next  years, since Zinedine Zidane has shown that Zinedine Zidane is a capable technician and that Zinedine Zidane likes the challenges, so and after many negotiations the Chivas Rayadas of Guadalajara can make official arrival at the Chivas Rayadas of Guadalajara , as the new shepherd of the herd.",
+            "question_answers": [
+                {
+                    "question": "Who has already negotiated with Zinedine Zidane to lead the Chivas Rayadas of Guadalajara?",
+                    "answer": "Chivas Rayadas of Guadalajara"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many negotiations has Zinedine Zidane negotiated with Chivas Rayadas?",
+                    "score": 0.824,
+                    "answers": "many negotiations|pobj"
+                },
+                {
+                    "question": "What was Zinedine Zidane's role in the Chivas Rayadas of Guadalajara?",
+                    "score": 0.7987,
+                    "answers": "that ' Faced with this situation , it is a pleasure to announce that all this is due to the fact that the Chivas Rayadas of Guadalajara had already negotiated with Zinedine Zidane so that Zinedine Zidane will lead the Chivas Rayadas of Guadalajara in|ccomp"
+                },
+                {
+                    "question": "What is Zinedine Zidane's current position in the Chivas Rayadas?",
+                    "score": 0.7751,
+                    "answers": "the next   years|dep"
+                },
+                {
+                    "question": "Who is Zinedine Zidane?",
+                    "score": 0.7592,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 01/06/2018 that ' Faced with this situation , it is a pleasure to announce that all this is due to the fact that the Chivas Rayadas of Guadalajara had already negotiated with Zinedine Zidane so that Zinedine Zidane will lead the Chivas Rayadas of Guadalajara in the next   years , since Zinedine Zidane has shown that Zinedine Zidane is a capable technician and that Zinedine Zidane likes the challenges , so and after many negotiations the Chivas Rayadas of Guadalajara can make official arrival at the Chivas Rayadas of Guadalajara , as the new shepherd of the herd|ROOT\ton 01/06/2018|prep\tthat|mark\t'|punct\twith this situation|prep\tthis|det\tthis situation|pobj\t,|punct\tit|nsubj\ta|det\ta pleasure|attr\tto|aux\tthat|mark\tall|predet\tall this|nsubj\tdue|amod\tthe|det\tthe fact that the Chivas Rayadas of Guadalajara had already negotiated with Zinedine Zidane so that Zinedine Zidane will lead the Chivas Rayadas of Guadalajara in|pobj\tthat|mark\tthe|det\tChivas|compound\tthe Chivas Rayadas of Guadalajara|nsubj\tof Guadalajara|prep\thad|aux\talready|advmod\tthat the Chivas Rayadas of Guadalajara had already negotiated with Zinedine Zidane so that Zinedine Zidane will lead the Chivas Rayadas of Guadalajara in|acl\twith Zinedine Zidane|prep\tZinedine|compound\tso|mark\tthat|mark\tZinedine|compound\twill|aux\tthe|det\tChivas|compound\tthe Chivas Rayadas of Guadalajara|dobj\tof Guadalajara|prep\tin|prep\tthe|det\tnext|amod\tyears|npadvmod\t,|punct\tsince|mark\tZinedine|compound\thas|aux\tsince Zinedine Zidane has shown that Zinedine Zidane is a capable technician and that Zinedine Zidane likes the challenges , so and after many negotiations the Chivas Rayadas of Guadalajara can make official arrival at the Chivas Rayadas of Guadalajara , as the new shepherd of the herd|advcl\tthat|mark\tZinedine|compound\tthat Zinedine Zidane is a capable technician and that Zinedine Zidane likes the challenges|advcl\ta|det\tcapable|amod\ta capable technician|attr\tand|cc\tthat|mark\tZinedine|compound\tthe|det\t,|punct\tso|dep\tand|cc\tmany|amod\tthe|det\tChivas|compound\tthe Chivas Rayadas of Guadalajara|nsubj\tof Guadalajara|prep\tcan|aux\tofficial|amod\tthe|det\tChivas|compound\tthe Chivas Rayadas of Guadalajara|pobj\tof Guadalajara|prep\t,|punct\tthe|det\tnew|amod\tthe new shepherd of the herd|pobj\tthe|det\tthe herd|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'This was not something improvised, it had already been planned for a long time, that is why we saved ourselves the bonuses to the players and the now former technician, so that it would reach us for the salary of the first month of Zidane, not because we have not wanted to pay them, moreover, it has been shown that without payment they play better and even champions we are, so with this, we hope that the hobby chiva does not feel deceived or disappointed, on the contrary, everything we do, we do for you'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/06/2018 that 'This was not something improvised, it had already been planned for a long time'?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did they save their bonuses for the first month of Zidane?",
+                    "score": 0.8495,
+                    "answers": "not because we have not wanted to pay them|advcl"
+                },
+                {
+                    "question": "How much did Zidane save for the players and former technician?",
+                    "score": 0.7582,
+                    "answers": "the players and the now former technician|pobj\tso that it would reach us for the salary of the first month of Zidane|advcl"
+                },
+                {
+                    "question": "What was the salary of the Zidane team in 2018?",
+                    "score": 0.7515,
+                    "answers": "for the salary of the first month of Zidane|prep\tthe salary of the first month of Zidane|pobj\tof the first month of Zidane|prep"
+                },
+                {
+                    "question": "How many bonuses did the Zidane team receive in 2018?",
+                    "score": 0.7401,
+                    "answers": "it had already been planned for a long time|ccomp"
+                },
+                {
+                    "question": "What is the average salary of a chiva in 2018?",
+                    "score": 0.7033,
+                    "answers": "that the hobby chiva does not feel deceived or disappointed|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "This is how Jorge Vergara gave his face for his team and shows that the least he wants is to fool the amateur, as many think after they paid his subscription to ChivasTV and saw nothing and that in the end, they ended up passing their games through TDN.",
+            "question_answers": [
+                {
+                    "question": "What channel did Jorge Vergara subscribe to?",
+                    "answer": "ChivasTV"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jorge Vergara do with his membership to ChivasTV?",
+                    "score": 0.7164,
+                    "answers": "after they paid his subscription to ChivasTV and saw nothing and that in the end , they ended up passing their games through TDN|advcl"
+                },
+                {
+                    "question": "What does Jorge Vergara want to do with his team?",
+                    "score": 0.6609,
+                    "answers": "he wants|relcl"
+                },
+                {
+                    "question": "What is the relationship between Jorge Vergara and ChivasTV?",
+                    "score": 0.6049,
+                    "answers": "on 01/06/2018|prep\tthat|mark\tThis|nsubj\thow|advmod\tJorge|compound\this|poss\this face|dobj\tfor his team|dative\this|poss\this team|pobj\tand|cc\tthat|mark\tthe|det\the|nsubj\tto|aux\tthe|det\t,|punct\tas|mark\tmany|nsubj\tafter|mark\tthey|nsubj\this|poss\this subscription to ChivasTV|dobj\tto ChivasTV|prep\tand|cc\tsaw nothing|conj\tnothing|dobj\tand|cc\tthat|mark\tin the end|prep\tthe|det\tthe end|pobj\t,|punct\tthey|nsubj\tup|prt\ttheir|poss"
+                },
+                {
+                    "question": "How many games did they pass through TDN in 2018?",
+                    "score": 0.6019,
+                    "answers": "as many think after they paid his subscription to ChivasTV and saw nothing and that in the end , they ended up passing their games through TDN|advcl\tthat in the end , they ended up passing their games through TDN|conj"
+                },
+                {
+                    "question": "What is TDN?",
+                    "score": 0.5373,
+                    "answers": "through TDN|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'No one is fooled here ', said categorically the owner of the team.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 01/06/2018?",
+                    "answer": "'No one is fooled here"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the owner of the Miami Marlins?",
+                    "score": 0.7941,
+                    "answers": "No one|nsubjpass\tthat ' No one is fooled here|ccomp\twww.eldizque.com reported on 01/06/2018 that ' No one is fooled here ' , said categorically the owner of the team|ROOT\tcategorically|advmod\tthe owner of the team|nsubj\tof the team|prep"
+                },
+                {
+                    "question": "What did the website \"eldizque.com\" say about the claims?",
+                    "score": 0.784,
+                    "answers": "www.eldizque.com reported on 01/06/2018 that ' No one is fooled here|ccomp"
+                }
+            ]
+        }
+    ]
+}

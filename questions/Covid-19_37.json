@@ -1,0 +1,242 @@
+{
+    "id": "Covid-19_37",
+    "claim": "The still secretary general of Morena, Yeidckol Polevnsky, reported that she is not in intensive care after giving positive Covid-19. After versions that indicated she was in interspersive therapy circulated, the brunette posted a message on her Twitter account to thank her for her interest in her health. He added that he is in a well-performing clinic in Covid. On October 21, Polevnsky reported that he had tested Covid-19 positive and that after medical studies, the doctor decided that he should stay in the hospital.'I thank you all for your concern and interest in my health, I inform you that I am not in intensive care. I'm at the #COVID19 clinic with good results. 'Mexico exceeds 900,000 infections by CovidMexico reached the 901,268 confirmed cases on Tuesday and 89,814 deaths by Covid-19, as 5,942 new infections and 643 deaths accumulated in the last 24 hours, according to the Ministry of Health. With these figures, Mexico is the tenth most contagious country and the fourth most affected by the disease, according to Johns Hopkins University. I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "28/10/2020",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The still secretary general of Morena, Yeidckol Polevnsky, reported that she is not in intensive care after giving positive Covid-19.",
+            "question_answers": [
+                {
+                    "question": "What did Yeidckol Polevnsky give to the secretary general of Morena?",
+                    "answer": "positive Covid-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is Yeidckol Polevnsky in intensive care after giving positive Covid-1919?",
+                    "score": 0.7284,
+                    "answers": "in intensive care|prep"
+                },
+                {
+                    "question": "What was the Covid-19?",
+                    "score": 0.6593,
+                    "answers": "that she is not in intensive care after giving positive Covid-19|ccomp\tafter giving positive Covid-19|prep"
+                },
+                {
+                    "question": "What is the relationship between the secretary general of Morena and the Covid-1919 flu?",
+                    "score": 0.6562,
+                    "answers": "positive|amod"
+                },
+                {
+                    "question": "What is the Covid-19?",
+                    "score": 0.6385,
+                    "answers": "giving positive Covid-19|pcomp\tpositive Covid-19|dobj"
+                },
+                {
+                    "question": "What is the Covid-1919?",
+                    "score": 0.5899,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "After versions that indicated she was in interspersive therapy circulated, the brunette posted a message on her Twitter account to thank her for her interest in her health.",
+            "question_answers": [
+                {
+                    "question": "What did the brunette do on her Twitter?",
+                    "answer": "thank her for her interest in her health"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the brunette say on her Twitter account about her interest in her health?",
+                    "score": 0.7034,
+                    "answers": "www.eluniversal.com.mx reported on 28/10/2020 that After versions that indicated she was in interspersive therapy circulated , the brunette posted a message on her Twitter account to thank her for her interest in her health|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the story of Elizabeth being in interspersive therapy?",
+                    "score": 0.6585,
+                    "answers": "to thank her for her interest in her health|advcl"
+                },
+                {
+                    "question": "What is interspersive therapy?",
+                    "score": 0.617,
+                    "answers": "in interspersive therapy|prep\tinterspersive|amod\tinterspersive therapy|pobj"
+                },
+                {
+                    "question": "What is the relationship between the brunette and interspersive therapy?",
+                    "score": 0.5886,
+                    "answers": "the brunette|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "He added that he is in a well-performing clinic in Covid.",
+            "question_answers": [
+                {
+                    "question": "What type of clinic did he say he was in?",
+                    "answer": "well-performing clinic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is the Covid clinic located?",
+                    "score": 0.7856,
+                    "answers": "in a well - performing clinic in Covid|prep\ta well - performing clinic in Covid|pobj\tin Covid|prep"
+                },
+                {
+                    "question": "Where is the clinic in Covidina located?",
+                    "score": 0.7713,
+                    "answers": "on 28/10/2020|prep"
+                },
+                {
+                    "question": "Who is in a well-performing clinic in Covid?",
+                    "score": 0.7502,
+                    "answers": "He|nsubj\the|nsubj"
+                },
+                {
+                    "question": "What is the name of the clinic in Covid?",
+                    "score": 0.7019,
+                    "answers": "28/10/2020|pobj\tthat|mark\tthat He added that he is in a well - performing clinic in Covid|ccomp\tthat|mark\tthat he is in a well - performing clinic in Covid|ccomp\ta|det\twell|advmod\t-|punct\twell - performing|amod"
+                }
+            ]
+        },
+        {
+            "claim": "On October 21, Polevnsky reported that he had tested Covid-19 positive and that after medical studies, the doctor decided that he should stay in the hospital.",
+            "question_answers": [
+                {
+                    "question": "On what date did Polevnsky report that he had tested positive for Covid-19?",
+                    "answer": "28/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the doctor decide to stay in the hospital after he tested Covid-19 positive?",
+                    "score": 0.834,
+                    "answers": "that|mark\t,|punct\tthat|mark\the|nsubj\tand|cc\tthat|mark\t,|punct\tthe|det\tthat|mark\the|nsubj\tthe|det"
+                },
+                {
+                    "question": "What was the Covid-19 positive?",
+                    "score": 0.752,
+                    "answers": "that he had tested Covid-19 positive and that after medical studies , the doctor decided that he should stay in the hospital|advcl\tpositive|oprd"
+                },
+                {
+                    "question": "What was the name of the doctor who tested Covid-19 positive?",
+                    "score": 0.7317,
+                    "answers": "On October 21|prep\t21|nummod"
+                },
+                {
+                    "question": "What is the source of evidence of Polevnsky's Covid-19 positive?",
+                    "score": 0.725,
+                    "answers": "on 28/10/2020|prep\t28/10/2020|pobj\tafter medical studies|prep\tmedical|amod\tmedical studies|pobj\tshould|aux\tthe hospital|pobj"
+                },
+                {
+                    "question": "What is Covid-19?",
+                    "score": 0.6779,
+                    "answers": "Covid-19|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'I thank you all for your concern and interest in my health, I inform you that I am not in intensive care.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report that 'I thank you all for your concern and interest in my health'?",
+                    "answer": "28/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Trump's health in 2019?",
+                    "score": 0.7782,
+                    "answers": "that|mark\t'|punct\tI|nsubj\tall|appos\tand|cc\tin my health|prep\tmy|poss\tmy health|pobj\tI|nsubj\tthat|mark\tI|nsubj"
+                },
+                {
+                    "question": "What is the current definition of intensive care?",
+                    "score": 0.7421,
+                    "answers": "intensive|amod"
+                }
+            ]
+        },
+        {
+            "claim": "I'm at the #COVID19 clinic with good results.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report that I'm at the #COVID19 clinic?",
+                    "answer": "28/10/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is the #COVID19 clinic located?",
+                    "score": 0.7806,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What are the results of the #COVID19 clinic?",
+                    "score": 0.7738,
+                    "answers": "good results|pobj"
+                },
+                {
+                    "question": "Where is the COVID19 clinic?",
+                    "score": 0.7614,
+                    "answers": "www.eluniversal.com.mx reported on 28/10/2020 that I 'm at the # COVID19 clinic with good results|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'Mexico exceeds 900,000 infections by CovidMexico reached the 901,268 confirmed cases on Tuesday and 89,814 deaths by Covid-19, as 5,942 new infections and 643 deaths accumulated in the last 24 hours, according to the Ministry of Health.",
+            "question_answers": [
+                {
+                    "question": "How many deaths were caused by Covid-19?",
+                    "answer": "89,814"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were infected by Covid-19 in Mexico in the last 24 hours?",
+                    "score": 0.7575,
+                    "answers": "by Covid-19|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the number of infected people in Mexico?",
+                    "score": 0.686,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "With these figures, Mexico is the tenth most contagious country and the fourth most affected by the disease, according to Johns Hopkins University.",
+            "question_answers": [
+                {
+                    "question": "Where does Mexico rank as a contagious country?",
+                    "answer": "tenth"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How contagious is Mexico?",
+                    "score": 0.8788,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 28/10/2020|prep\t28/10/2020|pobj\tWith these figures|prep\ttenth most contagious|amod\tby the disease|prep\taccording to Johns Hopkins University|conj\tto Johns Hopkins University|prep"
+                },
+                {
+                    "question": "What are the statistics of Mexico being affected by the disease?",
+                    "score": 0.8601,
+                    "answers": "these|det\t,|punct\tand|cc\t,|punct\tJohns|compound\tJohns Hopkins|compound"
+                },
+                {
+                    "question": "What is Mexico's contagious country?",
+                    "score": 0.8066,
+                    "answers": "the tenth most contagious country and the fourth most affected by the disease|attr\tthe fourth most affected by the disease|conj\tthe disease|pobj"
+                },
+                {
+                    "question": "What is the most contagious country?",
+                    "score": 0.7584,
+                    "answers": "www.eluniversal.com.mx reported on 28/10/2020 that With these figures , Mexico is the tenth most contagious country and the fourth most affected by the disease , according to Johns Hopkins University|ROOT"
+                }
+            ]
+        }
+    ]
+}

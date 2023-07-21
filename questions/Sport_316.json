@@ -1,0 +1,297 @@
+{
+    "id": "Sport_316",
+    "claim": "The Guadalajara Chivas crowned themselves as the champions of the Concacaf Champions League, beating Toronto in prison. The technical director, Matías Almeyda, said excitedly:'We proved to be on the level to beat Barcelona, Manchester United, Real Madrid, Bayern Münich and the Valadores de Iztacalco'. Everything seems to indicate that how badly they played in the MX League was only to defy the enemies, as the Chivas were focused on this meeting that will take them to the Club World Cup. In response, Jorge Vergara, the owner of the Chivas, said the following:'We have made a great effort to reach the Club World Cup. The players have learned to value their work, to die in the field, to give their lives for the team, and this has been demonstrated by this title, so I have decided that in order to maintain the good level of the team, they will continue to retain their salary'. And it is necessary to realize, Vergara said, that when they are paid, they just don't give one:'They get injured, they throw the laziness, they don't compromise with the team, and the worst: with their salary they go to party, they become undisciplined and other things that don't go with a professional. But now that I'm not paying them, look at them: they feel like never the shirt. So, given the results, it's best not to pay them for the good of the team.\". Vergara walked away without giving more details of his decision, but it is said that players who want to go to the Club World Cup will have to prove that they really want to be there, so that each player will pay their ticket, their lodging, their food and the rent for wearing the shirt of the glorious Guadalajara. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "26/04/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The Guadalajara Chivas crowned The Guadalajara Chivas as the champions of the Concacaf Champions League, beating Toronto in prison.",
+            "question_answers": [
+                {
+                    "question": "What city did the Guadalajara Chivas beat to become the champions of the Concacaf Champions League?",
+                    "answer": "Toronto"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Guadalajara Chivas have won the Concacaf Champions League?",
+                    "score": 0.848,
+                    "answers": "on 26/04/2018|prep\tGuadalajara|compound\tGuadalajara|compound"
+                },
+                {
+                    "question": "Who were the Guadalajara Chivas in the Concacaf Champions League in 2018?",
+                    "score": 0.8288,
+                    "answers": "as the champions of the Concacaf Champions League|prep"
+                },
+                {
+                    "question": "What is the name of the prison where the Guadalajara Chivas beat Toronto?",
+                    "score": 0.7172,
+                    "answers": "prison|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The technical director, Matías Almeyda, said excitedly:'We proved to be on the level to beat Barcelona, Manchester United, Real Madrid, Bayern Münich and the Valadores de Iztacalco'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Matas Almeyda said: 'We proved to be on the level to beat Barcelona, Manchester United, Real Madrid, Bayern Münich and the Valadores de Iztacalco'?",
+                    "answer": "26/04/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What teams has Matías Almeyda played against?",
+                    "score": 0.864,
+                    "answers": "Manchester United , Real Madrid , Bayern Münich and the Valadores de Iztacalco|conj"
+                },
+                {
+                    "question": "What teams did Matías Almeyda beat to win?",
+                    "score": 0.8575,
+                    "answers": "to beat Barcelona , Manchester United , Real Madrid , Bayern Münich and the Valadores de Iztacalco|relcl"
+                },
+                {
+                    "question": "What teams have won the Valadores de Iztacalco?",
+                    "score": 0.8481,
+                    "answers": "Barcelona , Manchester United , Real Madrid , Bayern Münich and the Valadores de Iztacalco|dobj"
+                },
+                {
+                    "question": "What did Matías Almeyda say about Real Madrid?",
+                    "score": 0.8226,
+                    "answers": "Bayern|compound"
+                },
+                {
+                    "question": "Who is Matías Almeyda?",
+                    "score": 0.6721,
+                    "answers": "Matías|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Everything seems to indicate that how badly The Guadalajara Chivas played in the MX League was only to defy the enemies, as The Guadalajara Chivas were focused on this meeting that will take The Guadalajara Chivas to the Club World Cup .",
+            "question_answers": [
+                {
+                    "question": "What tournament will the Guadalajara Chivas play in?",
+                    "answer": "Club World Cup"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the Guadalajara Chivas play in the MX League in 2018?",
+                    "score": 0.7944,
+                    "answers": "to the Club World Cup|prep"
+                },
+                {
+                    "question": "What was the purpose of the Guadalajara Chivas playing in the MX League?",
+                    "score": 0.7539,
+                    "answers": "that|mark\tEverything|nsubj\tto|aux\tthat|mark\thow|advmod\tThe|det\tthe|det\tMX|compound\tonly|advmod\tto|aux\tthe|det\t,|punct\tas|mark\tThe|det\twere|auxpass\tthis|det\tthat|nsubj\tThe|det\tthe|det\tClub|compound"
+                },
+                {
+                    "question": "What is the relationship between the Guadalajara Chivas and the Chivas?",
+                    "score": 0.6696,
+                    "answers": "the enemies|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In response, Jorge Vergara, the owner of the Chivas , said the following:'We have made a great effort to reach the Club World Cup .",
+            "question_answers": [
+                {
+                    "question": "What team did Jorge Vergara own?",
+                    "answer": "Chivas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has Jorge Vergara done to reach the Club World Cup?",
+                    "score": 0.8492,
+                    "answers": "the following:'We have made a great effort to reach the Club World Cup|dobj\thave made a great effort to reach the Club World Cup|acl\ta great effort to reach the Club World Cup|dobj"
+                },
+                {
+                    "question": "Who owns the Chivas?",
+                    "score": 0.7936,
+                    "answers": "Jorge Vergara , the owner of the Chivas|nsubj"
+                },
+                {
+                    "question": "Who is the owner of the Chivas?",
+                    "score": 0.7191,
+                    "answers": "the owner of the Chivas|appos"
+                }
+            ]
+        },
+        {
+            "claim": "The players have learned to value work, to die in the field, to give lives for The Guadalajara Chivas , and this has been demonstrated by this title, so Jorge Vergara, the owner of the Chivas have decided that in order to maintain the good level of The Guadalajara Chivas , The players will continue to retain their salary '.",
+            "question_answers": [
+                {
+                    "question": "Why did Jorge Vergara decide that the players would continue to retain their salary?",
+                    "answer": "to maintain the good level of The Guadalajara Chivas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Guadalajara Chivas salary?",
+                    "score": 0.7753,
+                    "answers": "that The players have learned to value work , to die in the field , to give lives for The Guadalajara Chivas , and this has been demonstrated by this title , so Jorge Vergara , the owner of the Chivas have decided that in order to maintain the good level of The Guadalajara Chivas , The players will continue to retain their salary '|ccomp\tto retain their salary|xcomp"
+                },
+                {
+                    "question": "What is the salary of the Guadalajara Chivas players?",
+                    "score": 0.7533,
+                    "answers": "their salary|dobj"
+                },
+                {
+                    "question": "What is the current salary of the Chivas players?",
+                    "score": 0.7304,
+                    "answers": "of the Chivas|prep"
+                },
+                {
+                    "question": "What are the Guadalajara Chivas?",
+                    "score": 0.7202,
+                    "answers": "to give lives for The Guadalajara Chivas|dep\tto maintain the good level of The Guadalajara Chivas|acl"
+                },
+                {
+                    "question": "What is Guadalajara Chivas?",
+                    "score": 0.7005,
+                    "answers": "Guadalajara|compound\tGuadalajara|compound"
+                }
+            ]
+        },
+        {
+            "claim": "And it is necessary to realize, Jorge Vergara, the owner of the Chivas said, that when The players are paid, The players just don't give one:'They get injured, The players throw the laziness, The players don't compromise with The Guadalajara Chivas , and the worst: with their salary The players go to party, The players become undisciplined and other things that don't go with a professional.",
+            "question_answers": [
+                {
+                    "question": "Who did Jorge Vergara say the Chivas don't compromise with?",
+                    "answer": "The Guadalajara Chivas"
+                },
+                {
+                    "question": "Who did Jorge Vergara say the Chivas don't compromise with?",
+                    "answer": "The Guadalajara Chivas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jorge Vergara say about the players being paid?",
+                    "score": 0.7346,
+                    "answers": "www.eldizque.com reported on 26/04/2018 that And it is necessary to realize , Jorge Vergara , the owner of the Chivas said , that when The players are paid , The players just do n't give one:'They get injured , The players throw the laziness , The players do n't compromise with The Guadalajara Chivas , and the worst : with their salary The players go to party , The players become undisciplined and other things that do n't go with a professional|ROOT\tAnd|cc"
+                },
+                {
+                    "question": "What does it mean to be injured by the Chivas?",
+                    "score": 0.6853,
+                    "answers": "one:'They get injured , The players throw the laziness , The players do n't compromise with The Guadalajara Chivas , and the worst : with their salary The players go to party , The players become undisciplined and other things that do n't go with a professional|ccomp"
+                },
+                {
+                    "question": "What is the salary of the Guadalajara Chivas players?",
+                    "score": 0.6841,
+                    "answers": "with The Guadalajara Chivas|prep"
+                },
+                {
+                    "question": "How many players do the Chivas have?",
+                    "score": 0.6721,
+                    "answers": "the owner of the Chivas|appos"
+                },
+                {
+                    "question": "How many players are paid by the Chivas?",
+                    "score": 0.6698,
+                    "answers": "when The players are paid|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "But now that Jorge Vergara, the owner of the Chivas 'm not paying The players , look at The players : The players feel like never the shirt.",
+            "question_answers": [
+                {
+                    "question": "Who did Jorge Vergara say he wasn't paying?",
+                    "answer": "The players"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jorge Vergara say about the players?",
+                    "score": 0.7474,
+                    "answers": "www.eldizque.com reported on 26/04/2018 that But now that Jorge Vergara , the owner of the Chivas ' m not paying The players , look at The players : The players feel like never the shirt|ROOT"
+                },
+                {
+                    "question": "Who owns the Chivas?",
+                    "score": 0.7192,
+                    "answers": "Jorge Vergara , the owner of the Chivas|nsubj"
+                },
+                {
+                    "question": "What is the current salary of the Chivas players?",
+                    "score": 0.7045,
+                    "answers": "on 26/04/2018|prep\tthat|mark\tBut|cc\tnow that Jorge Vergara , the owner of the Chivas ' m not paying The players|advmod\tthat|mark\t,|punct\tthe|det\tof the Chivas|prep\tthe|det\tthe Chivas|pobj\t'|aux\tm|aux\tnot|neg\tthat Jorge Vergara , the owner of the Chivas ' m not paying The players|ccomp\tThe|det\tThe players|dobj\t,|punct\tlook at The players|advcl\tat The players|prep\tThe|det\tThe players|pobj\t:|punct\tThe|det\tThe players|nsubj\tthat But now that Jorge Vergara , the owner of the Chivas ' m not paying The players , look at The players : The players feel like never the shirt|ccomp\tlike never the shirt|prep\tnever|neg\tthe|det\tnever the shirt|pobj"
+                },
+                {
+                    "question": "What is the name of the website that Jorge Vergara owns?",
+                    "score": 0.6724,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "Who is the owner of the Chivas?",
+                    "score": 0.6692,
+                    "answers": "the owner of the Chivas|appos"
+                }
+            ]
+        },
+        {
+            "claim": "So, given the results, it's best not to pay them for the good of the team.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 26/04/2018?",
+                    "answer": "not to pay them for the good of the team"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to not pay for the good of your team?",
+                    "score": 0.7804,
+                    "answers": "not to pay them for the good of the team|xcomp"
+                },
+                {
+                    "question": "What doesldizque.com say about paying teams for good results?",
+                    "score": 0.7752,
+                    "answers": "that So , given the results , it 's best not to pay them for the good of the team|ccomp"
+                },
+                {
+                    "question": "What is the best way to fund a team?",
+                    "score": 0.7504,
+                    "answers": "for the good of the team|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the results of the 2018 AFL season?",
+                    "score": 0.7285,
+                    "answers": "www.eldizque.com|nsubj\ton 26/04/2018|prep\tthat|mark\tSo|advmod\t,|punct\tthe|det\tthe results|pobj\t,|punct\tit|nsubj\tnot|neg\tto|aux\tthem|dobj\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What doesldizque.com do?",
+                    "score": 0.727,
+                    "answers": "given the results|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Vergara walked away without giving more details of his decision, but it is said that players who want to go to the Club World Cup will have to prove that they really want to be there, so that each player will pay their ticket, their lodging, their food and the rent for wearing the shirt of the glorious Guadalajara.",
+            "question_answers": [
+                {
+                    "question": "What shirt will each player wear to the Club World Cup?",
+                    "answer": "the glorious Guadalajara"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Vergara walk away from the Club World Cup?",
+                    "score": 0.8154,
+                    "answers": "www.eldizque.com reported on 26/04/2018 that Vergara walked away without giving more details of his decision , but it is said that players who want to go to the Club World Cup will have to prove that they really want to be there , so that each player will pay their ticket , their lodging , their food and the rent for wearing the shirt of the glorious Guadalajara|ROOT\ton 26/04/2018|prep\tthat Vergara walked away without giving more details of his decision|ccomp\taway|advmod\this|poss\this decision|pobj\tto go to the Club World Cup|xcomp\tto the Club World Cup|prep\tto prove that they really want to be there ,|xcomp\tto be there|xcomp\tfor wearing the shirt of the glorious Guadalajara|prep"
+                },
+                {
+                    "question": "What did Vergara say about his decision to walk away?",
+                    "score": 0.7209,
+                    "answers": "their ticket , their lodging , their food and the rent for wearing the shirt of the glorious Guadalajara|dobj"
+                },
+                {
+                    "question": "What is the cost of paying for the shirt of Guadalajara?",
+                    "score": 0.6236,
+                    "answers": "their lodging , their food and the rent for wearing the shirt of the glorious Guadalajara|conj\ttheir food and the rent for wearing the shirt of the glorious Guadalajara|conj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "id": "104_Science_133",
+    "claim": "It is not the first time she is accused, it is more over the last decades, Astronomers, scientists who have worked for the National Aeronautics and Space Administration (NASA). Astronauts like (Edgar Mitchell), (Buzz Aldrin) who in several interviews with various media recognized that they saw UFOs during their voyages through space to the Moon. The last case that went viral in the press around the world, was the scientist Barry DiGregorio who accuses the Space Agency of hiding life on Mars. It is impressive, what many conspiracies communities have defended, it turns out that it is true, now they are joining the world of scientists who would say it!. U.S. National Space Agency are constantly accused of concealing information about extraterrestrial life. However, nothing is said to all the inhabitants of the land, as this would sow panic among the population. According to this supposed hypothesis if we knew that we were not alone, the world as we know it would cease to exist in a kind of world anarchy that is the theory. But the existence of Asteroid, this 100% confirmed that they exist, even preschool children know it so NASA can't fool us, for this reason it was criticized by astronomers, who suspected that the agency dedicated to data forgery not to mention other cosmic mysteries *URL*. One of these critics is (Nathan Myhrvold) that I work for (Microsoft) according to the researcher and his colleagues, NASA is experiencing significant problems with methodology and is having miscalculations of near-Earth asteroids in the database used by thousands of scientists around the world. I'm sorry.",
+    "source": "www.reymisterios.com",
+    "date": "20/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "It is not the first time she is accused, it is more over the last decades, Astronomers, scientists who have worked for the National Aeronautics and Space Administration (NASA) .",
+            "question_answers": [
+                {
+                    "question": "What doesNASA stand for?",
+                    "answer": "National Aeronautics and Space Administration"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Astronomers have worked for the National Aeronautics and Space Administration?",
+                    "score": 0.7264,
+                    "answers": "www.reymisterios.com reported on 20/06/2018 that It is not the first time she is accused , it is more over the last decades , Astronomers , scientists who have worked for the National Aeronautics and Space Administration ( NASA )|ROOT\ton 20/06/2018|prep\tthat|mark\tIt|nsubj\tIt is not the first time she is accused|ccomp\tnot|neg\tthe|det\tis|auxpass\t,|punct\tit|nsubj\tthat It is not the first time she is accused , it is more over the last decades , Astronomers , scientists who have worked for the National Aeronautics and Space Administration ( NASA )|ccomp\tmore over the last decades|attr\tover the last decades|prep\tthe|det\tlast|amod\t,|punct\tAstronomers , scientists who have worked for the National Aeronautics and Space Administration ( NASA )|npadvmod\t,|punct\twho|nsubj\twho have worked for the National Aeronautics and Space Administration ( NASA )|relcl\tthe|det\tNational|nmod\tand|cc\t(|punct\t)|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Astronauts like (Edgar Mitchell), (Buzz Aldrin) who in several interviews with various media recognized that they saw UFOs during voyages through space to the Moon.",
+            "question_answers": [
+                {
+                    "question": "What did Astronauts see during voyages through space?",
+                    "answer": "UFOs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Edgar Mitchell and Buzz Aldrin meet in space?",
+                    "score": 0.8126,
+                    "answers": "www.reymisterios.com reported on 20/06/2018 that Astronauts like ( Edgar Mitchell ) , ( Buzz Aldrin ) who in several interviews with various media recognized that they saw UFOs during voyages through space to the Moon|ROOT\tthat Astronauts like ( Edgar Mitchell ) , ( Buzz Aldrin ) who in several interviews with various media recognized that they saw UFOs during voyages through space to the Moon|ccomp\tin several interviews with various media|prep\tseveral interviews with various media|pobj\twith various media|prep"
+                },
+                {
+                    "question": "What did astronaut Edgar Mitchell say about space to the moon?",
+                    "score": 0.7899,
+                    "answers": "who in several interviews with various media recognized that they saw UFOs during voyages through space to the Moon|relcl"
+                },
+                {
+                    "question": "Who was Edgar Mitchell?",
+                    "score": 0.6925,
+                    "answers": "like ( Edgar Mitchell ) , ( Buzz Aldrin )|prep\tEdgar|compound\t( Edgar Mitchell ) , ( Buzz Aldrin )|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The last case that went viral in the press around the world, was the scientist Barry DiGregorio who accuses the National Aeronautics and Space Administration (NASA) of hiding life on Mars.",
+            "question_answers": [
+                {
+                    "question": "Who was the last scientist to go viral in the press around the world?",
+                    "answer": "Barry DiGregorio"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Barry Di Gregorio accuse the National Aeronautics and Space Administration of hiding?",
+                    "score": 0.7581,
+                    "answers": "www.reymisterios.com|nsubj"
+                },
+                {
+                    "question": "Who was the last scientist to accuse NASA of hiding life on Mars?",
+                    "score": 0.7242,
+                    "answers": "www.reymisterios.com reported on 20/06/2018 that The last case that went viral in the press around the world , was the scientist Barry DiGregorio who accuses the National Aeronautics and Space Administration ( NASA ) of hiding life on Mars|ROOT\ton 20/06/2018|prep"
+                },
+                {
+                    "question": "What was the name of the scientist Barry DiGregorio accused of hiding on Mars?",
+                    "score": 0.696,
+                    "answers": "the scientist Barry DiGregorio who accuses the National Aeronautics and Space Administration ( NASA ) of hiding life on Mars|attr"
+                },
+                {
+                    "question": "What was the last case that went viral in the press?",
+                    "score": 0.6755,
+                    "answers": "The last case that went viral in the press around the world|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "It is impressive, what many conspiracies communities have defended, it turns out that it is true, now communities are joining the world of scientists who would say it!.",
+            "question_answers": [
+                {
+                    "question": "What have many communities defended?",
+                    "answer": "conspiracies"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What communities are joining the world of scientists who would say it?",
+                    "score": 0.8407,
+                    "answers": "communities|nsubj\tcommunities|nsubj"
+                },
+                {
+                    "question": "What are the conspiracies communities have defended?",
+                    "score": 0.8108,
+                    "answers": "www.reymisterios.com reported on 20/06/2018 that It is impressive , what many conspiracies communities have defended , it turns out that it is true , now communities are joining the world of scientists who would say it !|ROOT\ton 20/06/2018|prep\tthat|mark\tIt|nsubj\tIt is impressive|ccomp\twhat|dobj\tmany conspiracies|dobj\twhat many conspiracies communities have defended|advcl\tit|nsubj\tthat|mark\tit|nsubj\ttrue|acomp\tthat It is impressive , what many conspiracies communities have defended , it turns out that it is true , now communities are joining the world of scientists who would say it|ccomp\tof scientists who would say it|prep\tscientists who would say it|pobj\twould|aux\twho would say it|relcl\tit|dobj"
+                },
+                {
+                    "question": "How many scientists have joined the world of science?",
+                    "score": 0.8074,
+                    "answers": "the world of scientists who would say it|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "the National Aeronautics and Space Administration (NASA) are constantly accused of concealing information about extraterrestrial life.",
+            "question_answers": [
+                {
+                    "question": "Who is accused of concealing information about extraterrestrial life?",
+                    "answer": "National Aeronautics and Space Administration"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the National Aeronautics and Space Administration accused of?",
+                    "score": 0.8015,
+                    "answers": "www.reymisterios.com reported on 20/06/2018 that the National Aeronautics and Space Administration ( NASA ) are constantly accused of concealing information about extraterrestrial life|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "However, nothing is said to all the inhabitants of the land, as said would sow panic among the population.",
+            "question_answers": [
+                {
+                    "question": "Why was nothing said to all the inhabitants of the land?",
+                    "answer": "would sow panic among the population"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was said to the people of the land?",
+                    "score": 0.6466,
+                    "answers": "that However , nothing is said to all the inhabitants of the land , as said would sow panic among the population|ccomp"
+                },
+                {
+                    "question": "What is the population of the land?",
+                    "score": 0.6454,
+                    "answers": "all the inhabitants of the land|pobj\tamong the population|prep\tthe population|pobj"
+                },
+                {
+                    "question": "What isreymisterios.com?",
+                    "score": 0.5341,
+                    "answers": "www.reymisterios.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to this supposed hypothesis if we knew that we were not alone, the world as we know it would cease to exist in a kind of world anarchy that is the theory.",
+            "question_answers": [
+                {
+                    "question": "What is the theory that the world would cease to exist if we knew that we were not alone?",
+                    "answer": "world anarchy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is world anarchy?",
+                    "score": 0.7344,
+                    "answers": "world anarchy|pobj"
+                },
+                {
+                    "question": "What is the theory of world anarchy?",
+                    "score": 0.7261,
+                    "answers": "www.reymisterios.com reported on 20/06/2018 that According to this supposed hypothesis if we knew that we were not alone , the world as we know it would cease to exist in a kind of world anarchy that is the theory|ROOT\ton 20/06/2018|prep\tthat|mark\tAccording to this supposed hypothesis|prep\tthis|det\tsupposed|amod\tif|mark\twe|nsubj\tif we knew that we were not alone|advcl\tthat|mark\twe|nsubj\tthat we were not alone|ccomp\tnot|neg\talone|acomp\t,|punct\tthe|det\tthe world as we know it|nsubj\tas|mark\twe|nsubj\tas we know it|advcl\tit|dobj\twould|aux\tthat According to this supposed hypothesis if we knew that we were not alone , the world as we know it would cease to exist in a kind of world anarchy that is the theory|ccomp\tto|aux\tto exist in a kind of world anarchy|xcomp\tin a kind of world anarchy|prep\ta|det\ta kind of world anarchy|pobj\tof world anarchy|prep\tworld|compound\tthat|nsubj\tthat is the theory|advcl\tthe|det\tthe theory|attr"
+                },
+                {
+                    "question": "What is the supposed hypothesis?",
+                    "score": 0.6488,
+                    "answers": "this supposed hypothesis|pobj"
+                },
+                {
+                    "question": "What isreymisterios.com?",
+                    "score": 0.5406,
+                    "answers": "www.reymisterios.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But the existence of Asteroid , this 100% confirmed that Asteroid exist , even preschool children know exist so the National Aeronautics and Space Administration (NASA) can't fool us, for this reason the National Aeronautics and Space Administration (NASA) was criticized by astronomers, who suspected that the National Aeronautics and Space Administration (NASA) dedicated to data forgery not to mention other cosmic mysteries *URL*.",
+            "question_answers": [
+                {
+                    "question": "How did the existence of Asteroid verify the existence of Asteroid?",
+                    "answer": "100% confirmed that Asteroid exist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the National Aeronautics and Space Administration (NASA) dedicated to?",
+                    "score": 0.6698,
+                    "answers": "data forgery not to mention other cosmic mysteries|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "One of these critics is (Nathan Myhrvold) that I work for (Microsoft) according to the researcher and his colleagues, NASA is experiencing significant problems with methodology and is having miscalculations of near-Earth asteroids in the database used by thousands of scientists around the world.",
+            "question_answers": [
+                {
+                    "question": "What is NASA having miscalculations of?",
+                    "answer": "near-Earth asteroids"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many scientists have mapped near-Earth asteroids?",
+                    "score": 0.7938,
+                    "answers": "in the database used by thousands of scientists around the world|prep\tthe database used by thousands of scientists around the world|pobj\tused by thousands of scientists around the world|acl\tby thousands of scientists around the world|agent"
+                },
+                {
+                    "question": "Why is NASA having problems with methodology?",
+                    "score": 0.7701,
+                    "answers": "according to the researcher and his colleagues , NASA is experiencing significant problems with methodology and is having miscalculations of near - Earth asteroids in the database used by thousands of scientists around the world|ROOT"
+                },
+                {
+                    "question": "What is the database used by thousands of scientists around the world to track near-Earth asteroids?",
+                    "score": 0.7427,
+                    "answers": "of near - Earth asteroids|prep"
+                },
+                {
+                    "question": "What is the methodology used to calculate near-Earth asteroids?",
+                    "score": 0.7216,
+                    "answers": "significant problems with methodology|dobj\twith methodology|prep"
+                },
+                {
+                    "question": "What is the relationship between nathan Myhrvold and near-Earth asteroids?",
+                    "score": 0.6813,
+                    "answers": "near - Earth asteroids|pobj"
+                }
+            ]
+        }
+    ]
+}

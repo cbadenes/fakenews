@@ -1,0 +1,776 @@
+{
+    "id": "Politica_338",
+    "claim": "When you put a 'friend' as Minister of Health to please ERC. the figures that the coronavirus, and that only taking into account the officials, place Spain as the worst country in the world in the management of the health crisis. As much as Pedro Sánchez, in his weekly ‘Alo Presidente' appearances in La Moncloa, is bent on misrepresenting reality, the truth is that in all the comparable parameters of Covid-19 cases our country reaches the level of catastrophic. Now an independent study, to which Digital Journalist has had access, that analyzes the degree of preparation of those responsible for Health of our European environment makes a chilling relationship between the professional health value of European ministers with the numbers of deaths by Covid-19 in their respective countries and the result is devastating for the executive of Pedro Sánchez and Pablo Iglesias. We're starting from minor to major. In Hungary, the head of Health is Miklos Kásler, in addition to a long scientific experience is Doctor of Medicine, Surgery and Oncology. His country had recorded only 27 deaths per million inhabitants. Similar figures register Poland. There his Minister of Health, Lukasz Jan Szumowski, is Doctor of Medicine, Cardiology and Electrophysiology. He also has extensive experience in the public and private health sector. Poland has 70 deaths per million inhabitants. A very relevant fact, our neighboring country. Marta Temido, Minister of Health Lusa, is a PhD in International Health, Master in Health Economics Management and Degree in Law. In addition, he has extensive hospital and public management experience. Colindante with us, Portugal records 86 deaths per million inhabitants. The figures are tragically skyrocketing in the case of Spain. Salvador Illa, to whom Sánchez entered the Health portfolio, has no training or health experience. He's a philosopher. The result, shocking: 700 deaths per million inhabitants, the highest figure in the world. Pedro Sánchez named, last January, Illa Health holder with the only professional ‘merit' of being a ‘friendly' political figure for Catalan independence and his investiture partner, ERC. In addition, the number of health professionals infected with coronavirus is 48. 860 until Tuesday 12, according to data from the Ministry of Health notified to the Center for the Coordination of Health Alerts and Emergencies (CCAES) by the Autonomous Communities. So far in May, more than 8. 400 healthcare professionals have tested positive in coronavirus in Spain, since April closed with 39. 987 contagions in this group. In Spain, a total of 228 have been reported so far. 030 confirmed cases (Tuesday 12 data) of COVID-19 (only by PCR test), which means that 21.4% of those infected are health professionals. In particular, 1 in 8 infected men and 1 in 3 infected women belong to this group. I'm sorry.",
+    "source": "www.periodistadigital.com",
+    "date": "12/05/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Marta Temido, Minister of Health Lusa Health to please ERC.",
+            "question_answers": [
+                {
+                    "question": "Who was Marta Temido the Minister of Health?",
+                    "answer": "Lusa Health"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Marta Temido Minister of Health Lusa Health?",
+                    "score": 0.6715,
+                    "answers": "Marta|compound\tMarta Temido , Minister of Health Lusa Health|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Marta Temido and ERC?",
+                    "score": 0.5836,
+                    "answers": "on 12/05/2020|prep\tthat|mark\t,|punct\tto|aux\tthat Marta Temido , Minister of Health Lusa Health to please ERC|ccomp"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.5533,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the figures that the coronavirus, and that only taking into account the officials, Marta Temido, Minister of Health Lusa Spain as the worst country in the world in the management of the health crisis.",
+            "question_answers": [
+                {
+                    "question": "What country is the worst country in the world in the management of the health crisis?",
+                    "answer": "Lusa Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the statistics on the coronavirus in Spain?",
+                    "score": 0.8069,
+                    "answers": "Health|pobj\thealth|compound"
+                },
+                {
+                    "question": "What did Marta Temido say about the coronavirus?",
+                    "score": 0.7976,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that the figures that the coronavirus , and that only taking into account the officials , Marta Temido , Minister of Health Lusa Spain as the worst country in the world in the management of the health crisis|ROOT\tthat the figures that the coronavirus , and that only taking into account the officials , Marta Temido , Minister of Health Lusa Spain as the worst country in the world in the management of the health crisis|advcl"
+                },
+                {
+                    "question": "What is the coronavirus?",
+                    "score": 0.778,
+                    "answers": "that|mark\tthe|det\tthat|mark\tthe|det\t,|punct\tand|cc\tthat|mark\tonly|advmod\tinto account|prep\taccount|pobj\tthe|det\t,|punct\t,|punct\tthe|det\tthe|det\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the rate of the health crisis in Spain?",
+                    "score": 0.6907,
+                    "answers": "only taking into account the officials|advcl\tof the health crisis|prep"
+                },
+                {
+                    "question": "What is the worst country in the world in management of the health crisis?",
+                    "score": 0.6883,
+                    "answers": "Lusa Spain|appos\tthe management of the health crisis|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "As much as Pedro Sánchez , in weekly ‘Alo Presidente' appearances in La Moncloa, is bent on misrepresenting Salvador Illa, to whom Sánchez entered the Health portfolio of Covid-19 cases Spain reaches the level of catastrophic.",
+            "question_answers": [
+                {
+                    "question": "Who is bent on misrepresenting Salvador Illa?",
+                    "answer": "Pedro Sánchez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Sánchez say about Salvador Illa?",
+                    "score": 0.787,
+                    "answers": "Salvador Illa , to whom Sánchez entered the Health portfolio of Covid-19 cases|dobj\tcases|pobj"
+                },
+                {
+                    "question": "What did Sánchez do with the Covid-19 cases?",
+                    "score": 0.7829,
+                    "answers": "misrepresenting Salvador Illa , to whom Sánchez entered the Health portfolio of Covid-19 cases|pcomp"
+                },
+                {
+                    "question": "How many times has Alo Presidente visited La Moncloa?",
+                    "score": 0.7467,
+                    "answers": "in weekly ‘ Alo Presidente ' appearances in La Moncloa|prep"
+                },
+                {
+                    "question": "What is the health portfolio of Covid-19 cases?",
+                    "score": 0.6932,
+                    "answers": "Health|compound"
+                },
+                {
+                    "question": "What are the Covid-19 cases?",
+                    "score": 0.6817,
+                    "answers": "of Covid-19 cases|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Now an independent study, to which Digital Journalist has had access, that analyzes Sánchez of preparation of those responsible for Health of our European environment makes a chilling relationship between the professional health value Sánchez European ministers with the numbers of deaths by Covid-19 in respective countries and the result is devastating Tuesday 12 of Pedro Sánchez and Pablo Iglesias.",
+            "question_answers": [
+                {
+                    "question": "What happened to Pedro Sánchez and Pablo Iglesias?",
+                    "answer": "devastating Tuesday 12 of Pedro Sánchez and Pablo Iglesias"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many deaths did Covid-19 cause?",
+                    "score": 0.6781,
+                    "answers": "deaths by Covid-19 in respective countries|pobj"
+                },
+                {
+                    "question": "How many deaths were caused by Covid-19?",
+                    "score": 0.6492,
+                    "answers": "of deaths by Covid-19 in respective countries|prep"
+                },
+                {
+                    "question": "How many deaths by Covid-19 are there each year?",
+                    "score": 0.628,
+                    "answers": "with the numbers of deaths by Covid-19 in respective countries|prep\tthe numbers of deaths by Covid-19 in respective countries|pobj"
+                },
+                {
+                    "question": "What is the professional health value of Sánchez European ministers?",
+                    "score": 0.5386,
+                    "answers": "professional|amod\tthe professional health value|nmod\tthe professional health value Sánchez European ministers|pobj"
+                },
+                {
+                    "question": "Who is responsible for Health of our European environment?",
+                    "score": 0.535,
+                    "answers": "responsible for Health of our European environment|amod"
+                }
+            ]
+        },
+        {
+            "claim": "In Hungary , the head of Health is Miklos Kásler, in addition to a long scientific experience is Doctor of Medicine, Surgery and Oncology.",
+            "question_answers": [
+                {
+                    "question": "In what country is Miklos Kásler the head of Health?",
+                    "answer": "Hungary"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Mitzlos Kásler's scientific experience?",
+                    "score": 0.7285,
+                    "answers": "a long scientific experience|pobj"
+                },
+                {
+                    "question": "What is the scientific background of the head of Health in Hungary?",
+                    "score": 0.7279,
+                    "answers": "scientific|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Hungary had recorded only 27 deaths per Spain inhabitants.",
+            "question_answers": [
+                {
+                    "question": "How many deaths did Hungary have per Spaniard?",
+                    "answer": "27 deaths"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the death rate in Hungary in 2020?",
+                    "score": 0.8699,
+                    "answers": "had|aux\tthat Hungary had recorded only 27 deaths per Spain inhabitants|ccomp"
+                },
+                {
+                    "question": "How many deaths occurred in Hungary per year in 2020?",
+                    "score": 0.8624,
+                    "answers": "only 27|nummod"
+                },
+                {
+                    "question": "How many deaths per Spain per year were there in 2015?",
+                    "score": 0.8515,
+                    "answers": "only 27 deaths per Spain inhabitants|dobj"
+                },
+                {
+                    "question": "What is periodistadigital?",
+                    "score": 0.6327,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Similar figures register Poland .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 12/05/2020 that Similar figures register Poland?",
+                    "answer": "www.periodistadigital.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Poland and Poland?",
+                    "score": 0.7014,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that Similar figures register Poland|ROOT\ton 12/05/2020|prep\tthat|mark\tSimilar|amod\tSimilar figures|nsubj\tthat Similar figures register Poland|ccomp"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.5927,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "There his Minister of Health, Lukasz Jan Szumowski , is Doctor of Medicine, Cardiology Tuesday 12 .",
+            "question_answers": [
+                {
+                    "question": "Who is the Minister of Health?",
+                    "answer": "Lukasz Jan Szumowski"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What position does Dr. Jan Szumowski hold?",
+                    "score": 0.7084,
+                    "answers": "Doctor of Medicine , Cardiology Tuesday 12|attr"
+                },
+                {
+                    "question": "Who is Dr. Jan Szumowski?",
+                    "score": 0.5751,
+                    "answers": "www.periodistadigital.com|nsubj\twww.periodistadigital.com reported on 12/05/2020 that There his Minister of Health , Lukasz Jan Szumowski , is Doctor of Medicine , Cardiology Tuesday 12|ROOT\ton 12/05/2020|prep\tthat|mark\tThere|advmod\this|poss\this Minister of Health , Lukasz Jan Szumowski|nsubj\tof Health|prep\tHealth|pobj\t,|punct\tLukasz|compound\tJan|compound\t,|punct\tthat There his Minister of Health , Lukasz Jan Szumowski , is Doctor of Medicine , Cardiology Tuesday 12|ccomp\tof Medicine , Cardiology|prep\tMedicine , Cardiology|pobj\t,|punct\tCardiology|appos\t12|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "his Minister of Health, Lukasz Jan Szumowski also has extensive experience in the public and private health sector.",
+            "question_answers": [
+                {
+                    "question": "Who is the Minister of Health?",
+                    "answer": "Lukasz Jan Szumowski"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What experience does Jan Szumowski have in the public and private health sector?",
+                    "score": 0.8771,
+                    "answers": "extensive experience in the public and private health sector|dobj"
+                },
+                {
+                    "question": "What is Jan Szumowski's political experience?",
+                    "score": 0.7561,
+                    "answers": "his|poss\tJan|compound\tin the public and private health sector|prep"
+                },
+                {
+                    "question": "What is the history of Jan Szumowski's health sector?",
+                    "score": 0.7225,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that his Minister of Health , Lukasz Jan Szumowski also has extensive experience in the public and private health sector|ROOT\tthat|mark\tHealth|pobj\t,|punct\talso|advmod\textensive|amod\tthe|det\tpublic and private|amod\tand|cc\tprivate|conj\thealth|compound"
+                },
+                {
+                    "question": "Who is the Minister of Health?",
+                    "score": 0.6986,
+                    "answers": "his Minister of Health , Lukasz Jan Szumowski|nsubj\tof Health|prep\tLukasz|compound"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.5842,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Poland has 70 deaths per million inhabitants.",
+            "question_answers": [
+                {
+                    "question": "What country has 70 deaths per million inhabitants?",
+                    "answer": "Poland"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many deaths per million people are there in Poland every year?",
+                    "score": 0.8564,
+                    "answers": "that Poland has 70 deaths per million inhabitants|ccomp\tper million inhabitants|prep"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.5953,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "A very relevant fact, Poland .",
+            "question_answers": [
+                {
+                    "question": "When did www.periodistadigital.com report that Poland was a very relevant country?",
+                    "answer": "12/05/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the history of Poland?",
+                    "score": 0.6988,
+                    "answers": "very|advmod\tthat A very relevant fact , Poland|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Poland and Poland?",
+                    "score": 0.6831,
+                    "answers": "very relevant|amod"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.5625,
+                    "answers": "www.periodistadigital.com|nsubj\twww.periodistadigital.com reported on 12/05/2020 that A very relevant fact , Poland|ROOT"
+                },
+                {
+                    "question": "What is the name of the periodistadigital.com?",
+                    "score": 0.5538,
+                    "answers": "on 12/05/2020|prep\tthat|mark"
+                },
+                {
+                    "question": "What is the periodistadigital.com?",
+                    "score": 0.5518,
+                    "answers": "A|det\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Marta Temido, Minister of Health Lusa, is a PhD in International Health, Master in Health Economics Management and Degree in Law.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What degrees does Marta Temido hold?",
+                    "score": 0.8775,
+                    "answers": "a PhD in International Health , Master in Health Economics Management and Degree in Law|attr"
+                },
+                {
+                    "question": "Where is Marta Temido from?",
+                    "score": 0.7808,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that Marta Temido , Minister of Health Lusa , is a PhD in International Health , Master in Health Economics Management and Degree in Law|ROOT\tMarta|compound\t,|punct\tHealth|pobj\t,|punct\tthat Marta Temido , Minister of Health Lusa , is a PhD in International Health , Master in Health Economics Management and Degree in Law|ccomp\tInternational Health|pobj\t,|punct\tHealth|compound\tand|cc"
+                },
+                {
+                    "question": "What is Marta Temido's degree in Law?",
+                    "score": 0.734,
+                    "answers": "Master in Health Economics Management and Degree in Law|conj\tin Law|prep\tLaw|pobj"
+                },
+                {
+                    "question": "Who is Marta Temido Minister of Health Lusa?",
+                    "score": 0.6951,
+                    "answers": "Marta Temido , Minister of Health Lusa ,|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of Marta Temido's degree?",
+                    "score": 0.6939,
+                    "answers": "on 12/05/2020|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, he has extensive hospital and public management experience.",
+            "question_answers": [
+                {
+                    "question": "What type of experience did he have?",
+                    "answer": "extensive hospital and public management"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many hospital and public management experience does George W. Bush have?",
+                    "score": 0.8674,
+                    "answers": "public|amod"
+                },
+                {
+                    "question": "What is Dr. George Flinn's public management experience?",
+                    "score": 0.7563,
+                    "answers": "that|mark\tIn addition|prep\taddition|pobj\t,|punct\the|nsubj\tthat In addition , he has extensive hospital and public management experience|ccomp\textensive|amod\thospital and public management|nmod\tand|cc\tpublic management|conj"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.611,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Colindante with us, Portugal records 86 deaths per million inhabitants.",
+            "question_answers": [
+                {
+                    "question": "How many deaths per million inhabitants did Colindante have?",
+                    "answer": "86 deaths per million inhabitants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many deaths per million people are there in Portugal every year?",
+                    "score": 0.7696,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that Colindante with us , Portugal records 86 deaths per million inhabitants|ROOT\tthat|mark\tus|pobj\t,|punct\tthat Colindante with us , Portugal records 86 deaths per million inhabitants|ccomp\t86 deaths per million inhabitants|dobj\tper million inhabitants|prep\tmillion inhabitants|pobj"
+                },
+                {
+                    "question": "What is the relationship between Portugal and Portugal?",
+                    "score": 0.6721,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The figures are tragically skyrocketing in the case of Spain.",
+            "question_answers": [
+                {
+                    "question": "What country's figures are tragically skyrocketing in the case of?",
+                    "answer": "Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the crime rate in Spain in the year 2020?",
+                    "score": 0.7713,
+                    "answers": "tragically|advmod"
+                },
+                {
+                    "question": "What are the statistics of skyrocketing in the case of Spain?",
+                    "score": 0.7124,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that The figures are tragically skyrocketing in the case of Spain|ROOT"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.5758,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Salvador Illa, to whom Sánchez entered the Health portfolio, has no training or health experience.",
+            "question_answers": [
+                {
+                    "question": "What type of experience did Sánchez have on Salvador Illa?",
+                    "answer": "no training or health experience"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Salvador Illa's health experience?",
+                    "score": 0.8115,
+                    "answers": "to whom|prep\tno training or health experience|dobj"
+                },
+                {
+                    "question": "What is the health experience of Salvador Illa?",
+                    "score": 0.7817,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that Salvador Illa , to whom Sánchez entered the Health portfolio , has no training or health experience|ROOT\tthat|mark\tSalvador|compound\t,|punct\twhom|pobj\tthe|det\t,|punct\tthat Salvador Illa , to whom Sánchez entered the Health portfolio , has no training or health experience|ccomp\tno|det\tor|cc\thealth|compound\thealth experience|conj"
+                },
+                {
+                    "question": "What does periodistadigital.com do?",
+                    "score": 0.7648,
+                    "answers": "www.periodistadigital.com|nsubj"
+                },
+                {
+                    "question": "Who is Salvador Illa?",
+                    "score": 0.758,
+                    "answers": "Salvador Illa , to whom Sánchez entered the Health portfolio ,|nsubj"
+                },
+                {
+                    "question": "What is Sánchez's health experience?",
+                    "score": 0.7501,
+                    "answers": "to whom Sánchez entered the Health portfolio|relcl\tthe Health portfolio|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "He's a philosopher.",
+            "question_answers": [
+                {
+                    "question": "When did www.periodistadigital.com report that He's a philosopher?",
+                    "answer": "12/05/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does periodistadigital.com say about Trump?",
+                    "score": 0.8753,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that He 's a philosopher|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of John Kitzhaber's academic background?",
+                    "score": 0.8036,
+                    "answers": "a philosopher|attr"
+                },
+                {
+                    "question": "Who is the author of Periodistadigital.com?",
+                    "score": 0.7517,
+                    "answers": "on 12/05/2020|prep\tthat|mark\tHe|nsubj"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.7111,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The result, shocking: 700 deaths per million inhabitants, the highest figure in the world.",
+            "question_answers": [
+                {
+                    "question": "How many deaths per million inhabitants were there on 12/05/2020?",
+                    "answer": "700"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many deaths per million people are there each year in the United States?",
+                    "score": 0.8579,
+                    "answers": "per million inhabitants|prep"
+                },
+                {
+                    "question": "What is the death rate per million people in the world?",
+                    "score": 0.7918,
+                    "answers": "highest|amod"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.6044,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Pedro Sánchez named, last January, Illa Health holder with the only professional ‘merit' of being a ‘friendly' political figure for Catalan independence and his investiture partner, ERC.",
+            "question_answers": [
+                {
+                    "question": "What was the name of Pedro Sánchez's only professional'merit' of being a 'friendly' political figure for Catalan independence?",
+                    "answer": "Illa Health"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Sánchez say about ERC?",
+                    "score": 0.7537,
+                    "answers": "that Pedro Sánchez named , last January , Illa Health holder with the only professional ‘ merit ' of being a ‘ friendly ' political figure for Catalan independence and his investiture partner , ERC|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Sánchez and ERC?",
+                    "score": 0.6131,
+                    "answers": "www.periodistadigital.com|nsubj\twww.periodistadigital.com reported on 12/05/2020 that Pedro Sánchez named , last January , Illa Health holder with the only professional ‘ merit ' of being a ‘ friendly ' political figure for Catalan independence and his investiture partner , ERC|ROOT\ton 12/05/2020|prep\tthat|mark\tPedro|compound\t,|punct\tlast|amod\t,|punct\tIlla|compound\tIlla Health holder with the only professional ‘ merit ' of being a ‘ friendly ' political figure for Catalan independence and his investiture partner , ERC|dobj\twith the only professional ‘ merit ' of being a ‘ friendly ' political figure for Catalan independence and his investiture partner , ERC|prep\tthe|det\tonly|amod\tprofessional|amod\t‘|punct\tthe only professional ‘ merit ' of being a ‘ friendly ' political figure for Catalan independence and his investiture partner , ERC|pobj\t'|punct\tof being a ‘ friendly ' political figure for Catalan independence and his investiture partner , ERC|prep\tbeing a ‘ friendly ' political figure for Catalan independence and his investiture partner , ERC|pcomp\ta|det\t‘|punct\tfriendly|amod\t'|punct\tpolitical|amod\ta ‘ friendly ' political figure for Catalan independence|attr\tfor Catalan independence|prep\tCatalan independence|pobj\tand|cc\this|poss\tinvestiture|compound\this investiture partner , ERC|conj\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, the number of health professionals infected with coronavirus is 48.",
+            "question_answers": [
+                {
+                    "question": "How many health professionals are infected with coronavirus?",
+                    "answer": "48"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many health professionals are infected with coronavirus?",
+                    "score": 0.8389,
+                    "answers": "the number of health professionals infected with coronavirus|nsubj\tinfected with coronavirus|acl"
+                },
+                {
+                    "question": "What is the number of health professionals infected with coronavirus?",
+                    "score": 0.778,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that In addition , the number of health professionals infected with coronavirus is 48|ROOT\ton 12/05/2020|prep\tthat|mark\taddition|pobj\t,|punct\tthe|det\tof health professionals infected with coronavirus|prep\thealth|compound\thealth professionals infected with coronavirus|pobj\twith coronavirus|prep\tthat In addition , the number of health professionals infected with coronavirus is 48|ccomp"
+                },
+                {
+                    "question": "What is coronavirus?",
+                    "score": 0.7357,
+                    "answers": "coronavirus|pobj"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.5667,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "860 until Tuesday 12, according to data from the Ministry of Health notified to the Center for the Coordination of Health Alerts and Emergencies (CCAES) by the Autonomous Communities.",
+            "question_answers": [
+                {
+                    "question": "Who was the Ministry of Health notified to?",
+                    "answer": "Center for the Coordination of Health Alerts and Emergencies (CCAES)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Ministry of Health say about the Coordination of Health Alerts and Emergencies?",
+                    "score": 0.6478,
+                    "answers": "that 860 until Tuesday 12 , according to data from the Ministry of Health notified to the Center for the Coordination of Health Alerts and Emergencies ( CCAES ) by the Autonomous Communities|dep"
+                },
+                {
+                    "question": "What does CCAES stand for?",
+                    "score": 0.5791,
+                    "answers": "according to data from the Ministry of Health notified to the Center for the Coordination of Health Alerts and Emergencies ( CCAES ) by the Autonomous Communities|prep\tto data from the Ministry of Health notified to the Center for the Coordination of Health Alerts and Emergencies ( CCAES ) by the Autonomous Communities|prep\tthe Center for the Coordination of Health Alerts and Emergencies ( CCAES )|pobj"
+                },
+                {
+                    "question": "What is the relationship between health Alerts and Emergencies?",
+                    "score": 0.5788,
+                    "answers": "Health|pobj\tHealth|compound"
+                },
+                {
+                    "question": "What does the acronymCCAES stand for?",
+                    "score": 0.5729,
+                    "answers": "Emergencies|conj"
+                },
+                {
+                    "question": "What are the functions of the CCAES?",
+                    "score": 0.5114,
+                    "answers": "notified to the Center for the Coordination of Health Alerts and Emergencies ( CCAES ) by the Autonomous Communities|acl"
+                }
+            ]
+        },
+        {
+            "claim": "So far in May, more than 8.",
+            "question_answers": [
+                {
+                    "question": "How many people were in May of 2020?",
+                    "answer": "more than 8"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many murders were reported in May of 2020?",
+                    "score": 0.6881,
+                    "answers": "So far|advmod"
+                },
+                {
+                    "question": "How many people were injured in May?",
+                    "score": 0.6053,
+                    "answers": "that So far in May , more than 8|ccomp"
+                },
+                {
+                    "question": "What is the date of the first month of May?",
+                    "score": 0.5784,
+                    "answers": "in May|prep"
+                },
+                {
+                    "question": "What is the periodistadigital.com?",
+                    "score": 0.4907,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that So far in May , more than 8|ROOT"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.4828,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "400 healthcare professionals have tested positive in coronavirus in Spain, since April closed with 39.",
+            "question_answers": [
+                {
+                    "question": "What virus have 400 healthcare professionals tested positive for in Spain?",
+                    "answer": "coronavirus"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many healthcare professionals tested positive for coronavirus in Spain since April 2016?",
+                    "score": 0.7596,
+                    "answers": "since|mark"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.4974,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "987 contagions in this group.",
+            "question_answers": [
+                {
+                    "question": "How many contagions were there on 12/05/2020?",
+                    "answer": "987"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many contagions are there?",
+                    "score": 0.8602,
+                    "answers": "that 987 contagions in this group|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the 987 contagions?",
+                    "score": 0.8167,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that 987 contagions in this group|ROOT\ton 12/05/2020|prep\tin this group|prep\tthis group|pobj"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.6175,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In Spain, a total of 228 have been reported so far.",
+            "question_answers": [
+                {
+                    "question": "How many incidents have been reported in Spain so far?",
+                    "answer": "228"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many deaths have been reported in Spain in the year 2020?",
+                    "score": 0.8998,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that In Spain , a total of 228 have been reported so far|ROOT\ton 12/05/2020|prep\tIn Spain|prep\tof 228|prep"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.6105,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "030 confirmed cases (Tuesday 12 data) of COVID-19 (only by PCR test), which means that 21.4% of those infected are health professionals.",
+            "question_answers": [
+                {
+                    "question": "What percentage of those infected are health professionals?",
+                    "answer": "21.4%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of people infected by COVID-19 are health professionals?",
+                    "score": 0.8626,
+                    "answers": "health professionals|attr"
+                },
+                {
+                    "question": "How many people were infected by COVID-19?",
+                    "score": 0.8594,
+                    "answers": "21.4 % of those infected|nsubj\tof those infected|prep\tthose infected|pobj\tinfected|acl"
+                },
+                {
+                    "question": "How many confirmed cases of COVID-19 were there by the PCR test?",
+                    "score": 0.8468,
+                    "answers": "Tuesday 12 data|appos"
+                },
+                {
+                    "question": "How many cases of COVID-19 have been confirmed by PCR test?",
+                    "score": 0.8373,
+                    "answers": "www.periodistadigital.com reported on 12/05/2020 that 030 confirmed cases ( Tuesday 12 data ) of COVID-19 ( only by PCR test ) , which means that 21.4 % of those infected are health professionals|ROOT"
+                },
+                {
+                    "question": "What percent of those infected are health professionals?",
+                    "score": 0.8252,
+                    "answers": "which means that 21.4 % of those infected are health professionals|relcl\t21.4|nummod\tthat 21.4 % of those infected are health professionals|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In particular, 1 in 8 infected men and 1 in 3 infected women belong to this group.",
+            "question_answers": [
+                {
+                    "question": "What percentage of infected men belong to this group?",
+                    "answer": "1 in 8 infected men and 1 in 3 infected women"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many infected men and women are there?",
+                    "score": 0.819,
+                    "answers": "on 12/05/2020|prep\tthat|mark\tIn particular|prep\tin|quantmod\t1 in 8|nummod\tinfected|amod\t1 in 8 infected men and 1 in 3 infected women|nsubj\tin|quantmod\t1 in 3|nummod\tinfected|amod\t1 in 3 infected women|conj\tthat In particular , 1 in 8 infected men and 1 in 3 infected women belong to this group|ccomp\tto this group|prep\tthis|det\tthis group|pobj"
+                },
+                {
+                    "question": "What is periodistadigital.com?",
+                    "score": 0.6122,
+                    "answers": "www.periodistadigital.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

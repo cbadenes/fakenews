@@ -1,0 +1,350 @@
+{
+    "id": "88_Science_136",
+    "claim": "Seeking to increase traffic within your social network, Google+ decided to raffle a Ferrari latest model among its users. The mechanics chosen by Google+ was that the vehicle would be raffled among the authors of the first  comments that were made within that post. The car would be delivered personally to the winner, in his home country, on Christmas Day, as a very special gift. So far, only two comments have been made, and the second rose just today. Apparently, no user had learned that there was such a promotion. 'We had already thought of deciding the winner between these two participants, throwing a coin in the air ', told Rosco Pointdexter McFly, Google's systems engineer. 'However, we realized that one was from the mother of the Community Manager, and the other from the son of one of the programmers, so, according to the rules, none of them could participate. In addition, the promise was to deliver the car at last Christmas, and at this point, it is not possible to fulfill that point.\". At the moment, people at Google+ are thinking about how to solve the problem, and from what seems to be the most viable proposal will be to give it to the first person who does not work at Google who answers the post. And as I meet those requirements, fortunately I could remember what my Google+ password was, because apparently I opened an account two or three years ago. The bad news is, I've been looking for the happy post for two hours and I can't find it. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "30/06/2015",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Seeking to increase traffic within your social network, Google+ decided to raffle a Ferrari latest model among users.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the latest model that Google+ decided to raffle?",
+                    "answer": "Ferrari"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of model did Google+ raffle in 2015?",
+                    "score": 0.7896,
+                    "answers": "latest|amod"
+                },
+                {
+                    "question": "What is the name of the website that raffle a Ferrari latest model among users?",
+                    "score": 0.763,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What did Google+ decide to raffle in 2015?",
+                    "score": 0.7598,
+                    "answers": "www.eldizque.com reported on 30/06/2015 that Seeking to increase traffic within your social network , Google+ decided to raffle a Ferrari latest model among users|ROOT"
+                },
+                {
+                    "question": "What is the purpose of raffling a Ferrari?",
+                    "score": 0.7584,
+                    "answers": "Seeking to increase traffic within your social network|advcl"
+                },
+                {
+                    "question": "What did Google+ say about the raffle?",
+                    "score": 0.7456,
+                    "answers": "that Seeking to increase traffic within your social network , Google+ decided to raffle a Ferrari latest model among users|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The mechanics chosen by Google+ was that a Ferrari latest model would be raffled among the authors of the first  comments that were made within that post.",
+            "question_answers": [
+                {
+                    "question": "Who chose the mechanics for the Ferrari raffle?",
+                    "answer": "Google+"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Google+ say about the new model?",
+                    "score": 0.7685,
+                    "answers": "that|mark\tThe|det\tthat|mark\ta|det\tlatest|amod\twould|aux\tbe|auxpass\tthe|det\tof|prep\tthe|det\tthat|nsubjpass\twere|auxpass\tthat|det\tthat post|pobj"
+                },
+                {
+                    "question": "What is the model of the latest model of a Ferrari?",
+                    "score": 0.7208,
+                    "answers": "a Ferrari latest model|nsubjpass"
+                },
+                {
+                    "question": "How many comments did Google add to each post?",
+                    "score": 0.7165,
+                    "answers": "the first   comments that were made within that post|dep"
+                },
+                {
+                    "question": "What is the relationship between Google+ and the Ferrari latest model?",
+                    "score": 0.6736,
+                    "answers": "www.eldizque.com reported on 30/06/2015 that The mechanics chosen by Google+ was that a Ferrari latest model would be raffled among the authors of|ROOT"
+                },
+                {
+                    "question": "What is the name of the website that claims that a new model will be raffled?",
+                    "score": 0.6734,
+                    "answers": "that a Ferrari latest model would be raffled among the authors of|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "a Ferrari latest model would be delivered personally to the winner , in home country, on Christmas Day, as a very special gift.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 30/06/2015?",
+                    "answer": "a Ferrari latest model would be delivered personally to the winner"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the best way to deliver a Ferrari latest model to the winner?",
+                    "score": 0.804,
+                    "answers": "a Ferrari latest model|nsubjpass"
+                },
+                {
+                    "question": "What type of gifts would be made on Christmas Day?",
+                    "score": 0.8004,
+                    "answers": "a very special gift|pobj"
+                },
+                {
+                    "question": "What is the name of the website that claims that a Ferrari will be delivered personally to the winner on Christmas Day?",
+                    "score": 0.7694,
+                    "answers": "on 30/06/2015|prep"
+                },
+                {
+                    "question": "On what day of the week is Christmas Day?",
+                    "score": 0.7317,
+                    "answers": "on Christmas Day|prep"
+                },
+                {
+                    "question": "What is the relationship between the winner and the winner of the race?",
+                    "score": 0.6771,
+                    "answers": "to the winner|prep\tthe winner|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "So far, only two comments have been made, and the second rose just today.",
+            "question_answers": [
+                {
+                    "question": "How many comments have been made so far?",
+                    "answer": "two"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many comments have been made since 2015?",
+                    "score": 0.7822,
+                    "answers": "that|mark\tSo far|advmod\t,|punct\thave|aux\tbeen|auxpass\t,|punct\tand|cc\tthe|det\tthe second|nsubj\tjust|advmod"
+                },
+                {
+                    "question": "What is the second rose that has been made?",
+                    "score": 0.7048,
+                    "answers": "the second rose just today|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Apparently, no user had learned that there was such a promotion.",
+            "question_answers": [
+                {
+                    "question": "How many users were aware of the promotion?",
+                    "answer": "no user"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the first time a user was given a promotion?",
+                    "score": 0.8664,
+                    "answers": "www.eldizque.com reported on 30/06/2015 that Apparently , no user had learned that there was such a promotion|ROOT\tthat Apparently , no user had learned that there was such a promotion|ccomp"
+                },
+                {
+                    "question": "How many users have received a promotion fromldizque.com in 2015?",
+                    "score": 0.8519,
+                    "answers": "no user|nsubj"
+                },
+                {
+                    "question": "How many users were able to receive a promotion on the website in 2015?",
+                    "score": 0.8356,
+                    "answers": "no|det\ta|det"
+                },
+                {
+                    "question": "What was the name of the website that received the promotion?",
+                    "score": 0.7456,
+                    "answers": "such a promotion|attr"
+                }
+            ]
+        },
+        {
+            "claim": "'Google+ had already thought of deciding the winner between these two participants , throwing a coin in the air ', told Rosco Pointdexter McFly, Google+ systems engineer.",
+            "question_answers": [
+                {
+                    "question": "What had Google+ already thought of?",
+                    "answer": "deciding the winner between these two participants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many coins did McFly throw in the air?",
+                    "score": 0.6828,
+                    "answers": "in the air|prep"
+                },
+                {
+                    "question": "Who was the winner of the Google+ competition?",
+                    "score": 0.6486,
+                    "answers": "www.eldizque.com reported on 30/06/2015 that ' Google+ had already thought of deciding the winner between these two participants , throwing a coin in the air|ccomp\tthat ' Google+ had already thought of deciding the winner between these two participants , throwing a coin in the air|ccomp\tof deciding the winner between these two participants , throwing a coin in the air|prep\tdeciding the winner between these two participants , throwing a coin in the air|pcomp\tthe winner between these two participants|dobj"
+                },
+                {
+                    "question": "What did McFly do with the coins in the air?",
+                    "score": 0.6382,
+                    "answers": "throwing a coin in the air|advcl"
+                },
+                {
+                    "question": "What is the relationship between Google+ and Rosco Pointdexter McFly?",
+                    "score": 0.5451,
+                    "answers": "that|mark\t'|punct\thad|aux\t,|punct\ta|det\t'|punct\t,|punct\t,|punct\tsystems|compound"
+                },
+                {
+                    "question": "Who is Rosco Pointdexter McFly?",
+                    "score": 0.5359,
+                    "answers": "www.eldizque.com|nsubj\ton 30/06/2015|prep\talready|advmod\tthe|det\tbetween these two participants|prep\tthese|det\tthese two participants|pobj\ta coin|dobj\tthe|det\twww.eldizque.com reported on 30/06/2015 that ' Google+ had already thought of deciding the winner between these two participants , throwing a coin in the air ' , told Rosco Pointdexter McFly , Google+ systems engineer|ROOT\tRosco|compound\tPointdexter|compound\tRosco Pointdexter McFly , Google+ systems engineer|nsubj\tGoogle+ systems engineer|appos"
+                }
+            ]
+        },
+        {
+            "claim": "'However, Google+ realized that one was from the mother of the Community Manager, and the other from the son of one of the programmers, so, according to the rules, none of these two participants could participate.",
+            "question_answers": [
+                {
+                    "question": "Which two participants were not allowed to participate in Google+?",
+                    "answer": "one was from the mother of the Community Manager, and the other from the son of one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many participants could participate in the Google+ project?",
+                    "score": 0.7195,
+                    "answers": "could|aux"
+                },
+                {
+                    "question": "What are the rules for joining a community manager?",
+                    "score": 0.6691,
+                    "answers": "according to the rules|prep\tto the rules|prep"
+                },
+                {
+                    "question": "How many participants were there from the mother of the Community Manager?",
+                    "score": 0.6691,
+                    "answers": "that ' However , Google+ realized that one was from the mother of the Community Manager , and the other from the son of one of the programmers , so , according to the rules , none of these two participants could participate|ccomp\tnone of these two participants|nsubj"
+                },
+                {
+                    "question": "Who is the son of the programmer?",
+                    "score": 0.6252,
+                    "answers": "the son of one of the programmers|pobj"
+                },
+                {
+                    "question": "What was the name of the person who was involved in developing the Community Manager program?",
+                    "score": 0.623,
+                    "answers": "of one of the programmers|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, the promise was to deliver a Ferrari latest model at last Christmas, and at this point, it is not possible to fulfill the promise .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Ferrari promised to deliver a Ferrari latest model at last Christmas?",
+                    "answer": "30/06/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the website that promises to deliver a Ferrari latest model at last Christmas?",
+                    "score": 0.766,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "At the moment, people at Google+ are thinking about how to solve the problem, and from what seems to be the most viable proposal will be to give a Ferrari latest model to the first person who does not work at Google+ who answers the post.",
+            "question_answers": [
+                {
+                    "question": "What is the most viable proposal?",
+                    "answer": "to give a Ferrari latest model to the first person who does not work at Google+ who answers the post"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the best proposal to give a Ferrari latest model to the first person who does not work at Google+?",
+                    "score": 0.7299,
+                    "answers": "the post|dobj"
+                },
+                {
+                    "question": "What is Google+ doing to solve the problem?",
+                    "score": 0.724,
+                    "answers": "the problem|dobj"
+                },
+                {
+                    "question": "How many people work on Google+?",
+                    "score": 0.7073,
+                    "answers": "on 30/06/2015|prep\tthe moment|pobj\tpeople at Google+|nsubj\tare|aux\tmost|advmod\tthe first person who does not work at Google+ who answers the post|pobj\twho|nsubj\tdoes|aux\twho does not work at Google+|relcl\twho|nsubj"
+                },
+                {
+                    "question": "What is Google+?",
+                    "score": 0.6296,
+                    "answers": "at Google+|prep\tat Google+|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And as I meet those requirements, fortunately I could remember what my Google+ password was, because apparently I opened an account two or three years ago.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that I could remember my Google+ password?",
+                    "answer": "30/06/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the requirements for a Google+ password?",
+                    "score": 0.8067,
+                    "answers": "as I meet those requirements|advcl"
+                },
+                {
+                    "question": "How long did it take to remember what my Google+ password was?",
+                    "score": 0.7937,
+                    "answers": "two or three years|npadvmod"
+                },
+                {
+                    "question": "What is the Google+ password?",
+                    "score": 0.7375,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 30/06/2015 that And as I meet those requirements , fortunately I could remember what my Google+ password was , because apparently I opened an account two or three years ago|ROOT\ton 30/06/2015|prep\tthat|mark\tAnd|cc\tas|mark\tI|nsubj\tthose|det\tthose requirements|dobj\t,|punct\tfortunately|advmod\tI|nsubj\tcould|aux\tthat And as I meet those requirements , fortunately I could remember what my Google+ password was , because apparently I opened an account two or three years ago|ccomp\twhat|attr\tmy|poss\tmy Google+ password|nsubj\twhat my Google+ password was|ccomp\t,|punct\tbecause|mark\tapparently|advmod\tI|nsubj\tbecause apparently I opened an account two or three years ago|advcl\tan|det\tan account|dobj\ttwo or three|nummod\tor|cc\tthree|conj"
+                },
+                {
+                    "question": "What is Google+?",
+                    "score": 0.6698,
+                    "answers": "Google+|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The bad news is, I've been looking for the happy post for two hours and I can't find it.",
+            "question_answers": [
+                {
+                    "question": "What was the bad news for two hours?",
+                    "answer": "happy post"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take to find the happy post?",
+                    "score": 0.8016,
+                    "answers": "www.eldizque.com reported on 30/06/2015 that The bad news is , I 've been looking for the happy post for two hours and I ca n't find it|ROOT\tfor two hours|prep"
+                },
+                {
+                    "question": "How long has it been since I've been looking for a happy post?",
+                    "score": 0.7708,
+                    "answers": "that|mark\tthat The bad news is , I 've been looking for the happy post for two hours and I ca n't find it|ccomp\t,|punct\tI 've been looking for the happy post for two hours and I ca n't find it|ccomp\thappy|amod\tI ca n't find it|conj\tit|dobj"
+                },
+                {
+                    "question": "What is the bad news aboutldizque.com?",
+                    "score": 0.7103,
+                    "answers": "The bad news|nsubj"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.6779,
+                    "answers": "www.eldizque.com|nsubj\tbad|amod\tca|aux"
+                }
+            ]
+        }
+    ]
+}

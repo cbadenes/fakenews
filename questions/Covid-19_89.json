@@ -1,0 +1,625 @@
+{
+    "id": "Covid-19_89",
+    "claim": "Coronavirus Pandemia: The First AnniversaryThis episode was published on March 11, 2021, exactly on the first anniversary since the World Health Organization declared that the infection caused by SARS CoV2 had reached pandemic level. Much is what we did not know on that date; much is what we have learned since; much is what remains to be learned. With regard to the new coronavirus, we have learned many lessons, including knowing that its main mode of transmission is through aerosols that pass from an infected person to a person who is not. We have also learned - with regard to the virus - that it is able to mutate quickly and form more contagious variants. Also that some of these variants are able to partly circumvent the action of neutralizing antibodies produced against them, endangering the effectiveness of vaccines, diagnostic tests and monoclonal antibody treatments. With regard to the disease, we have also learned a great deal. . What we learned from the coronavirusConsidered for some time to be a simple pneumonia - having been baptized even at some point as Wuhan pneumonia - we now know that covid-19 is a complex multisystem disease, capable of compromising virtually any organ in the body. We have also learned that covid-19 may present as multisystem inflammatory syndrome, a serious, but happily rarely lethal complication in children. We also learned that covid-19 is a disease that can leave sequelae in affected people. The sequelae - until now - were thought to occur in people who had had a symptomatic illness and had been hospitalized. The cases of asymptomatic coronavirus and sequelaeAnd we say so far, because -in a sample that the disease continues to give us surprises. A recent pre-publication describes that some people who have had covid-19 asymptomatic covid may also have sequelae of the disease. The study, relatively simple in conception, sought to study the initial symptoms of the disease, and follow up after 60 days to a group of 1. 407 people who had covid-19 who did not need hospitalization, and whose clinical records were available electronically for analysis. What they found was that, at first, approximately 68% of all patients had various symptoms of covid-19, and that 32% were asymptomatic, cases that were discovered by a hyssopate because they were suspicious contacts. SymptomsThe most common symptoms in the first 10 days were, from major to minor:Fever,Cough,Fever, Chest pain,Diarrhea,Anxiety and fatigue. There were also: Palpitations, Chronic Rinitis, Taste disorders, Chills, Insomnia,Excess sweating, Throat pain and headache. Then they followed up on the 1. 407 cases and found that after 60 days of infection, 27%, or 380 people, still had persistent symptoms of the disease. Among them were reported, from major to minor: chest pain, lack of air, Anxiety, belly pain, cough, waist pain, and fatigue. A greater number of women than men were affected, and 72% of the cases studied were between 20 and 50 years old. The sequelae of asymptomatic cases But the most surprising finding, and most worrying I would say, is that 32% of those 380 people who still had symptoms after day 60, were asymptomatic in the first ten days of the disease. This shows, researchers say, that people with asymptomatic covid-19 can also suffer from health problems in the future, and that these people should not be presumed to have an inherently low risk of complications in the future. I'm sorry.",
+    "source": "cnnespanol.cnn.com",
+    "date": "11/03/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Coronavirus Pandemia: The First AnniversaryThis episode was published on March 11, 2021 , exactly on the first anniversary since the World asymptomatic coronavirus declared that the infection caused by SARS CoV2 had reached asymptomatic coronavirus level.",
+            "question_answers": [
+                {
+                    "question": "When was the Coronavirus Pandemia: The First Anniversary published?",
+                    "answer": "March 11, 2021"
+                },
+                {
+                    "question": "When was the Coronavirus Pandemia: The First Anniversary published?",
+                    "answer": "March 11, 2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Coronavirus Pandemia?",
+                    "score": 0.7285,
+                    "answers": "Coronavirus|compound\tCoronavirus Pandemia :|dep\tThe|det\tThe First AnniversaryThis|det\tThe First AnniversaryThis episode|nsubjpass\tthat Coronavirus Pandemia : The First AnniversaryThis episode was published on March 11 , 2021 , exactly on the first anniversary since the World asymptomatic coronavirus declared that the infection caused by SARS CoV2 had reached asymptomatic coronavirus level|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Coronavirus Pandemia?",
+                    "score": 0.7081,
+                    "answers": "the World asymptomatic coronavirus|nsubj"
+                },
+                {
+                    "question": "What is asymptomatic coronavirus?",
+                    "score": 0.6984,
+                    "answers": "asymptomatic coronavirus|appos\tasymptomatic coronavirus level|dobj"
+                },
+                {
+                    "question": "What is the relationship between Coronavirus Pandemia and SARS CoV2?",
+                    "score": 0.6966,
+                    "answers": "cnnespanol.cnn.com reported on 11/03/2021 that Coronavirus Pandemia : The First AnniversaryThis episode was published on March 11 , 2021 , exactly on the first anniversary since the World asymptomatic coronavirus declared that the infection caused by SARS CoV2 had reached asymptomatic coronavirus level|ROOT\ton 11/03/2021|prep\tasymptomatic|amod\tasymptomatic|amod"
+                },
+                {
+                    "question": "What is coronavirus?",
+                    "score": 0.6939,
+                    "answers": "coronavirus|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Much is what we did not know on March 11, 2021 ; much is what we have learned since; much is what covid-19 to be learned.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report that much was what we did not know?",
+                    "answer": "March 11, 2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is covid-19 to be learned?",
+                    "score": 0.7629,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                },
+                {
+                    "question": "What is covid-19?",
+                    "score": 0.756,
+                    "answers": "cnnespanol.cnn.com reported on 11/03/2021 that Much is what we did not know on March 11 , 2021 ; much is what we have learned since ; much is what covid-19 to be learned|ROOT\ton 11/03/2021|prep\tthat|mark\tMuch|nsubj\twhat|dobj\twe|nsubj\tdid|aux\tnot|neg\twhat we did not know on March 11 , 2021|ccomp\ton March 11 , 2021|prep\tMarch 11 , 2021|pobj\t11|nummod\t,|punct\t2021|nummod\t;|punct\tmuch|nsubj\tmuch is what we have learned since|ccomp\twhat|dobj\twe|nsubj\thave|aux\twhat we have learned since|ccomp\tsince|advmod\t;|punct\tmuch|nsubj\tthat Much is what we did not know on March 11 , 2021 ; much is what we have learned since ; much is what covid-19 to be learned|ccomp\twhat|compound\twhat covid-19 to be learned|ccomp\tto|aux\tbe|auxpass\tto be learned|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "With regard to the new coronavirus asymptomatic coronavirus learned many lessons, including knowing that main mode of transmission is through asymptomatic coronavirus that pass from an infected person a group of 1. 407 people who had covid-19 who did not need hospitalization, and whose clinical records were available electronically for analysis .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/03/2021 that asymptomatic coronavirus learned many lessons?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How are coronavirus asymptomatic coronovirus infecting people?",
+                    "score": 0.8593,
+                    "answers": "available electronically for analysis|acomp"
+                },
+                {
+                    "question": "How many people have contracted asymptomatic coronavirus?",
+                    "score": 0.7591,
+                    "answers": "including knowing that main mode of transmission is through asymptomatic coronavirus that pass from an infected person a group of 1 . 407 people who had covid-19 who did not need hospitalization , and whose clinical records were available electronically for analysis|prep\tknowing that main mode of transmission is through asymptomatic coronavirus that pass from an infected person a group of 1 . 407 people who had covid-19 who did not need hospitalization , and whose clinical records were available electronically for analysis|pcomp\tthat main mode of transmission is through asymptomatic coronavirus that pass from an infected person a group of 1 . 407 people who had covid-19 who did not need hospitalization , and whose clinical records were available electronically for analysis|ccomp"
+                },
+                {
+                    "question": "What is the new coronavirus asymptomatic coronovirus?",
+                    "score": 0.7399,
+                    "answers": "With regard to the new coronavirus asymptomatic coronavirus|prep\tthe new coronavirus asymptomatic coronavirus|pobj"
+                },
+                {
+                    "question": "How many people had covid-19?",
+                    "score": 0.7056,
+                    "answers": "who did not need hospitalization , and whose clinical records were available electronically for analysis|conj"
+                },
+                {
+                    "question": "What are the clinical records of coronavirus that pass from infected people?",
+                    "score": 0.705,
+                    "answers": "electronically|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "a group of 1. 407 people who had covid-19 who did not need hospitalization, and whose clinical records were available electronically for analysis .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/03/2021 that a group of 1. 407 people had covid-19 who did not need hospitalization?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people need hospitalization?",
+                    "score": 0.7376,
+                    "answers": "hospitalization|dobj"
+                },
+                {
+                    "question": "How many people have covid-19?",
+                    "score": 0.7373,
+                    "answers": "that|mark\t1|compound\t.|compound\t1 . 407 people who had covid-19 who did not need hospitalization , and whose clinical records were available electronically for analysis|pobj\t,|punct\tand|cc"
+                },
+                {
+                    "question": "How many people had covid-19 who needed hospitalization?",
+                    "score": 0.7289,
+                    "answers": "cnnespanol.cnn.com|nsubj\t1 . 407|nummod\twho|nsubj\twho|nsubj\twhose|poss\tclinical|amod\tfor analysis|prep"
+                },
+                {
+                    "question": "What is covid-19?",
+                    "score": 0.6694,
+                    "answers": "a|det\twho had covid-19|advcl\tcovid-19|dobj\twho had covid-19 who did not need hospitalization , and whose clinical records were available electronically for analysis|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Also that some of these variants are able to partly circumvent the action of neutralizing antibodies covid-19 against some of these variants , endangering the effectiveness of vaccines, diagnostic tests and 32% antibody treatments.",
+            "question_answers": [
+                {
+                    "question": "What variants are able to partly circumvent the action of neutralizing antibodies covid-19?",
+                    "answer": "some of these variants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the effect of neutralizing antibodies covid-19 against vaccines?",
+                    "score": 0.8528,
+                    "answers": "endangering the effectiveness of vaccines , diagnostic tests and 32 % antibody treatments|advcl"
+                },
+                {
+                    "question": "What is the efficacy of vaccines, diagnostic tests, and 32% antibody treatment?",
+                    "score": 0.7844,
+                    "answers": "vaccines , diagnostic tests and 32 % antibody treatments|pobj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6523,
+                    "answers": "cnnespanol.cnn.com reported on 11/03/2021 that Also that some of these variants are able to partly circumvent the action of neutralizing antibodies covid-19 against some of these variants , endangering the effectiveness of vaccines , diagnostic tests and 32 % antibody treatments|ROOT\tto|aux\t,|punct\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "With regard to the disease , we have also learned a great deal.",
+            "question_answers": [
+                {
+                    "question": "What did cnnespanol.cnn.com say we have learned a great deal about?",
+                    "answer": "the disease"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does cnnespanol.cnn.com say about the disease?",
+                    "score": 0.8259,
+                    "answers": "the disease|pobj\thave|aux"
+                },
+                {
+                    "question": "What has been learned about the disease?",
+                    "score": 0.8096,
+                    "answers": "With regard to the disease|prep\tthat With regard to the disease , we have also learned a great deal|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the disease and the flu?",
+                    "score": 0.7494,
+                    "answers": "cnnespanol.cnn.com reported on 11/03/2021 that With regard to the disease , we have also learned a great deal|ROOT\ta great deal|dobj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6742,
+                    "answers": "on 11/03/2021|prep\tthat|mark\tregard to the disease|pobj\tto the disease|prep\tthe|det\t,|punct\twe|nsubj\talso|advmod\ta|det\tgreat|amod"
+                }
+            ]
+        },
+        {
+            "claim": "What we learned from the coronavirusConsidered for some time to be a simple pneumonia - having been baptized even at some point as Wuhan pneumonia - we now know that the disease is a complex multisystem disease, capable of compromising a group of 1. 407 people who had covid-19 who did not need hospitalization, and whose clinical records were available electronically for analysis any organ in the body.",
+            "question_answers": [
+                {
+                    "question": "What was the coronavirus baptized as?",
+                    "answer": "Wuhan pneumonia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did coronavirus say about Wuhan pneumonia?",
+                    "score": 0.782,
+                    "answers": "What we learned from the coronavirusConsidered for some time|csubj\tfrom the coronavirusConsidered for some time|prep\tthat What we learned from the coronavirusConsidered for some time to be a simple pneumonia - having been baptized even at some point as Wuhan pneumonia|punct"
+                },
+                {
+                    "question": "How many people have contracted Wuhan pneumonia?",
+                    "score": 0.7211,
+                    "answers": "1|compound\tdid|aux\tnot|neg\tclinical|amod\tany|det"
+                },
+                {
+                    "question": "How many people who had covid-19 who did not need hospitalization were infected by Wuhan pneumonia?",
+                    "score": 0.7129,
+                    "answers": "that|mark\twe|nsubj\tthe|det\tsome|det\tto|aux\ta|det\t-|punct\thaving|aux\tbeen|auxpass\teven|advmod\tsome|det\t-|punct\twe|nsubj\tnow|advmod\tthat|mark\tthe|det\ta|det\t,|punct\ta|det\t.|compound\twho|nsubj\twho|nsubj\t,|punct\tand|cc\twhose|poss\tthe|det"
+                },
+                {
+                    "question": "How many people need hospitalization for Wuhan pneumonia?",
+                    "score": 0.6836,
+                    "answers": "hospitalization|dobj"
+                },
+                {
+                    "question": "What is Wuhan pneumonia?",
+                    "score": 0.6572,
+                    "answers": "What|dobj\tsome point|pobj\tas Wuhan pneumonia|prep\tWuhan pneumonia|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "We have also learned that the disease may present as multisystem inflammatory asymptomatic coronavirus , a serious, but happily rarely lethal complication in children.",
+            "question_answers": [
+                {
+                    "question": "What is another name for multisystem inflammatory asymptomatic?",
+                    "answer": "coronavirus"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How lethal is the multisystem inflammatory asymptomatic coronavirus?",
+                    "score": 0.8446,
+                    "answers": "serious , but happily rarely lethal|amod"
+                },
+                {
+                    "question": "What are the symptoms of asymptomatic coronavirus?",
+                    "score": 0.7201,
+                    "answers": "inflammatory|amod"
+                },
+                {
+                    "question": "What is asymptomatic coronavirus?",
+                    "score": 0.6993,
+                    "answers": "asymptomatic|amod"
+                },
+                {
+                    "question": "What is the source of evidence of the effects of the disease on children?",
+                    "score": 0.6268,
+                    "answers": "children|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "We also learned that the disease is a disease that can leave sequelae in affected people.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 11/03/2021 that the disease is a disease that can leave sequelae in affected people?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can sequelae affect affected people?",
+                    "score": 0.8269,
+                    "answers": "can|aux"
+                },
+                {
+                    "question": "What disease can leave sequelae in affected people?",
+                    "score": 0.7607,
+                    "answers": "on 11/03/2021|prep"
+                },
+                {
+                    "question": "How many people are affected by the disease?",
+                    "score": 0.6798,
+                    "answers": "in affected people|prep\taffected people|pobj"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com say about sequelae?",
+                    "score": 0.6566,
+                    "answers": "cnnespanol.cnn.com reported on 11/03/2021 that We also learned that the disease is a disease that can leave sequelae in affected people|ROOT\tthat|mark\tWe|nsubj\talso|advmod\tthat|mark\tthe|det\tthe disease|nsubj\tthat|nsubj"
+                },
+                {
+                    "question": "What is sequelae?",
+                    "score": 0.6483,
+                    "answers": "that can leave sequelae in affected people|relcl\tsequelae|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The sequelae - until now - were thought to occur in people who had had a symptomatic illness and had been hospitalized.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/03/2021 that The sequelae were thought to occur in people who had had a symptomatic illness and had been hospitalized?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the symptoms of the sequelae?",
+                    "score": 0.7262,
+                    "answers": "in people who had had a symptomatic illness and had been hospitalized|prep\tpeople who had had a symptomatic illness and had been hospitalized|pobj\ta|det\tsymptomatic|amod\ta symptomatic illness|dobj"
+                },
+                {
+                    "question": "How many people were hospitalized after the sequelae?",
+                    "score": 0.7157,
+                    "answers": "had been hospitalized|conj"
+                },
+                {
+                    "question": "What is the sequelae?",
+                    "score": 0.7002,
+                    "answers": "The sequelae|nsubjpass"
+                },
+                {
+                    "question": "What is the secondae of the sequelae?",
+                    "score": 0.6777,
+                    "answers": "cnnespanol.cnn.com reported on 11/03/2021 that The sequelae - until now - were thought to occur in people who had had a symptomatic illness and had been hospitalized|ROOT\ton 11/03/2021|prep\tthat|mark\tThe|det\t-|punct\tuntil now|prep\tnow|pcomp\t-|punct\twere|auxpass\tto|aux\twho|nsubj\thad|aux\tand|cc\thad|aux\tbeen|auxpass"
+                },
+                {
+                    "question": "How many people have had a symptomatic illness and been hospitalized up until now?",
+                    "score": 0.6713,
+                    "answers": "who had had a symptomatic illness and had been hospitalized|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The cases of asymptomatic coronavirus and sequelaeAnd we say so far, because -in a sample that the disease continues to give us surprises.",
+            "question_answers": [
+                {
+                    "question": "Why did cnnespanol.cnn.com say that the cases of asymptomatic coronavirus and sequelae are so far?",
+                    "answer": "-in a sample that the disease continues to give us surprises"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many cases of asymptomatic coronavirus are there?",
+                    "score": 0.8041,
+                    "answers": "that|mark\tThe|det\tand|cc\twe|nsubj\t,|punct\tbecause|mark\ta|det\tthat|mark\tthe|det\tthat the disease continues to give us surprises|ccomp\tto|aux\tto give us surprises|xcomp\tus|dative\tsurprises|dobj"
+                },
+                {
+                    "question": "What is asymptomatic coronavirus?",
+                    "score": 0.7561,
+                    "answers": "asymptomatic|amod"
+                }
+            ]
+        },
+        {
+            "claim": "A recent pre-publication describes that some people who have had covid-19 asymptomatic covid may also have sequelae of the disease.",
+            "question_answers": [
+                {
+                    "question": "What did a recent pre-publication describe about some people who have had covid-19 asymptomatic covid?",
+                    "answer": "some people who have had covid-19 asymptomatic covid may also have sequelae of the disease"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does covid-19 asymptomatic covid mean?",
+                    "score": 0.845,
+                    "answers": "who have had covid-19 asymptomatic covid|relcl"
+                },
+                {
+                    "question": "How many people have had covid-19 asymptomatic covid?",
+                    "score": 0.8081,
+                    "answers": "that|mark\tA|det\trecent|amod\tA recent pre|nsubj\t-|nsubj\tpublication|nsubj\tthat|mark\tsome|det\tsome people who have had covid-19 asymptomatic covid|nsubj\twho|nsubj\thave|aux\tasymptomatic|amod\tmay|aux\talso|advmod\tthat some people who have had covid-19 asymptomatic covid may also have sequelae of the disease|ccomp\tof the disease|prep\tthe|det\tthe disease|pobj"
+                },
+                {
+                    "question": "What is covid-19 asymptomatic covid?",
+                    "score": 0.7788,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcovid-19 asymptomatic covid|dobj"
+                },
+                {
+                    "question": "What is covid-19 asymptomatic?",
+                    "score": 0.7608,
+                    "answers": "covid-19|nmod"
+                },
+                {
+                    "question": "What is the relationship between covid-19 asymptomatic covid?",
+                    "score": 0.7434,
+                    "answers": "on 11/03/2021|prep\tsequelae of the disease|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The study, relatively simple in conception, sought to study the initial symptoms of the disease, and follow up after 60 days to a group of 1.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the study on 11/03/2021?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How simple is the study of the initial symptoms of the disease?",
+                    "score": 0.6289,
+                    "answers": "relatively simple in conception|amod"
+                }
+            ]
+        },
+        {
+            "claim": "407 people who had covid-19 who did not need hospitalization, and whose clinical records were available electronically for analysis.",
+            "question_answers": [
+                {
+                    "question": "Who reported that 407 people had covid-19 who did not need hospitalization?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people have covid-19?",
+                    "score": 0.7916,
+                    "answers": "cnnespanol.cnn.com reported on 11/03/2021 that 407 people who had covid-19 who did not need hospitalization , and whose clinical records were available electronically for analysis|ROOT\tthat 407 people who had covid-19 who did not need hospitalization , and whose clinical records were available electronically for analysis|dobj\twho|nsubj\twho|nsubj"
+                },
+                {
+                    "question": "How many people had covid-19 who needed hospitalization?",
+                    "score": 0.7689,
+                    "answers": "on 11/03/2021|prep\thospitalization|dobj\tclinical|amod\tfor analysis|prep"
+                },
+                {
+                    "question": "What is covid-19?",
+                    "score": 0.7031,
+                    "answers": "cnnespanol.cnn.com|nsubj\tthat|mark\twho had covid-19|advcl\tcovid-19|dobj\twho had covid-19 who did not need hospitalization , and whose clinical records were available electronically for analysis|relcl\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "What they found was that, at first, approximately 68% of all patients had various symptoms of covid-19, and that 32% were asymptomatic, cases that were discovered by a hyssopate because they were suspicious contacts.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/03/2021 that 68% of all patients had various symptoms of covid-19?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percent of patients had symptoms of covid-19?",
+                    "score": 0.8446,
+                    "answers": "approximately 68 % of all patients|nsubj\t32 %|nsubj"
+                },
+                {
+                    "question": "What are the symptoms of covid-19?",
+                    "score": 0.766,
+                    "answers": "cnnespanol.cnn.com reported on 11/03/2021 that What they found was that , at first , approximately 68 % of all patients had various symptoms of covid-19 , and that 32 % were asymptomatic , cases that were discovered by a hyssopate because they were suspicious contacts|ROOT\ton 11/03/2021|prep\tthat|mark\tWhat|dobj\tthey|nsubj\tthat What they found was that , at first , approximately 68 % of all patients had various symptoms of covid-19 , and that 32 % were asymptomatic , cases that were discovered by a hyssopate because they were suspicious contacts|ccomp\tthat|mark\t,|punct\t,|punct\tapproximately|advmod\tof all patients|prep\tall|det\tall patients|pobj\tthat , at first , approximately 68 % of all patients had various symptoms of covid-19 , and that 32 % were asymptomatic , cases that were discovered by a hyssopate because they were suspicious contacts|advcl\tvarious|amod\tvarious symptoms of covid-19|dobj\tof covid-19|prep\t,|punct\tand|cc\tthat|mark\t32|nummod\tthat 32 % were asymptomatic , cases that were discovered by a hyssopate because they were suspicious contacts|conj\tasymptomatic ,|acomp\t,|punct\tcases that were discovered by a hyssopate because they were suspicious contacts|attr\tthat|nsubjpass\twere|auxpass\tthat were discovered by a hyssopate because they were suspicious contacts|relcl\tby a hyssopate|agent\ta|det\ta hyssopate|pobj\tbecause|mark\tthey|nsubj\tbecause they were suspicious contacts|advcl\tsuspicious|amod\tsuspicious contacts|attr"
+                },
+                {
+                    "question": "What is covid-19?",
+                    "score": 0.6967,
+                    "answers": "covid-19|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "SymptomsThe most common symptoms in the first 10 days were, from major to minor:Fever,Cough,Fever, Chest pain,Diarrhea,Anxiety and fatigue.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report symptoms?",
+                    "answer": "11/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What symptoms are the most common symptoms in the first 10 days of the flu?",
+                    "score": 0.78,
+                    "answers": "Chest pain , Diarrhea , Anxiety and fatigue|attr"
+                }
+            ]
+        },
+        {
+            "claim": "There were also: Palpitations, Chronic Rinitis, Taste disorders, Chills, Insomnia,Excess sweating, Throat pain and headache.",
+            "question_answers": [
+                {
+                    "question": "Who reported that there were Palpitations, Chronic Rinitis, Taste disorders, Chills, Insomnia,Excess sweating,Throat pain and headaches?",
+                    "answer": "cnnespanol.cnn.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the symptoms of Palpitations, Chronic Rinitis and Taste disorders?",
+                    "score": 0.7052,
+                    "answers": "Chronic|amod"
+                }
+            ]
+        },
+        {
+            "claim": "407 cases and found that after 60 days of infection, 27%, or 380 people, still had persistent symptoms of the disease.",
+            "question_answers": [
+                {
+                    "question": "How many people had persistent symptoms of the disease after 60 days of infection?",
+                    "answer": "380"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the symptoms of the disease?",
+                    "score": 0.7599,
+                    "answers": "that|mark\tand|cc\tthat|mark\tinfection|pobj\t,|punct\t27 % , or 380 people ,|nsubj\t,|punct\tor|cc\t,|punct\tpersistent|amod\tpersistent symptoms of the disease|dobj\tof the disease|prep\tthe|det\tthe disease|pobj"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6399,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Among them were reported, from major to minor: chest pain, lack of air, Anxiety, belly pain, cough, waist pain, and fatigue.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report chest pain?",
+                    "answer": "11/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the major symptoms of the flu?",
+                    "score": 0.6299,
+                    "answers": "chest pain , lack of air , Anxiety , belly pain , cough , waist pain , and fatigue|nsubj\tcough , waist pain , and fatigue|conj"
+                },
+                {
+                    "question": "What are the symptoms of major to minor?",
+                    "score": 0.5853,
+                    "answers": "on 11/03/2021|prep"
+                },
+                {
+                    "question": "What is the relationship between anxiety and lack of air?",
+                    "score": 0.5334,
+                    "answers": "Anxiety , belly pain , cough , waist pain , and fatigue|conj"
+                }
+            ]
+        },
+        {
+            "claim": "A greater number of women than men were affected, and 72% of the cases studied were between 20 and 50 years old.",
+            "question_answers": [
+                {
+                    "question": "What percentage of the cases studied were between 20 and 50 years old?",
+                    "answer": "72%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of cases were between 20 and 50 years old?",
+                    "score": 0.866,
+                    "answers": "between 20 and 50|nummod\tbetween 20 and 50 years|npadvmod"
+                },
+                {
+                    "question": "How many men were affected by the study?",
+                    "score": 0.8109,
+                    "answers": "men|pobj"
+                },
+                {
+                    "question": "What is the relationship between men and women?",
+                    "score": 0.6738,
+                    "answers": "A greater number of women than men|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "The sequelae of asymptomatic cases But the most surprising finding, and most worrying I would say, is that 32% of those 380 people who still had symptoms after day 60, were asymptomatic in the first ten days of the disease.",
+            "question_answers": [
+                {
+                    "question": "How many people had symptoms after day 60?",
+                    "answer": "380"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the sequelae of asymptomatic cases?",
+                    "score": 0.6592,
+                    "answers": "that The sequelae of asymptomatic cases|ccomp\tof asymptomatic cases|prep\tasymptomatic cases|pobj"
+                },
+                {
+                    "question": "How many people were asymptomatic in the first ten days of the flu?",
+                    "score": 0.6429,
+                    "answers": "on 11/03/2021|prep\tBut the most surprising finding , and most worrying I would say , is that 32 % of those 380 people who still had symptoms after day 60 , were asymptomatic in the first ten days of the disease|conj\tin the first ten days of the disease|prep\tthe first ten days of the disease|pobj"
+                },
+                {
+                    "question": "What is the secondae of asymptomatic cases?",
+                    "score": 0.6277,
+                    "answers": "that|mark\tThe|det\tBut|cc\tthe|det\t,|punct\tand|cc\twould|aux\t,|punct\tthat|mark\tthose|det\t,|punct\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "This shows, researchers say, that people with asymptomatic covid-19 can also suffer from health problems in the future, and that these people should not be presumed to have an inherently low risk of complications in the future.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report that people with asymptomatic covid-19 can also suffer from health problems in the future?",
+                    "answer": "11/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people suffer from asymptomatic covid-19?",
+                    "score": 0.8134,
+                    "answers": "from health problems|prep\tthese|det\tthese people|nsubjpass"
+                },
+                {
+                    "question": "What does covid-19 mean?",
+                    "score": 0.8084,
+                    "answers": "in the future|prep\tinherently|advmod\tin the future|prep"
+                },
+                {
+                    "question": "How many people with asymptomatic covid-19 suffer from health problems?",
+                    "score": 0.7874,
+                    "answers": "on 11/03/2021|prep"
+                },
+                {
+                    "question": "What does covid-19 say about health problems in the future?",
+                    "score": 0.781,
+                    "answers": "that these people should not be presumed to have an inherently low risk of complications in the future|conj"
+                },
+                {
+                    "question": "What are the risks of asymptomatic covid-19?",
+                    "score": 0.7734,
+                    "answers": "to have an inherently low risk of complications in the future|xcomp\tan inherently low risk of complications|dobj\tof complications|prep"
+                }
+            ]
+        }
+    ]
+}

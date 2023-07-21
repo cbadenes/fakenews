@@ -1,0 +1,211 @@
+{
+    "id": "Covid-19_165",
+    "claim": "Fernando Simon told the press today that the state capital will end up in quarantine in the next few days. The Director of the Emergency Centre has confirmed that due to the increasing number of Covid infected, 87. 967 at present, it seems that containment measures are necessary. Likewise the development of the infection, increasing in hundreds of cases every day, seem to force to “take more drastic measures” to contain “the rebounds”. While it is true that the expert has not yet confirmed that this is going to happen, it has made an important nuance. “If the cases continue to grow it will be necessary to apply s drastic measures” that force the “social distance of security” so, and although it is not yet insured, nothing seems to intuit that the cases will stop suddenly. For the same reason it seems that Madrid will close in the next few days. I'm sorry.",
+    "source": "mnradio.es",
+    "date": "24/08/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Fernando Simon told the press today that the state capital will end up in quarantine in the next few days.",
+            "question_answers": [
+                {
+                    "question": "When did mnradio.es say that the state capital would be in quarantine?",
+                    "answer": "24/08/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the state capital end up in quarantine?",
+                    "score": 0.7935,
+                    "answers": "in the next few days|prep"
+                },
+                {
+                    "question": "How long will the state capital be in quarantine?",
+                    "score": 0.7246,
+                    "answers": "mnradio.es said on 24/08/2020 that Fernando Simon told the press today that the state capital will end up in quarantine in the next few days|ROOT\twill|aux\tthat the state capital will end up in quarantine in the next few days|ccomp\tup|prt\tin quarantine|prep\tquarantine|pobj\tnext|amod"
+                },
+                {
+                    "question": "What news organization reported that the state capital would be in quarantine in the next few days?",
+                    "score": 0.6364,
+                    "answers": "the press|dobj"
+                },
+                {
+                    "question": "What is the state capital of Swaziland?",
+                    "score": 0.593,
+                    "answers": "the|det\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "The Director of the Emergency Centre has confirmed that due to the increasing number of Covid infected, 87.",
+            "question_answers": [
+                {
+                    "question": "How many Covid infected were there on 24/08/2020?",
+                    "answer": "87"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Covid infected every year?",
+                    "score": 0.728,
+                    "answers": "that due to the increasing number of Covid infected , 87|ccomp"
+                },
+                {
+                    "question": "Who is the Director of the Emergency Centre?",
+                    "score": 0.5922,
+                    "answers": "The Director of the Emergency Centre|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "967 at present, it seems that containment measures are necessary.",
+            "question_answers": [
+                {
+                    "question": "What does mnradio.es say are necessary?",
+                    "answer": "containment measures"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures need to be taken to achieve containment measures?",
+                    "score": 0.9107,
+                    "answers": "containment|compound"
+                },
+                {
+                    "question": "What measures are needed to contain 967?",
+                    "score": 0.8786,
+                    "answers": "that 967 at present , it seems that containment measures are necessary|ccomp"
+                },
+                {
+                    "question": "What did mnradio.es say about containment measures?",
+                    "score": 0.8694,
+                    "answers": "mnradio.es said on 24/08/2020 that 967 at present , it seems that containment measures are necessary|ROOT"
+                },
+                {
+                    "question": "What is the relationship between containment measures and terrorism?",
+                    "score": 0.8297,
+                    "answers": "on 24/08/2020|prep\tthat|mark\tat present|prep\tpresent|amod\t,|punct\tit|nsubj\tthat|mark\tnecessary|acomp"
+                },
+                {
+                    "question": "What are the containment measures?",
+                    "score": 0.8254,
+                    "answers": "containment measures|nsubj\tthat containment measures are necessary|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Likewise the development of the infection, increasing in hundreds of cases every day, seem to force to “take more drastic measures” to contain “the rebounds”.",
+            "question_answers": [
+                {
+                    "question": "Who said on 24/08/2020 that the development of the infection, increasing hundreds of cases every day, seem to force to \"take more drastic measures\" to contain the rebounds?",
+                    "answer": "mnradio.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many cases of HIV are there each day?",
+                    "score": 0.6907,
+                    "answers": "on 24/08/2020|prep\tof the infection|prep\tthe infection|pobj\t, increasing in hundreds of cases every day|punct\tincreasing in hundreds of cases every day|prep\tin hundreds of cases|prep\thundreds of cases|pobj\tof cases|prep\tcases|pobj\tevery day|npadvmod\t“|punct\tmore|advmod\tmore drastic|amod\t”|punct\t“|punct\tthe rebounds|dobj\t”|punct"
+                },
+                {
+                    "question": "What measures are taken to contain the rebounds?",
+                    "score": 0.6269,
+                    "answers": "to force to “ take more drastic measures ” to contain “ the rebounds ”|xcomp\tto “ take more drastic measures ” to contain “ the rebounds|xcomp\tmore drastic measures ” to contain “ the rebounds|dobj"
+                },
+                {
+                    "question": "What is mnradio.es?",
+                    "score": 0.4654,
+                    "answers": "that|mark\tLikewise|advmod\tthe|det\tthe|det\tevery|det\t,|punct\tto|aux\tto|aux\tto|aux\tthe|det"
+                },
+                {
+                    "question": "What is the purpose of the mnradio.es?",
+                    "score": 0.4561,
+                    "answers": "to contain “ the rebounds|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "While it is true that the expert has not yet confirmed that this is going to happen, it has made an important nuance.",
+            "question_answers": [
+                {
+                    "question": "Who said on 24/08/2020 that While the expert has not yet confirmed that this is going to happen, it has made an important nuance?",
+                    "answer": "mnradio.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the expert say about it?",
+                    "score": 0.6613,
+                    "answers": "to happen|xcomp"
+                },
+                {
+                    "question": "What is mnradio?",
+                    "score": 0.5339,
+                    "answers": "mnradio.es said on 24/08/2020 that While it is true that the expert has not yet confirmed that this is going to happen , it has made an important nuance|ROOT"
+                },
+                {
+                    "question": "What is the relationship between the expert and the expert?",
+                    "score": 0.5306,
+                    "answers": "While it is true that the expert has not yet confirmed that this is going to happen|advcl\tthe expert|nsubj\tthat the expert has not yet confirmed that this is going to happen|ccomp\tthat While it is true that the expert has not yet confirmed that this is going to happen , it has made an important nuance|ccomp"
+                },
+                {
+                    "question": "What is mnradio.es?",
+                    "score": 0.472,
+                    "answers": "on 24/08/2020|prep\tthat|mark\tWhile|mark\tit|nsubj\ttrue|acomp\tthat|mark\tthe|det\thas|aux\tnot|neg\tyet|advmod\tthat|mark\tthis|nsubj\tis|aux\tthat this is going to happen|ccomp\tto|aux\t,|punct\tit|nsubj\thas|aux\tan|det\timportant|amod\tan important nuance|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "“If the cases continue to grow it will be necessary to apply s drastic measures” that force the “social distance of security” so, and although it is not yet insured, nothing seems to intuit that the cases will stop suddenly.",
+            "question_answers": [
+                {
+                    "question": "What did mnradio.es say would be necessary if the cases continued to grow?",
+                    "answer": "apply"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures will be taken if the cases continue to grow?",
+                    "score": 0.6117,
+                    "answers": "mnradio.es said on 24/08/2020 that “ If the cases continue to grow it will be necessary to apply s drastic measures ” that force the “ social distance of security ” so , and although it is not yet insured , nothing seems to intuit that the cases will stop suddenly|ROOT\ton 24/08/2020|prep\tthat|mark\tIf|mark\tthe|det\tto|aux\tto grow|xcomp\twill|aux\tthat “ If the cases continue to grow it will be necessary to apply s drastic measures ” that force the “ social distance of security ” so|ccomp\tnecessary|acomp\tto|aux\tto apply s drastic measures ” that force the “ social distance of security ” so|xcomp\ts|nmod\tdrastic|amod\ts drastic measures ” that force the “ social distance of security ” so|dobj\tthat|nsubj\tthat force the “ social distance of security ” so|relcl\tthe|det\tso|advmod\t,|punct\tand|cc\talthough|mark\tis|auxpass\tnot|neg\t,|punct\tto|aux\tto intuit that the cases will stop suddenly|xcomp\tthat|mark\tthe|det\twill|aux\tsuddenly|advmod"
+                },
+                {
+                    "question": "What is the social distance of security?",
+                    "score": 0.5706,
+                    "answers": "social|amod\tthe “ social distance of security|dobj\tof security|prep\tsecurity|pobj"
+                },
+                {
+                    "question": "What is mnradio.es?",
+                    "score": 0.4458,
+                    "answers": "although it is not yet insured|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "For the same reason it seems that Madrid will close in the next few days.",
+            "question_answers": [
+                {
+                    "question": "When did mnradio.es say Madrid will close?",
+                    "answer": "24/08/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long will it take for Madrid to close?",
+                    "score": 0.8087,
+                    "answers": "that For the same reason it seems that Madrid will close in the next few days|ccomp"
+                },
+                {
+                    "question": "How many days does it take to close the city of Madrid?",
+                    "score": 0.7982,
+                    "answers": "few|amod"
+                },
+                {
+                    "question": "What is the date of the closure of mnradio.es?",
+                    "score": 0.5296,
+                    "answers": "mnradio.es said on 24/08/2020 that For the same reason it seems that Madrid will close in the next few days|ROOT"
+                }
+            ]
+        }
+    ]
+}

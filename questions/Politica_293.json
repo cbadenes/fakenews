@@ -1,0 +1,190 @@
+{
+    "id": "Politica_293",
+    "claim": "At the beginning of this year all the traditional media in the country, without exception, wanted to give a lesson in journalism to El Expediente and, in passing, a hand to former president Santos denying in unison and without any research effort a note published by this portal. It was a complaint of January 9, 2019 titled ‘the billionaire secret account of Santos in the Vatican bank' in which we revealed based on information provided by the Argentine Deacon Jorge Sonnante that the former president of Colombia JMS would have related to an account in the name of Global Tuition & Education Insurance Corporation, the same company that appeared in the ́Papeles del Paraíso' and in which he was a partner of former minister Gabriel Silva Luján. Although in Colombia the media and even the children of Juan Manuel Santos, Esteban and Martín tried to ridicule and trivialize the information, the Vatican authorities took it seriously and despite the fact that the Holy See proceeded as any power group would proceed, quickly debunking our publication by means of a brief communique denying that the former president had a relationship with the IOR, the Vatican authorities, which do not depend on the clergy, if they began an internal investigation that began to bear its first fruits. The Vatican fiscal police in the lead of the promoter of Justice (fiscal) of the Pontifical State Gian Piero Milano, and his deputy, Alessandro Diddi seized on Tuesday documentation and hard drives in the Secretariat of State of the Holy See ‘after receiving last summer a series of complaints about financial operations'. According to the official short statement, the purpose of the investigation is to analyze financial operations carried out for a long time after complaints received last summer. In fact, the only public denunciation recorded worldwide with regard to the IOR Institute of Religious Works ‘the Last Summer' is the one that appeared in El Expediente in Colombia and in Argentina by the Sonnante Deacon. I'm sorry.",
+    "source": "elexpediente.co",
+    "date": "02/10/2019",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "At the beginning of this year all the traditional media in the country, without exception, wanted to give a lesson in journalism to El Expediente and, in passing, a hand to former president Santos denying in unison and without any research effort a note published by this portal .",
+            "question_answers": [
+                {
+                    "question": "Who did El Expediente give a hand to?",
+                    "answer": "Santos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who did El Expediente want to give a lesson to?",
+                    "score": 0.677,
+                    "answers": "to give a lesson in journalism to El Expediente and , in passing , a hand to former president Santos|xcomp"
+                },
+                {
+                    "question": "What was the relationship between El Expediente and former president Santos?",
+                    "score": 0.5604,
+                    "answers": "in passing , a hand to former president Santos|conj\tto former president Santos|prep\tdenying in unison and without any research effort a note published by this portal|advcl\tin unison and without any research effort a note published by this portal|prep"
+                },
+                {
+                    "question": "What was El Expediente?",
+                    "score": 0.5569,
+                    "answers": "of this year|prep\ta lesson in journalism|dobj"
+                },
+                {
+                    "question": "What is the relationship between journalism and journalism in the country?",
+                    "score": 0.5361,
+                    "answers": "in the country|prep\twithout exception|prep\texception|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of El Expediente?",
+                    "score": 0.5069,
+                    "answers": "any research effort|pobj\tpublished by this portal|acl"
+                }
+            ]
+        },
+        {
+            "claim": "a note published by this portal was a complaint of January 9, 2019 titled ‘the billionaire secret account of former president Santos in the Vatican bank' in which El Expediente revealed based on information provided by the Argentine Deacon Jorge Sonnante that former president Santos would have related to an account in the name of Global Tuition & Education Insurance Corporation, the same company that appeared in the ́Papeles del Paraíso' and in which former president Santos was a partner of former minister Gabriel Silva Luján.",
+            "question_answers": [
+                {
+                    "question": "Who provided information to El Expediente?",
+                    "answer": "Argentine Deacon Jorge Sonnante"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the account of former president Santos in the Vatican bank?",
+                    "score": 0.6683,
+                    "answers": "former president Santos|pobj\ton information provided by the Argentine Deacon Jorge Sonnante|prep\tformer president Santos|nsubj\tformer president Santos|nsubj"
+                },
+                {
+                    "question": "What was the relationship between Gabriel Silva Luján and former president Santos?",
+                    "score": 0.646,
+                    "answers": "in which former president Santos was a partner of former minister Gabriel Silva Luján|conj"
+                },
+                {
+                    "question": "What is the relationship between President Santos and Gabriel Silva Luján?",
+                    "score": 0.6015,
+                    "answers": "former minister|compound"
+                },
+                {
+                    "question": "What is Global Tuition & Education Insurance Corporation?",
+                    "score": 0.5908,
+                    "answers": "that former president Santos would have related to an account in the name of Global Tuition & Education Insurance Corporation , the same company that appeared in the ́Papeles del Paraíso ' and in which former president Santos was a partner of former minister Gabriel Silva Luján|ccomp\tto an account in the name of Global Tuition & Education Insurance Corporation , the same company that appeared in the ́Papeles del Paraíso ' and in which former president Santos was a partner of former minister Gabriel Silva Luján|prep\tan account in the name of Global Tuition & Education Insurance Corporation , the same company that appeared in the ́Papeles del Paraíso ' and in which former president Santos was a partner of former minister Gabriel Silva Luján|pobj\tin the name of Global Tuition & Education Insurance Corporation , the same company that appeared in the ́Papeles del Paraíso ' and in which former president Santos was a partner of former minister Gabriel Silva Luján|prep\tthe name of Global Tuition & Education Insurance Corporation , the same company that appeared in the ́Papeles del Paraíso ' and in which former president Santos was a partner of former minister Gabriel Silva Luján|pobj\tof Global Tuition & Education Insurance Corporation , the same company that appeared in the ́Papeles del Paraíso ' and in which former president Santos was a partner of former minister Gabriel Silva Luján|prep\tGlobal|nmod\tTuition & Education|nmod\tEducation|conj\tInsurance|compound\tGlobal Tuition & Education Insurance Corporation , the same company that appeared in the ́Papeles del Paraíso ' and in which former president Santos was a partner of former minister Gabriel Silva Luján|pobj\tthe same company that appeared in the ́Papeles del Paraíso ' and in which former president Santos was a partner of former minister Gabriel Silva Luján|appos\tin the ́Papeles del Paraíso '|prep\tthe ́Papeles del Paraíso '|pobj"
+                },
+                {
+                    "question": "Who is Gabriel Silva Luján?",
+                    "score": 0.555,
+                    "answers": "a partner of former minister Gabriel Silva Luján|attr\tof former minister Gabriel Silva Luján|prep\tformer minister Gabriel Silva Luján|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Although in Colombia the media and even the children of former president Santos , Esteban and Martín tried to ridicule and trivialize the information , the Vatican authorities took the information seriously and despite the fact that Vatican proceeded as any power group would proceed, quickly debunking publication by means of a brief communique denying that former president Santos had a relationship with the IOR, the Vatican authorities , if the Vatican authorities began an internal investigation that began to bear its first fruits .",
+            "question_answers": [
+                {
+                    "question": "Who took the information seriously?",
+                    "answer": "the Vatican authorities"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the Vatican deny that former president Santos had a relationship with the IOR?",
+                    "score": 0.876,
+                    "answers": "denying that former president Santos had a relationship with the IOR|acl"
+                },
+                {
+                    "question": "What did the Vatican say about former president Santos and the IOR?",
+                    "score": 0.7168,
+                    "answers": "that former president Santos had a relationship with the IOR|ccomp"
+                },
+                {
+                    "question": "Who were the children of former president Santos, Esteban and Martín?",
+                    "score": 0.6923,
+                    "answers": "even the children of former president Santos , Esteban and Martín|conj"
+                },
+                {
+                    "question": "What was the relationship between the Vatican authorities and former president Santos?",
+                    "score": 0.6053,
+                    "answers": "as any power group would proceed|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The Vatican fiscal police in the lead of the promoter of Justice (fiscal) of the Pontifical State Gian Piero Milano , and deputy, Alessandro Diddi seized on Tuesday documentation and hard drives in the Secretariat of State of Vatican ‘after receiving last summer a series of complaints about financial operations'.",
+            "question_answers": [
+                {
+                    "question": "Who is the promoter of Justice?",
+                    "answer": "Gian Piero Milano"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Vatican fiscal police seize on Tuesday documentation from Gian Piero Milano?",
+                    "score": 0.7105,
+                    "answers": "hard drives|conj"
+                },
+                {
+                    "question": "What were the complaints about the Vatican's finances in 2019?",
+                    "score": 0.698,
+                    "answers": "of complaints about financial operations|prep\tcomplaints about financial operations|pobj\tabout financial operations|prep"
+                },
+                {
+                    "question": "What were the finances of the Vatican in 2019?",
+                    "score": 0.6749,
+                    "answers": "financial|amod"
+                },
+                {
+                    "question": "What was the relationship between Gian Piero Milano and the Vatican fiscal police?",
+                    "score": 0.6072,
+                    "answers": "Gian|compound"
+                }
+            ]
+        },
+        {
+            "claim": "According to the official short statement, the purpose of the investigation is to analyze financial operations carried out for a long time after complaints received last summer.",
+            "question_answers": [
+                {
+                    "question": "Who reported the investigation on 02/10/2019?",
+                    "answer": "elexpediente.co"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of investigating financial operations carried out for a long time after complaints received last summer?",
+                    "score": 0.6839,
+                    "answers": "elexpediente.co reported on 02/10/2019 that According to the official short statement , the purpose of the investigation is to analyze financial operations carried out for a long time after complaints received last summer|ROOT\ton 02/10/2019|prep\tthat|mark\tAccording to the official short statement|prep\tto the official short statement|prep\tthe|det\tofficial|amod\tshort|amod\tthe official short statement|pobj\t,|punct\tthe|det\tthe purpose of the investigation|nsubj\tof the investigation|prep\tthe|det\tthe investigation|pobj\tthat According to the official short statement , the purpose of the investigation is to analyze financial operations carried out for a long time after complaints received last summer|ccomp\tto|aux\tto analyze financial operations carried out for a long time after complaints received last summer|xcomp\tfinancial|amod\tfinancial operations carried out for a long time after complaints received last summer|dobj\tcarried out for a long time after complaints received last summer|acl\tout|prt\tfor a long time|prep\ta|det\tlong|amod\ta long time|pobj\tafter complaints received last summer|prep\tcomplaints received last summer|pobj\treceived last summer|acl\tlast|amod"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, the only public denunciation recorded worldwide with regard to the IOR Institute of Religious Works ‘the Last Summer' is the one that appeared in El Expediente in Colombia and in Argentina by the Sonnante Deacon.",
+            "question_answers": [
+                {
+                    "question": "Who was the only public denunciation recorded worldwide regarding the IOR Institute of Religious Works?",
+                    "answer": "Sonnante Deacon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many public denunciations of the IOR Institute of Religious Works are there?",
+                    "score": 0.7586,
+                    "answers": "fact|pobj"
+                },
+                {
+                    "question": "What are the public denunciations of El Expediente in Colombia?",
+                    "score": 0.7187,
+                    "answers": "public|amod"
+                },
+                {
+                    "question": "Where is El Expediente located?",
+                    "score": 0.577,
+                    "answers": "in El Expediente in Colombia and in Argentina|prep"
+                },
+                {
+                    "question": "What is El Expediente?",
+                    "score": 0.5613,
+                    "answers": "El|compound"
+                }
+            ]
+        }
+    ]
+}

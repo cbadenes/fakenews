@@ -1,0 +1,149 @@
+{
+    "id": "97_Education_2",
+    "claim": "The Royal Academy of Language (RAE) has accepted the use of 'HAIGA ', for use in the three persons of the present singular of the subjunctive of the verb do, although it ensures that the most recommended form in the cultured language for this time, remains 'be'. This has been confirmed by sources from the HKSAR, who explain that this change has been proposed and approved by the plenary of the Language Academy, after widespread use throughout the national territory, especially employed by persons without studies or with basic studies of school graduates. This companion who repeats the 'As long as he does work, we cannot complain ', or that grandmother who repeats the 'He who does take out the toys, who picks them up ', will no longer be mocked. Among other novel words accepted by the HKSAR, we also have 'Unscramble ', which means undoing a change, such as 'return purchase'. Seeing what's seen, no one would bet the word'friends'is next on the list. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "06/01/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The Royal Academy of Language (RAE) has accepted the use of 'HAIGA ', for use in the three persons of the present singular of the subjunctive of the verb do, although it ensures that the most recommended form in the cultured language for this time, remains 'be'.",
+            "question_answers": [
+                {
+                    "question": "What is the most recommended form in the cultured language for this time?",
+                    "answer": "'HAIGA"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Royal Academy of Language say about the use ofHAIGA?",
+                    "score": 0.6825,
+                    "answers": "that the most recommended form in the cultured language for this time , remains ' be '|ccomp"
+                },
+                {
+                    "question": "What isHAIGA?",
+                    "score": 0.607,
+                    "answers": "the use of ' HAIGA ' , for use in the three persons of the present singular of the subjunctive of the verb do|dobj\tof ' HAIGA ' ,|prep\tHAIGA|pobj"
+                },
+                {
+                    "question": "What is the most recommended form of the subjunctive of the present singular?",
+                    "score": 0.5859,
+                    "answers": "cultured|amod"
+                }
+            ]
+        },
+        {
+            "claim": "This has been confirmed by sources from the HKSAR, who explain that this change has been proposed and approved by the plenary of the Language Academy, after widespread use throughout the national territory, especially employed by persons without studies or with basic studies of school graduates.",
+            "question_answers": [
+                {
+                    "question": "Why was the language change approved by the plenary of the Language Academy?",
+                    "answer": "widespread use throughout the national territory, especially employed by persons without studies or with basic studies of school graduates"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the HKSAR say about the language academies?",
+                    "score": 0.7222,
+                    "answers": "widespread|amod"
+                },
+                {
+                    "question": "How many students were employed by the HKSAR in the year 2018?",
+                    "score": 0.6624,
+                    "answers": "that This has been confirmed by sources from the HKSAR , who explain that this change has been proposed and approved by the plenary of the Language Academy , after widespread use throughout the national territory , especially employed by persons without studies or with basic studies of school graduates|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the HKSAR program?",
+                    "score": 0.6428,
+                    "answers": "that|mark\thas|aux\tbeen|auxpass\tthe|det\t,|punct\twho|nsubj\tthat|mark\thas|aux\tbeen|auxpass\tand|cc\tthe|det\tthe|det\tLanguage|compound\t,|punct\tthe|det\t,|punct\tespecially|advmod\tor|cc\tschool|compound"
+                },
+                {
+                    "question": "What is the graduation rate of school graduates?",
+                    "score": 0.613,
+                    "answers": "school graduates|pobj"
+                },
+                {
+                    "question": "What is the HKSAR?",
+                    "score": 0.5847,
+                    "answers": "the HKSAR|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This companion who repeats the 'As long as he does work, we cannot complain ', or that grandmother who repeats the 'He who does take out the toys, who picks them up ', will no longer be mocked.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say on 06/01/2018?",
+                    "answer": "'He who does take out the toys, who picks them up"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the grandmother who repeats the 'He who takes out the toys, who picks them up?",
+                    "score": 0.6128,
+                    "answers": "haynoticia.es said on 06/01/2018 that This companion who repeats the ' As long as he does work , we can not complain ' , or that grandmother who repeats the ' He who does take out the toys , who picks them up ' , will no longer be mocked|ROOT\ton 06/01/2018|prep\tthat|mark\tThis|det\twho|nsubj\twho repeats the ' As long as he does work , we can not complain '|relcl\tthe|det\t'|punct\tAs|advmod\tas|mark\the|nsubj\twork|dobj\t,|punct\twe|nsubj\tcan|aux\tnot|neg\t'|punct\t,|punct\tor|cc\tthat|mark\twho|nsubj\tthe|dep\t'|punct\tHe|nsubj\twho|nsubj\tdoes|aux\tout|prt\tthe|det\tthe toys|dobj\t,|punct\twho|nsubj\tthem|dobj\tup|prt\t'|punct\t,|punct\twill|aux\tno|neg\tno longer|advmod\tbe|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "Among other novel words accepted by the HKSAR, we also have 'Unscramble ', which means undoing a change, such as 'return purchase'.",
+            "question_answers": [
+                {
+                    "question": "What is a word that means undoing a change, such as'return purchase'?",
+                    "answer": "'Unscramble"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What novel words are accepted by the HKSAR?",
+                    "score": 0.8153,
+                    "answers": "by the HKSAR|agent"
+                },
+                {
+                    "question": "What is the HKSAR definition of return purchase?",
+                    "score": 0.6959,
+                    "answers": "such as ' return purchase '|prep\treturn purchase|pcomp"
+                },
+                {
+                    "question": "What is the HKSAR?",
+                    "score": 0.6022,
+                    "answers": "the HKSAR|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Seeing what's seen, no one would bet the word'friends'is next on the list.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say on 06/01/2018?",
+                    "answer": "no one would bet the word'friends'is next on the list"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who would bet the word friends next on the list?",
+                    "score": 0.6594,
+                    "answers": "that Seeing what 's seen , no one would bet the word'friends'is next on the list|ccomp"
+                },
+                {
+                    "question": "What is next on the list of friends?",
+                    "score": 0.6321,
+                    "answers": "on 06/01/2018|prep\tSeeing what 's seen|advcl"
+                },
+                {
+                    "question": "What is the list of friends on the list?",
+                    "score": 0.611,
+                    "answers": "the list|pobj"
+                },
+                {
+                    "question": "What is the relationship between friends and the word friends?",
+                    "score": 0.5981,
+                    "answers": "what 's seen|ccomp"
+                },
+                {
+                    "question": "What is on the list?",
+                    "score": 0.5425,
+                    "answers": "on the list|prep"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,501 @@
+{
+    "id": "87_Science_134",
+    "claim": "NetPet is an app to find a couple for pets with a similar performance to that of dating app between peopleFinding a couple for your dog is not a simple thing. It is normal for owners to look for an animal of the same breed, or even with pedigree, if they are of those who go to competitions and devote much of their time to having them impolute and well trained. Eva Perez has a pet, and in detecting the difficulty of this process she had an idea, which she developed as a project last year at the Innovation Startup Vigo entrepreneur camp.'It occurred to me that there might be some kind of Tinder for pets ', recalls this economist of  years. NetPet is currently a project that took shape in that camp, but there is still no elaborate app. 'The idea is that the owners of dogs and cats should configure their profile and begin to see pictures and descriptions of animals within a certain distance that could meet their criteria ', explains Perez. A known system: you see a photo, you read a description of the animal and what the other owner is looking for and you decide. If you like it, scroll the photo to the right of the screen. If the other owner likes your pet too, there would be match. If you don't like what you see, you send the image to the left.'And from there, let them keep talking in the private chat that enables them. If they finally want to cross the animals, they can stay from there ', Perez expands, which slides that the app could have a social function also among people, not only among their dogs and cats. As in dating applications, NetPet would have premium features. 'Initially they would be free to reach a critical mass of users. But then they would be paid and that would be the business model ', says Eva Perez. Among these tools would be a calendar of vaccines or events for the dog, or permanent contact with veterinarians associated with the application. 'There could also be a system for buying food or animal supplements, with discounts in associated stores ', developed by the author, who now seeks funding to boost the technical part of her project. I'm sorry.",
+    "source": "elpais.com",
+    "date": "01/03/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "NetPet is an app to find a couple for pets with a similar performance to that of dating app between peopleFinding a couple for your dog is not a simple thing.",
+            "question_answers": [
+                {
+                    "question": "Who reported that NetPet is an app to find a couple for pets?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How easy is it to find a couple for pets?",
+                    "score": 0.7337,
+                    "answers": "is not a simple thing|ROOT"
+                },
+                {
+                    "question": "What is the performance of NetPet?",
+                    "score": 0.6403,
+                    "answers": "with a similar performance to that of dating app between|prep\ta similar performance to that of dating app between|pobj"
+                },
+                {
+                    "question": "What is NetPet?",
+                    "score": 0.6315,
+                    "answers": "elpais.com reported on 01/03/2017 that NetPet is an app to find a couple for pets with a similar performance to that of dating app between peopleFinding a couple for your dog|ROOT\ton 01/03/2017|prep\tthat|mark\tthat NetPet is an app to find a couple for pets with a similar performance to that of dating app between|ccomp\tan|det\tan app to find a couple for pets with a similar performance to that of dating app between|attr\tto|aux\tto find a couple for pets|relcl\ta|det\ta couple for pets|dobj\tfor pets|prep\tpets|pobj\ta|det\tsimilar|amod\tto that of dating app between|prep\tthat of dating app between|pobj\tof dating app between|prep\tdating|compound\tdating app between|pobj\tbetween|prep\tpeopleFinding a couple for your dog|advcl\ta|det\ta couple|dobj\tfor your dog|prep\tyour|poss\tyour dog|pobj\tnot|neg\ta|det\tsimple|amod\ta simple thing|attr"
+                }
+            ]
+        },
+        {
+            "claim": "It is normal for owners to look for an animal of the same breed, or even with pedigree, if owners are of those who go to competitions and devote much of their time to having them impolute and well trained .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/03/2017 that it is normal for owners to look for an animal of the same breed?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What breed of animals are impolute and well trained?",
+                    "score": 0.8687,
+                    "answers": "to having them impolute and well trained|prep\thaving them impolute and well trained|pcomp"
+                },
+                {
+                    "question": "What breed of dogs do owners look for?",
+                    "score": 0.8614,
+                    "answers": "an animal of the same breed , or even with pedigree|pobj\tof the same breed , or even with pedigree|prep"
+                },
+                {
+                    "question": "What breed of animal do people look for?",
+                    "score": 0.8393,
+                    "answers": "for an animal of the same breed , or even with pedigree|prep"
+                },
+                {
+                    "question": "What is it normal for owners to look for an animal of the same breed?",
+                    "score": 0.8085,
+                    "answers": "for owners to look for an animal of the same breed , or even with pedigree ,|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Eva Perez has a pet, and in detecting the difficulty of peopleFinding Eva Perez had an idea, which Eva Perez developed as a project last year at the Innovation Startup Vigo entrepreneur camp .",
+            "question_answers": [
+                {
+                    "question": "Who reported that Eva Perez has a pet?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Eva Perez develop her idea?",
+                    "score": 0.8208,
+                    "answers": "at the Innovation Startup Vigo entrepreneur camp|prep"
+                },
+                {
+                    "question": "What did Eva Perez do to find Eva Perez?",
+                    "score": 0.801,
+                    "answers": "elpais.com reported on 01/03/2017 that Eva Perez has a pet , and in detecting the difficulty of peopleFinding Eva Perez had an idea , which Eva Perez developed as a project last year at the Innovation Startup Vigo entrepreneur camp|ROOT"
+                },
+                {
+                    "question": "What was Eva Perez's idea on finding Eva Perez?",
+                    "score": 0.7671,
+                    "answers": "and in detecting the difficulty of peopleFinding|conj\tdetecting the difficulty of peopleFinding|pcomp\tthe difficulty of peopleFinding|dobj\ta project|pobj\tInnovation|compound"
+                },
+                {
+                    "question": "What is Eva Perez's pet?",
+                    "score": 0.6809,
+                    "answers": "that Eva Perez has a pet , and in detecting the difficulty of peopleFinding|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Eva Perez and Eva Perez?",
+                    "score": 0.6735,
+                    "answers": "that|mark\tEva|compound\ta|det\ta pet|dobj\t,|punct\tand|cc\tthe|det\tEva|compound\tan|det\t,|punct\twhich|dobj\tEva|compound\ta|det\tlast|amod\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'It occurred to Eva Perez that there might be some kind of Tinder for pets ', recalls Eva Perez .",
+            "question_answers": [
+                {
+                    "question": "What did Eva Perez think there might be?",
+                    "answer": "Tinder for pets"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Eva Perez say about the Tinder for pets?",
+                    "score": 0.7578,
+                    "answers": "on 01/03/2017|prep\tsome kind of Tinder for pets|attr"
+                },
+                {
+                    "question": "What is the use of Tinder for pets?",
+                    "score": 0.7056,
+                    "answers": "of Tinder for pets|prep\tTinder for pets|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Eva Perez's connection to Tinder for pets?",
+                    "score": 0.6993,
+                    "answers": "some|det"
+                },
+                {
+                    "question": "What is the relationship between Eva Perez and Tinder?",
+                    "score": 0.6557,
+                    "answers": "to Eva Perez|prep"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4993,
+                    "answers": "elpais.com reported on 01/03/2017|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "NetPet is currently a project that took shape in the Innovation Startup Vigo entrepreneur camp , but there is still no elaborate app.",
+            "question_answers": [
+                {
+                    "question": "Where did NetPet take shape?",
+                    "answer": "Innovation Startup Vigo entrepreneur camp"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is there an app for NetPet?",
+                    "score": 0.8887,
+                    "answers": "there is still no elaborate app|conj"
+                },
+                {
+                    "question": "What kind of app is NetPet?",
+                    "score": 0.7472,
+                    "answers": "shape|dobj\telaborate|amod"
+                },
+                {
+                    "question": "What did Vigo entrepreneur camp do with NetPet?",
+                    "score": 0.7295,
+                    "answers": "that|mark\ta|det\tthat|nsubj\tthe|det\tInnovation|compound\t,|punct\tbut|cc\tstill|advmod"
+                },
+                {
+                    "question": "What was the purpose of the Innovation Startup Vigo entrepreneur camp?",
+                    "score": 0.6984,
+                    "answers": "that took shape in the Innovation Startup Vigo entrepreneur camp|relcl\tInnovation Startup|compound\tthe Innovation Startup Vigo entrepreneur camp|pobj"
+                },
+                {
+                    "question": "What is NetPet?",
+                    "score": 0.5869,
+                    "answers": "elpais.com reported on 01/03/2017 that NetPet is currently a project that took shape in the Innovation Startup Vigo entrepreneur camp , but there is still no elaborate app|ROOT\ton 01/03/2017|prep\tcurrently|advmod\ta project that took shape in the Innovation Startup Vigo entrepreneur camp|attr\tentrepreneur|compound\tthere|expl\tno|det"
+                }
+            ]
+        },
+        {
+            "claim": "'The idea is that the owners of dogs and cats should configure profile and begin to see pictures and descriptions of animals within a certain distance that could meet criteria ', explains Eva Perez .",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report that the owners of dogs and cats should configure profile and begin to see pictures and descriptions of animals within a certain distance that could meet?",
+                    "answer": "criteria"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What criteria should be met for owning dogs and cats?",
+                    "score": 0.7224,
+                    "answers": "that could meet criteria|relcl"
+                },
+                {
+                    "question": "What did Eva Perez say about profiling dogs and cats?",
+                    "score": 0.6831,
+                    "answers": "cats|conj\tprofile|dobj\tcould|aux"
+                },
+                {
+                    "question": "What is the purpose of profiling dogs and cats within a certain distance?",
+                    "score": 0.5895,
+                    "answers": "to see pictures and descriptions of animals within a certain distance that could meet criteria|xcomp"
+                },
+                {
+                    "question": "What does elpais.com say about pictures and descriptions of animals?",
+                    "score": 0.5504,
+                    "answers": "pictures and descriptions of animals within a certain distance that could meet criteria|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "A known system: you see a photo , you read a description of the animal and what the other owner is looking for and you decide.",
+            "question_answers": [
+                {
+                    "question": "What is a known system?",
+                    "answer": "you see a photo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the system used to track the owner of an animal?",
+                    "score": 0.6213,
+                    "answers": "on 01/03/2017|prep"
+                },
+                {
+                    "question": "What is the process used to determine if a person is looking for an animal?",
+                    "score": 0.6006,
+                    "answers": "you read a description of the animal and the other owner is looking what for and you decide|conj"
+                },
+                {
+                    "question": "What is the name of the system that you use to determine if the owner is looking for the animal?",
+                    "score": 0.5775,
+                    "answers": "a photo|dobj\tyou decide|conj"
+                },
+                {
+                    "question": "What is a known system?",
+                    "score": 0.5628,
+                    "answers": "A|det\tknown|amod\tthat A known system : you see a photo , you read a description of the animal and the other owner is looking what for and you decide|dobj\ta|det\ta|det\tthe other owner is looking what for|conj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4494,
+                    "answers": "elpais.com reported on 01/03/2017 that A known system : you see a photo , you read a description of the animal and the other owner is looking what for and you decide|ROOT\ta description of the animal and the other owner is looking what for|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "If you like the animal , scroll a photo to the right of the screen.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 01/03/2017?",
+                    "answer": "If you like the animal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can you click a photo to the right of the screen?",
+                    "score": 0.655,
+                    "answers": "that If you like the animal , scroll a photo to the right of the screen|ccomp"
+                },
+                {
+                    "question": "What is the name of the animal in the photo?",
+                    "score": 0.5878,
+                    "answers": "the animal|dobj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.476,
+                    "answers": "elpais.com reported on 01/03/2017 that If you like the animal , scroll a photo to the right of the screen|ROOT\ton 01/03/2017|prep\tthat|mark\tIf|mark\tyou|nsubj\tthe|det\t,|punct\ta|det\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "If the other owner likes your pet too, there would be match.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/03/2017 that if the other owner likes your pet too, there would be a match?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the owner and the owner of a pet?",
+                    "score": 0.736,
+                    "answers": "on 01/03/2017|prep\tthat|mark\tIf|mark\tthe|det\tother|amod\tthe other owner|nsubj\tIf the other owner likes your pet too|advcl\tyour|poss\tyour pet|dobj\ttoo|advmod\t,|punct\tthere|expl\twould|aux\tthat If the other owner likes your pet too , there would be match|ccomp\tmatch|attr"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.5869,
+                    "answers": "elpais.com reported on 01/03/2017 that If the other owner likes your pet too , there would be match|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "If you don't like what you see, you send the image to the left.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/03/2017 that if you don't like what you see, you send the image to the left?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the benefits of sending an image to the left?",
+                    "score": 0.5892,
+                    "answers": "the image|dobj"
+                },
+                {
+                    "question": "What do you do if you don't like what you see?",
+                    "score": 0.5588,
+                    "answers": "If you do n't like what you see|advcl"
+                },
+                {
+                    "question": "What does elpais.com do?",
+                    "score": 0.5359,
+                    "answers": "on 01/03/2017|prep\tthat|mark\tyou|nsubj\twhat|dobj\tyou|nsubj\t,|punct\tyou|nsubj\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What does elpais.com do for people who don't like what they see?",
+                    "score": 0.4801,
+                    "answers": "If|mark\tdo|aux"
+                },
+                {
+                    "question": "What is the purpose of the website \"lpais.com\"?",
+                    "score": 0.4511,
+                    "answers": "what you see|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'And from there, let them keep talking in the private chat that enables them.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/03/2017 that 'And from there, let them keep talking in the private chat that enables them to keep talking'?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of a private chat?",
+                    "score": 0.5876,
+                    "answers": "that|mark\t'|punct\tAnd|cc\tfrom there|prep\tthere|pcomp\t,|punct\tthat ' And from there , let them keep talking in the private chat that enables them|ccomp\tthem|nsubj\tthem keep talking in the private chat that enables them|ccomp\ttalking in the private chat that enables them|xcomp\tin the private chat that enables them|prep\tthe|det\tprivate|amod\tthe private chat that enables them|pobj\tthat|nsubj\tthat enables them|relcl\tthem|dobj"
+                },
+                {
+                    "question": "What is the name of the private chat that allows people to keep talking?",
+                    "score": 0.5618,
+                    "answers": "on 01/03/2017|prep"
+                },
+                {
+                    "question": "What does elpais.com do?",
+                    "score": 0.546,
+                    "answers": "elpais.com reported on 01/03/2017 that ' And from there , let them keep talking in the private chat that enables them|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "If they finally want to cross the animals, they can stay from there ', Perez expands, which slides that the app could have a social function also among people, not only among their dogs and cats.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 01/03/2017?",
+                    "answer": "If they finally want to cross the animals, they can stay from there"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the social function of cross country apps?",
+                    "score": 0.6274,
+                    "answers": "If they finally want to cross the animals|advcl\tto cross the animals|xcomp\tIf they finally want to cross the animals , they can stay from there|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "As in dating applications, NetPet would have premium features.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/03/2017 that NetPet would have premium features?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What features would NetPet offer for dating applications?",
+                    "score": 0.8982,
+                    "answers": "premium features|dobj"
+                },
+                {
+                    "question": "What are the features of NetPet dating applications?",
+                    "score": 0.8038,
+                    "answers": "elpais.com reported on 01/03/2017 that As in dating applications , NetPet would have premium features|ROOT\tthat|mark\tAs in dating applications|prep\tin dating applications|prep\tdating|compound\tdating applications|pobj\t,|punct\twould|aux\tthat As in dating applications , NetPet would have premium features|ccomp\tpremium|amod"
+                },
+                {
+                    "question": "What is the relationship between NetPet and dating applications?",
+                    "score": 0.7146,
+                    "answers": "on 01/03/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'Initially they would be free to reach a critical mass of users.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/03/2017 that 'Initially they would be free to reach a critical mass of users'?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many users does elpais.com have?",
+                    "score": 0.8305,
+                    "answers": "elpais.com reported on 01/03/2017 that ' Initially they would be free to reach a critical mass of users|ROOT\ton 01/03/2017|prep\tthat|mark\t'|punct\tInitially|advmod\tthey|nsubj\twould|aux\tthat ' Initially they would be free to reach a critical mass of users|ccomp\tfree to reach a critical mass of users|acomp\tto|aux\tto reach a critical mass of users|xcomp\ta|det\tcritical|amod\ta critical mass of users|dobj\tof users|prep\tusers|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "But then they would be paid and that would be the business model ', says Eva Perez.",
+            "question_answers": [
+                {
+                    "question": "What did Eva Perez say about the business model?",
+                    "answer": "they would be paid and that would be the business model"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the business model of Eva Perez's company?",
+                    "score": 0.5953,
+                    "answers": "that|mark\tBut|cc\tthen|advmod\tthey|nsubjpass\twould|aux\tbe|auxpass\tand|cc\tthat|nsubj\twould|aux\tthe|det\tbusiness|compound\tthe business model|attr\t'|punct\t,|punct"
+                },
+                {
+                    "question": "What is Eva Perez's business model?",
+                    "score": 0.5831,
+                    "answers": "on 01/03/2017|prep\tthat would be the business model|conj\tEva|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Among these tools would be a calendar of vaccines or events for the dog, or permanent contact with veterinarians associated with the application.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the calendar of vaccines or events for the dog?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who are the veterinarians associated with the application of vaccines for dogs?",
+                    "score": 0.7751,
+                    "answers": "veterinarians associated with the application|pobj"
+                },
+                {
+                    "question": "What is the calendar of vaccines or events for dogs?",
+                    "score": 0.6895,
+                    "answers": "of vaccines or events for the dog|prep"
+                },
+                {
+                    "question": "What is the purpose of a calendar of events for a dog?",
+                    "score": 0.6646,
+                    "answers": "for the dog|prep"
+                },
+                {
+                    "question": "What is the schedule of vaccines and events for dogs?",
+                    "score": 0.6646,
+                    "answers": "vaccines or events for the dog|pobj"
+                },
+                {
+                    "question": "What are the functions of the tool?",
+                    "score": 0.5902,
+                    "answers": "Among these tools|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'There could also be a system for buying food or animal supplements, with discounts in associated stores ', developed by the author, who now seeks funding to boost the technical part of her project.",
+            "question_answers": [
+                {
+                    "question": "Where did elpais.com report that there could be a system for buying food or animal supplements?",
+                    "answer": "associated stores"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the program for buying food or animal supplements?",
+                    "score": 0.7239,
+                    "answers": "a system for buying food or animal supplements , with discounts in associated stores|attr"
+                },
+                {
+                    "question": "How much money did the author seek for her project?",
+                    "score": 0.6513,
+                    "answers": "by the author , who now seeks funding to boost the technical part of her project|agent\tthe author , who now seeks funding to boost the technical part of her project|pobj\twho now seeks funding to boost the technical part of her project|relcl\tfunding to boost the technical part of her project|dobj"
+                },
+                {
+                    "question": "What does the author want to do with associated stores?",
+                    "score": 0.6174,
+                    "answers": "that ' There could also be a system for buying food or animal supplements , with discounts in associated stores ' , developed by the author , who now seeks funding to boost the technical part of her project|ccomp"
+                },
+                {
+                    "question": "What did the author do to boost the technical part of her project?",
+                    "score": 0.5959,
+                    "answers": "developed by the author , who now seeks funding to boost the technical part of her project|advcl"
+                },
+                {
+                    "question": "What is the source of evidence of the discounts in associated stores?",
+                    "score": 0.5902,
+                    "answers": "that|mark\t'|punct\tcould|aux\talso|advmod\t,|punct\tdiscounts in associated stores|pobj\tin associated stores|prep\tassociated|amod\tassociated stores|pobj\t'|punct\t,|punct\t,|punct\twho|nsubj"
+                }
+            ]
+        }
+    ]
+}

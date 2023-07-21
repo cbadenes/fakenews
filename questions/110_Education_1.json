@@ -1,0 +1,399 @@
+{
+    "id": "110_Education_1",
+    "claim": "Spain. - The president of the Royal Spanish Academy (RAE), Darío Villanueva, reported in a press conference that from next month the term 'Lady 'will be included as a new word in the dictionary of the Spanish language. Ms. Darío noted that 'Lady 'would serve to define a 'problematic woman 'or a 'woman who causes problems ', and mentioned that this word will be one of the few that are also used in the English language but that in Spanish it has a different meaning: 'The words of the English language used in Spanish are counted but have a different meaning. With globalization people have begun to adopt Anglo-Saxon terms but use them with their real meaning, however in this case the expression Lady will not mean the same as in their original language ( 'lady 'in English) but will be used to define a woman who is problematic or usually cause problems and riots. People will be able to tell Lady to a woman to cause some scandal, be aggressive or cause some kind of trouble. The term should no longer be regarded as an exclusive word of the English language, since after being included in the dictionary of the Spanish language it would also become an official word of Spanish, but with a different meaning ', he confessed. Villanueva presented to the media the official definition that will appear in dictionaries, noting that it will be as follows:-LadyDel Anglosajon Ænglisc, part. de Difficilis 'problema', ferox 'aggressive'. - adj. f. Overly problematic woman. - adj. f. Woman who causes trouble or fuss. - adj. f. Woman who tends to cause conflicts, is aggressiveYou may be interested Cholas discover that Donitas Bimbo can also be eaten and not only serve to make up. - adj. f. A woman who is guided by her animal instincts, who doesn't mind creating conflictsThe president noted that it was one of the Mexican members of the HKSAR who proposed to include the word, and after months of analysis it was finely accepted by the committee:'It is a term that originated in Mexico but will be used in all Spanish-speaking countries. The videos of the Lady's that have circulated served us to create a perfect definition, which will serve to summarize and define a problematic female ', said Finally, Darío revealed that the idea of including the term Lord in the dictionary, which would be the equivalent of Lady's male definition, is already being analyzed. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "10/06/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Spain.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 10/06/2017 that Spain was in a bad state?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the relationship between Spain and Spain?",
+                    "score": 0.6999,
+                    "answers": "on 10/06/2017|prep\tthat|mark\tthat Spain|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "- The president of the Royal Spanish Academy (RAE), Darío Villanueva , reported in a press conference that from next month the term 'Lady ' will be included as a new word in the dictionary of the Spanish language .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "When will the term Lady be added to the dictionary of the Spanish language?",
+                    "score": 0.7861,
+                    "answers": "from next month|prep"
+                },
+                {
+                    "question": "What did the president of the Royal Spanish Academy say about Lady being added as a new word in the dictionary of Spanish?",
+                    "score": 0.7544,
+                    "answers": "www.elruinaversal.com reported on 10/06/2017 that - The president of the Royal Spanish Academy ( RAE ) , Darío Villanueva , reported in a press conference that from next month the term ' Lady ' will be included as a new word in the dictionary of the Spanish language|ROOT"
+                },
+                {
+                    "question": "What will be the new word for Lady?",
+                    "score": 0.6761,
+                    "answers": "Lady|appos"
+                }
+            ]
+        },
+        {
+            "claim": "The president of the Royal Spanish Academy (RAE), Darío Villanueva noted that the term 'Lady ' would serve to define a 'problematic woman 'or a 'woman who causes problems ', and mentioned that the term 'Lady ' will be one of the few that are also used in the English language but that in the Spanish language the term 'Lady ' has a different meaning: 'The words of the English language used in the Spanish language are counted but have a different meaning.",
+            "question_answers": [
+                {
+                    "question": "What does the term 'Lady' serve to define?",
+                    "answer": "a 'problematic woman 'or a 'woman who causes problems"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the term Lady mean?",
+                    "score": 0.7323,
+                    "answers": "a ' woman who causes problems|conj"
+                },
+                {
+                    "question": "Who is the president of the Royal Spanish Academy?",
+                    "score": 0.7231,
+                    "answers": "of the Royal Spanish Academy ( RAE )|prep\tthe Royal Spanish Academy ( RAE )|pobj"
+                },
+                {
+                    "question": "What is the meaning of Lady in Spanish?",
+                    "score": 0.7199,
+                    "answers": "that|mark\tthe|det\tRoyal|compound\t)|punct\tthat|mark\tthe|det\t'|punct\t'|punct\t'|punct\tproblematic|amod\t'|punct\t'|punct\t'|punct\tmentioned that the term ' Lady ' will be one of the few that are also used in the English language but that in the Spanish language the term ' Lady ' has a different meaning|conj\tthat|mark\tthe|det\t'|punct\t'|punct\tthat the term ' Lady ' will be one of the few that are also used in the English language but that in the Spanish language the term ' Lady ' has a different meaning|advcl\tthe|det\tthe few that are also used in the English language|pobj\tthat|nsubjpass\tare|auxpass\tthat are also used in the English language|relcl\tthe|det\tthat|mark\tthe|det\tthe Spanish language|pobj\tthe|det\t'|punct\t'|punct\tthat in the Spanish language the term ' Lady ' has a different meaning|conj\tdifferent|amod\t'|punct\tThe words of the English language used in the Spanish language|nsubjpass\tthe|det\tthe|det\tthe Spanish language|pobj\tare|auxpass\t: ' The words of the English language used in the Spanish language are counted but have a different meaning|conj\tdifferent|amod"
+                }
+            ]
+        },
+        {
+            "claim": "With globalization people have begun to adopt Anglo-Saxon terms but use Anglo-Saxon terms with real meaning, however in this case the expression Lady will not mean the same as in original language ( 'lady 'in the English language ) but will be used to define a woman who is problematic or usually cause problems and riots.",
+            "question_answers": [
+                {
+                    "question": "What is another name for 'lady'?",
+                    "answer": "'lady 'in the English language"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Anglo-Saxon term Lady mean?",
+                    "score": 0.7418,
+                    "answers": "a woman who is problematic or usually cause problems and riots|dobj"
+                },
+                {
+                    "question": "What is the meaning of the Anglo-Saxon term Lady?",
+                    "score": 0.6822,
+                    "answers": "to define a woman who is problematic or usually cause problems and riots|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "People will be able to tell the term 'Lady ' to a woman to cause some scandal, be aggressive or cause some kind of trouble.",
+            "question_answers": [
+                {
+                    "question": "What term will people be able to tell a woman to cause scandal, be aggressive or cause trouble?",
+                    "answer": "'Lady"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to tell the term Lady to a woman?",
+                    "score": 0.8411,
+                    "answers": "that|mark\tPeople|nsubj\twill|aux\tto|aux\tthe|det\t'|punct\t'|punct\tto a woman|prep\ta|det\ta woman|pobj\tto|aux\tsome|det\tsome scandal|dobj\t,|punct\tor|cc\tsome|det"
+                },
+                {
+                    "question": "What is the term Lady?",
+                    "score": 0.7546,
+                    "answers": "the term ' Lady '|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between Lady and Lady?",
+                    "score": 0.6511,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the term 'Lady ' should no longer be regarded as an exclusive word of the English language , since after being included in the dictionary of the Spanish language the term 'Lady ' would also become an official word of the Spanish language , but with a different meaning ', The president of the Royal Spanish Academy (RAE), Darío Villanueva confessed.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why did the president of the Royal Spanish Academy say Lady would be an official word of the Spanish language?",
+                    "score": 0.8998,
+                    "answers": "since|mark"
+                },
+                {
+                    "question": "What is the meaning of the Spanish word Lady?",
+                    "score": 0.712,
+                    "answers": "as an exclusive word of the English language|prep\tan exclusive word of the English language|pobj\tof the Spanish language|prep\tthe Spanish language|pobj\tan official word of the Spanish language ,|attr\tof the Spanish language|prep\tthe Spanish language|pobj"
+                },
+                {
+                    "question": "What is the definition of Lady?",
+                    "score": 0.6876,
+                    "answers": "the dictionary of the Spanish language|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The president of the Royal Spanish Academy (RAE), Darío Villanueva presented to the media the official definition that will appear in dictionaries , noting that the official definition that will appear in dictionaries will be as follows:-LadyDel Anglosajon Ænglisc, part.",
+            "question_answers": [
+                {
+                    "question": "What did Daro Villanueva present to the media?",
+                    "answer": "the official definition that will appear in dictionaries"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the official definition of the Royal Spanish Academy?",
+                    "score": 0.705,
+                    "answers": "Royal|compound\tthe official definition that will appear in dictionaries|dobj\tnoting that the official definition that will appear in dictionaries will be as follows:-LadyDel|advcl\tthe official definition that will appear in dictionaries|nsubj\tthat the official definition that will appear in dictionaries will be as follows:-LadyDel|ccomp\tAnglosajon Ænglisc , part|punct"
+                }
+            ]
+        },
+        {
+            "claim": "de Difficilis 'problema', ferox 'aggressive'.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the ferox that was reported to be 'aggressive'?",
+                    "answer": "de Difficilis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does de Difficilis mean in English?",
+                    "score": 0.8536,
+                    "answers": "that|mark\t'|punct\t'|punct\t,|punct\t'|punct\t'|punct"
+                },
+                {
+                    "question": "What is de Difficilis'aggressive attitude?",
+                    "score": 0.7788,
+                    "answers": "on 10/06/2017|prep"
+                },
+                {
+                    "question": "What is de Difficilis' problema?",
+                    "score": 0.7656,
+                    "answers": "www.elruinaversal.com reported on 10/06/2017 that de Difficilis ' problema ' , ferox ' aggressive '|ROOT\tde Difficilis ' problema|ccomp\tthat de Difficilis ' problema ' , ferox ' aggressive '|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of de Difficilis' aggressive attitude?",
+                    "score": 0.758,
+                    "answers": "www.elruinaversal.com|nsubj"
+                },
+                {
+                    "question": "What is de Difficilis?",
+                    "score": 0.7293,
+                    "answers": "de|compound\tde Difficilis|nsubj\tferox|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "- adj.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/06/2017?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the link between facebook and facebook?",
+                    "score": 0.6965,
+                    "answers": "www.elruinaversal.com reported on 10/06/2017 that - adj|ROOT"
+                },
+                {
+                    "question": "What is the name of the website?",
+                    "score": 0.5882,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "f. Overly problematic woman.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/06/2017 that f. Overly problematic woman?",
+                    "answer": "www.elruinaversal.com"
+                },
+                {
+                    "question": "What type of woman was reported to be on Elruinaversal on 10/06/2017?",
+                    "answer": "Overly problematic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between a woman and herself?",
+                    "score": 0.7373,
+                    "answers": "Overly problematic|amod"
+                },
+                {
+                    "question": "What is the source of evidence of the identity of the woman who committed the act?",
+                    "score": 0.7189,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 10/06/2017 that f. Overly problematic woman|ROOT\ton 10/06/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "- adj.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/06/2017?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the link between facebook and facebook?",
+                    "score": 0.6965,
+                    "answers": "www.elruinaversal.com reported on 10/06/2017 that - adj|ROOT"
+                },
+                {
+                    "question": "What is the name of the website?",
+                    "score": 0.5882,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "f. Woman who causes trouble or fuss.",
+            "question_answers": [
+                {
+                    "question": "What was the name of a woman who caused trouble or fuss?",
+                    "answer": "f. Woman who causes trouble or fuss"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the f. woman who causes trouble or fuss?",
+                    "score": 0.7864,
+                    "answers": "that|mark\tthat f. Woman who causes trouble or fuss|dobj\twho|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "- adj.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/06/2017?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the link between facebook and facebook?",
+                    "score": 0.6965,
+                    "answers": "www.elruinaversal.com reported on 10/06/2017 that - adj|ROOT"
+                },
+                {
+                    "question": "What is the name of the website?",
+                    "score": 0.5882,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "f. Woman who tends to cause conflicts, is aggressiveYou may be interested Cholas discover that Donitas Bimbo can also be eaten and not only serve to make up.",
+            "question_answers": [
+                {
+                    "question": "What is another name for Donitas Bimbo?",
+                    "answer": "Cholas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Donitas Bimbo?",
+                    "score": 0.6869,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 10/06/2017 that f. Woman who tends to cause conflicts , is|ROOT\ton 10/06/2017|prep\tthat|mark\tf.|nmod\tf. Woman who tends to cause conflicts ,|nsubj\twho|nsubj\twho tends to cause conflicts|relcl\tto|aux\tto cause conflicts|xcomp\tconflicts|dobj\t,|punct\tthat f. Woman who tends to cause conflicts , is|ccomp\taggressiveYou|nsubj\tmay|aux\tinterested Cholas discover that Donitas Bimbo can also be eaten and not only serve to make up|acomp\tCholas discover that Donitas Bimbo can also be eaten and not only serve to make up|ccomp\tthat|mark\tDonitas|compound\tcan|aux\talso|advmod\tbe|auxpass\tthat Donitas Bimbo can also be eaten and not only serve to make up|ccomp\tand|cc\tnot only|preconj\tonly|advmod\tnot only serve to make up|conj\tto|aux\tto make up|xcomp\tup|prt"
+                },
+                {
+                    "question": "What is the relationship between Donitas Bimbo and Cholas?",
+                    "score": 0.6278,
+                    "answers": "aggressiveYou may be interested Cholas discover that Donitas Bimbo can also be eaten and not only serve to make up|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "- adj.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/06/2017?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the link between facebook and facebook?",
+                    "score": 0.6965,
+                    "answers": "www.elruinaversal.com reported on 10/06/2017 that - adj|ROOT"
+                },
+                {
+                    "question": "What is the name of the website?",
+                    "score": 0.5882,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "f. A woman who is guided by her animal instincts, who doesn't mind creating conflictsThe president noted that it was one of the Mexican members of the HKSAR who proposed to include the word, and after months of analysis it was finely accepted by the committee:'It is a term that originated in Mexico but will be used in all Spanish-speaking countries.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/06/2017 that f. A woman who is guided by her animal instincts, who mind creating conflicts?",
+                    "answer": "www.elruinaversal.com"
+                },
+                {
+                    "question": "In what countries will the term 'f. a woman who is guided by her animal instincts' be used?",
+                    "answer": "all Spanish-speaking"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the origin of the word f. a woman who is guided by her animal instincts?",
+                    "score": 0.6865,
+                    "answers": "www.elruinaversal.com|nsubj\ton 10/06/2017|prep\tthat|mark\tA|det\tA woman|pobj\twho|nsubjpass\tis|auxpass\ther|poss\t,|punct\twho|nsubj\tdoes|aux\tn't|neg\tcreating|xcomp\tconflictsThe|ROOT\tpresident|nsubj\tthat|mark\tit|nsubj\tof the Mexican members of the HKSAR|prep\tthe|det\tthe Mexican members of the HKSAR|pobj\tthe|det\twho|nsubj\twho proposed to include the word|ccomp\tto|aux\tthe|det\tthe word|dobj\t,|punct\tand|cc\tafter months of analysis|prep\tmonths of analysis|pobj\tanalysis|pobj\tit|nsubjpass\twas|auxpass\tfinely|advmod\tthe|det\tthe committee:'It|pobj\ta|det\tthat|nsubj\tin Mexico|prep\tbut|cc\twill|aux\tbe|auxpass\tin all Spanish - speaking countries|prep\tall|det\t-|punct\tSpanish - speaking|amod"
+                },
+                {
+                    "question": "What is f. a woman?",
+                    "score": 0.613,
+                    "answers": "that f. A woman|punct"
+                },
+                {
+                    "question": "What is the HKSAR?",
+                    "score": 0.5566,
+                    "answers": "president noted that it was one of the Mexican members of the HKSAR who proposed to include the word , and after months of analysis it was finely accepted by the committee:'It|ccomp\tone of the Mexican members of the HKSAR|attr\tof the HKSAR|prep\tthe HKSAR|pobj"
+                },
+                {
+                    "question": "What is HKSAR?",
+                    "score": 0.5426,
+                    "answers": "that originated in Mexico but will be used in all Spanish - speaking countries|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The videos of the Lady's that have circulated served us to create a perfect definition, which will serve to summarize and define a problematic female ', said Finally, Darío revealed that the idea of including the term Lord in the dictionary, which would be the equivalent of Lady's male definition, is already being analyzed.",
+            "question_answers": [
+                {
+                    "question": "What does the definition of the term Lord serve to define?",
+                    "answer": "problematic female"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Lady's male definition in the dictionary?",
+                    "score": 0.6417,
+                    "answers": "of including the term Lord which would be the equivalent of Lady 's male definition in the dictionary , ,|prep\tincluding the term Lord which would be the equivalent of Lady 's male definition in the dictionary , ,|pcomp"
+                },
+                {
+                    "question": "What is the definition of Lady's in the dictionary?",
+                    "score": 0.638,
+                    "answers": "the Lady 's|pobj\tthat The videos of the Lady 's that have circulated served us to create a perfect definition , which will serve to summarize and define a problematic female|ccomp"
+                },
+                {
+                    "question": "What is the meaning of the term Lord in the dictionary?",
+                    "score": 0.6163,
+                    "answers": "Finally , Darío revealed that the idea of including the term Lord which would be the equivalent of Lady 's male definition in the dictionary , , is already being analyzed|dep\tthe idea of including the term Lord which would be the equivalent of Lady 's male definition in the dictionary , ,|nsubjpass\tthe term|compound"
+                }
+            ]
+        }
+    ]
+}

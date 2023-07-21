@@ -1,0 +1,407 @@
+{
+    "id": "117_Politics_538",
+    "claim": "Jose Antonio Meade, Secretary of Finance, reported that the fuel tax decreased from  to  pesos per litre. The increase in the price of gasoline is the result of increases in energy internationally, said the head of the Ministry of Finance and Public Credit (SHCP), Jose Antonio Meade Kuribreña. The official pointed out that in view of this scenario, the federal government sought to level the situation so it reduced the gasoline tax from  to  pesos per litre, a measure that does not affect public finances. In addition, he commented, an effort was made to reduce spending, showing that are the  billion cuts and 1,000 in operating expenses, which includes vouchers and personal services of officials. In a television interview, the SHCP headline argued: 'It is not a decision the government makes. It is the environment that changes us and forces us to act with sensitivity and responsibility ', he said. He also said that the price of gasoline is determined from the cost of oil and energy internationally, as well as from refining margins; this, together with volatility, are the factors that will delimit the price of gasoline in the country in the coming months. Meade Kuribreña reiterated that there will be no going back to the increments, because 'we cannot go out to buy gasolines that today cost more and sell them here cheaper without accommodating the impact of that differentiation somewhere, which has only three alternatives: or more debt, more taxes or a reduction in spending that would necessarily affect spending, which is very sensitive'. He clarified that the increase is not related to energy reform, which allows anyone to refine, store, transport and sell gasoline, nor in the different tax reforms. What most affects the economy, he said, is uncertainty and that is what has dominated after the triumph of Donald Trump as president of the United States, so'we hope to see now with the administration, how we can narrow down the different scenarios and reduce the uncertainty'. Regarding increases in other products, he noted that the impacts of gasoline prices are moderate and will be diluted over time; 'we are not facing a generalized process of increases that will be permanent '. Finally, he considered that the future of the country depends on the government's ability to build and define Mexico's relationship with its main trading partner. 'It is an exercise where all of us who have something to say, entrepreneurs who invest in Mexico and the United States, and who depend on these value chains, will be a very broad dialogue ', he concluded. I'm sorry.",
+    "source": "www.mvsnoticias.com",
+    "date": "21/06/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Jose Antonio Meade, Secretary of Finance, reported that the fuel tax decreased from  to  pesos per litre.",
+            "question_answers": [
+                {
+                    "question": "What did the fuel tax decrease to?",
+                    "answer": "pesos per litre"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jose Antonio Meade say about the fuel tax?",
+                    "score": 0.8143,
+                    "answers": "www.mvsnoticias.com|nsubj\ton 21/06/2023|prep\tthat|mark\tJose|compound\tAntonio|compound\t,|punct\t,|punct\tthat|mark\tthe|det\tfuel|compound\tthe fuel tax|nsubj\tthat the fuel tax decreased from|ccomp\tfrom|prep\t  to|dep\tto|prep\t  pesos per litre|dep\tpesos per litre|dobj\tper litre|prep\tlitre|pobj"
+                },
+                {
+                    "question": "What is the current fuel tax per litre?",
+                    "score": 0.715,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that Jose Antonio Meade , Secretary of Finance , reported that the fuel tax decreased from   to   pesos per litre|ROOT\tthat Jose Antonio Meade , Secretary of Finance , reported that the fuel tax decreased from|ccomp"
+                },
+                {
+                    "question": "What is Jose Antonio Meade's role in the Department of Finance?",
+                    "score": 0.7051,
+                    "answers": "Secretary of Finance|appos\tof Finance|prep"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade?",
+                    "score": 0.6375,
+                    "answers": "Jose Antonio Meade , Secretary of Finance ,|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The increase in the price of gasoline is the result of increases in energy internationally, said the head of the Ministry of Finance and Public Credit (SHCP), Jose Antonio Meade Kuribreña .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is causing the increase in price of gasoline?",
+                    "score": 0.8157,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that The increase in the price of gasoline is the result of increases in energy internationally|ccomp\ton 21/06/2023|prep\tthe price of gasoline|pobj\tof gasoline|prep\tgasoline|pobj\tthat The increase in the price of gasoline is the result of increases in energy internationally|ccomp\tthe result of increases in energy internationally|attr\tof increases in energy internationally|prep\tincreases in energy internationally|pobj\twww.mvsnoticias.com reported on 21/06/2023 that The increase in the price of gasoline is the result of increases in energy internationally , said the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña|ROOT"
+                },
+                {
+                    "question": "What is the price of gasoline?",
+                    "score": 0.8115,
+                    "answers": "in the price of gasoline|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the increase in energy internationally?",
+                    "score": 0.7095,
+                    "answers": "internationally|advmod"
+                },
+                {
+                    "question": "What does SHCP stand for?",
+                    "score": 0.6916,
+                    "answers": "of Finance and Public Credit|prep\tFinance and Public Credit|pobj\tPublic|compound\tPublic Credit|conj"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade Kuribreña?",
+                    "score": 0.6587,
+                    "answers": "the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña|nsubj\tof the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña|prep\tthe Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña|pobj\tJose|compound\tAntonio|compound\tMeade|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the head of the Ministry of Finance and Public Credit (SHCP), Jose Antonio Meade Kuribreña pointed out that in view of this scenario, the federal government sought to level the situation so the federal government reduced the fuel tax from  to  pesos per litre, a measure that does not affect public finances.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why did the federal government want to level the fuel tax?",
+                    "score": 0.8499,
+                    "answers": "that the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña pointed out that in view of this scenario , the federal government sought to level the situation so the federal government reduced the fuel tax from|ccomp"
+                },
+                {
+                    "question": "Did the federal government lower the fuel tax to  pesos per litre?",
+                    "score": 0.8111,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "What did Jose Antonio Meade Kuribreña do to reduce the federal government's fuel tax?",
+                    "score": 0.7929,
+                    "answers": "that|mark\tthe|det\tthe|det\tand|cc\t(|punct\t)|punct\t,|punct\tout|prt\tthat|mark\tthis|det\tthis scenario|pobj\t,|punct\tthe|det\tto|aux\tthe|det\tthe situation|dobj\tthe|det\tthe|det\tfrom|prep\tto|prep\t,|punct\ta|det\tthat|nsubj\tdoes|aux\tpublic|amod\tpublic finances|dobj"
+                },
+                {
+                    "question": "What is the federal government doing to lower the fuel tax?",
+                    "score": 0.7206,
+                    "answers": "fuel|compound\tper litre|prep\tlitre|pobj"
+                },
+                {
+                    "question": "What is the purpose of the federal government reducing the fuel tax?",
+                    "score": 0.6856,
+                    "answers": "a measure that does not affect public finances|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, the head of the Ministry of Finance and Public Credit (SHCP), Jose Antonio Meade Kuribreña commented, an effort was made to reduce spending, showing that are the  billion cuts and 1,000 in operating expenses, which includes vouchers and personal services of officials.",
+            "question_answers": [
+                {
+                    "question": "How many operating expenses did the head of the Ministry of Finance and Public Credit say were being cut?",
+                    "answer": "1,000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jose Antonio Meade Kuribreña do to reduce spending?",
+                    "score": 0.7102,
+                    "answers": "on 21/06/2023|prep\tthat|mark\taddition|pobj\t,|punct\tthe|det\tthe|det\tand|cc\t(|punct\t)|punct\t,|punct\tthat In addition , the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña commented , an effort to reduce spending was made , showing that are|parataxis\t,|punct\tan|det\twas|auxpass\tto|aux\tto reduce spending|acl\tspending|dobj\t,|punct\tthat|mark\tthe|det\tand|cc\t,|punct\tvouchers and personal services of officials|dobj\tand|cc"
+                },
+                {
+                    "question": "What was Jose Antonio Meade Kuribreña's stance on government spending?",
+                    "score": 0.6559,
+                    "answers": "personal|amod"
+                },
+                {
+                    "question": "What is the budget of the Ministry of Finance and Public Credit (SHCP)?",
+                    "score": 0.6122,
+                    "answers": "of the Ministry of Finance and Public Credit ( SHCP )|prep"
+                },
+                {
+                    "question": "How many operating expenses were cut by the government in 2018?",
+                    "score": 0.6028,
+                    "answers": "billion cuts and 1,000 in operating expenses , which includes vouchers and personal services of officials|dobj"
+                },
+                {
+                    "question": "What is the spending of officials in the government?",
+                    "score": 0.5875,
+                    "answers": "of officials|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In a television interview, the head of the Ministry of Finance and Public Credit (SHCP), Jose Antonio Meade Kuribreña argued: 'It is not a decision the federal government makes.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Jose Antonio Meade Kuribreña say about the federal government making decisions?",
+                    "score": 0.7524,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that In a television interview , the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña argued : ' It is not a decision the federal government makes|ROOT\tthat|mark\ta|det\ttelevision|compound\ta television interview|pobj\t,|punct\tthe|det\tthe|det\tand|cc\t(|punct\t)|punct\t,|punct\tJose|compound\tAntonio|compound\tMeade|compound\tthat In a television interview , the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña argued : ' It is not a decision the federal government makes|ccomp\t:|punct\t'|punct\tIt|nsubj\tnot|neg\ta|det\ta decision the federal government makes|attr\tthe|det\tfederal|amod\tthe federal government|nsubj\tthe federal government makes|relcl"
+                },
+                {
+                    "question": "What did the head of the Ministry of Finance and Public Credit (SHCP) say about the claim?",
+                    "score": 0.7082,
+                    "answers": "on 21/06/2023|prep"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade Kuribreña?",
+                    "score": 0.6415,
+                    "answers": "the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña|nsubj\tof the Ministry of Finance and Public Credit ( SHCP )|prep\tthe Ministry of Finance and Public Credit ( SHCP )|pobj"
+                },
+                {
+                    "question": "What does SHCP stand for?",
+                    "score": 0.6387,
+                    "answers": "of Finance and Public Credit|prep\tFinance and Public Credit|pobj\tPublic|compound\tPublic Credit|conj"
+                },
+                {
+                    "question": "What is the relationship between the federal government and SHCP?",
+                    "score": 0.5741,
+                    "answers": "It is not a decision the federal government makes|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It is the environment that changes us and forces us to act with sensitivity and responsibility ', the head of the Ministry of Finance and Public Credit (SHCP), Jose Antonio Meade Kuribreña said.",
+            "question_answers": [
+                {
+                    "question": "What did www.mvsnoticias.com report on 21/06/2023?",
+                    "answer": "sensitivity and responsibility"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jose Antonio Meade Kuribreña say about the environment?",
+                    "score": 0.7202,
+                    "answers": "www.mvsnoticias.com|nsubj\tthat|mark\tthe|det\tthat|nsubj\tand|cc\tto|aux\tsensitivity and responsibility|pobj\tand|cc\t'|punct\t,|punct\tthe|det\tthe|det\tand|cc\t(|punct\t)|punct\t,|punct"
+                },
+                {
+                    "question": "What does it mean to act with sensitivity and responsibility?",
+                    "score": 0.6789,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that It is the environment that changes us and forces us to act with sensitivity and responsibility|ccomp\ton 21/06/2023|prep\tthat It is the environment that changes us and forces us to act with sensitivity and responsibility|ccomp\tthat changes us and forces us to act with sensitivity and responsibility|relcl\tforces us to act with sensitivity and responsibility|conj\tto act with sensitivity and responsibility|xcomp\twith sensitivity and responsibility|prep\twww.mvsnoticias.com reported on 21/06/2023 that It is the environment that changes us and forces us to act with sensitivity and responsibility ' , the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña said|ROOT"
+                },
+                {
+                    "question": "What are the responsibilities of the head of the Ministry of Finance and Public Credit (SHCP)?",
+                    "score": 0.6687,
+                    "answers": "responsibility|conj"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade Kuribreña?",
+                    "score": 0.6178,
+                    "answers": "the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña|nsubj\tof the Ministry of Finance and Public Credit ( SHCP )|prep\tJose|compound\tAntonio|compound\tMeade|compound"
+                },
+                {
+                    "question": "What does SHCP stand for?",
+                    "score": 0.6166,
+                    "answers": "the Ministry of Finance and Public Credit ( SHCP )|pobj\tof Finance and Public Credit|prep\tFinance and Public Credit|pobj\tPublic|compound\tPublic Credit|conj"
+                }
+            ]
+        },
+        {
+            "claim": "the head of the Ministry of Finance and Public Credit (SHCP), Jose Antonio Meade Kuribreña also said that the price of gasoline is determined from the cost of oil and energy internationally, as well as from refining margins; this, together with volatility, are the factors that will delimit the price of gasoline in the country in the coming months.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What factors determine the price of gasoline?",
+                    "score": 0.7899,
+                    "answers": "that the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña also said that the price of gasoline is determined from the cost of oil and energy internationally , as well as from refining margins ; this , together with volatility , are the factors that will delimit the price of gasoline in the country in the coming months|ccomp\tthe price of gasoline is determined from the cost of oil and energy internationally , as well as from refining margins|ccomp\tof oil and energy|prep"
+                },
+                {
+                    "question": "What is the cost of gasoline in the United States?",
+                    "score": 0.7604,
+                    "answers": "of gasoline|prep\tof gasoline|prep"
+                },
+                {
+                    "question": "What does SHCP stand for?",
+                    "score": 0.674,
+                    "answers": "Public|compound"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade Kuribreña?",
+                    "score": 0.6648,
+                    "answers": "the head of the Ministry of Finance and Public Credit ( SHCP ) , Jose Antonio Meade Kuribreña|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the head of the Ministry of Finance and Public Credit (SHCP), Jose Antonio Meade Kuribreña reiterated that there will be no going back to the increments, because 'we cannot go out to buy the Ministry of Finance and Public Credit (SHCP) and sell the Ministry of Finance and Public Credit (SHCP) here cheaper without accommodating the impact of that differentiation somewhere, which has only three alternatives: or more debt, more taxes or a reduction in spending that would necessarily affect spending, which is very sensitive'.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How much would it cost to buy the Ministry of Finance and Public Credit (SHCP)?",
+                    "score": 0.8452,
+                    "answers": "without accommodating the impact of that differentiation somewhere , which has only three alternatives : or more debt , more taxes or a reduction in spending that would necessarily affect spending , which is very sensitive|prep"
+                },
+                {
+                    "question": "What is the impact of adding debt, more taxes or a reduction in spending that would necessarily affect spending?",
+                    "score": 0.777,
+                    "answers": "the impact of that differentiation somewhere , which has only three alternatives : or more debt , more taxes or a reduction in spending that would necessarily affect spending , which is very sensitive|dobj"
+                },
+                {
+                    "question": "What did Jose Antonio Meade Kuribreña say about the SHCP?",
+                    "score": 0.7721,
+                    "answers": "back|advmod"
+                },
+                {
+                    "question": "What does it mean to be sensitive?",
+                    "score": 0.719,
+                    "answers": "which is very sensitive|relcl\tvery sensitive|acomp"
+                },
+                {
+                    "question": "What does SHCP stand for?",
+                    "score": 0.7151,
+                    "answers": "of the Ministry of Finance and Public Credit ( SHCP )|prep\tthe Ministry of Finance and Public Credit ( SHCP )|pobj\tof Finance and Public Credit|prep\tFinance and Public Credit|pobj\tPublic|compound\tPublic Credit|conj\tthe Ministry of Finance and Public Credit ( SHCP )|dobj\tof Finance and Public Credit|prep\tFinance and Public Credit|pobj\tPublic|compound\tPublic Credit|conj\tof Finance and Public Credit|prep\tFinance and Public Credit|pobj\tPublic|compound\tPublic Credit|conj"
+                }
+            ]
+        },
+        {
+            "claim": "He clarified that the increase is not related to energy reform, which allows anyone to refine, store, transport and sell gasoline, nor in the different tax reforms.",
+            "question_answers": [
+                {
+                    "question": "When did www.mvsnoticias.com report that the increase was not related to energy reform?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the impact of energy reform on the price of gasoline?",
+                    "score": 0.7846,
+                    "answers": "store , transport and sell gasoline|conj"
+                },
+                {
+                    "question": "What is the difference between energy reform and gasoline reform?",
+                    "score": 0.7448,
+                    "answers": "sell gasoline|conj\tgasoline|dobj\tdifferent|amod"
+                },
+                {
+                    "question": "What is the purpose of transport and selling gasoline?",
+                    "score": 0.7338,
+                    "answers": "transport and sell gasoline|conj"
+                },
+                {
+                    "question": "What is Scott Walker's stance on energy reform?",
+                    "score": 0.6873,
+                    "answers": "He|nsubj"
+                },
+                {
+                    "question": "What are the different tax reforms?",
+                    "score": 0.6846,
+                    "answers": "in the different tax reforms|conj\tthe different tax reforms|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "What most affects the economy, he said, is uncertainty and that is what has dominated after the triumph of Donald Trump as president of the United States, so'we hope to see now with the administration, how we can narrow down the different scenarios and reduce the uncertainty'.",
+            "question_answers": [
+                {
+                    "question": "When did www.mvsnoticias.com report that what most affects the economy was uncertainty?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about the economy after winning the election?",
+                    "score": 0.8498,
+                    "answers": "as president of the United States|prep\tpresident of the United States|pobj\tthe administration|pobj\twe can narrow down the different scenarios and how reduce the uncertainty|ccomp"
+                },
+                {
+                    "question": "What did Trump do to reduce the uncertainty?",
+                    "score": 0.8187,
+                    "answers": "so'we hope to see now with the administration , we can narrow down the different scenarios and how reduce the uncertainty '|conj\tto see now with the administration , we can narrow down the different scenarios and how reduce the uncertainty|xcomp"
+                },
+                {
+                    "question": "What was the economy after Donald Trump was president of the United States?",
+                    "score": 0.8097,
+                    "answers": "what has dominated after the triumph of Donald Trump as president of the United States|ccomp"
+                },
+                {
+                    "question": "What is the economy after Trump took office?",
+                    "score": 0.7707,
+                    "answers": "that What most affects the economy , he said , is uncertainty and that is what has dominated after the triumph of Donald Trump as president of the United States|ccomp"
+                },
+                {
+                    "question": "How can we narrow down the different scenarios and reduce the uncertainty?",
+                    "score": 0.7671,
+                    "answers": "can|aux"
+                }
+            ]
+        },
+        {
+            "claim": "Regarding increases in other products, he noted that the impacts of gasoline prices are moderate and will be diluted over time; 'we are not facing a generalized process of increases that will be permanent '.",
+            "question_answers": [
+                {
+                    "question": "What type of increase in gasoline prices did www.mvsnoticias.com say we are not facing?",
+                    "answer": "permanent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the impacts of gasoline prices?",
+                    "score": 0.8002,
+                    "answers": "www.mvsnoticias.com|nsubj\twww.mvsnoticias.com reported on 21/06/2023 that Regarding increases in other products , he noted that the impacts of gasoline prices are moderate and will be diluted over time ; ' we are not facing a generalized process of increases that will be permanent '|ROOT\ton 21/06/2023|prep\tthat|mark\tRegarding increases in other products|prep\t,|punct\the|nsubj\t, he noted that the impacts of gasoline prices are moderate and will be diluted over time|ccomp\tthat|mark\tthe|det\tthe impacts of gasoline prices|nsubj\tof gasoline prices|prep\tgasoline|compound\tgasoline prices|pobj\tthat the impacts of gasoline prices are moderate and will be diluted over time|ccomp\tmoderate|acomp\tand|cc\twill|aux\tbe|auxpass\twill be diluted over time|conj\tover time|prep\ttime|pobj\t;|punct\t'|punct\twe|nsubj\tare|aux\tnot|neg\tthat Regarding increases in other products , he noted that the impacts of gasoline prices are moderate and will be diluted over time ; ' we are not facing a generalized process of increases that will be permanent '|ccomp\ta|det\tgeneralized|amod\ta generalized process of increases that will be permanent|dobj\tof increases|prep\tincreases|pobj\tthat|nsubj\twill|aux\tthat will be permanent|relcl\tpermanent|acomp\t'|punct"
+                },
+                {
+                    "question": "What is the impact of gasoline prices on gasoline prices?",
+                    "score": 0.793,
+                    "answers": "increases in other products|pobj\tin other products|prep\tother|amod\tother products|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Finally, he considered that the future of the country depends on the government's ability to build and define Mexico's relationship with its main trading partner.",
+            "question_answers": [
+                {
+                    "question": "What did www.mvsnoticias.com report on 21/06/2023",
+                    "answer": "he considered that the future of the country depends on the government's ability to build and define Mexico's relationship with its main trading partner"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the government's ability to build and define Mexico's relationship with its main trading partner do?",
+                    "score": 0.7809,
+                    "answers": "that|mark\tFinally|advmod\t,|punct\the|nsubj\tthat|mark\tthe|det\tthe|det\tthe|det\tto|aux\tand|cc\tdefine Mexico 's relationship with its main trading partner|conj\tits|poss"
+                },
+                {
+                    "question": "What is the relationship between the government and Mexico's trading partner?",
+                    "score": 0.6992,
+                    "answers": "main|amod"
+                }
+            ]
+        },
+        {
+            "claim": "'It is an exercise where all of us who have something to say, entrepreneurs who invest in Mexico and the United States, and who depend on these value chains, will be a very broad dialogue ', he concluded.",
+            "question_answers": [
+                {
+                    "question": "What did www.mvsnoticias.com report on 21/06/2023?",
+                    "answer": "a very broad dialogue"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who invest in Mexico and the United States?",
+                    "score": 0.8452,
+                    "answers": "who invest in Mexico and the United States|relcl"
+                },
+                {
+                    "question": "What is the relationship between investing in Mexico and investing in the United States?",
+                    "score": 0.7654,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that ' It is an exercise where all of us who have something to say , entrepreneurs who invest in Mexico and the United States , and who depend on these value chains , will be a very broad dialogue ' , he concluded|ROOT"
+                },
+                {
+                    "question": "What are the value chains?",
+                    "score": 0.7203,
+                    "answers": "on these value chains|prep\tthese value chains|pobj"
+                },
+                {
+                    "question": "What is the value chain?",
+                    "score": 0.6505,
+                    "answers": "value|compound"
+                }
+            ]
+        }
+    ]
+}

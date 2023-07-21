@@ -1,0 +1,200 @@
+{
+    "id": "7_Society_88",
+    "claim": "A recent research showed that more than  percent of people reporting via the Internet only read the title of a link  and sometimes the first two lines  before sharing it on their social networks. And if you want me to be honest with you, it's better for me. Just now I have to start writing the first thing that comes to my mind, even if it has nothing to do with the article, and people are going to start sharing it because they got the title interesting. I don't know if the study is true or not, but it's really making me a bit of a mess. Right now, I can tell you with absolute certainty that before someone gets to this part, they already sent it at least 20 times. And yes, for the same reason, I can afford to be this brazen, because they don't know how this chamba has facilitated me. What's more, I even feel like putting the lyrics on a song to complete the  words. A pair of black eyes, cute, smuggled. Oh, oh, oh, oh, sing and don't cry!",
+    "source": "www.eldizque.com",
+    "date": "15/05/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A recent research showed that more than  percent of people reporting via the Internet only read the title of a link  and sometimes the first two lines  before sharing it on their social networks.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What percentage of people reporting via the internet read the title of a link before sharing it on their social networks?",
+                    "score": 0.782,
+                    "answers": "that more than   percent of people reporting via the Internet only read the title of a link|ccomp"
+                },
+                {
+                    "question": "How many people report on their social networks before sharing on their own?",
+                    "score": 0.7197,
+                    "answers": "people reporting via the Internet|pobj\ton their social networks|prep\ttheir social networks|pobj"
+                },
+                {
+                    "question": "What are the first two lines of a link?",
+                    "score": 0.6576,
+                    "answers": "a link|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Just now I have to start writing the first thing that comes to my mind, even if it has nothing to do with the article, and people are going to start sharing it because they got the title interesting.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that I have to start writing the first thing that comes to my mind?",
+                    "answer": "15/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the first thing that comes to mind when it comes to writing?",
+                    "score": 0.5953,
+                    "answers": "that comes to my mind|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of the title of the article?",
+                    "score": 0.5807,
+                    "answers": "www.eldizque.com reported on 15/05/2016 that Just now I have to start writing the first thing that comes to my mind , even if it has nothing to do with the article , and people are going to start sharing it because they got the title interesting|ROOT\ton 15/05/2016|prep\tthat|mark\tJust|advmod\tJust now|advmod\tI|nsubj\tto|aux\tthe|det\tthat|nsubj\tto my mind|prep\tmy|poss\tmy mind|pobj\t,|punct\teven|advmod\tif|mark\tit|nsubj\teven if it has nothing to do with the article|advcl\tnothing to do with the article|dobj\tto|aux\tto do with the article|relcl\twith the article|prep\tthe|det\tthe article|pobj\t,|punct\tand|cc\tpeople|nsubj\tare|aux\tpeople are going to start sharing it because they got the title interesting|conj\tto|aux\tto start sharing it because they got the title interesting|xcomp\tsharing it|xcomp\tit|dobj\tbecause|mark\tthey|nsubj\tbecause they got the title interesting|advcl\tthe|det\tthe title|nsubj\tthe title interesting|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "I don't know if the study is true or not, but it's really making me a bit of a mess.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that they didn't know if the study was true or not?",
+                    "answer": "15/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the study say about the study?",
+                    "score": 0.8304,
+                    "answers": "that|mark\tthe|det\tthe study|nsubj\tor|cc\tnot|conj\t,|punct\tbut|cc\tit|nsubj\treally|advmod\ta|det\ta|det"
+                },
+                {
+                    "question": "What does the website \"eldizque.com\" do?",
+                    "score": 0.7524,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the evidence of the study being true or not?",
+                    "score": 0.7185,
+                    "answers": "that I do n't know if the study is true or not , but it 's really making me a bit of a mess|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the study?",
+                    "score": 0.669,
+                    "answers": "I|nsubj\tdo|aux\tn't|neg\tif|mark\ttrue|acomp\t's|aux\tit 's really making me a bit of a mess|conj\tme|nsubj\tme a bit of a mess|ccomp"
+                },
+                {
+                    "question": "What is the relationship between whether or not the study is true or not?",
+                    "score": 0.6468,
+                    "answers": "if the study is true or not|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Right now, I can tell you with absolute certainty that before someone gets to this part, they already sent it at least 20 times.",
+            "question_answers": [
+                {
+                    "question": "How many times did someone send this part to someone?",
+                    "answer": "at least 20"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many times has the FBI sent a message over email?",
+                    "score": 0.7834,
+                    "answers": "on 15/05/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And yes, for the same reason, I can afford to be this brazen, because they don't know how this chamba has facilitated me.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 15/05/2016 that I can afford to be this brazen?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "Why did they say I can afford to be this brazen?",
+                    "answer": "they don't know how this chamba has facilitated me"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did the chamba help me?",
+                    "score": 0.8475,
+                    "answers": "that And yes , for the same reason , I can afford to be this brazen , because they do n't know how this chamba has facilitated me|ccomp"
+                },
+                {
+                    "question": "What did the chamba do to help others?",
+                    "score": 0.7872,
+                    "answers": "www.eldizque.com reported on 15/05/2016 that And yes , for the same reason , I can afford to be this brazen , because they do n't know how this chamba has facilitated me|ROOT\thow|advmod"
+                },
+                {
+                    "question": "What is the chamba?",
+                    "score": 0.7169,
+                    "answers": "this chamba|nsubj"
+                },
+                {
+                    "question": "Who is the chamba?",
+                    "score": 0.6928,
+                    "answers": "www.eldizque.com|nsubj\tAnd|cc\t,|punct\tthe|det\t,|punct\tI|nsubj\tthis|advmod\tthis brazen|acomp\t,|punct\tbecause they do n't know how this chamba has facilitated me|advcl\tthis|det\tme|dobj"
+                },
+                {
+                    "question": "What is the relationship between the chamba and me?",
+                    "score": 0.6504,
+                    "answers": "how this chamba has facilitated me|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "What's more, I even feel like putting the lyrics on a song to complete the  words.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that I felt like putting the lyrics on a song to complete the words?",
+                    "answer": "15/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the lyrics of a song?",
+                    "score": 0.7357,
+                    "answers": "www.eldizque.com reported on 15/05/2016 that What 's more , I even feel like putting the lyrics on a song to complete|ROOT\ton 15/05/2016|prep\tWhat 's more|advcl\tI|nsubj\tthat What 's more , I even feel like putting the lyrics on a song to complete|ccomp\tputting the lyrics on a song to complete|pcomp\tthe lyrics|dobj"
+                },
+                {
+                    "question": "What is the purpose of putting lyrics on a song?",
+                    "score": 0.7263,
+                    "answers": "like putting the lyrics on a song to complete|prep\tto complete|advcl"
+                },
+                {
+                    "question": "What is a song?",
+                    "score": 0.6957,
+                    "answers": "a song|pobj"
+                },
+                {
+                    "question": "What is the meaning of words in a song?",
+                    "score": 0.6872,
+                    "answers": "words|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the lyrics of the song?",
+                    "score": 0.6575,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "A pair of black eyes, cute, smuggled.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that a pair of black eyes were smuggled?",
+                    "answer": "15/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How were black eyes smuggled into the US?",
+                    "score": 0.8498,
+                    "answers": "www.eldizque.com reported on 15/05/2016 that A pair of black eyes , cute , smuggled|ROOT"
+                },
+                {
+                    "question": "How many black eyes were smuggled into the US in 2016?",
+                    "score": 0.761,
+                    "answers": "A pair of black eyes , cute|nsubj\tof black eyes|prep\tblack|amod\tblack eyes|pobj"
+                }
+            ]
+        }
+    ]
+}

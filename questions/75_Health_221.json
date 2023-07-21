@@ -1,0 +1,364 @@
+{
+    "id": "75_Health_221",
+    "claim": "Controlled substances derived from opioids are the most effective drugs for pain control and management, but their excessive use, coupled with their considerable list of side effects, has led millions to addiction. And while opioids are excellent at mitigating physical pain, they are also extremely difficult to give up once addiction takes over a person. Puerto Rico's Department of Justice joined other U.S. states today, Wednesday, in suing Purdue Pharma, who is responsible for the epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans. Purdue Pharma produces pain control medicine known as OxyContin, although its portfolio also contains other pain management products with active ingredients derived from the opium plant such as fentanyl, codeine and hydrocodone. According to the literature of the drug reference book Drug Facts & Comparisons, the drug OxyContin, whose active ingredient (primarily) is oxycodone hydrochloride, a semi-synthetic substance derived from tebain, one of many alkaloids found in the Persia opium plant. Oxycodone is a highly potent opioid that is prescribed, both in pills and in an injection solution, for the management of moderate to severe pain in cancer patients, patients who received trauma or people recovering from larger operations. Drug Facts & Comparisons indicates that OxyContin is available in , , , , , ,  and  milligrams. Because it is a derivative of the opium plant, its side effects are extensive and severe: in addition to causing addiction if the person abuse its use, oxycodone can cause respiratory failure, causes low blood pressure, anxiety, euphoria, a reduction in pain sensitivity, can cause sleep apnea, dizziness, nausea, vomiting, loss of appetite and nervousness. OxyContin is one of the drugs attributed to the epidemic of opioid addiction because it is extremely difficult to abandon (along with heroin), especially if the person tries to stop suddenly. Oxycodone addiction is managed through a step-by-step program in which the dose is gradually reduced until you stop taking it. Another procedure to stop the effects of oxycodone is by using the drug Narcan, whose active ingredient, naloxone, blocks the effects of opioids. I'm sorry.",
+    "source": "www.elnuevodia.com",
+    "date": "04/04/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Controlled substances derived from opioids are the most effective drugs for pain control and management, but excessive use, coupled with considerable list of side effects, has led millions to addiction.",
+            "question_answers": [
+                {
+                    "question": "What are the most effective drugs for pain control and management?",
+                    "answer": "Controlled substances derived from opioids"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How effective are controlled substances derived from opioids for pain control and management?",
+                    "score": 0.9406,
+                    "answers": "that Controlled substances derived from opioids are the most effective drugs for pain control and management , but excessive use , coupled with considerable list of side effects , has led millions to addiction|ccomp\tmost effective|amod\tpain control and management|pobj"
+                },
+                {
+                    "question": "What are the side effects of using opiods?",
+                    "score": 0.8765,
+                    "answers": "excessive use , coupled with considerable list of side effects , has led millions to addiction|conj"
+                },
+                {
+                    "question": "What iselnuevodia.com?",
+                    "score": 0.6999,
+                    "answers": "www.elnuevodia.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And while opioids are excellent at mitigating physical pain, opioids are also extremely difficult to give up once addiction takes over a person.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/04/2018 that opioids are excellent at mitigating physical pain?",
+                    "answer": "www.elnuevodia.com"
+                },
+                {
+                    "question": "What is excellent at mitigating physical pain?",
+                    "answer": "opioids"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are opioids good at mitigating physical pain?",
+                    "score": 0.9382,
+                    "answers": "while opioids are excellent at mitigating physical pain|advcl\tthat And while opioids are excellent at mitigating physical pain , opioids are also extremely difficult to give up once addiction takes over a person|ccomp"
+                },
+                {
+                    "question": "How difficult to give up after addiction takes over a person?",
+                    "score": 0.8753,
+                    "answers": "extremely difficult to give up once addiction takes over a person|acomp"
+                },
+                {
+                    "question": "What are the benefits of opioids for reducing physical pain?",
+                    "score": 0.847,
+                    "answers": "at mitigating physical pain|prep"
+                },
+                {
+                    "question": "What doeselnuevodia.com say about opioids?",
+                    "score": 0.8358,
+                    "answers": "excellent at mitigating physical pain|acomp"
+                },
+                {
+                    "question": "What is the relationship between opioids and physical pain?",
+                    "score": 0.8166,
+                    "answers": "www.elnuevodia.com reported on 04/04/2018 that And while opioids are excellent at mitigating physical pain , opioids are also extremely difficult to give up once addiction takes over a person|ROOT\ton 04/04/2018|prep\tAnd|cc\twhile|mark\topioids|nsubj\tmitigating physical pain|pcomp\tphysical|amod\tphysical pain|dobj\topioids|nsubj\textremely|advmod\tto give up once addiction takes over a person|xcomp\tup|prt\tonce|mark\taddiction|nsubj\tonce addiction takes over a person|advcl\tover|prt"
+                }
+            ]
+        },
+        {
+            "claim": "Puerto Rico's Department of Justice joined other U.S. states today, Wednesday, in suing Purdue Pharma, who is responsible for the epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans .",
+            "question_answers": [
+                {
+                    "question": "What did Puerto Rico's Department of Justice do to Purdue Pharma?",
+                    "answer": "Puerto Rico's Department of Justice joined other U.S. states today, Wednesday, in suing Purdue Pharma, who is responsible for the epidemic of opiate addiction"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of Puerto Rico's population is opiate addiction?",
+                    "score": 0.922,
+                    "answers": "both the U.S. population and thousands of Puerto Ricans|dobj"
+                },
+                {
+                    "question": "How many Puerto Ricans have opiate addiction?",
+                    "score": 0.9055,
+                    "answers": "Purdue|compound\twho|nsubj\tthousands of Puerto Ricans|conj\tof Puerto Ricans|prep"
+                },
+                {
+                    "question": "What did the Department of Justice say about the lawsuit against Purdue Pharma?",
+                    "score": 0.8667,
+                    "answers": "today , Wednesday ,|npadvmod"
+                },
+                {
+                    "question": "What is the opiate addiction epidemic in Puerto Rico?",
+                    "score": 0.8618,
+                    "answers": "of opiate addiction|prep\topiate|compound"
+                },
+                {
+                    "question": "What is Opiate addiction?",
+                    "score": 0.8614,
+                    "answers": "Purdue Pharma , who is responsible for the epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Purdue Pharma, who is responsible for the epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans produces pain control medicine known as OxyContin , although portfolio also contains other pain management products with active ingredients derived from the opium plant such as fentanyl, codeine and hydrocodone.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the pain control medicine produced by Purdue Pharma?",
+                    "answer": "OxyContin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of pain control medicine is Opiate?",
+                    "score": 0.8843,
+                    "answers": "pain|compound\tpain|compound"
+                },
+                {
+                    "question": "Where does Opioid come from?",
+                    "score": 0.812,
+                    "answers": "with active ingredients derived from the opium plant|prep"
+                },
+                {
+                    "question": "Where is Opioid derived from?",
+                    "score": 0.788,
+                    "answers": "active ingredients derived from the opium plant|pobj\tderived from the opium plant|acl\tfrom the opium plant|prep\tthe opium plant|pobj"
+                },
+                {
+                    "question": "What is Opiate addiction?",
+                    "score": 0.78,
+                    "answers": "Purdue Pharma , who is responsible for the epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans|nsubj\twho is responsible for the epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans|relcl\tresponsible for the epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans|acomp\tfor the epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans|prep\tthe epidemic of opiate addiction that embraces both the U.S. population and thousands of Puerto Ricans|pobj"
+                },
+                {
+                    "question": "What is opiate addiction?",
+                    "score": 0.78,
+                    "answers": "of opiate addiction|prep\topiate addiction|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the literature of the drug reference book Drug Facts & Comparisons , the drug OxyContin, whose active ingredient (primarily) is oxycodone hydrochloride, a semi-synthetic substance derived from tebain, one of many alkaloids found in the Persia opium plant.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the book that describes OxyContin?",
+                    "answer": "Drug Facts & Comparisons"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the active ingredients of OxyContin?",
+                    "score": 0.8473,
+                    "answers": "that|mark\tto the literature of the drug reference book Drug Facts & Comparisons|prep\tthe|det\tthe|det\tdrug|compound\tDrug|compound\t&|cc\tComparisons|conj\t,|punct\tthe|det\tdrug|compound\tthat According to the literature of the drug reference book Drug Facts & Comparisons , the drug OxyContin , whose active ingredient ( primarily ) is oxycodone hydrochloride , a semi - synthetic substance derived from tebain , one of many alkaloids found in the Persia opium plant|npadvmod\t,|punct\twhose|poss\tactive|amod\t(|punct\tprimarily|advmod\t)|punct\toxycodone hydrochloride , a semi - synthetic substance derived from tebain , one of many alkaloids found in the Persia opium plant|attr\t,|punct\ta|det\tsemi|amod\t-|amod\tsynthetic|amod\ta semi - synthetic substance derived from tebain , one of many alkaloids found in the Persia opium plant|appos\tderived from tebain , one of many alkaloids found in the Persia opium plant|acl\t,|punct\tone of many alkaloids found in the Persia opium plant|appos\tof many alkaloids found in the Persia opium plant|prep\tmany|amod\tmany alkaloids found in the Persia opium plant|pobj\tin the Persia opium plant|prep\tthe|det\topium|compound"
+                },
+                {
+                    "question": "What is the source of evidence of OxyContin's active ingredients?",
+                    "score": 0.8209,
+                    "answers": "the literature of the drug reference book Drug Facts & Comparisons|pobj\tdrug reference|compound"
+                },
+                {
+                    "question": "Where is tebain from?",
+                    "score": 0.7784,
+                    "answers": "from tebain , one of many alkaloids found in the Persia opium plant|prep\ttebain , one of many alkaloids found in the Persia opium plant|pobj\tthe Persia opium plant|pobj"
+                },
+                {
+                    "question": "Where iselnuevodia.com located?",
+                    "score": 0.6631,
+                    "answers": "www.elnuevodia.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Oxycodone is a highly potent opioid that is prescribed, both in pills and in an injection solution, for the management of moderate to severe pain in cancer patients, patients who received trauma or people recovering from larger operations.",
+            "question_answers": [
+                {
+                    "question": "What type of pain is Oxycodone used for?",
+                    "answer": "moderate to severe pain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How is Oxycodone used to manage moderate to severe pain in cancer patients?",
+                    "score": 0.9144,
+                    "answers": "on 04/04/2018|prep\tof moderate to severe pain|prep\tmoderate to severe pain|pobj"
+                },
+                {
+                    "question": "What type of cancer is Oxycodone prescribed for?",
+                    "score": 0.9062,
+                    "answers": "cancer|compound"
+                },
+                {
+                    "question": "What is Oxycodone used for?",
+                    "score": 0.8727,
+                    "answers": "www.elnuevodia.com reported on 04/04/2018 that Oxycodone is a highly potent opioid that is prescribed , both in pills and in an injection solution , for the management of moderate to severe pain in cancer patients , patients who received trauma or people recovering from larger operations|ROOT\tthat|mark\tthat Oxycodone is a highly potent opioid that is prescribed , both in pills and in an injection solution , for the management of moderate to severe pain in cancer patients , patients who received trauma or people recovering from larger operations|ccomp\ta|det\thighly|advmod\tthat|nsubjpass\tis|auxpass\t,|punct\tboth|preconj\tpills|pobj\tand|cc\tin an injection solution|conj\tan|det\tinjection|compound\t,|punct\tfor the management of moderate to severe pain in cancer patients , patients who received trauma or people recovering from larger operations|prep\tthe|det\tto|advmod\tmoderate to severe|amod\tin cancer patients , patients who received trauma or people recovering from larger operations|prep\tcancer patients , patients who received trauma or people recovering from larger operations|pobj\t,|punct\tpatients who received trauma or people recovering from larger operations|conj\twho|nsubj\ttrauma|dobj\tor|cc\tfrom larger operations|prep\tlarger|amod\tlarger operations|pobj"
+                },
+                {
+                    "question": "What are the side effects of Oxycodone?",
+                    "score": 0.8599,
+                    "answers": "both in pills and in an injection solution|prep"
+                },
+                {
+                    "question": "What are the symptoms of Oxycodone?",
+                    "score": 0.8594,
+                    "answers": "who received trauma|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "the drug reference book Drug Facts & Comparisons indicates that pain control medicine known as OxyContin is available in , , , , , ,  and  milligrams.",
+            "question_answers": [
+                {
+                    "question": "What pain control medicine is available in milligrams and milligrams?",
+                    "answer": "OxyContin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is OxyContin available in milligrams?",
+                    "score": 0.9156,
+                    "answers": "www.elnuevodia.com reported on 04/04/2018 that the drug reference book Drug Facts & Comparisons indicates that pain control medicine known as OxyContin is available in , , , , , ,   and   milligrams|ROOT\t  milligrams|dep"
+                },
+                {
+                    "question": "How many milligrams of OxyContin are available per day?",
+                    "score": 0.8398,
+                    "answers": "milligrams|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of OxyContin being available?",
+                    "score": 0.802,
+                    "answers": "in , , , , , ,|prep"
+                },
+                {
+                    "question": "What is OxyContin?",
+                    "score": 0.7992,
+                    "answers": "on 04/04/2018|prep\tthat|mark\tthe|det\tdrug|compound\tdrug reference|compound\tDrug|compound\t&|cc\tComparisons|conj\tthat the drug reference book Drug Facts & Comparisons indicates that pain control medicine known as OxyContin is available in , , , , , ,|ccomp\tthat|mark\tpain|compound\tpain control|compound\tpain control medicine known as OxyContin|nsubj\tknown as OxyContin|acl\tas OxyContin|prep\tthat pain control medicine known as OxyContin is available in , , , , , ,|ccomp\tavailable in , , , , , ,|acomp\t,|punct\t,|punct\t,|punct\t,|punct\t,|punct\t,|punct\t  and|dep\tand|cc"
+                },
+                {
+                    "question": "What is the name of the drug reference book Drug Facts and Comparisons?",
+                    "score": 0.6965,
+                    "answers": "the drug reference book Drug Facts & Comparisons|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Because pain control medicine known as OxyContin is a derivative of the opium plant , side effects are extensive and severe: in addition to causing addiction if the person abuse use, pain control medicine known as OxyContin can cause respiratory failure, causes low blood pressure, anxiety, euphoria, a reduction in pain sensitivity, can cause sleep apnea, dizziness, nausea, vomiting, loss of appetite and nervousness.",
+            "question_answers": [
+                {
+                    "question": "What is OxyContin a derivative of?",
+                    "answer": "opium plant"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the side effects of OxyContin?",
+                    "score": 0.8104,
+                    "answers": "www.elnuevodia.com|nsubj\twww.elnuevodia.com reported on 04/04/2018 that Because pain control medicine known as OxyContin is a derivative of the opium plant , side effects are extensive and severe|ccomp\ton 04/04/2018|prep\tthat|mark\tBecause|mark\tpain|compound\tpain control|compound\tpain control medicine known as OxyContin|nsubj\tknown as OxyContin|acl\tas OxyContin|prep\tBecause pain control medicine known as OxyContin is a derivative of the opium plant|advcl\ta|det\ta derivative of the opium plant|attr\tof the opium plant|prep\tthe|det\topium|compound\tthe opium plant|pobj\t,|punct\tside|compound\tside effects|nsubj\tthat Because pain control medicine known as OxyContin is a derivative of the opium plant , side effects are extensive and severe|ccomp\textensive and severe|acomp\tand|cc\tsevere|conj\t:|punct\tin addition to causing addiction if the person abuse use|prep\taddition to causing addiction if the person abuse use|pobj\tto causing addiction if the person abuse use|prep\tcausing addiction if the person abuse use|pcomp\taddiction|dobj\tif|mark\tthe|det\tthe person|nsubj\tif the person abuse use|advcl\tuse|dobj\t,|punct\tpain|compound\tpain control|compound\tpain control medicine known as OxyContin|nsubj\tknown as OxyContin|acl\tas OxyContin|prep\tcan|aux\twww.elnuevodia.com reported on 04/04/2018 that Because pain control medicine known as OxyContin is a derivative of the opium plant , side effects are extensive and severe : in addition to causing addiction if the person abuse use , pain control medicine known as OxyContin can cause respiratory failure , causes low blood pressure , anxiety , euphoria , a reduction in pain sensitivity , can cause sleep apnea , dizziness , nausea , vomiting , loss of appetite and nervousness|ROOT\trespiratory|amod\trespiratory failure|dobj\t,|punct\tcauses low blood pressure , anxiety , euphoria , a reduction in pain sensitivity , can cause sleep apnea , dizziness , nausea , vomiting , loss of appetite and nervousness|dep\tlow|amod\tblood|compound\tlow blood pressure , anxiety , euphoria|dobj\t,|punct\tanxiety , euphoria|appos\t,|punct\teuphoria|conj\t,|punct\ta|det\ta reduction in pain sensitivity|dobj\tin pain sensitivity|prep\tpain|compound\tpain sensitivity|pobj\t,|punct\tcan|aux\tcan cause sleep apnea , dizziness , nausea , vomiting , loss of appetite and nervousness|dep\tsleep|compound\tsleep apnea , dizziness , nausea , vomiting , loss of appetite and nervousness|dobj\t,|punct\tdizziness , nausea , vomiting , loss of appetite and nervousness|conj\t,|punct\tnausea , vomiting , loss of appetite and nervousness|conj\t,|punct\tvomiting , loss of appetite and nervousness|conj\t,|punct\tloss of appetite and nervousness|conj\tof appetite|prep\tappetite|pobj\tand|cc\tnervousness|conj"
+                }
+            ]
+        },
+        {
+            "claim": "OxyContin is one of the drugs attributed to the epidemic of opioid addiction because it is extremely difficult to abandon (along with heroin), especially if the person tries to stop suddenly.",
+            "question_answers": [
+                {
+                    "question": "Why is OxyContin one of the drugs attributed to the epidemic of opioid addiction?",
+                    "answer": "it is extremely difficult to abandon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is it difficult to abandon OxyContin and heroin?",
+                    "score": 0.945,
+                    "answers": "extremely difficult|acomp\tto abandon ( along with heroin )|xcomp\tespecially if the person tries to stop suddenly|advcl"
+                },
+                {
+                    "question": "What is OxyContin attributed to the epidemic of opioid addiction?",
+                    "score": 0.915,
+                    "answers": "attributed to the epidemic of opioid addiction|acl"
+                },
+                {
+                    "question": "What does it take to give up on OxyContin and heroin?",
+                    "score": 0.8988,
+                    "answers": "the person|nsubj"
+                },
+                {
+                    "question": "What are the symptoms of OxyContin and heroin?",
+                    "score": 0.8855,
+                    "answers": "to stop suddenly|xcomp"
+                },
+                {
+                    "question": "What are the sources of evidence of OxyContin and heroin addiction?",
+                    "score": 0.8705,
+                    "answers": "along with heroin|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Oxycodone addiction is managed through a step-by-step program in which the dose is gradually reduced until you stop taking it.",
+            "question_answers": [
+                {
+                    "question": "What addiction is managed through a step-by-step program?",
+                    "answer": "Oxycodone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What steps are taken to reduce Oxycodone addiction?",
+                    "score": 0.908,
+                    "answers": "www.elnuevodia.com reported on 04/04/2018 that Oxycodone addiction is managed through a step - by - step program in which the dose is gradually reduced until you stop taking it|ROOT\tthat Oxycodone addiction is managed through a step - by - step program in which the dose is gradually reduced until you stop taking it|ccomp\tthrough a step - by - step program in which the dose is gradually reduced until you stop taking it|prep\tstep - by - step|nmod\tby - step|prep\tstep|pobj\ta step - by - step program in which the dose is gradually reduced until you stop taking it|pobj"
+                },
+                {
+                    "question": "What is the method used to manage Oxycodone addiction?",
+                    "score": 0.8994,
+                    "answers": "on 04/04/2018|prep\tthat|mark\tOxycodone|compound\tOxycodone addiction|nsubjpass\tis|auxpass\ta|det\t-|punct\t-|punct\tin which|prep\twhich|pobj\tthe|det\tthe dose|nsubjpass\tis|auxpass\tgradually|advmod\tuntil|mark\tyou|nsubj\tuntil you stop taking it|advcl\ttaking it|xcomp\tit|dobj"
+                },
+                {
+                    "question": "What iselnuevodia.com?",
+                    "score": 0.7074,
+                    "answers": "www.elnuevodia.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Another procedure to stop the effects of oxycodone is by using the drug Narcan, whose active ingredient, naloxone, blocks the effects of opioids.",
+            "question_answers": [
+                {
+                    "question": "What drug does Narcan block the effects of?",
+                    "answer": "oxycodone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How does Narcan block the effects of opioids?",
+                    "score": 0.9159,
+                    "answers": "that Another procedure to stop the effects of oxycodone is by using the drug Narcan , whose active ingredient , naloxone , blocks the effects of opioids|ccomp"
+                },
+                {
+                    "question": "What are the active ingredients of Narcan?",
+                    "score": 0.8286,
+                    "answers": "active|amod"
+                },
+                {
+                    "question": "What are the side effects of Narcan?",
+                    "score": 0.8172,
+                    "answers": "on 04/04/2018|prep"
+                },
+                {
+                    "question": "What are the effects of Narcan?",
+                    "score": 0.8172,
+                    "answers": "the effects of oxycodone|dobj\tthe effects of opioids|dobj"
+                },
+                {
+                    "question": "What is naloxone?",
+                    "score": 0.7783,
+                    "answers": "whose active ingredient , naloxone ,|nsubj\twhose active ingredient , naloxone , blocks the effects of opioids|relcl"
+                }
+            ]
+        }
+    ]
+}

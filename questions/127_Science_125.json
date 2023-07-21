@@ -1,0 +1,641 @@
+{
+    "id": "127_Science_125",
+    "claim": "A researcher proposes a method of searching for signals of alien technology among the data collected by satellites seeking exoplanetsIn a universe with  millions of galaxies with a similar number of suns in each, it seems unlikely that Earth is the only world populated by intelligent beings. The cosmos is made of atoms that behave equally wherever the same chemical elements are found and made up. However, the difficulties in finding it are considerable. Distances to other galaxies, even to some of the nearest galaxies, such as Andromeda, to  light years away, make them virtually unattainable. We must therefore stick to a region close to our galaxy. It is also possible that some intelligent beings who have not yet developed the technology necessary to capture our radio signals or send them to us will escape us, as if someone had tried to communicate with the intelligent humans who already inhabited the Earth more than  years ago. In addition, other intelligences may not communicate using electromagnetic waves or simply be something as strange as the conscious oceanic covering the planet Solaris in Stanislaw Lem's novel. Assuming the difficulty of the task, Hector Socas, researcher at the Instituto Astrofísico de Canarias (IAC), has just published an article in which he proposes a method to look for signs of technological development in other solar systems. Hector Socas proposes to analyze information collected by satellites such as Kepler, in charge of a massive search for extrasolar planets, in search of objects in Clarke's belt. This region, thus baptized in homage to writer Arthur C. Clarke, who proposed the use of the geostationary orbit for telecommunications, is a circular orbit of  kilometers above the equator that now occupy satellites such as the Meteosat. In his work, published in The Astrohpysical Journal, he shows different simulations to determine what would be the footprint they would leave on the light of their star as they passed ahead of their planet. The text also explains how a belt of artificial satellites from natural rings could be distinguished from those around Saturn. 'This search is also free, because it would be about searching for other things in the same data provided by satellites looking for exoplanets ', says Socas. 'The work would be done in two phases, a first search phase and a confirmation phase. First you have missions like Kepler that look at thousands of stars. Once you have an interesting candidate, it would be a question of directing to that star very powerful telescopes such as the James Webb space [to be launched in ] or the Thirty Meter Telescope ', explains the IAC researcher. This new generation of telescopes will help solve a mystery about extrasolar planets. Of those that have been found so far, only one of them has rings, a supersaturne with monstrous rings that could actually be the raw material of a forming moon. 'This may be because the search for exoplanets is very focused on planets close to their star and not beyond the ice line that, as in the Solar System, is where the planets with rings are found ', points Socas. On these worlds, no moon has yet been found to orbit them. The difficulty of looking for what you want to find at the right time is reflected when you turn to the idea of Socas 'If you look at us from another planet in search of technology created by intelligent life, you would see nothing ', he says. 'At the current rate of occupancy of the geostationary orbit we would be detectable in the year  ', concludes. I'm sorry.",
+    "source": "elpais.com",
+    "date": "16/03/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "A researcher proposes a method of searching for signals of alien technology among the data collected by satellites seeking exoplanetsIn a universe with  millions of galaxies with a similar number of suns in each, it seems unlikely that Earth his the only world populated by intelligent beings.",
+            "question_answers": [
+                {
+                    "question": "Who reported that a researcher proposed a method of searching for signals of alien technology among the data collected by satellites seeking exoplanets?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the method used to search for signals of alien technology among the data collected by satellites seeking exoplanets?",
+                    "score": 0.6801,
+                    "answers": "on 16/03/2018|prep"
+                },
+                {
+                    "question": "How many suns does Earth have?",
+                    "score": 0.5978,
+                    "answers": "with a similar number of suns in each|prep\ta similar number of suns in each|pobj"
+                },
+                {
+                    "question": "How many stars are in each of the stars?",
+                    "score": 0.5706,
+                    "answers": "  millions of galaxies with a similar number of suns in each|dep\tmillions of galaxies with a similar number of suns in each|dobj\tof galaxies with a similar number of suns in each|prep\tgalaxies with a similar number of suns in each|pobj"
+                },
+                {
+                    "question": "What is the evidence of Earth's only world populated by intelligent beings?",
+                    "score": 0.5597,
+                    "answers": ", it seems unlikely that Earth his the only world populated by intelligent beings|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "his The cosmos is made of atoms that behave equally wherever the same chemical elements are found and made up.",
+            "question_answers": [
+                {
+                    "question": "What is the cosmos made of?",
+                    "answer": "atoms"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What chemical elements are in The cosmos?",
+                    "score": 0.7479,
+                    "answers": "chemical|amod"
+                },
+                {
+                    "question": "What are the chemical elements in The cosmos made up of?",
+                    "score": 0.6839,
+                    "answers": "on 16/03/2018|prep"
+                },
+                {
+                    "question": "What is the chemical composition of the cosmos?",
+                    "score": 0.6622,
+                    "answers": "of atoms that behave equally the same chemical elements are found and wherever made up|prep\tatoms that behave equally the same chemical elements are found and wherever made up|pobj\tthat behave equally the same chemical elements are found and wherever made up|relcl\tthe same chemical elements|nsubjpass\tthe same chemical elements are found and wherever made up|advcl"
+                },
+                {
+                    "question": "What does elpais.com say about the cosmos?",
+                    "score": 0.6371,
+                    "answers": "elpais.com reported on 16/03/2018 that his The cosmos is made of atoms that behave equally the same chemical elements are found and wherever made up|ROOT\tthat his The cosmos is made of atoms that behave equally the same chemical elements are found and wherever made up|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "they , the they in finding The cosmos are considerable.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 16/03/2018?",
+                    "answer": "they"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did elpais.com say about finding the cosmos?",
+                    "score": 0.727,
+                    "answers": "that they , the they in finding The cosmos are considerable|ccomp"
+                },
+                {
+                    "question": "What does elpais.com say about space?",
+                    "score": 0.6869,
+                    "answers": "on 16/03/2018|prep"
+                },
+                {
+                    "question": "What is the cosmos?",
+                    "score": 0.6697,
+                    "answers": "they , the they in finding The cosmos|nsubj\tin finding The cosmos|prep\tfinding The cosmos|pcomp\tThe cosmos|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the finding of the cosmos?",
+                    "score": 0.6683,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the scientific study of space?",
+                    "score": 0.6576,
+                    "answers": ",|punct\tthe|det\tthe they|appos\tThe|det\tconsiderable|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "Distances to other galaxies , even to some of the nearest galaxies, such as Andromeda, to  light years away, make other galaxies This search unattainable.",
+            "question_answers": [
+                {
+                    "question": "What made other galaxies unattainable?",
+                    "answer": "Distances to other galaxies"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How far away are the nearest galaxies from each other?",
+                    "score": 0.8569,
+                    "answers": "Distances to other galaxies , even to some of the nearest galaxies , such as Andromeda , to   light years away|dep\tlight years|npadvmod\tlight years away|advmod"
+                },
+                {
+                    "question": "How far away from the nearest galaxies is the search for stars?",
+                    "score": 0.8454,
+                    "answers": "nearest|amod"
+                },
+                {
+                    "question": "What are the nearest galaxies?",
+                    "score": 0.8171,
+                    "answers": "the nearest galaxies , such as Andromeda|pobj"
+                },
+                {
+                    "question": "What is the nearest galaxies?",
+                    "score": 0.7939,
+                    "answers": "some of the nearest galaxies , such as Andromeda ,|pobj\tof the nearest galaxies , such as Andromeda|prep"
+                },
+                {
+                    "question": "What is the distance between the nearest galaxies and the nearest?",
+                    "score": 0.7746,
+                    "answers": "even to some of the nearest galaxies , such as Andromeda ,|prep"
+                }
+            ]
+        },
+        {
+            "claim": "We must This search stick to a region close to galaxy.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/03/2018 that We must This search stick to a region close to galaxy?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How close is the galaxy to space?",
+                    "score": 0.8277,
+                    "answers": "close to galaxy|advmod\tgalaxy|pobj"
+                },
+                {
+                    "question": "What is the search stick to a region close to galaxy?",
+                    "score": 0.7542,
+                    "answers": "This search|dep"
+                },
+                {
+                    "question": "What is the name of the region close to the galaxy?",
+                    "score": 0.6921,
+                    "answers": "a region close to galaxy|pobj"
+                },
+                {
+                    "question": "What is the relationship between the search stick and galaxy?",
+                    "score": 0.6669,
+                    "answers": "on 16/03/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It is also possible that some intelligent beings who have not yet developed This search necessary to capture our radio signals or send our radio signals to We will escape We , as if someone had tried to communicate with the intelligent humans who already an interesting candidate than  years ago.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of the search?",
+                    "answer": "to capture our radio signals or send our radio signals to We will escape We"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many intelligent beings have been able to capture radio signals or send radio signals to escape we?",
+                    "score": 0.5996,
+                    "answers": "some|det"
+                },
+                {
+                    "question": "What is the search necessary to capture our radio signals?",
+                    "score": 0.579,
+                    "answers": "This search necessary to capture our radio signals or send our radio signals to We|dobj"
+                },
+                {
+                    "question": "What is the purpose of using radio signals?",
+                    "score": 0.5561,
+                    "answers": "radio|compound\tradio|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, other intelligences may not communicate using electromagnetic waves or simply be something as strange as the conscious oceanic covering his in Stanislaw Lem's novel.",
+            "question_answers": [
+                {
+                    "question": "Who reported that other intelligences may not communicate using electromagnetic waves?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of electromagnetic waves are used to communicate?",
+                    "score": 0.6666,
+                    "answers": "electromagnetic|amod"
+                },
+                {
+                    "question": "What is the oceanic covering his novel in Stanislaw Lem's novel?",
+                    "score": 0.6179,
+                    "answers": "conscious|amod"
+                },
+                {
+                    "question": "What are the sources of evidence of intelligences using electromagnetic waves and oceanic covering his novel?",
+                    "score": 0.6073,
+                    "answers": "elpais.com reported on 16/03/2018 that In addition , other intelligences may not communicate using electromagnetic waves or simply be something as strange as the conscious oceanic covering his in Stanislaw Lem 's novel|ROOT"
+                },
+                {
+                    "question": "What are the uses of electromagnetic waves?",
+                    "score": 0.5701,
+                    "answers": "using electromagnetic waves|advcl\telectromagnetic waves|dobj"
+                },
+                {
+                    "question": "What is the relationship between electromagnetic waves and oceanic?",
+                    "score": 0.5534,
+                    "answers": "on 16/03/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Assuming the difficulty of the task, A researcher those that have been found so far A researcher , has those that have been found so far published an article in which A researcher proposes a method to look for signs of technological development in other solar systems.",
+            "question_answers": [
+                {
+                    "question": "Who proposes a method to look for signs of technological development in other solar systems?",
+                    "answer": "A researcher"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the difficulty of a solar system?",
+                    "score": 0.6287,
+                    "answers": "Assuming the difficulty of the task|advcl\tthe difficulty of the task|dobj"
+                },
+                {
+                    "question": "How many researchers have been found in other solar systems?",
+                    "score": 0.6229,
+                    "answers": "A researcher those that have been found so far A researcher , has|dep"
+                },
+                {
+                    "question": "How many solar systems have been found?",
+                    "score": 0.6095,
+                    "answers": "solar|amod\tother solar systems|pobj"
+                },
+                {
+                    "question": "What is the method to look for signs of technological development in solar systems?",
+                    "score": 0.6028,
+                    "answers": "have|aux\tbeen|auxpass\tso|advmod\thave|aux\tbeen|auxpass\tso|advmod\tin other solar systems|prep"
+                },
+                {
+                    "question": "What is the study of solar systems?",
+                    "score": 0.5921,
+                    "answers": "of the task|prep"
+                }
+            ]
+        },
+        {
+            "claim": "A researcher proposes to analyze information collected by satellites such as Kepler, in charge of a massive search for extrasolar planets, in search of objects in Clarke's belt.",
+            "question_answers": [
+                {
+                    "question": "Who reported that a researcher proposes to analyze information collected by satellites such as Kepler?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of Kepler's search for planets?",
+                    "score": 0.6842,
+                    "answers": "such as Kepler , in charge of a massive search for extrasolar planets ,|prep\tfor extrasolar planets|prep\textrasolar planets|pobj"
+                },
+                {
+                    "question": "What is Clarke's belt?",
+                    "score": 0.6745,
+                    "answers": "in search of objects in Clarke 's belt|prep\tsearch of objects in Clarke 's belt|pobj\tof objects in Clarke 's belt|prep\tobjects in Clarke 's belt|pobj\tin Clarke 's belt|prep\tClarke 's|poss\tClarke 's belt|pobj"
+                },
+                {
+                    "question": "What is the search for space planets?",
+                    "score": 0.6302,
+                    "answers": "in charge of a massive search for extrasolar planets|prep\ta massive search for extrasolar planets|pobj"
+                },
+                {
+                    "question": "What is the purpose of the study of space?",
+                    "score": 0.5972,
+                    "answers": "elpais.com reported on 16/03/2018 that A researcher proposes to analyze information collected by satellites such as Kepler , in charge of a massive search for extrasolar planets , in search of objects in Clarke 's belt|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "This region, thus baptized in homage to writer Arthur C. Clarke, who proposed the use of the geostationary orbit for telecommunications, is a circular orbit of  kilometers above the equator that now occupy satellites such as the Meteosat.",
+            "question_answers": [
+                {
+                    "question": "Who reported on this region on 16/03/2018?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Clarke say about using geostationary orbit for telecommunications?",
+                    "score": 0.7693,
+                    "answers": "This region , thus baptized in homage to writer Arthur C. Clarke , who proposed the use of the geostationary orbit for telecommunications ,|nsubj"
+                },
+                {
+                    "question": "Where is the Meteosat located?",
+                    "score": 0.7103,
+                    "answers": "the equator|pobj"
+                },
+                {
+                    "question": "Who was Arthur C. Clarke?",
+                    "score": 0.6909,
+                    "answers": "writer|compound\tArthur|compound"
+                },
+                {
+                    "question": "What is the orbit of the meteosat?",
+                    "score": 0.6837,
+                    "answers": "a circular orbit of|attr\t  kilometers above the equator|dep\tkilometers above the equator|pobj"
+                },
+                {
+                    "question": "What is the Meteosat satellite?",
+                    "score": 0.6753,
+                    "answers": "that now occupy satellites such as the Meteosat|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In his work, published in The Astrohpysical Journal, he shows different simulations to determine what would be the footprint they would leave on the light of their star as they passed ahead of their planet.",
+            "question_answers": [
+                {
+                    "question": "Who reported that he showed different simulations to determine what would be the footprint they would leave on the light of their star as they passed ahead of their planet?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the author of the book \"The Astrohpysical Journal say about the footprint of stars?",
+                    "score": 0.5886,
+                    "answers": "Astrohpysical|compound"
+                },
+                {
+                    "question": "What is the footprint of a planet?",
+                    "score": 0.5537,
+                    "answers": "of their star|prep\ttheir star|pobj\tahead of their planet|advmod\tof their planet|prep"
+                },
+                {
+                    "question": "How many simulations did elpais.com do?",
+                    "score": 0.5458,
+                    "answers": "different|amod"
+                },
+                {
+                    "question": "What did elpais.com do to determine what would be the footprint on the light of a star?",
+                    "score": 0.5161,
+                    "answers": "they would leave on the light of their star as they passed ahead of their planet|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The text also explains how a belt of artificial satellites from natural rings could be distinguished from those around Saturn.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/03/2018 that The text also explains how a belt of artificial satellites could be distinguished from those around Saturn?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the text say about a belt of artificial satellites from natural rings from Saturn?",
+                    "score": 0.7951,
+                    "answers": "elpais.com reported on 16/03/2018 that The text also explains how a belt of artificial satellites from natural rings could be distinguished from those around Saturn|ROOT\ton 16/03/2018|prep\tthat The text also explains how a belt of artificial satellites from natural rings could be distinguished from those around Saturn|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'This search is also free, because it would be about searching for other things in the same data provided by satellites looking for exoplanets ', says Socas.",
+            "question_answers": [
+                {
+                    "question": "What are satellites looking for?",
+                    "answer": "exoplanets"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the cost of searching for other things in the same data as satellites looking for exoplanets?",
+                    "score": 0.7166,
+                    "answers": "free|acomp"
+                },
+                {
+                    "question": "What is the purpose of searching for exoplanets?",
+                    "score": 0.6819,
+                    "answers": "on 16/03/2018|prep\tfor other things|prep\tother things|pobj\tin the same data provided by satellites looking for exoplanets|prep\tthe same data provided by satellites looking for exoplanets|pobj\tsatellites looking for exoplanets|pobj\tlooking for exoplanets|acl\tfor exoplanets|prep\texoplanets|pobj"
+                },
+                {
+                    "question": "What is the search for exoplanets?",
+                    "score": 0.673,
+                    "answers": "This search|nsubj\tby satellites looking for exoplanets|agent"
+                }
+            ]
+        },
+        {
+            "claim": "'The work would be done in two phases, a first search phase and a confirmation phase.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/03/2018 that 'The work would be done in two phases, a first search phase and a confirmation phase'?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the first phase of the project supposed to start?",
+                    "score": 0.6624,
+                    "answers": "elpais.com reported on 16/03/2018 that ' The work would be done in two phases , a first search phase and a confirmation phase|ROOT"
+                },
+                {
+                    "question": "How long did it take for the project to be completed?",
+                    "score": 0.6112,
+                    "answers": "The|det\t,|punct"
+                },
+                {
+                    "question": "How many phase would it take to confirm the results of the first search phase?",
+                    "score": 0.5678,
+                    "answers": "in two phases , a first search phase and a confirmation phase|prep"
+                },
+                {
+                    "question": "What is the process for confirmation phase of the project?",
+                    "score": 0.5369,
+                    "answers": "on 16/03/2018|prep"
+                },
+                {
+                    "question": "What is the purpose of the search phase?",
+                    "score": 0.5216,
+                    "answers": "search|compound"
+                }
+            ]
+        },
+        {
+            "claim": "First you have missions like Kepler that look at thousands of stars.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the first mission that looks at thousands of stars?",
+                    "answer": "Kepler"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many stars does Kepler have?",
+                    "score": 0.9006,
+                    "answers": "that|mark\tyou|nsubj\tthat|nsubj\tat thousands of stars|prep\tthousands of stars|pobj\tof stars|prep\tstars|pobj"
+                },
+                {
+                    "question": "What is Kepler?",
+                    "score": 0.806,
+                    "answers": "on 16/03/2018|prep\tlike Kepler|prep\tthat look at thousands of stars|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Once you have an interesting candidate, it would be a question of directing to that star very powerful telescopes such as the James Webb space [to be launched in ] or the Thirty Meter Telescope ', explains the IAC researcher.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the telescope to be launched in 2018?",
+                    "answer": "Thirty Meter Telescope"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of directing to star very powerful telescopes such as the James Webb space?",
+                    "score": 0.6867,
+                    "answers": "interesting|amod\tan interesting candidate|dobj"
+                },
+                {
+                    "question": "Who is the IAC researcher?",
+                    "score": 0.5497,
+                    "answers": "the IAC researcher|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "This new generation of telescopes will help solve a mystery about extrasolar planets.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the new generation of telescopes will help solve a mystery about extrasolar planets?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will the new telescopes solve a mystery about extrasolar planets?",
+                    "score": 0.8495,
+                    "answers": "that|mark\tThis|det\tnew|amod\tof telescopes|prep\ttelescopes|pobj\twill|aux\tthat This new generation of telescopes will help solve a mystery about extrasolar planets|ccomp\ta|det\textrasolar|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Of those that have been found so far, only one of them has rings, a supersaturne with monstrous rings that could actually be the raw material of a forming moon.",
+            "question_answers": [
+                {
+                    "question": "Who reported that of the supersaturnes found so far, only one has rings?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many rings are found on a forming moon?",
+                    "score": 0.7366,
+                    "answers": "the raw material of a forming moon|attr\ta forming moon|pobj"
+                },
+                {
+                    "question": "How many rings can be found on a moon?",
+                    "score": 0.7256,
+                    "answers": "raw|amod"
+                },
+                {
+                    "question": "How many rings have been found on the moon?",
+                    "score": 0.7149,
+                    "answers": "Of those that have been found so far|prep\tthose that have been found so far|pobj\tOf those that have been found so far only one of them|nsubj"
+                },
+                {
+                    "question": "What are the ring rings on a moon?",
+                    "score": 0.6769,
+                    "answers": "rings , a supersaturne with monstrous rings that could actually be the raw material of a forming moon|dobj\tmonstrous|amod\tforming|amod"
+                },
+                {
+                    "question": "What is the raw material of a forming moon?",
+                    "score": 0.6529,
+                    "answers": "that could actually be the raw material of a forming moon|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "'This may be because the search for exoplanets is very focused on planets close to their star and not beyond the ice line that, as in the Solar System, is where the planets with rings are found ', points Socas.",
+            "question_answers": [
+                {
+                    "question": "What does elpais.com say about planets in the Solar System?",
+                    "answer": "where the planets with rings are found"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the search for exoplanets?",
+                    "score": 0.7315,
+                    "answers": "on 16/03/2018|prep\tThis may be because the search for exoplanets is very focused on planets close to their star and not beyond the ice line that , as in the Solar System , is where the planets with rings are found|ccomp\tthe search for exoplanets|nsubj\tfor exoplanets|prep\texoplanets|pobj\tbecause the search for exoplanets is very focused on planets close to their star and not beyond the ice line that , as in the Solar System , is where the planets with rings are found|advcl"
+                },
+                {
+                    "question": "How many planets have rings close to their star?",
+                    "score": 0.6835,
+                    "answers": "ice|compound"
+                },
+                {
+                    "question": "What is the purpose of looking for planets close to stars?",
+                    "score": 0.5933,
+                    "answers": "in the Solar System|prep"
+                },
+                {
+                    "question": "What is the ice line in the Solar System?",
+                    "score": 0.5932,
+                    "answers": "the ice line that , as in the Solar System , is where the planets with rings are found|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "On these worlds, no moon has yet been found to orbit them.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/03/2018 that on these worlds, no moon has been found to orbit them?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many moon has been found to orbit the moon?",
+                    "score": 0.8427,
+                    "answers": "on 16/03/2018|prep\tthat|mark\tthese|det\t,|punct\tno|det\thas|aux\tyet|advmod\tbeen|auxpass\tthat On these worlds , no moon has yet been found to orbit them|ccomp\tto|aux\tthem|dobj"
+                },
+                {
+                    "question": "What is the moon's orbit?",
+                    "score": 0.8126,
+                    "answers": "these worlds|pobj\tno moon|nsubjpass"
+                },
+                {
+                    "question": "What is the purpose of orbiting a moon?",
+                    "score": 0.7965,
+                    "answers": "to orbit them|advcl"
+                },
+                {
+                    "question": "What is the orbit of the moon?",
+                    "score": 0.7847,
+                    "answers": "On these worlds|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The difficulty of looking for what you want to find at the right time is reflected when you turn to the idea of Socas 'If you look at us from another planet in search of technology created by intelligent life, you would see nothing ', he says.",
+            "question_answers": [
+                {
+                    "question": "What would you see if you looked at us from another planet in search of technology created by intelligent life?",
+                    "answer": "nothing"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the meaning of the idea of Socas?",
+                    "score": 0.5792,
+                    "answers": "the idea of Socas|pobj\tof Socas|prep"
+                },
+                {
+                    "question": "What is the difficulty of looking for what to find at the right time?",
+                    "score": 0.5338,
+                    "answers": "elpais.com reported on 16/03/2018 that The difficulty of looking for you want what to find at the right time is reflected when you turn to the idea of Socas ' If you look at us from another planet in search of technology created by intelligent life , you would see nothing ' , he says|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'At the current rate of occupancy of the geostationary orbit we would be detectable in the year  ', concludes.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 16/03/2018?",
+                    "answer": "'At the current rate of occupancy of the geostationary orbit we would be detectable in the year"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current rate of occupancy of geostationary orbit?",
+                    "score": 0.7232,
+                    "answers": "elpais.com reported on 16/03/2018 that ' At the current rate of occupancy of the geostationary orbit we would be detectable in the year  |ccomp\ton 16/03/2018|prep\tthat|mark\t'|punct\tAt the current rate of occupancy of the geostationary orbit|prep\tthe|det\tcurrent|amod\tthe current rate of occupancy of the geostationary orbit|pobj\tof occupancy of the geostationary orbit|prep\toccupancy of the geostationary orbit|pobj\tof the geostationary orbit|prep\tthe|det\tgeostationary|amod\twe|nsubj\twould|aux\tthat ' At the current rate of occupancy of the geostationary orbit we would be detectable in the year|ccomp\tdetectable|acomp\tin the year|prep\tthe|det\t |dep\t'|punct\t,|punct\telpais.com reported on 16/03/2018 that ' At the current rate of occupancy of the geostationary orbit we would be detectable in the year   ' , concludes|ROOT"
+                }
+            ]
+        }
+    ]
+}

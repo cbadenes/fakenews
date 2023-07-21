@@ -1,0 +1,1059 @@
+{
+    "id": "143_Science_122",
+    "claim": "The popular instant messaging app changes for the first time in four years its terms of use of the platform Few companies are able to invest (or spend)  millions of euros in an app for mobile devices. Few, to say the least, would see business in such a financial operation. Facebook did. In , when he decided to acquire WhatsApp. And because it had a clear goal from the beginning: to get the data of millions and millions of users, people with names and surnames, to boost their advertising strategy and get to know them even more. And it has before it a real gold mine: personal information of numerous people who, innocently, give away their digital life for free to the highest bidder. And everything, to improve the service, says the American company. To improve, an euphemism to guarantee the future as advertising business, that in last trimester have helped him to win the cold sum of  million euros. There's nothing there. Internet giants often, if not always, come to an ambiguous narrative and legal style for the presentation of the conditions of use of their services, many of them, platforms that are part of the daily life of many people. After four years of silence we are facing the first update of WhatsApp in this sense, caused precisely by this fusion with Facebook. The problem is that there is an important vice of base already in the beginning, which is how you consent to the transfer of your data, assures this newspaper Sergio Carrasco, lawyer specialized in technological law in Phase Consulting. The European narrative in data protection - this expert recalls - is trying to reinforce the idea of express consent for this type of case where the protocols for the use of these services are changed which, as is taken for granted, almost no one usually reads them exhaustively. WhatsApp's strategy (and therefore Facebook) has been to submit a form whose box is activated by default, something illegal according to the experts consulted, and which is also not in the first layer to give this authorization. It is in the small print, in the nuances, where the business is located. Consent has to be express and should not be marked by default, that is totally forbidden. The fact is that the user has no knowledge of the scope of the data that it is allowing. One of the terms shared are the ones that identify your device, so through the internet the system can know where your device is and create a better profile, as well as the contact calendar to create a huge network of contacts, explains this expert. The situation goes even further, since, from now on, Facebook will have in its possession a billion phone numbers coming from WhatsApp users and, in turn, others as the app has access to the contact agenda of the devices. Legally it is not so easy to obtain this data, that is why they hide the authorization, to grant them by default, insists. While it is true, accepting the terms of use is optional, since later, the user can go to Settings/Account of the application and revoke access, but this operation will only be available within the first thirty days of receiving the form. One of the first criticisms about this is the fear that Facebook, an increasingly large giant, will now have the phone number. Even if it's kind of petty and banal, many users are concerned about the fact that you can share it with your advertisers. But this is not a novelty. In the vast majority of cases, Facebook already has your mobile phone, for more than a year. The novelty is that now Facebook will have some data on how and with whom you use your Whatsapp. Therefore, the change will influence the first one more than the second, considers Bruno Vázquez-Dodero, director of AulaCM, School of Communication and Digital Marketing. In his opinion, the only new development in the use of this messaging application is that perhaps we can receive some private message about something of our interest. The company itself has set a confusing example of a possible delay in a flight and how it would be interesting for everyone to report to us via WhatsApp. And I'm saying this case is confusing because it's still about to see how Facebook will know that we had that flight. In any case, this was actually already happening in some cases when we gave the mobile phone to the flight company, he says. Facebook is interested in being less intrusive and more relevant and interesting to its users, he adds, while considering that with these novelties the company gets two things: on the one hand, to suggest better contacts to users according to their WhatsApp agenda and, on the other, to show more interesting ads to Facebook users. What will happen now then?I don't think it should affect much. A priori what's going to happen is that Facebook will recommend some friends and show you the posts of those you talk to more about Whatsapp. You always have the chance not to add those friends and hide the posts of someone you don't want to see on Facebook. For the time being, and in order to reassure the less benevolent users with this type of movement of the sector, the Spanish Data Protection Agency has indicated that it will closely monitor the new terms of use of this popular application. As usual when concerns arise regarding the impact on privacy and data protection of citizens, we are studying the changes introduced by the courier company in its terms of use and privacy policy, advance sources of the national regulator. I'm sorry.",
+    "source": "www.abc.es",
+    "date": "25/09/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The popular instant messaging app I The popular instant messaging app changes this data the first time they four years Facebook of use of the we Few companies are able to invest (or spend)  millions Sergio Carrasco, lawyer specialized in technological law in Phase Consulting .",
+            "question_answers": [
+                {
+                    "question": "What was the first time the popular instant messaging app changed this data?",
+                    "answer": "the first time they four years"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is Facebook able to invest or spend on instant messaging apps?",
+                    "score": 0.7835,
+                    "answers": "Few|amod\table to invest ( or spend )|acomp"
+                },
+                {
+                    "question": "How much money did Facebook invest in instant messaging app I The Great Messaging app?",
+                    "score": 0.7617,
+                    "answers": "they four years Facebook of use of the we|appos"
+                },
+                {
+                    "question": "How many companies use I The instant messaging app?",
+                    "score": 0.6995,
+                    "answers": "Few companies|nsubj"
+                },
+                {
+                    "question": "What is the purpose of the instant messaging app IThe instant messaging?",
+                    "score": 0.6677,
+                    "answers": "www.abc.es|nsubj"
+                },
+                {
+                    "question": "What did Carrasco specialize in technological law in Phase Consulting?",
+                    "score": 0.6391,
+                    "answers": "Sergio Carrasco , lawyer specialized in technological law in Phase Consulting|nsubj\tin technological law|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Sergio Carrasco, lawyer specialized in technological law in Phase Consulting I Facebook a revoke operation.",
+            "question_answers": [
+                {
+                    "question": "What company did Sergio Carrasco work for?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Carrasco specialize in?",
+                    "score": 0.6925,
+                    "answers": "Sergio Carrasco , lawyer specialized in technological law in Phase Consulting I Facebook|nsubj"
+                },
+                {
+                    "question": "What did Carrasco do with Phase Consulting I Facebook?",
+                    "score": 0.6222,
+                    "answers": "that|mark\tSergio|compound\t,|punct\tPhase|compound\tFacebook|pobj\trevoke|amod"
+                },
+                {
+                    "question": "What is technological law?",
+                    "score": 0.485,
+                    "answers": "technological law|pobj"
+                },
+                {
+                    "question": "What is the relationship between technological law and technological law?",
+                    "score": 0.4721,
+                    "answers": "in technological law|prep"
+                }
+            ]
+        },
+        {
+            "claim": "revoke .",
+            "question_answers": [
+                {
+                    "question": "On what date did www.abc.es revoke their license?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who revoked the program?",
+                    "score": 0.7963,
+                    "answers": "www.abc.es said on 25/09/2017 that revoke|ROOT"
+                },
+                {
+                    "question": "What does ABC.es do?",
+                    "score": 0.7719,
+                    "answers": "www.abc.es|nsubj"
+                },
+                {
+                    "question": "What is the revoke program?",
+                    "score": 0.6939,
+                    "answers": "that revoke|ccomp"
+                },
+                {
+                    "question": "What is the relationship between revoke and revoke?",
+                    "score": 0.6888,
+                    "answers": "on 25/09/2017|prep\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "Sergio Carrasco, lawyer specialized in technological law in Phase Consulting when Facebook decided to acquire The popular instant messaging app .",
+            "question_answers": [
+                {
+                    "question": "What app did Facebook acquire?",
+                    "answer": "instant messaging"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Facebook do with the instant messaging app?",
+                    "score": 0.7927,
+                    "answers": "when Facebook decided to acquire The popular instant messaging app|advcl\tto acquire The popular instant messaging app|xcomp"
+                },
+                {
+                    "question": "What did Carrasco specialize in technological law?",
+                    "score": 0.7524,
+                    "answers": "in technological law|prep\ttechnological|amod"
+                },
+                {
+                    "question": "What is the name of the popular instant messaging app?",
+                    "score": 0.6905,
+                    "answers": "The popular instant messaging app|dobj"
+                },
+                {
+                    "question": "What is technological law?",
+                    "score": 0.5655,
+                    "answers": "technological law|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "And because Facebook had a clear goal from the beginning: the protocols for the use of these services Facebook the protocols for the use of these services they millions and millions of users, people with names and surnames , to users the phone number WhatsApp the protocols for the use of these services get to know WhatsApp's more.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the people who use WhatsApp's services?",
+                    "answer": "people with names and surnames"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Facebook's goal with using protocols for the use of Facebook services?",
+                    "score": 0.78,
+                    "answers": "because Facebook had a clear goal from the beginning :|advcl"
+                },
+                {
+                    "question": "What are Facebook's protocols for using social media?",
+                    "score": 0.7642,
+                    "answers": "these services|pobj\tthese services|pobj\tnames and surnames|pobj\tsurnames|conj\tto users|prep\tthese services|pobj"
+                },
+                {
+                    "question": "What are the protocols for using Facebook's protocols?",
+                    "score": 0.7444,
+                    "answers": "that|mark\tAnd|cc\tthe|det\t:|punct\tthe|det\tthe|det\tthe|det\tthe|det\tand|cc\tof users|prep\t,|punct\tpeople with names and surnames|appos\tand|cc\t,|punct\tthe|det\tthe|det\tthe|det\tto|aux"
+                },
+                {
+                    "question": "What is Facebook's relationship with WhatsApp?",
+                    "score": 0.711,
+                    "answers": "on 25/09/2017|prep\tWhatsApp 's more|dobj\t's|case"
+                }
+            ]
+        },
+        {
+            "claim": "And Facebook has before Facebook Facebook Facebook : personal share of numerous people who, innocently, give away their digital life for free to the highest bidder share numerous people who, innocently, give away their digital life for free to the highest bidder they Facebook .",
+            "question_answers": [
+                {
+                    "question": "What did www.abc.es say Facebook has before?",
+                    "answer": "Facebook Facebook Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Facebook do to give away digital life for free to the highest bidder?",
+                    "score": 0.7888,
+                    "answers": "before Facebook Facebook Facebook|prep"
+                },
+                {
+                    "question": "What is Facebook?",
+                    "score": 0.7405,
+                    "answers": "Facebook Facebook Facebook|pobj\tFacebook Facebook|appos"
+                }
+            ]
+        },
+        {
+            "claim": "And everythingsome friends the service, says Facebook .",
+            "question_answers": [
+                {
+                    "question": "What is the name of the service that www.abc.es said on 25/09/2017?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many friends does Facebook have?",
+                    "score": 0.8031,
+                    "answers": "www.abc.es said on 25/09/2017 that And everythingsome friends the service|ccomp\teverythingsome|npadvmod\tfriends|dep\tthat And everythingsome friends the service|dobj"
+                },
+                {
+                    "question": "What are the functions of Facebook?",
+                    "score": 0.6621,
+                    "answers": "www.abc.es|nsubj\ton 25/09/2017|prep"
+                },
+                {
+                    "question": "What is the relationship between Facebook and allthingsome friends?",
+                    "score": 0.6418,
+                    "answers": "www.abc.es said on 25/09/2017 that And everythingsome friends the service , says Facebook|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "they , an WhatsApp to guarantee the future as advertising some friends that in last trimester have helped Facebook to win the cold sum Facebook euros.",
+            "question_answers": [
+                {
+                    "question": "What did www.abc.es say on 25/09/2017?",
+                    "answer": "they"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Facebook do to win the cold sum Facebook euros?",
+                    "score": 0.6865,
+                    "answers": "as advertising some friends that in last trimester have helped Facebook to win the cold sum Facebook euros|prep\tsome friends that in last trimester have helped Facebook to win the cold sum Facebook euros|appos\tthe cold sum Facebook euros|dobj"
+                },
+                {
+                    "question": "What is Facebook's relationship with Facebook?",
+                    "score": 0.6729,
+                    "answers": "Facebook euros|appos"
+                },
+                {
+                    "question": "What is the relationship between WhatsApp and Facebook?",
+                    "score": 0.6082,
+                    "answers": "www.abc.es said on 25/09/2017 that they , an WhatsApp to guarantee the future as advertising some friends that in last trimester have helped Facebook to win the cold sum Facebook euros|ROOT\ton 25/09/2017|prep\tthat|mark\tthey , an WhatsApp|nsubj\t,|punct\tto|aux\tthat they , an WhatsApp to guarantee the future as advertising some friends that in last trimester have helped Facebook to win the cold sum Facebook euros|ccomp\tthe|det\tthe future|dobj\tadvertising|pcomp\tsome|det\tthat|nsubj\tlast|amod\thave|aux\tto|aux\tthe|det\tcold|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Bruno Vázquez-Dodero, director of AulaCM, School of Communication and Digital Marketing and Bruno Vázquez-Dodero, director of AulaCM, School of Communication and Digital Marketing the Spanish Data Protection Agency conditions the application many of Internet giants , platforms that are WhatsApp of many people.",
+            "question_answers": [
+                {
+                    "question": "What are the platforms that are WhatsApp of many people?",
+                    "answer": "many of Internet giants"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Spanish Data Protection Agency say about using WhatsApp?",
+                    "score": 0.6547,
+                    "answers": "on 25/09/2017|prep"
+                },
+                {
+                    "question": "How many people use WhatsApp?",
+                    "score": 0.5797,
+                    "answers": "WhatsApp of many people|attr"
+                },
+                {
+                    "question": "What are the functions of the WhatsApp platform?",
+                    "score": 0.567,
+                    "answers": "many of Internet giants , platforms that are WhatsApp of many people|appos"
+                },
+                {
+                    "question": "What is the application of WhatsApp?",
+                    "score": 0.5536,
+                    "answers": "the application many of Internet giants , platforms that are WhatsApp of many people|dobj"
+                },
+                {
+                    "question": "Who is Bruno Vázquez-Dodero?",
+                    "score": 0.5509,
+                    "answers": "Bruno|compound\tVázquez|compound\tBruno Vázquez - Dodero , director of AulaCM , School of Communication and Digital Marketing and Bruno Vázquez - Dodero , director of AulaCM , School of Communication and Digital Marketing the Spanish Data Protection Agency|nsubj\tBruno|compound\tVázquez|compound\tBruno Vázquez - Dodero , director of AulaCM , School of Communication and Digital Marketing|conj\tthat Bruno Vázquez - Dodero , director of AulaCM , School of Communication and Digital Marketing and Bruno Vázquez - Dodero , director of AulaCM , School of Communication and Digital Marketing the Spanish Data Protection Agency conditions the application many of Internet giants , platforms that are WhatsApp of many people|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "After four years they facing the first update of The popular instant messaging app in this the Spanish Data Protection Agency Sergio Carrasco, lawyer specialized in technological law in Phase Consulting precisely by this fusion with the courier company .",
+            "question_answers": [
+                {
+                    "question": "What agency did Sergio Carrasco work for?",
+                    "answer": "the Spanish Data Protection Agency"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the first update of the popular instant messaging app?",
+                    "score": 0.7463,
+                    "answers": "the first update of The popular instant messaging app|dobj"
+                },
+                {
+                    "question": "What did Carrasco do with the Spanish Data Protection Agency?",
+                    "score": 0.6896,
+                    "answers": "messaging|compound\t,|punct\tPhase|compound\tcourier|compound"
+                },
+                {
+                    "question": "What did Carrasco specialize in technological law in Phase consulting?",
+                    "score": 0.6866,
+                    "answers": "Sergio Carrasco , lawyer specialized in technological law in Phase Consulting|dobj"
+                },
+                {
+                    "question": "What is the history of the Spanish instant messaging app?",
+                    "score": 0.6559,
+                    "answers": "www.abc.es said on 25/09/2017 that After four years they facing the first update of The popular instant messaging app in this the Spanish Data Protection Agency Sergio Carrasco , lawyer specialized in technological law in Phase Consulting precisely by this fusion with the courier company|ROOT\ton 25/09/2017|prep\tthat After four years they facing the first update of The popular instant messaging app in this the Spanish Data Protection Agency|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the courier company and the instant messaging app?",
+                    "score": 0.5911,
+                    "answers": "precisely by this fusion with the courier company|prep\tthis fusion with the courier company|pobj\twith the courier company|prep\tthe courier company|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "the courier company Facebook the application vice of base already in the Spanish Data Protection Agency WhatsApp's consent to the transfer of your WhatsApp's , assures this newspaper Sergio Carrasco, lawyer specialized in technological law in Phase Consulting.",
+            "question_answers": [
+                {
+                    "question": "What did the courier company Facebook the application vice of base already in the Spanish Data Protection Agency?",
+                    "answer": "WhatsApp's consent to the transfer of your WhatsApp's"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of WhatsApp's permission to transfer your WhatsApp's?",
+                    "score": 0.6251,
+                    "answers": "Spanish|amod"
+                },
+                {
+                    "question": "What did Carrasco specialize in?",
+                    "score": 0.6202,
+                    "answers": "specialized in technological law in Phase Consulting|acl"
+                },
+                {
+                    "question": "What is the profession of Sergio Carrasco?",
+                    "score": 0.5385,
+                    "answers": "lawyer specialized in technological law in Phase Consulting|appos"
+                },
+                {
+                    "question": "What is Facebook's relationship with WhatsApp?",
+                    "score": 0.5308,
+                    "answers": "the courier company Facebook the application vice of base already in the Spanish Data Protection Agency WhatsApp 's consent to the transfer of your WhatsApp 's|nsubj\tFacebook the application vice|appos\tbase|pobj\tWhatsApp 's consent to the transfer of your WhatsApp 's|pobj"
+                },
+                {
+                    "question": "What is WhatsApp's relationship with Facebook?",
+                    "score": 0.5298,
+                    "answers": "Data Protection|compound\tWhatsApp 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "The European narrative in data protection - this expert recalls - is trying to reinforce the idea of express consent for this type of case where the protocols for the use of these services are changed which, as is taken for granted, almost no one usually reads them exhaustively.",
+            "question_answers": [
+                {
+                    "question": "What is the European narrative in data protection trying to reinforce?",
+                    "answer": "the idea of express consent for this type of case where the protocols for the use of these services are changed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of express consent for data protection?",
+                    "score": 0.6876,
+                    "answers": "almost no|nummod\talmost no one|nsubj\texhaustively|advmod"
+                },
+                {
+                    "question": "What is the European narrative in data protection?",
+                    "score": 0.6752,
+                    "answers": "www.abc.es said on 25/09/2017 that The European narrative in data protection - this expert recalls - is trying to reinforce the idea of express consent for this type of case where the protocols for the use of these services are changed which , as is taken for granted , almost no one usually reads them exhaustively|ROOT\ton 25/09/2017|prep\tthat|mark\tThe|det\tThe European narrative in data protection|nsubj\tin data protection|prep\tdata|compound\tdata protection|pobj\t-|punct\tthis|det\tthis expert|nsubj\t- this expert recalls -|parataxis\t-|punct\tis|aux\tthat The European narrative in data protection - this expert recalls - is trying to reinforce the idea of express consent for this type of case where the protocols for the use of these services are changed which , as is taken for granted , almost no one usually reads them exhaustively|ccomp\tto|aux\tthe|det\tof express consent for this type of case where the protocols for the use of these services are changed which , as is taken for granted , almost no one usually reads them exhaustively|prep\texpress|amod\tthis|det\tof case|prep\tcase|pobj\twhere|advmod\tthe|det\tfor the use of these services|prep\tthe|det\tthe use of these services|pobj\tof these services|prep\tthese|det\tthese services|pobj\tare|auxpass\twhich|dep\t,|punct\tas|mark\tis|auxpass\tas is taken for granted|advcl\tfor|mark\tfor granted|advcl\t,|punct\tthem|dobj"
+                },
+                {
+                    "question": "What are the protocols for the use of these services?",
+                    "score": 0.6409,
+                    "answers": "for this type of case where the protocols for the use of these services are changed which , as is taken for granted , almost no one usually reads them exhaustively|prep\tthis type of case where the protocols for the use of these services are changed which , as is taken for granted , almost no one usually reads them exhaustively|pobj\tthe protocols for the use of these services|nsubjpass\twhere the protocols for the use of these services are changed which , as is taken for granted , almost no one usually reads them exhaustively|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "WhatsApp's strategy (and therefore Facebook) has been to submit a form whose box is activated by default, something illegal according to the experts consulted, and which is also not in the first layer to give this authorization.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that WhatsApp's strategy was to submit a form whose box was activated by default?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Facebook's ability to submit a form whose box is activated by default?",
+                    "score": 0.7718,
+                    "answers": "in the first layer|prep\tthe first layer|pobj\tto give this authorization|advcl\tthis authorization|dobj"
+                },
+                {
+                    "question": "What did the experts say about WhatsApp's strategy?",
+                    "score": 0.7535,
+                    "answers": "something illegal according to the experts consulted , and which is also not in the first layer to give this authorization|appos"
+                },
+                {
+                    "question": "What is the definition of an illegal email spam?",
+                    "score": 0.73,
+                    "answers": "illegal according to the experts consulted|amod"
+                },
+                {
+                    "question": "What is the default form for WhatsApp's strategy and therefore Facebook?",
+                    "score": 0.7103,
+                    "answers": "default|pobj"
+                },
+                {
+                    "question": "What is WhatsApp's strategy?",
+                    "score": 0.6987,
+                    "answers": "that WhatsApp 's strategy ( and therefore Facebook ) has been to submit a form whose box something illegal according to the experts consulted , and which is also not in the first layer to give this authorization is activated by default ,|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It is in the small print, in the nuances, where the business is located.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that it is in the small print, in the nuances, where the business is located?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is in the small print?",
+                    "score": 0.6967,
+                    "answers": "in the small print , in the nuances ,|prep"
+                },
+                {
+                    "question": "Where is the business located?",
+                    "score": 0.6739,
+                    "answers": "www.abc.es said on 25/09/2017 that It is in the small print , in the nuances , where the business is located|ROOT\tthat|mark\tIt|nsubj\tthat It is in the small print , in the nuances , where the business is located|ccomp\tthe|det\tsmall|amod\tthe small print|pobj\t,|punct\tin the nuances|prep\tthe|det\tthe nuances|pobj\t,|punct\twhere|advmod\tthe|det\tthe business|nsubjpass\tis|auxpass\twhere the business is located|ccomp"
+                },
+                {
+                    "question": "Where is the ABC business located?",
+                    "score": 0.6574,
+                    "answers": "www.abc.es|nsubj"
+                },
+                {
+                    "question": "What is the name of the business where it is located?",
+                    "score": 0.6064,
+                    "answers": "on 25/09/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Consent has to be express and should not be marked by default, that is totally forbidden.",
+            "question_answers": [
+                {
+                    "question": "What type of Consent has to be?",
+                    "answer": "express"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the definition of Consent?",
+                    "score": 0.6937,
+                    "answers": "on 25/09/2017|prep"
+                },
+                {
+                    "question": "What must be express and should not be marked by default?",
+                    "score": 0.6618,
+                    "answers": "Consent|nsubj"
+                },
+                {
+                    "question": "What is default?",
+                    "score": 0.6284,
+                    "answers": "default|pobj"
+                },
+                {
+                    "question": "What is the meaning of express and not marked by default?",
+                    "score": 0.5935,
+                    "answers": "Consent has to be express and should not be marked by default|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The fact is that the user has no knowledge of the scope of the data that it is allowing.",
+            "question_answers": [
+                {
+                    "question": "What did www.abc.es say on 25/09/2017?",
+                    "answer": "the user has no knowledge of the scope of the data"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the scope of a user's data?",
+                    "score": 0.7268,
+                    "answers": "that The fact is that the user has no knowledge of the scope of the data that it is allowing|ccomp"
+                },
+                {
+                    "question": "What are the functions of a user?",
+                    "score": 0.6555,
+                    "answers": "the user|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "One of the terms shared are the ones that identify your device, so through the internet the system can know where your device is and create a better profile, as well as the contact calendar to create a huge network of contacts, explains this expert.",
+            "question_answers": [
+                {
+                    "question": "How does the system know where your device is?",
+                    "answer": "through the internet"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the terms shared by the internet to identify your device?",
+                    "score": 0.6517,
+                    "answers": "that|mark\tthe|det\tthe|det\tthat|nsubj\tyour|poss\t,|punct\tthe|det\tthe|det\twhere|advmod\tyour|poss\tand|cc\ta|det\tbetter|amod\t,|punct\tas|advmod\twell|advmod\tthe|det\ta|det\thuge|amod\t,|punct\tthis|det"
+                },
+                {
+                    "question": "What are the best ways to identify your device and create a network of contacts?",
+                    "score": 0.6355,
+                    "answers": "www.abc.es said on 25/09/2017 that One of the terms shared are the ones that identify your device , so through the internet the system can know where your device is and create a better profile , as well as the contact calendar to create a huge network of contacts|ccomp"
+                },
+                {
+                    "question": "What is a contact calendar?",
+                    "score": 0.625,
+                    "answers": "a better profile , as well as the contact calendar|dobj\tcontact|compound\ta huge network of contacts|dobj\tof contacts|prep\tcontacts|pobj"
+                },
+                {
+                    "question": "What is the contact calendar?",
+                    "score": 0.6126,
+                    "answers": "the contact calendar|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The situation goes even further, since, from now on, Facebook will have in its possession a billion phone numbers coming from WhatsApp users and, in turn, others as the app has access to the contact agenda of the devices.",
+            "question_answers": [
+                {
+                    "question": "How many phone numbers will Facebook have in its possession from WhatsApp users?",
+                    "answer": "a billion"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many phone numbers does Facebook have?",
+                    "score": 0.7581,
+                    "answers": "www.abc.es said on 25/09/2017 that The situation goes even further , since , from now on , Facebook will have in its possession a billion phone numbers coming from WhatsApp users and , in turn , others as the app has access to the contact agenda of the devices|ROOT\ton 25/09/2017|prep\tthat|mark\tThe|det\tThe situation|nsubj\tthat The situation goes even further , since , from now on , Facebook will have in its possession a billion phone numbers coming from WhatsApp users and , in turn , others as the app has access to the contact agenda of the devices|ccomp\teven|advmod\teven further|advmod\t,|punct\tsince|mark\t,|punct\tfrom now on|prep\tnow|advmod\tnow on|pcomp\t,|punct\twill|aux\tsince , from now on , Facebook will have in its possession a billion phone numbers coming from WhatsApp users and , in turn , others as the app has access to the contact agenda of the devices|advcl\tin its possession|prep\tits|poss\tits possession|pobj\ta|quantmod\ta billion|nummod\tphone|compound\ta billion phone numbers coming from WhatsApp users and , in turn , others|dobj\tcoming from WhatsApp users and , in turn , others|acl\tfrom WhatsApp users and , in turn , others|prep\tWhatsApp users and , in turn , others|pobj\tand|cc\t,|punct\tin turn , others|prep\tturn|pobj\t,|punct\tothers|pobj\tas|mark\tthe|det\tthe app|nsubj\tas the app has access to the contact agenda of the devices|advcl\tthe|det\tcontact|compound\tof the devices|prep\tthe|det\tthe devices|pobj"
+                },
+                {
+                    "question": "What are the contact agendas of Facebook devices?",
+                    "score": 0.6836,
+                    "answers": "access to the contact agenda of the devices|dobj\tto the contact agenda of the devices|prep\tthe contact agenda of the devices|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Legally it is not so easy to obtain this data, that is why they hide the authorization, to grant them by default, insists.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that Legally it is not so easy to obtain this data?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How easy is it to obtain this data?",
+                    "score": 0.8252,
+                    "answers": "Legally it is not so easy to obtain this data|ccomp\tto obtain this data|xcomp\tthis data|dobj"
+                },
+                {
+                    "question": "What is the method used to obtain the data?",
+                    "score": 0.7122,
+                    "answers": "by default|prep"
+                },
+                {
+                    "question": "What is the process used to obtain this information?",
+                    "score": 0.6789,
+                    "answers": "to grant them by default|dep"
+                },
+                {
+                    "question": "What is the source of evidence of the authorization for Legally it is not so easy to obtain?",
+                    "score": 0.652,
+                    "answers": "why they hide the authorization|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "While it is true, accepting the terms of use is optional, since later, the user can go to Settings/Account of the application and revoke access, but this operation will only be available within the first thirty days of receiving the form.",
+            "question_answers": [
+                {
+                    "question": "When will the revoke of access be available?",
+                    "answer": "within the first thirty days"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long does it take to revoke access to an application?",
+                    "score": 0.6712,
+                    "answers": "of the application|prep"
+                },
+                {
+                    "question": "What is accepting the terms of use optional?",
+                    "score": 0.6089,
+                    "answers": "accepting the terms of use|csubj"
+                },
+                {
+                    "question": "What is the process for accepting terms of use and revoke access?",
+                    "score": 0.6007,
+                    "answers": "can|aux"
+                }
+            ]
+        },
+        {
+            "claim": "One of the first criticisms about this is the fear that Facebook, an increasingly large giant, will now have the phone number.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that one of the first criticisms was about Facebook?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the first criticisms about Facebook's phone number?",
+                    "score": 0.7695,
+                    "answers": "of the first criticisms about this|prep\tthe first criticisms about this|pobj"
+                },
+                {
+                    "question": "What are the first criticisms of Facebook having the phone number?",
+                    "score": 0.7625,
+                    "answers": "that One of the first criticisms about this is the fear that Facebook , an increasingly large giant , will now have the phone number|ccomp"
+                },
+                {
+                    "question": "What is Facebook's phone number?",
+                    "score": 0.7382,
+                    "answers": "that|mark\tthe|det\tabout this|prep\tthis|pobj\tthe|det\tthat|mark\tFacebook , an increasingly large giant ,|nsubj\t,|punct\tan|det\tincreasingly|advmod\tincreasingly large|amod\t,|punct\twill|aux\tnow|advmod\tthat Facebook , an increasingly large giant , will now have the phone number|acl\tthe|det\tphone|compound\tthe phone number|dobj"
+                },
+                {
+                    "question": "What is the phone number of Facebook?",
+                    "score": 0.727,
+                    "answers": "on 25/09/2017|prep\tan increasingly large giant|appos"
+                },
+                {
+                    "question": "What is the relationship between Facebook and the phone number?",
+                    "score": 0.6846,
+                    "answers": "the fear that Facebook , an increasingly large giant , will now have the phone number|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Even if it's kind of petty and banal, many users are concerned about the fact that you can share it with your advertisers.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that many users were concerned about the fact that you can share it with your advertisers?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many users are concerned about the fact that you can share it with advertisers?",
+                    "score": 0.7287,
+                    "answers": "that Even if it 's kind of petty and banal , many users are concerned about the fact that you can share it with your advertisers|ccomp"
+                },
+                {
+                    "question": "What are the benefits of sharing with advertisers?",
+                    "score": 0.6732,
+                    "answers": "about the fact that you can share it with your advertisers|prep\tthe fact that you can share it with your advertisers|pobj\tthat you can share it with your advertisers|acl"
+                },
+                {
+                    "question": "What does it mean to be petty and banal?",
+                    "score": 0.6553,
+                    "answers": "Even if it 's kind of petty and banal|advcl"
+                },
+                {
+                    "question": "What is the relationship between advertising and copyright laws?",
+                    "score": 0.6115,
+                    "answers": "concerned about the fact that you can share it with your advertisers|acomp\twith your advertisers|prep\tyour advertisers|pobj"
+                },
+                {
+                    "question": "What is the definition of petty and banal?",
+                    "score": 0.5903,
+                    "answers": "banal|conj"
+                }
+            ]
+        },
+        {
+            "claim": "But this is not a novelty.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say this was not a novelty?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the ABC program?",
+                    "score": 0.7654,
+                    "answers": "www.abc.es said on 25/09/2017 that But this is not a novelty|ROOT"
+                },
+                {
+                    "question": "What does ABC.es say about the new law?",
+                    "score": 0.7355,
+                    "answers": "that|mark\tBut|cc\tnot|neg\ta|det"
+                },
+                {
+                    "question": "What is a novelty?",
+                    "score": 0.704,
+                    "answers": "that But this is not a novelty|ccomp\ta novelty|attr"
+                },
+                {
+                    "question": "What is the source of evidence of the evidence of all of this information?",
+                    "score": 0.671,
+                    "answers": "this|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In the vast majority of cases, Facebook already has your mobile phone, for more than a year.",
+            "question_answers": [
+                {
+                    "question": "What social network has your mobile phone for more than a year?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has Facebook had a mobile phone?",
+                    "score": 0.8328,
+                    "answers": "that|mark\tthe|det\t,|punct\talready|advmod\tthat In the vast majority of cases , Facebook already has your mobile phone , for more than a year|ccomp\tyour|poss\tmobile|amod\tyour mobile phone|dobj\t,|punct\tfor more than a year|prep\tthan|quantmod\tmore than a|nummod"
+                },
+                {
+                    "question": "How many cases have Facebook already had your mobile phone?",
+                    "score": 0.826,
+                    "answers": "In the vast majority of cases|prep\tthe vast majority of cases|pobj"
+                },
+                {
+                    "question": "What is Facebook's mobile phone?",
+                    "score": 0.7623,
+                    "answers": "on 25/09/2017|prep\tmore|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The novelty is that now Facebook will have some data on how and with whom you use your Whatsapp.",
+            "question_answers": [
+                {
+                    "question": "What social network will now have some data on how you use Whatsapp?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Facebook doing with Whatsapp?",
+                    "score": 0.7556,
+                    "answers": "on 25/09/2017|prep\tthat|mark\tThe|det\tthat The novelty is that now Facebook will have some data on how and with whom you use your Whatsapp|ccomp\tthat|mark\tnow|advmod\twill|aux\tthat now Facebook will have some data on how and with whom you use your Whatsapp|ccomp\tsome|det\tsome data on how and with whom you use your Whatsapp|dobj\ton how and with whom you use your Whatsapp|prep\thow and|advmod\tand|cc\twhom|pobj\tyou|nsubj\thow and with whom you use your Whatsapp|pcomp\tyour|poss\tyour Whatsapp|dobj"
+                },
+                {
+                    "question": "What is Facebook's ability to track who you use Whatsapp for?",
+                    "score": 0.7148,
+                    "answers": "www.abc.es said on 25/09/2017 that The novelty is that now Facebook will have some data on how and with whom you use your Whatsapp|ROOT\thow and with whom|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, the change will influence the first one more than the second, considers Bruno Vázquez-Dodero, director of AulaCM, School of Communication and Digital Marketing.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that the change will influence the first one more than the second?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will the change affect the first one?",
+                    "score": 0.7389,
+                    "answers": "Therefore , the change will influence the first one more than the second|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Vázquez-Dodero and digital marketing?",
+                    "score": 0.6319,
+                    "answers": "that Therefore , the change will influence the first one more than the second , considers Bruno Vázquez - Dodero , director of AulaCM , School of Communication and Digital Marketing|ccomp"
+                },
+                {
+                    "question": "What was Bruno Vázquez-Dodero's position at AulaCM?",
+                    "score": 0.628,
+                    "answers": "Communication and Digital Marketing|pobj"
+                },
+                {
+                    "question": "What is the second change in director of AulaCM?",
+                    "score": 0.6038,
+                    "answers": "the second|pobj"
+                },
+                {
+                    "question": "What is the impact of the change on the first one?",
+                    "score": 0.6009,
+                    "answers": "than the second|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In his opinion, the only new development in the use of this messaging application is that perhaps we can receive some private message about something of our interest.",
+            "question_answers": [
+                {
+                    "question": "What did www.abc.es say was the only new development in the use of this messaging application?",
+                    "answer": "perhaps we can receive some private message about something of our interest"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of using a messaging application?",
+                    "score": 0.7451,
+                    "answers": "that|mark\this|poss\tthe|det\tthe|det\tthis|det\tthat|mark\tperhaps|advmod\tprivate|amod"
+                },
+                {
+                    "question": "How can we receive a private message about something of interest?",
+                    "score": 0.7293,
+                    "answers": "can|aux"
+                },
+                {
+                    "question": "What is the new development in the use of this messaging application?",
+                    "score": 0.7133,
+                    "answers": "in the use of this messaging application|prep\tthe use of this messaging application|pobj\tof this messaging application|prep\tmessaging|compound\tthis messaging application|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The company itself has set a confusing example of a possible delay in a flight and how it would be interesting for everyone to report to us via WhatsApp.",
+            "question_answers": [
+                {
+                    "question": "What did www.abc.es say on 25/09/2017?",
+                    "answer": "a confusing example of a possible delay in a flight"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did ABC say about a delay in a flight?",
+                    "score": 0.7129,
+                    "answers": "www.abc.es said on 25/09/2017 that The company itself has set a confusing example of a possible delay in a flight and how it would be interesting for everyone to report to us via WhatsApp|ROOT\titself|appos\tin a flight|prep"
+                },
+                {
+                    "question": "What is a flight delay?",
+                    "score": 0.6658,
+                    "answers": "a flight|pobj"
+                },
+                {
+                    "question": "What is the name of the company that has set a confusing example of a delay in flight and how it would be interesting for everyone to report to us via WhatsApp?",
+                    "score": 0.6538,
+                    "answers": "on 25/09/2017|prep"
+                },
+                {
+                    "question": "What is the relationship between a flight delay and a delay in flight?",
+                    "score": 0.626,
+                    "answers": "confusing|amod\thow|advmod"
+                },
+                {
+                    "question": "What is the purpose of using WhatsApp?",
+                    "score": 0.5862,
+                    "answers": "how it would be interesting for everyone to report to us via WhatsApp|conj\tfor everyone to report to us via WhatsApp|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "And I'm saying this case is confusing because it's still about to see how Facebook will know that we had that flight.",
+            "question_answers": [
+                {
+                    "question": "Who will know that we had that flight?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Facebook know about the flight?",
+                    "score": 0.7676,
+                    "answers": "that|mark\tAnd|cc\tI|nsubj\tthat And I 'm saying this case is confusing because it 's still about to see how Facebook will know that we had that flight|ccomp\tthis|det\tthis case|nsubj\tbecause|mark\tit|nsubj\tbecause it 's still about to see how Facebook will know that we had that flight|advcl\tstill|advmod\tabout to see how Facebook will know that we had that flight|acomp\tto|aux\tto see how Facebook will know that we had that flight|xcomp\thow|advmod\twill|aux\thow Facebook will know that we had that flight|ccomp\tthat|mark\twe|nsubj\tthat we had that flight|ccomp\tthat|det\tthat flight|dobj"
+                },
+                {
+                    "question": "What did Facebook say about the flight?",
+                    "score": 0.7656,
+                    "answers": "'m|aux"
+                },
+                {
+                    "question": "What is the relationship between Facebook and the flight?",
+                    "score": 0.5898,
+                    "answers": "www.abc.es said on 25/09/2017 that And I 'm saying this case is confusing because it 's still about to see how Facebook will know that we had that flight|ROOT\ton 25/09/2017|prep\tthis case is confusing because it 's still about to see how Facebook will know that we had that flight|ccomp\tconfusing|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "In any case, this was actually already happening in some cases when we gave the mobile phone to the flight company, he says.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that this was already happening?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many calls were made to flight companies in 2017?",
+                    "score": 0.707,
+                    "answers": "that In any case , this was actually already happening in some cases when we gave the mobile phone to the flight company|ccomp\twww.abc.es said on 25/09/2017 that In any case , this was actually already happening in some cases when we gave the mobile phone to the flight company , he says|ROOT"
+                },
+                {
+                    "question": "What is the use of mobile phones for flight companies?",
+                    "score": 0.686,
+                    "answers": "mobile|amod"
+                },
+                {
+                    "question": "What is the relationship between a flight company and a mobile phone?",
+                    "score": 0.6317,
+                    "answers": "when we gave the mobile phone to the flight company|advcl"
+                },
+                {
+                    "question": "What was the name of the company that gave the mobile phone to the flight company?",
+                    "score": 0.5951,
+                    "answers": "on 25/09/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Facebook is interested in being less intrusive and more relevant and interesting to its users, he adds, while considering that with these novelties the company gets two things: on the one hand, to suggest better contacts to users according to their WhatsApp agenda and, on the other, to show more interesting ads to Facebook users.",
+            "question_answers": [
+                {
+                    "question": "What is one of Facebook's goals?",
+                    "answer": "to show more interesting ads to Facebook users"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Facebook do with their WhatsApp agenda?",
+                    "score": 0.7836,
+                    "answers": "according to their WhatsApp agenda|prep\tto their WhatsApp agenda|prep\ttheir WhatsApp agenda|pobj"
+                },
+                {
+                    "question": "What is Facebook doing to offer better contacts to users?",
+                    "score": 0.7787,
+                    "answers": "on the one hand , to suggest better contacts to users according to their WhatsApp agenda and , on the other , to show more interesting ads to Facebook users|acl"
+                },
+                {
+                    "question": "What is the purpose of Facebook trying to advertise ads to its users?",
+                    "score": 0.7411,
+                    "answers": "on the other , to show more interesting ads to Facebook users|conj"
+                },
+                {
+                    "question": "What are the novelties Facebook offers to its users?",
+                    "score": 0.7298,
+                    "answers": "with these novelties|prep\tthese novelties|pobj"
+                },
+                {
+                    "question": "What is Facebook's relationship with its users?",
+                    "score": 0.7166,
+                    "answers": "www.abc.es said on 25/09/2017 that Facebook is interested in being less intrusive and more relevant and interesting to its users|ccomp\tthat Facebook is interested in being less intrusive and more relevant and interesting to its users|ccomp\tinterested in being less intrusive and more relevant and interesting to its users|acomp\tin being less intrusive and more relevant and interesting to its users|prep\tbeing less intrusive and more relevant and interesting to its users|pcomp\tless intrusive and more relevant and interesting to its users|acomp\tinteresting|conj\tto its users|prep\tits|poss\tits users|pobj\twww.abc.es said on 25/09/2017 that Facebook is interested in being less intrusive and more relevant and interesting to its users , he adds , while considering that with these novelties the company gets two things : on the one hand , to suggest better contacts to users according to their WhatsApp agenda and , on the other , to show more interesting ads to Facebook users|ROOT\tthe company|nsubj\tto|aux\tto users|prep\tusers|pobj\tthe other|pobj\tto|aux\tmore interesting|amod\tto Facebook users|dative\tFacebook users|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "A priori what's going to happen is that Facebook will recommend some friends and show you the posts of those you talk to more about Whatsapp.",
+            "question_answers": [
+                {
+                    "question": "What social network is going to show you the posts of those you talk to more about?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Facebook and Whatsapp?",
+                    "score": 0.6646,
+                    "answers": "www.abc.es|nsubj\ton 25/09/2017|prep"
+                },
+                {
+                    "question": "What is Whatsapp?",
+                    "score": 0.6213,
+                    "answers": "www.abc.es said on 25/09/2017 that A priori what 's going to happen is that Facebook will recommend some friends and show you the posts of those you talk to more about Whatsapp|ROOT\tthat|mark\tA|advmod\tA priori|advmod\twhat|nsubj\t's|aux\twhat 's going to happen|csubj\tto|aux\tto happen|xcomp\tthat A priori what 's going to happen is that Facebook will recommend some friends and show you the posts of those you talk to more about Whatsapp|ccomp\tthat|mark\twill|aux\tthat Facebook will recommend some friends and show you the posts of those you talk to more about Whatsapp|ccomp\tsome|det\tsome friends|dobj\tand|cc\tshow you the posts of those you talk to more about Whatsapp|conj\tyou|dative\tthe|det\tthe posts of those you talk to more about Whatsapp|dobj\tof those you talk to more about Whatsapp|prep\tthose you talk to more about Whatsapp|pobj\tyou|nsubj\tyou talk to more about Whatsapp|relcl\tto|prep\tmore about Whatsapp|dobj\tabout Whatsapp|prep\tWhatsapp|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "You always have the chance not to add those friends and hide the posts of someone you don't want to see on Facebook.",
+            "question_answers": [
+                {
+                    "question": "What do you do to hide the posts of someone you don't want to see?",
+                    "answer": "hide the posts of someone you don't want to see"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the benefits of adding friends and hiding posts on Facebook?",
+                    "score": 0.7174,
+                    "answers": "the chance not to add those friends and hide the posts of someone you do n't want to see on Facebook|dobj"
+                },
+                {
+                    "question": "What are the ways to hide your friends on Facebook?",
+                    "score": 0.7071,
+                    "answers": "that You always have the chance not to add those friends and hide the posts of someone you do n't want to see on Facebook|ccomp"
+                },
+                {
+                    "question": "How many Facebook friends are there?",
+                    "score": 0.6873,
+                    "answers": "www.abc.es|nsubj\ton 25/09/2017|prep\tthose|det"
+                },
+                {
+                    "question": "How many Facebook pages are there?",
+                    "score": 0.6652,
+                    "answers": "the|det\tthe|det\tthe posts of someone you do n't want to see on Facebook|dobj\tto see on Facebook|xcomp"
+                },
+                {
+                    "question": "What is Facebook?",
+                    "score": 0.6363,
+                    "answers": "of someone you do n't want to see on Facebook|prep\ton Facebook|prep\tFacebook|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "For the time being, and in order to reassure the less benevolent users with this type of movement of the sector, the Spanish Data Protection Agency has indicated that it will closely monitor the new terms of use of this popular application.",
+            "question_answers": [
+                {
+                    "question": "Who has indicated that it will closely monitor the new terms of use of the popular application?",
+                    "answer": "the Spanish Data Protection Agency"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Spanish Data Protection Agency do to reassure less benevolent users with this type of movement of the sector?",
+                    "score": 0.6717,
+                    "answers": "the less benevolent users|dobj"
+                },
+                {
+                    "question": "What are the new terms of use of this popular application?",
+                    "score": 0.5506,
+                    "answers": "www.abc.es|nsubj\twww.abc.es said on 25/09/2017 that For the time being , and in order to reassure the less benevolent users with this type of movement of the sector , the Spanish Data Protection Agency has indicated that it will closely monitor the new terms of use of this popular application|ROOT\tFor the time being , and in order to reassure the less benevolent users with this type of movement of the sector ,|prep\tbeing|amod\tto|aux\tless|advmod\twith this type of movement of the sector|prep\tof the sector|prep\tthe sector|pobj\tSpanish|compound\thas|aux\tthat For the time being , and in order to reassure the less benevolent users with this type of movement of the sector , the Spanish Data Protection Agency has indicated that it will closely monitor the new terms of use of this popular application|ccomp\tclosely|advmod\tthat it will closely monitor the new terms of use of this popular application|ccomp\tthe new terms of use of this popular application|dobj\tthis popular application|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "As usual when concerns arise regarding the impact on privacy and data protection of citizens, we are studying the changes introduced by the courier company in its terms of use and privacy policy, advance sources of the national regulator.",
+            "question_answers": [
+                {
+                    "question": "When did www.abc.es say that it was studying the changes introduced by the courier company?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What changes did the courier company make to privacy and data protection?",
+                    "score": 0.7408,
+                    "answers": "national|amod"
+                },
+                {
+                    "question": "What changes were made by the courier company in its terms of use and privacy policy?",
+                    "score": 0.6671,
+                    "answers": "by the courier company|agent"
+                },
+                {
+                    "question": "What is the use and privacy policy of courier companies?",
+                    "score": 0.6304,
+                    "answers": "use and privacy|pobj"
+                },
+                {
+                    "question": "What is the impact on privacy and data protection of citizens?",
+                    "score": 0.6262,
+                    "answers": "regarding the impact on privacy and data protection of citizens|prep\tthe impact on privacy and data protection of citizens|pobj"
+                },
+                {
+                    "question": "What are the sources of the national regulator's communication policy?",
+                    "score": 0.5787,
+                    "answers": "advance|compound"
+                }
+            ]
+        }
+    ]
+}

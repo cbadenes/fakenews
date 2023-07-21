@@ -1,0 +1,206 @@
+{
+    "id": "30_Security_197",
+    "claim": "In addition to the garments, the police seized boxes with more than  pairs of tennis that held the brand Adidas. MEXICO CITY. - The Office of the Attorney General of the Republic (PGR) in Mexico City initiated a research kit derived from the insurance of  T-shirts and  pairs of sport shoes with apparent brand ostensation. According to the report of elements of the Federal Ministerial Police, the finding, derived from a complaint, was made in facilities of a parcel and courier company, located in the colony Nueva Industrial Vallejo, delegation Venustiano Carranza. On site were located  cardboard boxes containing, each,  green sports shirts, as well as two other cardboard boxes, each, with  pairs of tennis, and one more with . The shirts and sports shoes have the Adidas brand, which according to the guides came from Nuevo Laredo, Tamaulipas, were found packed with transparent synthetic material. For these acts, the insured articles were placed at the disposal of the agent of the Public Prosecutor's Office of the Federation, attached to the Investigation and Litigation Unit with a detainee, who initiated the corresponding investigation kit for the probable commission of the offence of counterfeiting of marks, provided for and sanctioned in article , section II, of the Industrial Property Act. I'm sorry.",
+    "source": "www.elfinanciero.com.mx",
+    "date": "14/06/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "In addition to the garments, the police seized boxes with more than  pairs of tennis that held the brand Adidas.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many pairs of Adidas shoes did the police seize?",
+                    "score": 0.8091,
+                    "answers": "that held the brand Adidas|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "MEXICO CITY.",
+            "question_answers": [
+                {
+                    "question": "When did www.elfinanciero.com.mx report on MEXICO CITY?",
+                    "answer": "14/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is the website \"elfinanciero.com\" located?",
+                    "score": 0.8429,
+                    "answers": "www.elfinanciero.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of MEXICO City's economic growth?",
+                    "score": 0.8308,
+                    "answers": "on 14/06/2018|prep"
+                },
+                {
+                    "question": "What is the relationship between Mexico City and Mexico City?",
+                    "score": 0.6839,
+                    "answers": "that MEXICO CITY|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "- The Office of the Attorney General of the Republic (PGR) in Mexico City initiated a research kit derived from the insurance of  T-shirts and  pairs of sport shoes with apparent brand ostensation.",
+            "question_answers": [
+                {
+                    "question": "Who initiated a research kit derived from the insurance of T-shirts and pairs of sport shoes with apparent brand ostensation?",
+                    "answer": "The Office of the Attorney General of the Republic (PGR)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the Office of the Attorney General of the Republic fund a research kit from?",
+                    "score": 0.7221,
+                    "answers": "from the insurance of|prep"
+                },
+                {
+                    "question": "Where did the research kit come from?",
+                    "score": 0.6379,
+                    "answers": "(|punct\t)|punct\tMexico|compound\tT|compound\tand|cc"
+                },
+                {
+                    "question": "What was the purpose of the PGR research kit?",
+                    "score": 0.5482,
+                    "answers": "www.elfinanciero.com.mx reported on 14/06/2018 that - The Office of the Attorney General of the Republic ( PGR ) in Mexico City initiated a research kit derived from the insurance of|ROOT\tthat - The Office of the Attorney General of the Republic ( PGR ) in Mexico City initiated a research kit derived from the insurance of|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the research kit from PPGR?",
+                    "score": 0.4801,
+                    "answers": "sport|compound\tapparent|amod\tbrand|compound"
+                },
+                {
+                    "question": "What is PGR?",
+                    "score": 0.4604,
+                    "answers": "The Office of the Attorney General of the Republic ( PGR ) in Mexico City|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the report of elements of the Federal Ministerial Police, the finding, derived from a complaint, was made in facilities of a parcel and courier company, located in the colony Nueva Industrial Vallejo, delegation Venustiano Carranza.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the courier company located in Nueva Industrial Vallejo?",
+                    "answer": "Venustiano Carranza"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the report of elements of the Federal Ministerial Police report?",
+                    "score": 0.6414,
+                    "answers": "to the report of elements of the Federal Ministerial Police|prep"
+                },
+                {
+                    "question": "Where is the Nueva Industrial Vallejo located?",
+                    "score": 0.5455,
+                    "answers": "located in the colony Nueva Industrial Vallejo ,|acl"
+                },
+                {
+                    "question": "What was the source of evidence of the letter from the Nueva Industrial Vallejo?",
+                    "score": 0.5336,
+                    "answers": "www.elfinanciero.com.mx reported on 14/06/2018 that According to the report of elements of the Federal Ministerial Police , the finding , derived from a complaint , was made in facilities of a parcel and courier company , located in the colony Nueva Industrial Vallejo , delegation Venustiano Carranza|ROOT"
+                },
+                {
+                    "question": "What is the name of the parcel and courier company located in Nueva Industrial Vallejo?",
+                    "score": 0.5193,
+                    "answers": "of a parcel and courier company , located in the colony Nueva Industrial Vallejo ,|prep"
+                },
+                {
+                    "question": "What is the relationship between Venustiano Carranza and the Federal Ministerial Police?",
+                    "score": 0.5153,
+                    "answers": "delegation Venustiano Carranza|prep"
+                }
+            ]
+        },
+        {
+            "claim": "On site were located  cardboard boxes containing, each,  green sports shirts, as well as two other cardboard boxes, each, with  pairs of tennis, and one more with .",
+            "question_answers": [
+                {
+                    "question": "What color sports shirts were in the cardboard boxes?",
+                    "answer": "green"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where were the green sports shirts found?",
+                    "score": 0.8393,
+                    "answers": "www.elfinanciero.com.mx reported on 14/06/2018 that On site were located   cardboard boxes containing , each ,   green sports shirts , as well as two other cardboard boxes , each , with   pairs of tennis , and one more with|ROOT\ton 14/06/2018|prep\twere|auxpass\tcardboard|compound\tcardboard boxes containing , each ,|dobj\tcontaining , each ,|acl\tcardboard|compound\ttwo other cardboard boxes , each , with|conj"
+                },
+                {
+                    "question": "What type of sports shirts were found in the cardboard box?",
+                    "score": 0.8168,
+                    "answers": "green|amod"
+                },
+                {
+                    "question": "How many pairs of tennis can be found in a cardboard box?",
+                    "score": 0.7992,
+                    "answers": "of tennis|prep\ttennis|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The shirts and sports shoes have the Adidas brand, which according to the guides came from Nuevo Laredo, Tamaulipas, were found packed with transparent synthetic material.",
+            "question_answers": [
+                {
+                    "question": "What type of material were the Adidas shirts and shoes packed with?",
+                    "answer": "transparent synthetic material"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where were the Adidas shirts and sports shoes made?",
+                    "score": 0.8686,
+                    "answers": "sports shoes|conj\twere found packed with transparent synthetic material|punct\tpacked with transparent synthetic material|xcomp"
+                },
+                {
+                    "question": "Where did the Adidas brand originate from?",
+                    "score": 0.8562,
+                    "answers": "the Adidas brand , which according to the guides came from Nuevo Laredo , Tamaulipas ,|dobj\twhich according to the guides came from Nuevo Laredo , Tamaulipas ,|relcl"
+                },
+                {
+                    "question": "What is the Adidas brand?",
+                    "score": 0.7445,
+                    "answers": "www.elfinanciero.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "For these acts, the insured articles were placed at the disposal of the agent of the Public Prosecutor's Office of the Federation, attached to the Investigation and Litigation Unit with a detainee, who initiated the corresponding investigation kit for the probable commission of the offence of counterfeiting of marks, provided for and sanctioned in article , section II, of the Industrial Property Act.",
+            "question_answers": [
+                {
+                    "question": "How was the offence of counterfeiting of marks sanctioned in section II of the Industrial Property Act?",
+                    "answer": "sanctioned in article"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the charges of counterfeiting of marks?",
+                    "score": 0.7086,
+                    "answers": "For these acts|prep"
+                },
+                {
+                    "question": "What is the purpose of counterfeiting marks?",
+                    "score": 0.6958,
+                    "answers": "the offence of counterfeiting of marks|pobj"
+                },
+                {
+                    "question": "What was the purpose of the investigation into the counterfeiting of marks?",
+                    "score": 0.6875,
+                    "answers": "www.elfinanciero.com.mx|nsubj\ton 14/06/2018|prep\tthat|mark\t,|punct\tthe|det\tthe insured articles|nsubjpass\twere|auxpass\tthe|det\tthe|det\tof the Public Prosecutor 's Office of the Federation|prep\tthe|det\tPublic|compound\tthe Public Prosecutor 's|poss\t's|case\tthe Public Prosecutor 's Office of the Federation|pobj\tof the Federation|prep\tthe|det\tthe Federation|pobj\t,|punct\tthe|det\tand|cc\ta|det\t,|punct\twho|nsubj\tthe|det\tcorresponding|amod\tinvestigation|compound\tthe|det\tprobable|amod\tthe probable commission of the offence of counterfeiting of marks|pobj\tof the offence of counterfeiting of marks|prep\tthe|det\t,|punct\tfor|prep\tand|cc\t,|punct\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What are the provisions of the Industrial Property Act?",
+                    "score": 0.6368,
+                    "answers": "these acts|pobj"
+                },
+                {
+                    "question": "Who was the agent of the Public Prosecutor's Office of the Federation?",
+                    "score": 0.6356,
+                    "answers": "of the agent of the Public Prosecutor 's Office of the Federation , attached to the Investigation and Litigation Unit with a detainee , who initiated the corresponding investigation kit for the probable commission of the offence of counterfeiting of marks , provided for and sanctioned in article , section II , of the Industrial Property Act|prep\tthe agent of the Public Prosecutor 's Office of the Federation , attached to the Investigation and Litigation Unit with a detainee , who initiated the corresponding investigation kit for the probable commission of the offence of counterfeiting of marks , provided for and sanctioned in article , section II , of the Industrial Property Act|pobj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "id": "Sociedad_5",
+    "claim": "The first phase of the census will be virtual and only next April will start door-to-door surveys. Tuesday, January 9, will begin the first stage corresponding to the collection of information from the National Population and Housing Census 2018. The investment for the realization of the Census is 350. billion pesos, with future validitys of 2016 and 2017, reported this festive Monday Caracol Radio. The first phase of the process will be virtual and only until April will begin the stage in which the door-to-door and person-to-person surveys will be conducted throughout the national territory, which will end in June. According to Mauricio Perfetti, director of the National Administrative Department of Statistics (Dane), State officials are required to participate in this virtual stage, while other people will be able to opt for this alternative voluntarily. The first departments and cities to be registered in person will be those that house about 60% of the population of Colombia. It should be recalled that approximately two days before the census date will be notified, so that the respondent can adjust his working hours and prepare the information of each household member. It should be noted that such a person must be over 18 years of age. In addition, if for reasons of force majeure on the day of the visit there is no one in the home, the census officer will reschedule the visit for the following day. The census attempt will be maximum twice as much as the first. If the visits are not followed and the eCenso has not been carried out, after an investigation, the Dane may impose the corresponding fines. I'm sorry.",
+    "source": "www.larepublica.co",
+    "date": "08/01/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The first phase of the census will be virtual and only next April will start door-to-door surveys.",
+            "question_answers": [
+                {
+                    "question": "When will the door-to-door surveys begin?",
+                    "answer": "April"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the first phase of the census begin?",
+                    "score": 0.9206,
+                    "answers": "of the census|prep\tthe census|pobj\tto - door|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Tuesday, January 9, will begin The first phase of the census .",
+            "question_answers": [
+                {
+                    "question": "On what date was it reported that the first phase of the census would begin?",
+                    "answer": "08/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the first phase of the census begin?",
+                    "score": 0.9378,
+                    "answers": "that|mark\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "The investment for the realization of the census is 350.",
+            "question_answers": [
+                {
+                    "question": "How many dollars were invested in the census?",
+                    "answer": "350"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were in the census in 2018?",
+                    "score": 0.8655,
+                    "answers": "of the census|prep"
+                },
+                {
+                    "question": "What is the population of South Africa in 2018?",
+                    "score": 0.8371,
+                    "answers": "that|mark\tThe|det\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is the amount of investment for the realization of the census?",
+                    "score": 0.8082,
+                    "answers": "www.larepublica.co reported on 08/01/2018 that The investment for the realization of the census is 350|ROOT\ton 08/01/2018|prep"
+                },
+                {
+                    "question": "What is the purpose of the census?",
+                    "score": 0.796,
+                    "answers": "The investment for the realization of the census|nsubj\tfor the realization of the census|prep\tthe realization of the census|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "billion pesos, with future validitys of 2016 and 2017, reported this festive Monday Caracol Radio.",
+            "question_answers": [
+                {
+                    "question": "What radio station reported billion pesos on 08/01/2018?",
+                    "answer": "Caracol"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What year did Caracol Radio start operating?",
+                    "score": 0.9055,
+                    "answers": "of 2016 and 2017|prep"
+                },
+                {
+                    "question": "What is the current validity of Caracol Radio?",
+                    "score": 0.7596,
+                    "answers": "www.larepublica.co reported on 08/01/2018 that billion pesos , with future validitys of 2016 and 2017 , reported this festive Monday Caracol Radio|ROOT\tbillion pesos , with future validitys of 2016 and 2017 ,|nsubj\twith future validitys of 2016 and 2017|prep\tfuture validitys of 2016 and 2017|pobj\tthat billion pesos , with future validitys of 2016 and 2017 , reported this festive Monday|ccomp"
+                },
+                {
+                    "question": "What is the name of the website that is linked to Caracol Radio?",
+                    "score": 0.7254,
+                    "answers": "www.larepublica.co|nsubj"
+                },
+                {
+                    "question": "What is Caracol Radio?",
+                    "score": 0.6984,
+                    "answers": "billion|nummod\tCaracol|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The first phase of the census will be virtual and only until April will begin the stage in which the door-to-door and person-to-person surveys will be conducted throughout the national territory, which will end in June.",
+            "question_answers": [
+                {
+                    "question": "When will the door-to-door and person-to-person surveys begin?",
+                    "answer": "April"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the first phase of the census begin?",
+                    "score": 0.8696,
+                    "answers": "that The first phase of the census will be virtual and only until April will begin the stage in which the door - to - door and person - to - person surveys will be conducted throughout the national territory , which will end in June|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "According to Mauricio Perfetti, director of the National Administrative Department of Statistics (Dane), State officials are required to participate in The first phase of the census , while other people will be able to opt for this alternative voluntarily.",
+            "question_answers": [
+                {
+                    "question": "What are state officials required to participate in?",
+                    "answer": "The first phase of the census"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are state officials required to participate in the first phase of the census?",
+                    "score": 0.9517,
+                    "answers": "that|mark\t,|punct\tthe|det\tNational|compound\t(|punct\t)|punct\t,|punct\tthat According to Mauricio Perfetti , director of the National Administrative Department of Statistics ( Dane ) , State officials are required to participate in The first phase of the census , while other people will be able to opt for this alternative voluntarily|ccomp\tto|aux\tin The first phase of the census|prep\tThe|det\tThe first phase of the census|pobj\tof the census|prep\tthe|det\tthe census|pobj\t,|punct\twhile|mark\twill|aux\tto|aux\tthis|det\tvoluntarily|advmod"
+                },
+                {
+                    "question": "What is Dane's position in the National Administrative Department of Statistics?",
+                    "score": 0.7932,
+                    "answers": "director of the National Administrative Department of Statistics ( Dane|appos"
+                }
+            ]
+        },
+        {
+            "claim": "The first departments and cities to be registered in person will be those that house about 60% of the population of Colombia.",
+            "question_answers": [
+                {
+                    "question": "What percentage of the population of Colombia will be housed in the first departments and cities to be registered in person?",
+                    "answer": "60%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of the population of Colombia are registered in person?",
+                    "score": 0.9213,
+                    "answers": "www.larepublica.co|nsubj\tto be registered in person|relcl"
+                },
+                {
+                    "question": "What is the population of Colombia?",
+                    "score": 0.8936,
+                    "answers": "the population of Colombia|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It should be recalled that approximately two days before the census date will be notified, so that the respondent can adjust working hours and prepare the information of each household member.",
+            "question_answers": [
+                {
+                    "question": "Who can adjust working hours and prepare the information of each household member?",
+                    "answer": "respondent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the working hours of each household member?",
+                    "score": 0.8418,
+                    "answers": "working|compound\tof each household member|prep\teach|det\thousehold|compound\teach household member|pobj"
+                },
+                {
+                    "question": "How many days before the census date will each household member be notified?",
+                    "score": 0.8116,
+                    "answers": "that It should be recalled that approximately two days before the census date will be notified , so that the respondent can adjust working hours and prepare the information of each household member|ccomp"
+                },
+                {
+                    "question": "What is the census date?",
+                    "score": 0.8113,
+                    "answers": "the census date|nsubjpass"
+                },
+                {
+                    "question": "What is the time difference between census dates and census dates?",
+                    "score": 0.7953,
+                    "answers": "census|compound"
+                },
+                {
+                    "question": "What is the current working hours for each household member in South Africa?",
+                    "score": 0.7869,
+                    "answers": "on 08/01/2018|prep\tthat|mark\tIt|nsubjpass\tbe|auxpass\tthat|mark\tthe|det\twill|aux\tbe|auxpass\t,|punct\tso|mark\tthat|mark\tthe|det\tand|cc\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "It should be noted that such a person must be over 18 years of age.",
+            "question_answers": [
+                {
+                    "question": "What is the age limit for a person to be considered to be over the age of 18?",
+                    "answer": "18"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How old must a person be to be eligible to apply for a job?",
+                    "score": 0.9242,
+                    "answers": "that It should be noted that such a person must be over 18 years of age|ccomp"
+                },
+                {
+                    "question": "What age should a person be allowed to be over 18?",
+                    "score": 0.9002,
+                    "answers": "should|aux"
+                },
+                {
+                    "question": "What is the age limit for being over 18?",
+                    "score": 0.863,
+                    "answers": "that such a person must be over 18 years of age|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, if for reasons of force majeure on the day of the visit there is no one in the home, the census officer will reschedule the visit for the following day.",
+            "question_answers": [
+                {
+                    "question": "Who will reschedule the visit if there is no one in the home?",
+                    "answer": "census officer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the census officer reschedule the visit for the following day?",
+                    "score": 0.8484,
+                    "answers": "on 08/01/2018|prep\t,|punct\tthe visit|pobj\t,|punct\twill|aux\tthe visit|dobj\tfor the following day|prep"
+                },
+                {
+                    "question": "What are the reasons for force majeure on the day of the visit?",
+                    "score": 0.7888,
+                    "answers": "if|mark"
+                },
+                {
+                    "question": "What is the date of the census officer's visit to the home?",
+                    "score": 0.7478,
+                    "answers": "on the day of the visit|prep\tthe day of the visit|pobj\tfollowing|amod"
+                },
+                {
+                    "question": "What is force majeure?",
+                    "score": 0.7429,
+                    "answers": "www.larepublica.co reported on 08/01/2018 that In addition , if for reasons of force majeure on the day of the visit there is no one in the home , the census officer will reschedule the visit for the following day|ROOT\tfor reasons of force majeure on the day of the visit|prep\treasons of force majeure on the day of the visit|pobj\tof force majeure|prep\tforce|compound\tforce majeure|pobj\tif for reasons of force majeure on the day of the visit there is no one in the home|advcl\tin the home|prep\tthat In addition , if for reasons of force majeure on the day of the visit there is no one in the home , the census officer will reschedule the visit for the following day|ccomp"
+                },
+                {
+                    "question": "Who is the census officer in Florida?",
+                    "score": 0.6974,
+                    "answers": "the census officer|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The census attempt will be maximum twice as much as the first.",
+            "question_answers": [
+                {
+                    "question": "How much more will the census attempt be compared to the first?",
+                    "answer": "maximum twice as much"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the census attempt in 2018?",
+                    "score": 0.8952,
+                    "answers": "www.larepublica.co|nsubj\twww.larepublica.co reported on 08/01/2018 that The census attempt will be maximum twice as much as the first|ROOT\ton 08/01/2018|prep\tthat|mark\tThe|det\tcensus|compound\tThe census attempt|nsubj\twill|aux\tthat The census attempt will be maximum twice as much as the first|ccomp\tmaximum|amod\ttwice|advmod\tas|advmod\tmaximum twice as much as the first|attr\tas the first|prep\tthe|det\tthe first|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "If the visits are not followed and the eCenso has not been carried out, after an investigation, the Dane may impose the corresponding fines.",
+            "question_answers": [
+                {
+                    "question": "What did the Dane do to the eCenso?",
+                    "answer": "If the visits are not followed and the eCenso has not been carried out, after an investigation,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Dane do to stop the eCenso?",
+                    "score": 0.8292,
+                    "answers": "www.larepublica.co|nsubj"
+                },
+                {
+                    "question": "What would happen if the Dane did not follow the eCenso?",
+                    "score": 0.8059,
+                    "answers": "after an investigation|prep\tthat If the visits are not followed and the eCenso has not been carried out , after an investigation , the Dane may impose the corresponding fines|ccomp\tthe corresponding fines|dobj"
+                },
+                {
+                    "question": "What is the purpose of eCenso?",
+                    "score": 0.7259,
+                    "answers": "on 08/01/2018|prep\tthat|mark\tIf|mark\tthe|det\tthe visits|nsubjpass\tare|auxpass\tnot|neg\tIf the visits are not followed and the eCenso has not been carried out|advcl\tand|cc\tthe|det\tthe eCenso|nsubjpass\thas|aux\tnot|neg\tbeen|auxpass\tthe eCenso has not been carried out|conj\tout|prt\t,|punct\tan|det\tan investigation|pobj\t,|punct\tthe|det\tthe Dane|nsubj\tmay|aux\tthe|det\tcorresponding|amod"
+                }
+            ]
+        }
+    ]
+}

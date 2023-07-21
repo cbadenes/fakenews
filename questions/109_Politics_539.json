@@ -1,0 +1,348 @@
+{
+    "id": "109_Politics_539",
+    "claim": "Foreign nationals may also exercise their right to vote. Here what you need to know for this electoral processFrom , whether a Mexican lives or is abroad, does not prevent him from exercising his right to participate in popular elections when an election day is presented. For this it is necessary to take into account certain aspects if during this electoral process you are outside the country. The first is that you must have a valid voting card. If it has already expired, you can proceed to the nearest consulate or embassy. You can also book an appointment through the mexitel site. sre. gob. mx. The deadline for such a procedure is until the  of March. To be able to register to vote and confirm your credentials it is necessary to fill in the format of Registration System for voting from abroad. If your card was issued within the Mexican Republic, you have to provide an address abroad for the National Electoral Institute (INE) to send you your electoral package. On the other hand, if you have a card issued from abroad it is necessary that at the time of your registration, you attach a photograph of your proof of domicile in the country in which you are located. Once you have activated and registered your ID to vote, the INE will send you your email package starting in May. Don't forget that your vote has to come back to the INE before  hours of  June , taking into account the days it takes to arrive in Mexico depending on the country in which you are located. I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "06/03/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Foreign nationals may also exercise right to vote.",
+            "question_answers": [
+                {
+                    "question": "Who may exercise right to vote?",
+                    "answer": "Foreign nationals"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are foreign nationals eligible to vote?",
+                    "score": 0.956,
+                    "answers": "Foreign nationals|nsubj\tthat Foreign nationals may also exercise right to vote|ccomp"
+                },
+                {
+                    "question": "How many foreign nationals are eligible to vote?",
+                    "score": 0.9218,
+                    "answers": "to vote|acl"
+                },
+                {
+                    "question": "What is the source of evidence of foreign nationals voting right to vote?",
+                    "score": 0.9026,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the right to vote?",
+                    "score": 0.8854,
+                    "answers": "right to vote|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Here what you need to know for this electoral processFrom , whether a Mexican lives or is abroad, does not prevent a Mexican from exercising right to participate in popular elections when an election day is presented.",
+            "question_answers": [
+                {
+                    "question": "What did www.eluniversal.com.mx report on 06/03/2018?",
+                    "answer": "what you need to know for this electoral processFrom"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to participate in a popular election?",
+                    "score": 0.8534,
+                    "answers": "to participate in popular elections when an election day is presented|acl"
+                },
+                {
+                    "question": "What is the source of evidence of how many Mexicans are eligible to participate in elections?",
+                    "score": 0.7905,
+                    "answers": "electoral|amod"
+                },
+                {
+                    "question": "What is required to know about the electoral process?",
+                    "score": 0.7822,
+                    "answers": "you need what to know for this electoral processFrom|csubj"
+                },
+                {
+                    "question": "What is the right to participate in popular elections?",
+                    "score": 0.7757,
+                    "answers": "from exercising right to participate in popular elections when an election day is presented|prep\tright to participate in popular elections when an election day is presented|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "For exercising it is necessary to take into account certain aspects if during this electoral processFrom you are outside the country .",
+            "question_answers": [
+                {
+                    "question": "Where are some aspects of the electoral process necessary to take into account?",
+                    "answer": "outside the country"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the aspects of the electoral process?",
+                    "score": 0.8198,
+                    "answers": "if|mark"
+                }
+            ]
+        },
+        {
+            "claim": "The first is that you must have a valid voting card .",
+            "question_answers": [
+                {
+                    "question": "What must you have in order to vote?",
+                    "answer": "valid voting card"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the requirements for getting a valid voting card?",
+                    "score": 0.8786,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 06/03/2018|prep\tthat|mark\tThe|det\tthat|mark\tyou|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "If a valid voting card has already expired, you can proceed to the nearest consulate or embassy.",
+            "question_answers": [
+                {
+                    "question": "Where can you go if a valid voting card has already expired?",
+                    "answer": "the nearest consulate or embassy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can a valid voting card be sent to the nearest consulate or embassy?",
+                    "score": 0.8983,
+                    "answers": "can|aux"
+                },
+                {
+                    "question": "How many valid voting cards are there in Canada?",
+                    "score": 0.8698,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the process for getting a valid voting card?",
+                    "score": 0.8453,
+                    "answers": "www.eluniversal.com.mx reported on 06/03/2018 that If a valid voting card has already expired , you can proceed to the nearest consulate or embassy|ROOT\ton 06/03/2018|prep\tthat|mark\tIf|mark\ta|det\tvalid|amod\thas|aux\talready|advmod\tIf a valid voting card has already expired|advcl\tthat If a valid voting card has already expired , you can proceed to the nearest consulate or embassy|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "You can also book an appointment through the mexitel site.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 06/03/2018 that you can also book an appointment through the mexitel site?",
+                    "answer": "www.eluniversal.com.mx"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can you book an appointment through the mexitel site?",
+                    "score": 0.9171,
+                    "answers": "through the mexitel site|prep"
+                },
+                {
+                    "question": "What is the name of the website that you can book an appointment through?",
+                    "score": 0.8504,
+                    "answers": "on 06/03/2018|prep"
+                },
+                {
+                    "question": "What is the purpose of the mexitel site?",
+                    "score": 0.823,
+                    "answers": "www.eluniversal.com.mx reported on 06/03/2018 that You can also book an appointment through the mexitel site|ROOT\tthe mexitel site|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "sre.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report?",
+                    "answer": "06/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the website \"eluniversal.com.mx\"?",
+                    "score": 0.6498,
+                    "answers": "www.eluniversal.com.mx reported on 06/03/2018 that sre|ROOT"
+                },
+                {
+                    "question": "What is the URL of the website \"eluniversal.com.mx\"?",
+                    "score": 0.6486,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the date of the article?",
+                    "score": 0.6209,
+                    "answers": "that|mark"
+                }
+            ]
+        },
+        {
+            "claim": "mx.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report?",
+                    "answer": "06/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the website \"Miluniversal.com.mx\"?",
+                    "score": 0.7374,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of mx?",
+                    "score": 0.6557,
+                    "answers": "on 06/03/2018|prep\tthat|mark"
+                },
+                {
+                    "question": "What is mx?",
+                    "score": 0.6226,
+                    "answers": "www.eluniversal.com.mx reported on 06/03/2018 that mx|ROOT\tthat mx|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The deadline for such a procedure is until the  of March.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report that the deadline for such a procedure was until what date?",
+                    "answer": "06/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the deadline for a procedure?",
+                    "score": 0.8395,
+                    "answers": "The deadline for such a procedure|nsubj\ta|det\tthat The deadline for such a procedure is until the|ccomp"
+                },
+                {
+                    "question": "What is the date for the procedure?",
+                    "score": 0.8013,
+                    "answers": "on 06/03/2018|prep\tthat|mark\tThe|det"
+                }
+            ]
+        },
+        {
+            "claim": "To be able to register to vote and confirm your credentials it is necessary to fill in the format of Registration System for voting from abroad.",
+            "question_answers": [
+                {
+                    "question": "What is required to be able to register to vote and confirm your credentials?",
+                    "answer": "fill in the format of Registration System"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is required to register to vote and confirm your credentials?",
+                    "score": 0.7991,
+                    "answers": "www.eluniversal.com.mx reported on 06/03/2018 that To be able to register to vote and confirm your credentials it is necessary to fill in the format of Registration System for voting from abroad|ROOT\tTo be able to register to vote and confirm your credentials|advcl\table to register to vote and confirm your credentials|acomp\tto register to vote and confirm your credentials|xcomp\tto vote|xcomp\tconfirm your credentials|conj\tyour credentials|dobj\tthat To be able to register to vote and confirm your credentials it is necessary to fill in the format of Registration System for voting from abroad|ccomp\tto fill in the format of Registration System for voting from abroad|xcomp\tthe format of Registration System for voting from abroad|dobj\tof Registration System for voting from abroad|prep\tfor voting from abroad|prep\tvoting from abroad|pcomp\tfrom abroad|prep"
+                }
+            ]
+        },
+        {
+            "claim": "If your card was issued within the country , you have to provide an address abroad for the National Electoral Institute (INE) to send you your electoral package.",
+            "question_answers": [
+                {
+                    "question": "Where was your card issued?",
+                    "answer": "within the country"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to provide an address abroad for the National Electoral Institute?",
+                    "score": 0.8556,
+                    "answers": "within the country|prep"
+                },
+                {
+                    "question": "What are the requirements for receiving a foreign electoral package?",
+                    "score": 0.8037,
+                    "answers": "If|mark\tyour|poss\tyou|nsubj\tan|det\t)|punct\tyou|dative\tyour|poss\telectoral|amod"
+                },
+                {
+                    "question": "What is the National Electoral Institute (INE)?",
+                    "score": 0.7555,
+                    "answers": "that|mark\twas|auxpass\tthe|det\t,|punct\tto|aux\tabroad|advmod\tfor|mark\tthe|det\tElectoral|compound\t(|punct\tto|aux"
+                },
+                {
+                    "question": "What is INE?",
+                    "score": 0.6988,
+                    "answers": "www.eluniversal.com.mx reported on 06/03/2018 that If your card was issued within the country , you have to provide an address abroad for the National Electoral Institute ( INE ) to send you your electoral package|ROOT\tto provide an address abroad for the National Electoral Institute ( INE ) to send you your electoral package|xcomp\tthe National Electoral Institute ( INE )|nsubj\tINE|appos\tfor the National Electoral Institute ( INE ) to send you your electoral package|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, if you have a card issued from abroad it is necessary that at the time of your registration, you attach a photograph of your proof of domicile in the country in which you are located.",
+            "question_answers": [
+                {
+                    "question": "What is a proof of domicile in the country in which you are located if you have a card issued from abroad?",
+                    "answer": "if you have a card issued from abroad it is necessary that at the time of your registration, you attach a photograph"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is it necessary to attach a photograph of your proof of domicile in the country in which you are located?",
+                    "score": 0.7194,
+                    "answers": "On the other hand|prep\tif you have a card issued from abroad|advcl\tthat On the other hand , if you have a card issued from abroad it is necessary that at the time of your registration , you attach a photograph of your proof of domicile in the country in which you are located|ccomp\tnecessary|acomp\tof your proof of domicile in the country in which you are located|prep\tof domicile in the country in which you are located|prep\tdomicile in the country in which you are located|pobj\tin the country in which you are located|prep\tthe country in which you are located|pobj"
+                },
+                {
+                    "question": "What is required to apply for a card issued from abroad?",
+                    "score": 0.691,
+                    "answers": "on 06/03/2018|prep\ta card issued from abroad|dobj\tissued from abroad|acl\tfrom abroad|prep\tyour registration|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Once you have activated and registered your ID to vote, the National Electoral Institute (INE) will send you your email package starting in May.",
+            "question_answers": [
+                {
+                    "question": "What does INE stand for?",
+                    "answer": "National Electoral Institute"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will you receive an email from the National Electoral Institute?",
+                    "score": 0.8011,
+                    "answers": "will|aux\tin May|prep"
+                },
+                {
+                    "question": "When will the National Electoral Institute send you your email package?",
+                    "score": 0.7901,
+                    "answers": "starting in May|advcl"
+                },
+                {
+                    "question": "What is the process for voter registration?",
+                    "score": 0.7851,
+                    "answers": "Once you have activated and registered your ID to vote|advcl"
+                },
+                {
+                    "question": "What is the National Electoral Institute's policy on voter registration?",
+                    "score": 0.781,
+                    "answers": "National|compound"
+                },
+                {
+                    "question": "What is INE?",
+                    "score": 0.5996,
+                    "answers": "the National Electoral Institute ( INE )|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Don't forget that your vote has to come back to the INE before  hours of  June , taking into account the days it takes to arrive in Mexico depending on the country in which you are located.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How long does it take to arrive in Mexico?",
+                    "score": 0.6796,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 06/03/2018|prep\tn't|neg\tto|aux\t  hours of|dep\thours of|dobj\t  June ,|dep\tJune ,|npadvmod\ttaking into account the days it takes to arrive in Mexico depending on the country in which you are located|advcl\tinto account|prep\taccount|pobj\tit takes to arrive in Mexico|relcl\tto|aux\tto arrive in Mexico|xcomp\tin Mexico|prep\tdepending on the country in which you are located|prep\ton the country in which you are located|prep\tthe country in which you are located|pobj\tin which|prep\tin which you are located|relcl"
+                },
+                {
+                    "question": "What is the time difference between voting and voting in Mexico?",
+                    "score": 0.6769,
+                    "answers": "the INE|pobj"
+                }
+            ]
+        }
+    ]
+}

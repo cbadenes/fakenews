@@ -1,0 +1,412 @@
+{
+    "id": "Sociedad_91",
+    "claim": "Even though Mariah Carey is still the 'kingdom' of Christmas, artists like Ozuna, Luis Fonsi or Sebastian Yatra have wanted to create their own Christmas carols. Christmas is a time to become nostalgic, affectionate and romantic, but also to celebrate, dance and rejoice, even though this year is going to be an atypical holiday due to the coronavirus pandemic. But despite this, there is a classic that never changes and accompanies us every Christmas: it is the carol 'All I Want for Chritsmas is you' by Mariah Carey that after 26 years of this classic unappealable at this time and that every year makes him raise thousands and thousands of dollars, some artists have changed their usual format and have adapted to Christmas the way they best know how to do it. 'Christmas came', (Ozuna)Ozuna, the singer of songs like 'Caramelo' has released a carol, after joining in 2018 with 'Selected Generation' and Christian Nieves to release 'Christmas came'. A theme that transmits good vibration with a chorus of the most catchy. [[H3:'Santa Claus is Comin' To Town' (Sebastian Yatra)]]The Colombian has seen one of the classics of Christmas by the mythical Frank Sinatra, 'Santa Claus is Comin' To Town', to remember that it is time to return home, and to meet with their loved ones, even if this year is more complicated. 'Let it snow', (Luis Fonsi) Puerto Rican Luis Fonsi sings the classic 'Let it snow' and has also encouraged these parties to change their musical record. 'Like It's Christmas', (Jonas Brothers)They were one of the first artists to publish their Christmas song this year. 'Like It's Christmas' came as a way to announce that Christmas was already here. 'All I Want (For Christmas)' (Liam Payne)It's not a new version of Mariah Carey's legendary theme, but it does have to do with the artist. It's a song of lovelessness at Christmas. 'Merry Xmas Everybody', (Robbie Williams ft Jaime Cullum)British Williams also wanted to miss the Christmas repertoire and along with Cullum, they created a song of the best set at Christmas. 'Merry Christmas', (Thalia)Thalia celebrates the Christmas spirit and makes everyone dance at these parties with the premiere of her new single 'Merry Christmas'. 'El Niño del Drum', (Juanes)Juanes and Jay de la Cueva, premiere their version of 'El niño del Drum', carol that reinterpret with their particular style. I'm sorry.",
+    "source": "www.antena3.com",
+    "date": "09/12/2020",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Even though Mariah Carey is still the 'kingdom' of Christmas , artists like Ozuna, Luis Fonsi or Sebastian Yatra have wanted to create own Christmas carols.",
+            "question_answers": [
+                {
+                    "question": "Why did artists like Ozuna, Luis Fonsi or Sebastian Yatra want to create their own Christmas carols?",
+                    "answer": "Even though Mariah Carey is still the 'kingdom' of Christmas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What artists have wanted to create their own Christmas carols?",
+                    "score": 0.8961,
+                    "answers": "artists like Ozuna , Luis Fonsi or Sebastian Yatra|nsubj\tlike Ozuna , Luis Fonsi or Sebastian Yatra|prep\tOzuna , Luis Fonsi or Sebastian Yatra|pobj\tLuis Fonsi or Sebastian Yatra|conj"
+                },
+                {
+                    "question": "How many Christmas carols has Mariah Carey created?",
+                    "score": 0.8651,
+                    "answers": "Even though Mariah Carey is still the ' kingdom ' of Christmas|advcl\tof Christmas|prep\tto create own Christmas carols|xcomp\town Christmas carols|dobj"
+                },
+                {
+                    "question": "What is Mariah Carey's history with Christmas carols?",
+                    "score": 0.8176,
+                    "answers": "Mariah|compound\tthat Even though Mariah Carey is still the ' kingdom ' of Christmas , artists like Ozuna , Luis Fonsi or Sebastian Yatra have wanted to create own Christmas carols|ccomp"
+                },
+                {
+                    "question": "What are the names of the artists that wanted to create own Christmas carols?",
+                    "score": 0.8001,
+                    "answers": "own|amod"
+                },
+                {
+                    "question": "What is the relationship between Mariah Carey and Sebastian Yatra?",
+                    "score": 0.7722,
+                    "answers": "www.antena3.com reported on 09/12/2020 that Even though Mariah Carey is still the ' kingdom ' of Christmas , artists like Ozuna , Luis Fonsi or Sebastian Yatra have wanted to create own Christmas carols|ROOT\ton 09/12/2020|prep\tthat|mark\tEven|advmod\tthough|mark\tstill|advmod\tthe|det\t'|punct\t'|punct\t,|punct\t,|punct\tLuis|compound\tSebastian|compound\tto|aux"
+                }
+            ]
+        },
+        {
+            "claim": "Christmas is a time to become nostalgic, affectionate and romantic, but also to celebrate, dance and rejoice, even though this year is going to be an atypical holiday due to the coronavirus pandemic.",
+            "question_answers": [
+                {
+                    "question": "What is the cause of the atypical holiday this year?",
+                    "answer": "the coronavirus pandemic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What year was the coronavirus pandemic?",
+                    "score": 0.7711,
+                    "answers": "09/12/2020|pobj"
+                },
+                {
+                    "question": "What did the coronavirus do to make Christmas seem atypical?",
+                    "score": 0.7653,
+                    "answers": "rejoice|conj"
+                },
+                {
+                    "question": "What are the cons of the coronavirus pandemic?",
+                    "score": 0.6666,
+                    "answers": "nostalgic , affectionate and romantic|acomp"
+                },
+                {
+                    "question": "What is the coronavirus pandemic?",
+                    "score": 0.6605,
+                    "answers": "www.antena3.com|nsubj\twww.antena3.com reported on 09/12/2020 that Christmas is a time to become nostalgic , affectionate and romantic , but also to celebrate , dance and rejoice , even though this year is going to be an atypical holiday due to the coronavirus pandemic|ROOT\tthat|mark\tthat Christmas is a time to become nostalgic , affectionate and romantic , but also to celebrate , dance and rejoice , even though this year is going to be an atypical holiday due to the coronavirus pandemic|ccomp\ta|det\ta time to become nostalgic , affectionate and romantic , but also to celebrate , dance and rejoice , even though this year is going to be an atypical holiday due to the coronavirus pandemic|attr\tto|aux\tto become nostalgic , affectionate and romantic , but also to celebrate , dance and rejoice , even though this year is going to be an atypical holiday due to the coronavirus pandemic|relcl\t,|punct\tand|cc\t,|punct\talso|advmod\tto|aux\tto celebrate , dance and rejoice , even though this year is going to be an atypical holiday due to the coronavirus pandemic|conj\t,|punct\tand|cc\t,|punct\teven|advmod\tthough|mark\tthis|det\tis|aux\teven though this year is going to be an atypical holiday due to the coronavirus pandemic|conj\tto|aux\tto be an atypical holiday due to the coronavirus pandemic|xcomp\tan|det\tdue to the coronavirus pandemic|prep\tto|pcomp\tthe|det\tthe coronavirus pandemic|pobj"
+                },
+                {
+                    "question": "What is the relationship between Christmas and the coronavirus?",
+                    "score": 0.6535,
+                    "answers": "affectionate and romantic|conj\tromantic|conj"
+                }
+            ]
+        },
+        {
+            "claim": "But despite this, there is a classic that never changes and accompanies us every Christmas : a classic that never changes and accompanies us every Christmas is the carol 'All I Want for Chritsmas is you' by Mariah Carey that after 26 years of a classic that never changes and accompanies us every Christmas unappealable at this time and that every year makes him raise thousands and thousands of dollars, some artists have changed usual format and have adapted to Christmas the way some artists best know how to do adapted .",
+            "question_answers": [
+                {
+                    "question": "What is the carol 'All I Want for Chritsmas is you'?",
+                    "answer": "accompanies us every Christmas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What song does Mariah Carey perform every Christmas?",
+                    "score": 0.8331,
+                    "answers": "on 09/12/2020|prep\tthe carol ' All I Want for Chritsmas is you ' by Mariah Carey|attr\tAll I Want for Chritsmas|nsubj\tI Want for Chritsmas|relcl\tfor Chritsmas|prep\tChritsmas|pobj\tby Mariah Carey|prep"
+                },
+                {
+                    "question": "How much money does Mariah Carey raise every year for Christmas?",
+                    "score": 0.8287,
+                    "answers": "that after 26 years of a classic that never changes and accompanies us every Christmas unappealable at this time and that every year makes him raise thousands and thousands of dollars|prep"
+                },
+                {
+                    "question": "What does Mariah Carey say about Christmas?",
+                    "score": 0.8047,
+                    "answers": "that But despite this , there is a classic that never changes and accompanies us every Christmas :|ccomp\ta classic that never changes and accompanies us every Christmas :|attr\taccompanies us every Christmas|conj\taccompanies us every Christmas|conj\tof a classic that never changes and accompanies us every Christmas unappealable at this time|prep\ta classic that never changes and accompanies us every Christmas unappealable at this time|pobj\taccompanies us every Christmas unappealable at this time|conj"
+                },
+                {
+                    "question": "How many artists have adapted to Christmas the way some artists best know how to do?",
+                    "score": 0.7816,
+                    "answers": "have adapted to Christmas the way some artists best know how to do adapted|conj"
+                },
+                {
+                    "question": "What is Mariah Carey's history with Christmas carol?",
+                    "score": 0.7802,
+                    "answers": "how|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "'Christmas came', (Ozuna)Ozuna has released a carol, after joining in 2018 with 'Selected Generation' and Christian Nieves to release 'Christmas came'.",
+            "question_answers": [
+                {
+                    "question": "Along with 'Selected Generation' and 'Christmas came', who released 'Christmas came'?",
+                    "answer": "Christian Nieves"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Ozuna release a carol?",
+                    "score": 0.8472,
+                    "answers": "www.antena3.com reported on 09/12/2020 that ' Christmas came ' , (|ccomp\ton 09/12/2020|prep\t09/12/2020|pobj\tthat|mark\t,|punct\t(|punct\t,|punct\tafter joining in 2018 with ' Selected Generation ' and Christian Nieves to release ' Christmas came '|prep\tjoining in 2018 with ' Selected Generation ' and Christian Nieves to release ' Christmas came '|pcomp\tin 2018|prep\tand|cc\tto|aux\tto release ' Christmas came '|advcl\tChristmas came|ccomp"
+                },
+                {
+                    "question": "What type of carol did Ozuna release in 2018?",
+                    "score": 0.8273,
+                    "answers": "a carol|dobj"
+                },
+                {
+                    "question": "What is the relationship between Ozuna and Christian Nieves?",
+                    "score": 0.6924,
+                    "answers": "Christian|compound"
+                }
+            ]
+        },
+        {
+            "claim": "A theme that transmits good vibration with a chorus of the most catchy.",
+            "question_answers": [
+                {
+                    "question": "What did www.antena3.com report on 09/12/2020?",
+                    "answer": "A theme that transmits good vibration with a chorus of the most catchy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the song \"Good vibration\"?",
+                    "score": 0.6855,
+                    "answers": "on 09/12/2020|prep\t09/12/2020|pobj\tthat transmits good vibration with a chorus of the most catchy|relcl\ta chorus of the most catchy|pobj\tthe most catchy|pobj"
+                },
+                {
+                    "question": "What is the theme that transmits good vibration with a chorus of the most catchy?",
+                    "score": 0.6854,
+                    "answers": "that A theme that transmits good vibration with a chorus of the most catchy|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "[[H3:'Santa Claus is Comin' To Town' (Sebastian Yatra)]]The Colombian has seen one of the classics of Christmas by the mythical Frank Sinatra, 'Santa Claus is Comin' To Town', to remember that it is time to return home, and to meet with their loved ones, even if this year is more complicated.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of 'Santa Claus is Comin' To Town'?",
+                    "answer": "to remember that it is time to return home, and to meet with their loved ones, even if this year is more complicated"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Frank Sinatra say about Santa Claus being Comin To Town?",
+                    "score": 0.8163,
+                    "answers": "www.antena3.com|nsubj\ton 09/12/2020|prep\tthat [ [ H3:'Santa Claus is Comin ' To Town ' (|ccomp\tone of the classics of Christmas by the mythical Frank Sinatra , ' Santa Claus is Comin ' To Town '|dobj\tSanta Claus is Comin ' To Town|appos"
+                },
+                {
+                    "question": "What has Frank Sinatra said about Santa Claus is Comin To Town?",
+                    "score": 0.8111,
+                    "answers": "Colombian has seen one of the classics of Christmas by the mythical Frank Sinatra , ' Santa Claus is Comin ' To Town ' , to remember that it is time to return home , and to meet with their loved ones , even if this year is more complicated|ccomp"
+                },
+                {
+                    "question": "What does it mean to return home and to meet your loved ones?",
+                    "score": 0.7185,
+                    "answers": "to return home , and to meet with their loved ones , even if this year is more complicated|relcl"
+                },
+                {
+                    "question": "What is the history of Christmas by Frank Sinatra?",
+                    "score": 0.7158,
+                    "answers": "www.antena3.com reported on 09/12/2020 that [ [ H3:'Santa Claus is Comin ' To Town ' ( Sebastian Yatra)]]The Colombian has seen one of the classics of Christmas by the mythical Frank Sinatra , ' Santa Claus is Comin ' To Town ' , to remember that it is time to return home , and to meet with their loved ones , even if this year is more complicated|ROOT\t09/12/2020|pobj\tthat|mark\t[|punct\t[|punct\tClaus|nsubj\tis|aux\t'|punct\tTo Town|prep\tTown|pobj\t'|punct\t(|punct\tSebastian|compound\thas|aux\tof the classics of Christmas by the mythical Frank Sinatra|prep\tthe|det\tthe classics of Christmas by the mythical Frank Sinatra|pobj\tof Christmas|prep\tthe|det\tmythical|amod\tFrank|compound\tthe mythical Frank Sinatra|pobj\t,|punct\t'|punct\tSanta|compound\tSanta Claus|nsubj\tis|aux\t'|punct\tTo Town|prep\tTown|pobj\t'|punct\t,|punct\tto|aux\tthat|mark\tit|nsubj\tto|aux\thome|advmod\t,|punct\tand|cc\tto|aux\ttheir|poss\tloved|amod\ttheir loved ones|pobj\t,|punct\teven|advmod\tif|mark\tthis|det\tmore|advmod\tmore complicated|acomp"
+                },
+                {
+                    "question": "What is the relationship between Santa Claus and Comin To Town?",
+                    "score": 0.6889,
+                    "answers": "even if this year is more complicated|conj"
+                }
+            ]
+        },
+        {
+            "claim": "'Let it snow', (Luis Fonsi) Puerto Rican Luis Fonsi sings the classic 'Let it snow' and has also encouraged these parties to change their musical record.",
+            "question_answers": [
+                {
+                    "question": "When did Luis Fonsi sing 'Let it snow'?",
+                    "answer": "09/12/2020"
+                },
+                {
+                    "question": "What has Luis Fonsi done to parties?",
+                    "answer": "encouraged these parties to change their musical record"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Luis Fonsi say about Let It Snow?",
+                    "score": 0.7775,
+                    "answers": "has also encouraged these parties to change their musical record|conj"
+                },
+                {
+                    "question": "What is Luis Fonsi's musical record?",
+                    "score": 0.6933,
+                    "answers": "on 09/12/2020|prep\t09/12/2020|pobj\tthat|mark\t'|punct\t' Let it snow|acl\tit|nsubj\tit snow|ccomp\t'|punct\t,|punct\t(|punct\tLuis|compound\tthat ' Let it snow ' , ( Luis Fonsi )|dep\t)|punct\tPuerto|amod\tLuis|compound\tPuerto Rican Luis Fonsi|nsubj\tPuerto Rican Luis Fonsi sings the classic ' Let it snow ' and has also encouraged these parties to change their musical record|ROOT\tthe|det\t'|punct\tLet it snow '|appos\tit|nsubj\tit snow|ccomp\t'|punct\tand|cc\thas|aux\talso|advmod\tthese|det\tthese parties|dobj\tto|aux\tto change their musical record|xcomp\ttheir|poss\tmusical|amod\ttheir musical record|dobj"
+                },
+                {
+                    "question": "What is the musical record of Luis Fonsi?",
+                    "score": 0.683,
+                    "answers": "www.antena3.com|nsubj"
+                },
+                {
+                    "question": "What is the name of Luis Fonsi's song Let it snow?",
+                    "score": 0.6818,
+                    "answers": "the classic ' Let it snow '|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Like It's Christmas', (Jonas Brothers)They were one of the first artists to publish their Christmas song this year.",
+            "question_answers": [
+                {
+                    "question": "On what date was 'Like It's Christmas' released?",
+                    "answer": "09/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What song did Jonas Brothers release in 2019?",
+                    "score": 0.8602,
+                    "answers": "that|mark\t'|punct\tLike|mark\tIt|nsubj\t' Like It 's Christmas ' , (|meta\t'|punct\t,|punct\t(|punct\tthe|det\tto|aux\ttheir|poss\tthis|det"
+                },
+                {
+                    "question": "How many artists have published their Christmas song this year?",
+                    "score": 0.833,
+                    "answers": "one of the first artists to publish their Christmas song this year|attr\tof the first artists to publish their Christmas song this year|prep\tthe first artists to publish their Christmas song this year|pobj"
+                },
+                {
+                    "question": "What is the name of Jonas Brothers song?",
+                    "score": 0.7547,
+                    "answers": "their Christmas song|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Like It's Christmas' came as a way to announce that Christmas was already here.",
+            "question_answers": [
+                {
+                    "question": "What came as a way to announce that Christmas was already here?",
+                    "answer": "'Like It's Christmas'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the website \"Like It's Christmas\" say about Christmas?",
+                    "score": 0.8041,
+                    "answers": "on 09/12/2020|prep\tas a way to announce that Christmas was already here|prep\tthat Christmas was already here|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Christmas in the USA?",
+                    "score": 0.7169,
+                    "answers": "a|det\ta way to announce that Christmas was already here|pobj\talready|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "'All I Want (For Christmas)' (Liam Payne)It's not a new version of Mariah Carey's legendary theme, but it does have to do with the artist.",
+            "question_answers": [
+                {
+                    "question": "What was Liam Payne's theme?",
+                    "answer": "'All I Want (For Christmas)'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the song \"All I Want (For Christmas) have to do with the artist?",
+                    "score": 0.7456,
+                    "answers": "to do with the artist|xcomp"
+                },
+                {
+                    "question": "What is Mariah Carey's legendary theme?",
+                    "score": 0.7365,
+                    "answers": "of Mariah Carey 's legendary theme|prep\tMariah Carey 's|poss\tMariah Carey 's legendary theme|pobj"
+                },
+                {
+                    "question": "What is the relationship between Liam Payne and Mariah Carey?",
+                    "score": 0.7075,
+                    "answers": "Liam|compound"
+                }
+            ]
+        },
+        {
+            "claim": "It's a song of lovelessness at Christmas.",
+            "question_answers": [
+                {
+                    "question": "When did www.antena3.com report that It's a song of lovelessness at Christmas?",
+                    "answer": "09/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is lovelessness at Christmas?",
+                    "score": 0.7996,
+                    "answers": "of lovelessness|prep\tlovelessness|pobj"
+                },
+                {
+                    "question": "What is the song of lovelessness at Christmas?",
+                    "score": 0.7751,
+                    "answers": "www.antena3.com|nsubj\twww.antena3.com reported on 09/12/2020 that It 's a song of lovelessness at Christmas|ROOT\ton 09/12/2020|prep\tthat|mark\tIt|nsubj\tthat It 's a song of lovelessness at Christmas|ccomp\ta|det\ta song of lovelessness|attr\tat Christmas|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'Merry Xmas Everybody', (Robbie Williams ft Jaime Cullum)British Williams also wanted to miss the Christmas repertoire and along with Cullum, they created a song of the best set at Christmas.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why did Robbie Williams miss the Christmas repertoire?",
+                    "score": 0.8557,
+                    "answers": "to miss the Christmas repertoire|xcomp"
+                },
+                {
+                    "question": "What song did Robbie Williams co-write with Jamie Cullum?",
+                    "score": 0.8113,
+                    "answers": "Robbie Williams ft|appos"
+                },
+                {
+                    "question": "What is the song \"Merry Xmas Everybody\"?",
+                    "score": 0.7014,
+                    "answers": "Merry|compound\tMerry Xmas|compound"
+                },
+                {
+                    "question": "What is the best set at Christmas?",
+                    "score": 0.6576,
+                    "answers": "of the best set at Christmas|prep\tthe best set at Christmas|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Merry Christmas', (Thalia)Thalia celebrates the Christmas spirit and makes everyone dance at these parties with the premiere of her new single 'Merry Christmas'.",
+            "question_answers": [
+                {
+                    "question": "What does 'Merry Christmas' make everyone do?",
+                    "answer": "dance"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the meaning of the song Merry Christmas?",
+                    "score": 0.6695,
+                    "answers": "the Christmas spirit|dobj"
+                },
+                {
+                    "question": "What is the name of Thalia's song \"Merry Christmas\"?",
+                    "score": 0.6644,
+                    "answers": "www.antena3.com|nsubj\ton 09/12/2020|prep\t09/12/2020|pobj\tthat|mark\tMerry|compound\t' Merry Christmas|dep\t,|punct\t(|punct\tthe|det\tChristmas|compound\tand|cc\tmakes everyone dance at these parties with the premiere of her new single ' Merry Christmas '|conj\tat these parties|prep\tthese|det\tthe|det\ther|poss\tnew|amod\ther new single ' Merry Christmas '|pobj\tMerry|compound\t' Merry Christmas|appos"
+                },
+                {
+                    "question": "What is Thalia's relationship with Christmas?",
+                    "score": 0.6626,
+                    "answers": "( Thalia)Thalia|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Thalia and Merry Christmas?",
+                    "score": 0.634,
+                    "answers": "everyone dance at these parties|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'El Niño del Drum', (Juanes)Juanes and Jay de la Cueva, premiere their version of 'El niño del Drum', carol that reinterpret with their particular style.",
+            "question_answers": [
+                {
+                    "question": "What type of song did Juanes and Jay de la Cueva reinterpret in their version of 'El nio del Drum'?",
+                    "answer": "carol"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What song did Jay de la Cueva release in 2019?",
+                    "score": 0.8245,
+                    "answers": "El|compound\tJay|compound\tla|compound\tEl|compound"
+                },
+                {
+                    "question": "What type of carol is El Niño del Drum?",
+                    "score": 0.796,
+                    "answers": "carol that reinterpret with their particular style|appos"
+                },
+                {
+                    "question": "What is the name of the song \"El Niño del Drum\"?",
+                    "score": 0.631,
+                    "answers": "www.antena3.com|nsubj\tNiño|compound\tniño|nmod"
+                }
+            ]
+        }
+    ]
+}

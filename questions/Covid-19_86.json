@@ -1,0 +1,279 @@
+{
+    "id": "Covid-19_86",
+    "claim": "Support for ‘Covid-19 Passport' is not unanimous. The Secretary-General of the Council of Europe, Marija Pejcinovic, conveyed her suspicion this Friday towards a pass that she believes can be “discriminatory” if it results in “unjustified differences” in treatment between individuals due to their state of health. “A document that gives vaccinated people access to rights, services and places is problematic if such access continues to be prohibited to those who cannot be vaccinated,” Pejcinovic said in a message sent to the permanent committee of the Parliamentary Assembly of the organization. The Secretary-General of the Council of Europe has also expressed doubts about the possibility that individual governments may issue vaccination certificates allowing only those who have been immunized to cross borders. Vaccine, test or antibodiesThe 'Covid passport' was presented last Wednesday, and according to European Commission President Ursula Von der Leyen,'will show if the person has been vaccinated, has recently passed a negative test or has antibodies against Covid-19\". This pass is aimed at facilitating movement between Community countries, although in principle it will not exempt people from quarantine when they arrive at the destination. It will be the countries themselves that decide without maintaining the restrictions or not. Travel to other areas will also not be permitted, although the Organization for Economic Cooperation and Development (OECD) has been in favour of establishing mobility protocols to countries in Latin America and Asia or to the United States. 'No 'to travel between autonomies In parallel, from the Department of Tourism confirmed to Medical Writing that the passport will not facilitate transfers between autonomous communities. In this regard, they pointed out that “other possible uses at the national level” are not contemplated. I'm sorry.",
+    "source": "www.redaccionmedica.com",
+    "date": "19/03/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Support for ‘Covid-19 Passport' is not unanimous.",
+            "question_answers": [
+                {
+                    "question": "When did www.redaccionmedica.com report that Support for 'Covid-19 Passport' is not unanimous?",
+                    "answer": "19/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of support for the Covid-19 Passport?",
+                    "score": 0.8405,
+                    "answers": "‘|punct"
+                },
+                {
+                    "question": "What is Covid-19 Passport?",
+                    "score": 0.8176,
+                    "answers": "www.redaccionmedica.com reported on 19/03/2021 that Support for ‘ Covid-19 Passport ' is not unanimous|ROOT\ton 19/03/2021|prep\tSupport for ‘ Covid-19 Passport '|nsubj\tfor ‘ Covid-19 Passport '|prep\tCovid-19|nummod\t‘ Covid-19 Passport '|pobj\tthat Support for ‘ Covid-19 Passport ' is not unanimous|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The Secretary-General of the Council of Europe, Marija Pejcinovic, conveyed suspicion this Friday towards a pass that The Secretary-General of the Council of Europe, Marija Pejcinovic, believes can be “discriminatory” if ‘Covid-19 Passport' results in “unjustified differences” in treatment between individuals due to state of health.",
+            "question_answers": [
+                {
+                    "question": "What did the Secretary-General of the Council of Europe think of the pass?",
+                    "answer": "“discriminatory” if ‘Covid-19 Passport' results in “unjustified differences” in treatment between individuals"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Marija Pejcinovic say about Covid-19 Passport?",
+                    "score": 0.7866,
+                    "answers": "suspicion towards a pass The Secretary - General of the Council of Europe , Marija Pejcinovic , believes that can be “ discriminatory ” if ‘ Covid-19 Passport ' results in “ unjustified differences ” in treatment between individuals due to state of health|dobj\ttowards a pass The Secretary - General of the Council of Europe , Marija Pejcinovic , believes that can be “ discriminatory ” if ‘ Covid-19 Passport ' results in “ unjustified differences ” in treatment between individuals due to state of health|prep\ta pass The Secretary - General of the Council of Europe , Marija Pejcinovic , believes that can be “ discriminatory ” if ‘ Covid-19 Passport ' results in “ unjustified differences ” in treatment between individuals due to state of health|pobj\tThe Secretary - General of the Council of Europe , Marija Pejcinovic , believes that can be “ discriminatory ” if ‘ Covid-19 Passport ' results in “ unjustified differences ” in treatment between individuals due to state of health|relcl\tunjustified differences ” in treatment between individuals due to state of health|pobj"
+                },
+                {
+                    "question": "What is Marija Pejcinovic's position on Covid-19 Passport?",
+                    "score": 0.6928,
+                    "answers": "www.redaccionmedica.com reported on 19/03/2021 that The Secretary - General of the Council of Europe , Marija Pejcinovic , conveyed suspicion towards a pass The Secretary - General of the Council of Europe , Marija Pejcinovic , believes that can be “ discriminatory ” if ‘ Covid-19 Passport ' results in “ unjustified differences ” in treatment between individuals due to state of health this Friday|ROOT\tthat The Secretary - General of the Council of Europe , Marija Pejcinovic , conveyed suspicion towards a pass The Secretary - General of the Council of Europe , Marija Pejcinovic , believes that can be “ discriminatory ” if ‘ Covid-19 Passport ' results in “ unjustified differences ” in treatment between individuals due to state of health this Friday|ccomp"
+                },
+                {
+                    "question": "What are the symptoms of Covid-19 Passport?",
+                    "score": 0.6865,
+                    "answers": "individuals|pobj"
+                },
+                {
+                    "question": "What is the Covid-19 Passport?",
+                    "score": 0.6826,
+                    "answers": "if ‘ Covid-19 Passport ' results in “ unjustified differences ” in treatment between individuals due to state of health|advcl"
+                },
+                {
+                    "question": "What is Covid-19 Passport?",
+                    "score": 0.6665,
+                    "answers": "that can be “ discriminatory ” if ‘ Covid-19 Passport ' results in “ unjustified differences ” in treatment between individuals due to state of health|ccomp\tCovid-19|nmod\t‘ Covid-19 Passport|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "“A document that gives vaccinated people access to rights, services and places is problematic if such access continues to be prohibited to those who cannot be vaccinated,” The Secretary-General of the Council of Europe, Marija Pejcinovic, said in a message sent to the permanent committee of the Parliamentary Assembly of the Council of Europe .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the rights of vaccinated people who cannot be vaccinated?",
+                    "score": 0.8228,
+                    "answers": "www.redaccionmedica.com|nsubj\ton 19/03/2021|prep\tthat gives vaccinated people access to rights , services and places|relcl\tvaccinated|amod\tvaccinated people|dative"
+                },
+                {
+                    "question": "What is the name of the document that gives vaccinated people access to rights?",
+                    "score": 0.7578,
+                    "answers": "a message sent to the permanent committee of the Parliamentary Assembly of the Council of Europe|pobj"
+                },
+                {
+                    "question": "What does the Parliamentary Assembly of the Council of Europe do?",
+                    "score": 0.7385,
+                    "answers": "sent to the permanent committee of the Parliamentary Assembly of the Council of Europe|acl"
+                },
+                {
+                    "question": "Who is Marija Pejcinovic?",
+                    "score": 0.6711,
+                    "answers": "Secretary|compound\tThe Secretary - General of the Council of Europe , Marija Pejcinovic ,|nsubj\tMarija|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The Secretary-General of the Council of Europe, Marija Pejcinovic, has also expressed doubts about the possibility that individual governments may issue vaccination certificates allowing only those who have been immunized to cross borders.",
+            "question_answers": [
+                {
+                    "question": "What has the Secretary-General expressed doubts about?",
+                    "answer": "the possibility that individual governments may issue vaccination certificates allowing only those who have been immunized to cross borders"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries are allowed to issue vaccination certificates?",
+                    "score": 0.8797,
+                    "answers": "that individual governments may issue vaccination certificates allowing only those who have been immunized to cross borders|acl"
+                },
+                {
+                    "question": "What are the vaccination certificates for those who are immunized to cross borders?",
+                    "score": 0.8715,
+                    "answers": "only those who have been immunized|dobj"
+                },
+                {
+                    "question": "What is Marija Pejcinovic's stance on vaccination?",
+                    "score": 0.8414,
+                    "answers": "of Europe|prep\tdoubts about the possibility that individual governments may issue vaccination certificates allowing only those who have been immunized to cross borders|dobj\tabout the possibility that individual governments may issue vaccination certificates allowing only those who have been immunized to cross borders|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Marija Pejcinovic's vaccination certificates?",
+                    "score": 0.8291,
+                    "answers": "to cross borders|xcomp\tborders|dobj"
+                },
+                {
+                    "question": "Who is Marija Pejcinovic?",
+                    "score": 0.7529,
+                    "answers": "Secretary|compound\tThe Secretary - General of the Council of Europe , Marija Pejcinovic ,|nsubj\tof the Council of Europe|prep\tMarija|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Vaccine, test or ‘Covid-19 Passport' was presented last Wednesday, and according to European Commission President Ursula Von der Leyen,'will show if the person has been vaccinated, has recently passed a negative test or has antibodies against Covid-19\".",
+            "question_answers": [
+                {
+                    "question": "When did www.redaccionmedica.com report that Vaccine, test or 'Covid-19 Passport' was presented?",
+                    "answer": "19/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the European Commission President Ursula Von der Leyen say about vaccines?",
+                    "score": 0.8385,
+                    "answers": "Ursula|compound"
+                },
+                {
+                    "question": "What is Covid-19 Passport?",
+                    "score": 0.7627,
+                    "answers": "www.redaccionmedica.com|nsubj\twww.redaccionmedica.com reported on 19/03/2021 that Vaccine , test or ‘ Covid-19 Passport ' was presented last Wednesday , and according to European Commission President Ursula Von der Leyen,'will show if the person has been vaccinated , has recently passed a negative test or has antibodies against Covid-19 \"|ROOT\ton 19/03/2021|prep\tthat|mark\tVaccine , test or ‘ Covid-19 Passport '|nsubjpass\t,|punct\ttest or ‘ Covid-19 Passport '|conj\tor|cc\t‘|punct\tCovid-19|compound\t‘ Covid-19 Passport '|conj\t'|punct\twas|auxpass\tthat Vaccine , test or ‘ Covid-19 Passport ' was presented last Wednesday , and according to European Commission President Ursula Von der Leyen,'will show if the person has been vaccinated , has recently passed a negative test or has antibodies against Covid-19|ccomp\tlast|amod\t,|punct\tand|cc\taccording to European Commission President Ursula Von der Leyen,'will|prep\tto|prep\tVon|compound\tder|compound\tEuropean Commission President Ursula Von der Leyen,'will|pobj\taccording to European Commission President Ursula Von der Leyen,'will show if the person has been vaccinated , has recently passed a negative test or has antibodies against Covid-19|conj\tif|mark\tthe|det\tthe person|nsubjpass\thas|aux\tbeen|auxpass\tif the person has been vaccinated , has recently passed a negative test or has antibodies against Covid-19|ccomp\t,|punct\thas|aux\trecently|advmod\thas recently passed a negative test or has antibodies against Covid-19|conj\ta|det\tnegative|amod\ta negative test|dobj\tor|cc\thas antibodies against Covid-19|conj\tantibodies against Covid-19|dobj\tagainst Covid-19|prep\tCovid-19|pobj\t\"|punct"
+                },
+                {
+                    "question": "What is the relationship between Vaccine, test, and Covid-19 Passport?",
+                    "score": 0.7471,
+                    "answers": "European|compound"
+                },
+                {
+                    "question": "Who is Dr. Ursula Von der Leyen?",
+                    "score": 0.7324,
+                    "answers": "European Commission President|compound"
+                }
+            ]
+        },
+        {
+            "claim": "‘Covid-19 Passport' is aimed at facilitating movement between Community countries , although in principle ‘Covid-19 Passport' will not exempt people from quarantine when people arrive at the destination.",
+            "question_answers": [
+                {
+                    "question": "What is the aim of the 'Covid-19 Passport'?",
+                    "answer": "facilitating movement between Community countries"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of the Covid-19 Passport?",
+                    "score": 0.7285,
+                    "answers": "on 19/03/2021|prep\tthat|mark\t‘|punct\t'|punct\tis|auxpass\tat facilitating movement between Community countries|prep\tfacilitating movement between Community countries|pcomp\tCommunity countries|pobj\t,|punct\talthough|mark\tin principle|prep\t‘|punct\t'|punct\twill|aux\tnot|neg\tfrom quarantine|prep\twhen|advmod\tthe|det\tthe destination|pobj"
+                },
+                {
+                    "question": "What is Covid-19 Passport?",
+                    "score": 0.7238,
+                    "answers": "www.redaccionmedica.com|nsubj\twww.redaccionmedica.com reported on 19/03/2021 that ‘ Covid-19 Passport ' is aimed at facilitating movement between Community countries , although in principle ‘ Covid-19 Passport ' will not exempt people from quarantine when people arrive at the destination|ROOT\tCovid-19|compound\t‘ Covid-19 Passport '|nsubjpass\tthat ‘ Covid-19 Passport ' is aimed at facilitating movement between Community countries , although in principle ‘ Covid-19 Passport ' will not exempt people from quarantine when people arrive at the destination|ccomp\tmovement between Community countries|dobj\tbetween Community countries|prep\tCommunity|compound\tprinciple|pobj\tCovid-19|compound\t‘ Covid-19 Passport|nsubj\talthough in principle ‘ Covid-19 Passport ' will not exempt people from quarantine when people arrive at the destination|advcl\tpeople|dobj\tquarantine|pobj\tpeople|nsubj\twhen people arrive at the destination|advcl\tat the destination|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It will be Community countries that decide without maintaining the restrictions or not.",
+            "question_answers": [
+                {
+                    "question": "When did www.redaccionmedica.com report that it will be the Community countries that decide without maintaining the restrictions or not?",
+                    "answer": "19/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the definition of a community country?",
+                    "score": 0.751,
+                    "answers": "without maintaining the restrictions or not|prep"
+                },
+                {
+                    "question": "What countries decide without maintaining the restrictions or not?",
+                    "score": 0.7243,
+                    "answers": "on 19/03/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Travel to other areas will also not be permitted, although the Organization for Economic Cooperation and Development (OECD) has been in favour of establishing mobility protocols to countries in Latin America and Asia or to the United States.",
+            "question_answers": [
+                {
+                    "question": "Who has been in favor of establishing mobility protocols to countries in Latin America and Asia?",
+                    "answer": "the Organization for Economic Cooperation and Development (OECD)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the OECD say about travel to other areas of the world?",
+                    "score": 0.8055,
+                    "answers": "also|advmod\talthough|mark\t)|punct\tor|cc"
+                },
+                {
+                    "question": "What areas of the world are not allowed to travel to other areas?",
+                    "score": 0.7763,
+                    "answers": "to other areas|prep\tother areas|pobj"
+                },
+                {
+                    "question": "What is the purpose of developing mobility protocols?",
+                    "score": 0.717,
+                    "answers": "establishing mobility protocols to countries in Latin America and Asia or to the United States|pcomp\tmobility protocols|dobj"
+                },
+                {
+                    "question": "What is the travel ban on other areas?",
+                    "score": 0.7091,
+                    "answers": "Travel to other areas|nsubjpass"
+                },
+                {
+                    "question": "What is the definition of mobility protocols?",
+                    "score": 0.6828,
+                    "answers": "mobility|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'No 'to travel between autonomies In parallel, from the Department of Tourism confirmed to Medical Writing that the passport will not facilitate transfers between autonomous communities.",
+            "question_answers": [
+                {
+                    "question": "What did redaccionmedica.com report on 19/03/2021?",
+                    "answer": "'No"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Department of Tourism say about transfers between autonomous communities?",
+                    "score": 0.7329,
+                    "answers": "www.redaccionmedica.com|nsubj\ton 19/03/2021|prep\tthat|mark\t'|punct\t'|punct\tto|dep\tautonomies|pobj\tIn parallel|prep\tparallel|pobj\t,|punct\tfrom the Department of Tourism|prep\tthe|det\tof Tourism|prep\tTourism|pobj\tIn parallel , from the Department of Tourism confirmed to Medical Writing that the passport will not facilitate transfers between autonomous communities|ROOT\tto Medical Writing|prep\tMedical|compound\tthat|mark\tthe|det\tthe passport|nsubj\twill|aux\tnot|neg\tthat the passport will not facilitate transfers between autonomous communities|ccomp\ttransfers between autonomous communities|dobj\tbetween autonomous communities|prep\tautonomous|amod\tautonomous communities|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In this regard, they pointed out that “other possible uses at the national level” are not contemplated.",
+            "question_answers": [
+                {
+                    "question": "When did www.redaccionmedica.com report that other uses at the national level were not contemplated?",
+                    "answer": "19/03/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the possible uses of other uses at the national level?",
+                    "score": 0.7539,
+                    "answers": "that In this regard , they pointed out that “ other possible uses at the national level ” are not contemplated|ccomp\tother possible uses at the national level|nsubjpass\tthat “ other possible uses at the national level ” are not contemplated|ccomp"
+                },
+                {
+                    "question": "What are other possible uses for the national level?",
+                    "score": 0.7476,
+                    "answers": "www.redaccionmedica.com reported on 19/03/2021 that In this regard , they pointed out that “ other possible uses at the national level ” are not contemplated|ROOT\tother|amod"
+                },
+                {
+                    "question": "What is the national level?",
+                    "score": 0.6962,
+                    "answers": "at the national level|prep\tthe national level|pobj"
+                }
+            ]
+        }
+    ]
+}

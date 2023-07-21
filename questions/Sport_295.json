@@ -1,0 +1,238 @@
+{
+    "id": "Sport_295",
+    "claim": "Although the Pumas managed to tie the overall score in the final match of the Mexican League or MX League, they ended up losing in prison to the Tigers of the UANL. After that, the top managers of the team prepare a complaint to Femexfut, so according to their point of view, it represented an advantage for those of Nuevo Leon. 'We have a lot to be upset about ', Guillermo Vázquez, technical director of Pumas, told the media. 'In the first place, unlike against America, all the time we played eleven opposing elements, which made it difficult at all times for that puma claw to be fully displayed. In the same way, the shots made by the Tiger players were so strong that they could injure our goalkeeper. For this reason, he himself decided not to stop the goal shooting in the one-way game, because his integrity was at risk'. However, that is not the central point of his complaint, but arbitration. According to the technician, research done by experts indicates that of the arbitrators appointed for both games, all without exception, did their entrance examination for UNAM at the time and were rejected. 'This is certainly the most painful and regrettable and we demand that Femexfut provide us with a third match in optimal conditions to win that trophy that our fans long for ', he concluded. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "14/12/2015",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Although the Pumas managed to tie the overall score in the final match of the Mexican League or MX League, the Pumas ended up losing in prison to the Tigers of the UANL .",
+            "question_answers": [
+                {
+                    "question": "Who did the Pumas lose to in the final match of the UANL?",
+                    "answer": "the Tigers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did the Pumas tie the score in the final match of the Mexican League or MX League?",
+                    "score": 0.794,
+                    "answers": "to tie the overall score in the final match of the Mexican League or MX League|xcomp\tthe overall score|dobj\tfinal|amod"
+                },
+                {
+                    "question": "What did the Pumas lose to the Tigers of the UANL?",
+                    "score": 0.7701,
+                    "answers": "that Although the Pumas managed to tie the overall score in the final match of the Mexican League or MX League , the Pumas ended up losing in prison to the Tigers of the UANL|ccomp\tof the UANL|prep"
+                }
+            ]
+        },
+        {
+            "claim": "After losing , the top managers of the team prepare a complaint to Femexfut , so according to point of view, it represented an advantage for those of Nuevo Leon.",
+            "question_answers": [
+                {
+                    "question": "When did the top managers of the team prepare a complaint to Femexfut?",
+                    "answer": "After losing"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the top managers of the team prepare a complaint to Femexfut after losing?",
+                    "score": 0.7729,
+                    "answers": "After losing|prep\tto point of view|prep"
+                },
+                {
+                    "question": "What is the relationship between Nuevo Leon and Femexfut?",
+                    "score": 0.6152,
+                    "answers": "the top managers of the team|nsubj\tso according to point of view , it represented an advantage for those of Nuevo Leon|conj\tfor those of Nuevo Leon|prep\tthose of Nuevo Leon|pobj\tof Nuevo Leon|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'the Pumas have a lot to be upset about ', Guillermo Vázquez, technical director of Pumas , told the media.",
+            "question_answers": [
+                {
+                    "question": "Who is Guillermo Vázquez?",
+                    "answer": "technical director of Pumas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Guillermo Vázquez say about the Pumas?",
+                    "score": 0.803,
+                    "answers": "www.eldizque.com reported on 14/12/2015 that ' the Pumas have a lot to be upset about ' , Guillermo Vázquez , technical director of Pumas , told the media|ROOT\tthe Pumas|nsubj"
+                },
+                {
+                    "question": "What is Guillermo Vázquez's technical director of Pumas?",
+                    "score": 0.7108,
+                    "answers": "technical|amod"
+                },
+                {
+                    "question": "What is the relationship between Guillermo Vázquez and the Pumas?",
+                    "score": 0.6956,
+                    "answers": "to be upset about|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "'In the first place, unlike against America, all the time the Pumas played eleven opposing elements, which made it difficult at all times for that puma claw to be fully displayed.",
+            "question_answers": [
+                {
+                    "question": "How many opposing elements did the Pumas play?",
+                    "answer": "eleven"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Pumas play against America?",
+                    "score": 0.8024,
+                    "answers": "In the first place|prep\twhich made it difficult at all times for that puma claw to be fully displayed|advcl"
+                },
+                {
+                    "question": "How many opposing elements did pumas play against America?",
+                    "score": 0.7875,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "Who played against America in the first place?",
+                    "score": 0.76,
+                    "answers": "the Pumas|nsubj"
+                },
+                {
+                    "question": "What is the puma claw?",
+                    "score": 0.6397,
+                    "answers": "14/12/2015|pobj\tall times|pobj\tpuma|compound\tthat puma claw|nsubjpass\tfor that puma claw to be fully displayed|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "In the same way, the shots made by the Tiger players were so strong that the shots made by the Tiger players could injure our goalkeeper .",
+            "question_answers": [
+                {
+                    "question": "Who did the Tigers' shots injure?",
+                    "answer": "goalkeeper"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How strong were the shots made by the Tiger players?",
+                    "score": 0.7275,
+                    "answers": "www.eldizque.com reported on 14/12/2015 that In the same way , the shots made by the Tiger players were so strong that the shots made by the Tiger players could injure our goalkeeper|ROOT\tthat|mark\tIn the same way|prep\tthe|det\tsame|amod\tthe same way|pobj\t,|punct\tthe|det\tthe shots made by the Tiger players|nsubj\tmade by the Tiger players|acl\tby the Tiger players|agent\tthe|det\tthe Tiger players|pobj\tthat In the same way , the shots made by the Tiger players were so strong that the shots made by the Tiger players could injure our goalkeeper|ccomp\tso|advmod\tso strong that the shots made by the Tiger players could injure our goalkeeper|acomp\tthat|mark\tthe|det\tthe shots made by the Tiger players|nsubj\tmade by the Tiger players|acl\tby the Tiger players|agent\tthe|det\tthe Tiger players|pobj\tcould|aux"
+                },
+                {
+                    "question": "How many shots did the Tiger players make on the goalkeeper?",
+                    "score": 0.6774,
+                    "answers": "that the shots made by the Tiger players could injure our goalkeeper|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "For injure , our goalkeeper decided not to stop the goal shooting in the one-way game, because integrity was at risk'.",
+            "question_answers": [
+                {
+                    "question": "Why did the goalkeeper decide not to stop the goal shooting in the one-way game?",
+                    "answer": "injure"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the goalkeeper decide not stop the goal shooting in one-way game?",
+                    "score": 0.7604,
+                    "answers": "on 14/12/2015|prep"
+                },
+                {
+                    "question": "What was the outcome of the one-way game?",
+                    "score": 0.5795,
+                    "answers": "in the one - way game|prep"
+                },
+                {
+                    "question": "What is the one-way game?",
+                    "score": 0.5594,
+                    "answers": "the one - way game|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, that is not the central point of a complaint , but arbitration.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 14/12/2015?",
+                    "answer": "that is not the central point of a complaint"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the central point of a complaint?",
+                    "score": 0.6812,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 14/12/2015 that However , that is not the central point of a complaint , but arbitration|ROOT\ton 14/12/2015|prep\tthat|mark\tHowever|advmod\t,|punct\tthat|nsubj\tthat However , that is not the central point of a complaint , but arbitration|ccomp\tnot|neg\tthe|det\tcentral|amod\tthe central point of a complaint , but arbitration|attr\tof a complaint|prep\ta|det\ta complaint|pobj\t,|punct\tbut|cc\tarbitration|conj"
+                }
+            ]
+        },
+        {
+            "claim": "According to Guillermo Vázquez, technical director of Pumas , research done by experts indicates that of the arbitrators appointed for both games , all without exception, did entrance examination for UNAM at the time and were rejected.",
+            "question_answers": [
+                {
+                    "question": "Who is Guillermo Vázquez?",
+                    "answer": "technical director of Pumas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who rejected arbitrators for both games?",
+                    "score": 0.6291,
+                    "answers": "by experts|agent"
+                },
+                {
+                    "question": "How many arbitrators were accepted for UNAM games?",
+                    "score": 0.6257,
+                    "answers": "entrance|compound"
+                },
+                {
+                    "question": "What is the relationship between Guillermo Vázquez and Pumas?",
+                    "score": 0.5723,
+                    "answers": "technical|amod"
+                },
+                {
+                    "question": "What is the source of evidence of all the arbitrators appointed for both games?",
+                    "score": 0.5444,
+                    "answers": "www.eldizque.com|nsubj\ton 14/12/2015|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'This is certainly the most painful and regrettable and the Pumas demand that Femexfut provide the Pumas with a third match in optimal conditions to win that trophy that fans long for ', Guillermo Vázquez, technical director of Pumas concluded.",
+            "question_answers": [
+                {
+                    "question": "What did the Pumas demand from Femexfut?",
+                    "answer": "provide the Pumas with a third match in optimal conditions to win that trophy that fans long for"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many match does the Pumas need to win?",
+                    "score": 0.7541,
+                    "answers": "that Femexfut provide the Pumas with a third match in optimal conditions to win that trophy fans long that for|ccomp"
+                },
+                {
+                    "question": "How long has Guillermo Vázquez been working for the Pumas?",
+                    "score": 0.7459,
+                    "answers": "to win that trophy fans long that for|advcl"
+                },
+                {
+                    "question": "How long has it been since the Pumas have won a trophy?",
+                    "score": 0.7442,
+                    "answers": "that trophy fans long that for|dobj\tfans long that for|relcl"
+                },
+                {
+                    "question": "What did Vázquez say about the Pumas?",
+                    "score": 0.7209,
+                    "answers": "the Pumas|nsubj\tthe Pumas|dobj"
+                },
+                {
+                    "question": "What is the Pumas demand for Femexfut for a third match?",
+                    "score": 0.6867,
+                    "answers": "This is certainly the most painful and regrettable and the Pumas demand that Femexfut provide the Pumas with a third match in optimal conditions to win that trophy fans long that for|ccomp\twww.eldizque.com reported on 14/12/2015 that ' This is certainly the most painful and regrettable and the Pumas demand that Femexfut provide the Pumas with a third match in optimal conditions to win that trophy fans long that for ' , Guillermo Vázquez , technical director of Pumas concluded|ROOT"
+                }
+            ]
+        }
+    ]
+}

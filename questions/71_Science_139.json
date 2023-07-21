@@ -1,0 +1,1485 @@
+{
+    "id": "71_Science_139",
+    "claim": "It took several weeks, court orders, counterclaims, but finally the U.S. Federal Bureau of Investigation (FBI) managed to penetrate the iPhone of the San Bernardino attacker. 'We have successfully gained access to the information stored on the iPhone of (Syed) Farook ', said the U.S. Department of Justice. USA. in the petition calling for an end to the legal proceedings he had initiated against Apple.'We no longer required Apple's help,'said the paper. This put an end to the six-week fight since the FBI asked Apple to develop a'master key'or'superclave'to access information contained in Farook's iPhone, who along with his wife killed  people in a shooting in San Bernardino, California. Apple refused, arguing that that violated the privacy of its users, as a master key can be used on any device. But the action, far from ending the debate, fueled him, raising a series of questions about the tools used and the future of the privacy of the data contained on mobile devices. How did the FBI access the information?So far, the technical details are not known. And it's unlikely they'll be officially known. There's nothing to force the FBI to reveal its formula. What is known is that he did it through a'third part'. I mean, an outside company. What analysts and industry members agree on is that it is virtually impossible for another company to provide the master key or 'superkey'to violate Apple's iOS security system. 'That they have succeeded in decrypting and encrypting (the operating system) is possible but less likely ', David Gibson, vice president of Varonis Market Strategy and Development, tells BBC Mundo. Most likely, according to the expert, it was a'software attack'. This through an information unlocking company, or what in the industry is called Forensic Cell Phone Analysis. Not the same as the common 'unlocking 'of an iPhone that can be done by a phone company or 'pirate 'supplier. That unlocking what it does is get the iPhone back to its original state, that is, erasing all the existing information. What the companies of Forensic Analysis do is 'unlock 'the apparatus precisely to recover the information contained in it. According to Jeronimo García, director of the consultancy in computer services Sidertia Solutions, the most logical way would be to have used an 'exploit '(software tool designed to take advantage of a failure in a computer system) that exploits a vulnerability in the IOS boot manager, iBoot, charged with loading the recovery mode. Thus, 'you could take control of it and therefore be able to avoid limiting the password ', the director assures BBC Mundo. Another possible way to unlock it without losing information is to clone an 'image 'of the phone, i.e. a physical copy of the device to test passwords even when the limit of attempts is exceeded.'You get a logical image and you're tracking with it\". Thus, by blocking the phone after  attempts, you can'continue the attack with one of the copies of the image\". Who challenged Apple and helped the FBI?The FBI didn't want to identify the'third party'that managed to access the information and, according to what its headquarters Communications office told BBC Mundo, it won't either. But all eyes are on Cellebrite, a company of Israeli origin with offices in different parts of the world, including the U.S. USA. , after the Israeli newspaper Yedioth Ahronoth revealed last Wednesday the alleged link. Cellebrite confirmed to the BBC that they work with the FBI, but he didn't want to give details. However, according to the details, this would be related to the 'renewal of UFED software for seven machines 'in Chicago. BBC Mundo tried to get more details of the contract, however until the closure of this article the FBI did not respond to the request. The same  of March the FBI said it worked with an 'external part ', which had developed a way to break the security of the iPhone of San Bernardino. Did Pandora's box open?The question today, experts say, is not who did it, but whether or not this is a definitive solution that Salomonically settles conflicts like the one that occurred between Apple and the FBI, between the right to data privacy and national security. 'Today it is Apple, but it could be anyone else ', says Joel Bollo, executive director of the Swedish data forensics company MSAB, one of Cellebrite's main competitors. 'The main issue now is how to keep our phones safe, prevent mass surveillance and at the same time meet the requirements necessary to maintain the common good ', explains Bollo, who calls himself an enemy of mass cyber surveillance.'We have many customers. The FBI is one of them ', explains its executive director upon being consulted. The company created a system called Forensic Control Access Technology (FACT) that can be used in future cases such as the San Bernardino iPhone. The system is sold as a third way for cases where, as in San Bernardino, intelligence and national security agencies require access to information without having to create a 'master key 'that violates the security and privacy of other users. The method uses different key pairs to encrypt and decrypt information. That is to say, in addition to having the device physically you have to have two pairs of keys -or keys-: one generated by the government agency that requires the information and another by the company that makes the device. The key used for each specific case required by law can be configured for a finite number (usually from  to ) of uses, after which it becomes invalid. In addition, only with both key pairs can the data be extracted from the mobile device. Will it ever be known how the FBI got the information?Apple announced that he will do everything he can to get the FBI to reveal how he managed to access the information. Most likely, however, it will not happen. 'It is difficult for the FBI to make the methodology public ', explains Garcia, since 'it is very likely to be used in future cases'. Probably won't officially reveal the name of the outside company either. The law in the U.S. USA. allows authorities to retain the source of information if provided confidentially, and to protect methodologies for the collection of sensitive intelligence data. How to prevent your iPhone from being watched?The first thing to be clear is that there is no fail-safe technology. 'It is unrealistic to think that a device that keeps information, whether a smart cell phone or another, is insurmountable ', says Gibson. However, that a third party has developed a methodology that takes advantage of a weakness 'will open up a debate that is not pleasant to Apple ', García says. One of the great advantages that Apple exploits in terms of marketing is the privacy security of its devices. 'If the FBI has taken advantage of any hardware failure on the device, the problem for Apple is highly complex as it would force the device to change, or the users to take the risk ', says Garcia. 'In the event that the bug was logical, if identified by Apple, as on so many other occasions, a new version of iOS would solve the problem'. It's what Apple does every time it detects a methodology to challenge the security of its operating system. The latest iOS update was released by Apple on March . I'm sorry.",
+    "source": "www.bbc.com",
+    "date": "29/03/2016",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "It took Apple BBC Mundo orders, counterclaimsBBC Mundo but it information?Apple it The key used for each specific case required by law it .",
+            "question_answers": [
+                {
+                    "question": "What company did BBC Mundo say it took BBC Mundo orders from?",
+                    "answer": "Apple"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Apple do with the BBC Mundo order?",
+                    "score": 0.7798,
+                    "answers": "it The key used for each specific case required by law it|dep"
+                },
+                {
+                    "question": "What is Apple's key used for?",
+                    "score": 0.7242,
+                    "answers": "used for each specific case required by law|acl\tfor each specific case required by law|prep"
+                },
+                {
+                    "question": "What is Apple's relationship with BBC Mundo?",
+                    "score": 0.6484,
+                    "answers": "www.bbc.com|nsubj\ton 29/03/2016|prep\tinformation?Apple|dep\trequired by law|acl"
+                },
+                {
+                    "question": "What is the key used for each specific case required by law?",
+                    "score": 0.6212,
+                    "answers": "Mundo|dobj\tit|conj\tit|dep\teach|det\tspecific|amod\teach specific case required by law|pobj\tlaw|pobj\tit|appos"
+                },
+                {
+                    "question": "What is the relationship between Apple and BBC Mundo?",
+                    "score": 0.6157,
+                    "answers": "BBC Mundo|compound\tbut|cc"
+                }
+            ]
+        },
+        {
+            "claim": "access the phone gained information?Apple the FBI refused access refused The key used for each specific case required by law refused ', said the U.S. Department of Justice.",
+            "question_answers": [
+                {
+                    "question": "What did the FBI refuse access to the phone?",
+                    "answer": "key used for each specific case required by law refused"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Apple do to gain access to the phone?",
+                    "score": 0.7416,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 29/03/2016 that access the phone gained information?Apple the FBI refused access refused|ccomp\ton 29/03/2016|prep\taccess the phone|nsubj\tthe phone|npadvmod\tthat access the phone gained information?Apple the FBI refused access refused|ccomp\twww.bbc.com reported on 29/03/2016 that access the phone gained information?Apple the FBI refused access refused The key used for each specific case required by law refused ' , said the U.S. Department of Justice|ROOT"
+                },
+                {
+                    "question": "What did the FBI refuse access to?",
+                    "score": 0.7365,
+                    "answers": "the|det\tthe|det\taccess|dobj\tThe|det\t'|punct\tthe|det"
+                },
+                {
+                    "question": "What are the requirements for access to a phone?",
+                    "score": 0.7124,
+                    "answers": "for each specific case required by law|prep\tspecific|amod\teach specific case required by law|pobj\tlaw|pobj"
+                },
+                {
+                    "question": "What is Apple's relationship with the FBI?",
+                    "score": 0.612,
+                    "answers": "U.S.|compound"
+                }
+            ]
+        },
+        {
+            "claim": "USA.",
+            "question_answers": [
+                {
+                    "question": "On what date did www.bbc.com report that the USA was in the United States?",
+                    "answer": "29/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does thebbc.com website do?",
+                    "score": 0.7659,
+                    "answers": "www.bbc.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the USA and the United States?",
+                    "score": 0.5813,
+                    "answers": "that USA|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between USA and USA?",
+                    "score": 0.5648,
+                    "answers": "on 29/03/2016|prep\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "in a logical image petition calling for reveal it the methodology it .",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that in a logical image petition?",
+                    "answer": "29/03/2016"
+                },
+                {
+                    "question": "What did www.bbc.com call for in a logical image petition?",
+                    "answer": "reveal it the methodology it"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the methodology of the petition?",
+                    "score": 0.6905,
+                    "answers": "www.bbc.com reported on 29/03/2016 that in a logical image petition calling for reveal it the methodology it|ROOT\ton 29/03/2016|prep\tthat|mark\ta|det\tcalling for reveal it the methodology|acl\tfor reveal it the methodology|prep\treveal it the methodology|pcomp\tit|nmod\tthe|det\tthe methodology|meta"
+                }
+            ]
+        },
+        {
+            "claim": "David Gibson, vice president of Varonis Market Strategy and Development the FBI?The Joel Bollo, executive director of the Swedish data forensics company MSAB, one of Cellebrite's main competitors the FBI?The Joel Bollo, executive director of the Swedish data forensics company MSAB, one of Cellebrite's main competitors the FBI?The .",
+            "question_answers": [
+                {
+                    "question": "What is the nationality of the data forensics company MSAB?",
+                    "answer": "Swedish"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Joel Bollo?",
+                    "score": 0.6499,
+                    "answers": "Joel|compound\tJoel Bollo , executive director of the Swedish data forensics company MSAB , one of Cellebrite 's main competitors the FBI?The|ROOT\texecutive|compound\tJoel|compound\tJoel Bollo , executive director of the Swedish data forensics company MSAB , one of Cellebrite 's main competitors the FBI?The|ROOT\texecutive|compound"
+                },
+                {
+                    "question": "Who is David Gibson?",
+                    "score": 0.6356,
+                    "answers": "that David Gibson , vice president of Varonis Market Strategy and Development|dobj"
+                },
+                {
+                    "question": "What is MSAB?",
+                    "score": 0.6298,
+                    "answers": "www.bbc.com|nsubj\ton 29/03/2016|prep\tthat|mark\t,|punct\tof Varonis Market Strategy and Development|prep\tVaronis|compound\tMarket|compound\tand|cc\tDevelopment|conj\tthe|det\tthe FBI?The|punct\t,|punct\texecutive director of the Swedish data forensics company MSAB , one of Cellebrite 's main competitors|appos\tof the Swedish data forensics company MSAB , one of Cellebrite 's main competitors|prep\tthe|det\tdata|compound\tdata forensics|compound\tthe Swedish data forensics company MSAB , one of Cellebrite 's main competitors|pobj\t,|punct\tone of Cellebrite 's main competitors|appos\tof Cellebrite 's main competitors|prep\tCellebrite 's|poss\t's|case\tmain|amod\tCellebrite 's main competitors|pobj\tthe|det\tthe FBI?The|appos\t,|punct\texecutive director of the Swedish data forensics company MSAB , one of Cellebrite 's main competitors|appos\tof the Swedish data forensics company MSAB , one of Cellebrite 's main competitors|prep\tthe|det\tdata|compound\tdata forensics|compound\tthe Swedish data forensics company MSAB , one of Cellebrite 's main competitors|pobj\t,|punct\tone of Cellebrite 's main competitors|appos\tof Cellebrite 's main competitors|prep\tCellebrite 's|poss\t's|case\tmain|amod\tCellebrite 's main competitors|pobj\tthe|det\tthe FBI?The|appos"
+                },
+                {
+                    "question": "What is the relationship between Joel Bollo and MSAB?",
+                    "score": 0.6274,
+                    "answers": "David|compound\tvice|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the FBI?The many customers the FBI?The many customers the common 'unlocking 'of an iPhone that can be done by a phone company or 'pirate 'supplier the Swedish data forensics company MSAB, one of Cellebrite's main competitors details the Swedish data forensics company MSAB, one of Cellebrite's main competitors a logical image an iPhone the iPhone of the San Bernardino attacker .",
+            "question_answers": [
+                {
+                    "question": "What does the FBI do with an iPhone that can be done by a phone company or pirate?",
+                    "answer": "'unlocking"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is MSAB?",
+                    "score": 0.6041,
+                    "answers": "www.bbc.com|nsubj\ton 29/03/2016|prep\tthat|mark\tthe|det\tmany|amod\tthe|det\tmany|amod\tmany customers the common ' unlocking ' of an iPhone that can be done by a phone company or ' pirate ' supplier the Swedish data forensics company MSAB , one of Cellebrite 's main competitors details the Swedish data forensics company MSAB , one of Cellebrite 's main competitors a logical image an iPhone the iPhone of the San Bernardino attacker|ROOT\tthe|det\tcommon|amod\t'|punct\tthe common ' unlocking ' of an iPhone that can be done by a phone company or ' pirate ' supplier the Swedish data forensics company MSAB , one of Cellebrite 's main competitors details the Swedish data forensics company MSAB , one of Cellebrite 's main competitors a logical image an iPhone the iPhone of the San Bernardino attacker|appos\t'|punct\tof an iPhone|prep\tan|det\tan iPhone|pobj\tthat|nsubjpass\tcan|aux\tbe|auxpass\tthat can be done by a phone company or ' pirate ' supplier|relcl\tby a phone company or ' pirate ' supplier|agent\ta|det\tphone|compound\ta phone company or ' pirate ' supplier|pobj\tor|cc\t'|punct\tpirate|nmod\t'|punct\t' pirate ' supplier|conj\tthe|det\tdata|compound\tdata forensics|compound\tthe Swedish data forensics company MSAB , one of Cellebrite 's main competitors details the Swedish data forensics company MSAB , one of Cellebrite 's main competitors a logical image an iPhone the iPhone of the San Bernardino attacker|appos\t,|punct\tone of Cellebrite 's main competitors|appos\tof Cellebrite 's main competitors|prep\tCellebrite 's|poss\t's|case\tmain|amod\tCellebrite 's main competitors|pobj\tdetails|appos\tthe|det\tdata|compound\tdata forensics|compound\tthe Swedish data forensics company MSAB , one of Cellebrite 's main competitors a logical image an iPhone the iPhone of the San Bernardino attacker|appos\t,|punct\tone of Cellebrite 's main competitors|appos\tof Cellebrite 's main competitors|prep\tCellebrite 's|poss\t's|case\tmain|amod\tCellebrite 's main competitors|pobj\ta|det\tlogical|amod\ta logical image|appos\tan|det\tan iPhone the iPhone of the San Bernardino attacker|appos\tthe|det\tthe iPhone of the San Bernardino attacker|appos\tof the San Bernardino attacker|prep\tthe|det\tSan|compound\tthe San Bernardino attacker|pobj"
+                },
+                {
+                    "question": "What is the relationship between the FBI and MSAB?",
+                    "score": 0.5985,
+                    "answers": "www.bbc.com reported on 29/03/2016 that the FBI?The many customers the FBI?The|ROOT\tthat the FBI?The|nmod\tthat the FBI?The many customers|npadvmod\tthe FBI?The|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Cellebrite, a company of Israeli origin with offices in different parts of the world, including the U.S. USA. , a system called Forensic Control Access Technology (FACT) that can be used in future cases such as the San Bernardino iPhone that Cellebrite, a company of Israeli origin with offices in different parts of the world, including the U.S. USA. the details the IOS boot manager, iBoot, charged with loading the recovery mode .",
+            "question_answers": [
+                {
+                    "question": "Cellebrite has offices in what country?",
+                    "answer": "U.S. USA."
+                },
+                {
+                    "question": "What is iBoot?",
+                    "answer": "IOS boot manager, iBoot, charged with loading the recovery mode"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is Cellebrite based?",
+                    "score": 0.5691,
+                    "answers": "www.bbc.com reported on 29/03/2016 that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA . , a system called Forensic Control Access Technology ( FACT ) that can be used in future cases such as the San Bernardino iPhone that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA .|ROOT\ton 29/03/2016|prep\tthat|mark\t,|punct\ta|det\tdifferent|amod\tthe|det\t,|punct\tincluding the U.S. USA|prep\tthe|det\tU.S.|compound\t.|punct\t,|punct\ta|det\t(|punct\tFACT|appos\t)|punct\tthat|nsubjpass\tbe|auxpass\tthat can be used in future cases such as the San Bernardino iPhone that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|relcl\tin future cases such as the San Bernardino iPhone that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|prep\tfuture cases such as the San Bernardino iPhone that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|pobj\tsuch|amod\tsuch as the San Bernardino iPhone that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|prep\tthe|det\tSan|compound\tthe San Bernardino iPhone that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|pobj\tthat|det\t,|punct\ta|det\tdifferent|amod\tthe|det\t,|punct\tincluding the U.S. USA|prep\tthe|det\tU.S.|compound\t.|punct\tthe|det\tthe|det\tIOS|compound\t,|punct\t,|punct\tthe|det"
+                },
+                {
+                    "question": "Where is Cellebrite located?",
+                    "score": 0.5655,
+                    "answers": "that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA . , a system called Forensic Control Access Technology ( FACT ) that can be used in future cases such as the San Bernardino iPhone that Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|dobj\twith offices in different parts of the world , including the U.S. USA .|prep\toffices in different parts of the world , including the U.S. USA .|pobj\tin different parts of the world , including the U.S. USA .|prep\tdifferent parts of the world , including the U.S. USA .|pobj\tof the world|prep\tthe world|pobj\tControl|compound\tAccess|compound\tcan|aux\tfuture|amod\twith offices in different parts of the world , including the U.S. USA|prep\toffices in different parts of the world , including the U.S. USA|pobj\tin different parts of the world , including the U.S. USA|prep\tdifferent parts of the world , including the U.S. USA|pobj\tof the world|prep\tthe world|pobj\tboot|compound\twith loading the recovery mode|prep\tloading the recovery mode|pcomp\trecovery|compound\tthe recovery mode|dobj"
+                },
+                {
+                    "question": "What is Cellebrite's origin?",
+                    "score": 0.5567,
+                    "answers": "of Israeli origin|prep\tIsraeli origin|pobj\tof Israeli origin|prep\tIsraeli origin|pobj"
+                },
+                {
+                    "question": "What is Cellebrite?",
+                    "score": 0.5315,
+                    "answers": "a company of Israeli origin with offices in different parts of the world , including the U.S. USA .|appos\tthat Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|relcl\ta company of Israeli origin with offices in different parts of the world , including the U.S. USA|appos"
+                },
+                {
+                    "question": "What is iBoot?",
+                    "score": 0.5254,
+                    "answers": "the IOS boot manager , iBoot ,|nsubj\tthe IOS boot manager , iBoot , charged with loading the recovery mode|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "the IOS boot manager, iBoot, charged with loading the recovery mode work the debate, fueled him, raising a series of questions about the tools used and the a logical image of the privacy of the data contained on mobile devices.",
+            "question_answers": [
+                {
+                    "question": "What did iBoot raise a series of questions about?",
+                    "answer": "a logical image of the privacy of the data contained on mobile devices"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did iBoot do with recovery mode work?",
+                    "score": 0.642,
+                    "answers": "that|mark\tthe|det\t,|punct\t,|punct\twith loading the recovery mode work|prep\tloading the recovery mode work|pcomp\tthe|det\trecovery|compound\tthe|det\t,|punct\t,|punct\ta|det\tthe|det\tused|acl\tand|cc\tthe|det\ta|det\tlogical|amod\tthe|det\tthe|det\tmobile|amod"
+                },
+                {
+                    "question": "What was iBoot's role in the IOS boot manager?",
+                    "score": 0.6338,
+                    "answers": "www.bbc.com reported on 29/03/2016 that the IOS boot manager , iBoot , charged with loading the recovery mode work the debate , fueled him , raising a series of questions about the tools used and the a logical image of the privacy of the data contained on mobile devices|ROOT\ton 29/03/2016|prep\tIOS|compound\tcharged with loading the recovery mode work|acl\tthe recovery mode work|dobj\tthat the IOS boot manager , iBoot , charged with loading the recovery mode work the debate , fueled him , raising a series of questions about the tools used and the a logical image of the privacy of the data contained on mobile devices|ccomp\tthe a logical image of the privacy of the data contained on mobile devices|conj\tof the data contained on mobile devices|prep\tthe data contained on mobile devices|pobj\tcontained on mobile devices|acl\ton mobile devices|prep"
+                },
+                {
+                    "question": "What was the purpose of iBoot?",
+                    "score": 0.5073,
+                    "answers": "a series of questions about the tools used and the a logical image of the privacy of the data contained on mobile devices|dobj"
+                },
+                {
+                    "question": "Who is iBoot?",
+                    "score": 0.4997,
+                    "answers": "the IOS boot manager , iBoot , charged with loading the recovery mode work the debate|nsubj\thim|dobj"
+                },
+                {
+                    "question": "What is iBoot?",
+                    "score": 0.499,
+                    "answers": "boot|compound"
+                }
+            ]
+        },
+        {
+            "claim": "a logical image did the U.S. Federal Bureau of Investigation (FBI) the apparatus San Bernardino the apparatus known.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the apparatus known as the Federal Bureau of Investigation?",
+                    "answer": "San Bernardino"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the apparatus San Bernardino uses?",
+                    "score": 0.7685,
+                    "answers": "San|compound"
+                },
+                {
+                    "question": "What are the functions of the FBI apparatus in San Bernardino?",
+                    "score": 0.7321,
+                    "answers": "that|mark\ta|det\tthe|det\t(|punct\t)|punct\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "There's nothing to force the U.S. Federal Bureau of Investigation (FBI) the data reveal the IOS boot manager, iBoot, charged with loading the recovery mode .",
+            "question_answers": [
+                {
+                    "question": "What does the acronym FBI stand for?",
+                    "answer": "the U.S. Federal Bureau of Investigation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the IOS boot manager who was charged with loading recovery mode?",
+                    "score": 0.7429,
+                    "answers": "www.bbc.com reported on 29/03/2016 that There 's nothing to force the U.S. Federal Bureau of Investigation ( FBI ) the data reveal the IOS boot manager , iBoot , charged with loading the recovery mode|ROOT"
+                },
+                {
+                    "question": "Who is the IOS boot manager?",
+                    "score": 0.7268,
+                    "answers": "the data reveal the IOS boot manager , iBoot , charged with loading the recovery mode|dep"
+                },
+                {
+                    "question": "What is the recovery mode of iBoot?",
+                    "score": 0.6389,
+                    "answers": "recovery|compound\tthe recovery mode|dobj"
+                },
+                {
+                    "question": "Who is iBoot?",
+                    "score": 0.6126,
+                    "answers": "that|mark\tthe|det\tFederal|compound\t(|punct\t)|punct\tthe|det\tthe|det\tIOS|compound\tboot|compound\tthe IOS boot manager , iBoot , charged with loading the recovery mode|dobj\t,|punct\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What is iBoot?",
+                    "score": 0.6055,
+                    "answers": "www.bbc.com|nsubj\ton 29/03/2016|prep\tThere|expl\tto|aux\tU.S.|compound\tthe U.S. Federal Bureau of Investigation ( FBI )|dobj\tof Investigation|prep\tInvestigation|pobj\tthe data|nsubj\tcharged with loading the recovery mode|acl\twith loading the recovery mode|prep\tloading the recovery mode|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "What Jeronimo García, director of the consultancy in computer services Sidertia Solutions San Bernardino the San Bernardino iPhone .",
+            "question_answers": [
+                {
+                    "question": "What company did Jeronimo Garca work for?",
+                    "answer": "Sidertia Solutions San Bernardino"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the director of Sidertia Solutions San Bernardino?",
+                    "score": 0.5825,
+                    "answers": "that|mark\tWhat|dep\t,|punct\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What is Sidertia Solutions?",
+                    "score": 0.5665,
+                    "answers": "in computer services|prep\tcomputer services|pobj\tSidertia|compound"
+                }
+            ]
+        },
+        {
+            "claim": "information?Apple the San Bernardino iPhone company.",
+            "question_answers": [
+                {
+                    "question": "Where is Apple located?",
+                    "answer": "San Bernardino"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Apple's relationship with the San Bernardino iPhone company?",
+                    "score": 0.803,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "What analysts and industry Garcia on is that the phone the data the San Bernardino iPhone for another company Garcia the master key or 'superkey'to violate Apple the methodology system.",
+            "question_answers": [
+                {
+                    "question": "What is the phone the data for another company Garcia the master key or'superkey' to violate Apple's methodology system?",
+                    "answer": "the San Bernardino iPhone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of the data of the San Bernardino iPhone for another company Garcia the master key?",
+                    "score": 0.6464,
+                    "answers": "www.bbc.com reported on 29/03/2016 that analysts and industry Garcia What on is that the phone the data the San Bernardino iPhone for another company Garcia the master key or ' superkey'to violate Apple the methodology system|ROOT"
+                },
+                {
+                    "question": "What is the methodology of Apple's methodology?",
+                    "score": 0.5816,
+                    "answers": "methodology|compound"
+                },
+                {
+                    "question": "What is the process used to track the master key or superkey'to?",
+                    "score": 0.5801,
+                    "answers": "the master key or ' superkey'to|appos"
+                },
+                {
+                    "question": "What is the relationship between Apple and the San Bernardino iPhone?",
+                    "score": 0.5665,
+                    "answers": "that|mark\tWhat|pobj\tanalysts and industry|nsubj\tand|cc\tindustry|conj\tanalysts and industry Garcia What on|csubj\tWhat on|prep\tthat|mark\tthe|det\tthe|det\tthe|det\tSan|compound\tthe San Bernardino iPhone for another company|appos\tfor another company|prep\tanother|det\tanother company|pobj\tGarcia|appos\tthe|det\tmaster|compound\tor|cc\t'|conj\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'That they have succeeded in decrypting and encrypting (the operating system) is possible but less likely ', David Gibson, vice president of Varonis Market Strategy and Development, tells BBC Mundo.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 29/03/2016?",
+                    "answer": "'That they have succeeded in decrypting and encrypting (the operating system) is possible but less likely"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did David Gibson say about decrypting and encrypting?",
+                    "score": 0.7786,
+                    "answers": "www.bbc.com reported on 29/03/2016|ccomp\tthat|mark\t'|punct\tThat|mark\tthey|nsubj\thave|aux\tThat they have succeeded in decrypting and encrypting ( the operating system )|csubj\tin decrypting and encrypting ( the operating system )|prep\tand|cc\t(|punct\tthe|det\t)|punct\tThat they have succeeded in decrypting and encrypting ( the operating system ) is possible but less likely|ccomp\tbut|cc\tless|advmod\tless likely|conj\t'|punct\t,|punct\tDavid|compound\t,|punct\tvice|compound\tand|cc\tDevelopment|conj\t,|punct\twww.bbc.com reported on 29/03/2016 that ' That they have succeeded in decrypting and encrypting ( the operating system ) is possible but less likely ' , David Gibson , vice president of Varonis Market Strategy and Development , tells BBC Mundo|ROOT"
+                },
+                {
+                    "question": "What is the process of decrypting and encrypting the operating system?",
+                    "score": 0.7383,
+                    "answers": "decrypting and encrypting ( the operating system )|pcomp"
+                },
+                {
+                    "question": "What is the relationship between decrypting and encrypting?",
+                    "score": 0.6902,
+                    "answers": "possible but less likely|acomp"
+                },
+                {
+                    "question": "What is the operating system?",
+                    "score": 0.6633,
+                    "answers": "encrypting ( the operating system )|conj\tthe operating system|dobj"
+                },
+                {
+                    "question": "What is Varonis market Strategy and Development?",
+                    "score": 0.6159,
+                    "answers": "Varonis|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Most likely, according to the expert, it was a'software attack'.",
+            "question_answers": [
+                {
+                    "question": "When did bbc.com report that it was most likely a'software attack'?",
+                    "answer": "29/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is a'software attack?",
+                    "score": 0.8168,
+                    "answers": "a'software attack|attr"
+                },
+                {
+                    "question": "What is the most likely attack?",
+                    "score": 0.8026,
+                    "answers": "Most likely|advmod\tthat Most likely , according to the expert , it was a'software attack '|ccomp"
+                },
+                {
+                    "question": "What is a'software?",
+                    "score": 0.7757,
+                    "answers": "a'software|compound"
+                },
+                {
+                    "question": "What is the source of evidence of the attack?",
+                    "score": 0.7642,
+                    "answers": "on 29/03/2016|prep\tthat|mark\tMost|advmod\t,|punct\taccording to the expert|prep\tto the expert|prep\tthe|det\tthe expert|pobj\t,|punct\tit|nsubj\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "This through an information unlocking company, or what in the industry is called Forensic Cell Phone Analysis.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 29/03/2016 that Forensic Cell Phone Analysis was done by an information unlocking company?",
+                    "answer": "www.bbc.com"
+                },
+                {
+                    "question": "What did bbc.com report on on 29/03/2016?",
+                    "answer": "an information unlocking company, or what in the industry is called Forensic Cell Phone Analysis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of an information unlocking company?",
+                    "score": 0.7598,
+                    "answers": "information unlocking|amod"
+                },
+                {
+                    "question": "What is the technology used to analyze cell phone numbers?",
+                    "score": 0.7415,
+                    "answers": "Forensic|compound"
+                },
+                {
+                    "question": "What is a cell phone?",
+                    "score": 0.7112,
+                    "answers": "Cell Phone|compound"
+                },
+                {
+                    "question": "What is a forensic cell phone analysis?",
+                    "score": 0.6874,
+                    "answers": "an|det\tCell|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Not the same as the common 'unlocking 'of an iPhone that can be done by a phone company or 'pirate 'supplier.",
+            "question_answers": [
+                {
+                    "question": "What is the common name for unlocking an iPhone?",
+                    "answer": "'unlocking"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to unlock an iPhone?",
+                    "score": 0.8708,
+                    "answers": "on 29/03/2016|prep"
+                },
+                {
+                    "question": "What is the common 'unlocking' of an iPhone?",
+                    "score": 0.8347,
+                    "answers": "the common ' unlocking ' of an iPhone that can be done by a phone company or ' pirate ' supplier|pobj\tof an iPhone|prep\tan iPhone|pobj\tcan|aux\ta phone company or ' pirate ' supplier|pobj\tpirate|amod"
+                },
+                {
+                    "question": "What is the process of ununlocking an iPhone that can be done by a phone company or a patent holder?",
+                    "score": 0.809,
+                    "answers": "that can be done by a phone company or ' pirate ' supplier|relcl"
+                },
+                {
+                    "question": "What is the relationship between a phone company and a loan shark?",
+                    "score": 0.6675,
+                    "answers": "by a phone company or ' pirate ' supplier|agent\tphone|compound"
+                }
+            ]
+        },
+        {
+            "claim": "That unlocking what it does is get the iPhone back to its original state, that is, erasing all the existing information.",
+            "question_answers": [
+                {
+                    "question": "What does unlocking the iPhone do to get it back to its original state?",
+                    "answer": "erasing all the existing information"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the original state of the iPhone?",
+                    "score": 0.7675,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 29/03/2016 that That unlocking what it does is get the iPhone back to its original state , that is , erasing all the existing information|ROOT\ton 29/03/2016|prep\tthat|mark\tThat|mark\twhat|dobj\tit|nsubj\twhat it does|ccomp\tget the iPhone back to its original state , that is , erasing all the existing information|xcomp\tthe|det\tthe iPhone|dobj\tback to its original state|advmod\tto its original state|prep\tits|poss\toriginal|amod\tits original state|pobj\t,|punct\tthat|advmod\tthat is|advmod\t,|punct\tall|predet\tthe|det\texisting|amod"
+                },
+                {
+                    "question": "What is the purpose of the iPhone?",
+                    "score": 0.7667,
+                    "answers": "erasing all the existing information|ccomp"
+                },
+                {
+                    "question": "What is the history of the iPhone and its original state?",
+                    "score": 0.7621,
+                    "answers": "all the existing information|dobj"
+                },
+                {
+                    "question": "What is the iPhone's original state?",
+                    "score": 0.7616,
+                    "answers": "unlocking what it does|csubj\tthat That unlocking what it does is get the iPhone back to its original state , that is , erasing all the existing information|parataxis"
+                }
+            ]
+        },
+        {
+            "claim": "What the companies of Forensic Analysis do is 'unlock 'the apparatus precisely to recover the information contained in it.",
+            "question_answers": [
+                {
+                    "question": "What do the companies of Forensic Analysis do?",
+                    "answer": "'unlock"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does forensic analysis do to recover the information contained in the apparatus?",
+                    "score": 0.8086,
+                    "answers": "in it|prep"
+                },
+                {
+                    "question": "What is the purpose of unlocking an apparatus?",
+                    "score": 0.7786,
+                    "answers": "that What the companies of Forensic Analysis do is ' unlock ' the apparatus precisely to recover the information contained in it|ccomp\tthe apparatus|dobj"
+                },
+                {
+                    "question": "What are the companies of Forensic Analysis?",
+                    "score": 0.7679,
+                    "answers": "the companies of Forensic Analysis|nsubj\tWhat the companies of Forensic Analysis do is|aux"
+                },
+                {
+                    "question": "What is the technology used to unlock the apparatus?",
+                    "score": 0.7294,
+                    "answers": "www.bbc.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to Jeronimo García, director of the consultancy in computer services Sidertia Solutions, the most logical way would be to have used an 'exploit '(software tool designed to take advantage of a failure in a computer system) that exploits a vulnerability in the IOS boot manager, iBoot, charged with loading the recovery mode.",
+            "question_answers": [
+                {
+                    "question": "What is a software tool designed to take advantage of a failure in a computer system called?",
+                    "answer": "an 'exploit"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the most logical way to use an exploits software tool to take advantage of a failure in a computer system?",
+                    "score": 0.6493,
+                    "answers": "www.bbc.com reported on 29/03/2016 that According to Jeronimo García , director of the consultancy in computer services Sidertia Solutions , the most logical way would be to have used an ' exploit ' ( software tool designed to take advantage of a failure in a computer system ) that exploits a vulnerability in the IOS boot manager , iBoot , charged with loading the recovery mode|ROOT"
+                },
+                {
+                    "question": "What is the process used to load the recovery mode of iBoot?",
+                    "score": 0.6225,
+                    "answers": "that According to Jeronimo García , director of the consultancy in computer services Sidertia Solutions , the most logical way would be to have used an ' exploit ' ( software tool designed to take advantage of a failure in a computer system ) that exploits a vulnerability in the IOS boot manager , iBoot , charged with loading the recovery mode|ccomp"
+                },
+                {
+                    "question": "What is the advantage of using anoit software tool for a computer system?",
+                    "score": 0.602,
+                    "answers": "advantage|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the exploits used by iBoot?",
+                    "score": 0.5955,
+                    "answers": "www.bbc.com|nsubj\tthat|mark\t,|punct\tthe|det\t,|punct\tthe|det\tmost|advmod\tto|aux\thave|aux\tan|det\t(|punct\tto|aux\ta|det\ta|det\t)|punct\tthat|nsubj\ta|det\tthe|det\t,|punct\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What is the use of anoit on a computer system?",
+                    "score": 0.5886,
+                    "answers": "in a computer system|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Thus, 'you could take control of it and therefore be able to avoid limiting the password ', the director assures BBC Mundo.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com say you could avoid?",
+                    "answer": "limiting the password"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the director say about limiting password?",
+                    "score": 0.8104,
+                    "answers": "able to avoid limiting the password|acomp"
+                },
+                {
+                    "question": "What are the benefits of using the password?",
+                    "score": 0.7222,
+                    "answers": "therefore be able to avoid limiting the password|conj"
+                },
+                {
+                    "question": "What is the purpose of limiting the password?",
+                    "score": 0.7112,
+                    "answers": "limiting the password|xcomp"
+                },
+                {
+                    "question": "What is the relationship between the BBC and the password?",
+                    "score": 0.6791,
+                    "answers": "on 29/03/2016|prep"
+                },
+                {
+                    "question": "What is the password for BBC Mundo?",
+                    "score": 0.6626,
+                    "answers": "the password|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Another possible way to unlock it without losing information is to clone an 'image 'of the phone, i.e. a physical copy of the device to test passwords even when the limit of attempts is exceeded.",
+            "question_answers": [
+                {
+                    "question": "What is a physical copy of the phone called?",
+                    "answer": "an 'image"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can a physical copy of a phone be used to test passwords?",
+                    "score": 0.8179,
+                    "answers": "without losing information|prep\tlosing information|pcomp\tan|det\tthe phone|pobj\ta|det\tphysical|amod\tthe device|pobj\tto test passwords even when the limit of attempts is exceeded|advcl\teven|advmod\teven when|advmod\tof attempts|prep\tattempts|pobj\teven when the limit of attempts is exceeded|advcl"
+                },
+                {
+                    "question": "What can be done to unlock a phone without losing information?",
+                    "score": 0.7726,
+                    "answers": "to unlock it without losing information|relcl"
+                },
+                {
+                    "question": "What is the limit of attempts on a phone?",
+                    "score": 0.7019,
+                    "answers": "the limit of attempts|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "'You get a logical image and you're tracking with it\".",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 29/03/2016?",
+                    "answer": "'You get a logical image and you're tracking with it\""
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does thebbc.com website do?",
+                    "score": 0.7426,
+                    "answers": "www.bbc.com|nsubj"
+                },
+                {
+                    "question": "What is the purpose of a logical image?",
+                    "score": 0.629,
+                    "answers": "logical|amod"
+                },
+                {
+                    "question": "What is a logical image?",
+                    "score": 0.6257,
+                    "answers": "a logical image|dobj"
+                },
+                {
+                    "question": "What is the relationship between a logical image and tracking with the computer?",
+                    "score": 0.607,
+                    "answers": "'|punct\t\"|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Thus, by blocking the phone after  attempts, you can'continue the attack with one of the copies of the image\".",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that by blocking the phone after attempts, you can continue the attack with one of the copies of the image?",
+                    "answer": "29/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can you continue the attack with one of the copies of the image after attempts?",
+                    "score": 0.7039,
+                    "answers": "www.bbc.com reported on 29/03/2016 that Thus , by blocking the phone after   attempts , you can'continue the attack with one of the copies of the image \"|ROOT\t, you can'continue the attack with one of the copies of the image|ccomp\tof the image|prep"
+                },
+                {
+                    "question": "What is blocked phone after attempts?",
+                    "score": 0.677,
+                    "answers": "that|mark\tThus|advmod\t,|punct\tafter|prep\tattempts|pobj\t,|punct\tthe image|pobj\t\"|punct"
+                },
+                {
+                    "question": "What is the method used to continue the attack?",
+                    "score": 0.6238,
+                    "answers": "on 29/03/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Who challenged Apple and helped the FBI?The FBI didn't want to identify the'third party'that managed to access the information and, according to what its headquarters Communications office told BBC Mundo, it won't either.",
+            "question_answers": [
+                {
+                    "question": "What did the FBI not want to identify?",
+                    "answer": "the'third party'that managed to access the information"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the FBI want to identify who challenged Apple and help the FBI?",
+                    "score": 0.8018,
+                    "answers": "BBC|compound"
+                },
+                {
+                    "question": "What did the FBI do to identify the hackers?",
+                    "score": 0.7244,
+                    "answers": "the'third party'that managed to access the information|ccomp"
+                },
+                {
+                    "question": "What is the FBI's relationship with Apple?",
+                    "score": 0.6501,
+                    "answers": "the FBI?The|punct"
+                },
+                {
+                    "question": "What did the Communications office tell BBC Mundo?",
+                    "score": 0.6298,
+                    "answers": "its headquarters Communications office|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But all eyes are on Cellebrite, a company of Israeli origin with offices in different parts of the world, including the U.S. USA.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that all eyes were on Cellebrite?",
+                    "answer": "29/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Cellebrite's origin?",
+                    "score": 0.6608,
+                    "answers": "all|det\t,|punct\tof Israeli origin|prep\tIsraeli origin|pobj\tdifferent|amod\t,|punct"
+                },
+                {
+                    "question": "Where is Cellebrite located?",
+                    "score": 0.6564,
+                    "answers": "www.bbc.com reported on 29/03/2016 that But all eyes are on Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|ROOT\twith offices in different parts of the world , including the U.S. USA|prep\toffices in different parts of the world , including the U.S. USA|pobj\tin different parts of the world , including the U.S. USA|prep\tdifferent parts of the world , including the U.S. USA|pobj\tof the world|prep\tthe world|pobj\tincluding the U.S. USA|prep\tthe U.S. USA|pobj"
+                },
+                {
+                    "question": "What is Cellebrite?",
+                    "score": 0.6,
+                    "answers": "www.bbc.com|nsubj\ton 29/03/2016|prep\tthat|mark\tBut|cc\tall eyes|nsubj\tthat But all eyes are on Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|ccomp\ton Cellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|prep\tCellebrite , a company of Israeli origin with offices in different parts of the world , including the U.S. USA|pobj\ta|det\ta company of Israeli origin with offices in different parts of the world , including the U.S. USA|appos\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": ", after the Israeli newspaper Yedioth Ahronoth revealed last Wednesday the alleged link.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the Israeli newspaper that revealed the alleged link?",
+                    "answer": "Yedioth Ahronoth"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Yedioth Ahronoth say about the link?",
+                    "score": 0.7884,
+                    "answers": "that|mark\t,|punct\tafter|mark\tthe|det\tthat , after the Israeli newspaper Yedioth Ahronoth revealed last Wednesday the alleged link|ccomp\tthe|det\tthe alleged link|dobj"
+                },
+                {
+                    "question": "What is Yedioth Ahronoth?",
+                    "score": 0.7245,
+                    "answers": "the Israeli newspaper Yedioth Ahronoth|nsubj\tYedioth|compound"
+                },
+                {
+                    "question": "What is the source of evidence of the link between the Israeli newspaper Yedioth Ahronoth and the website?",
+                    "score": 0.72,
+                    "answers": "www.bbc.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Yedioth Ahronoth and Israel?",
+                    "score": 0.7158,
+                    "answers": "on 29/03/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Cellebrite confirmed to the BBC that they work with the FBI, but he didn't want to give details.",
+            "question_answers": [
+                {
+                    "question": "Who confirmed to the BBC that they work with the FBI?",
+                    "answer": "Cellebrite"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Cellebrite want to do with the FBI?",
+                    "score": 0.6898,
+                    "answers": "to give details|xcomp\tdetails|dobj"
+                },
+                {
+                    "question": "What did Cellebrite say about the FBI working with him?",
+                    "score": 0.6876,
+                    "answers": "did|aux\tn't|neg"
+                },
+                {
+                    "question": "What is Cellebrite's relationship with the FBI?",
+                    "score": 0.6092,
+                    "answers": "the FBI|pobj"
+                },
+                {
+                    "question": "What is the relationship between Cellebrite and the FBI?",
+                    "score": 0.5366,
+                    "answers": "www.bbc.com|nsubj\ton 29/03/2016|prep\tthat|mark\tto the BBC|prep\tthe|det\tthe BBC|pobj\tthat|mark\tthey|nsubj\tthat they work with the FBI|ccomp\twith the FBI|prep\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "However, according to the details, this would be related to the 'renewal of UFED software for seven machines 'in Chicago.",
+            "question_answers": [
+                {
+                    "question": "How many machines did UFED software renew in Chicago?",
+                    "answer": "seven machines"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the process used to rebuild UFED software?",
+                    "score": 0.6651,
+                    "answers": "the details|pobj"
+                },
+                {
+                    "question": "How many machines are in Chicago?",
+                    "score": 0.6405,
+                    "answers": "seven machines ' in Chicago|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the new UFED software in Chicago?",
+                    "score": 0.6253,
+                    "answers": "that However , according to the details , this would be related to the ' renewal of UFED software for seven machines ' in Chicago|ccomp"
+                },
+                {
+                    "question": "What is the UFED software used for?",
+                    "score": 0.6186,
+                    "answers": "for seven machines ' in Chicago|prep"
+                },
+                {
+                    "question": "What is UFED software?",
+                    "score": 0.5815,
+                    "answers": "that|mark\tHowever|advmod\t,|punct\tto the details|prep\tthe|det\t,|punct\tthis|nsubjpass\twould|aux\tbe|auxpass\tto the ' renewal of UFED software for seven machines ' in Chicago|prep\tthe|det\t'|punct\tthe ' renewal of UFED software for seven machines ' in Chicago|pobj\tof UFED software for seven machines ' in Chicago|prep\tUFED software for seven machines ' in Chicago|pobj\t'|punct\tin Chicago|prep"
+                }
+            ]
+        },
+        {
+            "claim": "BBC Mundo tried to get more details of the contract, however until the closure of this article the FBI did not respond to the request.",
+            "question_answers": [
+                {
+                    "question": "Who did not respond to BBC Mundo's request for more details of the contract?",
+                    "answer": "FBI"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the FBI respond to requests for details of the BBC contract?",
+                    "score": 0.7849,
+                    "answers": "the closure of this article|pobj\tof this article|prep\tthis article|pobj"
+                },
+                {
+                    "question": "What is the relationship between the BBC and the FBI?",
+                    "score": 0.5718,
+                    "answers": "www.bbc.com reported on 29/03/2016 that BBC Mundo tried to get more details of the contract|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The same  of March the FBI said it worked with an 'external part ', which had developed a way to break the security of the iPhone of San Bernardino.",
+            "question_answers": [
+                {
+                    "question": "What did the FBI say it worked with to break the security of the iPhone of San Bernardino?",
+                    "answer": "an 'external part"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the FBI work with to break the security of the iPhone of San Bernardino?",
+                    "score": 0.7085,
+                    "answers": "external|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Did Pandora's box open?The question today, experts say, is not who did it, but whether or not this is a definitive solution that Salomonically settles conflicts like the one that occurred between Apple and the FBI, between the right to data privacy and national security.",
+            "question_answers": [
+                {
+                    "question": "What is the question today that experts say is not who did Pandora's box open?",
+                    "answer": "whether or not this is a definitive solution that Salomonically settles conflicts"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the right to data privacy and national security?",
+                    "score": 0.6999,
+                    "answers": "between the right to data privacy and national security|prep\tthe right to data privacy and national security|pobj\tto data privacy|prep\tdata|compound\tdata privacy|pobj\tnational security|conj"
+                },
+                {
+                    "question": "What does Salomonically settle conflicts like the one that occurred between Apple and the FBI?",
+                    "score": 0.6988,
+                    "answers": "Salomonically|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "'Today it is Apple, but it could be anyone else ', says Joel Bollo, executive director of the Swedish data forensics company MSAB, one of Cellebrite's main competitors.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 29/03/2016?",
+                    "answer": "'Today it is Apple, but it could be anyone else"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Joel Bollo think about Apple?",
+                    "score": 0.8036,
+                    "answers": "could|aux\tanyone else|attr\telse|advmod"
+                },
+                {
+                    "question": "Who is Apple's main competitors today?",
+                    "score": 0.7073,
+                    "answers": "it could be anyone else|conj"
+                },
+                {
+                    "question": "What are Cellebrite's main competitors?",
+                    "score": 0.7008,
+                    "answers": "of Cellebrite 's main competitors|prep"
+                },
+                {
+                    "question": "Who is Apple today?",
+                    "score": 0.6889,
+                    "answers": "Today it is Apple , but it could be anyone else|ccomp"
+                },
+                {
+                    "question": "What is Cellebrite's main competitors?",
+                    "score": 0.666,
+                    "answers": "Cellebrite 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "'The main issue now is how to keep our phones safe, prevent mass surveillance and at the same time meet the requirements necessary to maintain the common good ', explains Bollo, who calls himself an enemy of mass cyber surveillance.",
+            "question_answers": [
+                {
+                    "question": "What does Bollo say he is an enemy of?",
+                    "answer": "maintain the common good"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Bollo believe about mass cyber surveillance?",
+                    "score": 0.7617,
+                    "answers": "www.bbc.com reported on 29/03/2016 that ' The main issue now is to keep our phones safe , how prevent mass surveillance and at the same time meet the requirements necessary to maintain the common good ' , explains Bollo , who calls himself an enemy of mass cyber surveillance|ROOT"
+                },
+                {
+                    "question": "What are the requirements for keeping phones safe?",
+                    "score": 0.7401,
+                    "answers": "www.bbc.com reported on 29/03/2016 that ' The main issue now is to keep our phones safe , how prevent mass surveillance and at the same time meet the requirements necessary to maintain the common good '|ccomp\tthat ' The main issue now is to keep our phones safe , how prevent mass surveillance and at the same time meet the requirements necessary to maintain the common good|ccomp\tto keep our phones safe , how prevent mass surveillance and at the same time meet the requirements necessary to maintain the common good|xcomp\tsafe|oprd"
+                },
+                {
+                    "question": "What is the main issue now regarding keeping phones safe, prevent mass surveillance and at the same time meet the requirements necessary to maintain the common good?",
+                    "score": 0.6726,
+                    "answers": "The main issue now|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'We have many customers.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that they had many customers?",
+                    "answer": "29/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many customers doesbbc.com have?",
+                    "score": 0.8448,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 29/03/2016 that ' We have many customers|ROOT\ton 29/03/2016|prep\tthat|mark\t'|punct\tWe|nsubj\tthat ' We have many customers|ccomp\tmany|amod\tmany customers|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The FBI is one of them ', explains its executive director upon being consulted.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 29/03/2016?",
+                    "answer": "The FBI is one of them"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who was the executive director of the FBI in 2016?",
+                    "score": 0.7746,
+                    "answers": "upon being consulted|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The company created a system called Forensic Control Access Technology (FACT) that can be used in future cases such as the San Bernardino iPhone.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the system created by bbc?",
+                    "answer": "Forensic Control Access Technology (FACT)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the technology used in future cases such as the San Bernardino iPhone?",
+                    "score": 0.6836,
+                    "answers": "future cases such as the San Bernardino iPhone|pobj"
+                },
+                {
+                    "question": "What does FACT stand for?",
+                    "score": 0.6119,
+                    "answers": "www.bbc.com reported on 29/03/2016 that The company created a system called Forensic Control Access Technology ( FACT ) that can be used in future cases such as the San Bernardino iPhone|ROOT\ton 29/03/2016|prep\tthat can be used in future cases such as the San Bernardino iPhone|relcl"
+                },
+                {
+                    "question": "What is FACT?",
+                    "score": 0.5674,
+                    "answers": "www.bbc.com|nsubj\tthat|mark\tThe|det\tThe company|nsubj\tthat The company created a system called Forensic Control Access Technology ( FACT ) that can be used in future cases such as the San Bernardino iPhone|ccomp\ta|det\ta system called Forensic Control Access Technology ( FACT ) that can be used in future cases such as the San Bernardino iPhone|dobj\tcalled Forensic Control Access Technology ( FACT )|acl\tForensic|compound\tControl|compound\tAccess|compound\tForensic Control Access Technology ( FACT )|oprd\t(|punct\tFACT|appos\t)|punct\tthat|nsubjpass\tcan|aux\tbe|auxpass\tin future cases such as the San Bernardino iPhone|prep\tfuture|amod\tsuch|amod\tsuch as the San Bernardino iPhone|prep\tthe|det\tSan|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The system is sold as a third way for cases where, as in San Bernardino, intelligence and national security agencies require access to information without having to create a 'master key 'that violates the security and privacy of other users.",
+            "question_answers": [
+                {
+                    "question": "What did the bbc report that the system was sold as a third way for cases where intelligence and national security agencies require access to information without having to create a what?",
+                    "answer": "'master key"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why are intelligence and national security agencies requiring access to information without creating a master key?",
+                    "score": 0.7879,
+                    "answers": "that The system is sold as a third way for cases where , as in San Bernardino , intelligence and national security agencies require access to information without having to create a ' master key ' that violates the security and privacy of other users|ccomp\tas a third way for cases where , as in San Bernardino , intelligence and national security agencies require access to information without having to create a ' master key ' that violates the security and privacy of other users|prep\ta third way for cases where , as in San Bernardino , intelligence and national security agencies require access to information without having to create a ' master key ' that violates the security and privacy of other users|pobj\tfor cases where , as in San Bernardino , intelligence and national security agencies require access to information without having to create a ' master key ' that violates the security and privacy of other users|prep\tcases where , as in San Bernardino , intelligence and national security agencies require access to information without having to create a ' master key ' that violates the security and privacy of other users|pobj\twhere , as in San Bernardino , intelligence and national security agencies require access to information without having to create a ' master key ' that violates the security and privacy of other users|relcl"
+                },
+                {
+                    "question": "What are the requirements for creating a master key that violates the security and privacy of other users?",
+                    "score": 0.6761,
+                    "answers": "information|pobj"
+                },
+                {
+                    "question": "What is a master key?",
+                    "score": 0.6625,
+                    "answers": "a ' master key ' that violates the security and privacy of other users|dobj"
+                },
+                {
+                    "question": "What is the definition of a master key?",
+                    "score": 0.6429,
+                    "answers": "privacy|conj"
+                },
+                {
+                    "question": "What is the use of the \"master key\"?",
+                    "score": 0.6423,
+                    "answers": "as in San Bernardino|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The method uses different key pairs to encrypt and decrypt information.",
+            "question_answers": [
+                {
+                    "question": "What does the method use to encrypt and decrypt information?",
+                    "answer": "different key pairs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many key pairs does the method use to encrypt and decrypt information?",
+                    "score": 0.8438,
+                    "answers": "www.bbc.com reported on 29/03/2016 that The method uses different key pairs to encrypt and decrypt information|ROOT"
+                },
+                {
+                    "question": "What is the method used to decrypt information?",
+                    "score": 0.8067,
+                    "answers": "decrypt information|conj"
+                }
+            ]
+        },
+        {
+            "claim": "That is to say, in addition to having the device physically you have to have two pairs of keys -or keys-: one generated by the government agency that requires the information and another by the company that makes the device.",
+            "question_answers": [
+                {
+                    "question": "How many pairs of keys do you have to have in addition to having the device physically?",
+                    "answer": "two pairs of keys"
+                },
+                {
+                    "question": "What are the two pairs of keys?",
+                    "answer": "one generated by the government agency that requires the information and another by the company that makes the device"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many pairs of keys do you need to have in order to use the device?",
+                    "score": 0.7179,
+                    "answers": "www.bbc.com reported on 29/03/2016 that That is to say , in addition to having the device physically you have to have two pairs of keys -or keys- : one generated by the government agency that requires the information and another by the company that makes the device|ROOT"
+                },
+                {
+                    "question": "What is the government agency that requires the information to create a device?",
+                    "score": 0.6603,
+                    "answers": "the government agency that requires the information|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The key used for each specific case required by law can be configured for a finite number (usually from  to ) of uses, after which it becomes invalid.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the uses of the key used for each specific case required by law?",
+                    "score": 0.6802,
+                    "answers": "  to ) of uses , after which it becomes invalid|dep\tof uses , after which it becomes invalid|prep\tuses|pobj"
+                },
+                {
+                    "question": "What is required by law for a finite number to be used?",
+                    "score": 0.6421,
+                    "answers": "required by law|acl"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, only with both key pairs can the data be extracted from the mobile device.",
+            "question_answers": [
+                {
+                    "question": "How can data be extracted from a mobile device?",
+                    "answer": "only with both key pairs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much data can be extracted from a mobile device?",
+                    "score": 0.772,
+                    "answers": "www.bbc.com reported on 29/03/2016 that In addition , only with both key pairs can the data be extracted from the mobile device|ROOT\ton 29/03/2016|prep\tthat|mark\taddition|pobj\t,|punct\tboth|det\tboth key pairs|pobj\tcan|aux\tthe|det\tthe data|nsubjpass\tbe|auxpass\tthat In addition , only with both key pairs can the data be extracted from the mobile device|ccomp\tfrom the mobile device|prep\tthe|det\tmobile|amod\tthe mobile device|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Will it ever be known how the FBI got the information?Apple announced that he will do everything he can to get the FBI to reveal how he managed to access the information.",
+            "question_answers": [
+                {
+                    "question": "What did Apple say he would do to get the FBI to reveal?",
+                    "answer": "how the FBI got the information?Apple announced that he will do everything he can to get the FBI to reveal how he managed to access the information"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Apple get information from the FBI?",
+                    "score": 0.8083,
+                    "answers": "that|mark\tWill|aux\tit|nsubjpass\tever|advmod\tthat|mark\tto get the FBI to reveal he managed how to access the information|advcl"
+                },
+                {
+                    "question": "What information did Apple get from the FBI?",
+                    "score": 0.7709,
+                    "answers": "how to access the information|xcomp\tthe information|dobj"
+                },
+                {
+                    "question": "What did Apple do to get the FBI's information?",
+                    "score": 0.746,
+                    "answers": "www.bbc.com reported on 29/03/2016 that Will it ever be known how the FBI got the information?Apple announced that he will do everything he can to get the FBI to reveal he managed how to access the information|ROOT\ton 29/03/2016|prep\tbe|auxpass\thow|advmod\tthe|det\tthe FBI|nsubj\tthe|det\tthe information?Apple|dobj\the|nsubj\twill|aux\the|nsubj\tto|aux\tthe|det\tthe FBI|nsubj\tto|aux\thow|advmod\the|nsubj\the managed how to access the information|ccomp\tto|aux\tthe|det"
+                },
+                {
+                    "question": "Who did Apple get the information from?",
+                    "score": 0.7346,
+                    "answers": "that Will it ever be known how the FBI got the information?Apple|ccomp\thow the FBI got the information?Apple|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'It is difficult for the FBI to make the methodology public ', explains Garcia, since 'it is very likely to be used in future cases'.",
+            "question_answers": [
+                {
+                    "question": "What did www.bbc.com report on 29/03/2016?",
+                    "answer": "'It is difficult for the FBI to make the methodology public"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is it difficult for the FBI to make it public?",
+                    "score": 0.9056,
+                    "answers": "difficult|acomp"
+                },
+                {
+                    "question": "Why is it difficult to make the FBI's methodology public?",
+                    "score": 0.8784,
+                    "answers": "that ' It is difficult for the FBI to make the methodology public ' , explains Garcia , since ' it is very likely to be used in future cases '|ccomp"
+                },
+                {
+                    "question": "What does it take to make the methodology public?",
+                    "score": 0.8113,
+                    "answers": "the|det\tto|aux\tthe|det\tto|aux"
+                },
+                {
+                    "question": "What is the FBI's methodology used in future cases?",
+                    "score": 0.7832,
+                    "answers": "to be used in future cases|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of Garcia's methodology?",
+                    "score": 0.7495,
+                    "answers": "since|mark"
+                }
+            ]
+        },
+        {
+            "claim": "Probably won't officially reveal the name of the outside company either.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that Probably won't officially reveal the name of the outside company?",
+                    "answer": "29/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the name of the outside company?",
+                    "score": 0.6306,
+                    "answers": "on 29/03/2016|prep\tofficially|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "The law in the U.S. USA.",
+            "question_answers": [
+                {
+                    "question": "When did www.bbc.com report that the law in the U.S. was changed?",
+                    "answer": "29/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the law in the United States?",
+                    "score": 0.7055,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 29/03/2016 that The law in the U.S. USA|ROOT\ton 29/03/2016|prep\tthat|mark\tThe|det\tthat The law in the U.S. USA|ccomp\tin the U.S. USA|prep\tthe|det\tU.S.|compound"
+                }
+            ]
+        },
+        {
+            "claim": "allows authorities to retain the source of information if provided confidentially, and to protect methodologies for the collection of sensitive intelligence data.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of allowing authorities to retain the source of information if provided confidentially?",
+                    "answer": "to protect methodologies for the collection of sensitive intelligence data"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is methodologies for the collection of sensitive intelligence data?",
+                    "score": 0.7415,
+                    "answers": "to protect methodologies for the collection of sensitive intelligence data|conj\tmethodologies for the collection of sensitive intelligence data|dobj"
+                },
+                {
+                    "question": "What is the source of information for intelligence data?",
+                    "score": 0.714,
+                    "answers": "that|nsubj\tto|aux\tthe|det\t,|punct\tand|cc\tto|aux\tfor the collection of sensitive intelligence data|prep\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "How to prevent your iPhone from being watched?The first thing to be clear is that there is no fail-safe technology.",
+            "question_answers": [
+                {
+                    "question": "What type of technology is there to prevent your iPhone from being watched?",
+                    "answer": "fail-safe technology"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can you prevent your iPhone from being watched?",
+                    "score": 0.8756,
+                    "answers": "www.bbc.com reported on 29/03/2016 that How to prevent your iPhone from being watched?The|ROOT\tthat How to prevent your iPhone from being|ccomp\tyour iPhone|dobj\twatched?The|punct"
+                },
+                {
+                    "question": "What is fail-safe technology?",
+                    "score": 0.774,
+                    "answers": "on 29/03/2016|prep\tthat|mark\tHow|advmod\tto|aux\tyour|poss\tfrom being|prep\tbeing|pcomp\tfirst thing to be clear|nsubj\tto|aux\tto be clear|relcl\tclear|acomp\tfirst thing to be clear is that there is no fail - safe technology|ROOT\tthat|mark\tthere|expl\tthat there is no fail - safe technology|ccomp\tno|det\tfail|amod\t-|punct\tfail - safe|amod\tno fail - safe technology|attr"
+                }
+            ]
+        },
+        {
+            "claim": "'It is unrealistic to think that a device that keeps information, whether a smart cell phone or another, is insurmountable ', says Gibson.",
+            "question_answers": [
+                {
+                    "question": "What did bbc.com say about a smart cell phone?",
+                    "answer": "insurmountable"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Gibson say about a smart cell phone?",
+                    "score": 0.7805,
+                    "answers": "that a device that keeps information , whether a smart cell phone or another , is insurmountable|ccomp"
+                },
+                {
+                    "question": "What is the insurmountable device that keeps information, whether a smart cell phone or another?",
+                    "score": 0.7237,
+                    "answers": "to think that a device that keeps information , whether a smart cell phone or another , is insurmountable|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, that a third party has developed a methodology that takes advantage of a weakness 'will open up a debate that is not pleasant to Apple ', García says.",
+            "question_answers": [
+                {
+                    "question": "What did Garca say that the methodology developed by a third party would do?",
+                    "answer": "open up a debate that is not pleasant to Apple"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the method used to open up a debate that is not pleasant to Apple?",
+                    "score": 0.718,
+                    "answers": "that is not pleasant to Apple|relcl"
+                },
+                {
+                    "question": "What is the relationship between a third party and Apple?",
+                    "score": 0.6622,
+                    "answers": "up|prt"
+                },
+                {
+                    "question": "What is the methodology that takes advantage of a weakness?",
+                    "score": 0.6193,
+                    "answers": "a methodology that takes advantage of a weakness|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "One of the great advantages that Apple exploits in terms of marketing is the privacy security of its devices.",
+            "question_answers": [
+                {
+                    "question": "What is one of the great advantages that Apple exploits in terms of marketing?",
+                    "answer": "privacy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Apple do with its marketing?",
+                    "score": 0.8636,
+                    "answers": "that Apple exploits in terms of marketing|relcl"
+                },
+                {
+                    "question": "What are Apple's advantages in marketing?",
+                    "score": 0.8426,
+                    "answers": "of the great advantages that Apple exploits in terms of marketing|prep\tthe great advantages that Apple exploits in terms of marketing|pobj"
+                },
+                {
+                    "question": "What are the privacy security of Apple devices?",
+                    "score": 0.8212,
+                    "answers": "that|mark\tthat|dobj\tmarketing|pobj"
+                },
+                {
+                    "question": "What is Apple's privacy security?",
+                    "score": 0.8104,
+                    "answers": "One of the great advantages that Apple exploits in terms of marketing|nsubj\tthat One of the great advantages that Apple exploits in terms of marketing is the privacy security of its devices|ccomp\tits|poss"
+                }
+            ]
+        },
+        {
+            "claim": "'If the FBI has taken advantage of any hardware failure on the device, the problem for Apple is highly complex as it would force the device to change, or the users to take the risk ', says Garcia.",
+            "question_answers": [
+                {
+                    "question": "What is the problem for Apple if the FBI took advantage of a hardware failure?",
+                    "answer": "it would force the device to change, or the users to take the risk"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the FBI doing to prevent hardware failure on an Apple device?",
+                    "score": 0.8011,
+                    "answers": "advantage|dobj\thardware|compound"
+                },
+                {
+                    "question": "What is Apple doing to prevent a hardware failure?",
+                    "score": 0.7891,
+                    "answers": "for Apple|prep"
+                },
+                {
+                    "question": "What did Garcia say about the FBI taking advantage of any hardware failure?",
+                    "score": 0.776,
+                    "answers": "that|mark\t'|punct\tthe|det\thas|aux\tthe|det\t,|punct\tthe|det\thighly|advmod\tas|mark\tit|nsubj\tthe|det\tto|aux\t,|punct\tor|cc\tthe|det\tto|aux\tthe|det\t'|punct\t,|punct"
+                },
+                {
+                    "question": "What is the FBI's role in preventing a hardware failure?",
+                    "score": 0.6993,
+                    "answers": "www.bbc.com|nsubj\tthe FBI|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'In the event that the bug was logical, if identified by Apple, as on so many other occasions, a new version of iOS would solve the problem'.",
+            "question_answers": [
+                {
+                    "question": "What would solve the problem if the bug was logical?",
+                    "answer": "a new version of iOS"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Apple do to solve the bug?",
+                    "score": 0.844,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 29/03/2016 that ' In the event that the bug was logical , if identified by Apple , as on so many other occasions , a new version of iOS would solve the problem '|ROOT\ton 29/03/2016|prep\tthat|mark\t'|punct\tIn the event that the bug was logical|prep\tthe|det\tthe event that the bug was logical|pobj\tthat|mark\tthe|det\tthe bug|nsubj\tthat the bug was logical|acl\t,|punct\tif|mark\tif identified by Apple , as on so many other occasions|advcl\t,|punct\tas on so many other occasions|prep\tso|advmod\tso many|amod\tother|amod\t,|punct\ta|det\tnew|amod\ta new version of iOS|nsubj\tof iOS|prep\twould|aux\tthat ' In the event that the bug was logical , if identified by Apple , as on so many other occasions , a new version of iOS would solve the problem|ccomp\tthe|det\tthe problem|dobj\t'|punct"
+                },
+                {
+                    "question": "What did Apple say about the bug?",
+                    "score": 0.8419,
+                    "answers": "logical|acomp\tby Apple|agent\tso many other occasions|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It's what Apple does every time it detects a methodology to challenge the security of its operating system.",
+            "question_answers": [
+                {
+                    "question": "What does Apple do when it detects a methodology to challenge the security of its operating system?",
+                    "answer": "every time it detects a methodology to challenge the security of its operating system"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Apple do to challenge security of its operating systems?",
+                    "score": 0.8526,
+                    "answers": "on 29/03/2016|prep"
+                },
+                {
+                    "question": "What is Apple's operating system?",
+                    "score": 0.8,
+                    "answers": "of its operating system|prep\toperating|amod\tits operating system|pobj"
+                },
+                {
+                    "question": "What is the security of Apple's operating systems?",
+                    "score": 0.7992,
+                    "answers": "every time it detects a methodology to challenge the security of its operating system|npadvmod\tthe security of its operating system|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The latest iOS update was released by Apple on March .",
+            "question_answers": [
+                {
+                    "question": "On what date was the latest iOS update released by Apple?",
+                    "answer": "29/03/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the latest iOS update released by Apple?",
+                    "score": 0.8997,
+                    "answers": "www.bbc.com|nsubj\twww.bbc.com reported on 29/03/2016 that The latest iOS update was released by Apple on March|ROOT\ton 29/03/2016|prep\tthat|mark\tThe|det\tlatest|amod\tThe latest iOS update|nsubjpass\twas|auxpass\tthat The latest iOS update was released by Apple on March|ccomp\tby Apple|agent\ton March|prep"
+                }
+            ]
+        }
+    ]
+}

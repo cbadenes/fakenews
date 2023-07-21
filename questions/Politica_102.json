@@ -1,0 +1,947 @@
+{
+    "id": "Politica_102",
+    "claim": "The King's speech has repositioned the parties in two ideological blocs this Friday, but has left a soft allusion of the PSOE to the need for “renewal” of the monarchic institution. PP, Cs and Vox have praised Philip VI's message, while Unidas Podemos and the nationalists have told him not to make explicit references to the situation of Juan Carlos I. The PSOE avoided both the closed support of the opposition and the amendment to its entire government partner. Socialists have said they share the “fundamental” of the speech, but put the accent on their confidence that the King will “go forward with the renewal of the institution”. The reading by the parties of the King's Christmas Eve speech that had generated more expectation in recent years did not give rise to many surprises. The PP, Vox and Ciudadanos have hastened to show their applause to the words of Philip VI. “Impeable”, the address was defined by the leader of the popular, Pablo Casado, the same night on Thursday. At that time, Congressional spokesman Podemos, Pablo Echenique, had also criticized that Philip VI had not “explicitly condemned the corrupt activities of Juan Carlos I and his tax evasion”. The PSOE reacted well into Christmas morning and its message re-proved that government partners defend far away positions on the Crown. The president of the socialists, Cristina Narbona, celebrated “the King's firm commitment to the ethical values that citizens demand from the institutions”. He added: “We hope that he will continue with the renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century”. The message of the PSOE, while asking the King in a veiled way to get rid of his father's performances, contrasts with the harsh words used by Unidas Podemos, which has not hesitated to increase the decibels of his attacks. The Executive's minority partner used very harsh language yesterday. The spokesman for the formation, Rafa Mayoral, called the press at the party headquarters to condemn that the Monarchy is “in crisis” and to emphasize that “it is not a problem of people, but an institutional problem of first order”. The two partners of the coalition government have again shown all their letters on one of the issues that most ideologically alienates them. Once the Budgets for 2021 have been approved, we can now push harder to try to open the monarchy-republic debate, in front of a PSOE determined to close ranks with the Monarchy, especially at this delicate moment for the institution, since the departure of Juan Carlos I from Spain. Although the words of Iglesias and his party make the socialist sector of the Executive uncomfortable, from Podemos there is no intention to lower their criticisms. On the basis of the King's appeal to “moral and ethical principles”, Mayoral has insisted that “the only ethical way forward is to move towards a republican horizon,” the goal that the leader of the formation and second vice president, Pablo Iglesias, pushes toward in all his appearances. “What we cannot afford is that there is an implosion of the monarchist institution without us having begun to think about the exits to that crisis,” said Mayoral. And he added: “There is one question that remains unanswered [Felipe VI]: Is the monarchist institution a suitable tool to commit crimes?”. The PSOE is in this matter closer to the positions that defend the PP, Citizens or Vox. The President of Vox, Santiago Abascal, shared part of the Christmas Eve message of the head of state: “With effort, union and solidarity, Spain will succeed,” he tweeted, with the hashtag #VivaElRey. The President of Citizens, Ines Arrimadas, endorsed the same words of the King. “In the most difficult year, I share the King's words: ‘Spain will succeed. With effort, union and solidarity. With everyone and for everyone,” said Arrimadas. Criticisms of ERC and PNVThe floral offering on the 87th anniversary of the death of Francesc Macià in the cemetery of Montjuïc, in Barcelona, has become the scene of criticism of the King. The current President of the Generalitat, Pere Aragonès (ERC), has contrasted Macià's figure with Felipe VI's speech, which he has described as “empty” and has disqualified for not openly demarcating himself from the corruption of the Emeritus king: “The only speech we expect from Philip VI is the one announcing the end of the monarchy,” said Aragonès, reports Blanca Cia. For his part, ERC's parliamentary spokesman, Gabriel Rufián, has ironed out the message with an impromptu Twitter poll in which he asked if the speech had “glued,” along with three ‘noes' as the only possible answer. EH deputy Bildu Jon Iñarritu wondered this Thursday “what a king is for,” while the PNV spokesman in Congress, Aitor Esteban, criticized the King's failure to go directly into the scandals of recent months and confine himself to “a dark phrase”. “It hasn't happened on a tiptoe; it hasn't happened,” he said. Fernando Clavijo, of Coalition Canaria, has lamented the absence in the speech of references to the “migration drama” that has marked the year in the islands. I'm sorry.",
+    "source": "elpais.com",
+    "date": "25/12/2020",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The president of the socialists, Cristina Narbona, the King's The president of the socialists, Cristina Narbona, two ideological the King's Mayoral Friday, but has left a soft allusion of the PSOE to the need for “renewal” of the monarchic institution the socialists .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/12/2020 that the president of the socialists, Cristina Narbona, the King's Mayoral Friday?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has Cristina Narbona said about socialism?",
+                    "score": 0.7552,
+                    "answers": "the need for “ renewal ” of the monarchic institution the socialists|pobj"
+                },
+                {
+                    "question": "What is Cristina Narbona's stance on socialism?",
+                    "score": 0.6707,
+                    "answers": "of the socialists|prep\tof the socialists|prep\tfor “ renewal ” of the monarchic institution the socialists|prep\tthe monarchic institution the socialists|pobj"
+                },
+                {
+                    "question": "What was the relationship between Cristina Narbona and the socialists?",
+                    "score": 0.6463,
+                    "answers": "a soft allusion of the PSOE to the need for “ renewal ” of the monarchic institution the socialists|dobj"
+                },
+                {
+                    "question": "Who is Cristina Narbona the King's The president of the socialists?",
+                    "score": 0.6399,
+                    "answers": "the King 's|poss\tthe King 's|poss"
+                },
+                {
+                    "question": "What is the purpose of the King's Mayoral Friday?",
+                    "score": 0.6191,
+                    "answers": "the King 's Mayoral Friday|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "the leader of the formation and second vice president, Pablo Iglesias and the nationalists the leader of the formation and second vice president, Pablo Iglesias told The King's not to make explicit references to the situation of Juan Carlos I. the monarchist institution the closed support of the King's and the amendment to entire Mayoral partner.",
+            "question_answers": [
+                {
+                    "question": "What did Pablo Iglesias tell The King not to make explicit references to the situation of Juan Carlos I?",
+                    "answer": "the monarchist institution the closed support of the King's"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Pablo Iglesias tell The King about Juan Carlos I?",
+                    "score": 0.6442,
+                    "answers": "second vice president|conj\tsecond vice president|conj\tCarlos|compound"
+                },
+                {
+                    "question": "Who was the leader of the formation and second vice president, Pablo Iglesias?",
+                    "score": 0.5447,
+                    "answers": "the leader of the formation and second vice president , Pablo Iglesias and the nationalists the leader of the formation and second vice president , Pablo Iglesias|nsubj"
+                },
+                {
+                    "question": "What was the relationship between the King and the Mayoral partner?",
+                    "score": 0.4811,
+                    "answers": "not to make explicit references to the situation of Juan Carlos I. the monarchist institution the closed support of the King 's and the amendment to entire Mayoral partner|xcomp"
+                },
+                {
+                    "question": "What is the relationship between Pablo Iglesias and the King?",
+                    "score": 0.4705,
+                    "answers": "Pablo|compound\tPablo|compound"
+                },
+                {
+                    "question": "What is the monarchist institution?",
+                    "score": 0.4643,
+                    "answers": "the monarchist institution|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Socialists have said Socialists share the Unidas Podemos, which has not hesitated to increase the decibels of his attacks the King's Unidas Podemos, which has not hesitated to increase the decibels of his attacks the monarchist institution Unidas Podemos, which has not hesitated to increase the decibels of his attacks of the monarchic institution ”.",
+            "question_answers": [
+                {
+                    "question": "The Unidas Podemos has not hesitated to increase the decibels of his attacks on what institution?",
+                    "answer": "monarchic institution"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many decibels did Unidas Podemos attack the monarchic institution?",
+                    "score": 0.7492,
+                    "answers": "of his attacks the King 's Unidas Podemos , which has not hesitated to increase the decibels of his attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|prep\this attacks the King 's Unidas Podemos , which has not hesitated to increase the decibels of his attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|pobj\twhich has not hesitated to increase the decibels of his attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|relcl\tthe decibels of his attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|dobj\this attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|pobj\this attacks of the monarchic institution|pobj"
+                },
+                {
+                    "question": "What are the decibels of Unidas Podemos attacks?",
+                    "score": 0.7022,
+                    "answers": "that|mark\tthat Socialists have said Socialists share the Unidas Podemos , which has not hesitated to increase the decibels of his attacks the King 's Unidas Podemos , which has not hesitated to increase the decibels of his attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|ccomp\tSocialists share the Unidas Podemos , which has not hesitated to increase the decibels of his attacks the King 's Unidas Podemos , which has not hesitated to increase the decibels of his attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|ccomp\tthe|det\t,|punct\twhich|nsubj\thas|aux\tto|aux\tthe|det\tthe|det\t's|case\t,|punct\twhich|nsubj\thas|aux\tto|aux\tthe|det\tthe|det\tmonarchist|amod\tthe monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|appos\t,|punct\twhich|nsubj\thas|aux\tto|aux\tthe|det\tthe|det\tmonarchic|amod\t”|punct"
+                },
+                {
+                    "question": "What is Unidas Podemos?",
+                    "score": 0.6685,
+                    "answers": "have|aux\tUnidas|compound\tthe Unidas Podemos , which has not hesitated to increase the decibels of his attacks the King 's Unidas Podemos , which has not hesitated to increase the decibels of his attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|dobj\tnot|neg\twhich has not hesitated to increase the decibels of his attacks the King 's Unidas Podemos , which has not hesitated to increase the decibels of his attacks the monarchist institution Unidas Podemos , which has not hesitated to increase the decibels of his attacks of the monarchic institution|relcl\this|poss\tUnidas|compound\tnot|neg\this|poss\tUnidas|compound\tnot|neg\twhich has not hesitated to increase the decibels of his attacks of the monarchic institution|relcl\tto increase the decibels of his attacks of the monarchic institution|xcomp\this|poss\tof the monarchic institution|prep\tthe monarchic institution|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The reading by the parties Citizens Unidas Podemos, which has not hesitated to increase the decibels of his attacks Vox Unidas Podemos, which has not hesitated to increase the decibels of his attacks The President of Vox, Santiago Abascal, The King's speech did not the Monarchy the King's .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/12/2020 that The reading by the parties Citizens Unidas Podemos, which not hesitated to increase the decibels of his attacks?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the King's speech increase the decibels of his attacks?",
+                    "score": 0.7449,
+                    "answers": "The King 's speech did not|parataxis"
+                },
+                {
+                    "question": "What did Abascal say about the King's speech?",
+                    "score": 0.6384,
+                    "answers": "The President of Vox , Santiago Abascal , The King 's speech did not the Monarchy the King 's|appos"
+                },
+                {
+                    "question": "What did the parties Unidas Podemos do to increase decibels of their attacks?",
+                    "score": 0.6144,
+                    "answers": "to increase the decibels of his attacks|xcomp\tto increase the decibels of his attacks|xcomp"
+                },
+                {
+                    "question": "How many decibels did the leader of Vox Unidas Podemos attack?",
+                    "score": 0.6005,
+                    "answers": "Unidas|compound\tUnidas|compound"
+                },
+                {
+                    "question": "What was the purpose of the King's speech?",
+                    "score": 0.5885,
+                    "answers": "The King 's speech|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The PP, Vox and Ciudadanos have Spain to show applause to the words of The King's .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/12/2020 that The PP, Vox and Ciudadanos have Spain to show applause to the words of The King's Speech?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the PP, Vox, and Ciudadanos say about the King's words?",
+                    "score": 0.5556,
+                    "answers": "elpais.com reported on 25/12/2020 that The PP , Vox and Ciudadanos have Spain to show applause to the words of The King 's|ROOT"
+                },
+                {
+                    "question": "How many people attended the King's words?",
+                    "score": 0.4975,
+                    "answers": "Spain to show applause to the words of The King 's|dobj\tto show applause to the words of The King 's|relcl"
+                },
+                {
+                    "question": "What are the political views of the King?",
+                    "score": 0.4839,
+                    "answers": "Vox and Ciudadanos|conj"
+                },
+                {
+                    "question": "What are the words of The King's words?",
+                    "score": 0.4835,
+                    "answers": "on 25/12/2020|prep"
+                },
+                {
+                    "question": "What is the relationship between the PP and the King's words?",
+                    "score": 0.4741,
+                    "answers": "that The PP , Vox and Ciudadanos have Spain to show applause to the words of The King 's|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "“ImpeableThe President of Citizens, Ines Arrimadas The two partners of the coalition government of the popular, Pablo the King's the same night on Thursday.",
+            "question_answers": [
+                {
+                    "question": "Who is the President of Citizens?",
+                    "answer": "Ines Arrimadas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the relationship between Ines Arrimadas and Pablo the King?",
+                    "score": 0.4764,
+                    "answers": "ImpeableThe|amod\tPablo the King 's|appos"
+                },
+                {
+                    "question": "What is the relationship between the President of Citizens and Ines Arrimadas?",
+                    "score": 0.4743,
+                    "answers": "elpais.com reported on 25/12/2020 that “ ImpeableThe President of Citizens , Ines Arrimadas The two partners of the coalition government of the popular , Pablo the King 's the same night on Thursday|ROOT"
+                },
+                {
+                    "question": "Who is Ines Arrimadas?",
+                    "score": 0.4437,
+                    "answers": "Ines|compound"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.3479,
+                    "answers": "elpais.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "At The President of Citizens, Ines Arrimadas timethe King's spokesman Podemos, Pablo Echenique, had also criticized that The King's had not “explicitly condemned The President of Citizens, Ines Arrimadas corrupt activities of Juan Carlos I. and tax evasion”.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 25/12/2020 that The King's spokesman Podemos, Pablo Echenique, had also criticized that The King's had not explicitly condemned The President of Citizens, Ines Arrimadas corrupt activities of Juan Carlos I.?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who did Ines Arrimadas corrupt activities of?",
+                    "score": 0.679,
+                    "answers": "of Juan Carlos I.|prep"
+                },
+                {
+                    "question": "What did Ines Arrimadas say about the King's corruption?",
+                    "score": 0.6768,
+                    "answers": "tax evasion|conj"
+                },
+                {
+                    "question": "What did the King say about Ines Arrimadas?",
+                    "score": 0.6492,
+                    "answers": "elpais.com reported on 25/12/2020 that At The President of Citizens , Ines Arrimadas timethe King 's spokesman Podemos , Pablo Echenique , had also criticized that The King 's had not “ explicitly condemned The President of Citizens , Ines Arrimadas corrupt activities of Juan Carlos I. and tax evasion ”|ROOT\tthat At The President of Citizens , Ines Arrimadas timethe King 's spokesman Podemos , Pablo Echenique , had also criticized that The King 's had not “ explicitly condemned The President of Citizens , Ines Arrimadas corrupt activities of Juan Carlos I. and tax evasion ”|ccomp\tnot|neg\tthat The King 's had not “ explicitly condemned The President of Citizens , Ines Arrimadas corrupt activities of Juan Carlos I. and tax evasion ”|ccomp"
+                },
+                {
+                    "question": "What was Ines Arrimadas' stance on the President of Citizens?",
+                    "score": 0.6491,
+                    "answers": "of Citizens|prep\tof Citizens|prep"
+                },
+                {
+                    "question": "Who was the President of Citizens in 2019?",
+                    "score": 0.5922,
+                    "answers": "timethe King 's spokesman Podemos , Pablo Echenique ,|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the PSOE reacted the Monarchy Christmas morning and The King's speech re-the Monarchy partners defend far away positions on the King's .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/12/2020 that the PSOE reacted to the Monarchy Christmas morning and The King's speech?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the PSOE say on the Monarchy Christmas morning?",
+                    "score": 0.624,
+                    "answers": "elpais.com reported on 25/12/2020 that the PSOE reacted the Monarchy Christmas morning and The King 's speech re - the Monarchy partners defend far away positions on the King 's|ROOT\tthat the PSOE reacted the Monarchy Christmas morning and The King 's speech re - the Monarchy partners defend far away positions on the King 's|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the PSOE and the Monarchy?",
+                    "score": 0.5488,
+                    "answers": "the PSOE|nsubj"
+                },
+                {
+                    "question": "What is the name of the Monarchy?",
+                    "score": 0.5119,
+                    "answers": "the Monarchy|dobj\tMonarchy|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The president of his Unidas Podemos, which has not hesitated to increase the decibels of his attacks Narbona, celebrated “the KingThe Executive's to the ethical Unidas Podemos, which has not hesitated to increase the decibels of his attacks that citizens demand from the Unidas Podemos, which has not hesitated to increase the decibels of his attacks ”.",
+            "question_answers": [
+                {
+                    "question": "What has the president of his Unidas Podemos not hesitated to increase?",
+                    "answer": "the decibels of his attacks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Unidas Podemos do to increase the decibels of their attacks?",
+                    "score": 0.6869,
+                    "answers": "which has not hesitated to increase the decibels of his attacks|relcl\twhich has not hesitated to increase the decibels of his attacks|relcl"
+                },
+                {
+                    "question": "How many decibels did the Unidas Podemos attack Narbona?",
+                    "score": 0.6621,
+                    "answers": "elpais.com reported on 25/12/2020 that The president of his Unidas Podemos , which has not hesitated to increase the decibels of his attacks Narbona , celebrated “ the KingThe Executive 's to the ethical Unidas Podemos , which has not hesitated to increase the decibels of his attacks that citizens demand from the Unidas Podemos , which has not hesitated to increase the decibels of his attacks ”|ROOT\tthat|mark\tThe|det\tThe president of his Unidas Podemos , which has not hesitated to increase the decibels of his attacks Narbona ,|nsubj\tof his Unidas Podemos , which has not hesitated to increase the decibels of his attacks Narbona|prep\this|poss\tUnidas|compound\this Unidas Podemos , which has not hesitated to increase the decibels of his attacks Narbona|pobj\t,|punct\twhich|nsubj\thas|aux\tnot|neg\twhich has not hesitated to increase the decibels of his attacks Narbona|relcl\tto|aux\tto increase the decibels of his attacks Narbona|xcomp\tthe|det\tthe decibels of his attacks Narbona|dobj\tof his attacks Narbona|prep\this|poss\this attacks Narbona|pobj\t,|punct\tthat The president of his Unidas Podemos , which has not hesitated to increase the decibels of his attacks Narbona , celebrated “ the KingThe Executive 's to the ethical Unidas Podemos , which has not hesitated to increase the decibels of his attacks that citizens demand from the Unidas Podemos , which has not hesitated to increase the decibels of his attacks|ccomp\t“|punct\tthe|det\tthe KingThe Executive 's to the ethical Unidas Podemos , which has not hesitated to increase the decibels of his attacks that citizens demand from the Unidas Podemos , which has not hesitated to increase the decibels of his attacks|dobj\t's|punct\tto the ethical Unidas Podemos , which has not hesitated to increase the decibels of his attacks that citizens demand from the Unidas Podemos , which has not hesitated to increase the decibels of his attacks|prep\tthe|det\tUnidas|compound\tthe ethical Unidas Podemos , which has not hesitated to increase the decibels of his attacks that citizens demand from the Unidas Podemos , which has not hesitated to increase the decibels of his attacks|pobj\t,|punct\twhich|nsubj\thas|aux\tnot|neg\tto|aux\tthe|det\tof his attacks|prep\this|poss\this attacks|pobj\tthat|dobj\tfrom the Unidas Podemos , which has not hesitated to increase the decibels of his attacks|prep\tthe|det\tUnidas|compound\tthe Unidas Podemos , which has not hesitated to increase the decibels of his attacks|pobj\t,|punct\twhich|nsubj\thas|aux\tnot|neg\tto|aux\tthe|det\tof his attacks|prep\this|poss\this attacks|pobj\t”|punct"
+                },
+                {
+                    "question": "What are the decibels of Unidas Podemos attacks?",
+                    "score": 0.6289,
+                    "answers": "citizens|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "He added: “We hope that he will continue with the renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century”.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 25/12/2020 that He added: \"We hope that he will continue with the renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century\"?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of the parliamentary monarchy?",
+                    "score": 0.7286,
+                    "answers": "to make the parliamentary monarchy an institution of the 21st century|acl"
+                },
+                {
+                    "question": "What is the history of the monarchical institution?",
+                    "score": 0.7129,
+                    "answers": "elpais.com reported on 25/12/2020 that He added : “ We hope that he will continue with the renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century ”|ROOT\ton 25/12/2020|prep\tthat|mark\tHe|nsubj\tthat He added : “ We hope that he will continue with the renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century|ccomp\t:|punct\t“|punct\tWe|nsubj\tWe hope that he will continue with the renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century|ccomp\tthat|mark\the|nsubj\twill|aux\tthat he will continue with the renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century|ccomp\twith the renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century|prep\tthe|det\tthe renewal of the monarchical institution begun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century|pobj\tof the monarchical institution|prep\tthe|det\tmonarchical|amod\tthe monarchical institution|pobj\tbegun from the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century|acl\tfrom the beginning of his mandate to make the parliamentary monarchy an institution of the 21st century|prep\tthe|det\tthe beginning of his mandate to make the parliamentary monarchy an institution of the 21st century|pobj\tof his mandate to make the parliamentary monarchy an institution of the 21st century|prep\this|poss\this mandate to make the parliamentary monarchy an institution of the 21st century|pobj\tto|aux\tthe|det\tparliamentary|amod\tan|det\tof the 21st century|prep\tthe|det\t21st|amod\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "The message of the PSOE, while asking the King in a veiled way to get rid of his father's performances, contrasts with the harsh words used by Unidas Podemos, which has not hesitated to increase the decibels of his attacks.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/12/2020 that The message of the PSOE contrasted with the harsh words used by Unidas Podemos?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What words did Unidas Podemos use to get rid of his father's performances?",
+                    "score": 0.6364,
+                    "answers": "elpais.com reported on 25/12/2020 that The message of the PSOE , while asking the King in a veiled way to get rid of his father 's performances , contrasts with the harsh words used by Unidas Podemos , which has not hesitated to increase the decibels of his attacks|ROOT\ton 25/12/2020|prep\tthat|mark\tThe|det\tthe|det\t,|punct\twhile|mark\tthe|det\tin a veiled way|prep\ta|det\tget|auxpass\this|poss\this father 's|poss\t's|case\t,|punct\twith the harsh words used by Unidas Podemos , which has not hesitated to increase the decibels of his attacks|prep\tthe|det\tharsh|amod\tthe harsh words used by Unidas Podemos , which has not hesitated to increase the decibels of his attacks|pobj\tused by Unidas Podemos , which has not hesitated to increase the decibels of his attacks|acl\tby Unidas Podemos , which has not hesitated to increase the decibels of his attacks|agent\tUnidas Podemos , which has not hesitated to increase the decibels of his attacks|pobj\t,|punct\twhich|nsubj\thas|aux\tnot|neg\tthe|det\this|poss\this attacks|pobj"
+                },
+                {
+                    "question": "What did Unidas Podemos say about his father's performances?",
+                    "score": 0.6207,
+                    "answers": "The message of the PSOE|nsubj\tof the PSOE|prep\tthe PSOE|pobj\twhile asking the King in a veiled way to get rid of his father 's performances|advcl\tto|aux\twhich has not hesitated to increase the decibels of his attacks|relcl\tto|aux"
+                },
+                {
+                    "question": "What words were used by Unidas Podemos?",
+                    "score": 0.6106,
+                    "answers": "Unidas|compound"
+                },
+                {
+                    "question": "What is the meaning of Unidas Podemos' words?",
+                    "score": 0.5141,
+                    "answers": "veiled|amod\ta veiled way|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The Executive's minority partner used very harsh language yesterday.",
+            "question_answers": [
+                {
+                    "question": "What website reported that The Executive's minority partner used harsh language?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the executive's minority partner?",
+                    "score": 0.7554,
+                    "answers": "The Executive 's|poss\tThe Executive 's minority partner|nsubj"
+                },
+                {
+                    "question": "What language did the executive minority partner use on 25/12/2020?",
+                    "score": 0.731,
+                    "answers": "on 25/12/2020|prep\tthat|mark\tThe|det\t's|case\tvery|advmod\tvery harsh|amod\tvery harsh language|dobj"
+                },
+                {
+                    "question": "What is the relationship between the executive and the minority partner?",
+                    "score": 0.7192,
+                    "answers": "elpais.com reported on 25/12/2020 that The Executive 's minority partner used very harsh language yesterday|ROOT\tminority|compound\tthat The Executive 's minority partner used very harsh language yesterday|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The spokesman for the formation, Rafa Mayoral, called the press at the party headquarters to condemn that the Monarchy is “in crisis” and to emphasize that “it is not a problem of people, but an institutional problem of first order”.",
+            "question_answers": [
+                {
+                    "question": "What website reported that Rafa Mayoral called the press on 25/12/2020?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the spokesman for the formation, Rafa Mayoral, say about the monarchy?",
+                    "score": 0.631,
+                    "answers": "to emphasize that “ it is not a problem of people , but an institutional problem of first order|conj"
+                },
+                {
+                    "question": "What did the press say about the Monarchy in crisis?",
+                    "score": 0.6239,
+                    "answers": "the|det\tthe|det\tthe|det\tthe|det\tin crisis|prep"
+                },
+                {
+                    "question": "What is the purpose of the Monarchy?",
+                    "score": 0.5252,
+                    "answers": "for the formation|prep"
+                },
+                {
+                    "question": "What is the institutional problem of first order?",
+                    "score": 0.457,
+                    "answers": "an institutional problem of first order|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The two partners of the coalition government have again shown all their letters on one of the issues that most ideologically alienates them.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 25/12/2020 that the two partners of the coalition government showed all their letters on one of the issues that most ideologically alienates them?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What issues has the coalition government shown their letters on?",
+                    "score": 0.7868,
+                    "answers": "that The two partners of the coalition government have again shown all their letters on one of the issues that most ideologically alienates them|ccomp"
+                },
+                {
+                    "question": "What is the ideology of the coalition government?",
+                    "score": 0.6412,
+                    "answers": "most ideologically|advmod"
+                },
+                {
+                    "question": "What is the coalition government's stance on the issues that alienates them?",
+                    "score": 0.6087,
+                    "answers": "coalition|compound"
+                },
+                {
+                    "question": "What is the relationship between the partners of the coalition government and the ideology alienates them?",
+                    "score": 0.603,
+                    "answers": "all their letters on one of the issues that most ideologically alienates them|dobj\tthat most ideologically alienates them|relcl"
+                },
+                {
+                    "question": "What are the issues that most ideologically alienates them?",
+                    "score": 0.5802,
+                    "answers": "the issues that most ideologically alienates them|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Once the Budgets for 2021 have been approved, we can now push harder to try to open the monarchy-republic debate, in front of a PSOE determined to close ranks with the Monarchy, especially at this delicate moment for the institution, since the departure of Juan Carlos I from Spain.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/12/2020 that once the Budgets for 2021 were approved, we can now push harder to open the monarchy-republic debate?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Juan Carlos I leave Spain?",
+                    "score": 0.7075,
+                    "answers": "the departure of Juan Carlos I from Spain|pobj"
+                },
+                {
+                    "question": "What are the terms of the proposed Budgets for 2021?",
+                    "score": 0.5665,
+                    "answers": "the Budgets for 2021|nsubjpass"
+                },
+                {
+                    "question": "What is the budget for 2021?",
+                    "score": 0.5647,
+                    "answers": "Once the Budgets for 2021 have been approved|advcl"
+                },
+                {
+                    "question": "What is the purpose of the monarchy republic debate?",
+                    "score": 0.5638,
+                    "answers": "the monarchy - republic debate|dobj"
+                },
+                {
+                    "question": "What was the relationship between Carlos I and the Monarchy?",
+                    "score": 0.5571,
+                    "answers": "Carlos|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Although the words of Iglesias and his party make the socialist sector of the Executive uncomfortable, from Podemos there is no intention to lower their criticisms.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/12/2020 that Iglesias and his party made the socialist sector of the Executive uncomfortable?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Iglesias say about the socialist sector of the Executive uncomfortable?",
+                    "score": 0.6308,
+                    "answers": "on 25/12/2020|prep"
+                },
+                {
+                    "question": "What are the criticisms of Iglesias from Podemos?",
+                    "score": 0.6042,
+                    "answers": "elpais.com reported on 25/12/2020 that Although the words of Iglesias and his party make the socialist sector of the Executive uncomfortable , from Podemos there is no intention to lower their criticisms|ROOT\tthat Although the words of Iglesias and his party make the socialist sector of the Executive uncomfortable , from Podemos there is no intention to lower their criticisms|ccomp\ttheir criticisms|dobj"
+                },
+                {
+                    "question": "What are the words of Iglesias and his party from Podemos?",
+                    "score": 0.5564,
+                    "answers": "the words of Iglesias and his party|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Iglesias and Podemos?",
+                    "score": 0.5329,
+                    "answers": "no intention to lower their criticisms|attr\tto lower their criticisms|acl\ttheir|poss"
+                }
+            ]
+        },
+        {
+            "claim": "On the basis of the King's appeal to “moral and ethical principles”, Mayoral has insisted that “the only ethical way forward is to move towards a republican horizon,” the goal that the leader of the formation and second vice president, Pablo Iglesias, pushes toward in all his appearances.",
+            "question_answers": [
+                {
+                    "question": "Who insisted that \"the only ethical way forward is to move towards a republican horizon\"?",
+                    "answer": "Mayoral"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mayoral say about the King's appeal to \"moral and ethical principles\"?",
+                    "score": 0.626,
+                    "answers": "on 25/12/2020|prep\t25/12/2020|pobj"
+                },
+                {
+                    "question": "What did the leader of the formation and second vice president, Pablo Iglesias, say about the republican horizon?",
+                    "score": 0.5576,
+                    "answers": "all his appearances|pobj"
+                },
+                {
+                    "question": "What is Mayoral's position on the republican horizon?",
+                    "score": 0.5142,
+                    "answers": "forward|advmod"
+                },
+                {
+                    "question": "What is the only ethical way forward to move towards a republican horizon?",
+                    "score": 0.5131,
+                    "answers": "the only ethical way forward|nsubj"
+                },
+                {
+                    "question": "What is the republican horizon?",
+                    "score": 0.5055,
+                    "answers": "only|amod\tto|aux\tto move towards a republican horizon , ” the goal the leader of the formation and second vice president , Pablo Iglesias , pushes that toward in all his appearances|xcomp\ttowards a republican horizon , ” the goal the leader of the formation and second vice president , Pablo Iglesias , pushes that toward in all his appearances|prep\ta|det\trepublican|amod\ta republican horizon , ” the goal the leader of the formation and second vice president , Pablo Iglesias , pushes that toward in all his appearances|pobj\tthat toward|prep\tall|predet"
+                }
+            ]
+        },
+        {
+            "claim": "“What we cannot afford is that there is an implosion of the monarchist institution without us having begun to think about the exits to that crisis,” said Mayoral.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the implosion of the monarchist institution on 25/12/2020?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mayoral say about the implosion of the monarchist institution?",
+                    "score": 0.7028,
+                    "answers": "that|mark\t“|punct\twe|nsubj\tcan|aux\tWhat we can not afford|csubj\tthat|mark\tthere|expl\tthat there is an implosion of the monarchist institution without us having begun to think about the exits to that crisis|ccomp\tan|det\tan implosion of the monarchist institution|attr\tof the monarchist institution|prep\tthe|det\tus|nsubj\tto|aux\tthe|det\tthat|det\t,|punct"
+                },
+                {
+                    "question": "What is Mayoral's position on the monarchist institution?",
+                    "score": 0.5853,
+                    "answers": "on 25/12/2020|prep\tmonarchist|amod"
+                },
+                {
+                    "question": "What is Mayoral?",
+                    "score": 0.526,
+                    "answers": "25/12/2020|pobj\tWhat|dobj\tnot|neg\tto that crisis|prep\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "And he added: “There is one question that remains unanswered [Felipe VI]: Is the monarchist institution a suitable tool to commit crimes?”.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 25/12/2020 thatFelipe VI said the monarchist institution was a suitable tool to commit crimes?",
+                    "answer": "elpais.com"
+                },
+                {
+                    "question": "What is the question that remains unanswered?",
+                    "answer": "Is the monarchist institution a suitable tool to commit crimes?”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the monarchist institution do to commit crimes?",
+                    "score": 0.8264,
+                    "answers": "to commit crimes|acl"
+                },
+                {
+                    "question": "What did Felipe VI say about the monarchist institution?",
+                    "score": 0.8145,
+                    "answers": "he|nsubj\t[|punct\tIs the monarchist institution a suitable tool to commit crimes|acl\ta|det\tsuitable|amod"
+                },
+                {
+                    "question": "What is the purpose of the monarchist institution to commit crimes?",
+                    "score": 0.7749,
+                    "answers": "one question that remains unanswered [ Felipe VI ] : Is the monarchist institution a suitable tool to commit crimes|attr"
+                },
+                {
+                    "question": "What is the monarchist institution?",
+                    "score": 0.7396,
+                    "answers": "the monarchist institution|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Felipe VI and the monarchist institution?",
+                    "score": 0.727,
+                    "answers": "that remains unanswered|relcl\tFelipe|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The PSOE is in this matter closer to the positions that defend the PP, Citizens or Vox.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the PSOE is closer to the positions that defend the PP, Citizens or Vox?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What positions does the PSOE defend?",
+                    "score": 0.7789,
+                    "answers": "closer to the positions that defend the PP , Citizens or Vox|acomp"
+                },
+                {
+                    "question": "What position does the PSOE defend the PP, Citizens or Vox?",
+                    "score": 0.7678,
+                    "answers": "elpais.com reported on 25/12/2020 that The PSOE is in this matter closer to the positions that defend the PP , Citizens or Vox|ROOT"
+                },
+                {
+                    "question": "What is the role of the PSOE in defending the PP, Citizens, or Vox?",
+                    "score": 0.6742,
+                    "answers": "that defend the PP , Citizens or Vox|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The President of Vox, Santiago Abascal, shared part of the Christmas Eve message of the head of state: “With effort, union and solidarity, Spain will succeed,” he tweeted, with the hashtag #VivaElRey.",
+            "question_answers": [
+                {
+                    "question": "What hashtag did Santiago Abascal use to tweet the message?",
+                    "answer": "#VivaElRey"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Abascal say about the Christmas Eve message?",
+                    "score": 0.5784,
+                    "answers": "Christmas|compound\teffort , union and solidarity|pobj\tunion and solidarity|conj\tsolidarity|conj\telpais.com reported on 25/12/2020 that The President of Vox , Santiago Abascal , shared part of the Christmas Eve message of the head of state : “ With effort , union and solidarity , Spain will succeed , ” he tweeted , with the hashtag # VivaElRey|ROOT"
+                },
+                {
+                    "question": "What is the relationship between the President of Vox, Santiago Abascal, and the head of state?",
+                    "score": 0.5123,
+                    "answers": "of state|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The President of Citizens, Ines Arrimadas, endorsed the same words of the King.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the President of Citizens, Ines Arrimadas, endorsed the words of the King?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Ines Arrimadas endorse the King?",
+                    "score": 0.8546,
+                    "answers": "elpais.com reported on 25/12/2020 that The President of Citizens , Ines Arrimadas , endorsed the same words of the King|ROOT"
+                },
+                {
+                    "question": "Who endorsed the same words of the King as the President of Citizens?",
+                    "score": 0.7567,
+                    "answers": "of Citizens|prep"
+                },
+                {
+                    "question": "Who endorsed the words of the King?",
+                    "score": 0.7406,
+                    "answers": "The President of Citizens , Ines Arrimadas ,|nsubj"
+                },
+                {
+                    "question": "What did Ines Arrimadas say about the King?",
+                    "score": 0.6098,
+                    "answers": "the|det\tthe|det"
+                },
+                {
+                    "question": "What is the relationship between Ines Arrimadas and the King?",
+                    "score": 0.4989,
+                    "answers": "on 25/12/2020|prep"
+                }
+            ]
+        },
+        {
+            "claim": "“In the most difficult year, I share the King's words: ‘Spain will succeed.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that Spain would succeed?",
+                    "answer": "25/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the King say about Spain?",
+                    "score": 0.7481,
+                    "answers": "Spain will succeed|appos"
+                },
+                {
+                    "question": "What was the King's words on Spain?",
+                    "score": 0.6764,
+                    "answers": "“|punct\tthe|det\t,|punct\tI|nsubj\tthe|det\tthe King 's|poss\t's|case\t:|punct"
+                },
+                {
+                    "question": "What is the relationship between the King and Spain?",
+                    "score": 0.6193,
+                    "answers": "on 25/12/2020|prep\tIn the most difficult year|prep\tmost difficult|amod"
+                }
+            ]
+        },
+        {
+            "claim": "With effort, union and solidarity.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that with effort, union and solidarity?",
+                    "answer": "25/12/2020"
+                },
+                {
+                    "question": "Along with solidarity and effort, what type of union did elpais.com report on 25/12/2020?",
+                    "answer": "union"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What solidarity does elpais.com have?",
+                    "score": 0.7862,
+                    "answers": "union and solidarity|conj"
+                },
+                {
+                    "question": "What is the relationship between union and solidarity?",
+                    "score": 0.6939,
+                    "answers": "that With effort , union and solidarity|prep\teffort , union and solidarity|pobj\tsolidarity|conj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.4816,
+                    "answers": "elpais.com reported on 25/12/2020 that With effort , union and solidarity|ROOT\ton 25/12/2020|prep\tthat|mark\t,|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Criticisms of ERC and PNVThe floral offering on the 87th anniversary of the death of Francesc Macià in the cemetery of Montjuïc, in Barcelona, has become the scene of criticism of the King.",
+            "question_answers": [
+                {
+                    "question": "On what date did the floral offering in the cemetery of Montjuc become the scene of criticism of the King?",
+                    "answer": "87th anniversary of the death of Francesc Macià"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who criticized the King after the death of Francesc Macià?",
+                    "score": 0.6483,
+                    "answers": "the scene of criticism of the King|attr"
+                },
+                {
+                    "question": "What was the cause of death of Francesc Macià in the cemetery of Montjuïc?",
+                    "score": 0.5585,
+                    "answers": "the death of Francesc Macià in the cemetery of Montjuïc , in Barcelona ,|pobj"
+                },
+                {
+                    "question": "Where is the cemetery of Montjuïc in Barcelona?",
+                    "score": 0.5532,
+                    "answers": "the cemetery of Montjuïc , in Barcelona ,|pobj"
+                },
+                {
+                    "question": "What was the relationship between ERC and PNV?",
+                    "score": 0.4936,
+                    "answers": "Criticisms of ERC and PNVThe|nmod"
+                },
+                {
+                    "question": "What is the relationship between the King and ERC and PNV?",
+                    "score": 0.4637,
+                    "answers": "of criticism of the King|prep\tcriticism of the King|pobj\tthe King|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The current President of the Generalitat, Pere Aragonès (ERC), has contrasted Macià's figure with Felipe VI's speech, which he has described as “empty” and has disqualified for not openly demarcating himself from the corruption of the Emeritus king: “The only speech we expect from Philip VI is the one announcing the end of the monarchy,” said Aragonès, reports Blanca Cia.",
+            "question_answers": [
+                {
+                    "question": "What did Felipe VI's speech describe as?",
+                    "answer": "“empty”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the current President of the Generalitat, Pere Aragonès, say about Felipe VI's speech?",
+                    "score": 0.6867,
+                    "answers": "that The current President of the Generalitat , Pere Aragonès ( ERC ) , has contrasted Macià 's figure with Felipe VI 's speech , which he has described as “ empty ” and has disqualified for not openly demarcating himself from the corruption of the Emeritus king|ccomp"
+                },
+                {
+                    "question": "What did Aragonès say about Philip VI's speech?",
+                    "score": 0.6698,
+                    "answers": "The only speech we expect from Philip VI|nsubj\twe expect from Philip VI|relcl"
+                },
+                {
+                    "question": "What did Philip VI say about Macià's figure?",
+                    "score": 0.651,
+                    "answers": "from Philip VI|prep"
+                },
+                {
+                    "question": "What did Felipe VI say about the corruption of the Emeritus king?",
+                    "score": 0.6486,
+                    "answers": "with Felipe VI 's speech , which he has described as “ empty ” and has disqualified for not openly demarcating himself from the corruption of the Emeritus king|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Macià's speech from Felipe VI?",
+                    "score": 0.5806,
+                    "answers": "from the corruption of the Emeritus king|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For his part, ERC's parliamentary spokesman, Gabriel Rufián, has ironed out the message with an impromptu Twitter poll in which he asked if the speech had “glued,” along with three ‘noes' as the only possible answer.",
+            "question_answers": [
+                {
+                    "question": "What platform did Rufián use to ask if the ERC's speech had \"glued\"?",
+                    "answer": "Twitter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Gabriel Rufián say about ERC's fake Twitter poll?",
+                    "score": 0.6287,
+                    "answers": "that For his part , ERC 's parliamentary spokesman , Gabriel Rufián , has ironed out the message with an impromptu Twitter poll in which he asked if the speech had “ glued , ” along with three ‘ noes ' as the only possible answer|ccomp"
+                },
+                {
+                    "question": "Who is Gabriel Rufián?",
+                    "score": 0.4984,
+                    "answers": "ERC 's parliamentary spokesman , Gabriel Rufián ,|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "EH deputy Bildu Jon Iñarritu wondered this Thursday “what a king is for,” while the PNV spokesman in Congress, Aitor Esteban, criticized the King's failure to go directly into the scandals of recent months and confine himself to “a dark phrase”.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/12/2020 that EH deputy Bildu Jon Iarritu wondered what a king is for?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Aitor Esteban say about the King's failure to go into the scandals?",
+                    "score": 0.5973,
+                    "answers": "on 25/12/2020|prep\t25/12/2020|pobj\tBildu|compound\tthis Thursday|npadvmod\t“|punct\ta|det\ta king|nsubj\ta king is what for|ccomp\twhat for|prep\t”|punct\tin Congress|prep\tthe King 's|poss\t's|case\tthe King 's failure to go directly into the scandals of recent months and confine himself to “ a dark phrase|dobj\tto go directly into the scandals of recent months and confine himself to “ a dark phrase|acl\tdirectly|advmod\tinto the scandals of recent months|prep\tthe scandals of recent months|pobj\tof recent months|prep\tconfine himself to “ a dark phrase|conj\t“|punct\ta|det\tdark|amod\t”|punct"
+                },
+                {
+                    "question": "What did EH deputy Bildu Jon Iñarritu think about the King?",
+                    "score": 0.5957,
+                    "answers": "EH deputy Bildu Jon Iñarritu|nsubj"
+                },
+                {
+                    "question": "Who is Bildu Jon Iñarritu?",
+                    "score": 0.5165,
+                    "answers": "EH deputy|compound"
+                },
+                {
+                    "question": "What is Aitor Esteban's role in the PNV?",
+                    "score": 0.4806,
+                    "answers": "Aitor|compound"
+                },
+                {
+                    "question": "Who is Aitor Esteban?",
+                    "score": 0.4617,
+                    "answers": "the PNV spokesman in Congress , Aitor Esteban ,|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "“It hasn't happened on a tiptoe; it hasn't happened,” he said.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that it hadn't happened on a tiptoe?",
+                    "answer": "25/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has happened on a tiptoe?",
+                    "score": 0.7027,
+                    "answers": "elpais.com reported on 25/12/2020 that “ It has n't happened on a tiptoe ; it has n't happened|ccomp\thas|aux\tIt has n't happened on a tiptoe|ccomp\thas|aux\tthat “ It has n't happened on a tiptoe ; it has n't happened|ccomp\telpais.com reported on 25/12/2020 that “ It has n't happened on a tiptoe ; it has n't happened , ” he said|ROOT"
+                },
+                {
+                    "question": "What is the evidence of a tiptoe?",
+                    "score": 0.6751,
+                    "answers": "“|punct\tIt|nsubj\tn't|neg\tit|nsubj\tn't|neg"
+                },
+                {
+                    "question": "What is a tiptoe?",
+                    "score": 0.6586,
+                    "answers": "a tiptoe|pobj"
+                },
+                {
+                    "question": "What is the origin of the tiptoe?",
+                    "score": 0.638,
+                    "answers": "a|det"
+                },
+                {
+                    "question": "What is the source of evidence of the tiptoe?",
+                    "score": 0.6366,
+                    "answers": "on 25/12/2020|prep\t25/12/2020|pobj\tthat|mark\t;|punct\t,|punct\t”|punct\the|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Fernando Clavijo, of Coalition Canaria, has lamented the absence in the speech of references to the “migration drama” that has marked the year in the islands.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that Fernando Clavijo lamented the absence of references to the “migration drama”?",
+                    "answer": "25/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Clavijo say about migration drama?",
+                    "score": 0.6461,
+                    "answers": "elpais.com reported on 25/12/2020 that Fernando Clavijo , of Coalition Canaria , has lamented the absence in the speech of references to the “ migration drama ” that has marked the year in the islands|ROOT\treferences to the “ migration drama ” that has marked the year in the islands|pobj\tmigration|compound"
+                },
+                {
+                    "question": "What is the history of migration drama on Tuvalu?",
+                    "score": 0.5884,
+                    "answers": "the absence in the speech of references to the “ migration drama ” that has marked the year in the islands|dobj"
+                },
+                {
+                    "question": "What is the year of migration drama in the Marshall Islands?",
+                    "score": 0.5545,
+                    "answers": "that has marked the year in the islands|relcl\tthe year in the islands|dobj"
+                },
+                {
+                    "question": "What is the relationship between Clavijo and migration drama?",
+                    "score": 0.5237,
+                    "answers": "Fernando Clavijo , of Coalition Canaria ,|nsubj"
+                }
+            ]
+        }
+    ]
+}

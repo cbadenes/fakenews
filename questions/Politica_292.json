@@ -1,0 +1,330 @@
+{
+    "id": "Politica_292",
+    "claim": "The Administrative Tribunal of Public Procurement of Galicia has cancelled the competition opened by the local government of A Coruña to hire the Diverse Space, whose objective was to create a municipal space for sexual diversities and gender identities, and to which had been allocated 361,478,44 euros public. The court, which took that decision on the grounds that it violated the Notice 145. 5 and 146 of the Public Contracts Act, intervened following an appeal lodged by the Galega Association for Sexual Saúde, which challenged one of the award clauses contained in the competition. This criterion gave up to five points to companies that committed to subcontracting at least 25% of workers between LGBTQI persons, i.e. with sexual orientations other than heterosexuality. In its appeal, the Galega Association for Sexual Saúde recognized the goodwill of the Council of Equality, directed by Rocío Fraga, by including this clause that considers an alleged positive discrimination, but recalled that there is no legal framework to support it, since the current legislation does not include positive discrimination on grounds of sexual orientation. Moreover, the entity argued that the future contracting company could be engaging in a direct or indirect discriminatory action by subcontracting staff according to their sexual orientation, as stated in Law No. 145. Beyond that point, the association also wondered how a worker can prove his or her sexual orientation when he or she is hired. Therefore, it would not be guaranteed that offers would be analysed in effective competition. On the other hand, he pointed out that the legal framework could again be breached when the successful tenderer asked applicants for a job to detail their sexual orientation. One of the clauses gave up to five points to companies that committed to subcontracting at least 25% of workers between LGTBIQ persons. Being gay, in Spain, is already an added value. I'm sorry.",
+    "source": "www.mediterraneodigital.com",
+    "date": "24/10/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The Administrative Tribunal of Public Procurement of Galicia has cancelled the competition opened by the local government of A Coruña to hire the Diverse Space, whose objective was to create a municipal space for sexual diversities and gender identities, and to which had been allocated 361,478,44 euros public.",
+            "question_answers": [
+                {
+                    "question": "How much money was allocated to the Diverse Space?",
+                    "answer": "361,478,44 euros"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the local government of A Coruña do to cancel the competition?",
+                    "score": 0.6228,
+                    "answers": "by the local government of A Coruña|agent\tthe local government of A Coruña|pobj"
+                },
+                {
+                    "question": "How much money was allocated for the Diverse Space?",
+                    "score": 0.5916,
+                    "answers": "361,478,44 euros public|dobj"
+                },
+                {
+                    "question": "What was the purpose of the Diverse Space?",
+                    "score": 0.5115,
+                    "answers": "Public|compound\tto which had been allocated 361,478,44 euros public|conj"
+                },
+                {
+                    "question": "What is the purpose of Diverse Space?",
+                    "score": 0.4994,
+                    "answers": "Diverse|compound"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.4192,
+                    "answers": "www.mediterraneodigital.com|nsubj\twww.mediterraneodigital.com reported on 24/10/2018 that The Administrative Tribunal of Public Procurement of Galicia has cancelled the competition opened by the local government of A Coruña to hire the Diverse Space , whose objective was to create a municipal space for sexual diversities and gender identities , and to which had been allocated 361,478,44 euros public|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The court, which took cancelled on the grounds that cancelled violated the Notice 145.",
+            "question_answers": [
+                {
+                    "question": "What was the reason for the cancellation?",
+                    "answer": "the grounds that cancelled violated the Notice 145"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the court cancel the Notice 145?",
+                    "score": 0.7622,
+                    "answers": "on 24/10/2018|prep\tThe court , which took cancelled on the grounds that cancelled|nsubj\twhich took cancelled on the grounds that cancelled|relcl\ton the grounds that cancelled|prep\tthe grounds that cancelled|pobj"
+                },
+                {
+                    "question": "What did the court do to violate the Notice 145?",
+                    "score": 0.6409,
+                    "answers": "that The court , which took cancelled on the grounds that cancelled violated the Notice 145|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the Notice 145?",
+                    "score": 0.583,
+                    "answers": "www.mediterraneodigital.com reported on 24/10/2018 that The court , which took cancelled on the grounds that cancelled violated the Notice 145|ROOT"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.5408,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.4973,
+                    "answers": "The|det"
+                }
+            ]
+        },
+        {
+            "claim": "5 and 146 of the Public Contracts Act, intervened following an appeal lodged by the Galega Association for Sexual Saúde, which challenged one of the award clauses contained in the competition .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What clause did the Galega Association for Sexual Saúde challenge?",
+                    "score": 0.8108,
+                    "answers": "by the Galega Association for Sexual Saúde , which challenged one of the award clauses contained in the competition|agent\tone of the award clauses contained in the competition|dobj\tof the award clauses contained in the competition|prep\taward|compound"
+                },
+                {
+                    "question": "What was the purpose of the Public Contracts Act?",
+                    "score": 0.6999,
+                    "answers": "Public Contracts|compound"
+                }
+            ]
+        },
+        {
+            "claim": "This criterion gave up to five points to companies that committed to subcontracting at least 25% of workers between LGBTQI persons, i.e. with sexual orientations other than heterosexuality.",
+            "question_answers": [
+                {
+                    "question": "How many points did the Mediterraneodigital criterion give to companies that committed to subcontracting at least 25% of workers between LGBTQI persons?",
+                    "answer": "up to five points to companies that committed to subcontracting at least 25% of workers between LGBTQI persons, i.e. with sexual orientations other than heterosexuality"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of workers are LGBT?",
+                    "score": 0.8401,
+                    "answers": "at least 25 % of workers|dobj"
+                },
+                {
+                    "question": "How many points did the criterion give to companies that committed to subcontracting at least 25% of workers between LGBTQI persons?",
+                    "score": 0.818,
+                    "answers": "www.mediterraneodigital.com reported on 24/10/2018 that This criterion gave up to five points to companies that committed to subcontracting at least 25 % of workers between LGBTQI persons , i.e. with sexual orientations other than heterosexuality|ROOT"
+                },
+                {
+                    "question": "What is the definition of LGBTQI?",
+                    "score": 0.74,
+                    "answers": "between LGBTQI persons , i.e. with sexual orientations other than heterosexuality|prep\tLGBTQI|compound\tLGBTQI persons ,|pobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.5456,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In an appeal lodged by the Galega Association for Sexual Saúde, which challenged one of the award clauses contained in the competition , the Galega Association for Sexual Saúde, which challenged one of the award clauses contained in the competition recognized the goodwill of the Council of Equality, directed by Rocío Fraga, by including one of the award clauses contained in the competition , but recalled that there is no legal framework to support it, since the current legislation does not include positive discrimination on grounds of sexual orientation.",
+            "question_answers": [
+                {
+                    "question": "What did the Galega Association for Sexual Sade do in an appeal lodged by the Galega Association for Sexual Sade?",
+                    "answer": "challenged one of the award clauses contained in the competition"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What clause did the Galega Association for Sexual Saúde use to challenge one of the award clauses contained in the competition?",
+                    "score": 0.7436,
+                    "answers": "Rocío|compound"
+                },
+                {
+                    "question": "What does the current legislation include on grounds of sexual orientation?",
+                    "score": 0.6289,
+                    "answers": "the current legislation|nsubj"
+                },
+                {
+                    "question": "What is the legal framework to support this award clause?",
+                    "score": 0.6029,
+                    "answers": "legal|amod"
+                },
+                {
+                    "question": "What is the goodwill of the Council of Equality?",
+                    "score": 0.595,
+                    "answers": "the goodwill of the Council of Equality , directed by Rocío Fraga ,|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Moreover, the Galega Association for Sexual Saúde, which challenged one of the award clauses contained in the competition argued that the future contracting company could be engaging in a direct or indirect discriminatory action by subcontracting staff according to sexual orientation, as stated in Law No.",
+            "question_answers": [
+                {
+                    "question": "What did the Galega Association for Sexual Sade argue?",
+                    "answer": "the future contracting company could be engaging in a direct or indirect discriminatory action by subcontracting staff according to sexual orientation,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the law say about a future contracting company engaging in a direct or indirect discriminatory action by subcontracting staff?",
+                    "score": 0.6754,
+                    "answers": "that the future contracting company could be engaging in a direct or indirect discriminatory action by subcontracting staff according to sexual orientation , as stated in Law No|ccomp"
+                },
+                {
+                    "question": "What did the Galega Association for Sexual Saúde challenge?",
+                    "score": 0.6227,
+                    "answers": "the Galega Association for Sexual Saúde , which challenged one of the award clauses contained in the competition|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of how many contracts were awarded to the future contracting company for sexual orientation?",
+                    "score": 0.6208,
+                    "answers": "to sexual orientation|prep"
+                },
+                {
+                    "question": "What did the letter say about the clause?",
+                    "score": 0.5864,
+                    "answers": ",|punct\t,|punct\twhich|nsubj\tof the award clauses contained in the competition|prep\tfuture|amod\tbe|aux\ta|det\tor|cc\tdiscriminatory|amod\t,|punct"
+                },
+                {
+                    "question": "What was the relationship between the contract between the contracting company and the future contracting company?",
+                    "score": 0.5704,
+                    "answers": "indirect|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Beyond that point, the Galega Association for Sexual Saúde, which challenged one of the award clauses contained in the competition also wondered how a worker can prove or sexual orientation when a worker is hired.",
+            "question_answers": [
+                {
+                    "question": "What did the Galega Association for Sexual Sade challenge?",
+                    "answer": "one of the award clauses contained in the competition"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What clause did the Galega Association for Sexual Saúde challenge?",
+                    "score": 0.7776,
+                    "answers": "on 24/10/2018|prep\tthat|mark\tBeyond that point|prep\tthat|det\t,|punct\tthe|det\t,|punct\twhich|nsubj\twhich challenged one of the award clauses contained in the competition|relcl\tone of the award clauses contained in the competition|dobj\tof the award clauses contained in the competition|prep\tthe|det\taward|compound\tthe award clauses contained in the competition|pobj\tcontained in the competition|acl\tin the competition|prep\tthe|det\ta|det\ta worker|nsubj\tcan|aux\tor|nmod\tsexual|amod\tor sexual orientation|dobj\twhen|advmod\ta|det\ta worker|nsubjpass\tis|auxpass"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.5371,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, it would not be guaranteed that offers would be analysed in effective competition.",
+            "question_answers": [
+                {
+                    "question": "What did www.mediterraneodigital.com report on 24/10/2018?",
+                    "answer": "would not be guaranteed that offers would be analysed in effective competition"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Mediterraneodigital.com say about competition?",
+                    "score": 0.8538,
+                    "answers": "that Therefore , it would not be guaranteed that offers would be analysed in effective competition|ccomp\tthat offers would be analysed in effective competition|ccomp\tin effective competition|prep\teffective|amod"
+                },
+                {
+                    "question": "What does Mediterraneodigital.com do?",
+                    "score": 0.8328,
+                    "answers": "effective competition|pobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.6237,
+                    "answers": "www.mediterraneodigital.com|nsubj\twww.mediterraneodigital.com reported on 24/10/2018 that Therefore , it would not be guaranteed that offers would be analysed in effective competition|ROOT\ton 24/10/2018|prep\tthat|mark\tTherefore|advmod\t,|punct\tit|nsubjpass\twould|aux\tnot|neg\tbe|auxpass\tthat|mark\toffers|nsubjpass\twould|aux\tbe|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, he pointed out that the legal framework could again be breached when the successful tenderer asked applicants for a job to detail their sexual orientation.",
+            "question_answers": [
+                {
+                    "question": "What did www.mediterraneodigital.com say about the legal framework?",
+                    "answer": "the legal framework could again be breached when the successful tenderer asked applicants for a job to detail their sexual orientation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the legal framework for accepting job applicants?",
+                    "score": 0.6609,
+                    "answers": "www.mediterraneodigital.com reported on 24/10/2018 that On the other hand , he pointed out that the legal framework could again be breached when the successful tenderer asked applicants for a job to detail their sexual orientation|ROOT"
+                },
+                {
+                    "question": "What does Mediterraneodigital.com do?",
+                    "score": 0.6434,
+                    "answers": "on 24/10/2018|prep\tthat|mark\tOn the other hand|prep\tthe|det\tother|amod\tthe other hand|pobj\t,|punct\the|nsubj\tout|prt\tthat|mark\tthe|det\tlegal|amod\tcould|aux\tagain|advmod\tbe|auxpass\twhen|advmod\tthe|det\tapplicants|dobj\tfor a job to detail their sexual orientation|prep\tto|aux\tto detail their sexual orientation|relcl\ttheir|poss\tsexual|amod"
+                },
+                {
+                    "question": "What does Mediterraneodigital.com say about the legal framework?",
+                    "score": 0.6296,
+                    "answers": "the legal framework|nsubjpass"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.5383,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.5136,
+                    "answers": "a|det"
+                }
+            ]
+        },
+        {
+            "claim": "One of the clauses gave up to five points to companies that committed to subcontracting at least 25% of workers between LGTBIQ persons.",
+            "question_answers": [
+                {
+                    "question": "What happened to one of the clauses?",
+                    "answer": "One of the clauses gave up to five points to companies that committed to subcontracting at least 25% of workers between LGTBIQ persons"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many workers did the clause give to companies that committed to subcontracting?",
+                    "score": 0.8233,
+                    "answers": "of workers|prep"
+                },
+                {
+                    "question": "What does the clause give up to five points to companies that commit to subcontracting at least 25% of workers between the LGTBIQ persons?",
+                    "score": 0.7314,
+                    "answers": "at least|advmod"
+                },
+                {
+                    "question": "What is the relationship between the LGTBIQ and the ANC?",
+                    "score": 0.6106,
+                    "answers": "between LGTBIQ persons|prep\tLGTBIQ persons|pobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.5388,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Being gay, in Spain, is already an added value.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 24/10/2018 that being gay in Spain is already an added value?",
+                    "answer": "www.mediterraneodigital.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the value of being gay in Spain?",
+                    "score": 0.8773,
+                    "answers": "an added value|attr"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.6836,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

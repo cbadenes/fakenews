@@ -1,0 +1,303 @@
+{
+    "id": "63_Society_78",
+    "claim": "Specific Media LLC and Justin Timberlake, who bought from  MySpace (the social network that emerged before social networks were known as social networks), are preparing for a second relazacion, this time with the aim of fully entering the struggle to position themselves as the favorite of users. Their strategy: to offer everything that is not allowed on other social networks, but that users do anyway. The announcement was made at a sumptuous party, which featured the participation of Justin Bieber and Los Tucanes de Tijuana. Those responsible for the social network were clear in the aims they pursue in relaunching. Bullying, trolling, piracy, staging, connection to pornographic sites, and more actions that are poorly viewed on social networks such as Facebook or Twitter, will soon be allowed within Myspace, this to please users.'People do all that always, and don't tell them or do anything, so in MySpace, we'll just formalize it as a marketing measure,'said well-known singer and actor Justin Timberlake, one of the owners of MySpace. When questioned if they did not fear their actions would bring them legal consequences, Timberlake stated: 'Everything is a matter of nomenclature. You say piracy, I say sharing information; you say bullying, I say laughing with others; you say stalleo, and I say romanticism. What's wrong with that? 'Justin Timberlake 'YOU SAY JOHN AND I SAY PEDRO'. For those who don't know it's MySpace, it can be explained that this social network allowed uploading photos, videos, songs, receiving comments, chatting with friends, and everything that can currently be done on Facebook. Sadly, MySpace arose at a time when one could only connect to the Internet via a computer, and it took a long time to load, so doing all of the above was boring enough. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "25/06/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Specific Media LLC and Justin Timberlake , who bought from  MySpace (the social network that emerged before social networks were known as social networks) , are preparing for a second relazacion, this time with the aim of fully entering the struggle to position themselves as the favorite of users.",
+            "question_answers": [
+                {
+                    "question": "Who bought from MySpace?",
+                    "answer": "Specific Media LLC and Justin Timberlake"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who bought MySpace?",
+                    "score": 0.7621,
+                    "answers": "who bought from|relcl"
+                },
+                {
+                    "question": "Who owns MySpace?",
+                    "score": 0.7026,
+                    "answers": "Media|compound\tJustin Timberlake , who bought from|conj\tthat Specific Media LLC and Justin Timberlake , who bought from   MySpace ( the social network that emerged before social networks were known as social networks )|dep"
+                },
+                {
+                    "question": "How many relazons has Specific Media LLC and Justin Timberlake created?",
+                    "score": 0.6712,
+                    "answers": "a second relazacion|pobj"
+                },
+                {
+                    "question": "What is the purpose of MySpace?",
+                    "score": 0.6255,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\tand|cc\t,|punct\twho|nsubj\tfrom|prep\t(|punct\tthe|det\tthat|nsubj\twere|auxpass\t)|punct\t,|punct\tare|aux\ta|det\t,|punct\tthis|det\tthe|det\tfully|advmod\tthe|det\tto|aux\tthemselves|dobj\tthe|det\tof users|prep\tusers|pobj"
+                },
+                {
+                    "question": "What is MySpace?",
+                    "score": 0.6212,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that Specific Media LLC and Justin Timberlake , who bought from   MySpace ( the social network that emerged before social networks were known as social networks ) , are preparing for a second relazacion , this time with the aim of fully entering the struggle to position themselves as the favorite of users|ROOT\ton 25/06/2016|prep\tMySpace ( the social network that emerged before social networks were known as social networks )|dobj\tsocial|amod\tthe social network that emerged before social networks were known as social networks|appos\tthat emerged before social networks were known as social networks|relcl\tbefore|mark\tsocial|amod\tsocial networks|nsubjpass\tbefore social networks were known as social networks|advcl\tas social networks|prep\tsocial|amod\tsocial networks|pobj\tfor a second relazacion|prep\tthis time with the aim of fully entering the struggle to position themselves as the favorite of users|npadvmod\twith the aim of fully entering the struggle to position themselves as the favorite of users|prep\tthe aim of fully entering the struggle to position themselves as the favorite of users|pobj\tof fully entering the struggle to position themselves as the favorite of users|prep\tfully entering the struggle to position themselves as the favorite of users|pcomp\tthe struggle to position themselves as the favorite of users|dobj\tto position themselves as the favorite of users|acl\tthe favorite of users|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "strategy: to offer everything that is not allowed on other social networks, but that users do anyway.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the strategy of offering everything that is not allowed on other social networks?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What strategy doesldizque.com use on other social networks?",
+                    "score": 0.9043,
+                    "answers": "that|det\tthat|nsubjpass\tis|auxpass\t,|punct\tthat|dobj"
+                },
+                {
+                    "question": "What strategy doesldizque.com use?",
+                    "score": 0.8902,
+                    "answers": "to|aux"
+                },
+                {
+                    "question": "What are the benefits of using social networks?",
+                    "score": 0.8587,
+                    "answers": "to offer everything that is not allowed on other social networks , but that users do anyway|acl"
+                },
+                {
+                    "question": "What doesldizque.com do for other social networks?",
+                    "score": 0.8553,
+                    "answers": "on 25/06/2016|prep\tthat users do anyway|conj"
+                },
+                {
+                    "question": "What doesldizque.com do?",
+                    "score": 0.8308,
+                    "answers": ":|punct\tbut|cc\tanyway|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "The announcement was made at a sumptuous party, which featured the participation of Justin Bieber and Los Tucanes de Tijuana.",
+            "question_answers": [
+                {
+                    "question": "Who participated in the party?",
+                    "answer": "Justin Bieber"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Justin Bieber and Los Tucanes de Tijuana attend a sumptuous party?",
+                    "score": 0.8902,
+                    "answers": "at a sumptuous party , which featured the participation of Justin Bieber and Los Tucanes de Tijuana|prep"
+                },
+                {
+                    "question": "What was the date of the event?",
+                    "score": 0.6319,
+                    "answers": "The announcement|nsubjpass"
+                },
+                {
+                    "question": "What was the purpose of the sumptuous party?",
+                    "score": 0.6129,
+                    "answers": "sumptuous|amod"
+                },
+                {
+                    "question": "What is the relationship between Bieber and de Tijuana?",
+                    "score": 0.6075,
+                    "answers": "on 25/06/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "themselves were clear in the aims themselves pursue in relaunching.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 25/06/2016 that they were clear in the aims themselves pursue in relaunching?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of relaunching a website?",
+                    "score": 0.8448,
+                    "answers": "the aims themselves pursue in relaunching|pobj\tin relaunching|prep\trelaunching|pcomp"
+                },
+                {
+                    "question": "What is the aim of relaunching?",
+                    "score": 0.8104,
+                    "answers": "that themselves were clear in the aims themselves pursue in relaunching|ccomp\tclear in the aims themselves pursue in relaunching|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "Bullying, trolling, piracy, staging, connection to pornographic sites, and more actions that are poorly viewed on social networks such as Facebook or Twitter, will soon be allowed within MySpace (the social network that emerged before social networks were known as social networks) , allowed to please users.",
+            "question_answers": [
+                {
+                    "question": "Where will bullying, trolling, piracy, staging, and connection to pornographic sites be allowed?",
+                    "answer": "MySpace (the social network that emerged before social networks were known as social networks)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What actions are being viewed on social networks such as Facebook or Twitter?",
+                    "score": 0.7822,
+                    "answers": "more actions that are poorly viewed on social networks such as Facebook or Twitter|conj"
+                },
+                {
+                    "question": "What is MySpace?",
+                    "score": 0.687,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 25/06/2016 that Bullying , trolling , piracy , staging , connection to pornographic sites , and more actions that are poorly viewed on social networks such as Facebook or Twitter , will soon be allowed within MySpace ( the social network that emerged before social networks were known as social networks ) , allowed to please users|ROOT\ton 25/06/2016|prep\tthat|mark\t,|punct\ttrolling , piracy , staging , connection to pornographic sites , and more actions that are poorly viewed on social networks such as Facebook or Twitter|conj\t,|punct\t,|punct\t,|punct\tconnection to pornographic sites , and more actions that are poorly viewed on social networks such as Facebook or Twitter|conj\tto pornographic sites|prep\tpornographic|amod\tpornographic sites|pobj\t,|punct\tand|cc\tmore|amod\tthat|nsubjpass\tare|auxpass\tpoorly|advmod\tthat are poorly viewed on social networks such as Facebook or Twitter|relcl\ton social networks such as Facebook or Twitter|prep\tsocial|amod\tsocial networks such as Facebook or Twitter|pobj\tsuch|amod\tsuch as Facebook or Twitter|prep\tFacebook or Twitter|pobj\tor|cc\t,|punct\twill|aux\tsoon|advmod\tbe|auxpass\tthat Bullying , trolling , piracy , staging , connection to pornographic sites , and more actions that are poorly viewed on social networks such as Facebook or Twitter , will soon be allowed within MySpace ( the social network that emerged before social networks were known as social networks ) , allowed to please users|ccomp\twithin MySpace ( the social network that emerged before social networks were known as social networks )|prep\tMySpace ( the social network that emerged before social networks were known as social networks )|pobj\t(|punct\tthe|det\tsocial|amod\tthe social network that emerged before social networks were known as social networks|appos\tthat|nsubj\tthat emerged before social networks were known as social networks|relcl\tbefore|mark\tsocial|amod\tsocial networks|nsubjpass\twere|auxpass\tbefore social networks were known as social networks|advcl\tas social networks|prep\tsocial|amod\tsocial networks|pobj\t)|punct\t,|punct\tallowed to please users|dep\tto|aux\tto please users|xcomp\tusers|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'People do all that always, and don't tell 'People or do anything, so in MySpace (the social network that emerged before social networks were known as social networks) , themselves 'll just formalize all that as a marketing measure,'said Justin Timberlake .",
+            "question_answers": [
+                {
+                    "question": "Where did Justin Timberlake say 'People will just formalize all that as a marketing measure'?",
+                    "answer": "in MySpace (the social network that emerged before social networks were known as social networks)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Justin Timberlake say about MySpace?",
+                    "score": 0.7886,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that ' People do all that always , and do n't tell ' People or do anything , so in MySpace ( the social network that emerged before social networks were known as social networks ) , themselves 'll just formalize all that as a marketing measure,'said Justin Timberlake|ROOT\tdo n't tell ' People or do anything|conj"
+                },
+                {
+                    "question": "What is MySpace?",
+                    "score": 0.6658,
+                    "answers": "www.eldizque.com|nsubj\ton 25/06/2016|prep\tthat|mark\t'|punct\tPeople|nsubj\tPeople do all that always , and do n't tell ' People or do anything|ccomp\tall|predet\tall that|dobj\talways|advmod\t,|punct\tand|cc\tdo|aux\tn't|neg\t'|punct\tPeople|dobj\tor|cc\tdo anything|conj\tanything|dobj\t,|punct\tso|advmod\tin MySpace ( the social network that emerged before social networks were known as social networks )|prep\tMySpace ( the social network that emerged before social networks were known as social networks )|pobj\t(|punct\tthe|det\tsocial|amod\tthe social network that emerged before social networks were known as social networks|appos\tthat|nsubj\tthat emerged before social networks were known as social networks|relcl\tbefore|mark\tsocial|amod\tsocial networks|nsubjpass\twere|auxpass\tbefore social networks were known as social networks|advcl\tas social networks|prep\tsocial|amod\tsocial networks|pobj\t)|punct\t,|punct\tthemselves|nsubj\t'll|aux\tjust|advmod\tthat ' People do all that always , and do n't tell ' People or do anything , so in MySpace ( the social network that emerged before social networks were known as social networks ) , themselves 'll just formalize all that as a marketing measure,'said Justin Timberlake|ccomp\tall|predet\tall that|dobj\tas a marketing measure,'said|prep\ta|det\tmarketing|compound\ta marketing measure,'said|pobj\tJustin|compound"
+                }
+            ]
+        },
+        {
+            "claim": "When questioned if themselves did not fear actions would bring themselves legal consequences, Justin Timberlake stated: 'Everything is a matter of nomenclature.",
+            "question_answers": [
+                {
+                    "question": "Who said 'Everything is a matter of nomenclature'?",
+                    "answer": "Justin Timberlake"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Justin Timberlake say about nomenclature?",
+                    "score": 0.8431,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that When questioned if themselves did not fear actions would bring themselves legal consequences , Justin Timberlake stated : ' Everything is a matter of nomenclature|ROOT\tdid|aux\tnot|neg\twould|aux\tEverything|nsubj\tof nomenclature|prep\tnomenclature|pobj"
+                },
+                {
+                    "question": "What does nomenclature mean?",
+                    "score": 0.8063,
+                    "answers": "that When questioned if themselves did not fear actions would bring themselves legal consequences , Justin Timberlake stated : ' Everything is a matter of nomenclature|ccomp"
+                },
+                {
+                    "question": "What is Justin Timberlake's stance on nomenclature?",
+                    "score": 0.7543,
+                    "answers": "Justin|compound"
+                },
+                {
+                    "question": "What is the meaning of nomenclature?",
+                    "score": 0.7154,
+                    "answers": "that|mark\tWhen|advmod\tif|mark\tthemselves|nsubj\tactions|nsubj\tthemselves|dative\t,|punct\t:|punct\t'|punct\ta|det"
+                },
+                {
+                    "question": "What is nomenclature?",
+                    "score": 0.695,
+                    "answers": "Everything is a matter of nomenclature|ccomp\ta matter of nomenclature|attr"
+                }
+            ]
+        },
+        {
+            "claim": "You say piracy, Justin Timberlake say sharing information; you say bullying, Justin Timberlake say laughing with others; you say stalleo, and Justin Timberlake say romanticism.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that you say piracy?",
+                    "answer": "25/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Justin Timberlake say about piracy?",
+                    "score": 0.8652,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that You say piracy , Justin Timberlake say sharing information ; you say bullying , Justin Timberlake say laughing with others ; you say stalleo , and Justin Timberlake say romanticism|ROOT\ton 25/06/2016|prep\tthat|mark\tYou|nsubj\tYou say piracy|ccomp\tpiracy|dobj\t,|punct\tJustin|compound\tsharing information|xcomp\tinformation|dobj\t;|punct\tyou|nsubj\t,|punct\tJustin|compound\t;|punct\tyou|nsubj\tstalleo|dobj\t,|punct\tand|cc\tJustin|compound\tromanticism|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "What's wrong with that? 'Justin Timberlake 'YOU SAY JOHN AND I SAY PEDRO'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that what was wrong with that?",
+                    "answer": "25/06/2016"
+                },
+                {
+                    "question": "Who wrote 'YOU SAY JOHN AND I SAY PEDRO'?",
+                    "answer": "'Justin Timberlake"
+                },
+                {
+                    "question": "What did Justin Timberlake say on 25/06/2016?",
+                    "answer": "AND I SAY PEDRO'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Justin Timberlake and Rodrigo Duterte?",
+                    "score": 0.8166,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that What 's wrong with that ?|ROOT\tthat What 's wrong with that|ccomp\twith that|prep\tPEDRO|dobj"
+                },
+                {
+                    "question": "What did Justin Timberlake say on Jan. 25,2016?",
+                    "score": 0.8098,
+                    "answers": "Justin|compound"
+                },
+                {
+                    "question": "What is the source of evidence of Justin Timberlake saying he said PEDRO?",
+                    "score": 0.77,
+                    "answers": "on 25/06/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For those who don't know it's MySpace, it can be explained that this social network allowed uploading photos, videos, songs, receiving comments, chatting with friends, and everything that can currently be done on Facebook.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that MySpace allowed uploading photos, videos, songs, receiving comments, and chatting with friends?",
+                    "answer": "25/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the functions of MySpace?",
+                    "score": 0.7597,
+                    "answers": "www.eldizque.com|nsubj\tsongs , receiving comments , chatting with friends , and everything that can currently be done on Facebook|conj\treceiving comments , chatting with friends , and everything that can currently be done on Facebook|conj\tthat can currently be done on Facebook|relcl"
+                },
+                {
+                    "question": "What is MySpace?",
+                    "score": 0.7474,
+                    "answers": "www.eldizque.com reported on 25/06/2016 that For those who do n't know it 's MySpace , it can be explained that this social network allowed uploading photos , videos , songs , receiving comments , chatting with friends , and everything that can currently be done on Facebook|ROOT\ton 25/06/2016|prep\tthat|mark\tFor those who do n't know it 's MySpace|prep\tthose who do n't know it 's MySpace|pobj\twho|nsubj\tdo|aux\tn't|neg\twho do n't know it 's MySpace|relcl\tit|nsubj\tit 's MySpace|ccomp\tMySpace|attr\t,|punct\tit|nsubjpass\tcan|aux\tbe|auxpass\tthat For those who do n't know it 's MySpace , it can be explained that this social network allowed uploading photos , videos , songs , receiving comments , chatting with friends , and everything that can currently be done on Facebook|ccomp\tthat|mark\tthis|det\tsocial|amod\tthis social network|nsubj\tthat this social network allowed uploading photos , videos , songs , receiving comments , chatting with friends , and everything that can currently be done on Facebook|ccomp\tuploading photos , videos , songs , receiving comments , chatting with friends , and everything that can currently be done on Facebook|xcomp\tphotos , videos , songs , receiving comments , chatting with friends , and everything that can currently be done on Facebook|dobj\t,|punct\tvideos , songs , receiving comments , chatting with friends , and everything that can currently be done on Facebook|conj\t,|punct\t,|punct\tcomments|dobj\t,|punct\tchatting with friends , and everything that can currently be done on Facebook|conj\twith friends|prep\tfriends|pobj\t,|punct\tand|cc\teverything that can currently be done on Facebook|conj\tthat|nsubjpass\tcan|aux\tcurrently|advmod\tbe|auxpass\ton Facebook|prep\tFacebook|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Sadly, MySpace arose at a time when one could only connect to the Internet via a computer, and it took a long time to load, so doing all of the above was boring enough.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that MySpace arose at a time when one could only connect to the internet via a computer?",
+                    "answer": "25/06/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take to load MySpace?",
+                    "score": 0.8309,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 25/06/2016 that Sadly , MySpace arose at a time when one could only connect to the Internet via a computer , and it took a long time to load , so doing all of the above was boring enough|ROOT\ton 25/06/2016|prep\tthat|mark\tSadly|advmod\t,|punct\ta|det\twhen|advmod\tone|nsubj\tcould|aux\tonly|advmod\tthe|det\tvia a computer|prep\ta|det\ta computer|pobj\t,|punct\tand|cc\tit|nsubj\tit took a long time to load|conj\ta|det\tlong|amod\ta long time|dobj\tto|aux\tto load|xcomp\t,|punct\tso|advmod\tdoing all of the above|csubj\tall of the above|dobj\tof the above|prep\tthe|det\tthe above|pobj\tenough|advmod"
+                },
+                {
+                    "question": "What is MySpace?",
+                    "score": 0.7277,
+                    "answers": "Sadly , MySpace arose at a time when one could only connect to the Internet via a computer , and it took a long time to load , so|ccomp\tat a time when one could only connect to the Internet via a computer|prep\ta time when one could only connect to the Internet via a computer|pobj\twhen one could only connect to the Internet via a computer|relcl\tto the Internet|prep\tthe Internet|pobj\tthat Sadly , MySpace arose at a time when one could only connect to the Internet via a computer , and it took a long time to load , so doing all of the above was boring enough|ccomp\tboring enough|acomp"
+                }
+            ]
+        }
+    ]
+}

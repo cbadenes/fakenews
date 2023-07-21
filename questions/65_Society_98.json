@@ -1,0 +1,242 @@
+{
+    "id": "65_Society_98",
+    "claim": "'Among the many stages of romance between a couple, the courtship is perhaps the best ', this according to Professor Segismundo Huaracha, professor at Yale University, in the Balbuena Garden.'It is when they share intimacy not only physical, but emotional; when they strip not only the body, but the soul. When two people feel that the world wouldn't be the same as not being right there, right with that someone, just like that, halala.\". However, everything good has to end, and there comes a tragic phrase in the relationship, and we are not talking about marriage, but about divorce. In Mexico, divorce cases have been increasing, because the law has been reformed a few yesterdays ago and express divorce has been established, and well, there is no longer that old journey of proving before a Family Judge, if there was infidelity, if there was abandonment of home, violence, etc.; it is enough to request it in writing, more things and sanseacabo. So a group of marriage counseling experts, led by Professor Huaracha, conducted a study that took them no less than  years to reach a conclusion. With this conclusion, they say, whole families can be saved from everything that causes a divorce. Professor Huaracha gave us an exclusive overview of the steps to be taken to avoid the much feared divorce that affects both men, women, children and the milkman:The study will be published by the DIF of the municipality of San Higinio Cantinero, Michoacán, in an extensive booklet size book with full-color illustrations. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "17/05/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "'Among the many stages of romance between a couple , the courtship is perhaps the best ', this according to Professor Segismundo Huaracha, professor at Yale University, in the Balbuena Garden .",
+            "question_answers": [
+                {
+                    "question": "What is one of the many stages of romance between a couple?",
+                    "answer": "courtship is perhaps the best"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the courtship between a couple?",
+                    "score": 0.7999,
+                    "answers": "www.eldizque.com|nsubj\ton 17/05/2017|prep\tAmong the many stages of romance between a couple|prep\tthe many stages of romance between a couple|pobj\tbetween a couple|prep\ta couple|pobj\tthe best|attr"
+                },
+                {
+                    "question": "What is the relationship between a couple?",
+                    "score": 0.7513,
+                    "answers": "romance between a couple|pobj"
+                },
+                {
+                    "question": "Who is Professor Segismundo Huaracha?",
+                    "score": 0.6817,
+                    "answers": "Professor Segismundo Huaracha , professor at Yale University , in the Balbuena Garden|pobj"
+                },
+                {
+                    "question": "Who is Dr. Segismundo Huaracha?",
+                    "score": 0.664,
+                    "answers": "to Professor Segismundo Huaracha , professor at Yale University , in the Balbuena Garden|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'It is when a couple share intimacy not only physical, but emotional; when a couple strip not only the body, but the soul.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'it is when a couple share intimacy not only physical, but emotional'?",
+                    "answer": "17/05/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between a man and woman?",
+                    "score": 0.6657,
+                    "answers": "a|det\ta couple|nsubj\ta|det\ta couple|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "When two people feel that the world wouldn't be the same as not being right there, right with that someone, just like that, halala.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that when two people feel that the world wouldn't be the same as not being right there, right with that person?",
+                    "answer": "17/05/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people feel that the world wouldn't be the same as not being right there?",
+                    "score": 0.6187,
+                    "answers": "the|det\tthe|det"
+                },
+                {
+                    "question": "What is halala?",
+                    "score": 0.5164,
+                    "answers": "www.eldizque.com reported on 17/05/2017 that When two people feel that the world would n't be the same as not being right there , right with that someone , just like that , halala|ROOT\ton 17/05/2017|prep\tthat|mark\tWhen|advmod\ttwo people|nsubj\tthat When two people feel that the world would n't be the same as not being right there , right with that someone , just like that , halala|ccomp\tthat|mark\tthe world|nsubj\twould|aux\tn't|neg\tthat the world would n't be the same as not being right there , right with that someone , just like that , halala|ccomp\tthe same as not being right there , right with that someone , just like that|attr\tas not being right there , right with that someone , just like that|prep\tnot|neg\tnot being right there , right with that someone , just like that|pcomp\tright|advmod\tright there|advmod\t,|punct\tright|advmod\tright there , right with that someone|prep\tthat|det\t,|punct\tjust|advmod\tjust like that|prep\tthat|pobj\t,|punct"
+                },
+                {
+                    "question": "What is the source of evidence of halala?",
+                    "score": 0.5118,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, everything good has to end, and there comes a tragic phrase in the relationship, and we are not talking about marriage, but about divorce.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that everything good has to end?",
+                    "answer": "17/05/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between marriage and divorce?",
+                    "score": 0.7191,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 17/05/2017 that However , everything good has to end , and there comes a tragic phrase in the relationship , and we are not talking about marriage , but about divorce|ROOT\ton 17/05/2017|prep\tthat|mark\tHowever|advmod\t,|punct\teverything good|nsubj\tgood|amod\tthat However , everything good has to end , and there comes a tragic phrase in the relationship , and we are not talking about marriage , but about divorce|ccomp\tto|aux\tto end|xcomp\t,|punct\tand|cc\tthere|expl\tthere comes a tragic phrase in the relationship , and we are not talking about marriage , but about divorce|conj\ta|det\ttragic|amod\tin the relationship|prep\tthe|det\tthe relationship|pobj\t,|punct\tand|cc\twe|nsubj\tare|aux\tnot|neg\twe are not talking about marriage , but about divorce|conj\tabout marriage , but about divorce|prep\tmarriage|pobj\t,|punct\tbut|cc\tabout divorce|conj\tdivorce|pobj"
+                },
+                {
+                    "question": "What is the meaning of the phrase \"all good has to end\"?",
+                    "score": 0.687,
+                    "answers": "a tragic phrase|attr"
+                }
+            ]
+        },
+        {
+            "claim": "In Mexico, divorce cases have been increasing, because the law has been reformed a few yesterdays ago and express divorce has been established, and well, there is no longer that old journey of proving before a Family Judge, if there was infidelity, if there was abandonment of home, violence, etc.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the increase in divorce cases in Mexico City?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "What type of divorce has been established in Mexico City?",
+                    "answer": "express divorce"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of divorce has been established in Mexico?",
+                    "score": 0.7317,
+                    "answers": "express|amod"
+                },
+                {
+                    "question": "How many divorce cases were there in Mexico in 2017?",
+                    "score": 0.6971,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 17/05/2017 that In Mexico , divorce cases have been increasing , because the law has been reformed a few yesterdays ago and express divorce has been established , and well , there is no longer that old journey of proving before a Family Judge , if there was infidelity , if there was abandonment of home , violence , etc|ROOT\ton 17/05/2017|prep\tthat|mark\tIn Mexico|prep\t,|punct\tdivorce|compound\tdivorce cases|nsubj\thave|aux\tbeen|aux\tthat In Mexico , divorce cases have been increasing , because the law has been reformed a few yesterdays ago and express divorce has been established , and well , there is no longer that old journey of proving before a Family Judge , if there was infidelity , if there was abandonment of home , violence , etc|ccomp\t,|punct\tbecause|mark\tthe|det\tthe law|nsubjpass\thas|aux\tbeen|auxpass\tbecause the law has been reformed a few yesterdays ago and express divorce has been established , and well , there is no longer that old journey of proving before a Family Judge , if there was infidelity , if there was abandonment of home , violence , etc|advcl\ta|det\tfew|amod\ta few yesterdays|npadvmod\tand|cc\texpress divorce|nsubjpass\thas|aux\tbeen|auxpass\texpress divorce has been established|conj\t,|punct\tand|cc\twell|intj\t,|punct\tthere|expl\twell , there is no longer that old journey of proving before a Family Judge , if there was infidelity , if there was abandonment of home , violence , etc|conj\tno|neg\tno longer|advmod\tthat|det\told|amod\tthat old journey of proving before a Family Judge , if there was infidelity , if there was abandonment of home , violence , etc|attr\tof proving before a Family Judge , if there was infidelity , if there was abandonment of home , violence , etc|prep\tbefore a Family Judge|prep\ta|det\tFamily|compound\ta Family Judge|pobj\t,|punct\tif|mark\tthere|expl\tif there was infidelity|advcl\t,|punct\tif|mark\tthere|expl\tif there was infidelity , if there was abandonment of home , violence , etc|ccomp\tabandonment of home , violence ,|attr\tof home|prep\thome|pobj\t,|punct\tviolence ,|appos\t,|punct\tetc|attr"
+                },
+                {
+                    "question": "What is the process for proving infidelity in Mexico?",
+                    "score": 0.6742,
+                    "answers": "proving before a Family Judge , if there was infidelity , if there was abandonment of home , violence , etc|pcomp"
+                },
+                {
+                    "question": "What is the definition of infidelity in Mexico?",
+                    "score": 0.6371,
+                    "answers": "infidelity|attr"
+                }
+            ]
+        },
+        {
+            "claim": "; it is enough to request it in writing, more things and sanseacabo.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that it was enough to request it in writing?",
+                    "answer": "17/05/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many things does it take to request it in writing?",
+                    "score": 0.8134,
+                    "answers": "enough|acomp"
+                },
+                {
+                    "question": "How many things can you request in writing?",
+                    "score": 0.8087,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\t;|punct\tto|aux\tin writing|prep\twriting|pobj\t,|punct\tmore|amod\tand|cc"
+                },
+                {
+                    "question": "What is sanseacabo?",
+                    "score": 0.655,
+                    "answers": "more things and sanseacabo|dep\tsanseacabo|conj"
+                }
+            ]
+        },
+        {
+            "claim": "So a group of marriage counseling experts, led by Professor Huaracha , conducted a study that took them no less than  years to reach a conclusion .",
+            "question_answers": [
+                {
+                    "question": "Who led the group of marriage counseling experts?",
+                    "answer": "Professor Huaracha"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long did it take for Professor Huaracha to conduct a study?",
+                    "score": 0.8041,
+                    "answers": "Professor Huaracha|pobj"
+                },
+                {
+                    "question": "What is the relationship between marriage counseling and marriage counseling according to Professor Huaracha?",
+                    "score": 0.7249,
+                    "answers": "marriage counseling|compound"
+                }
+            ]
+        },
+        {
+            "claim": "With a conclusion , a group of marriage counseling experts, led by Professor Huaracha say, whole families can be saved from everything that causes a divorce.",
+            "question_answers": [
+                {
+                    "question": "How did a group of marriage counseling experts say that whole families can be saved from everything that causes a divorce?",
+                    "answer": "With a conclusion"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Professor Huaracha say about marriage?",
+                    "score": 0.8277,
+                    "answers": "marriage|compound"
+                },
+                {
+                    "question": "How many families can be saved from everything that causes divorce?",
+                    "score": 0.7528,
+                    "answers": "whole families|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "Professor Segismundo Huaracha, professor at Yale University, in the Balbuena Garden gave us an exclusive overview of the steps to be taken to avoid the much feared divorce that affects both men, women, children and the milkman:a study that took them no less than  years to reach a conclusion will be published by the DIF of the municipality of San Higinio Cantinero, Michoacán, in an extensive booklet size book with full-color illustrations.",
+            "question_answers": [
+                {
+                    "question": "Who will publish the study?",
+                    "answer": "the DIF of the municipality of San Higinio Cantinero, Michoacán,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What steps did Professor Segismundo Huaracha take to avoid divorce?",
+                    "score": 0.7936,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 17/05/2017 that Professor Segismundo Huaracha , professor at Yale University , in the Balbuena Garden gave us an exclusive overview of the steps to be taken to avoid the much feared divorce that affects both men , women , children and the milkman|ROOT\ton 17/05/2017|prep\tProfessor Segismundo Huaracha , professor at Yale University , in the Balbuena Garden|nsubj\tat Yale University|prep\tin the Balbuena Garden|prep\tBalbuena|compound\tthat Professor Segismundo Huaracha , professor at Yale University , in the Balbuena Garden gave us an exclusive overview of the steps to be taken to avoid the much feared divorce that affects both men , women , children and the milkman|ccomp\tmuch feared|amod\tthe much feared divorce that affects both men , women , children and the milkman|dobj\tboth men , women , children and the milkman|dobj\twomen , children and the milkman|conj\tchildren and the milkman|conj\tthat took them no less than|relcl\tless|amod\t |dep\tto reach a conclusion|relcl\tfull - color illustrations|pobj"
+                },
+                {
+                    "question": "What steps were taken to avoid divorce that affects both men, women, children and the milkman?",
+                    "score": 0.7184,
+                    "answers": "much|advmod\tthem|dative\tSan|compound\textensive|amod\tbooklet|compound\tbooklet size|compound\tfull - color|compound"
+                },
+                {
+                    "question": "How long did it take to reach the conclusion of the study by Professor Segismundo Huaracha?",
+                    "score": 0.7059,
+                    "answers": ": a study that took them no less than   years to reach a conclusion will be published by the DIF of the municipality of San Higinio Cantinero , Michoacán , in an extensive booklet size book with full - color illustrations|ROOT\tin an extensive booklet size book with full - color illustrations|prep"
+                },
+                {
+                    "question": "What was the study done by the DIF of San Higinio Cantinero?",
+                    "score": 0.6756,
+                    "answers": "the municipality of San Higinio Cantinero , Michoacán|pobj"
+                },
+                {
+                    "question": "What steps can be taken to avoid divorce?",
+                    "score": 0.6654,
+                    "answers": "to avoid the much feared divorce that affects both men , women , children and the milkman|advcl"
+                }
+            ]
+        }
+    ]
+}

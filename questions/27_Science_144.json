@@ -1,0 +1,378 @@
+{
+    "id": "27_Science_144",
+    "claim": "If on the morning of this Friday you have noticed that WhatsApp messages were not coming to you, then you are one of those affected by the fall of this mobile messaging service. The WhatsApp mobile message app has stopped working around 9 a.m. Spanish peninsular time, a ruling that has spread across several countries in Europe, Asia and the Americas, especially in countries such as Spain, the United Kingdom or the Netherlands, where operating problems have been most acutely highlighted. The service has been recovering from the . Web searches on the failure of the messaging service have multiplied around the world, from Australia to Brazil to Europe. WhatsApp has over a billion active users and is one of the most popular mobile and web applications on the Internet. In Spain, a study by the technology company Adglo, specialized in the sector, % of Spanish Internet users from between the  and the  years have used the messaging platform. At the moment, there is no communication from the company about this failure or on its website if its social networks. According to an expert consulted by EFE, the head of the computer security website 'Hacking Ethics', Deepak Daswani, is more likely to be a technical failure than an attack on the service, as'there have been hardly any problems of 'hacktivist' attacks on this platform'. Numerous users have reported problems with the WhatsApp service since the early hours of this Friday. The problem specifically affects the sending of messages, which is visually being represented in chats via the clock icon that reports that messages are not being sent, and which is often associated with connection problems by the sender. By region, Europe and South-East Asia are the territories that have recorded the highest number of cases. According to data from the Outage Report portal, United Kingdom, Italy and India are the three countries most affected by this interruption of the WhatsApp service, while Spain ranks ninth in the list of the highest incidence of the problem, with more than a hundred cases reported through the aforementioned portal and with special effect in very populated cities such as Madrid, Barcelona, Valencia or Seville. This is the second big fall that affects a service that is part of Mark Zuckerberg's proprietary matrix in the last month. Last October , social networks Facebook and Instagram also experienced two operating problems that prevented access to their platforms. I'm sorry.",
+    "source": "elpais.com",
+    "date": "03/11/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "If on the morning of this Friday you have noticed that WhatsApp messages were not coming to you, then you are one of those affected by the fall of this mobile messaging service .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/11/2017 that you were one of those affected by the fall of WhatsApp?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people were affected by the fall of the mobile messaging service?",
+                    "score": 0.7233,
+                    "answers": "one of those affected by the fall of this mobile messaging service|attr\tof those affected by the fall of this mobile messaging service|prep\taffected by the fall of this mobile messaging service|acl"
+                },
+                {
+                    "question": "What were the messages received on WhatsApp on Friday?",
+                    "score": 0.6709,
+                    "answers": "that WhatsApp messages were not coming to you|ccomp"
+                },
+                {
+                    "question": "What was the result of the fall of WhatsApp on Friday?",
+                    "score": 0.6462,
+                    "answers": "If on the morning of this Friday you have noticed that WhatsApp messages were not coming to you|advcl"
+                },
+                {
+                    "question": "What is the relationship between WhatsApp and Facebook?",
+                    "score": 0.6447,
+                    "answers": "WhatsApp messages|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "WhatsApp has stopped working around 9 a.m. Spanish peninsular time, a ruling that has spread across several countries in Europe , Asia and the Americas, especially in countries such as Spain , the United Kingdom or the Netherlands, where operating problems have been most acutely highlighted.",
+            "question_answers": [
+                {
+                    "question": "WhatsApp has stopped working around 9 a.m. in what country?",
+                    "answer": "Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have stopped working around 9 a.m. Spanish peninsular time?",
+                    "score": 0.6986,
+                    "answers": "several countries in Europe , Asia and the Americas|pobj\tin Europe , Asia and the Americas|prep"
+                },
+                {
+                    "question": "What are the operating problems with WhatsApp?",
+                    "score": 0.615,
+                    "answers": "operating problems|nsubjpass"
+                },
+                {
+                    "question": "What is the Spanish peninsular time?",
+                    "score": 0.5761,
+                    "answers": "Spanish|amod\tSpanish peninsular time|appos\ta ruling that has spread across several countries in Europe , Asia and the Americas , especially in countries such as Spain , the United Kingdom or the Netherlands , where operating problems have been most acutely highlighted|npadvmod"
+                },
+                {
+                    "question": "What are operating problems in Europe and the Americas?",
+                    "score": 0.5661,
+                    "answers": "where operating problems have been most acutely highlighted|relcl"
+                },
+                {
+                    "question": "What is peninsular time?",
+                    "score": 0.5383,
+                    "answers": "peninsular|amod"
+                }
+            ]
+        },
+        {
+            "claim": "WhatsApp has been recovering from the .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/11/2017 that WhatsApp has been recovering from the crash?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between WhatsApp and Facebook?",
+                    "score": 0.687,
+                    "answers": "elpais.com reported on 03/11/2017 that WhatsApp has been recovering from the|ROOT\ton 03/11/2017|prep\tthat|mark\thas|aux\tbeen|aux\tthat WhatsApp has been recovering from the|ccomp\tfrom the|prep\tthe|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Web searches on the fall of this mobile messaging service have multiplied around the world, from Australia to Brazil to Europe .",
+            "question_answers": [
+                {
+                    "question": "What website reported that Web searches on the fall of mobile messaging service have multiplied around the world?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many websites have been opened since the mobile messaging service was introduced?",
+                    "score": 0.8105,
+                    "answers": "that|mark\tWeb|compound\tthis|det\t,|punct"
+                },
+                {
+                    "question": "What was the result of web searches on the fall of the mobile messaging service?",
+                    "score": 0.7769,
+                    "answers": "Web searches on the fall of this mobile messaging service|nsubj"
+                },
+                {
+                    "question": "How many websites has elpais.com found?",
+                    "score": 0.6997,
+                    "answers": "the|det\tthe|det"
+                },
+                {
+                    "question": "What is the use of elpais.com?",
+                    "score": 0.5645,
+                    "answers": "this mobile messaging service|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "WhatsApp has over a billion active users and is one of the most popular mobile and web applications on the Internet .",
+            "question_answers": [
+                {
+                    "question": "How many active users does WhatsApp have?",
+                    "answer": "over a billion"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many active users does WhatsApp have on the internet?",
+                    "score": 0.8038,
+                    "answers": "the most popular mobile and web applications on the Internet|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In Spain , a study by the technology company Adglo, specialized in the sector, % of Spanish the Internet users from between the  and the  years have used WhatsApp .",
+            "question_answers": [
+                {
+                    "question": "In what country did Adglo conduct a study?",
+                    "answer": "Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of Spanish internet users use WhatsApp?",
+                    "score": 0.8451,
+                    "answers": "elpais.com reported on 03/11/2017|ROOT\ton 03/11/2017|prep\tthat|mark\tIn Spain|prep\ta|det\tthe|det\t,|punct\tthe|det\t,|punct\tIn Spain , a study by the technology company Adglo , specialized in the sector , % of Spanish the Internet users from between the|nsubj\tof Spanish|prep\tthe|det\tInternet|compound\tthe Internet users from between the|appos\tfrom between the|prep\tbetween the|prep\tthe|pobj\tthat In Spain , a study by the technology company Adglo , specialized in the sector , % of Spanish the Internet users from between the  |dep\tand|cc\tand the|det\tyears|dobj\thave|aux\thave used WhatsApp|advcl\tWhatsApp|dobj"
+                },
+                {
+                    "question": "What sector does Adglo specialize in?",
+                    "score": 0.7587,
+                    "answers": "in the sector|prep\tthe sector|pobj"
+                },
+                {
+                    "question": "What is Adglo?",
+                    "score": 0.6065,
+                    "answers": ", a study by the technology company Adglo , specialized in the sector ,|punct\ta study by the technology company Adglo ,|nsubj\tby the technology company Adglo ,|prep\ttechnology|compound\tthe technology company Adglo ,|pobj\ta study by the technology company Adglo , specialized in the sector|prep"
+                }
+            ]
+        },
+        {
+            "claim": "At the moment, there is no communication from WhatsApp about the fall of this mobile messaging service or on website if social networks.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 03/11/2017 that there was no communication from WhatsApp about the fall of this mobile messaging service?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is there any communication from WhatsApp about the fall of its mobile messaging service?",
+                    "score": 0.8891,
+                    "answers": "At the moment|prep\tthe moment|pobj\t,|punct\tno communication from WhatsApp about the fall of this mobile messaging service or on website if social networks|attr\tmobile|compound\tor|cc\tif|mark\tsocial|amod"
+                },
+                {
+                    "question": "What is the relationship between WhatsApp and the mobile messaging service?",
+                    "score": 0.6824,
+                    "answers": "of this mobile messaging service or on website if social networks|prep"
+                },
+                {
+                    "question": "What is the date of the fall of WhatsApp?",
+                    "score": 0.6042,
+                    "answers": "about the fall of this mobile messaging service or on website if social networks|prep"
+                }
+            ]
+        },
+        {
+            "claim": "According to an expert consulted by EFE, the head of the computer security website 'Hacking Ethics', Deepak Daswani, is more likely to be a technical failure than an attack on WhatsApp , as'there have been hardly any problems of 'hacktivist' attacks on WhatsApp '.",
+            "question_answers": [
+                {
+                    "question": "What is Deepak Daswani most likely to be?",
+                    "answer": "a technical failure than an attack on WhatsApp"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many hacktivist attacks are there on WhatsApp?",
+                    "score": 0.7843,
+                    "answers": "of ' hacktivist ' attacks on WhatsApp|prep"
+                },
+                {
+                    "question": "How many hackers have attacked WhatsApp?",
+                    "score": 0.7771,
+                    "answers": "that|mark\thave|aux\tas'there have been hardly any problems of ' hacktivist ' attacks on WhatsApp|advcl\tany|advmod\thardly any problems of ' hacktivist ' attacks on WhatsApp|attr"
+                },
+                {
+                    "question": "What did EFE say about Dhanak Daswani?",
+                    "score": 0.7755,
+                    "answers": "consulted by EFE|acl"
+                },
+                {
+                    "question": "What are Hacktivist attacks on WhatsApp?",
+                    "score": 0.7749,
+                    "answers": "on WhatsApp|prep\thacktivist|nmod\t' hacktivist ' attacks on WhatsApp|pobj\ton WhatsApp|prep"
+                },
+                {
+                    "question": "What is Hacking Ethics?",
+                    "score": 0.766,
+                    "answers": "computer security|compound\tHacking|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Numerous users have reported problems with the WhatsApp service since the early hours of this Friday.",
+            "question_answers": [
+                {
+                    "question": "Who reported problems with WhatsApp on 03/11/2017?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many users have reported problems with the WhatsApp service?",
+                    "score": 0.8645,
+                    "answers": "early|amod"
+                },
+                {
+                    "question": "What is the relationship between WhatsApp and Facebook?",
+                    "score": 0.6951,
+                    "answers": "that|mark\tNumerous|amod\thave|aux\tthe|det\tsince the early hours of this Friday|prep\tthe|det\tof this Friday|prep\tthis|det\tthis Friday|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The problem specifically affects the sending of messages, which is visually being represented in chats via the clock icon that reports that messages are not being sent, and which is often associated with connection problems by the sender.",
+            "question_answers": [
+                {
+                    "question": "What is often associated with the sending of messages by the sender?",
+                    "answer": "connection problems"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How are messages represented in chats by the clock icon?",
+                    "score": 0.8104,
+                    "answers": "visually|advmod"
+                },
+                {
+                    "question": "What does the clock icon say about messages being sent?",
+                    "score": 0.6901,
+                    "answers": "via the clock icon that reports that messages are not being sent|prep\tthe clock icon that reports that messages are not being sent|pobj\tthat reports that messages are not being sent|relcl"
+                },
+                {
+                    "question": "What are the connection problems with sending messages?",
+                    "score": 0.6884,
+                    "answers": "that|mark\tThe|det\tthe|det\tof messages , which is visually being represented in chats via the clock icon that reports that messages are not being sent , and which is often associated with connection problems by the sender|prep\t,|punct\twhich|nsubjpass\tbeing|auxpass\tthe|det\tthat|nsubj\tthat|mark\tare|aux\tnot|neg\tbeing|auxpass\t,|punct\tand|cc\twhich|nsubjpass\toften|advmod\tconnection|compound\tthe|det"
+                },
+                {
+                    "question": "How many messages are not being sent?",
+                    "score": 0.6658,
+                    "answers": "that messages are not being sent|ccomp"
+                },
+                {
+                    "question": "What is the clock icon for sending messages?",
+                    "score": 0.6412,
+                    "answers": "clock|compound"
+                }
+            ]
+        },
+        {
+            "claim": "By region, Europe and South-East Asia are the territories that have recorded the highest number of cases.",
+            "question_answers": [
+                {
+                    "question": "What are the territories that have recorded the highest number of cases?",
+                    "answer": "Europe and South-East Asia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What regions have the highest number of cases of cases?",
+                    "score": 0.7343,
+                    "answers": "Europe and South - East Asia|nsubj"
+                },
+                {
+                    "question": "How many cases have occured in Europe and South-East Asia?",
+                    "score": 0.7105,
+                    "answers": "region|pobj"
+                },
+                {
+                    "question": "How many cases of cases are there in Europe and South-east Asia each year?",
+                    "score": 0.6951,
+                    "answers": "the highest number of cases|dobj\tof cases|prep\tcases|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to data from the Outage Report portal, United Kingdom, Italy and India are the three countries most affected by this interruption of the WhatsApp service, while Spain ranks ninth in the list of the highest incidence of the problem, with more than a hundred cases reported through the aforementioned portal and with special effect in very populated cities such as Madrid, Barcelona, Valencia or Seville.",
+            "question_answers": [
+                {
+                    "question": "What are the three countries most affected by the interruption of WhatsApp service?",
+                    "answer": "United Kingdom, Italy and India"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have the highest incidence of the WhatsApp virus?",
+                    "score": 0.7151,
+                    "answers": "while Spain ranks ninth in the list of the highest incidence of the problem , with more than a hundred cases reported through the aforementioned portal and with special effect in very populated cities such as Madrid , Barcelona , Valencia or Seville|advcl"
+                },
+                {
+                    "question": "What countries have been affected by the interruption of the WhatsApp service?",
+                    "score": 0.7069,
+                    "answers": "that According to data from the Outage Report portal , United Kingdom , Italy and India are the three countries most affected by this interruption of the WhatsApp service , while Spain ranks ninth in the list of the highest incidence of the problem , with more than a hundred cases reported through the aforementioned portal and with special effect in very populated cities such as Madrid , Barcelona , Valencia or Seville|ccomp\tthe WhatsApp service|pobj\tvery populated|amod"
+                },
+                {
+                    "question": "What countries were affected by the Outage Report portal?",
+                    "score": 0.677,
+                    "answers": "most affected by this interruption of the WhatsApp service|acl"
+                },
+                {
+                    "question": "How many cases of outage are reported each year?",
+                    "score": 0.6391,
+                    "answers": "more than a hundred cases reported through the aforementioned portal|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "This is the second big fall that affects a service that is part of Mark Zuckerberg's proprietary matrix in the last month.",
+            "question_answers": [
+                {
+                    "question": "Who reported the second big fall that affects a service that is part of Mark Zuckerberg's proprietary matrix?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Mark Zuckerberg's proprietary matrix?",
+                    "score": 0.658,
+                    "answers": "on 03/11/2017|prep\tthat|mark\tThis|nsubj\tthat This is the second big fall that affects a service that is part of Mark Zuckerberg 's proprietary matrix in the last month|ccomp\tthe|det\tbig|amod\tthe second big fall that affects a service that is part of Mark Zuckerberg 's proprietary matrix in the last month|attr\tthat|nsubj\tthat affects a service that is part of Mark Zuckerberg 's proprietary matrix in the last month|relcl\ta|det\ta service that is part of Mark Zuckerberg 's proprietary matrix|dobj\tthat|nsubj\tthat is part of Mark Zuckerberg 's proprietary matrix|relcl\tpart of Mark Zuckerberg 's proprietary matrix|attr\tof Mark Zuckerberg 's proprietary matrix|prep\tMark|compound\tMark Zuckerberg 's|poss\t's|case\tproprietary|amod\tMark Zuckerberg 's proprietary matrix|pobj\tin the last month|prep\tthe|det\tlast|amod"
+                },
+                {
+                    "question": "What is the relationship between Mark Zuckerberg and elpais.com?",
+                    "score": 0.5279,
+                    "answers": "elpais.com reported on 03/11/2017 that This is the second big fall that affects a service that is part of Mark Zuckerberg 's proprietary matrix in the last month|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Last October , social networks Facebook and Instagram also experienced two operating problems that prevented access to their platforms.",
+            "question_answers": [
+                {
+                    "question": "When did Facebook and Instagram experience two operating problems?",
+                    "answer": "October"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the operating problems with Facebook and Instagram?",
+                    "score": 0.7505,
+                    "answers": "elpais.com reported on 03/11/2017 that Last October , social networks Facebook and Instagram also experienced two operating problems that prevented access to their platforms|ROOT\ton 03/11/2017|prep\tthat|mark\tLast|amod\t,|punct\tsocial|amod\tsocial networks Facebook and Instagram|nsubj\tFacebook and Instagram|appos\tand|cc\talso|advmod\tthat Last October , social networks Facebook and Instagram also experienced two operating problems that prevented access to their platforms|ccomp\toperating|compound\ttwo operating problems that prevented access to their platforms|dobj\tthat|nsubj\tthat prevented access to their platforms|relcl\taccess to their platforms|dobj\tto their platforms|prep\ttheir|poss\ttheir platforms|pobj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "Sociedad_144",
+    "claim": "Feminist studies conducted by the Union of Feminists, Afroempowered and Oppressed of the Universidad Autonoma de Santo Domingo (UASD) showed that having sex during pregnancy is a micro-aggression to the fetus since during this time the fetus is disturbed by the attack of the virile oppressor and male aggressor member. This action can lead to future frustrations of the fetus (clarifying that it is a fetus because he has not yet chosen to which genus it will belong), and especially in the mother of the fetus, since she is a victim of society for being forced to be a mother and having to have sexual aggression again within her body. Finally they reported this Sunday that they were protesting at the head of the male obelisk, and they would ask for its elimination from the place where it is located as this is the greatest false and oppressive representation of patriarchy in our country. I'm sorry.",
+    "source": "www.12minutos.com",
+    "date": "30/04/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Feminist studies conducted by the Union of Feminists, Afroempowered and Oppressed of the Universidad Autonoma de Santo Domingo (UASD) showed that having sex during pregnancy is a micro-aggression to the fetus since during this time the fetus is disturbed by the attack of the virile oppressor and male aggressor member.",
+            "question_answers": [
+                {
+                    "question": "Where is UASD located?",
+                    "answer": "Universidad Autonoma de Santo Domingo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Union of Feminists, Afroempowered and Oppressed say about having sex during pregnancy?",
+                    "score": 0.6865,
+                    "answers": "Oppressed|conj"
+                },
+                {
+                    "question": "What does having sex during pregnancy do to the fetus?",
+                    "score": 0.6821,
+                    "answers": "the fetus|pobj\tthe fetus|nsubjpass"
+                },
+                {
+                    "question": "What is a micro-aggression to the fetus during pregnancy?",
+                    "score": 0.5848,
+                    "answers": "that having sex during pregnancy is a micro - aggression to the fetus since during this time the fetus is disturbed by the attack of the virile oppressor and male aggressor member|ccomp"
+                },
+                {
+                    "question": "What does UASD stand for?",
+                    "score": 0.5643,
+                    "answers": "Feminist studies conducted by the Union of Feminists , Afroempowered and Oppressed of the Universidad Autonoma de Santo Domingo ( UASD )|nsubj\tconducted by the Union of Feminists , Afroempowered and Oppressed of the Universidad Autonoma de Santo Domingo ( UASD )|acl\tby the Union of Feminists , Afroempowered and Oppressed of the Universidad Autonoma de Santo Domingo ( UASD )|agent\tthe Union of Feminists , Afroempowered and Oppressed of the Universidad Autonoma de Santo Domingo ( UASD )|pobj\tof the Universidad Autonoma de Santo Domingo ( UASD )|prep\tthe Universidad Autonoma de Santo Domingo ( UASD )|pobj\tde Santo Domingo|prep\tSanto Domingo|pobj"
+                },
+                {
+                    "question": "What is the relationship between the virile oppressor and the male aggressor?",
+                    "score": 0.5554,
+                    "answers": "of the virile oppressor and male aggressor member|prep"
+                }
+            ]
+        },
+        {
+            "claim": "This action can lead to future frustrations of the fetus (clarifying that it is a fetus because he has not yet chosen to which genus it will belong), and especially in the mother of the fetus, since she is a victim of society for being forced to be a mother and having to have sexual aggression again within her body.",
+            "question_answers": [
+                {
+                    "question": "Why is the mother of the fetus a victim of society?",
+                    "answer": "a victim of society for being forced to be a mother and having to have sexual aggression again within her body"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be a mother?",
+                    "score": 0.6978,
+                    "answers": "on 30/04/2018|prep\tthat|mark\tThis|det\tThis action|nsubj\tcan|aux\tthat This action can lead to future frustrations of the fetus ( clarifying that it is a fetus because he has not yet chosen to which genus it will belong ) , and especially in the mother of the fetus , since she is a victim of society for being forced to be a mother and having to have sexual aggression again within her body|ccomp\tfuture|amod\tfuture frustrations of the fetus ( clarifying that it is a fetus because he has not yet chosen to which genus it will belong )|pobj\tof the fetus ( clarifying that it is a fetus because he has not yet chosen to which genus it will belong )|prep\tthe|det\tthe fetus|pobj\t(|punct\tclarifying that it is a fetus because he has not yet chosen to which genus it will belong )|pcomp\tthat|mark\tit|nsubj\tthat it is a fetus because he has not yet chosen to which genus it will belong|ccomp\ta|det\ta fetus|attr\tbecause|mark\the|nsubj\thas|aux\tnot|neg\tyet|advmod\tbecause he has not yet chosen to which genus it will belong|advcl\tto which genus|prep\twhich|det\twhich genus|pcomp\tit|nsubj\twill|aux\tto which genus it will belong|xcomp\t)|punct\t,|punct\tand|cc\tespecially|advmod\tespecially in the mother of the fetus|conj\tthe|det\tthe mother of the fetus|pobj\tof the fetus|prep\tthe|det\tthe fetus|pobj\t,|punct\tsince|mark\tshe|nsubj\ta|det\tof society|prep\tsociety|pobj\tbeing|auxpass\tto|aux\tto be a mother|xcomp\ta|det\ta mother|attr\tand|cc\thaving to have sexual aggression again within her body|conj\tto|aux\tto have sexual aggression again within her body|xcomp\tsexual|amod\twithin her body|prep\ther|poss\ther body|pobj"
+                },
+                {
+                    "question": "What does 12minutos.com do?",
+                    "score": 0.6547,
+                    "answers": "www.12minutos.com|nsubj"
+                },
+                {
+                    "question": "What are the punishments for being a mother and having to have sexual aggression within her body?",
+                    "score": 0.6463,
+                    "answers": "for being forced to be a mother and having to have sexual aggression again within her body|prep"
+                },
+                {
+                    "question": "What is sexual aggression?",
+                    "score": 0.6242,
+                    "answers": "sexual aggression|dobj"
+                },
+                {
+                    "question": "What is the definition of being a mother?",
+                    "score": 0.6138,
+                    "answers": "being forced to be a mother and having to have sexual aggression again within her body|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Finally they reported this Sunday that they were protesting at the head of the male obelisk, and they would ask for its elimination from the place where it is located as this is the greatest false and oppressive representation of patriarchy in our country.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why would they want to remove the head of the male obelisk?",
+                    "score": 0.6427,
+                    "answers": "www.12minutos.com reported on 30/04/2018 that Finally they reported this Sunday that they were protesting at the head of the male obelisk , and they would ask for its elimination from the place where it is located as this is the greatest false and oppressive representation of patriarchy in our country|ROOT\tfor its elimination from the place where it is located|prep"
+                },
+                {
+                    "question": "What is the purpose of the obelisk?",
+                    "score": 0.5173,
+                    "answers": "false and oppressive|amod\tour country|pobj"
+                },
+                {
+                    "question": "What is the name of the place where it is located?",
+                    "score": 0.4569,
+                    "answers": "the place where it is located|pobj"
+                }
+            ]
+        }
+    ]
+}

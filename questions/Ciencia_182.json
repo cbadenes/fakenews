@@ -1,0 +1,659 @@
+{
+    "id": "Ciencia_182",
+    "claim": "Born in India, alerted the world in August 2019. Now he claims that COVID-19 will be eradicated in September, but announces a worse outbreak by December. Many have been the theories about the beginning of the coronavirus. Many researchers who study the origin of this pathology that has unleashed a pandemic around the world. Whether for one reason or another, the truth is that the virus has attacked virtually all countries and few or none of them knew how to prevent the situation and prepare for the COVID-19. But the truth is that in India, one of the youngest astrologers in the world, predicted the pandemic in a video released in August 2019. It responds to the name of Abhigya Anand, is 14 years old and currently her videos have gone viral on social networks. Last August, Anand announced a “severe danger to the world” between November 2019 and April 2020.”. Astrology classes at age 10 This child prodigy began to form from a very young age, when he was barely seven years old. He began to visit temples in India and to study one of the oldest languages in the world, Sanskrit. At the age of 10, she enrolled in astrology classes after seeing a poster. At first they put him in trouble because they thought he didn't have the necessary knowledge given his age, but soon he stood out, being the best of the class. Envy of companions and teachers His wisdom aroused the envy of his older companions who were suspicious of Anand. Even the teachers showed their discomfort, to the point that they prevented him from asking questions in class. So far did the reticence of companions and teachers come that they began to suffer bullying, but nothing stopped Anand, who graduated from Vastu sastra, a Hindu doctrine on the influence of the laws of nature. His knowledge made him foresee that “severe danger to the world,” but his predictions have continued. Anand was right about this danger, but he has pointed out other things: regarding COVID-19, the young man said that from 29 May the number of cases per coronavirus would gradually drop and on 5 September 2020 indicates that the virus will be completely eradicated. Outbreak 'scandalous 'in December But the problem is that Anand assures that more viruses will come and again in months seen makes a prediction the least disturbing: December 20, 2020 will be the'next outbreak\", which will be'really scandalous'and will last until March 2021. The astrologer explains that on that day the planets of Saturn and Jupiter will be “completely united”. The effects of this combination, Anand says, will cause “many diseases, destruction and possibly famine” among the population because it will be very difficult for farmers to harvest their produce. “No human being will be left alive if people don't take action,” alerts. Their predictions cause great alarm, but the truth is that somehow the coronavirus pandemic was right. It will be necessary to see whether they are now taken into consideration by this young astrologer, named Abhigya Anand. I'm sorry.",
+    "source": "as.com",
+    "date": "06/06/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Born in India , alerted the world His August 2019 .",
+            "question_answers": [
+                {
+                    "question": "What was the name of the person who alerted the world to the alert?",
+                    "answer": "Born in India"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was India born?",
+                    "score": 0.7875,
+                    "answers": "Born in India|advcl"
+                },
+                {
+                    "question": "What is the date of the birth of the first child born in India?",
+                    "score": 0.6935,
+                    "answers": "His August 2019|npadvmod"
+                },
+                {
+                    "question": "What was the name of the person born in India in August 2019?",
+                    "score": 0.6556,
+                    "answers": "in India|prep\tHis|poss"
+                }
+            ]
+        },
+        {
+            "claim": "Now he claims His COVID-19 will be eradicated in SeptemberHis Even the teachers outbreak Even the teachers December.",
+            "question_answers": [
+                {
+                    "question": "What disease was reported to be eradicated by as.com on 06/06/2020?",
+                    "answer": "COVID-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many teachers were affected by the COVID-19?",
+                    "score": 0.6748,
+                    "answers": "Even the teachers outbreak Even the teachers December|dep"
+                },
+                {
+                    "question": "What is the COVID-19?",
+                    "score": 0.6617,
+                    "answers": "His COVID-19|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of Scott Walker's COVID-19?",
+                    "score": 0.6177,
+                    "answers": "as.com|nsubj"
+                },
+                {
+                    "question": "How many teachers have been eradicated since Scott Walker took office?",
+                    "score": 0.5471,
+                    "answers": "as.com reported on 06/06/2020 that Now he claims His COVID-19 will be eradicated in SeptemberHis Even the teachers outbreak Even the teachers December|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Many have been the theories about the His of COVID-19 .",
+            "question_answers": [
+                {
+                    "question": "What did as.com report on 06/06/2020?",
+                    "answer": "Many have been the theories about the His of COVID-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What theories are there about the His of COVID-19?",
+                    "score": 0.81,
+                    "answers": "of COVID-19|prep"
+                },
+                {
+                    "question": "What is the evidence of COVID-19?",
+                    "score": 0.7291,
+                    "answers": "about the His of COVID-19|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Many researchers who study the origin companions and teachers that has unleashed a pandemic around the world .",
+            "question_answers": [
+                {
+                    "question": "What did many researchers who study the origin companions and teachers that has unleashed?",
+                    "answer": "a pandemic around the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many researchers study the origin companions and teachers that have unleashed a pandemic around the world?",
+                    "score": 0.6468,
+                    "answers": "on 06/06/2020|prep\tthat|mark\tMany|amod\tthat Many researchers who study the origin companions and teachers that has unleashed a pandemic around the world|ccomp\twho|nsubj\tthe|det\tand|cc\tthat|nsubj\ta|det\tthe|det"
+                },
+                {
+                    "question": "What is the origin of the pandemic?",
+                    "score": 0.5528,
+                    "answers": "that has unleashed a pandemic around the world|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Whether for one His or His of virtually all countries knew His to prevent the “severe danger to the world COVID-19 .",
+            "question_answers": [
+                {
+                    "question": "What did as.com report on 06/06/2020?",
+                    "answer": "Whether for one His or His of virtually all countries knew His to prevent the “severe danger to the world COVID-19"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries know about the COVID-19?",
+                    "score": 0.6569,
+                    "answers": "as.com reported on 06/06/2020 that His or His of virtually all countries knew Whether for one His to prevent the “ severe danger to the world COVID-19|ROOT"
+                },
+                {
+                    "question": "What countries were involved in the COVID-19?",
+                    "score": 0.6127,
+                    "answers": "Whether for one|prep"
+                },
+                {
+                    "question": "What was the purpose of COVID-19?",
+                    "score": 0.6051,
+                    "answers": "that His or His of virtually all countries knew Whether for one His to prevent the “ severe danger to the world COVID-19|ccomp"
+                },
+                {
+                    "question": "What was the COVID-19?",
+                    "score": 0.5988,
+                    "answers": "Whether for one His to prevent the “ severe danger to the world COVID-19|dobj"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.5805,
+                    "answers": "as.com|nsubj\tto prevent the “ severe danger to the world COVID-19|relcl\tthe “ severe danger to the world COVID-19|dobj\tto the world|prep\tthe world|pobj\tCOVID-19|appos"
+                }
+            ]
+        },
+        {
+            "claim": "But the truth is that in His , one of the youngest astrologers in the world “severe danger to the world His one of the youngest astrologers in the world , predicted a pandemic in a COVID-19 His August 2019 .",
+            "question_answers": [
+                {
+                    "question": "Who predicted a pandemic in COVID-19?",
+                    "answer": "one of the youngest astrologers in the world"
+                },
+                {
+                    "question": "Who predicted a pandemic in COVID-19?",
+                    "answer": "His one of the youngest astrologers in the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who predicted a pandemic?",
+                    "score": 0.7634,
+                    "answers": "His August 2019|pobj"
+                },
+                {
+                    "question": "Who predicted a pandemic in 2019?",
+                    "score": 0.7324,
+                    "answers": "on 06/06/2020|prep\tof the youngest astrologers in the world|prep\tthe youngest astrologers in the world|pobj\tof the youngest astrologers in the world|prep\tthe youngest astrologers in the world|pobj\tin a COVID-19 His August 2019|prep"
+                },
+                {
+                    "question": "What are the names of the scientists that predicted a pandemic?",
+                    "score": 0.6974,
+                    "answers": ",|punct\tin the world|prep\tthe world|pobj\t“|punct\tto the world|prep\tthe world|pobj\tin the world|prep\tthe world|pobj\t,|punct\tthat in His , one of the youngest astrologers in the world “ severe danger to the world His one of the youngest astrologers in the world , predicted a pandemic in a COVID-19 His August 2019|ccomp"
+                },
+                {
+                    "question": "What is the scientific method used to predict a pandemic?",
+                    "score": 0.6744,
+                    "answers": "a pandemic|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Dr. George Flinn's predicted a pandemic?",
+                    "score": 0.6456,
+                    "answers": "But|cc\tthe|det\tthe truth|nsubj\tHis ,|poss\tthe|det\tthe|det\tthe|det\tthe|det\tthe|det\t2019|appos"
+                }
+            ]
+        },
+        {
+            "claim": "It responds to the name of one of the youngest astrologers in the world , is 14 years old and currently videos have gone viral on social networks.",
+            "question_answers": [
+                {
+                    "question": "Who did as.com respond to on 06/06/2020?",
+                    "answer": "one of the youngest astrologers in the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many videos have gone viral on social networks?",
+                    "score": 0.6993,
+                    "answers": "currently videos have gone viral on social networks|conj"
+                },
+                {
+                    "question": "Who is the youngest astrologers in the world?",
+                    "score": 0.6919,
+                    "answers": "the youngest astrologers in the world|pobj"
+                },
+                {
+                    "question": "What is the age of the first astrologer in the world?",
+                    "score": 0.6555,
+                    "answers": "is 14 years old|conj"
+                }
+            ]
+        },
+        {
+            "claim": "COVID-19 August, one of the youngest astrologers in the world announced a “severe danger to the world ” between November 2019 and April His .",
+            "question_answers": [
+                {
+                    "question": "What did COVID-19 August announce?",
+                    "answer": "a “severe danger to the world"
+                },
+                {
+                    "question": "What did COVID-19 August announce?",
+                    "answer": "a “severe danger to the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did COVID-19 August announce a threat to the world?",
+                    "score": 0.7254,
+                    "answers": "between November 2019 and April His|prep\tNovember 2019 and April|pobj"
+                },
+                {
+                    "question": "What did COVID-19 August say about the world?",
+                    "score": 0.6267,
+                    "answers": "in the world|prep\tthe world|pobj\tthat COVID-19 August , one of the youngest astrologers in the world announced a “ severe danger to the world ” between November 2019 and April His|ccomp\tsevere|amod\tthe world|pobj\tHis|pobj"
+                },
+                {
+                    "question": "Who is COVID-19 August?",
+                    "score": 0.5984,
+                    "answers": "one of the youngest astrologers in the world|nsubj\tof the youngest astrologers in the world|prep\tthe youngest astrologers in the world|pobj"
+                },
+                {
+                    "question": "What is COVID-19 August?",
+                    "score": 0.5982,
+                    "answers": "as.com reported on 06/06/2020 that COVID-19 August , one of the youngest astrologers in the world announced a “ severe danger to the world ” between November 2019 and April His|ROOT\ton 06/06/2020|prep\t06/06/2020|pobj\tCOVID-19|nummod\tCOVID-19 August ,|npadvmod\tyoungest|amod\t“|punct\ta “ severe danger to the world ” between November 2019 and April His|dobj\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Astrology classes at age 10 This child prodigy began to form from a very young age, when This child prodigy was barely December 20, 2020 .",
+            "question_answers": [
+                {
+                    "question": "What was the age of the child prodigy?",
+                    "answer": "10"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Astrology classes form?",
+                    "score": 0.8543,
+                    "answers": "when|advmod"
+                },
+                {
+                    "question": "When did the child prodigy form?",
+                    "score": 0.7923,
+                    "answers": "to form from a very young age , when This child prodigy was barely December 20 , 2020|xcomp"
+                },
+                {
+                    "question": "When was the first child prodigy born?",
+                    "score": 0.7321,
+                    "answers": "when This child prodigy was barely December 20 , 2020|relcl\tDecember 20 , 2020|attr"
+                },
+                {
+                    "question": "What is Astrology?",
+                    "score": 0.7112,
+                    "answers": "Astrology|compound"
+                },
+                {
+                    "question": "What was the age of the first child prodigy?",
+                    "score": 0.6824,
+                    "answers": "as.com|nsubj\tthat|mark\tat age 10|prep\t10|nummod\tchild|compound\tto|aux\tfrom a very young age , when This child prodigy was barely December 20 , 2020|prep\ta|det\tvery|advmod\tvery young|amod\t,|punct\tchild|compound\tbarely|advmod\t20|nummod\t,|punct\t2020|appos"
+                }
+            ]
+        },
+        {
+            "claim": "This child prodigy began to visit temples in India and to study one of the oldest languages in the world , His .",
+            "question_answers": [
+                {
+                    "question": "What language did the child prodigy begin to study?",
+                    "answer": "oldest languages in the world"
+                },
+                {
+                    "question": "What language did the child prodigy begin to study?",
+                    "answer": "oldest languages in the world"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the child prodigy attend school in India?",
+                    "score": 0.7859,
+                    "answers": "temples in India|dobj"
+                },
+                {
+                    "question": "What was the name of the child prodigy that visited temples in India?",
+                    "score": 0.7269,
+                    "answers": "as.com reported on 06/06/2020 that This child prodigy began to visit temples in India and to study one of the oldest languages in the world , His|ROOT\ton 06/06/2020|prep\tthat|mark\tThis|det\tchild|compound\tThis child prodigy|nsubj\tto|aux\tand|cc\tto|aux\tthe|det\tthe|det\t,|punct"
+                },
+                {
+                    "question": "What is the oldest languages in the world?",
+                    "score": 0.605,
+                    "answers": "in India|prep\tto study one of the oldest languages in the world , His|conj\tone of the oldest languages in the world , His|dobj\tof the oldest languages in the world|prep\toldest|amod\tthe oldest languages in the world|pobj\tin the world|prep\tthe world|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "His the age of 10, This child prodigy December 20, 2020 in astrology classes after seeing a poster.",
+            "question_answers": [
+                {
+                    "question": "What type of classes did as.com report that the child prodigy was in?",
+                    "answer": "astrology"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the age of the child prodigy that was in the astrology classes?",
+                    "score": 0.6732,
+                    "answers": "December 20 , 2020|npadvmod"
+                },
+                {
+                    "question": "What is astrology?",
+                    "score": 0.6215,
+                    "answers": "astrology|compound"
+                }
+            ]
+        },
+        {
+            "claim": "At first united This child prodigy in trouble united His didn't have the necessary knowledge given age, but soon This child prodigy stood out, being the best of the class.",
+            "question_answers": [
+                {
+                    "question": "What did this child prodigy stand out as?",
+                    "answer": "best of the class"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What class did the first child prodigy belong to?",
+                    "score": 0.7366,
+                    "answers": "of the class|prep\tthe class|pobj"
+                },
+                {
+                    "question": "Who was the first child prodigy?",
+                    "score": 0.674,
+                    "answers": "This child prodigy|nsubj"
+                },
+                {
+                    "question": "What was the name of the child prodigy that united his parents?",
+                    "score": 0.6522,
+                    "answers": "At first united|prep\tfirst united|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Envy of companions and farmers His wisdom farmers the envy of his older companions who were suspicious of Anand.",
+            "question_answers": [
+                {
+                    "question": "What did as.com say about Anand's wisdom?",
+                    "answer": "Envy of companions and farmers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who were Envy of companions and farmers?",
+                    "score": 0.6229,
+                    "answers": "companions and farmers|pobj"
+                },
+                {
+                    "question": "What was the Envy of companions who were suspicious of Anand?",
+                    "score": 0.5675,
+                    "answers": "his older companions who were suspicious of Anand|pobj"
+                },
+                {
+                    "question": "What was the relationship between Anand and Envy?",
+                    "score": 0.5374,
+                    "answers": "of his older companions who were suspicious of Anand|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Even the teachers showed their discomfort, to the point that they prevented him from asking questions in class.",
+            "question_answers": [
+                {
+                    "question": "Who prevented a student from asking questions in class?",
+                    "answer": "teachers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the teachers do to stop the student from asking questions in class?",
+                    "score": 0.6443,
+                    "answers": "from asking questions in class|prep\tasking questions in class|pcomp"
+                },
+                {
+                    "question": "What was the name of the teacher who asked questions in class?",
+                    "score": 0.5782,
+                    "answers": "on 06/06/2020|prep\tthat|mark\t,|punct\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "So far did the reticence of companions and teachers come that they began to suffer bullying, but nothing stopped Anand, who graduated from Vastu sastra, a Hindu doctrine on the influence of the laws of nature.",
+            "question_answers": [
+                {
+                    "question": "What is Vastu sastra?",
+                    "answer": "a Hindu doctrine on the influence of the laws of nature"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Anand graduate from Vastu sastra?",
+                    "score": 0.8799,
+                    "answers": "nothing stopped Anand , who graduated from Vastu sastra , a Hindu doctrine on the influence of the laws of nature|conj"
+                },
+                {
+                    "question": "Where did Anand graduate from?",
+                    "score": 0.7843,
+                    "answers": "who graduated from Vastu sastra , a Hindu doctrine on the influence of the laws of nature|relcl"
+                },
+                {
+                    "question": "What did Anand do to suffer bullying?",
+                    "score": 0.7098,
+                    "answers": "to suffer bullying|xcomp"
+                },
+                {
+                    "question": "What did Anand's graduation from Vastu sastra do to stop bullying?",
+                    "score": 0.6927,
+                    "answers": "as.com reported on 06/06/2020 that So far did the reticence of companions and teachers come that they began to suffer bullying , but nothing stopped Anand , who graduated from Vastu sastra , a Hindu doctrine on the influence of the laws of nature|ROOT"
+                },
+                {
+                    "question": "What was Anand's relationship with Vastu sastra?",
+                    "score": 0.6557,
+                    "answers": "the|det\tand|cc\t,|punct\t,|punct\t,|punct\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "His knowledge made him foresee that “severe danger to the world,” but his predictions have continued.",
+            "question_answers": [
+                {
+                    "question": "When did as.com report that he saw a danger to the world?",
+                    "answer": "06/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Trump's predictions on the world?",
+                    "score": 0.6708,
+                    "answers": "his predictions|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Anand was right about this danger, but he has pointed out other things: regarding COVID-19, the young man said that from 29 May the number of cases per coronavirus would gradually drop and on 5 September 2020 indicates that the virus will be completely eradicated.",
+            "question_answers": [
+                {
+                    "question": "What did Anand say about COVID-19?",
+                    "answer": "the young man said that from 29 May the number of cases per coronavirus would gradually drop and on 5 September 2020 indicates that the virus will be completely eradicated"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Anand say about COVID-19?",
+                    "score": 0.7542,
+                    "answers": "as.com reported on 06/06/2020 that Anand was right about this danger , but he has pointed out other things|ccomp\ton 06/06/2020|prep\tthat|mark\tthat Anand was right about this danger|ccomp\tright about this danger|acomp\tabout this danger|prep\tthis|det\tthis danger|pobj\t,|punct\tbut|cc\the|nsubj\thas|aux\the has pointed out other things|conj\tout|prt\tother|amod\tother things|dobj\t:|punct\t,|punct\tthe|det\tyoung|amod\tthe young man|nsubj\tas.com reported on 06/06/2020 that Anand was right about this danger , but he has pointed out other things : regarding COVID-19 , the young man said that from 29 May the number of cases per coronavirus would gradually drop and on 5 September 2020 indicates that the virus will be completely eradicated|ROOT\tthat|mark\tfrom 29 May|prep\t29|nummod\tthe|det\twould|aux\tgradually|advmod\tand|cc\ton 5 September 2020|prep\t5|nummod\t2020|nummod\tthat|mark\tthe|det\twill|aux\tbe|auxpass\tcompletely|advmod\tthat the virus will be completely eradicated|ccomp"
+                },
+                {
+                    "question": "What is COVID-19?",
+                    "score": 0.6568,
+                    "answers": "regarding COVID-19|prep\tCOVID-19|pobj\tthe virus|nsubjpass"
+                },
+                {
+                    "question": "How many cases per coronavirus will be eradicated by 2020?",
+                    "score": 0.6196,
+                    "answers": "the number of cases per coronavirus|nsubj\tof cases per coronavirus|prep\tcases per coronavirus|pobj\tper coronavirus|prep\tcoronavirus|pobj\tthat from 29 May the number of cases per coronavirus would gradually drop and on 5 September 2020 indicates that the virus will be completely eradicated|ccomp\ton 5 September 2020 indicates that the virus will be completely eradicated|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Outbreak 'scandalous 'in December But the problem is that Anand assures that more viruses will come and again in months seen makes a prediction the least disturbing: December 20, 2020 will be the'next outbreak\", which will be'really scandalous'and will last until March 2021.",
+            "question_answers": [
+                {
+                    "question": "What did as.com call the Outbreak in December?",
+                    "answer": "'scandalous"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the next outbreak of viruses?",
+                    "score": 0.6844,
+                    "answers": "more viruses|nsubj\tthe'next|det"
+                },
+                {
+                    "question": "When will the next outbreak occur?",
+                    "score": 0.6554,
+                    "answers": "in December|prep\t2021|nummod"
+                },
+                {
+                    "question": "How many viruses will be there in December 2020?",
+                    "score": 0.6449,
+                    "answers": "that Anand assures that more viruses will come and again in months seen|ccomp\tthat more viruses will come and again in months seen|ccomp"
+                },
+                {
+                    "question": "What are the predictors of the next outbreak?",
+                    "score": 0.6415,
+                    "answers": "makes a prediction the least disturbing|dep"
+                },
+                {
+                    "question": "What will be the next outbreak in 2020?",
+                    "score": 0.6306,
+                    "answers": "2020|appos"
+                }
+            ]
+        },
+        {
+            "claim": "The astrologer explains that on that day the planets of Saturn and Jupiter will be “completely united”.",
+            "question_answers": [
+                {
+                    "question": "When did as.com report that Saturn and Jupiter would be \"completely united\"?",
+                    "answer": "06/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the date that the planets will be united?",
+                    "score": 0.7108,
+                    "answers": "on that day|prep"
+                },
+                {
+                    "question": "What is the relationship between Saturn and Jupiter?",
+                    "score": 0.6485,
+                    "answers": "as.com reported on 06/06/2020 that The astrologer explains that on that day the planets of Saturn and Jupiter will be “ completely united ”|ROOT\ton 06/06/2020|prep\tthat|mark\tThe|det\tThe astrologer|nsubj\tthat The astrologer explains that on that day the planets of Saturn and Jupiter will be “ completely united ”|ccomp\tthat|mark\tthat|det\tthe|det\tthe planets of Saturn and Jupiter|nsubj\tof Saturn and Jupiter|prep\tSaturn and Jupiter|pobj\tand|cc\twill|aux\tthat on that day the planets of Saturn and Jupiter will be “ completely united ”|ccomp\t“|punct\tcompletely|advmod\tcompletely united|acomp\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "The effects of this combination, Anand says, will cause “many diseases, destruction and possibly famine” among the population because it will be very difficult for farmers to harvest their produce.",
+            "question_answers": [
+                {
+                    "question": "Why did Anand say that the combination of the chemicals would cause many diseases, destruction and possibly famine?",
+                    "answer": "it will be very difficult for farmers to harvest their produce"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many diseases will it cause for farmers to harvest their produce?",
+                    "score": 0.7178,
+                    "answers": "as.com reported on 06/06/2020 that The effects of this combination , Anand says , will cause “ many diseases , destruction and possibly famine ” among the population because it will be very difficult for farmers to harvest their produce|ROOT\ton 06/06/2020|prep\tthat|mark\tThe|det\tthis|det\t,|punct\t, Anand says ,|parataxis\t,|punct\twill|aux\tthat The effects of this combination , Anand says , will cause “ many diseases , destruction and possibly famine ” among the population because it will be very difficult for farmers to harvest their produce|ccomp\t“|punct\tmany|amod\t,|punct\tand|cc\tpossibly|advmod\t”|punct\tthe|det\tbecause|mark\tit|nsubj\twill|aux\tbecause it will be very difficult for farmers to harvest their produce|advcl\tvery|advmod\tvery difficult|acomp\tfor|mark\tfarmers|nsubj\tto|aux\ttheir|poss\ttheir produce|dobj"
+                },
+                {
+                    "question": "What are the effects of the combination of diseases, destruction and possibly famine?",
+                    "score": 0.6643,
+                    "answers": "many diseases , destruction and possibly famine ”|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the effects of this combination?",
+                    "score": 0.6324,
+                    "answers": "destruction and possibly famine ”|conj"
+                },
+                {
+                    "question": "What is the effect of the combination?",
+                    "score": 0.6285,
+                    "answers": "this combination|pobj"
+                },
+                {
+                    "question": "What is the population of South Africa?",
+                    "score": 0.6014,
+                    "answers": "among the population|prep\tthe population|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "“No human being will be left alive if people don't take action,” alerts.",
+            "question_answers": [
+                {
+                    "question": "When did as.com report that \"No human being will be left alive if people don't take action?\"",
+                    "answer": "06/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many human being will be left alive if people take action?",
+                    "score": 0.7155,
+                    "answers": "No human being|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "Their predictions cause great alarm, but the truth is that somehow the coronavirus pandemic was right.",
+            "question_answers": [
+                {
+                    "question": "What pandemic was right?",
+                    "answer": "coronavirus pandemic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who predicted the coronavirus pandemic?",
+                    "score": 0.8875,
+                    "answers": "Their predictions|nsubj"
+                },
+                {
+                    "question": "What was the coronavirus pandemic predicted to cause?",
+                    "score": 0.8616,
+                    "answers": ",|punct\tbut|cc"
+                },
+                {
+                    "question": "What is the coronavirus pandemic?",
+                    "score": 0.8229,
+                    "answers": "that Their predictions cause great alarm , but the truth is that somehow the coronavirus pandemic was right|ccomp\tthe truth is that somehow the coronavirus pandemic was right|conj\tthat somehow the coronavirus pandemic was right|ccomp"
+                },
+                {
+                    "question": "What is the scientific evidence of the coronavirus pandemic?",
+                    "score": 0.8058,
+                    "answers": "Their|poss\tgreat|amod\tright|acomp"
+                },
+                {
+                    "question": "What is coronavirus?",
+                    "score": 0.799,
+                    "answers": "coronavirus|compound"
+                }
+            ]
+        },
+        {
+            "claim": "It will be necessary to see whether they are now taken into consideration by this young astrologer, named Abhigya Anand.",
+            "question_answers": [
+                {
+                    "question": "When did as.com report that Abhigya Anand would be taken into consideration by Abhigya Anand?",
+                    "answer": "06/06/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Abhigya Anand do to determine whether or not he was an astrologer?",
+                    "score": 0.7112,
+                    "answers": "It|nsubj\twhether|mark\tconsideration|pobj"
+                },
+                {
+                    "question": "What was Abhigya Anand's role in the development of astrology?",
+                    "score": 0.6989,
+                    "answers": "necessary|acomp"
+                },
+                {
+                    "question": "What is the source of evidence of Abhigya Anand's career?",
+                    "score": 0.6546,
+                    "answers": "they|nsubjpass\tare|auxpass"
+                },
+                {
+                    "question": "Who is Abhigya Anand?",
+                    "score": 0.6323,
+                    "answers": "as.com reported on 06/06/2020 that It will be necessary to see whether they are now taken into consideration by this young astrologer , named Abhigya Anand|ROOT\ton 06/06/2020|prep\tthat|mark\twill|aux\tthat It will be necessary to see whether they are now taken into consideration by this young astrologer , named Abhigya Anand|ccomp\tto|aux\tto see whether they are now taken into consideration by this young astrologer , named Abhigya Anand|xcomp\tnow|advmod\twhether they are now taken into consideration by this young astrologer , named Abhigya Anand|ccomp\tby this young astrologer , named Abhigya Anand|agent\tthis|det\tyoung|amod\tthis young astrologer , named Abhigya Anand|pobj\t,|punct\tnamed Abhigya Anand|acl\tAbhigya|compound"
+                }
+            ]
+        }
+    ]
+}

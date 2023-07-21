@@ -1,0 +1,415 @@
+{
+    "id": "Politica_39",
+    "claim": "Some 150 organisations and personalities have sent a letter to the leaders of the main institutions of the European Union (EU), such as the Council and the Commission, calling for the Community club not to return to austerity policies following the coronavirus pandemic. Signatories include philanthropist George Soros, the European Confederation of Trade Unions (ETUC), former French minister Nicolas Hulot, the NGO Finance Watch or the general secretaries of the Spanish trade unions Comisiones Obreras, Unai Sordo, and UGT, Pepe Álvarez. 'A return to normality, the reactivation of the austerity policies of the past, is simply not an option. We must rebuild better, so that all Member States will be stronger when they emerge from the Covid crisis than they were when they entered ', they point out. Beyond the recovery fund, during the pandemic the EU has suspended national government deficit and debt control rules and also relaxed state aid rules to allow governments to support their businesses. 'This year is presented before us as a unique opportunity to do things differently and start a new chapter in European policy making ', they say. The signatories express their 'deep concern 'that the current fiscal rules, in force before the pandemic, 'give priority to debt reduction and balanced budgets over much more important human, economic and environmental outcomes, such as creating well-paid green jobs, reducing inequality, lifting millions of people out of poverty and implementing much-needed green infrastructure projects '. 'We desperately need a comprehensive review of the current approach to fiscal policy in order to reshape our economies and address the unprecedented challenges facing the EU ', they say. Learning lessons from the 2008 crisisIn this way, they urge 'learning lessons 'from past 'political failures 'and stress that the EU fiscal framework 'transformed the 2008 global financial shock into a self-generated economic crisis and unnecessarily prolonged recession 'and also contributed to 'fuelling the flames of populism'. It is vital that the old fiscal framework is not implemented again before new economic governance and flexible principles are agreed to coordinate fiscal policies within the Union ', they say. 'Fiscal policy should be a facilitator, not the chain that holds economies back. Our fiscal framework must be aligned, not opposed, with the declared objectives of full employment and environmental protection set out in the Treaty on European Union ', add. They stress that an increased EU budget, like the one agreed by the EU last year to include the recovery fund, 'will not be enough to achieve these objectives 'and call for strengthening national fiscal policy. In any case, they recognize that the reforms they call for 'will not be simple and will not be completed overnight ', but they raise a number of principles for carrying them out. They call for Member States to be 'fiscally empowered and encouraged to flexibly achieve the objectives of full employment with decent jobs and a socially fair green transition, ensuring that no one is left behind '. They also propose a 'substantial and permanent 'community budget and a debt-bearing capacity to promote investments that support the Green Pact and a socially just transition. I'm sorry.",
+    "source": "www.elperiodico.com",
+    "date": "17/02/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Some 150 organisations and personalities have sent a letter to the leaders of the main institutions of the European Union (EU) , such as the Council and the Commission, the EU for they the European Union (EU) not to return the 2008 crisisIn policies following the coronavirus pandemic .",
+            "question_answers": [
+                {
+                    "question": "What institution did 150 organisations and personalities send a letter to the leaders of the main institutions of?",
+                    "answer": "European Union (EU)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many individuals have sent a letter to the leaders of the main institutions of the European Union (EU)?",
+                    "score": 0.7418,
+                    "answers": "Some 150 organisations and personalities|nsubj"
+                },
+                {
+                    "question": "What are the policies following the coronavirus pandemic?",
+                    "score": 0.6707,
+                    "answers": "the 2008 crisisIn policies following the coronavirus pandemic|dobj\tpolicies following the coronavirus pandemic|pobj"
+                },
+                {
+                    "question": "What is the name of the coronavirus pandemic?",
+                    "score": 0.6445,
+                    "answers": "coronavirus|compound"
+                },
+                {
+                    "question": "What is the relationship between the European Union (EU) and the coronavirus?",
+                    "score": 0.6213,
+                    "answers": "personalities|conj"
+                },
+                {
+                    "question": "What is the European Union ( EU)?",
+                    "score": 0.6097,
+                    "answers": "the Commission ,|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Signatories include philanthropist George the EU fiscal framework of the 2008 crisisIn minister Nicolas Hulot, the NGO Finance Watch or the general secretaries of the Spanish trade unions Comisiones Obreras, Unai Sordo, and UGT, Pepe Álvarez.",
+            "question_answers": [
+                {
+                    "question": "What are the signatories of the elperiodico.com report?",
+                    "answer": "the EU fiscal framework of the 2008 crisisIn minister Nicolas Hulot, the NGO Finance Watch or the general secretaries of the Spanish trade unions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who are the signatories to the EU fiscal framework of the 2008 crisis?",
+                    "score": 0.7372,
+                    "answers": "the NGO Finance Watch or the general secretaries of the Spanish trade unions Comisiones Obreras , Unai Sordo , and UGT , Pepe Álvarez|conj\tthe general secretaries of the Spanish trade unions Comisiones Obreras , Unai Sordo , and UGT , Pepe Álvarez|conj"
+                },
+                {
+                    "question": "What is George the EU fiscal framework?",
+                    "score": 0.7143,
+                    "answers": "philanthropist George the EU fiscal framework of the 2008 crisisIn minister Nicolas Hulot , the NGO Finance Watch or the general secretaries of the Spanish trade unions Comisiones Obreras , Unai Sordo , and UGT , Pepe Álvarez|dobj"
+                },
+                {
+                    "question": "What is George's fiscal framework for the 2008 crisis?",
+                    "score": 0.696,
+                    "answers": "on 17/02/2021|prep\tthe 2008 crisisIn|pobj"
+                },
+                {
+                    "question": "What was the relationship between Hulot and George in the 2008 crisis?",
+                    "score": 0.6469,
+                    "answers": "minister|compound"
+                },
+                {
+                    "question": "What is Comisiones Obreras?",
+                    "score": 0.6243,
+                    "answers": "Comisiones|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the EU fiscal framework , the reactivation of the austerity policies of the past, is simply not an option.",
+            "question_answers": [
+                {
+                    "question": "What did www.elperiodico.com report that the reactivation of austerity policies of the past was not an option?",
+                    "answer": "the EU fiscal framework"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the EU fiscal framework?",
+                    "score": 0.8557,
+                    "answers": "www.elperiodico.com|nsubj\twww.elperiodico.com reported on 17/02/2021 that the EU fiscal framework , the reactivation of the austerity policies of the past , is simply not an option|ROOT\ton 17/02/2021|prep\tthat|mark\tthe|det\tfiscal|amod\tthe EU fiscal framework , the reactivation of the austerity policies of the past ,|nsubj\t,|punct\tthe|det\tthe reactivation of the austerity policies of the past|appos\tof the austerity policies of the past|prep\tthe|det\tausterity|compound\tof the past|prep\tthe|det\tthe past|pobj\t,|punct\tthat the EU fiscal framework , the reactivation of the austerity policies of the past , is simply not an option|ccomp\tsimply|advmod\tnot|neg\tan|det\tan option|attr"
+                }
+            ]
+        },
+        {
+            "claim": "We must rebuild better, so that all Member States the EU they when all Member States emerge from the Covid crisis than all Member States were when all Member States entered ', Signatories the EU out.",
+            "question_answers": [
+                {
+                    "question": "When did all Member States emerge from the Covid crisis?",
+                    "answer": "when all Member States entered"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the EU and the Covid crisis?",
+                    "score": 0.7308,
+                    "answers": "that|mark\tWe|nsubj\tbetter|advmod\t,|punct\tso|mark\tthat|mark\tall|det\tthe|det\tall|det\tthe|det\tthan|mark\tall|det\tall|det\t'|punct\t,|punct\tthe|det\tthe EU out|appos\tout|prt"
+                },
+                {
+                    "question": "What is the Covid crisis?",
+                    "score": 0.7279,
+                    "answers": "www.elperiodico.com|nsubj\twww.elperiodico.com reported on 17/02/2021 that We must rebuild better , so that all Member States the EU they when all Member States emerge from the Covid crisis than all Member States were when all Member States entered ' , Signatories the EU out|ROOT\ton 17/02/2021|prep\tmust|aux\tthat We must rebuild better , so that all Member States the EU they when all Member States emerge from the Covid crisis than all Member States were when all Member States entered|ccomp\tMember|compound\tall Member States the EU they when all Member States emerge from the Covid crisis|nsubj\tthey when all Member States emerge from the Covid crisis|appos\twhen|advmod\tMember|compound\tall Member States|nsubj\twhen all Member States emerge from the Covid crisis|advcl\tfrom the Covid crisis|prep\tCovid|amod\tthe Covid crisis|pobj\tMember|compound\tall Member States|nsubj\tso that all Member States the EU they when all Member States emerge from the Covid crisis than all Member States were when all Member States entered|advcl\twhen|advmod\tMember|compound\tall Member States|nsubj\twhen all Member States entered|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Beyond the recovery fund, during the coronavirus pandemic the declared objectives of full employment and environmental protection set out in the Treaty on European Union governments to support businesses.",
+            "question_answers": [
+                {
+                    "question": "In what treaty were the objectives of full employment and environmental protection set out during the coronavirus pandemic?",
+                    "answer": "the Treaty on European Union governments to support businesses"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the objectives of the treaty on European Union governments to support businesses?",
+                    "score": 0.8271,
+                    "answers": "Beyond the recovery fund|prep\tthe recovery fund|pobj\tfull employment and environmental protection|pobj\tto support businesses|acl"
+                },
+                {
+                    "question": "What is the Treaty on European Union governments?",
+                    "score": 0.7318,
+                    "answers": "in the Treaty on European Union governments to support businesses|prep\tthe Treaty on European Union governments to support businesses|pobj\tEuropean|compound\tEuropean Union|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'This year is presented before the EU as a unique opportunity to do things differently and start a new chapter the declared objectives of full employment and environmental protection set out in the Treaty on European Union making ', Signatories say.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the treaty that sets out the objectives of full employment and environmental protection?",
+                    "answer": "Treaty on European Union making"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the objectives of full employment and environmental protection set out in the Treaty on European Union?",
+                    "score": 0.7046,
+                    "answers": "www.elperiodico.com|nsubj\ton 17/02/2021|prep\tThis year is presented before the EU as a unique opportunity to do things differently and start a new chapter the declared objectives of full employment and environmental protection set out in the Treaty on European Union making|ccomp\tstart a new chapter the declared objectives of full employment and environmental protection set out in the Treaty on European Union making|conj\ta new chapter|dobj\tfull employment and environmental protection|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Signatories express 'deep concern they that the current the reforms they call for the coronavirus pandemic , 'give priority to debt reduction and balanced they over much more important human, economic and environmental outcomes, such as creating well-paid green jobs, reducing inequality, lifting millions of people out of poverty and implementing much-needed green infrastructure projects '.",
+            "question_answers": [
+                {
+                    "question": "What type of pandemic are the Signatories concerned about?",
+                    "answer": "coronavirus pandemic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What reforms did signatories call for the coronavirus pandemic?",
+                    "score": 0.8493,
+                    "answers": "that|mark\tSignatories|nsubj\t'|punct\tthey|acl\tthat|mark\tthe|det\tthe|det\tthey|nsubj\tthey call|relcl\tthe|det\t,|punct\t'|punct\tand|cc\tthey|dobj\tmuch|advmod\t,|punct\tand|cc\t,|punct\tsuch|amod\twell|advmod\t-|punct\t,|punct\treducing inequality , lifting millions of people out of poverty and implementing much - needed green infrastructure projects|conj\tinequality|dobj\t,|punct\tpeople|pobj\tpoverty|pobj\tand|cc\tmuch|advmod\t-|punct\t'|punct"
+                },
+                {
+                    "question": "What did signatories say about the coronavirus pandemic?",
+                    "score": 0.807,
+                    "answers": "debt|compound"
+                },
+                {
+                    "question": "How many people were in poverty before the coronavirus pandemic?",
+                    "score": 0.7714,
+                    "answers": "out of poverty|prep"
+                },
+                {
+                    "question": "What is the purpose of creating well paid green jobs?",
+                    "score": 0.7182,
+                    "answers": "much more important human , economic and environmental outcomes , such as creating well - paid green jobs , reducing inequality , lifting millions of people out of poverty and implementing much - needed green infrastructure projects|pobj\tsuch as creating well - paid green jobs , reducing inequality , lifting millions of people out of poverty and implementing much - needed green infrastructure projects|prep\tcreating well - paid green jobs , reducing inequality , lifting millions of people out of poverty and implementing much - needed green infrastructure projects|pcomp"
+                },
+                {
+                    "question": "What is the coronavirus?",
+                    "score": 0.6326,
+                    "answers": "for the coronavirus pandemic|prep\tcoronavirus|compound\tthe coronavirus pandemic|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We desperately need a comprehensive review of the current approach to fiscal policy in order to reshape our economies and address the unprecedented challenges facing the EU ', they say.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of a comprehensive review of the current approach to fiscal policy?",
+                    "answer": "address the unprecedented challenges facing the EU"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current approach to fiscal policy for the EU?",
+                    "score": 0.7713,
+                    "answers": "the EU|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Learning lessons from the 2008 crisisIn this way, they urge 'learning lessons 'from past 'political failures 'and stress that the EU fiscal framework 'transformed the 2008 global financial shock into a self-generated economic crisis and unnecessarily prolonged recession 'and also contributed to 'fuelling the flames of populism'.",
+            "question_answers": [
+                {
+                    "question": "What did www.elperiodico.com urge learning lessons from?",
+                    "answer": "past 'political failures"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the EU fiscal framework say about learning from past political failures?",
+                    "score": 0.8097,
+                    "answers": ", they urge ' learning lessons ' from past ' political failures ' and stress that the EU fiscal framework ' transformed the 2008 global financial shock into a self - generated economic crisis and unnecessarily prolonged recession ' and also contributed to ' fuelling the flames of populism '|ROOT"
+                },
+                {
+                    "question": "What was the EU's fiscal framework during the 2008 crisis?",
+                    "score": 0.7786,
+                    "answers": "from|prep"
+                },
+                {
+                    "question": "What was the impact of the 2008 crisis on the economy?",
+                    "score": 0.7272,
+                    "answers": "the 2008 crisisIn this way|dobj\tfinancial|amod\tthe 2008 global financial shock|dobj\tinto a self - generated economic crisis and unnecessarily prolonged recession|prep\teconomic|amod\ta self - generated economic crisis and unnecessarily prolonged recession|pobj\tunnecessarily prolonged|amod\tunnecessarily prolonged recession|conj\talso contributed to ' fuelling the flames of populism|conj"
+                },
+                {
+                    "question": "What is the EU fiscal framework?",
+                    "score": 0.7114,
+                    "answers": "stress that the EU fiscal framework ' transformed the 2008 global financial shock into a self - generated economic crisis and unnecessarily prolonged recession ' and also contributed to ' fuelling the flames of populism '|conj\tfiscal|amod\tthe EU fiscal framework|nsubj\ta|det\tself|npadvmod\tself - generated|amod\tthe flames of populism|dobj"
+                },
+                {
+                    "question": "What is the European Union's fiscal framework?",
+                    "score": 0.7113,
+                    "answers": "that|mark\tthis|det\tthey|nsubj\tthat|mark\tof populism|prep\tpopulism|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It is vital that the old fiscal framework is not implemented again before new economic governance and flexible principles are agreed to coordinate fiscal policies within the Union ', they say.",
+            "question_answers": [
+                {
+                    "question": "What did Elperiodico.com report on 17/02/2021?",
+                    "answer": "new economic governance and flexible principles are agreed to coordinate fiscal policies within the Union"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What principles are agreed to coordinate fiscal policies within the Union?",
+                    "score": 0.8892,
+                    "answers": "flexible|amod"
+                },
+                {
+                    "question": "What is the current fiscal framework for the Union?",
+                    "score": 0.8239,
+                    "answers": "not|neg\tagain|advmod"
+                },
+                {
+                    "question": "What is the importance of the new fiscal framework being implemented again?",
+                    "score": 0.8164,
+                    "answers": "vital|acomp"
+                },
+                {
+                    "question": "What is the purpose of flexible fiscal framework?",
+                    "score": 0.8159,
+                    "answers": "flexible principles|conj"
+                },
+                {
+                    "question": "What is the source of evidence of the fiscal framework of the Union?",
+                    "score": 0.7989,
+                    "answers": "economic|amod\tfiscal policies|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Fiscal policy should be a facilitator, not the chain that holds economies back.",
+            "question_answers": [
+                {
+                    "question": "When did www.elperiodico.com report that 'Fiscal policy should be a facilitator, not the chain that holds economies back'?",
+                    "answer": "17/02/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is fiscal policy?",
+                    "score": 0.8707,
+                    "answers": "Fiscal policy|nsubj"
+                },
+                {
+                    "question": "What is the relationship between fiscal policy and economic growth?",
+                    "score": 0.8567,
+                    "answers": "www.elperiodico.com|nsubj"
+                },
+                {
+                    "question": "What is the chain that holds economies back?",
+                    "score": 0.8435,
+                    "answers": "a facilitator , not the chain that holds economies back|attr\tthe chain that holds economies back|appos\tthat holds economies back|relcl\tback|prt"
+                }
+            ]
+        },
+        {
+            "claim": "Our fiscal framework must be aligned, not opposed, with the declared objectives of full employment and environmental protection set out in the Treaty on European Union ', add.",
+            "question_answers": [
+                {
+                    "question": "What document stated that our fiscal framework must be aligned with the declared objectives of full employment and environmental protection?",
+                    "answer": "the Treaty on European Union"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the objectives of the Treaty on European Union?",
+                    "score": 0.8026,
+                    "answers": "www.elperiodico.com|nsubj\twww.elperiodico.com reported on 17/02/2021 that Our fiscal framework must be aligned , not opposed , with the declared objectives of full employment and environmental protection set out in the Treaty on European Union ' , add|ROOT\ton 17/02/2021|prep\tthat|mark\tOur|poss\tfiscal|amod\tOur fiscal framework|nsubjpass\tmust|aux\tbe|auxpass\tthat Our fiscal framework must be aligned , not opposed , with the declared objectives of full employment and environmental protection set out in the Treaty on European Union|ccomp\t,|punct\tnot|neg\topposed|dep\t,|punct\twith the declared objectives of full employment and environmental protection set out in the Treaty on European Union|prep\tthe|det\tdeclared|amod\tthe declared objectives of full employment and environmental protection set out in the Treaty on European Union|pobj\tof full employment and environmental protection|prep\tfull|amod\tfull employment and environmental protection|pobj\tand|cc\tenvironmental|amod\tenvironmental protection|conj\tset out in the Treaty on European Union|acl\tout|prt\tin the Treaty on European Union|prep\tthe|det\tEuropean|compound\t'|punct\t,|punct\tadd|dep"
+                }
+            ]
+        },
+        {
+            "claim": "They stress that an increased EU budget, like the one agreed by the EU last year to include the recovery fund, 'will not be enough to achieve these objectives 'and call for strengthening national fiscal policy.",
+            "question_answers": [
+                {
+                    "question": "What did they say that an increased EU budget would do?",
+                    "answer": "not be enough to achieve these objectives"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the EU budget?",
+                    "score": 0.7161,
+                    "answers": "www.elperiodico.com|nsubj\twww.elperiodico.com reported on 17/02/2021 that They stress that an increased EU budget , like the one agreed by the EU last year to include the recovery fund , ' will not be enough to achieve these objectives ' and call for strengthening national fiscal policy|ROOT\ton 17/02/2021|prep\tthat|mark\tThey|nsubj\tthat They stress that an increased EU budget , like the one agreed by the EU last year to include the recovery fund , ' will not be enough to achieve these objectives '|ccomp\tthat|mark\tan|det\tincreased|amod\tan increased EU budget , like the one agreed by the EU last year to include the recovery fund ,|nsubj\t,|punct\tlike the one agreed by the EU last year to include the recovery fund|prep\tthe|det\tthe one agreed by the EU last year to include the recovery fund|pobj\tagreed by the EU last year to include the recovery fund|acl\tby the EU|agent\tthe|det\tthe EU|pobj\tlast|amod\tto|aux\tto include the recovery fund|advcl\tthe|det\trecovery|compound\tthe recovery fund|dobj\t,|punct\t'|punct\twill|aux\tnot|neg\tthat an increased EU budget , like the one agreed by the EU last year to include the recovery fund , ' will not be enough to achieve these objectives '|ccomp\tenough to achieve these objectives|acomp\tto|aux\tto achieve these objectives|xcomp\tthese|det\tthese objectives|dobj\t'|punct\tand|cc\tcall for strengthening national fiscal policy|conj\tfor strengthening national fiscal policy|prep\tstrengthening national fiscal policy|pcomp\tnational|amod\tfiscal|amod\tnational fiscal policy|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In any case, they recognize that the reforms they call for 'will not be simple and will not be completed overnight ', but they raise a number of principles for carrying them out.",
+            "question_answers": [
+                {
+                    "question": "How long will it take for the reforms to be completed?",
+                    "answer": "overnight"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the principles for carrying out reforms?",
+                    "score": 0.7414,
+                    "answers": "a number of principles|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "They call for Member States to be 'fiscally empowered and encouraged to flexibly achieve the objectives of full employment with decent jobs and a socially fair green transition, ensuring that no one is left behind '.",
+            "question_answers": [
+                {
+                    "question": "What is one of the goals of Elperiodico's call for Member States to do?",
+                    "answer": "ensuring that no one is left behind"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the objectives of the Member States in regards to employment?",
+                    "score": 0.7424,
+                    "answers": "www.elperiodico.com reported on 17/02/2021 that They call for Member States to be ' fiscally empowered and encouraged to flexibly achieve the objectives of full employment with decent jobs and a socially fair green transition , ensuring that no one is left behind '|ROOT"
+                },
+                {
+                    "question": "What is the definition of a social green transition?",
+                    "score": 0.6712,
+                    "answers": "full|amod\tsocially|advmod"
+                },
+                {
+                    "question": "What is the relationship between Member States and the green transition?",
+                    "score": 0.6622,
+                    "answers": "Member States|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "They also propose a 'substantial and permanent 'community budget and a debt-bearing capacity to promote investments that support the Green Pact and a socially just transition.",
+            "question_answers": [
+                {
+                    "question": "What type of budget did Elperiodico propose?",
+                    "answer": "'substantial and permanent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the debt-bearing capacity to promote investments that support the Green Pact?",
+                    "score": 0.7178,
+                    "answers": "debt - bearing|amod"
+                },
+                {
+                    "question": "What is the Green Pact?",
+                    "score": 0.668,
+                    "answers": "www.elperiodico.com reported on 17/02/2021 that They also propose a ' substantial and permanent ' community budget and a debt - bearing capacity to promote investments that support the Green Pact and a socially just transition|ROOT\ton 17/02/2021|prep\tthat|mark\tThey|nsubj\talso|advmod\tthat They also propose a ' substantial and permanent ' community budget and a debt - bearing capacity to promote investments that support the Green Pact and a socially just transition|ccomp\ta|det\t'|punct\t' substantial and permanent '|amod\tand|cc\tpermanent '|conj\t'|punct\tand|cc\ta|det\t-|punct\ta debt - bearing capacity to promote investments that support the Green Pact and a socially just transition|conj\tto|aux\tto promote investments that support the Green Pact and a socially just transition|acl\tthat|nsubj\tthe|det\tGreen|compound\tand|cc\ta|det\ta socially just transition|conj"
+                },
+                {
+                    "question": "What is the relationship between the Green Pact and social transition?",
+                    "score": 0.6288,
+                    "answers": "socially|advmod"
+                },
+                {
+                    "question": "What is the social just transition?",
+                    "score": 0.6071,
+                    "answers": "socially just|amod"
+                },
+                {
+                    "question": "What is the purpose of the community budget?",
+                    "score": 0.5992,
+                    "answers": "community|compound"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "id": "Sport_298",
+    "claim": "The times of the era of Ignacio Ambriz as technical director of the Club America were over, and although his record is positive in terms of numbers, his style never finished convincing a demanding hobby and the results were showing how gray Coapa's team was being on the court. Ricardo Peláez, president of America, has sought the most suitable candidate to be the new technical director, but in his view, no one actually had the profile he was looking for because there was neither a true bond nor the identity that such a club deserves. But finally, he found a new DT of which Peláez assures is the best choice: 'It is a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many ', declared the president of America for El. 'It is a privilege that on this 100th anniversary of the team, someone who is really soaked with the philosophy and ideology of our team finally arrives, and I am sure that with it we will fly very high.. Welcome, Guardiola!\". This reporter was able to interview Mr. Guardiola, who told us how he reached this agreement:'The net, I called Mr. Pelaez when I heard that Ambriz was discharged. I told him I could make us champions so they'd hate us even more. I take the commitment with passion and a lot of pride, because I am blue cream to the querreque!\". This was the expression of Don Enrique Romero, better known as 'El Guardiola ', originally from the Pensil colony and located in Tacuba, parishioner of the cantina La Imperial.'That güey of Peláez realized that I am the one who most fits the sports quinielas organized by the Higinio. You saw that when America wins, I celebrate all week, and when she loses, I cry like I've been out of work and sucked all month. When we hit a goal, I go out on the street and yell at him, and when they score us, I break everything in front of him even if he doesn't have to pay for it. But it's because I'm passionate about the team and that's what we need! Peláez knows and I'm not going to let him down!\". We very much wish the 'Guardiola 'Romero success, and invite the other round. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "19/09/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The times of the era of Ignacio Ambriz as technical director of the Club America were over, and although record is positive in terms of numbers, style never finished convincing a demanding hobby and the results were showing how gray the Club America was being on the court.",
+            "question_answers": [
+                {
+                    "question": "Who was the technical director of the Club America?",
+                    "answer": "Ignacio Ambriz"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Ambriz become technical director of the Club America?",
+                    "score": 0.7624,
+                    "answers": "the era of Ignacio Ambriz as technical director of the Club America|pobj"
+                },
+                {
+                    "question": "What did Ambriz do to help the Club America?",
+                    "score": 0.6836,
+                    "answers": "of numbers|prep\tconvincing a demanding hobby|xcomp\thow gray the Club America was being on the court|ccomp"
+                },
+                {
+                    "question": "What was the relationship between Ignacio Ambriz as technical director of Club America and Club America?",
+                    "score": 0.6424,
+                    "answers": "numbers|pobj"
+                },
+                {
+                    "question": "What was the style of the Club America in 2016?",
+                    "score": 0.631,
+                    "answers": "style|nsubj"
+                },
+                {
+                    "question": "What is the evidence of how gray the Club America was being on the court?",
+                    "score": 0.6134,
+                    "answers": "the results were showing how gray the Club America was being on the court|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Ricardo Peláez, president of America , has sought the most suitable candidate to be the new technical director, but in view, no one actually had the profile Ricardo Peláez, president of America was looking for because there was neither a true bond nor the identity that such a club deserves.",
+            "question_answers": [
+                {
+                    "question": "Who was Ricardo Pelaez?",
+                    "answer": "president of America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the definition of a technical director?",
+                    "score": 0.7244,
+                    "answers": "technical|amod"
+                },
+                {
+                    "question": "What is the relationship between Ricardo Peláez and the club he is president of America?",
+                    "score": 0.7131,
+                    "answers": "neither a true bond nor the identity that such a club deserves|attr\tsuch a club|nsubj\tthat such a club deserves|relcl"
+                },
+                {
+                    "question": "Who is Ricardo Peláez?",
+                    "score": 0.6746,
+                    "answers": "the profile Ricardo Peláez , president of America was looking for|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "But finally, Ricardo Peláez, president of America found a new DT of which Ricardo Peláez, president of America assures is the best choice: 'It is a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many ', declared Ricardo Peláez, president of America .",
+            "question_answers": [
+                {
+                    "question": "What did Ricardo Pelaez say about the new DT?",
+                    "answer": "'It is a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to feel the blue cream color is the best choice?",
+                    "score": 0.6808,
+                    "answers": "who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many|relcl"
+                },
+                {
+                    "question": "What is the best choice for the blue cream color?",
+                    "score": 0.659,
+                    "answers": "the blue cream colors|dobj"
+                },
+                {
+                    "question": "What color is Ricardo Peláez?",
+                    "score": 0.6577,
+                    "answers": "blue|amod\tcream|compound"
+                },
+                {
+                    "question": "What is the name of the new DT that Ricardo Peláez found?",
+                    "score": 0.6419,
+                    "answers": "www.eldizque.com reported on 19/09/2016 that But finally , Ricardo Peláez , president of America found a new DT of which Ricardo Peláez , president of America assures is the best choice|ccomp\ton 19/09/2016|prep\tthat But finally , Ricardo Peláez , president of America found a new DT of which Ricardo Peláez , president of America assures is the best choice|ccomp\tdoes not atole like many|dep"
+                },
+                {
+                    "question": "What is the relationship between Ricardo Peláez and the president of America?",
+                    "score": 0.6049,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\tBut|cc\tfinally|advmod\t,|punct\tRicardo|compound\tRicardo Peláez , president of America|nsubj\t,|punct\tpresident of America|appos\ta|det\tnew|amod\twhich|pobj\tRicardo|compound\tRicardo Peláez , president of America|nsubj\t,|punct\tpresident of America|appos\tthe|det\tbest|amod\tthe best choice|attr\t:|punct\t'|punct\tIt|nsubj\ta|det\twho|nsubj\tthe|det\t,|punct\twho|nsubj\tthe|det\tand|cc\twho|nsubj\this|poss\t,|punct\tdoes|aux\tnot|neg\tmany|pobj\t'|punct\t,|punct\tRicardo|compound\tRicardo Peláez , president of America|nsubj\t,|punct\tpresident of America|appos"
+                }
+            ]
+        },
+        {
+            "claim": "'It is a privilege that on this 100th anniversary of the Club America , someone who is really soaked with the philosophy and ideology of our team finally arrives, and Ricardo Peláez, president of America am sure that with someone who is really soaked with the philosophy and ideology of our team the Club America will fly very high.. Welcome, a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many !\".",
+            "question_answers": [
+                {
+                    "question": "When did Ricardo Pelaez, president of the Club America, say 'It is a privilege that someone who is really soaked with the philosophy and ideology of our team finally arrives'?",
+                    "answer": "on this 100th anniversary of the Club America"
+                },
+                {
+                    "question": "What does Ricardo Pelaez do?",
+                    "answer": "does not atole like many"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be soaked with the philosophy and ideology of Club America?",
+                    "score": 0.761,
+                    "answers": "that ' It is a privilege that on this 100th anniversary of the Club America , someone who is really soaked with the philosophy and ideology of our team finally arrives , and Ricardo Peláez , president of America am sure that with someone who is really soaked with the philosophy and ideology of our team the Club America will fly very high|ccomp\ta|det\ta|det"
+                },
+                {
+                    "question": "What is the Club America's philosophy and ideology?",
+                    "score": 0.7039,
+                    "answers": "www.eldizque.com reported on 19/09/2016 that ' It is a privilege that on this 100th anniversary of the Club America , someone who is really soaked with the philosophy and ideology of our team finally arrives , and Ricardo Peláez , president of America am sure that with someone who is really soaked with the philosophy and ideology of our team the Club America will fly very high ..|ROOT\tClub|compound\tthat on this 100th anniversary of the Club America , someone who is really soaked with the philosophy and ideology of our team finally arrives ,|ccomp\tRicardo Peláez , president of America am sure that with someone who is really soaked with the philosophy and ideology of our team the Club America will fly very high|conj\tClub|compound"
+                },
+                {
+                    "question": "What is the history of Club America?",
+                    "score": 0.6818,
+                    "answers": "a privilege|attr"
+                },
+                {
+                    "question": "What is the color of the Club America team?",
+                    "score": 0.6813,
+                    "answers": "blue|amod"
+                },
+                {
+                    "question": "Who is the president of America?",
+                    "score": 0.6507,
+                    "answers": "president of America|appos"
+                }
+            ]
+        },
+        {
+            "claim": "This reporter was able to interview a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many net, a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many called Ricardo Peláez, president of America when a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many heard that Ignacio Ambriz was discharged.",
+            "question_answers": [
+                {
+                    "question": "Who was discharged after feeling the blue cream colors, feeling the team, and running blood through his veins?",
+                    "answer": "Ignacio Ambriz"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to feel the blue cream color?",
+                    "score": 0.7138,
+                    "answers": "who feels the team and who runs blood through his veins|conj\twho feels the team and who runs blood through his veins|conj\twho feels the team and who runs blood through his veins|conj"
+                },
+                {
+                    "question": "What was the name of the man who felt the blue cream colors?",
+                    "score": 0.6667,
+                    "answers": "to interview a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many net , a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many called Ricardo Peláez , president of America when a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many heard that Ignacio Ambriz was discharged|xcomp\ta man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many net , a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many called Ricardo Peláez , president of America when a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many heard that Ignacio Ambriz was discharged|dobj\twho feels the blue cream colors , who feels the team and who runs blood through his veins|relcl\twho feels the blue cream colors , who feels the team and who runs blood through his veins|relcl\twho feels the blue cream colors , who feels the team and who runs blood through his veins|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many told Ricardo Peláez, president of America a man who feels the blue cream colors, who feels the team and who runs blood through his veins, does not atole like many could make the Club America champions so they'd hate the Club America even more.",
+            "question_answers": [
+                {
+                    "question": "What did Pelaez think about the Club America champions?",
+                    "answer": "they'd hate the Club America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to feel the blue cream color?",
+                    "score": 0.7338,
+                    "answers": "www.eldizque.com reported on 19/09/2016 that a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many told Ricardo Peláez , president of America a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many could make the Club America champions so they 'd hate the Club America even more|ROOT\tthat|mark\ta|det\ta man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many|nsubj\twho|nsubj\tcream|compound\twho|nsubj\tthe team|dobj\twho|nsubj\twho runs blood through his veins , does not atole like many|conj\tblood|dobj\tthrough his veins|prep\this|poss\this veins|pobj\tdoes|aux\tnot|neg\tlike many|prep\tmany|pobj\tthat a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many told Ricardo Peláez , president of America a man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many could make the Club America champions so they 'd hate the Club America even more|ccomp\tRicardo|compound\tpresident of America|appos\tof America|prep\ta|det\ta man who feels the blue cream colors , who feels the team and who runs blood through his veins ,|nsubj\twho|nsubj\tcream|compound\twho|nsubj\twho feels the team and who runs blood through his veins|conj\tthe team|dobj\twho|nsubj\twho runs blood through his veins|conj\tblood|dobj\tthrough his veins|prep\this|poss\this veins|pobj\tdoes|aux\tnot|neg\ta man who feels the blue cream colors , who feels the team and who runs blood through his veins , does not atole like many could make the Club America champions so they 'd hate the Club America even more|ccomp\tlike many|prep\tmany|pobj\tcould|aux\tlike many could make the Club America champions so they 'd hate the Club America even more|advcl\tthey|nsubj\t'd|aux\tso they 'd hate the Club America even more|advcl\teven more|advmod"
+                },
+                {
+                    "question": "What is the color blue cream?",
+                    "score": 0.6929,
+                    "answers": "the blue cream colors|dobj\tthe blue cream colors|dobj"
+                },
+                {
+                    "question": "What is the relationship between the color blue cream and Club America?",
+                    "score": 0.6783,
+                    "answers": "the|det\t,|punct\tthe|det\tand|cc\t,|punct\t,|punct\tthe|det\t,|punct\tthe|det\tand|cc\t,|punct\tthe|det\tClub|compound\tClub America|compound\tso|mark\tthe|det\tClub|compound\teven|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "I take the commitment with passion and a lot of pride, because I am blue cream to the querreque!\".",
+            "question_answers": [
+                {
+                    "question": "What color is my querreque?",
+                    "answer": "blue cream"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between passion and pride?",
+                    "score": 0.7025,
+                    "answers": "with passion and a lot of pride|prep"
+                }
+            ]
+        },
+        {
+            "claim": "This was the expression of Don Enrique Romero, better known as 'El Guardiola ', originally from the Pensil colony and located in Tacuba, parishioner of the cantina La Imperial.",
+            "question_answers": [
+                {
+                    "question": "What was Don Enrique Romero better known as?",
+                    "answer": "'El Guardiola"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was El Guardiola originally from?",
+                    "score": 0.7587,
+                    "answers": "the expression of Don Enrique Romero , better known as ' El Guardiola ' , originally from the Pensil colony and located in Tacuba , parishioner of the cantina La Imperial|attr\tlocated in Tacuba , parishioner of the cantina La Imperial|conj"
+                },
+                {
+                    "question": "Where was Don Enrique Romero from?",
+                    "score": 0.7585,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 19/09/2016 that This was the expression of Don Enrique Romero , better known as ' El Guardiola ' , originally from the Pensil colony and located in Tacuba , parishioner of the cantina La Imperial|ROOT\ton 19/09/2016|prep\tthat|mark\tThis|nsubj\tthe|det\tof Don Enrique Romero , better known as ' El Guardiola ' , originally from the Pensil colony and located in Tacuba , parishioner of the cantina La Imperial|prep\tDon|compound\tEnrique|compound\t,|punct\tbetter|advmod\t'|punct\tEl|compound\t'|punct\t,|punct\toriginally|advmod\toriginally from the Pensil colony and located in Tacuba , parishioner of the cantina La Imperial|relcl\tthe|det\tthe Pensil colony|pobj\tand|cc\tin Tacuba , parishioner of the cantina La Imperial|prep\tTacuba , parishioner of the cantina La Imperial|pobj\t,|punct\tparishioner of the cantina La Imperial|appos\tof the cantina La Imperial|prep\tthe|det\tLa|compound"
+                },
+                {
+                    "question": "Where is the cantina La Imperial located?",
+                    "score": 0.6441,
+                    "answers": "the cantina La Imperial|pobj"
+                },
+                {
+                    "question": "What is El Guardiola?",
+                    "score": 0.5909,
+                    "answers": "better known as ' El Guardiola|acl\tas ' El Guardiola|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'That güey of Peláez realized that I am the one who most fits the sports quinielas organized by the Higinio.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'That güey of Pelaez realized that I was the one who most fits the sports quinielas organized by the Higinio?",
+                    "answer": "19/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who organized the sports quinielas organized by theHiginio?",
+                    "score": 0.7213,
+                    "answers": "that I am the one who most fits the sports quinielas organized by the Higinio|ccomp\tthe one who most fits the sports quinielas organized by the Higinio|attr\twho most fits the sports quinielas organized by the Higinio|relcl"
+                },
+                {
+                    "question": "Who organized the quinielas organized by the Higinio?",
+                    "score": 0.7052,
+                    "answers": "on 19/09/2016|prep\torganized by the Higinio|acl\tby the Higinio|agent"
+                }
+            ]
+        },
+        {
+            "claim": "You saw that when America wins, I celebrate all week, and when she loses, I cry like I've been out of work and sucked all month.",
+            "question_answers": [
+                {
+                    "question": "What did the site say about America when she loses?",
+                    "answer": "cry like I've been out of work and sucked all month"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between winning and losing?",
+                    "score": 0.6851,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 19/09/2016 that You saw that when America wins , I celebrate all week , and when she loses , I cry like I 've been out of work and sucked all month|ROOT\ton 19/09/2016|prep\tthat|mark\tYou|nsubj\tthat You saw that when America wins , I celebrate all week , and when she loses , I cry like I 've been out of work and sucked all month|ccomp\tthat|mark\twhen|advmod\twhen America wins|advcl\t,|punct\tI|nsubj\tthat when America wins , I celebrate all week , and when she loses , I cry like I 've been out of work and sucked all month|ccomp\tall|det\t,|punct\tand|cc\twhen|advmod\tshe|nsubj\twhen she loses|advcl\t,|punct\tI|nsubj\twhen she loses , I cry like I 've been out of work and sucked all month|conj\tlike|mark\tI|nsubj\t've|aux\tlike I 've been out of work and sucked all month|advcl\tout of work|prep\tof work|prep\twork|pobj\tand|cc\tsucked all month|conj\tall|det"
+                }
+            ]
+        },
+        {
+            "claim": "When we hit a goal, I go out on the street and yell at him, and when they score us, I break everything in front of him even if he doesn't have to pay for it.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that when we hit a goal, I go out on the street and yell at him?",
+                    "answer": "19/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to break a goal?",
+                    "score": 0.7,
+                    "answers": "when they score us , I break everything in front of him even if he does n't have to pay for it|conj"
+                },
+                {
+                    "question": "What is the score of a hockey goal?",
+                    "score": 0.6342,
+                    "answers": "a goal|dobj\twhen they score us|advcl"
+                },
+                {
+                    "question": "What is the name of the person who scores a goal?",
+                    "score": 0.5992,
+                    "answers": "www.eldizque.com reported on 19/09/2016 that When we hit a goal , I go out on the street and yell at him , and when they score us , I break everything in front of him even if he does n't have to pay for it|ROOT\tthat When we hit a goal , I go out on the street and yell at him , and when they score us , I break everything in front of him even if he does n't have to pay for it|ccomp\tthe street|pobj\tus|dobj\teverything in front of him|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the incident?",
+                    "score": 0.4886,
+                    "answers": "on 19/09/2016|prep\tout on the street|advmod\ton the street|prep\tyell at him|conj\tat him|prep\tin front of him|prep\tfront of him|pobj\tto pay for it|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "But it's because I'm passionate about the team and that's what we need! Peláez knows and I'm not going to let him down!\".",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that \"I'm passionate about the team and that's what we need!\"",
+                    "answer": "19/09/2016"
+                },
+                {
+                    "question": "Why did Pelaez know that he wasn't going to let him down?",
+                    "answer": "because I'm passionate about the team"
+                },
+                {
+                    "question": "Who knows and I'm not going to let him down?",
+                    "answer": "Peláez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is Peláez so passionate about the team?",
+                    "score": 0.8687,
+                    "answers": "that But it 's because I 'm passionate about the team and that 's what we need|ccomp\tbecause I 'm passionate about the team and that 's what we need|advcl"
+                },
+                {
+                    "question": "What team does Peláez want to play for?",
+                    "score": 0.8555,
+                    "answers": "the team|pobj"
+                },
+                {
+                    "question": "What does Peláez know about the team?",
+                    "score": 0.8151,
+                    "answers": "that|mark\tit|nsubj\tabout the team|prep\tand|cc\tthat|nsubj\twhat|dobj\twe|nsubj\twhat we need|ccomp\tPeláez knows and I 'm not going to let him down ! \"|ROOT\tand|cc\t'm|aux\tto|aux"
+                },
+                {
+                    "question": "What does it mean to let him down?",
+                    "score": 0.807,
+                    "answers": "to let him down|xcomp"
+                },
+                {
+                    "question": "What is Peláez's position on the AFL?",
+                    "score": 0.7587,
+                    "answers": "I 'm not going to let him down ! \"|conj"
+                }
+            ]
+        },
+        {
+            "claim": "We very much wish the 'Guardiola 'Romero success, and invite the other round.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that we very much wish the 'Guardiola 'Romero' success?",
+                    "answer": "19/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to invite the other round of the World Series?",
+                    "score": 0.7653,
+                    "answers": "www.eldizque.com reported on 19/09/2016 that We very much wish the ' Guardiola ' Romero success , and invite the other round|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the success of the Guardiola club?",
+                    "score": 0.7172,
+                    "answers": "the ' Guardiola ' Romero success|dobj"
+                },
+                {
+                    "question": "What is the relationship between Guardiola and Romero?",
+                    "score": 0.6977,
+                    "answers": "the ' Guardiola ' Romero|compound"
+                },
+                {
+                    "question": "What is the name of the other round that we wish to invite?",
+                    "score": 0.6118,
+                    "answers": "other|amod"
+                }
+            ]
+        }
+    ]
+}

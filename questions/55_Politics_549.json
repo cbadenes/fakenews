@@ -1,0 +1,260 @@
+{
+    "id": "55_Politics_549",
+    "claim": "Andres Manuel Lopez Obrador, candidate of the coalition Together We Will Do History, maintains the advantage in the presidential race with % of the intention to vote. Jose Antonio Meade, candidate for the Todos coalition for Mexico, reached Ricardo Anaya, candidate of the Por Mexico coalition for the Front, in the second place of electoral preferences, according to a survey of the SDPNews portal. 'This measurement shows a decrease of % in the flag of the coalition Por Mexico al Frente (%), while the candidate of Todos por Mexico remains at %, i.e. in a tie to  points by Lopez Obrador ', says the survey. Andres Manuel Lopez Obrador, candidate of the coalition Together We Will Do History, maintains the advantage in the presidential race with % of the intention to vote. Jaime Rodríguez Calderon, 'El Bronco ', obtained % of voting preferences. And so far, even % expresses support for Margarita Zavala. The Mexico Choose-SDP news poll was conducted from  to  May to  Mexicans from  years onwards residing in Mexico with access to Facebook. This new survey had a growth of %, compared to the measurement published on  May. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "28/05/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Andres Manuel Lopez Obrador, candidate of the coalition Together We Will Do History, maintains the advantage in the presidential race with % of the intention to vote.",
+            "question_answers": [
+                {
+                    "question": "On what date was it reported that Andres Manuel Lopez Obrador was the candidate of the coalition Together We Will Do History?",
+                    "answer": "28/05/2018"
+                },
+                {
+                    "question": "How much of the intention to vote does Lopez Obrador have?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of voters intend to vote in the 2018 election?",
+                    "score": 0.8721,
+                    "answers": "Together|advmod\tof the intention to vote|prep"
+                },
+                {
+                    "question": "What is the voting record of Andres Manuel Lopez Obrador?",
+                    "score": 0.7788,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 28/05/2018 that Andres Manuel Lopez Obrador , candidate of the coalition Together We Will Do History , maintains the advantage in the presidential race with % of the intention to vote|ROOT\ton 28/05/2018|prep\tthat|mark\tManuel|compound\tLopez|compound\t,|punct\tthe|det\tWe|nsubj\tWill|aux\t,|punct\tthe|det\tthe|det\tthe presidential race|pobj\twith % of the intention to vote|prep\tthe|det\tthe intention to vote|pobj\tto|aux"
+                },
+                {
+                    "question": "What is Andres Manuel Lopez Obrador's voting record?",
+                    "score": 0.7762,
+                    "answers": "History|dobj\tthat Andres Manuel Lopez Obrador , candidate of the coalition Together We Will Do History , maintains the advantage in the presidential race with % of the intention to vote|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Andres Manuel Lopez Obrador and Barack Obama?",
+                    "score": 0.7502,
+                    "answers": "candidate of the coalition Together We Will Do History|appos\tof the coalition Together We Will Do History|prep"
+                },
+                {
+                    "question": "What is Together We Will Do History?",
+                    "score": 0.7076,
+                    "answers": "the coalition Together We Will Do History|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Jose Antonio Meade, candidate for the Todos coalition for Mexico, reached Ricardo Anaya, candidate of the Por Mexico coalition for the Front, in the second place of electoral preferences, according to a survey of the SDPNews portal.",
+            "question_answers": [
+                {
+                    "question": "Where did Anaya rank in electoral preferences?",
+                    "answer": "second place"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What party does Jose Antonio Meade belong to?",
+                    "score": 0.8265,
+                    "answers": "of the Por Mexico coalition for the Front|prep\tPor|compound\tthe Por Mexico coalition for the Front|pobj\tfor the Front|prep\tthe Front|pobj"
+                },
+                {
+                    "question": "How many votes did Jose Antonio Meade receive in the 2018 election?",
+                    "score": 0.7963,
+                    "answers": "www.forbes.com.mx reported on 28/05/2018 that Jose Antonio Meade , candidate for the Todos coalition for Mexico , reached Ricardo Anaya , candidate of the Por Mexico coalition for the Front , in the second place of electoral preferences , according to a survey of the SDPNews portal|ROOT\tof electoral preferences|prep\telectoral|amod\telectoral preferences|pobj\tto a survey of the SDPNews portal|prep\ta survey of the SDPNews portal|pobj"
+                },
+                {
+                    "question": "What is the second place of electoral preferences for Jose Antonio Meade?",
+                    "score": 0.7298,
+                    "answers": "the second place of electoral preferences|pobj"
+                },
+                {
+                    "question": "What did the SDPNews portal say about Anaya?",
+                    "score": 0.701,
+                    "answers": "according to a survey of the SDPNews portal|prep"
+                },
+                {
+                    "question": "Who is the candidate for the Todos coalition for Mexico?",
+                    "score": 0.6631,
+                    "answers": "that|mark\tJose|compound\tAntonio|compound\tcandidate for the Todos coalition for Mexico|appos\tthe|det\tfor Mexico|prep\tthe|det\tthe|det\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'This measurement shows a decrease of % in the flag of the coalition Por Mexico al Frente (%), while the candidate of Todos por Mexico remains at %, i.e. in a tie to  points by Lopez Obrador ', says the survey.",
+            "question_answers": [
+                {
+                    "question": "Who is the candidate of Todos por Mexico in a tie to points?",
+                    "answer": "Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Lopez Obrador say about the election of Todos por Mexico?",
+                    "score": 0.7678,
+                    "answers": "  points by Lopez Obrador|dep\tpoints|pobj\tthe survey|nsubj"
+                },
+                {
+                    "question": "What was Lopez Obrador's percentage in the election?",
+                    "score": 0.7315,
+                    "answers": "by Lopez Obrador|agent"
+                },
+                {
+                    "question": "What was the percentage decrease in the flag of the coalition Por Mexico al Frente?",
+                    "score": 0.7227,
+                    "answers": "This measurement|nsubj\ta decrease of % in the flag of the coalition Por Mexico al Frente ( % )|dobj"
+                },
+                {
+                    "question": "What is Todos por Mexico's flag?",
+                    "score": 0.6976,
+                    "answers": "of %|prep"
+                },
+                {
+                    "question": "What was the relationship between the candidate of Todos por Mexico al Frente and Lopez Obrador?",
+                    "score": 0.6845,
+                    "answers": "of the coalition Por Mexico al Frente ( % )|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Andres Manuel Lopez Obrador, candidate of the coalition Together We Will Do History, maintains the advantage in the presidential race with % of the intention to vote.",
+            "question_answers": [
+                {
+                    "question": "On what date was it reported that Andres Manuel Lopez Obrador was the candidate of the coalition Together We Will Do History?",
+                    "answer": "28/05/2018"
+                },
+                {
+                    "question": "How much of the intention to vote does Lopez Obrador have?",
+                    "answer": "%"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of voters intend to vote in the 2018 election?",
+                    "score": 0.8721,
+                    "answers": "Together|advmod\tof the intention to vote|prep"
+                },
+                {
+                    "question": "What is the voting record of Andres Manuel Lopez Obrador?",
+                    "score": 0.7788,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 28/05/2018 that Andres Manuel Lopez Obrador , candidate of the coalition Together We Will Do History , maintains the advantage in the presidential race with % of the intention to vote|ROOT\ton 28/05/2018|prep\tthat|mark\tManuel|compound\tLopez|compound\t,|punct\tthe|det\tWe|nsubj\tWill|aux\t,|punct\tthe|det\tthe|det\tthe presidential race|pobj\twith % of the intention to vote|prep\tthe|det\tthe intention to vote|pobj\tto|aux"
+                },
+                {
+                    "question": "What is Andres Manuel Lopez Obrador's voting record?",
+                    "score": 0.7762,
+                    "answers": "History|dobj\tthat Andres Manuel Lopez Obrador , candidate of the coalition Together We Will Do History , maintains the advantage in the presidential race with % of the intention to vote|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Andres Manuel Lopez Obrador and Barack Obama?",
+                    "score": 0.7502,
+                    "answers": "candidate of the coalition Together We Will Do History|appos\tof the coalition Together We Will Do History|prep"
+                },
+                {
+                    "question": "What is Together We Will Do History?",
+                    "score": 0.7076,
+                    "answers": "the coalition Together We Will Do History|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Jaime Rodríguez Calderon, 'El Bronco ', obtained % of voting preferences.",
+            "question_answers": [
+                {
+                    "question": "What was Jaime Rodrguez Calderon's nickname?",
+                    "answer": "'El Bronco"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many voting preferences did Jaime Rodríguez Calderon receive?",
+                    "score": 0.9052,
+                    "answers": "% of voting preferences|dobj"
+                },
+                {
+                    "question": "How many votes did Calderon receive in 2018?",
+                    "score": 0.8984,
+                    "answers": "on 28/05/2018|prep"
+                },
+                {
+                    "question": "What are the voting preferences of Jaime Rodríguez Calderon?",
+                    "score": 0.8763,
+                    "answers": "of voting preferences|prep"
+                },
+                {
+                    "question": "What is the voting record of Jaime Rodríguez Calderon and El Bronco?",
+                    "score": 0.8284,
+                    "answers": "Jaime Rodríguez Calderon , ' El Bronco ' ,|nsubj"
+                },
+                {
+                    "question": "Who is El Bronco?",
+                    "score": 0.8088,
+                    "answers": "El Bronco|appos"
+                }
+            ]
+        },
+        {
+            "claim": "And so far, even % expresses support for Margarita Zavala.",
+            "question_answers": [
+                {
+                    "question": "What percentage of people expressed support for Margarita Zavala?",
+                    "answer": "even"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage expresses support for Margarita Zavala?",
+                    "score": 0.8801,
+                    "answers": "even %|nsubj\tthat And so far , even % expresses support for Margarita Zavala|ccomp"
+                },
+                {
+                    "question": "What is Margarita Zavala's political affiliation?",
+                    "score": 0.8435,
+                    "answers": "www.forbes.com.mx|nsubj\ton 28/05/2018|prep\tthat|mark\tAnd|cc\tso|advmod\tso far|advmod\t,|punct\teven|advmod\tsupport for Margarita Zavala|dobj\tfor Margarita Zavala|prep\tMargarita|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The Mexico Choose-SDP news poll was conducted from  to  May to  Mexicans from  years onwards residing in Mexico with access to Facebook.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many Mexicans have access to Facebook?",
+                    "score": 0.791,
+                    "answers": "with access to Facebook|prep\tto Facebook|prep"
+                },
+                {
+                    "question": "How many Mexicans live in Mexico?",
+                    "score": 0.7824,
+                    "answers": "on 28/05/2018|prep\t  Mexicans from   years onwards residing in Mexico with access to Facebook|dep\tMexicans from   years onwards residing in Mexico with access to Facebook|attr\t  years onwards residing in Mexico with access to Facebook|dep\tyears onwards residing in Mexico with access to Facebook|pobj\tresiding in Mexico with access to Facebook|acl\tin Mexico|prep"
+                },
+                {
+                    "question": "What was the results of the Mexico Choose-SDP news poll?",
+                    "score": 0.7551,
+                    "answers": "The Mexico Choose - SDP news poll|nsubjpass\tthat The Mexico Choose - SDP news poll was conducted from|ccomp"
+                },
+                {
+                    "question": "What is Facebook?",
+                    "score": 0.6727,
+                    "answers": "access to Facebook|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This new survey had a growth of %, compared to the measurement published on  May.",
+            "question_answers": [
+                {
+                    "question": "What percentage of growth did the new survey have compared to the measurement published on May 28, 2018?",
+                    "answer": "%,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the GDP growth rate of the survey published in May 2018?",
+                    "score": 0.8858,
+                    "answers": "the measurement published on|pobj"
+                }
+            ]
+        }
+    ]
+}

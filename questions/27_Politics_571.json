@@ -1,0 +1,250 @@
+{
+    "id": "27_Politics_571",
+    "claim": "FRANCE DOESN'T WANT TO ACCEPT IT TO AVOID A CALLED EFFECT THAT FULL THE COUNTRY OF FOREIGN MONTHS* NUMBER* YEARS AFTER FRANCE GIVES THE UNITED STATES WITH THE Statue OF FREEDOM, THE AMERICAN COUNTRY HAS DONE IT BACK BECAUSE IT DOESN'T WANT IT ANYMORE. Right now, the iconic monument is on its way to Europe in a steel cage. 'We cannot let monuments in without control, space is limited and there would also be a so-called effect, they would end up endorsing us to the Taj Mahal ', says President Emmanuel Macron, who does not commit himself to letting the piece into France when the vessel that transports it reaches its borders. For a long time, the Statue of Liberty was the first thing immigrants saw when they arrived in America, but now that no one enters the country, Americans don't need it. Therefore, like many others from outside, the statue has been expelled from the United States and is already on its way to its place of origin. The Republican government has announced that the hole that the monument has left on Liberty Island, in New York Bay, will be used to place cages with children of illegal immigrants. 'In a way, they also symbolize freedom ', argues Donald Trump. I'm sorry.",
+    "source": "www.elmundotoday.com",
+    "date": "20/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "FRANCE DOESN'T WANT TO ACCEPT IT TO AVOID A CALLED EFFECT THAT FULL THE COUNTRY OF FOREIGN MONTHS* NUMBER* YEARS AFTER FRANCE GIVES THE UNITED STATES WITH THE Statue OF FREEDOM, THE AMERICAN COUNTRY HAS DONE IT BACK BECAUSE IT DOESN'T WANT IT ANYMORE.",
+            "question_answers": [
+                {
+                    "question": "How many years after FRANCE gave the United States the Statue of FreeDOM?",
+                    "answer": "FRANCE DOESN'T WANT TO ACCEPT IT TO AVOID A CALLED EFFECT THAT FULL THE COUNTRY OF FOREIGN MONTHS"
+                },
+                {
+                    "question": "What country did FRANCE do to avoid the UNITED STATES receiving the Statue of FreeDOM?",
+                    "answer": "AMERICAN COUNTRY"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has it been since the Statue of Freedoms been around?",
+                    "score": 0.7303,
+                    "answers": "that|mark\tTO|aux\tTO|aux\tA|det\t*|punct\t*|nmod\t,|punct\tHAS|aux"
+                },
+                {
+                    "question": "What is the Statue of Freedoms?",
+                    "score": 0.6769,
+                    "answers": "YEARS AFTER FRANCE GIVES THE UNITED STATES WITH THE Statue OF FREEDOM|advcl\tTHE Statue OF FREEDOM|pobj"
+                },
+                {
+                    "question": "What is the relationship between Russia and the United States?",
+                    "score": 0.6528,
+                    "answers": "on 20/06/2018|prep\t20/06/2018|pobj\tDOESN'T|neg\tTO AVOID A CALLED EFFECT THAT FULL THE COUNTRY OF FOREIGN MONTHS * NUMBER *|advcl\tCALLED|amod\tFOREIGN|amod\tFOREIGN MONTHS|nmod\tYEARS|dep\tAFTER|mark\tOF FREEDOM|prep\tFREEDOM|pobj\tBACK|prt\tBECAUSE|mark\tDOESN'T|aux\tBECAUSE IT DOESN'T WANT IT ANYMORE|advcl\tANYMORE|advmod"
+                },
+                {
+                    "question": "What is the name of the country that borders the United States?",
+                    "score": 0.6298,
+                    "answers": "THE AMERICAN COUNTRY|nsubj"
+                },
+                {
+                    "question": "What is the website \"elmundotoday.com\"?",
+                    "score": 0.5713,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Right now, the iconic monument is on its way to Europe in a steel cage.",
+            "question_answers": [
+                {
+                    "question": "When did www.elmundotoday.com report that the monument is on its way to Europe?",
+                    "answer": "20/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is the Tajikistan monument in a steel cage?",
+                    "score": 0.8736,
+                    "answers": "that Right now , the iconic monument is on its way to Europe in a steel cage|ccomp"
+                },
+                {
+                    "question": "What type of cage is the monument in?",
+                    "score": 0.7987,
+                    "answers": "steel|compound"
+                },
+                {
+                    "question": "What is the purpose of a steel cage?",
+                    "score": 0.7226,
+                    "answers": "in a steel cage|prep\ta steel cage|pobj"
+                },
+                {
+                    "question": "What is the name of the cage that the monument is in?",
+                    "score": 0.6874,
+                    "answers": "a|det"
+                },
+                {
+                    "question": "What is the relationship between the monument and Europe?",
+                    "score": 0.6456,
+                    "answers": "to Europe|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'We cannot let monuments in without control, space is limited and there would also be a so-called effect, they would end up endorsing us to the Taj Mahal ', says President Emmanuel Macron, who does not commit himself to letting the piece into France when the vessel that transports it reaches its borders.",
+            "question_answers": [
+                {
+                    "question": "What would happen to the Taj Mahal?",
+                    "answer": "they would end up endorsing us to the Taj Mahal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Macron say about the Taj Mahal?",
+                    "score": 0.7759,
+                    "answers": "that|mark\tnot|neg\tmonuments|dobj\tin|advmod\tthere|expl\talso|advmod\tendorsing us to the Taj Mahal|xcomp\tto the Taj Mahal|prep\tPresident Emmanuel Macron , who does not commit himself to letting the piece into France when the vessel that transports it reaches its borders|nsubj\tdoes|aux\tnot|neg\tletting the piece into France when the vessel that transports it reaches its borders|pcomp\tthe piece|dobj\twhen|advmod\tthat|nsubj\twhen the vessel that transports it reaches its borders|advcl\tits|poss\tits borders|dobj"
+                },
+                {
+                    "question": "What is the purpose of transport of the Taj Mahal?",
+                    "score": 0.6941,
+                    "answers": "that transports it|relcl"
+                },
+                {
+                    "question": "What is the Taj Mahal?",
+                    "score": 0.6865,
+                    "answers": "a so - called effect|attr\tTaj|compound"
+                },
+                {
+                    "question": "What is space limited and there would be a so-called effect on the Taj Mahal?",
+                    "score": 0.6747,
+                    "answers": "space|nsubj"
+                },
+                {
+                    "question": "What is the relationship between France and the Taj Mahal?",
+                    "score": 0.6727,
+                    "answers": "www.elmundotoday.com|nsubj\twww.elmundotoday.com reported on 20/06/2018|ccomp\ton 20/06/2018|prep\t'|punct\tWe|nsubj\tcan|aux\tWe can not let monuments in without control , space is limited and there would also be a so - called effect , they would end up endorsing us to the Taj Mahal|ccomp\twithout control|prep\tcontrol|pobj\t,|punct\tspace is limited and there would also be a so - called effect|ccomp\tlimited|acomp\tand|cc\twould|aux\tthere would also be a so - called effect|conj\ta|det\tso|advmod\t-|punct\tso - called|amod\t,|punct\tthey|nsubj\twould|aux\tspace is limited and there would also be a so - called effect , they would end up endorsing us to the Taj Mahal|conj\tup|prt\tus|dobj\tthe|det\t'|punct\t,|punct\twww.elmundotoday.com reported on 20/06/2018 that ' We can not let monuments in without control , space is limited and there would also be a so - called effect , they would end up endorsing us to the Taj Mahal ' , says President Emmanuel Macron , who does not commit himself to letting the piece into France when the vessel that transports it reaches its borders|ROOT\tPresident|compound\tEmmanuel|compound\t,|punct\twho|nsubj\twho does not commit himself to letting the piece into France when the vessel that transports it reaches its borders|relcl\thimself|dobj\tto letting the piece into France when the vessel that transports it reaches its borders|prep\tthe|det\tinto France|prep\tthe|det\tit|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "For a long time, the Statue of Liberty was the first thing immigrants saw when they arrived in America, but now that no one enters the country, Americans don't need it.",
+            "question_answers": [
+                {
+                    "question": "What was the first thing immigrants saw when they arrived in America?",
+                    "answer": "Statue of Liberty"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did immigrants arrive in the United States?",
+                    "score": 0.8999,
+                    "answers": "immigrants saw when they arrived in America|relcl\twhen they arrived in America|advcl"
+                },
+                {
+                    "question": "What was the Statue of Liberty the first thing immigrants saw when they arrived in America?",
+                    "score": 0.8434,
+                    "answers": "the country|dobj"
+                },
+                {
+                    "question": "How many immigrants came to the United States each year?",
+                    "score": 0.8133,
+                    "answers": "www.elmundotoday.com|nsubj\timmigrants|nsubj"
+                },
+                {
+                    "question": "What is the Statue of Liberty?",
+                    "score": 0.7747,
+                    "answers": "www.elmundotoday.com reported on 20/06/2018 that For a long time , the Statue of Liberty was the first thing immigrants saw when they arrived in America , but now that no one enters the country , Americans do n't need it|ROOT\ton 20/06/2018|prep\tthat|mark\tFor a long time|prep\ta|det\tlong|amod\t,|punct\tthe|det\tof Liberty|prep\tLiberty|pobj\tthat For a long time , the Statue of Liberty was the first thing immigrants saw when they arrived in America , but now that no one enters the country , Americans do n't need it|ccomp\tthe|det\tfirst|amod\twhen|advmod\tthey|nsubj\tin America|prep\t,|punct\tbut|cc\tthat|mark\tno|det\tno one|nsubj\tthe|det\t,|punct\tdo|aux\tn't|neg\tnow that no one enters the country , Americans do n't need it|conj\tit|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Therefore, like many others from outside, the statue has been expelled from the United States and is already on its way to its place of origin.",
+            "question_answers": [
+                {
+                    "question": "On what date was the statue expelled from the United States?",
+                    "answer": "20/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the statue originate from?",
+                    "score": 0.7823,
+                    "answers": "to its place of origin|prep\tits place of origin|pobj"
+                },
+                {
+                    "question": "Where was the statue expelled from the United States?",
+                    "score": 0.7505,
+                    "answers": "www.elmundotoday.com reported on 20/06/2018 that Therefore , like many others from outside , the statue has been expelled from the United States and is already on its way to its place of origin|ROOT\tthe|det\tthat Therefore , like many others from outside , the statue has been expelled from the United States and is already on its way to its place of origin|ccomp\tthe|det\tUnited|compound\ton its way to its place of origin|prep\tits|poss\tits way to its place of origin|pobj\tits|poss"
+                },
+                {
+                    "question": "What is the origin of the statue?",
+                    "score": 0.6111,
+                    "answers": "of origin|prep\torigin|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The Republican government has announced that the hole that the monument has left on Liberty Island, in New York Bay, will be used to place cages with children of illegal immigrants.",
+            "question_answers": [
+                {
+                    "question": "When did elmundotoday.com report that the Republican government announced that the hole that the monument left on Liberty Island would be used to place cages with children of illegal immigrants?",
+                    "answer": "20/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the republican government doing to place cages with children of illegal immigrants?",
+                    "score": 0.7822,
+                    "answers": "The Republican government|nsubj"
+                },
+                {
+                    "question": "How many children would be placed in the cages at Liberty Island?",
+                    "score": 0.7307,
+                    "answers": "children of illegal immigrants|pobj"
+                },
+                {
+                    "question": "How many illegal immigrants were there on Liberty Island in 2018?",
+                    "score": 0.7206,
+                    "answers": "of illegal immigrants|prep"
+                },
+                {
+                    "question": "What is the purpose of holding children of illegal immigrants on Liberty Island?",
+                    "score": 0.7151,
+                    "answers": "to place cages with children of illegal immigrants|xcomp\twith children of illegal immigrants|prep"
+                },
+                {
+                    "question": "Where is Liberty Island located?",
+                    "score": 0.6909,
+                    "answers": "Liberty Island , in New York Bay ,|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'In a way, they also symbolize freedom ', argues Donald Trump.",
+            "question_answers": [
+                {
+                    "question": "What does 'elmundotoday' symbolize?",
+                    "answer": "freedom"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be free?",
+                    "score": 0.8888,
+                    "answers": "In a way|prep"
+                },
+                {
+                    "question": "What does the website \"elmundotoday.com\" represent?",
+                    "score": 0.8233,
+                    "answers": "www.elmundotoday.com reported on 20/06/2018 that ' In a way , they also symbolize freedom ' , argues Donald Trump|ROOT"
+                },
+                {
+                    "question": "What is the meaning of freedom?",
+                    "score": 0.815,
+                    "answers": "In a way , they also symbolize freedom|ccomp\tfreedom|dobj\tthat ' In a way , they also symbolize freedom ' , argues Donald Trump|ccomp"
+                },
+                {
+                    "question": "What is the relationship between freedom and freedom according to Trump?",
+                    "score": 0.7997,
+                    "answers": "'|punct\ta|det\ta way|pobj\tthey|nsubj\t'|punct"
+                },
+                {
+                    "question": "What is the website \"elmundotoday.com\"?",
+                    "score": 0.7364,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

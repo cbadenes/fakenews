@@ -1,0 +1,242 @@
+{
+    "id": "9_Society_106",
+    "claim": "Mexico. - After the president of Mexico, Enrique Peña Nieto, revealed in a press conference that at a visit he had in Lagos de Moreno, Jalisco, a 'young woman approached him, put a kiss in his mouth and then ran out ', and revealed in a squeaky way that even his wife witnessed the fact, the spokesman of the president, Eduardo Sánchez, revealed that Nieto has just filed a lawsuit for harassment and sexual abuse against the woman, pointing out that he expects justice to be done on the depraved that violent the integrity of the defenseless man. The spokesman comments that Enrique told as if it was a joke the fact, pointing out that it is something that has been kept for a long time and he wanted to express, but he was afraid that people would make fun of him:'When that happened Kike was very hurt, imagine that someone arrives who doesn't know, plant a kiss and run away, of course you feel dirty and used, it is a case of harassment that should not be tolerated. No one should be raped in such a way, no one has the right to touch, kiss or harass someone without their consent. Peña was very hurt, and because of his nerves he told it as if it was funny when he has actually even taken therapy to overcome the incident ', he commented. Eduardo points out that after daring to tell the incident, the next step is to demand:'His main fear is that everyone knew that he was sexually harassed, now that he was brave and already shouted at the four winds he has decided to take the next step that is to demand not to allow this type of abuse against men to continue. If a man will ever kiss a woman on the outside he would be prosecuted with all the weight of the law but if it happens otherwise they see it as a funny thing. Enough of these gender differences, Peña was raped in the most cruel way and the worst is that his wife could not do anything, now this depraved woman must pay the consequences, we already located her and although she is a very young woman, she is of age, so there is no pretext for her to pay for her crime ', he said. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "30/06/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Mexico .",
+            "question_answers": [
+                {
+                    "question": "When did elruinaversal.com report that Mexico's economy was in decline?",
+                    "answer": "30/06/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the location of Mexico in 2017?",
+                    "score": 0.7421,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the relationship between Mexico and the United States?",
+                    "score": 0.6943,
+                    "answers": "that Mexico|npadvmod"
+                },
+                {
+                    "question": "What is the origin of the website \"elruinaversal.com\"?",
+                    "score": 0.6364,
+                    "answers": "www.elruinaversal.com reported on 30/06/2017 that Mexico|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "- After the president of Mexico, Enrique Peña Nieto , revealed in a press conference that at a visit the president of Mexico, Enrique Peña Nieto had in Lagos de Moreno, Jalisco, a 'young woman approached the president of Mexico, Enrique Peña Nieto , put a kiss in mouth and then ran out ', and revealed in a squeaky way that even wife witnessed the fact , the spokesman of the president, Eduardo Sánchez , revealed that the president of Mexico, Enrique Peña Nieto has just filed a lawsuit for harassment and sexual abuse against a 'young woman , pointing out that the president of Mexico, Enrique Peña Nieto expects justice to be done on the depraved that violent the integrity of the defenseless man.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Where was the meeting between Peña Nieto and a young woman?",
+                    "score": 0.6775,
+                    "answers": "Lagos de Moreno , Jalisco|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Peña Nieto's relationship with a young woman?",
+                    "score": 0.6686,
+                    "answers": "justice|nsubjpass"
+                },
+                {
+                    "question": "What was the name of the woman that visited the president of Mexico in 2017?",
+                    "score": 0.6548,
+                    "answers": "in a press conference|prep\ta press conference|pobj\tat a visit the president of Mexico , Enrique Peña Nieto had in Lagos de Moreno , Jalisco|prep\tthe president of Mexico , Enrique Peña Nieto had in Lagos de Moreno , Jalisco|relcl\tof the president|prep"
+                },
+                {
+                    "question": "Who is the spokesman of the president of Mexico?",
+                    "score": 0.6436,
+                    "answers": "the spokesman of the president , Eduardo Sánchez|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the spokesman of the president, Eduardo Sánchez comments that the president of Mexico, Enrique Peña Nieto told as if it was a joke the fact , pointing out that the fact is something that has been kept for a long time and the president of Mexico, Enrique Peña Nieto wanted to express, but the president of Mexico, Enrique Peña Nieto was afraid that people would make fun of him:'When that happened Kike was very hurt, imagine that someone arrives who doesn't know, plant a kiss and run away, of course you feel dirty and used, it is a case of harassment that should not be tolerated.",
+            "question_answers": [
+                {
+                    "question": "What did Eduardo Sánchez say about Enrique Pea Nieto?",
+                    "answer": "as if it was a joke the fact"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Peña Nieto fear people would make fun of him?",
+                    "score": 0.7502,
+                    "answers": "pointing out that the fact is something that has been kept for a long time and the president of Mexico , Enrique Peña Nieto wanted to express , but the president of Mexico , Enrique Peña Nieto was afraid that people would make fun of|advcl"
+                },
+                {
+                    "question": "How was Kike hurt?",
+                    "score": 0.7102,
+                    "answers": "Kike was very hurt|ccomp\tKike was very hurt , imagine that someone who does n't know arrives , plant a kiss and run away , of course you feel dirty and used , it is a case of harassment that should not be tolerated|conj"
+                },
+                {
+                    "question": "How long has Enrique Peña Nieto been in office?",
+                    "score": 0.6907,
+                    "answers": "long|amod\ta long time|pobj"
+                },
+                {
+                    "question": "What was the president of Mexico saying about Kike's kiss?",
+                    "score": 0.6797,
+                    "answers": "a joke|attr"
+                },
+                {
+                    "question": "What did Peña Nieto say about people making fun of him?",
+                    "score": 0.6669,
+                    "answers": "the president of Mexico , Enrique Peña Nieto was afraid that people would make fun of|conj"
+                }
+            ]
+        },
+        {
+            "claim": "No one should be raped in such a way, no one has the right to touch, kiss or harass someone without consent.",
+            "question_answers": [
+                {
+                    "question": "What did Elruinaversal say about raped people?",
+                    "answer": "no one has the right to touch, kiss or harass someone without consent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who should be raped without consent?",
+                    "score": 0.8714,
+                    "answers": "www.elruinaversal.com reported on 30/06/2017 that No one should be raped in such a way , no one has the right to touch , kiss or harass someone without consent|ROOT\tNo|det"
+                },
+                {
+                    "question": "What is the definition of rape?",
+                    "score": 0.7875,
+                    "answers": "should|aux\tNo one should be raped in such a way|ccomp\tin such a way|prep\tsuch a way|pobj\t,|punct\tthat No one should be raped in such a way , no one has the right to touch , kiss or harass someone without consent|ccomp\tthe|det\t,|punct\tsomeone|dobj"
+                },
+                {
+                    "question": "What are the rights to touch, kiss or harass someone without consent?",
+                    "score": 0.7676,
+                    "answers": "www.elruinaversal.com|nsubj\ton 30/06/2017|prep\tthat|mark\tNo one|nsubjpass\tbe|auxpass\tsuch|predet\ta|det\tno|det\tno one|nsubj\tto|aux\tor|cc\twithout consent|prep\tconsent|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "the president of Mexico, Enrique Peña Nieto was very hurt, and because of nerves the president of Mexico, Enrique Peña Nieto told that as if that was funny when the president of Mexico, Enrique Peña Nieto has actually even taken therapy to overcome that ', the spokesman of the president, Eduardo Sánchez commented.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What therapy did Enrique Peña Nieto take to help him?",
+                    "score": 0.8144,
+                    "answers": "therapy|dobj"
+                },
+                {
+                    "question": "What was the relationship between Peña Nieto and Pea Nieto?",
+                    "score": 0.6989,
+                    "answers": "www.elruinaversal.com reported on 30/06/2017 that the president of Mexico , Enrique Peña Nieto was very hurt , and because of nerves the president of Mexico , Enrique Peña Nieto told that as if that was funny when the president of Mexico , Enrique Peña Nieto has actually even taken therapy to overcome that '|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the president of Mexico and Peña Nieto?",
+                    "score": 0.6648,
+                    "answers": "of the president|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Eduardo points out that after daring to tell the incident, the next step is to demand:'His main fear is that everyone knew that he was sexually harassed, now that he was brave and already shouted at the four winds he has decided to take the next step that is to demand not to allow this type of abuse against men to continue.",
+            "question_answers": [
+                {
+                    "question": "What is Eduardo's next step?",
+                    "answer": "to demand not to allow this type of abuse against men to continue"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Eduardo say about being sexually harassed?",
+                    "score": 0.7146,
+                    "answers": "brave|acomp\tmain fear is that everyone knew that he was sexually harassed , now that he was brave and already shouted at the four winds he has decided to take the next step that is to demand not to allow this type of abuse against men to continue|ccomp"
+                },
+                {
+                    "question": "What steps did Eduardo take to prevent this type of abuse against men?",
+                    "score": 0.6549,
+                    "answers": "to take the next step that is to demand not to allow this type of abuse against men to continue|xcomp"
+                },
+                {
+                    "question": "What has Eduardo done about abuse against men?",
+                    "score": 0.6503,
+                    "answers": "abuse against men|pobj"
+                },
+                {
+                    "question": "What did Eduardo want to do to stop sexual abuse against men?",
+                    "score": 0.6476,
+                    "answers": "that is to demand not to allow this type of abuse against men to continue|relcl\tto demand not to allow this type of abuse against men to continue|xcomp"
+                },
+                {
+                    "question": "What is the next step to tell the story of Eduardo being sexually harassed?",
+                    "score": 0.6173,
+                    "answers": "the next step|nsubj\tto demand:'His|punct"
+                }
+            ]
+        },
+        {
+            "claim": "If a man will ever kiss a woman on the outside he would be prosecuted with all the weight of the law but if it happens otherwise they see it as a funny thing.",
+            "question_answers": [
+                {
+                    "question": "What did elruinaversal report on 30/06/2017",
+                    "answer": "If a man will ever kiss a woman on the outside he would be prosecuted with all the weight of the law"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to kiss a woman on the outside?",
+                    "score": 0.7941,
+                    "answers": "on 30/06/2017|prep\tthat|mark\tIf|mark\ta|det\ta man|nsubj\twill|aux\tever|advmod\tIf a man will ever kiss a woman on the outside|advcl\ta|det\ta woman|dobj\ton the outside|prep\tthe|det\tthe outside|pobj\the|nsubjpass\twould|aux\tbe|auxpass\tthat If a man will ever kiss a woman on the outside he would be prosecuted with all the weight of the law but if it happens otherwise they see it as a funny thing|ccomp\twith all the weight of the law|prep\tall|predet\tthe|det\tthe|det\tthe law|pobj\tbut|cc\tif|mark\tit|nsubj\tif it happens otherwise|advcl\totherwise|advmod\tthey|nsubj\tif it happens otherwise they see it as a funny thing|conj\tit|dobj\tas a funny thing|prep\ta|det\tfunny|amod\ta funny thing|pobj"
+                },
+                {
+                    "question": "What is the weight of the law for a man to kiss a woman?",
+                    "score": 0.7864,
+                    "answers": "of the law|prep"
+                },
+                {
+                    "question": "What is the relationship between a man and a woman?",
+                    "score": 0.6857,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Enough of these gender differences, Peña was raped in the most cruel way and the worst is that his wife could not do anything, now this depraved woman must pay the consequences, we already located her and although she is a very young woman, she is of age, so there is no pretext for her to pay for her crime ', he said.",
+            "question_answers": [
+                {
+                    "question": "What did the website say about Pea's wife?",
+                    "answer": "there is no pretext for her to pay for her crime"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did Peña get raped?",
+                    "score": 0.8184,
+                    "answers": "the most cruel way|pobj"
+                },
+                {
+                    "question": "What crimes did Peña commit?",
+                    "score": 0.7872,
+                    "answers": "on 30/06/2017|prep\tthe worst|nsubj"
+                },
+                {
+                    "question": "What age was Peña when she was raped?",
+                    "score": 0.7443,
+                    "answers": "age|pobj"
+                },
+                {
+                    "question": "What was Peña being raped for?",
+                    "score": 0.7208,
+                    "answers": "Peña was raped in the most cruel way and|ccomp"
+                },
+                {
+                    "question": "What did Peña do to pay consequences for her crimes?",
+                    "score": 0.7026,
+                    "answers": "in the most cruel way|prep"
+                }
+            ]
+        }
+    ]
+}

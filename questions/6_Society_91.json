@@ -1,0 +1,318 @@
+{
+    "id": "6_Society_91",
+    "claim": "The pontiff maintained that the faithful can contribute if they want a donation, but that 'it is never paid'. Pope Francis insisted this Wednesday that no one can ask for money for a Mass and that if you want you can give a donation but they are 'free ', during the general audience held in the Paul VI Vatican Hall. In referring in his catechesis today to the intentions of prayer that are pronounced during the Masses, as in the case of the deceased, Francis remarked that 'Mass is not paid'.'Father, how much do I have to pay for my name to be called?. Do you understand?. The Mass is not paid. Mass is the free sacrifice of Christ ', he said. And he added that the faithful can contribute if they want to with a donation, but that 'it is never paid'. Francis dedicated today's catechesis to the various formulas of Eucharistic prayer and asked that'the Lord grant us to make our life a Eucharist, that it be thanksgiving, a gift of love and communion'. He stated that'the Catholic Church has wanted prayers to be made in the language that people understand, so that they can join the priest's prayer 'He also explained that Jesus was very clear when he said'this is my body and my blood 'and therefore during the Eucharist 'you should not think strange things. It's faith.\". I'm sorry.",
+    "source": "www.elespectador.com",
+    "date": "27/03/2020",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The pontiff maintained that the faithful can contribute if the faithful want a donation , but that 'a donation is never paid'.",
+            "question_answers": [
+                {
+                    "question": "How did the pontiff say the faithful could contribute?",
+                    "answer": "if the faithful want a donation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money can the faithful donate to the pope?",
+                    "score": 0.9047,
+                    "answers": "that the faithful can contribute if the faithful want a donation , but that ' a donation is never paid|advcl\tif the faithful want a donation|advcl"
+                },
+                {
+                    "question": "How much money did the pontiff receive from the faithful?",
+                    "score": 0.8825,
+                    "answers": "The pontiff|nsubj\tthat The pontiff maintained that the faithful can contribute if the faithful want a donation , but that ' a donation is never paid '|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the amount that the pope can donate to the faithful?",
+                    "score": 0.8317,
+                    "answers": "if|mark"
+                },
+                {
+                    "question": "What is the relationship between the pope and the faithful?",
+                    "score": 0.8067,
+                    "answers": "the faithful|nsubj\tthe faithful|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The pontiff insisted this Wednesday that no one can ask for money for a Mass and that if you want you can give a donation but they are 'free ', during the general audience held in the Paul VI Vatican Hall.",
+            "question_answers": [
+                {
+                    "question": "What did the pontiff say about donations during the general audience held in the Paul VI Vatican Hall?",
+                    "answer": "they are 'free"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Paul Vi ask for money for mass donations?",
+                    "score": 0.8409,
+                    "answers": "during the general audience held in the Paul VI Vatican Hall|prep"
+                },
+                {
+                    "question": "How much money can you donate for a mass?",
+                    "score": 0.8101,
+                    "answers": "that|mark\tthat|mark\tcan|aux\tthat no one can ask for money for a Mass and that if you want you can give a donation but they are ' free|advcl\ta|det\tand|cc\tthat|mark\tyou|nsubj\tif you want|advcl\tyou|nsubj\tcan|aux\tthat if you want you can give a donation but they are ' free|conj\ta|det\ta donation|dobj\tbut|cc"
+                },
+                {
+                    "question": "What did the pope say about donations for mass donations?",
+                    "score": 0.8012,
+                    "answers": "The pontiff|nsubj\tno|det\tno one|nsubj\tfor money|prep\tfor a Mass|prep\tthey|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the money that the pontiff requested for a mass?",
+                    "score": 0.6901,
+                    "answers": "www.elespectador.com|nsubj"
+                },
+                {
+                    "question": "What is the difference between a donation and a free mass?",
+                    "score": 0.6425,
+                    "answers": "free|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "In referring in his catechesis today to the intentions of prayer that are pronounced during the Masses, as in the case of the deceased, The pontiff remarked that 'Mass is not paid'.",
+            "question_answers": [
+                {
+                    "question": "What did the pontiff say about Masses?",
+                    "answer": "'Mass is not paid'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the pope say about prayer during masses?",
+                    "score": 0.8909,
+                    "answers": "on 27/03/2020|prep\treferring in his catechesis today to the intentions of prayer that are pronounced during the Masses , as in the case of the deceased|pcomp\tin the case of the deceased|prep\tthe case of the deceased|pobj\tof the deceased|prep\tthe deceased|pobj\tThe pontiff|nsubj\tthat In referring in his catechesis today to the intentions of prayer that are pronounced during the Masses , as in the case of the deceased , The pontiff remarked that ' Mass is not paid '|ccomp"
+                },
+                {
+                    "question": "What are the intentions of prayer that are pronounced during masses?",
+                    "score": 0.8523,
+                    "answers": "that|mark\this|poss\this catechesis|pobj\tto the intentions of prayer that are pronounced during the Masses , as in the case of the deceased|prep\tthe|det\tthe intentions of prayer that are pronounced during the Masses , as in the case of the deceased|pobj\tthat|nsubjpass\tare|auxpass\tthat are pronounced during the Masses , as in the case of the deceased|relcl\tthe|det\tthe Masses|pobj\t,|punct\tas in the case of the deceased|prep\tthe|det\tthe|det\t,|punct\tThe|det\tthat|mark\t'|punct\tis|auxpass\tnot|neg\t'|punct"
+                },
+                {
+                    "question": "What is the meaning of prayer during masses?",
+                    "score": 0.8263,
+                    "answers": "In referring in his catechesis today to the intentions of prayer that are pronounced during the Masses , as in the case of the deceased|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'Father , how much do The pontiff have to pay for name to be called?.",
+            "question_answers": [
+                {
+                    "question": "What name did www.elespectador.com report on 27/03/2020?",
+                    "answer": "'Father"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money does the pope have to pay for his name to be called?",
+                    "score": 0.866,
+                    "answers": "that ' Father , do The pontiff have how much to pay for name to be called|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of how much the pontiff has to pay for names to be called Father?",
+                    "score": 0.8384,
+                    "answers": "that|mark\tfor|mark"
+                }
+            ]
+        },
+        {
+            "claim": "Mass is not paid.",
+            "question_answers": [
+                {
+                    "question": "What is not paid?",
+                    "answer": "Mass"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of how much Mass is not paid?",
+                    "score": 0.8041,
+                    "answers": "that|mark\tnot|neg"
+                },
+                {
+                    "question": "What is the difference between Mass and Mass paid?",
+                    "score": 0.7589,
+                    "answers": "that Mass is not paid|ccomp"
+                },
+                {
+                    "question": "What is the name of the website that claims mass is not paid?",
+                    "score": 0.7407,
+                    "answers": "www.elespectador.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Mass is the free sacrifice of Christ ', The pontiff said.",
+            "question_answers": [
+                {
+                    "question": "Whose sacrifice did the pontiff say Mass is the free sacrifice of?",
+                    "answer": "Christ"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be a free sacrifice of Christ?",
+                    "score": 0.9046,
+                    "answers": "of Christ|prep"
+                },
+                {
+                    "question": "What is Mass?",
+                    "score": 0.8544,
+                    "answers": "that Mass is the free sacrifice of Christ|ccomp"
+                },
+                {
+                    "question": "What is the definition of free sacrifice?",
+                    "score": 0.8527,
+                    "answers": "on 27/03/2020|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And The pontiff added that the faithful can contribute if the faithful want to with a donation , but that 'a donation is never paid'.",
+            "question_answers": [
+                {
+                    "question": "What can the faithful contribute if they want to?",
+                    "answer": "a donation"
+                },
+                {
+                    "question": "What can the faithful contribute if they want to?",
+                    "answer": "a donation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money can the faithful donate to the pope?",
+                    "score": 0.8812,
+                    "answers": "the faithful|nsubj\tthe faithful|nsubj\tif the faithful want to|advcl\twith a donation|prep"
+                },
+                {
+                    "question": "How much money does the pope receive from the faithful?",
+                    "score": 0.8734,
+                    "answers": "that ' a donation is never paid '|conj"
+                },
+                {
+                    "question": "How much money did the pontiff donate to the faithful?",
+                    "score": 0.8606,
+                    "answers": "on 27/03/2020|prep\tThe pontiff|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the donation from the pope?",
+                    "score": 0.7605,
+                    "answers": "www.elespectador.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The pontiff dedicated his catechesis to the various formulas of Eucharistic prayer and asked that'the Lord grant us to make our life a Eucharist, that our life be thanksgiving, a gift of love and communion'.",
+            "question_answers": [
+                {
+                    "question": "When did the pontiff dedicate his catechesis to the various formulas of Eucharistic prayer?",
+                    "answer": "27/03/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What formulas did the pontiff ask for Eucharistic prayer?",
+                    "score": 0.8947,
+                    "answers": "The|det\tthat The pontiff dedicated his catechesis to the various formulas of Eucharistic prayer and asked that'the Lord grant us to make our life a Eucharist , that our life be thanksgiving , a gift of love and communion '|ccomp\this|poss\tthe|det\tvarious|amod\tand|cc\tour|poss\t,|punct\tour|poss\t,|punct\tand|cc\t'|punct"
+                },
+                {
+                    "question": "What are the formulas of Eucharistic prayer?",
+                    "score": 0.8472,
+                    "answers": "on 27/03/2020|prep\tThe pontiff|nsubj\tour life|nsubj\tour life|nsubj\tto make our life a Eucharist , that our life be thanksgiving , a gift of love and communion|ccomp\tthanksgiving , a gift of love and communion|attr\tlove and communion|pobj\tcommunion|conj"
+                },
+                {
+                    "question": "What is the Eucharistic prayer?",
+                    "score": 0.8226,
+                    "answers": "asked that'the Lord grant us to make our life a Eucharist , that our life be thanksgiving , a gift of love and communion '|conj\tthat'the Lord grant us to make our life a Eucharist , that our life be thanksgiving , a gift of love and communion|ccomp"
+                },
+                {
+                    "question": "What is Eucharistic prayer?",
+                    "score": 0.8195,
+                    "answers": "www.elespectador.com reported on 27/03/2020 that The pontiff dedicated his catechesis to the various formulas of Eucharistic prayer and asked that'the Lord grant us to make our life a Eucharist , that our life be thanksgiving , a gift of love and communion '|ROOT\tto the various formulas of Eucharistic prayer|prep\tthe various formulas of Eucharistic prayer|pobj\tof Eucharistic prayer|prep\tEucharistic|amod\tEucharistic prayer|pobj\ta|det\tour life a Eucharist|ccomp\ta|det\tof love and communion|prep"
+                },
+                {
+                    "question": "What is the meaning of Eucharistic prayer?",
+                    "score": 0.8141,
+                    "answers": "that|mark\this catechesis|dobj\tthat'the|nmod\tthat'the Lord|nsubj\tus|dobj\tto|aux\tto make our life a Eucharist|advcl\tthat|mark\ta gift of love and communion|appos"
+                }
+            ]
+        },
+        {
+            "claim": "The pontiff stated that'the Catholic Church has wanted prayers to be made in the language that people understand, so that people can join the priest's prayer 'The pontiff also explained that Christ was very clear when Christ said'this is body and blood 'and therefore during the Eucharist 'you should not think strange things.",
+            "question_answers": [
+                {
+                    "question": "What did Christ say during the Eucharist?",
+                    "answer": "body and blood"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the pope say about prayers during the Eucharist?",
+                    "score": 0.7714,
+                    "answers": "The pontiff|nsubj\tThe pontiff|nsubj"
+                },
+                {
+                    "question": "What does the Catholic Church want prayers to be made in the language?",
+                    "score": 0.7583,
+                    "answers": "that The pontiff stated that'the Catholic Church has wanted prayers to be made in the language that people understand , so that people can join the priest 's prayer|ccomp"
+                },
+                {
+                    "question": "What did Christ say during the Eucharist?",
+                    "score": 0.7579,
+                    "answers": "that Christ was very clear Christ said'this is body and when blood ' and therefore during the Eucharist ' you should not think strange things|ccomp"
+                },
+                {
+                    "question": "What is the Catholic Church's prayer?",
+                    "score": 0.6883,
+                    "answers": "so that people can join the priest 's prayer|advcl\tthe priest 's|poss\tthe priest 's prayer|dobj"
+                },
+                {
+                    "question": "What is the meaning of the Eucharist?",
+                    "score": 0.6824,
+                    "answers": "the Eucharist|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It's faith.",
+            "question_answers": [
+                {
+                    "question": "When did www.elespectador.com report that It's faith?",
+                    "answer": "27/03/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between faith and science?",
+                    "score": 0.8343,
+                    "answers": "It|nsubj"
+                },
+                {
+                    "question": "What is faith?",
+                    "score": 0.8301,
+                    "answers": "that It 's faith|ccomp\tfaith|attr"
+                },
+                {
+                    "question": "What is the website \"elespectador.com\"?",
+                    "score": 0.7604,
+                    "answers": "www.elespectador.com|nsubj"
+                },
+                {
+                    "question": "What is the faith ofelespectador.com?",
+                    "score": 0.714,
+                    "answers": "www.elespectador.com reported on 27/03/2020 that It 's faith|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of Elespectador.com?",
+                    "score": 0.6888,
+                    "answers": "on 27/03/2020|prep\tthat|mark"
+                }
+            ]
+        }
+    ]
+}

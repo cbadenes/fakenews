@@ -1,0 +1,195 @@
+{
+    "id": "148_Entertainment_632",
+    "claim": "Last week the ceremony of presentation of the Metro commemorative ticket was held for the  years of birth of the maximum idol of Mexican wrestling, and we refer to Santo, the Silver Masked. With the assistance of the head of government of Mexico City, Miguel Ángel Mancera, and other fighters who took advantage of it to know that if they are more than  years old they can enjoy the privileges of the pension card that has been granted for almost  years, the Son of the Holy One thanked this gesture on the part of the Metro Collective Transport System and said very happy for this. But when it all looked like honey on flakes, history turned unexpectedly, as we learned that the Son of the Holy One is suing the Government of Mexico City. In a small interview, he told us the following:'Those of the government are cheating opportunists. When they talked to me about that ticket, I told them that they had my selfless support for its dissemination, but they never talked about that there would be no economic gain whatsoever, which seems to me to be unfair and illegal.\". Colerico, the Son of the Holy One externed:'Just as I sued AAA, today I do it against the capital government! It's enough that everyone wants to profit from my father's image, since the only one authorized for that, it's me!\". Then the masked fighter withdrew, not without first telling us that he will send us the interview bill to the offices of El. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "30/06/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Last week the ceremony of presentation of following:'Those of the government was held for the  years of birth of the maximum idol of Mexican wrestling , and we refer to the Metro commemorative ticket .",
+            "question_answers": [
+                {
+                    "question": "What is the name of the wrestler that was born in Mexico City?",
+                    "answer": "the maximum idol of Mexican wrestling"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long was the ceremony of presenting the maximum idol of Mexican wrestling held?",
+                    "score": 0.7877,
+                    "answers": "Last|amod"
+                },
+                {
+                    "question": "What is the history of Mexican wrestling?",
+                    "score": 0.6894,
+                    "answers": "the   years of birth of the maximum idol of Mexican wrestling , and we refer to the Metro commemorative ticket|dep"
+                },
+                {
+                    "question": "What was the purpose of the ceremony of presentation of following those of the government?",
+                    "score": 0.6518,
+                    "answers": "www.eldizque.com reported on 30/06/2016 that Last week the ceremony of presentation of following:'Those of the government was held for|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "With the assistance of the head of government of Mexico City , Miguel Ángel Mancera, and other fighters who took advantage of it to know that if they are more than  years old they can enjoy the privileges of the pension card that has been granted for almost  years, the maximum idol of Mexican wrestling thanked this gesture on the part of the Metro Collective Transport System and said very happy for this gesture on the part of the Metro Collective Transport System .",
+            "question_answers": [
+                {
+                    "question": "Who was Miguel ngel Mancera?",
+                    "answer": "head of government of Mexico City"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mancera do to help the fighters?",
+                    "score": 0.6341,
+                    "answers": "of the head of government of Mexico City , Miguel Ángel Mancera , and other fighters who took advantage of it to know|prep"
+                },
+                {
+                    "question": "What did Mancera help the fighters with?",
+                    "score": 0.6097,
+                    "answers": "the assistance of the head of government of Mexico City , Miguel Ángel Mancera , and other fighters who took advantage of it to know|pobj\tthe head of government of Mexico City , Miguel Ángel Mancera , and other fighters who took advantage of it to know|pobj"
+                },
+                {
+                    "question": "What did Mancera say about the gesture?",
+                    "score": 0.5766,
+                    "answers": "very happy for this gesture on the part of the Metro Collective Transport System|acomp"
+                },
+                {
+                    "question": "What is the name of the program that allows fighters who are under 18 to receive a pension?",
+                    "score": 0.5657,
+                    "answers": "With the assistance of the head of government of Mexico City , Miguel Ángel Mancera , and other fighters who took advantage of it to know that if they are more than   years old they can enjoy the privileges of the pension card that has been granted for almost   years|prep"
+                },
+                {
+                    "question": "What is the maximum idol of Mexican wrestling?",
+                    "score": 0.5536,
+                    "answers": "years old|acomp\tthat has been granted for almost   years|relcl\tmaximum|amod\tthe maximum idol of Mexican wrestling|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But when it all looked like honey on flakes, history turned unexpectedly, as we learned that the maximum idol of Mexican wrestling is suing government of Mexico City .",
+            "question_answers": [
+                {
+                    "question": "Who is suing the government of Mexico City?",
+                    "answer": "the maximum idol of Mexican wrestling"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the biggest idol of Mexican wrestling?",
+                    "score": 0.7159,
+                    "answers": "that|mark\tBut|cc\twhen|advmod\tit all|nsubj\tall|appos\ton flakes|prep\t,|punct\tunexpectedly|advmod\t,|punct\tas|mark\twe|nsubj\tthat|mark\tthe|det\tis|aux\tof Mexico City|prep\tMexico|compound"
+                },
+                {
+                    "question": "What is the history of Mexican wrestling?",
+                    "score": 0.714,
+                    "answers": "history|nsubj"
+                },
+                {
+                    "question": "What is the name of the government that is suing the government of Mexico City?",
+                    "score": 0.7048,
+                    "answers": "flakes|pobj"
+                },
+                {
+                    "question": "What is honey on flakes?",
+                    "score": 0.611,
+                    "answers": "like honey on flakes|prep\thoney on flakes|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In a small interview, the maximum idol of Mexican wrestling told us the Mexico City are cheating opportunists.",
+            "question_answers": [
+                {
+                    "question": "Where did the maximum idol of Mexican wrestling say they were cheating opportunists?",
+                    "answer": "Mexico City"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Mexican wrestling and Mexican wrestling?",
+                    "score": 0.7214,
+                    "answers": "on 30/06/2016|prep"
+                },
+                {
+                    "question": "What is the maximum idol of Mexican wrestling?",
+                    "score": 0.7069,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 30/06/2016 that In a small interview , the maximum idol of Mexican wrestling told us the Mexico City are cheating opportunists|ROOT\tthat|mark\tIn a small interview|prep\ta|det\tsmall|amod\ta small interview|pobj\t,|punct\tthe|det\tmaximum|amod\tthe maximum idol of Mexican wrestling|nsubj\tof Mexican wrestling|prep\tMexican wrestling|pobj\tthat In a small interview , the maximum idol of Mexican wrestling told us the Mexico City are cheating opportunists|ccomp\tus|dobj\tthe|det\tMexico|compound\tthe Mexico City|nsubj\tthe Mexico City are cheating opportunists|ccomp\tcheating|amod\tcheating opportunists|attr"
+                }
+            ]
+        },
+        {
+            "claim": "When Mexico City talked to the maximum idol of Mexican wrestling about following:'Those of the government , the maximum idol of Mexican wrestling told Mexico City that Mexico City had selfless support for dissemination, but Mexico City never talked about that there would be no economic gain whatsoever, which seems to the maximum idol of Mexican wrestling to be unfair and illegal.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did the government tell Mexico City about their support for the expansion of Mexican wrestling?",
+                    "score": 0.7962,
+                    "answers": "that Mexico City had selfless support for dissemination|ccomp\tselfless support for dissemination|dobj\tdissemination|pobj"
+                },
+                {
+                    "question": "What is the biggest idol of Mexican wrestling?",
+                    "score": 0.6909,
+                    "answers": "that When Mexico City talked to the maximum idol of Mexican wrestling about following:'Those of the government , the maximum idol of Mexican wrestling told Mexico City that Mexico City had selfless support for dissemination , but Mexico City never talked about that there would be no economic gain whatsoever , which seems to the maximum idol of Mexican wrestling to be unfair and illegal|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "the maximum idol of Mexican wrestling externed:'Just as the maximum idol of Mexican wrestling sued AAA, today the maximum idol of Mexican wrestling do it against government of Mexico City ! It's enough that everyone wants to profit from the Metro commemorative ticket image, since the only one authorized for that, it's the maximum idol of Mexican wrestling !\".",
+            "question_answers": [
+                {
+                    "question": "Who did the maximum idol of Mexican wrestling sue?",
+                    "answer": "government of Mexico City"
+                },
+                {
+                    "question": "Who did the maximum idol of Mexican wrestling sue?",
+                    "answer": "government of Mexico City"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the maximum idol of Mexican wrestling?",
+                    "score": 0.7267,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 30/06/2016 that the maximum idol of Mexican wrestling externed:'Just as the maximum idol of Mexican wrestling sued AAA|ccomp\ton 30/06/2016|prep\tthat|mark\tthe|det\tmaximum|amod\tthe maximum idol of Mexican wrestling|nsubj\tof Mexican wrestling|prep\tMexican wrestling|pobj\tthat the maximum idol of Mexican wrestling externed:'Just as the maximum idol of Mexican wrestling sued AAA|ccomp\tas|mark\tthe|det\tmaximum|amod\tthe maximum idol of Mexican wrestling|nsubj\tof Mexican wrestling|prep\tMexican wrestling|pobj\tas the maximum idol of Mexican wrestling sued AAA|ccomp\t,|punct\tthe|det\tmaximum|amod\tthe maximum idol of Mexican wrestling|nsubj\tof Mexican wrestling|prep\tMexican wrestling|pobj\twww.eldizque.com reported on 30/06/2016 that the maximum idol of Mexican wrestling externed:'Just as the maximum idol of Mexican wrestling sued AAA , today the maximum idol of Mexican wrestling do it against government of Mexico City !|ROOT\tit|dobj\tagainst government of Mexico City|prep\tgovernment of Mexico City|pobj\tof Mexico City|prep\tMexico|compound\t!|punct\tIt|nsubj\tIt 's enough that everyone wants to profit from the Metro commemorative ticket image , since the only one authorized for that , it 's the maximum idol of Mexican wrestling ! \"|ROOT\tenough|acomp\tthat|mark\teveryone|nsubj\tthat everyone wants to profit from the Metro commemorative ticket image|ccomp\tto|aux\tto profit from the Metro commemorative ticket image|xcomp\tfrom the Metro commemorative ticket image|prep\tthe|det\tcommemorative|amod\tcommemorative ticket|compound\tthe Metro commemorative ticket image|pobj\t,|punct\tsince|mark\tthe|det\tonly|advmod\tthe only one authorized for that|dep\tauthorized for that|acl\tfor that|prep\tthat|pobj\t,|punct\tit|nsubj\tsince the only one authorized for that , it 's the maximum idol of Mexican wrestling|advcl\tthe|det\tmaximum|amod\tthe maximum idol of Mexican wrestling|attr\tof Mexican wrestling|prep\tMexican wrestling|pobj\t!|punct\t\"|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Then the masked fighter withdrew, not without first telling us that he will send us the interview bill to the offices of El.",
+            "question_answers": [
+                {
+                    "question": "What did the masked fighter say he would do after he withdrew?",
+                    "answer": "he will send us the interview bill to the offices of El"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the masked fighter withdraw from El?",
+                    "score": 0.7899,
+                    "answers": "that Then the masked fighter withdrew , not without first telling us that he will send us the interview bill to the offices of El|ccomp"
+                },
+                {
+                    "question": "Did the masked fighter send an interview bill to El?",
+                    "score": 0.7395,
+                    "answers": "on 30/06/2016|prep"
+                },
+                {
+                    "question": "What is El's affiliation with the masked fighter?",
+                    "score": 0.6435,
+                    "answers": "of El|prep"
+                },
+                {
+                    "question": "What was the name of the masked fighter who withdrew from El Paso?",
+                    "score": 0.6232,
+                    "answers": "the masked fighter|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the meeting between El and the masked fighter?",
+                    "score": 0.5614,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,396 @@
+{
+    "id": "18_Society_90",
+    "claim": "The president of the department stores includes several points on the agenda that propose a strategic plan and the departure to the Stock ExchangeThe president of El Corte Ingles, Dimas Gimeno, will propose this Wednesday to the board of directors that is celebrated in Madrid the incorporation of independent advisers. To date, the group only has an independent adviser, Manuel Pizarro, who entered the company's top management body at the time of Isidoro Álvarez. In addition, it will propose a strategic plan in which it contemplates the departure to the Stock Exchange of the company. The meeting of the council arrives in a moment of internal tension in front of the family confrontation that is lived by the control of the department stores between Gimeno and its cousins, Marta and Cristina Álvarez Guil, advisors of the group. Sources close to these criticize Gimeno's attempt to introduce changes now, after three and a half years in which he was in the presidency 'without presenting projects'. The Council of The English Court (ECI) will discuss whether to add independents and the number of them. The request responds to the application of the rules on good corporate governance and is part of one of the items on the agenda that Gimeno incorporated in the initial call, which was only reduced to the formulation of the annual accounts for the year ended in February and on which, precisely, Gimeno meditates whether or not to approve them. In addition, Gimeno will present a future plan and a strategic plan, the completion of which is the Bolsa exit, and will request a report from the Audit Commission on the results of the investigation that EY is conducting on the company's security department following anonymous ones that reported alleged irregular practices that would involve several managers. In this regard, EY, which is also the audit firm of the department stores, has asked ECI for clarifications on the security accounts in order to reach a conclusion, so that this Wednesday's council will reveal little information. This council is ordinary and no debate is expected on the dismissal of Gimeno at the head of the group, a matter that has arisen since the group was stripped of its executive tasks last October. To this end, a next extraordinary council will be held which has been requested by the four executive councilors (the two delegated councilors, Jesús Nuño de la Rosa and Víctor del Pozo, and the old guard formed by Florencio Lasaga and Carlos Martínez Echevarría) and which is expected for June. Although not part of the petition, this group is joined by the sisters Marta and Cristina Álvarez Guil, daughters of Isidoro Álvarez and cousins of Gimeno. Sources close to them have criticized the fact that 'Dimas has not submitted any projects in three and a half years and that now that he sees himself standing and a half outside the presidency he proposes a broom council in which he puts a plan for the future, a strategic plan and the exit to the Stock Exchange'. I'm sorry.",
+    "source": "elpais.com",
+    "date": "29/05/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The president of the department stores this Wednesday's council The president of the department stores includes several points on the agenda that propose a strategic the annual accounts for the year ended in February and the departure to the Stock ExchangeThe The president of the department stores will independents this Wednesday to the annual accounts for the year ended in February directors that is celebrated in Madrid the incorporation of independent advisers.",
+            "question_answers": [
+                {
+                    "question": "Who will independents this Wednesday to the annual accounts for the ended in February directors?",
+                    "answer": "The president of the department stores"
+                },
+                {
+                    "question": "What type of advisers will the president of the department stores incorporate?",
+                    "answer": "independents"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the president of department stores propose a strategic annual accounts for the year ending in February?",
+                    "score": 0.7179,
+                    "answers": "ended in February|acl\tended in February|acl"
+                },
+                {
+                    "question": "What is the history of department stores?",
+                    "score": 0.5989,
+                    "answers": "elpais.com reported on 29/05/2018 that The president of the department stores this Wednesday 's council The president of the department stores includes several points on the agenda that propose a strategic the annual accounts for the year ended in February and the departure to the Stock ExchangeThe The president of the department stores will independents this Wednesday to the annual accounts for the year ended in February directors that is celebrated in Madrid the incorporation of independent advisers|ROOT\tthat|mark\tThe|det\tof the department stores|prep\tthe|det\tdepartment|compound\tthe department stores|pobj\tthis|det\tThe|det\tof the department stores|prep\tthe|det\tdepartment|compound\tthe department stores|pobj\tseveral|amod\tseveral points on the agenda that propose a strategic the annual accounts for the year ended in February and the departure to the Stock ExchangeThe|dobj\ton the agenda|prep\tthe|det\tthat|nsubj\ta|det\ta strategic the annual accounts for the year ended in February and the departure to the Stock ExchangeThe|dobj\tthe|det\tthe|det\tand|cc\tthe|det\tthe|det\tStock|compound\tThe|det\tof the department stores|prep\tthe|det\tdepartment|compound\tthe department stores|pobj\twill|aux\tThe president of the department stores will independents this Wednesday to the annual accounts for the year ended in February|dep\tthis|det\tthe|det\tthe annual accounts for the year ended in February|pobj\tthe|det\tthat|nsubjpass\tis|auxpass\tthat is celebrated in Madrid|acl\tin Madrid|prep\tthe|det"
+                },
+                {
+                    "question": "How many independent advisers were added to department stores in February 2018?",
+                    "score": 0.5892,
+                    "answers": "of independent advisers|prep"
+                }
+            ]
+        },
+        {
+            "claim": "To date, the department stores only has an independent adviser, Manuel Bolsa the time of Isidoro Álvarez.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the independent adviser in the department stores?",
+                    "answer": "Manuel Bolsa"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many independent advisers does department stores have?",
+                    "score": 0.7762,
+                    "answers": "that|mark\tdate|pobj\tdepartment|compound\tthe department stores|nsubj\tonly|advmod"
+                },
+                {
+                    "question": "What is the relationship between Isidoro and Manuel Bolsa?",
+                    "score": 0.5947,
+                    "answers": "the time of Isidoro Álvarez|appos\tof Isidoro Álvarez|prep"
+                },
+                {
+                    "question": "What was the relationship between Manuel Bolsa and Isidoro Alegarez?",
+                    "score": 0.5946,
+                    "answers": "an|det\tindependent|amod"
+                },
+                {
+                    "question": "Who is Manuel Bolsa?",
+                    "score": 0.5895,
+                    "answers": "an independent adviser , Manuel Bolsa the time of Isidoro Álvarez|dobj\tManuel Bolsa the time of Isidoro Álvarez|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, the department stores will propose a strategic plan in which the department stores contemplates EY the departure to the Stock ExchangeThe .",
+            "question_answers": [
+                {
+                    "question": "Who reported that the department stores will propose a strategic plan in which the department stores contemplates EY the departure to the Stock Exchange?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What plan did department stores propose for EY's departure to the Stock Exchange?",
+                    "score": 0.8339,
+                    "answers": "a strategic plan in which the department stores contemplates EY the departure to the Stock ExchangeThe|dobj"
+                },
+                {
+                    "question": "What is the relationship between department stores and the Stock Exchange?",
+                    "score": 0.6506,
+                    "answers": "on 29/05/2018|prep\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\tthe|det\tdepartment|compound\twill|aux\tthat In addition , the department stores will propose a strategic plan in which the department stores contemplates EY the departure to the Stock ExchangeThe|ccomp\ta|det\tstrategic|amod\tin which|prep\twhich|pobj\tthe|det\tdepartment|compound\tthe|det\tthe|det\tStock|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The EY the Stock ExchangeThe arrives in a moment of internal tension in front this Wednesday's council family confrontation Gimeno is lived by the control of the department stores Gimeno the department stores between Gimeno and cousins, Marta and Cristina Álvarez Guil, advisors of the department stores .",
+            "question_answers": [
+                {
+                    "question": "Who reported that The EY the Stock Exchange arrived in a moment of internal tension?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who owns Gimeno department stores?",
+                    "score": 0.5961,
+                    "answers": "Gimeno is lived by the control of the department stores Gimeno the department stores between Gimeno and cousins , Marta and Cristina Álvarez Guil , advisors of the department stores|acl\tby the control of the department stores Gimeno the department stores between Gimeno and cousins , Marta and Cristina Álvarez Guil , advisors of the department stores|agent\tof the department stores Gimeno the department stores|prep\tGimeno the department stores|appos"
+                },
+                {
+                    "question": "Who owns the department stores Gimeno and Marta?",
+                    "score": 0.5609,
+                    "answers": "and|cc\tMarta and Cristina|nmod\tand|cc"
+                },
+                {
+                    "question": "Who owns Gimeno?",
+                    "score": 0.5463,
+                    "answers": "the department stores|appos\tof the department stores|prep\tthe department stores|pobj"
+                },
+                {
+                    "question": "How many department stores are there in Gimeno?",
+                    "score": 0.5163,
+                    "answers": "this Wednesday 's council family confrontation Gimeno is lived by the control of the department stores Gimeno the department stores between Gimeno and cousins , Marta and Cristina Álvarez Guil , advisors of the department stores|pobj"
+                },
+                {
+                    "question": "What is EY the Stock Exchange?",
+                    "score": 0.5103,
+                    "answers": "The EY the Stock ExchangeThe|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Sources close to these criticize The president of the department stores attempt to introduce changes now, after three and a half years in which The president of the department stores was in the presidency 'without presenting projects'.",
+            "question_answers": [
+                {
+                    "question": "How long was the president of the department stores in the presidency?",
+                    "answer": "three and a half years"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the president of department stores doing during the presidency?",
+                    "score": 0.7314,
+                    "answers": "The president of the department stores attempt to introduce changes now , after three and a half years in which The president of the department stores was in the presidency ' without presenting projects '|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "the Stock ExchangeThe will discuss whether to add the council and the number of the council .",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Stock Exchange would discuss adding the council and the number of the council?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many council members does the Stock Exchange have?",
+                    "score": 0.6791,
+                    "answers": "the number of the council|conj\tof the council|prep"
+                },
+                {
+                    "question": "What is the purpose of the Stock Exchange?",
+                    "score": 0.6331,
+                    "answers": "elpais.com reported on 29/05/2018 that the Stock ExchangeThe will discuss whether to add the council and the number of the council|ROOT\ton 29/05/2018|prep\tthat|mark\tthe|det\tStock|compound\twill|aux\tthat the Stock ExchangeThe will discuss whether to add the council and the number of the council|ccomp\twhether|mark\tto|aux\twhether to add the council and the number of the council|xcomp\tthe|det\tthe council and the number of the council|dobj\tand|cc\tthe|det\tthe|det\tthe council|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "independents responds to the application of the rules on good corporate governance and is part of one of the items on the agenda this Wednesday's council The president of the department stores incorporated in the initial call, which was this Wednesday's council reduced to the formulation of propose and this Wednesday's council , precisely, The president of the department stores meditates whether or not to approve propose .",
+            "question_answers": [
+                {
+                    "question": "When did the president of the department stores meditate on whether or not to approve propose?",
+                    "answer": "this Wednesday's council"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did independents do to respond to the application of the rules on good corporate governance?",
+                    "score": 0.7245,
+                    "answers": "that independents responds to the application of the rules on good corporate governance and is part of one of the items on the agenda this Wednesday 's council|ccomp"
+                },
+                {
+                    "question": "What does the president of department stores say on whether or not to approve proposals?",
+                    "score": 0.6715,
+                    "answers": "The president of the department stores meditates whether or not to approve propose|ROOT"
+                },
+                {
+                    "question": "What was the purpose of the Wednesday's council meeting?",
+                    "score": 0.5971,
+                    "answers": "corporate|amod\tdepartment|compound\tincorporated in the initial call , which was this Wednesday 's council reduced to the formulation of propose and this Wednesday 's council , precisely|acl\tin the initial call , which was this Wednesday 's council reduced to the formulation of propose and this Wednesday 's council , precisely|prep\tinitial|amod\tthe initial call , which was this Wednesday 's council reduced to the formulation of propose and this Wednesday 's council , precisely|pobj\tdepartment|compound"
+                },
+                {
+                    "question": "What was on the agenda for this Wednesday's council?",
+                    "score": 0.5965,
+                    "answers": "is part of one of the items on the agenda this Wednesday 's council|conj"
+                },
+                {
+                    "question": "What is the relationship between the president of the department stores and the Wednesday's council?",
+                    "score": 0.5796,
+                    "answers": "The president of the department stores incorporated in the initial call , which was this Wednesday 's council reduced to the formulation of propose and this Wednesday 's council , precisely ,|ROOT\twhether|mark\tnot|neg"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, Gimeno will present a future plan and a strategic plan, the completion of which is the Bolsa exit, and will request a report from the Audit Commission on the results of the investigation that EY is conducting on the company's security department following anonymous ones that reported alleged irregular practices that would involve several managers.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Gimeno will present a future plan and a strategic plan?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Gimeno say about the Bolsa exit?",
+                    "score": 0.7436,
+                    "answers": "a future plan and a strategic plan , the completion of which is the Bolsa exit|dobj\tthe completion of which is the Bolsa exit|relcl"
+                },
+                {
+                    "question": "What did Gimeno request from the Audit Commission?",
+                    "score": 0.6879,
+                    "answers": "addition|pobj\tfrom the Audit Commission|prep"
+                },
+                {
+                    "question": "What did Gimeno do with the audit commission?",
+                    "score": 0.6878,
+                    "answers": "anonymous ones that reported alleged irregular practices that would involve several managers|pobj"
+                },
+                {
+                    "question": "What is the purpose of the Bolsa exit?",
+                    "score": 0.6235,
+                    "answers": "the Bolsa exit|attr"
+                },
+                {
+                    "question": "What is Gimeno's plan for EY's security department?",
+                    "score": 0.5937,
+                    "answers": "that In addition , Gimeno will present a future plan and a strategic plan , the completion of which is the Bolsa exit , and will request a report from the Audit Commission on the results of the investigation that EY is conducting on the company 's security department following anonymous ones that reported alleged irregular practices that would involve several managers|ccomp\tfuture|amod\tstrategic|amod\tthe completion of which|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In this regard, EY, which is also the audit firm of the department stores, has asked ECI for clarifications on the security accounts in order to reach a conclusion, so that this Wednesday's council will reveal little information.",
+            "question_answers": [
+                {
+                    "question": "Who reported that EY has asked ECI for clarifications on the security accounts?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is EY's audit firm of department stores?",
+                    "score": 0.6616,
+                    "answers": "the audit firm of the department stores|attr"
+                },
+                {
+                    "question": "What did ECI ask ECI for clarifications on?",
+                    "score": 0.6001,
+                    "answers": "on 29/05/2018|prep\tthat|mark\tIn this regard|prep\tthis|det\tthis regard|pobj\t,|punct\t,|punct\twhich|nsubj\talso|advmod\tthe|det\taudit|compound\tof the department stores|prep\tthe|det\tdepartment|compound\tthe department stores|pobj\t,|punct\thas|aux\tthat In this regard , EY , which is also the audit firm of the department stores , has asked ECI for clarifications on the security accounts in order to reach a conclusion , so that this Wednesday 's council will reveal little information|ccomp\tclarifications on the security accounts|pobj\tthe|det\tsecurity|compound\tthe security accounts|pobj\torder to reach a conclusion ,|pobj\tto|aux\ta|det\ta conclusion|dobj\t,|punct\tso|mark\tthat|mark\tthis|det\t's|case\twill|aux\tso that this Wednesday 's council will reveal little information|advcl\tlittle|amod\tlittle information|dobj"
+                },
+                {
+                    "question": "What is ECI's role in department stores?",
+                    "score": 0.5979,
+                    "answers": "which is also the audit firm of the department stores|relcl"
+                },
+                {
+                    "question": "What is EY's relationship with the department stores?",
+                    "score": 0.583,
+                    "answers": "EY , which is also the audit firm of the department stores ,|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "This council is ordinary and no debate is expected on the dismissal of Gimeno at the head of the group, a matter that has arisen since the group was stripped of its executive tasks last October.",
+            "question_answers": [
+                {
+                    "question": "Who reported that this council is ordinary and no debate is expected on the dismissal of Gimeno?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why was Gimeno removed from his executive duties?",
+                    "score": 0.7884,
+                    "answers": "the dismissal of Gimeno at the head of the group , a matter that has arisen since the group was stripped of its executive tasks last October|pobj\tthat has arisen since the group was stripped of its executive tasks last October|relcl\tsince the group was stripped of its executive tasks last October|advcl"
+                },
+                {
+                    "question": "What did Gimeno do to the group?",
+                    "score": 0.6397,
+                    "answers": "the group|pobj\tthe group|nsubjpass"
+                },
+                {
+                    "question": "What was Gimeno's position on the executive order?",
+                    "score": 0.5933,
+                    "answers": "a matter that has arisen since the group was stripped of its executive tasks last October|appos"
+                },
+                {
+                    "question": "What is the relationship between Gimeno and the ANC?",
+                    "score": 0.5128,
+                    "answers": "on 29/05/2018|prep\tthat|mark\tThis|det\tThis council|nsubj\tand|cc\tno|det\tis|auxpass\tthe|det\tthe|det\tof the group|prep\tthe|det\t,|punct\ta|det\tthat|nsubj\thas|aux\tsince|mark\tthe|det\twas|auxpass\tits|poss\tlast|amod"
+                }
+            ]
+        },
+        {
+            "claim": "To this end, a next extraordinary council will be held which has been requested by the four executive councilors (the two delegated councilors, Jesús Nuño de la Rosa and Víctor del Pozo, and the old guard formed by Florencio Lasaga and Carlos Martínez Echevarría) and which is expected for June.",
+            "question_answers": [
+                {
+                    "question": "Who reported that a next extraordinary council would be held?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will the next extraordinary councilors be held?",
+                    "score": 0.652,
+                    "answers": "which is expected for June|conj\tfor June|prep"
+                },
+                {
+                    "question": "What did the executive councilors request for the next extraordinary councilors?",
+                    "score": 0.6495,
+                    "answers": "elpais.com reported on 29/05/2018 that To this end , a next extraordinary council which has been requested by the four executive councilors ( the two delegated councilors , Jesús Nuño de la Rosa and Víctor del Pozo , and the old guard formed by Florencio Lasaga and Carlos Martínez Echevarría ) and which is expected for June will be held|ROOT"
+                },
+                {
+                    "question": "Who formed the old guard formed by Florencio Lasaga?",
+                    "score": 0.6099,
+                    "answers": "the old guard formed by Florencio Lasaga and Carlos Martínez Echevarría )|conj"
+                },
+                {
+                    "question": "What is the date of the next councilors?",
+                    "score": 0.5169,
+                    "answers": "by Florencio Lasaga and Carlos Martínez Echevarría|agent"
+                },
+                {
+                    "question": "Who is Víctor del Pozo?",
+                    "score": 0.4843,
+                    "answers": "Víctor|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Although not part of the petition, this group is joined by the sisters Marta and Cristina Álvarez Guil, daughters of Isidoro Álvarez and cousins of Gimeno.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Who are Marta and Cristina Guil's sisters?",
+                    "score": 0.7212,
+                    "answers": "Marta and Cristina Álvarez Guil|appos"
+                },
+                {
+                    "question": "Who are the sisters Marta and Cristina �lvarez Guil?",
+                    "score": 0.6942,
+                    "answers": "Álvarez|compound"
+                },
+                {
+                    "question": "What are the names of Marta and Cristina Guil?",
+                    "score": 0.6081,
+                    "answers": "Marta and Cristina|nmod"
+                },
+                {
+                    "question": "What is the name of the petition signed by Marta and Cristina Guil and cousins of Gimeno?",
+                    "score": 0.6061,
+                    "answers": "not|neg"
+                }
+            ]
+        },
+        {
+            "claim": "Sources close to them have criticized the fact that 'Dimas has not submitted any projects in three and a half years and that now that he sees himself standing and a half outside the presidency he proposes a broom council in which he puts a plan for the future, a strategic plan and the exit to the Stock Exchange'.",
+            "question_answers": [
+                {
+                    "question": "What website reported that Sources close to them criticized the fact that Dimas has not submitted any projects in three and a half years?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Dimas propose a broom council?",
+                    "score": 0.7675,
+                    "answers": "now that he sees himself standing and a half outside the presidency|advmod"
+                },
+                {
+                    "question": "What did Dimas propose to do to the Stock Exchange?",
+                    "score": 0.6751,
+                    "answers": "the exit to the Stock Exchange|conj"
+                },
+                {
+                    "question": "How many projects has Dimas proposed outside of the presidency?",
+                    "score": 0.6539,
+                    "answers": "the fact that ' Dimas has not submitted any projects in three and a half years and that now that he sees himself standing and a half outside the presidency he proposes a broom council in which he puts a plan for the future , a strategic plan and the exit to the Stock Exchange '|dobj"
+                },
+                {
+                    "question": "How long has Dimas been in office?",
+                    "score": 0.6088,
+                    "answers": "in three and a half years|prep"
+                },
+                {
+                    "question": "What is the relationship between Dimas and the Trump administration?",
+                    "score": 0.5547,
+                    "answers": "himself standing and a half outside the presidency|ccomp"
+                }
+            ]
+        }
+    ]
+}

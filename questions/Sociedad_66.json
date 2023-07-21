@@ -1,0 +1,427 @@
+{
+    "id": "Sociedad_66",
+    "claim": "A new scandal has involved the Secretary General of Podemos, Pablo Iglesias, and his partner and spokesman in the Congress of the same formation, Irene Montero, when it became known that, in addition to the chalet in the Madrid mountain range worth more than 600. 000 euros, they have also acquired in property a beachfront apartment in Benidorm. According to this medium, it is a penthouse of 140 square meters located in the urbanization Empress, with community pool and private garage, facing the beach of Poniente of the tourist town Alicante. The price of this second residence, so far owned by a Swiss family and bought through a real estate agency, is around 400. EUR 000. The figure, added to that of the residence acquired in Galapagar, matches the million euros that expects to receive Iglesias when their parents die. In transcending the news of this new real estate operation, the leader of Podemos has hastened to explain that “like all good Madrid, we will summer on the Costa Blanca and rent is to throw away the money, so we think the best thing is to have a house there”. Montero, for his part, has pointed out that “we do it more than anything for the twins”. “When they have a few years, spending all summer in the pool in the house of the mountain will be very boring because the friends will go to the beach, so we have decided that our illusion was also to have an apartment on the coast“, added the parliamentary spokesman of Podemos. The mayor of Benidorm, Toni Perez (PP), has contacted Pablo Iglesias to welcome him to the city of skyscrapers, the New York of the Mediterranean. “Despite our ideological distance, we are glad that popular faces, known I mean, bet on our city to spend their holidays,” he told reporters who asked him today about the new summer resident. It has since been known that Pablo Iglesias is moving, tired of receiving scraches in front of his chalet. The new controversy around “Pablontero”, as the couple has been renamed on Twitter, arises when the fire of the previous one has not yet been extinguished and has provoked, as expected, a new wave of memes on social networks. One of the most shared places them as L'Oreal models, but changing their famous slogan from “Because I'm worth it” to a more sarcastic one: “Because. I'm sorry. I'm sorry. we can”",
+    "source": "viscalacant.com",
+    "date": "19/05/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A new scandal has involved the Secretary General of Podemos, Pablo Iglesias , and they , when it became known that, in addition to around 400. EUR 000 .",
+            "question_answers": [
+                {
+                    "question": "Who is the Secretary General of Podemos?",
+                    "answer": "Pablo Iglesias"
+                },
+                {
+                    "question": "Who is the Secretary General of Podemos?",
+                    "answer": "Pablo Iglesias"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money has the Secretary General of Podemos, Pablo Iglesias, received?",
+                    "score": 0.7509,
+                    "answers": "that , in addition to around 400 . EUR 000|prep\taddition to around 400 . EUR 000|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "around 400. EUR 000 , the chalet in the Madrid mountain range worth more than 600. 000 euros have also acquired in property Podemos .",
+            "question_answers": [
+                {
+                    "question": "How much was the chalet in the Madrid mountain range worth?",
+                    "answer": "EUR 000"
+                },
+                {
+                    "question": "How much was the chalet in the Madrid mountain range worth?",
+                    "answer": "EUR 000"
+                },
+                {
+                    "question": "How much was the chalet in the Madrid mountain range worth?",
+                    "answer": "400. EUR 000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the value of the chalet in the Madrid mountain range?",
+                    "score": 0.6323,
+                    "answers": "viscalacant.com reported on 19/05/2018 that around 400 . EUR 000 , the chalet in the Madrid mountain range worth more than 600 . 000 euros have also acquired in property Podemos|ROOT\ton 19/05/2018|prep\tthat|mark\taround|advmod\t400|quantmod\t.|quantmod\tEUR|quantmod\taround 400 . EUR 000|dep\t,|punct\tthe|det\tthe chalet in the Madrid mountain range worth more than 600 . 000 euros|nsubj\tin the Madrid mountain range|prep\tthe|det\tmountain|compound\tthe Madrid mountain range|pobj\tworth more than 600 . 000 euros|amod\tmore|amod\tthan|quantmod\t600|quantmod\t.|compound\tmore than 600 . 000|nummod\tmore than 600 . 000 euros|npadvmod\thave|aux\talso|advmod\tthat around 400 . EUR 000 , the chalet in the Madrid mountain range worth more than 600 . 000 euros have also acquired in property Podemos|ccomp\tin property|prep"
+                },
+                {
+                    "question": "What is Podemos?",
+                    "score": 0.502,
+                    "answers": "property|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to this medium, Podemos is a penthouse of 140 square meters located in the urbanization Empress, with community pool and private garage, facing the beach of Poniente of the tourist town Alicante.",
+            "question_answers": [
+                {
+                    "question": "How large is Podemos?",
+                    "answer": "140 square meters"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many square meters is Podemos?",
+                    "score": 0.5342,
+                    "answers": "140|nummod"
+                },
+                {
+                    "question": "Where is Podemos located in the urbanization Empress?",
+                    "score": 0.5296,
+                    "answers": "this|det\tthe|det\tand|cc\tthe|det\tthe|det\ttourist|compound"
+                },
+                {
+                    "question": "Where is Podemos located?",
+                    "score": 0.5092,
+                    "answers": "viscalacant.com reported on 19/05/2018 that According to this medium , Podemos is a penthouse of 140 square meters located in the urbanization Empress , with community pool and private garage , facing the beach of Poniente of the tourist town Alicante|ROOT\tthat|mark\tAccording to this medium|prep\t,|punct\tthat According to this medium , Podemos is a penthouse of 140 square meters located in the urbanization Empress , with community pool and private garage , facing the beach of Poniente of the tourist town Alicante|ccomp\tlocated in the urbanization Empress|acl\tin the urbanization Empress|prep\tthe urbanization Empress|pobj\t,|punct\t,|punct"
+                },
+                {
+                    "question": "Where is the beach of Poniente?",
+                    "score": 0.5036,
+                    "answers": "the beach of Poniente of the tourist town Alicante|dobj"
+                },
+                {
+                    "question": "Where is Poniente beach?",
+                    "score": 0.4993,
+                    "answers": "facing the beach of Poniente of the tourist town Alicante|acl"
+                }
+            ]
+        },
+        {
+            "claim": "The price of Podemos , is a beachfront apartment in Benidorm .",
+            "question_answers": [
+                {
+                    "question": "What was the name of the beachfront apartment in Benidorm?",
+                    "answer": "The price of Podemos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the price of Podemos?",
+                    "score": 0.7132,
+                    "answers": "viscalacant.com reported on 19/05/2018 that The price of Podemos , is a beachfront apartment in Benidorm|ROOT\ton 19/05/2018|prep\tthat|mark\tThe|det\tThe price of Podemos|nsubj\tof Podemos|prep\t,|punct\tthat The price of Podemos , is a beachfront apartment in Benidorm|ccomp\ta|det\tbeachfront|amod\ta beachfront apartment in Benidorm|attr\tin Benidorm|prep"
+                }
+            ]
+        },
+        {
+            "claim": "a beachfront apartment in Benidorm .",
+            "question_answers": [
+                {
+                    "question": "What type of apartment was reported to be in Benidorm?",
+                    "answer": "beachfront"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is the beachfront apartment in Benidorm located?",
+                    "score": 0.7771,
+                    "answers": "beachfront|amod"
+                },
+                {
+                    "question": "What is the name of the apartment in Benidorm?",
+                    "score": 0.6517,
+                    "answers": "on 19/05/2018|prep\tthat|mark\ta|det\tin Benidorm|prep"
+                }
+            ]
+        },
+        {
+            "claim": "a beachfront apartment in Benidorm , added to that of around 400. EUR 000 , matches the million euros that expects to receive the Secretary General of Podemos, Pablo Iglesias when their parents die.",
+            "question_answers": [
+                {
+                    "question": "Where was the beachfront apartment reported to be located?",
+                    "answer": "Benidorm"
+                },
+                {
+                    "question": "How much does the beachfront apartment in Benidorm match the million euros that expects to receive the Secretary General of Podemos, Pablo Iglesias?",
+                    "answer": "EUR 000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money does the Secretary General of Podemos, Pablo Iglesias receive?",
+                    "score": 0.6906,
+                    "answers": "that|mark\taround|advmod\t.|quantmod\tthat|nsubj\tto|aux\twhen|advmod\ttheir|poss\ttheir parents|nsubj"
+                },
+                {
+                    "question": "What is the amount of money that is expected to be spent on the construction of a beachfront apartment in Benidorm?",
+                    "score": 0.6515,
+                    "answers": "around 400 . EUR 000|pobj"
+                },
+                {
+                    "question": "What is the name of the apartment in Benidorm?",
+                    "score": 0.5586,
+                    "answers": "of Podemos|prep"
+                },
+                {
+                    "question": "What is the relationship between parents and their children?",
+                    "score": 0.5055,
+                    "answers": "when their parents die|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "In transcending the news of this new real estate operation, the Secretary General of Podemos, Pablo Iglesias has hastened to explain that “like all good Madrid, the chalet in the Madrid mountain range worth more than 600. 000 euros will summer on the Costa Blanca and rent is to throw away the money, so the chalet in the Madrid mountain range worth more than 600. 000 euros think the best thing is to have a house there”.",
+            "question_answers": [
+                {
+                    "question": "How much is the chalet in the Madrid mountain range worth?",
+                    "answer": "600. 000 euros"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money will the chalet in the Madrid mountain range cost?",
+                    "score": 0.749,
+                    "answers": "like all good Madrid , the chalet in the Madrid mountain range worth more than 600 . 000 euros will summer on the Costa Blanca and rent is to throw away the money|ccomp"
+                },
+                {
+                    "question": "What is the amount of money that the Secretary General of Podemos, Pablo Iglesias, wants to spend on housing?",
+                    "score": 0.6826,
+                    "answers": "on 19/05/2018|prep\tmore than 600 . 000|nummod\tmore than 600 . 000 euros|npadvmod\tmore than 600 . 000|nummod\tmore than 600 . 000 euros|npadvmod"
+                },
+                {
+                    "question": "What is the cost of this new real estate operation?",
+                    "score": 0.6785,
+                    "answers": "of this new real estate operation|prep"
+                },
+                {
+                    "question": "What is the name of the new real estate operation in Madrid?",
+                    "score": 0.6651,
+                    "answers": "this new real estate operation|pobj"
+                },
+                {
+                    "question": "What is the best thing to own a house?",
+                    "score": 0.6417,
+                    "answers": "a house there|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "they , for part, has pointed out that “the chalet in the Madrid mountain range worth more than 600. 000 euros do it more than anything for his partner and spokesman in the Congress of the same formation, Irene Montero ”.",
+            "question_answers": [
+                {
+                    "question": "Who is the spokesman in the Congress of the same formation?",
+                    "answer": "Irene Montero"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much is the chalet in the Madrid mountain range worth?",
+                    "score": 0.7345,
+                    "answers": "viscalacant.com reported on 19/05/2018 that they , for part , has pointed out that “ the chalet in the Madrid mountain range worth more than 600 . 000 euros do it more than anything for his partner and spokesman in the Congress of the same formation , Irene Montero ”|ROOT\ton 19/05/2018|prep\tpart|pobj\tthat they , for part , has pointed out that “ the chalet in the Madrid mountain range worth more than 600 . 000 euros do it more than anything for his partner and spokesman in the Congress of the same formation , Irene Montero ”|ccomp\tout|prt\tthat “ the chalet in the Madrid mountain range worth more than 600 . 000 euros do it more than anything for his partner and spokesman in the Congress of the same formation , Irene Montero ”|ccomp\tin the Congress of the same formation|prep\tthe Congress of the same formation|pobj\tof the same formation|prep\tthe same formation|pobj"
+                },
+                {
+                    "question": "Who is Irene Montero's partner in the Congress of the same formation?",
+                    "score": 0.5458,
+                    "answers": "his partner and spokesman in the Congress of the same formation , Irene Montero|pobj"
+                },
+                {
+                    "question": "Who is Irene Montero?",
+                    "score": 0.5328,
+                    "answers": "for his partner and spokesman in the Congress of the same formation , Irene Montero|prep\tspokesman|conj\tIrene|compound"
+                }
+            ]
+        },
+        {
+            "claim": "“When his partner and spokesman in the Congress of the same formation, Irene Montero have a few years, spending all summer in the pool in around 400. EUR 000 will be very boring because the friends will go to the beach, so the chalet in the Madrid mountain range worth more than 600. 000 euros have decided that illusion was also to have an apartment on the coast“, added they .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 19/05/2018 that \"When his partner and spokesman in the Congress of the same formation, Irene Montero have a few years, spending all summer in the pool in around 400?\"",
+                    "answer": "viscalacant.com"
+                },
+                {
+                    "question": "How much did Irene Montero spend in the pool?",
+                    "answer": "EUR 000"
+                },
+                {
+                    "question": "How much did Montero spend to have an apartment on the coast?",
+                    "answer": "000 euros"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Irene Montero spend on the beach?",
+                    "score": 0.5233,
+                    "answers": "When his partner and spokesman in the Congress of the same formation , Irene Montero have a few years , spending all summer in the pool in around 400 . EUR 000 will be very boring because the friends will go to the beach , so the chalet in the Madrid mountain range worth more than 600 . 000 euros have decided that illusion was also to have an apartment on the coast “|ccomp"
+                },
+                {
+                    "question": "What is the name of the chalet in the Madrid mountain range worth more than 600,000 euros?",
+                    "score": 0.4129,
+                    "answers": "that illusion was also to have an apartment on the coast|conj"
+                },
+                {
+                    "question": "Who is Irene Montero's partner in the Congress of the same formation?",
+                    "score": 0.4058,
+                    "answers": "the Congress of the same formation|pobj"
+                },
+                {
+                    "question": "What is the relationship between Irene Montero and Floridians?",
+                    "score": 0.373,
+                    "answers": "of the same formation|prep\tthe friends|nsubj"
+                },
+                {
+                    "question": "Who is Irene Montero?",
+                    "score": 0.3719,
+                    "answers": "his partner and spokesman in the Congress of the same formation , Irene Montero|nsubj\tin the Congress of the same formation|prep\tIrene|compound\tWhen his partner and spokesman in the Congress of the same formation , Irene Montero have a few years|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "The mayor of Benidorm, Toni Perez (PP), has contacted Pablo Iglesias to welcome him to the city of skyscrapers, the New York of the Mediterranean.",
+            "question_answers": [
+                {
+                    "question": "Who is the mayor of Benidorm?",
+                    "answer": "Toni Perez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Toni Perez and Pablo Iglesias?",
+                    "score": 0.5622,
+                    "answers": "viscalacant.com reported on 19/05/2018 that The mayor of Benidorm , Toni Perez ( PP ) , has contacted Pablo Iglesias to welcome him to the city of skyscrapers , the New York of the Mediterranean|ROOT"
+                },
+                {
+                    "question": "Who is the mayor of Benidorm?",
+                    "score": 0.5611,
+                    "answers": "on 19/05/2018|prep\tthat|mark\tThe|det\tThe mayor of Benidorm , Toni Perez ( PP ) ,|nsubj\tof Benidorm|prep\t,|punct\tToni|compound\tToni Perez ( PP|appos\t(|punct\tPP|appos\t)|punct\t,|punct\thas|aux\tthat The mayor of Benidorm , Toni Perez ( PP ) , has contacted Pablo Iglesias to welcome him to the city of skyscrapers , the New York of the Mediterranean|ccomp\tPablo|compound\thim|dobj\tto the city of skyscrapers , the New York of the Mediterranean|prep\tthe|det\tthe city of skyscrapers , the New York of the Mediterranean|pobj\tof skyscrapers|prep\tskyscrapers|pobj\t,|punct\tthe|det\tNew|compound\tthe New York of the Mediterranean|appos\tof the Mediterranean|prep\tthe|det\tthe Mediterranean|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "“Despite our ideological distance, we are glad that popular faces, known I mean, bet on our city to spend their holidays,” he told reporters who asked him today about the new summer resident.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 19/05/2018 that “Despite our ideological distance, we are glad that popular faces, known faces, bet on our city to spend their holidays?”",
+                    "answer": "viscalacant.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are popular faces known for spending their holidays on?",
+                    "score": 0.5428,
+                    "answers": "their holidays|dobj"
+                },
+                {
+                    "question": "What is the name of the new summer resident in San Diego?",
+                    "score": 0.4918,
+                    "answers": "who asked him today about the new summer resident|relcl"
+                },
+                {
+                    "question": "What is the political orientation of the new resident of New York?",
+                    "score": 0.4843,
+                    "answers": "we|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the number of people who bet on the city to spend holidays?",
+                    "score": 0.4814,
+                    "answers": "that “ Despite our ideological distance , we are glad that popular faces , known I mean , bet on our city to spend their holidays|ccomp"
+                },
+                {
+                    "question": "What are the political views of New Jersey?",
+                    "score": 0.4796,
+                    "answers": "our|poss\tour|poss"
+                }
+            ]
+        },
+        {
+            "claim": "It has since been known that Pablo Iglesias is moving, tired of receiving scraches in front of his chalet.",
+            "question_answers": [
+                {
+                    "question": "What is Pablo Iglesias tired of receiving in front of his chalet?",
+                    "answer": "scraches"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why are there scraches in front of Pablo Iglesias chalet?",
+                    "score": 0.7759,
+                    "answers": "that Pablo Iglesias is moving , tired of receiving scraches in front of his chalet|ccomp"
+                },
+                {
+                    "question": "How many scraches did Pablo Iglesias receive in front of his chalet?",
+                    "score": 0.707,
+                    "answers": "that|mark\tIt|nsubjpass\thas|aux\tsince|advmod\tbeen|auxpass\tthat It has since been known that Pablo Iglesias is moving , tired of receiving scraches in front of his chalet|ccomp\tthat|mark\tPablo|compound\tis|aux\t,|punct\ttired of receiving scraches in front of his chalet|advcl\tof receiving scraches in front of his chalet|prep\treceiving scraches in front of his chalet|pcomp\tscraches|dobj\tin front of his chalet|prep\tfront of his chalet|pobj\tof his chalet|prep\this|poss\this chalet|pobj"
+                },
+                {
+                    "question": "What is the relationship between Pablo Iglesias and his chalet?",
+                    "score": 0.5882,
+                    "answers": "viscalacant.com reported on 19/05/2018 that It has since been known that Pablo Iglesias is moving , tired of receiving scraches in front of his chalet|ROOT\ton 19/05/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The new controversy around “Pablontero”, as the couple has been renamed on Twitter, arises when the fire of the previous one has not yet been extinguished and has provoked, as expected, a new wave of memes on social networks.",
+            "question_answers": [
+                {
+                    "question": "When does the new controversy aroundablontero arise?",
+                    "answer": "when the fire of the previous one has not yet been extinguished"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Pablontero being named on Twitter?",
+                    "score": 0.6224,
+                    "answers": "memes|pobj"
+                },
+                {
+                    "question": "What was the name of the new controversy around Pablontero?",
+                    "score": 0.6088,
+                    "answers": "of the previous one|prep"
+                },
+                {
+                    "question": "What is the relationship between Pablontero and Trump?",
+                    "score": 0.5649,
+                    "answers": "that|mark\tThe|det\tnew|amod\t“|punct\t”|punct\t,|punct\tas|mark\tthe|det\ton Twitter|prep\t,|punct\tthe|det\tthe|det\tthe previous one|pobj\tand|cc\t,|punct\tas|mark\tas expected|advcl\t,|punct\tnew|amod\ton social networks|prep\tsocial|amod\tsocial networks|pobj"
+                },
+                {
+                    "question": "What is the new wave of memes on social networks?",
+                    "score": 0.5332,
+                    "answers": "a new wave of memes on social networks|dobj"
+                },
+                {
+                    "question": "What is Pablontero?",
+                    "score": 0.5266,
+                    "answers": "on 19/05/2018|prep\taround “ Pablontero ” , as the couple has been renamed on Twitter ,|prep\t“ Pablontero ” , as the couple has been renamed on Twitter ,|pobj\thas|aux\tbeen|auxpass\twhen|advmod\tthe fire of the previous one|nsubjpass\tprevious|amod\thas|aux\tnot|neg\tyet|advmod\tbeen|auxpass\thas|aux\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "One of the most shared places them as L'Oreal models, but changing their famous slogan from “Because I'm worth it” to a more sarcastic one: “Because.",
+            "question_answers": [
+                {
+                    "question": "Who reported that L'Oreal changed their famous slogan from \"Because I'm worth it\" to \"Because I'm worth it\"?",
+                    "answer": "viscalacant.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the most shared slogan of L'Oreal models?",
+                    "score": 0.6887,
+                    "answers": "the most shared|pobj"
+                },
+                {
+                    "question": "What is L'Oreal's famous slogan?",
+                    "score": 0.673,
+                    "answers": "of the most shared|prep"
+                },
+                {
+                    "question": "What is the relationship between L'Oreal and L’Oreal models?",
+                    "score": 0.6707,
+                    "answers": "viscalacant.com reported on 19/05/2018 that One of the most shared places them as L'Oreal models , but changing their famous slogan from “ Because I 'm worth it ” to a more sarcastic one : “ Because|ROOT"
+                },
+                {
+                    "question": "What did viscalacant.com do to change their famous slogan?",
+                    "score": 0.6659,
+                    "answers": "changing their famous slogan from “ Because I 'm worth it ” to a more sarcastic one : “ Because|conj"
+                },
+                {
+                    "question": "What is the name of the L'Oreal model?",
+                    "score": 0.6456,
+                    "answers": "that|mark\tthe|det\tmost|advmod\tthem|dobj\tL'Oreal models|pobj\t,|punct\tbut|cc\ttheir|poss\tfamous|amod\ttheir famous slogan|dobj\tfrom “ Because I 'm worth it ”|prep\t“|punct\tBecause|mark\tI|nsubj\tworth it|acomp\tit|npadvmod\t”|punct\ta|det\tmore|advmod\t:|punct\t“|punct\tBecause|prep"
+                }
+            ]
+        }
+    ]
+}

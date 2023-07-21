@@ -1,0 +1,211 @@
+{
+    "id": "76_Science_162",
+    "claim": "Space rocks of this size are not so close to the planet, according to NASAA larger asteroid than a bus will pass this Friday at a safe but close distance to Earth, less than a fifth of the distance that separates us from the moon, NASA reported. 'Asteroids of this size do not usually approach our planet so close, perhaps only once or twice a year ', said Paul Chodas, director of the Center for the Study of Near-Earth Objects of the United States Space Agency. Called asteroid  CB, the space rock between  and  meters will pass near our planet, some  kilometers, around  (GMT), NASA said. 'Although  CB is quite small, it could be larger than the asteroid that entered the atmosphere on Cheliábinsk, Russia, almost five years ago, on  ', Chodas said. Another small asteride, of the same size, also approached Earth this week. The #NUMBER* CC passed Tuesday at #NUMBER* (GMT) at a distance of around #NUMBER* kilometers. Both were discovered this month by astronomers from NASA-funded Catalina Sky Survey research program, which operates at the Lunar and Planetary Laboratory of the University of Arizona, near Tucson. I'm sorry.",
+    "source": "elpais.com",
+    "date": "10/02/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Space rocks of this size are not so close to the planet, according to NASAA larger asteroid than a bus will pass this Friday at a safe but close distance to Earth, less than a fifth of the distance that separates us from the moon, NASA reported.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Space rocks of this size are not so close to the planet?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How close to Earth are space rocks to Earth?",
+                    "score": 0.8467,
+                    "answers": "Space rocks of this size|nsubj"
+                },
+                {
+                    "question": "How close will a bus pass to Earth?",
+                    "score": 0.7736,
+                    "answers": "a bus|pobj"
+                },
+                {
+                    "question": "How close is the Earth to the moon?",
+                    "score": 0.7357,
+                    "answers": "to Earth|prep"
+                },
+                {
+                    "question": "What is the size of the asteroid?",
+                    "score": 0.7028,
+                    "answers": "of this size|prep\tthis size|pobj\tto NASAA|prep\tlarger asteroid than a bus|nsubj"
+                },
+                {
+                    "question": "What is the distance between Earth and the moon?",
+                    "score": 0.6156,
+                    "answers": "at a safe but close distance to Earth , less than a fifth of the distance that separates us from the moon|prep\tclose|conj\ta safe but close distance to Earth , less than a fifth of the distance that separates us from the moon|pobj\tless than a fifth of the distance that separates us from the moon|appos\tof the distance that separates us from the moon|prep\tthe distance that separates us from the moon|pobj\tthat separates us from the moon|relcl\tus|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Asteroids of this size do not usually approach our planet so close, perhaps only once or twice a year ', said Paul Chodas, director of the Center for the Study of Near-Earth Objects of the United States Space Agency.",
+            "question_answers": [
+                {
+                    "question": "How often do astronauts of this size approach our planet?",
+                    "answer": "once or twice a year"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How close do Asteroids get to Earth?",
+                    "score": 0.902,
+                    "answers": "Asteroids of this size do not usually approach our planet so close , perhaps only once or twice a year|ccomp"
+                },
+                {
+                    "question": "How close are Asteroids to Earth?",
+                    "score": 0.8858,
+                    "answers": "a year|npadvmod"
+                },
+                {
+                    "question": "What is the size of Asteroids?",
+                    "score": 0.8016,
+                    "answers": "Asteroids of this size|nsubj"
+                },
+                {
+                    "question": "How close is the Earth to the moon?",
+                    "score": 0.7849,
+                    "answers": "of the Center for the Study of Near - Earth Objects of the United States Space Agency|prep"
+                },
+                {
+                    "question": "Who is the director of the Center for the Study of Near-Earth Objects of the United States Space Agency?",
+                    "score": 0.6759,
+                    "answers": "director of the Center for the Study of Near - Earth Objects of the United States Space Agency|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Called asteroid  CB, the space rock between  and  meters will pass near our planet, some  kilometers, around  (GMT), NASA said.",
+            "question_answers": [
+                {
+                    "question": "Who reported that asteroid CB will pass near our planet?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When will the asteroid pass near Earth?",
+                    "score": 0.8017,
+                    "answers": "( GMT )|npadvmod"
+                },
+                {
+                    "question": "How close will the asteroid to Earth be to Earth?",
+                    "score": 0.76,
+                    "answers": "Called asteroid|csubj\tnear our planet|prep\tour planet|pobj"
+                },
+                {
+                    "question": "How far will the asteroid from Earth be from Earth?",
+                    "score": 0.7395,
+                    "answers": "  and|dep\t  meters|dep\t  kilometers ,|dep\tkilometers ,|npadvmod"
+                },
+                {
+                    "question": "What is the purpose of space rock?",
+                    "score": 0.6616,
+                    "answers": "the space rock|nsubj"
+                },
+                {
+                    "question": "What is the time difference between space rock and asteroid?",
+                    "score": 0.6366,
+                    "answers": "  ( GMT )|dep"
+                }
+            ]
+        },
+        {
+            "claim": "'Although  CB is quite small, it could be larger than the asteroid that entered the atmosphere on Cheliábinsk, Russia, almost five years ago, on  ', Chodas said.",
+            "question_answers": [
+                {
+                    "question": "Where did CB enter the atmosphere?",
+                    "answer": "Cheliábinsk, Russia, almost five years ago, on"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How large is the asteroid that entered the atmosphere on Cheliábinsk, Russia?",
+                    "score": 0.8147,
+                    "answers": "elpais.com reported on 10/02/2018 that ' Although   CB is quite small , it could be larger than the asteroid that entered the atmosphere on Cheliábinsk , Russia , almost five years ago , on  |ccomp\tcould|aux\tthat ' Although   CB is quite small , it could be larger than the asteroid that entered the atmosphere on Cheliábinsk , Russia , almost five years ago , on|ccomp\tthe|det\tthe|det\ton Cheliábinsk , Russia|prep\telpais.com reported on 10/02/2018 that ' Although   CB is quite small , it could be larger than the asteroid that entered the atmosphere on Cheliábinsk , Russia , almost five years ago , on   ' , Chodas said|ROOT"
+                },
+                {
+                    "question": "How big is Cheliábinsk, Russia?",
+                    "score": 0.7626,
+                    "answers": "Cheliábinsk , Russia|pobj"
+                },
+                {
+                    "question": "What is the size of the CB?",
+                    "score": 0.6257,
+                    "answers": "on 10/02/2018|prep\tAlthough  |dep\tCB is quite small|advcl\tquite small|acomp\talmost five years|npadvmod\t |dep"
+                }
+            ]
+        },
+        {
+            "claim": "Another small asteride, of the same size, also approached Earth this week.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Another small asteride approached Earth this week?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the size of a small asteride?",
+                    "score": 0.7254,
+                    "answers": "the same size|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The #NUMBER* CC passed Tuesday at #NUMBER* (GMT) at a distance of around #NUMBER* kilometers.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the #NUMBER* CC passed Tuesday?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the #NUMBER*CC pass?",
+                    "score": 0.6252,
+                    "answers": "on 10/02/2018|prep\tthat|mark\tThe|det\t#|nmod\tNUMBER|nmod\t*|punct\tat # NUMBER * ( GMT )|prep\t# NUMBER * ( GMT )|pobj\tNUMBER|appos\t* ( GMT )|appos\t(|punct\t( GMT )|appos\t)|punct\taround # NUMBER|nummod\tNUMBER|quantmod\t*|nummod"
+                },
+                {
+                    "question": "What is the distance of the #NUMBER*CC?",
+                    "score": 0.4648,
+                    "answers": "elpais.com reported on 10/02/2018 that The # NUMBER * CC passed Tuesday at # NUMBER * ( GMT ) at a distance of around # NUMBER * kilometers|ROOT\tthat The # NUMBER * CC passed Tuesday at # NUMBER * ( GMT ) at a distance of around # NUMBER * kilometers|ccomp\tat a distance of around # NUMBER * kilometers|prep\ta distance of around # NUMBER * kilometers|pobj\tof around # NUMBER * kilometers|prep\taround # NUMBER * kilometers|pobj"
+                },
+                {
+                    "question": "What does the #NUMBER*CC stand for?",
+                    "score": 0.4483,
+                    "answers": "The # NUMBER * CC|nsubj"
+                },
+                {
+                    "question": "What is the length of the #NUMBER*CC?",
+                    "score": 0.4292,
+                    "answers": "a|det\taround|quantmod"
+                }
+            ]
+        },
+        {
+            "claim": "Both were discovered this month by astronomers from NASA-funded Catalina Sky Survey research program, which operates at the Lunar and Planetary Laboratory of the University of Arizona, near Tucson.",
+            "question_answers": [
+                {
+                    "question": "Where does the Catalina Sky Survey operate?",
+                    "answer": "Lunar and Planetary Laboratory"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who discovered the Catalina Sky Survey research program near Tucson?",
+                    "score": 0.8323,
+                    "answers": "near Tucson|prep"
+                },
+                {
+                    "question": "Where is the Lunar and Planetary Laboratory of the University of Arizona?",
+                    "score": 0.6909,
+                    "answers": "at the Lunar and Planetary Laboratory of the University of Arizona , near Tucson|prep\tthe Lunar and Planetary Laboratory of the University of Arizona , near Tucson|pobj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "id": "105_Society_95",
+    "claim": "What began as it seems like a joke has ended with two Galician altar boys spending the night in the dungeon after being caught putting marijuana in the botafumeiro of the Cathedral of Santiago de Compostela. Since it is not a Jacobean year, since the  of July does not fall on Sunday, the botafumeiro is used in the Cathedral of Santiago de Compostela on the day  of January to celebrate the Epiphany of the Lord. Several of the attendees stated that on this occasion the holy enclosure was filled with a strange smell'it did not smell like other times, it was a familiar smell but I could not relate it to anything, but in my son's room it once smells like this'. At the end of the Mass, two of the altar boys were arrested by the police after it was confirmed that the strange smell corresponded to marijuana 'was a joke that occurred to us during the New Year's Eve cotillion, we bought half a kilo of weed and put it inside the botafumeiro, surely people have left the Cathedral happier than ever'. They have finally been released without charge but will not be able to resume their duties as altar boys. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "05/12/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "What began as it seems like a joke has ended with two Galician altar boys spending the night in the dungeon after being caught putting marijuana in the botafumeiro of the Cathedral of Santiago de Compostela.",
+            "question_answers": [
+                {
+                    "question": "What were the altar boys caught doing in the Cathedral of Santiago de Compostela?",
+                    "answer": "putting marijuana in the botafumeiro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Galician altar boys do with marijuana?",
+                    "score": 0.7166,
+                    "answers": "putting marijuana in the botafumeiro of the Cathedral of Santiago de Compostela|xcomp"
+                },
+                {
+                    "question": "How many altar boys were caught putting marijuana in the botafumeiro of the Cathedral of Santiago de Compostela?",
+                    "score": 0.6876,
+                    "answers": "two Galician altar boys|nsubj"
+                },
+                {
+                    "question": "What was the purpose of the joke?",
+                    "score": 0.5265,
+                    "answers": "What began as it seems like a joke|csubj\tas it seems like a joke|advcl\tlike a joke|prep\ta joke|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Since it is not a Jacobean year, since the  of July does not fall on Sunday, the botafumeiro is used in the Cathedral of Santiago de Compostela on the day  of January to celebrate the Epiphany of the Lord.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What year is the Epiphany of the Lord celebrated?",
+                    "score": 0.8084,
+                    "answers": "Jacobean|amod"
+                },
+                {
+                    "question": "What is the name of the botafumeiro used in the Cathedral of Santiago de Compostela?",
+                    "score": 0.7338,
+                    "answers": "of July|prep\tin the Cathedral of Santiago de Compostela|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Several of the attendees stated that on this occasion the holy enclosure was filled with a strange smell'it did not smell like other times, it was a familiar smell but I could not relate it to anything, but in my son's room it once smells like this'.",
+            "question_answers": [
+                {
+                    "question": "Who said on 05/12/2018 that several of the attendees stated that the holy enclosure was filled with a strange smell?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the attendees say about the smell of the holy enclosure?",
+                    "score": 0.6463,
+                    "answers": "haynoticia.es said on 05/12/2018 that Several of the attendees stated that on this occasion the holy enclosure was filled with a strange smell'it did not smell like other times , it was a familiar smell but I could not relate it to anything , but in my son 's room it once smells like this '|ROOT\tthat|mark\tthe|det\tthat|mark\ton this occasion|prep\tthis|det\tthis occasion|pobj\tthe|det\tthe holy enclosure|nsubjpass\twas|auxpass\tthat on this occasion the holy enclosure was filled with|ccomp\twith|prep\ta strange smell'it|nsubj\tdid|aux\tnot|neg\tlike other times|prep\tother times|pobj\t,|punct\tit|nsubj\tit was a familiar smell but I could not relate it to anything|conj\ta familiar smell|attr\tbut|cc\tI|nsubj\tcould|aux\tnot|neg\tI could not relate it to anything|conj\tit|dobj\tto anything|prep\tanything|pobj\t,|punct\tbut|cc\tmy|poss\t's|case\tit|nsubj\tonce|advmod\tlike this|prep\tthis|pobj"
+                },
+                {
+                    "question": "What kind of smell does the holy enclosure have?",
+                    "score": 0.646,
+                    "answers": "strange|amod\tother|amod"
+                },
+                {
+                    "question": "What was the name of the room that was filled with a strange smell?",
+                    "score": 0.5126,
+                    "answers": "that Several of the attendees stated that on this occasion the holy enclosure was filled with|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "At the end of the Mass, two of the altar boys were arrested by the police after it was confirmed that the strange smell corresponded to marijuana 'was a joke that occurred to us during the New Year's Eve cotillion, we bought half a kilo of weed and put it inside the botafumeiro, surely people have left the Cathedral happier than ever'.",
+            "question_answers": [
+                {
+                    "question": "What was the strange smell of at the end of the Mass confirmed to be?",
+                    "answer": "marijuana"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who were the altar boys arrested for?",
+                    "score": 0.6292,
+                    "answers": "the altar boys|pobj"
+                },
+                {
+                    "question": "How many altar boys were arrested by the police at the end of the mass?",
+                    "score": 0.6284,
+                    "answers": "two of the altar boys|nsubjpass\tthat At the end of the Mass , two of the altar boys were arrested by the police after it was confirmed that the strange smell corresponded to marijuana|ccomp"
+                },
+                {
+                    "question": "How many kilos of weed did the altar boys get arrested for?",
+                    "score": 0.6244,
+                    "answers": "we bought half a kilo of weed and put it inside the botafumeiro|ccomp"
+                },
+                {
+                    "question": "How many kilo of weed did people buy during New Year's Eve cotillion?",
+                    "score": 0.6127,
+                    "answers": "during the New Year 's Eve cotillion|prep"
+                },
+                {
+                    "question": "What did the police say about the story of two altar boys being arrested by the police?",
+                    "score": 0.6067,
+                    "answers": "on 05/12/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "They have finally been released without charge but will not be able to resume their duties as altar boys.",
+            "question_answers": [
+                {
+                    "question": "What duties will they not be able to resume?",
+                    "answer": "altar boys"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why were altar boys not able to resume their duties as altar boys?",
+                    "score": 0.882,
+                    "answers": "will not be able to resume their duties as altar boys|conj"
+                },
+                {
+                    "question": "Why were the altar boys released without charge?",
+                    "score": 0.8687,
+                    "answers": "that They have finally been released without charge but will not be able to resume their duties as altar boys|ccomp"
+                },
+                {
+                    "question": "How long have they been released without charge?",
+                    "score": 0.7496,
+                    "answers": "finally|advmod\tbeen|auxpass\tbut|cc\twill|aux\tnot|neg\tto|aux"
+                },
+                {
+                    "question": "How many altar boys were released without charge in 2018?",
+                    "score": 0.7204,
+                    "answers": "that|mark\tThey|nsubjpass\thave|aux"
+                },
+                {
+                    "question": "What are the duties of altar boys?",
+                    "score": 0.6478,
+                    "answers": "their duties as altar boys|dobj"
+                }
+            ]
+        }
+    ]
+}

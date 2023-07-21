@@ -1,0 +1,133 @@
+{
+    "id": "Sport_290",
+    "claim": "The coach said that whenever there is a possibility they will try to sign the best strikersIn past days, media in England reported that Javier Hernández would leave the West Ham group and before waiting to close one last reinforcement, the American coach, Miguel 'Piojo' Herrera does not rule out the arrival of Chicharito to the Coapa group, but is aware that there are several European football teams that are looking for the Mexican. 'Of course anyone would like Javier in their ranks, he is a player with great mobility, I believe that for Mexico it will be difficult to have Javier because there are six or seven teams of the English league that keep looking for him. It will have to be thought that it could be a possibility to knock on your door, America will always be looking for any striker that is important to this team ', signed the DT. America failed to complete the signings of Lucas Pratto and Luuk de Jong, so they are waiting to sign a striker that complements Jeremy Menez and Andres Ibargüen in the attack. I'm sorry.",
+    "source": "www.record.com.mx",
+    "date": "12/01/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The coach said that whenever there is a possibility they will try to sign the best strikersIn past days, media in England reported that Javier Hernández would leave the West Ham group and before waiting to close one last reinforcement, the American coach, Miguel 'Piojo' Herrera does not rule out the arrival of Chicharito to the Coapa group, but is aware that there are several European football teams that are looking for the Mexican.",
+            "question_answers": [
+                {
+                    "question": "Who did media in England say would leave the West Ham group?",
+                    "answer": "Javier Hernández"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many European football teams want to sign the Mexican strikers?",
+                    "score": 0.6736,
+                    "answers": "www.record.com.mx reported on 12/01/2018 that The coach said that whenever there is a possibility they will try to sign|ROOT"
+                },
+                {
+                    "question": "What are the best strikers in the West Ham group?",
+                    "score": 0.6205,
+                    "answers": "the best strikersIn|ROOT"
+                },
+                {
+                    "question": "Who is Miguel Piojo Herrera?",
+                    "score": 0.5744,
+                    "answers": "the American coach , Miguel ' Piojo ' Herrera|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Hernández and the Coapa group?",
+                    "score": 0.5672,
+                    "answers": "to close one last reinforcement|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "'Of course anyone would like Javier in their ranks, he is a player with great mobility, I believe that for Mexico it will be difficult to have Javier because there are six or seven teams of the English league that keep looking for him.",
+            "question_answers": [
+                {
+                    "question": "How many teams in the English league are looking for Javier?",
+                    "answer": "six or seven"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Javier's mobility?",
+                    "score": 0.7499,
+                    "answers": "he is a player with great mobility|ccomp"
+                },
+                {
+                    "question": "How many teams are looking for Javier in Mexico?",
+                    "score": 0.7401,
+                    "answers": "that for Mexico it will be difficult to have Javier because there are six or seven teams of the English league that keep looking for him|ccomp\tbecause there are six or seven teams of the English league that keep looking for him|advcl\tthat keep looking for him|relcl\tlooking for him|xcomp"
+                },
+                {
+                    "question": "How many teams look for Javier?",
+                    "score": 0.7337,
+                    "answers": "on 12/01/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It will have to be thought that it could be a possibility to knock on your door, America will always be looking for any striker that is important to this team ', signed the DT.",
+            "question_answers": [
+                {
+                    "question": "What is America always looking for?",
+                    "answer": "any striker that is important to this team"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does record.com.mx say about the signing of a striker?",
+                    "score": 0.7681,
+                    "answers": "on 12/01/2018|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the number of strikers that America is looking for?",
+                    "score": 0.6542,
+                    "answers": "to this team|prep"
+                },
+                {
+                    "question": "What does it mean to knock on your door?",
+                    "score": 0.6462,
+                    "answers": "to knock on your door|xcomp"
+                },
+                {
+                    "question": "What is the importance of signing a striker?",
+                    "score": 0.6386,
+                    "answers": "that is important to this team|relcl"
+                },
+                {
+                    "question": "What does record.com.mx do?",
+                    "score": 0.638,
+                    "answers": "www.record.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "America failed to complete the signings of Lucas Pratto and Luuk de Jong, so they are waiting to sign a striker that complements Jeremy Menez and Andres Ibargüen in the attack.",
+            "question_answers": [
+                {
+                    "question": "Along with Jeremy Menez, who did America want to sign as a complement to Jeremy Menez?",
+                    "answer": "Andres Ibargüen"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did America do to complete the signings of Lucas Pratto and Luuk de Jong?",
+                    "score": 0.8533,
+                    "answers": "America failed to complete the signings of Lucas Pratto and Luuk de Jong|ccomp"
+                },
+                {
+                    "question": "What is the name of the striker that America is waiting to sign?",
+                    "score": 0.7365,
+                    "answers": "www.record.com.mx reported on 12/01/2018 that America failed to complete the signings of Lucas Pratto and Luuk de Jong , so they are waiting to sign a striker that complements Jeremy Menez and Andres Ibargüen in the attack|ROOT\tthat|mark\tto|aux\tof Lucas Pratto and Luuk de Jong|prep\tLucas|compound\tLucas Pratto and Luuk de Jong|pobj\tand|cc\tLuuk|compound\tde|compound\t,|punct\tso|mark\tto|aux\ta|det\tthat|nsubj\tand|cc"
+                },
+                {
+                    "question": "What is the relationship between Jeremy Menez and Andres Ibargüen?",
+                    "score": 0.7111,
+                    "answers": "that complements Jeremy Menez and Andres Ibargüen in the attack|relcl\tJeremy Menez and Andres Ibargüen|dobj"
+                },
+                {
+                    "question": "What is the purpose of the attack?",
+                    "score": 0.6846,
+                    "answers": "the attack|pobj"
+                }
+            ]
+        }
+    ]
+}

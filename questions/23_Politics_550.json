@@ -1,0 +1,304 @@
+{
+    "id": "23_Politics_550",
+    "claim": "Mexico. -In a press conference the national leader of the PRI, Rene Juárez Cisneros, informed the media that 'by irreconcilable difference 'the former presidential candidate, Jose Antonio Meade, from today no longer militates in his political institution, pointing out that 'they reached good terms 'and wish him the best of the successes in his professional and personal plans. Rene evaded giving a concrete answer on the details of the departure of his expresidential, mentioned that 'the bad result he had in the elections  definitely affected his employment relationship ': 'I understand his position that he was disturbed because we call him attention by not giving the expected results; he argues that the triumph or failure of a campaign is the result of a team work, but he must also understand that at the end of the day it was the image and people were going to vote for him, not for the party. They were mistakes on both sides (although more from Meade), so we decided to finish everything for peace and wish him luck in his next projects that will not be further developed in the PRI ', he said. Although Cisneros specified that the work relationship ended amicably, a group of reporters revealed that in reality the departure of Jose Antonio 'was despotic and rude ': 'the PRl did not hurt so much to lose, but that a more hated candidate like Anaya beat them, and they had to pass the shame of being in third place. Of course Meade defended himself by arguing that Peña Nieto and the party's bad reputation led to failure, but finally Carlos Salinas de Gortari, the PRI's real boss, raged at the results and decided to fire him without giving him any finiquito. They invested a lot of money in their campaign, in fact it's the choice where the PRI has invested the most capital, but the squalid figure of Meade caused them to go completely unnoticed. They regard it as the biggest mistake and all the blame wants to be laid on him ', a researcher told. According to the journalist, Jose Antonio already met with Lopez Obrador to'forgive him his sins 'and integrate him into his new cabinet: 'AMLO is a lot of giving second chances because he trusts that people will reconsider their mistakes. Regardless of having been part of the PRI, he believes that Meade is a well-prepared politician, and although he has not given him the yes to join MORENA at least he is analyzing it, so Meade could be surprised to join the AMLO cabinet when he takes his protest next July  ', one journalist told. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "05/07/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Mexico.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 05/07/2018?",
+                    "answer": "www.elruinaversal.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the relationship between Mexico and the United States?",
+                    "score": 0.732,
+                    "answers": "on 05/07/2018|prep\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "-In a press conference the national leader of the PRI, Rene Juárez Cisneros , informed the media that 'by irreconcilable difference 'the former presidential candidate, Jose Antonio Meade , from today no longer militates in the PRI , pointing out that 'they reached good terms 'and wish the former presidential candidate, Jose Antonio Meade the best of the successes in professional and personal plans.",
+            "question_answers": [
+                {
+                    "question": "Who did Rene Juarez Cisneros say no longer militated in the PRI?",
+                    "answer": "Jose Antonio Meade"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Rene Juarez Cisneros say about Meade's political affiliation?",
+                    "score": 0.779,
+                    "answers": "national|amod\tof the PRI|prep\tin the PRI|prep"
+                },
+                {
+                    "question": "What was the relationship between Jose Antonio Meade and Rene Juarez Cisneros?",
+                    "score": 0.6601,
+                    "answers": "professional and personal|amod"
+                },
+                {
+                    "question": "What is the relationship between Meade and the former presidential candidate Jose Antonio Meade?",
+                    "score": 0.639,
+                    "answers": "that ' they reached good terms ' and wish the former presidential candidate , Jose Antonio Meade the best of the successes in professional and personal plans|ccomp"
+                },
+                {
+                    "question": "What is Jose Antonio Meade's personal plans?",
+                    "score": 0.6364,
+                    "answers": "professional and personal plans|pobj"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade?",
+                    "score": 0.627,
+                    "answers": "Rene|compound\tJuárez|compound\tformer|amod\tthe former presidential candidate , Jose Antonio Meade|nsubj\tJose|compound\tAntonio|compound\tformer|amod\tthe former presidential candidate , Jose Antonio Meade|dative\tJose|compound\tAntonio|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the national leader of the PRI, Rene Juárez Cisneros evaded giving a concrete answer on the details of the departure of his expresidential , mentioned that 'the bad result the former presidential candidate, Jose Antonio Meade had in the elections  definitely affected employment relationship ': 'the national leader of the PRI, Rene Juárez Cisneros understand position that the former presidential candidate, Jose Antonio Meade was disturbed because the PRI call the former presidential candidate, Jose Antonio Meade attention by not giving the expected results; the former presidential candidate, Jose Antonio Meade argues that the triumph or failure of a campaign is the result of a team work, but the former presidential candidate, Jose Antonio Meade must also understand that at the end of the day it was the image and people were going to vote for the former presidential candidate, Jose Antonio Meade , not for the PRI .",
+            "question_answers": [
+                {
+                    "question": "What did Rene Juarez Cisneros do?",
+                    "answer": "evaded giving a concrete answer on the details of the departure of his expresidential"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Rene Juarez Cisneros say about Jose Antonio Meade?",
+                    "score": 0.6682,
+                    "answers": "the national leader of the PRI , Rene Juárez Cisneros understand position that the former presidential candidate , Jose Antonio Meade was disturbed because the PRI call the former presidential candidate , Jose Antonio Meade attention by not giving the expected results|ccomp\tthe former presidential candidate , Jose Antonio Meade must also understand that at the end of the day it was the image and people were going to vote for the former presidential candidate , Jose Antonio Meade , not for the PRI|conj"
+                },
+                {
+                    "question": "How many people voted for Jose Antonio Meade in 2018?",
+                    "score": 0.6641,
+                    "answers": "people were going to vote for the former presidential candidate , Jose Antonio Meade , not for the PRI|conj"
+                },
+                {
+                    "question": "What was the result of Jose Antonio Meade's political campaign in 2018?",
+                    "score": 0.6621,
+                    "answers": "the bad result the former presidential candidate , Jose Antonio Meade had in the elections|nsubj\tthat ' the bad result the former presidential candidate , Jose Antonio Meade had in the elections  |dep"
+                },
+                {
+                    "question": "Did Rene Juarez Cisneros leave the political scene?",
+                    "score": 0.6534,
+                    "answers": "not|neg\talso|advmod\tnot|neg"
+                },
+                {
+                    "question": "What was Rene Juarez Cisneros's employment relationship with the PRI?",
+                    "score": 0.6485,
+                    "answers": "employment relationship|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "They were mistakes on both sides (although more from the former presidential candidate, Jose Antonio Meade ), so we decided to finish everything for peace and wish the former presidential candidate, Jose Antonio Meade luck in next projects that will not be further developed in the PRI ', the national leader of the PRI, Rene Juárez Cisneros said.",
+            "question_answers": [
+                {
+                    "question": "Who was the former presidential candidate?",
+                    "answer": "Jose Antonio Meade"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Rene Juarez Cisneros say about the political relationship between Jose Antonio Meade and Donald Trump?",
+                    "score": 0.7978,
+                    "answers": "that will not be further developed in the PRI|relcl"
+                },
+                {
+                    "question": "What were the mistakes made by the former presidential candidate Jose Antonio Meade?",
+                    "score": 0.771,
+                    "answers": "on 05/07/2018|prep"
+                },
+                {
+                    "question": "What is the source of evidence of all the mistakes that Jose Antonio Meade made?",
+                    "score": 0.6665,
+                    "answers": "peace|pobj"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade?",
+                    "score": 0.5893,
+                    "answers": "the former presidential candidate , Jose Antonio Meade|pobj\tAntonio|compound\tthe former presidential candidate , Jose Antonio Meade|nsubj\tAntonio|compound"
+                },
+                {
+                    "question": "What is the purpose of the PRI project?",
+                    "score": 0.5888,
+                    "answers": "we decided to finish everything for peace and wish the former presidential candidate , Jose Antonio Meade luck in next projects that will not be further developed in the PRI|conj\tto finish everything for peace and wish the former presidential candidate , Jose Antonio Meade luck in next projects that will not be further developed in the PRI|xcomp\tnext projects that will not be further developed in the PRI|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Although the national leader of the PRI, Rene Juárez Cisneros specified that the work relationship ended amicably, a group of reporters revealed that in reality the departure of his expresidential 'was despotic and rude ': 'the PRI did not hurt so much to lose, but that a more hated candidate like Anaya beat the PRI , and the PRI had to pass the shame of being in third place.",
+            "question_answers": [
+                {
+                    "question": "Who did the reporters say was a more hated candidate?",
+                    "answer": "Anaya beat the PRI"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Rene Juarez Cisneros say about being in third place?",
+                    "score": 0.6934,
+                    "answers": ": ' the PRI did not hurt so much to lose , but that a more hated candidate like Anaya beat the PRI , and the PRI had to pass the shame of being in third place|acl"
+                },
+                {
+                    "question": "What was the relationship between Rene Juarez Cisneros and the PRI?",
+                    "score": 0.6018,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 05/07/2018 that Although the national leader of the PRI , Rene Juárez Cisneros specified that the work relationship ended amicably , a group of reporters revealed that in reality the departure of his expresidential : ' the PRI did not hurt so much to lose , but that a more hated candidate like Anaya beat the PRI , and the PRI had to pass the shame of being in third place ' was despotic and rude '|ROOT\tthat|mark\tAlthough|mark\tthe|det\tthe national leader of the PRI , Rene Juárez Cisneros|nsubj\tthe|det\tthe PRI|pobj\tAlthough the national leader of the PRI , Rene Juárez Cisneros specified that the work relationship ended amicably|advcl\tthat|mark\tthe|det\tamicably|advmod\tthat|mark\tin reality|prep\treality|pobj\tthe|det\tthe departure of his expresidential : ' the PRI did not hurt so much to lose , but that a more hated candidate like Anaya beat the PRI , and the PRI had to pass the shame of being in third place|nsubj\t'|punct\tthat in reality the departure of his expresidential : ' the PRI did not hurt so much to lose , but that a more hated candidate like Anaya beat the PRI , and the PRI had to pass the shame of being in third place ' was despotic and rude '|advcl\trude '|conj\t'|punct\t'|punct\tthe|det\tthe PRI|nsubj\tdid|aux\tnot|neg\tso|advmod\tso much|advmod\tto|aux\tto lose|xcomp\tthat|mark\tmore|advmod\tmore hated|amod\tthat a more hated candidate like Anaya beat the PRI , and the PRI had to pass the shame of being in third place|conj\tthe|det\tthe PRI|dobj\tthe|det\tthe PRI|nsubj\tto|aux\tthe|det\tthe shame of being in third place|dobj\tthird place|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Of course Meade defended himself by arguing that Peña Nieto and the party's bad reputation led to failure, but finally Carlos Salinas de Gortari, the PRI's real boss, raged at the results and decided to fire him without giving him any finiquito.",
+            "question_answers": [
+                {
+                    "question": "Why did Carlos Salinas de Gortari fire him?",
+                    "answer": "raged at the results"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Meade argue about Peña Nieto's bad reputation led to failure?",
+                    "score": 0.7437,
+                    "answers": "by arguing that Peña Nieto and the party 's bad reputation led to failure|prep"
+                },
+                {
+                    "question": "What did Salinas de Gortari do to fire him?",
+                    "score": 0.7296,
+                    "answers": "finally Carlos Salinas de Gortari , the PRI 's real boss , raged at the results and decided to fire him without giving him any finiquito|conj"
+                },
+                {
+                    "question": "What did Meade say about Peña Nieto and the party's bad reputation led to?",
+                    "score": 0.725,
+                    "answers": "to failure|prep\tfailure|pobj"
+                },
+                {
+                    "question": "What did Meade do to defend himself?",
+                    "score": 0.7072,
+                    "answers": "that Of course Meade defended himself by arguing that Peña Nieto and the party 's bad reputation led to failure , but finally Carlos Salinas de Gortari , the PRI 's real boss , raged at the results and decided to fire him without giving him any finiquito|ccomp\tany finiquito|dobj"
+                },
+                {
+                    "question": "Who was Carlos Salinas de Gortari's real boss?",
+                    "score": 0.6732,
+                    "answers": "Salinas|compound\tCarlos Salinas de Gortari , the PRI 's real boss ,|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "They invested a lot of money in their campaign, in fact it's the choice where the PRI has invested the most capital, but the squalid figure of Meade caused them to go completely unnoticed.",
+            "question_answers": [
+                {
+                    "question": "What caused Elruinaversal to go completely unnoticed?",
+                    "answer": "the squalid figure of Meade"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the PRI invest in Meade's campaign?",
+                    "score": 0.9061,
+                    "answers": "www.elruinaversal.com reported on 05/07/2018 that They invested a lot of money in their campaign , in fact it 's the choice where the PRI has invested the most capital , but the squalid figure of Meade caused them to go completely unnoticed|ROOT"
+                },
+                {
+                    "question": "What is Meade's political affiliation?",
+                    "score": 0.7831,
+                    "answers": "squalid|amod\tof Meade|prep\tthe squalid figure of Meade caused them to go completely unnoticed|conj"
+                },
+                {
+                    "question": "What is the relationship between the PRI and Meade?",
+                    "score": 0.7563,
+                    "answers": "the PRI|nsubj"
+                },
+                {
+                    "question": "Who is Meade?",
+                    "score": 0.7388,
+                    "answers": "the squalid figure of Meade|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "They regard it as the biggest mistake and all the blame wants to be laid on him ', a researcher told.",
+            "question_answers": [
+                {
+                    "question": "What did a researcher at elruinaversal.com say they regard it as?",
+                    "answer": "the biggest mistake and all the blame wants to be laid on him"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What blame should be laid on a researcher?",
+                    "score": 0.8081,
+                    "answers": "all the blame|nsubj"
+                },
+                {
+                    "question": "What is the biggest mistake made by a researcher?",
+                    "score": 0.7657,
+                    "answers": "biggest|amod"
+                },
+                {
+                    "question": "What is the definition of a mistake?",
+                    "score": 0.712,
+                    "answers": "a researcher|nsubj"
+                },
+                {
+                    "question": "What did a researcher say aboutelruinaversal.com?",
+                    "score": 0.7017,
+                    "answers": "to be laid on him|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the quotes from the researchers?",
+                    "score": 0.6474,
+                    "answers": "on 05/07/2018|prep\tthat|mark\tThey|nsubj\tit|dobj\tthe|det\tand|cc\tall|predet\tthe|det\tall the blame wants to be laid on him|conj\tto|aux\tbe|auxpass\ton him|prep\thim|pobj\t'|punct\t,|punct\ta|det"
+                }
+            ]
+        },
+        {
+            "claim": "According to the journalist, Jose Antonio already met with Lopez Obrador to'forgive him his sins 'and integrate him into his new cabinet: 'AMLO is a lot of giving second chances because he trusts that people will reconsider their mistakes.",
+            "question_answers": [
+                {
+                    "question": "What did Jose Antonio do to Lopez Obrador?",
+                    "answer": "forgive him his sins"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Jose Antonio meet with Lopez Obrador?",
+                    "score": 0.8805,
+                    "answers": "because he trusts that people will reconsider their mistakes|advcl"
+                },
+                {
+                    "question": "What is the relationship between Jose Antonio and Lopez Obrador?",
+                    "score": 0.6866,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 05/07/2018 that According to the journalist , Jose Antonio already met with Lopez Obrador to'forgive him his sins ' and integrate him into his new cabinet : ' AMLO is a lot of giving second chances because he trusts that people will reconsider their mistakes|ROOT\ton 05/07/2018|prep\tthat|mark\tAccording to the journalist|prep\tto the journalist|prep\tthe|det\tthe journalist|pobj\t,|punct\tJose|compound\talready|advmod\twith Lopez Obrador|prep\tLopez|compound\tAccording to the journalist , Jose Antonio already met with Lopez Obrador to'forgive him his sins ' and integrate him into his new cabinet|ccomp\thim|dative\this|poss\this sins|dobj\t'|punct\tand|cc\tintegrate him into his new cabinet|conj\thim|dobj\tinto his new cabinet|prep\this|poss\tnew|amod\this new cabinet|pobj\t:|punct\t'|punct\ta|det\ta lot of giving second chances|attr\tof giving second chances|prep\tgiving second chances|pcomp\tsecond chances|dobj\tbecause|mark\the|nsubj\tthat|mark\tpeople|nsubj\twill|aux\tthat people will reconsider their mistakes|ccomp\ttheir|poss\ttheir mistakes|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Regardless of having been part of the PRI, he believes that Meade is a well-prepared politician, and although he has not given him the yes to join MORENA at least he is analyzing it, so Meade could be surprised to join the AMLO cabinet when he takes his protest next July  ', one journalist told.",
+            "question_answers": [
+                {
+                    "question": "When will Meade's protest take place?",
+                    "answer": "July"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Meade say about joining MORENA?",
+                    "score": 0.7746,
+                    "answers": "www.elruinaversal.com reported on 05/07/2018 that Regardless of having been part of the PRI , he believes that Meade is a well - prepared politician , and although he has not given him the yes to join MORENA at least he is analyzing it , so Meade could be surprised to join the AMLO cabinet when he takes his protest next July  |ccomp\thaving|aux\t,|punct\the|nsubj\ta|det\twell|advmod\t-|punct\t,|punct\tand|cc\talthough|mark\the|nsubj\tnot|neg\thim|dative\tthe yes|dobj\tat least|advmod\the|nsubj\t,|punct\tso|mark\tcould|aux\twhen|advmod\the|nsubj\this|poss\this protest|dobj\t'|punct\t,|punct\twww.elruinaversal.com reported on 05/07/2018 that Regardless of having been part of the PRI , he believes that Meade is a well - prepared politician , and although he has not given him the yes to join MORENA at least he is analyzing it , so Meade could be surprised to join the AMLO cabinet when he takes his protest next July   ' , one journalist told|ROOT"
+                },
+                {
+                    "question": "What is Meade's political affiliation?",
+                    "score": 0.6513,
+                    "answers": "Regardless of having been part of the PRI|advmod\tof having been part of the PRI|prep\thaving been part of the PRI|pcomp\tpart of the PRI|attr\tof the PRI|prep"
+                },
+                {
+                    "question": "What is the relationship between Meade and MORENA?",
+                    "score": 0.6477,
+                    "answers": "that|mark\tthe|det\tthat|mark\thas|aux\tthe|det\talthough he has not given him the yes to join MORENA|conj\tat|advmod\tis|aux\tthe|det"
+                }
+            ]
+        }
+    ]
+}

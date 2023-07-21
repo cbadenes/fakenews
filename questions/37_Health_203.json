@@ -1,0 +1,595 @@
+{
+    "id": "37_Health_203",
+    "claim": "WHO SHOWS THEIR CONCERN FOR PASIVE SOURCES 'Tobacco kills hundreds of thousands of soldiers every year and leaves billions more injured'. That's how strong the data was used by Fatjon Hoxa, WHO High Commissioner for Social Lacras, which was made public in October. Members of the UN Permanent Security Council, tired of denouncing human rights crimes committed by the Islamic State, have played their last letter: 'Hundreds of civilians and child soldiers in Daesh have to endure the smoke of smokers militiamen. Let us hope that this will finally make the Western powers react, as it seems to be an issue that alarms and outrages the citizens'. Ahmed is ♪ NUMBER* years old. Former combatant of one of the Syrian  militias. An explosion left him without legs or arms, deaf mute and blind. But Ahmed is a fighter. He never lost the will to live. His family considers him 'a happy man'. His only hobby is smoking. For two weeks Ahmed coughed a lot. Your doctor has diagnosed you with bronchitis. It's tobacco's fault. A cloud looms over the future of this jovial man. Hillary Clinton was blunt during the election campaign: 'I will forbid smoking in all wars in which we participate'. Donald Trump's stance on this issue is not yet known. Vladimir Putin has been open to do'the opposite the Americans decide'. As a result, the UN General Council unanimously approved yesterday the total ban on smoking in the Syrian war. The resolution will enter into force on . From that day on, in Syria's war scenes, you'll be able to breathe a little better. I'm sorry.",
+    "source": "www.elmundotoday.com",
+    "date": "25/11/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "WHO SHOWS THEIR CONCERN FOR PASIVE SOURCES 'Tobacco kills hundreds of thousands of soldiers every year and leaves billions more injured'.",
+            "question_answers": [
+                {
+                    "question": "What did the website say they were concerned about?",
+                    "answer": "PASIVE SOURCES"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many soldiers are injured annually by tuberculosis?",
+                    "score": 0.7678,
+                    "answers": "of soldiers|prep"
+                },
+                {
+                    "question": "How many soldiers die from tuberculosis each year?",
+                    "score": 0.7411,
+                    "answers": "THEIR|poss\t'|punct\tevery|det\tand|cc\t'|punct"
+                },
+                {
+                    "question": "What is the source of evidence of the death rate of tuberculosis in the United States?",
+                    "score": 0.6442,
+                    "answers": "www.elmundotoday.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between drugs and humans?",
+                    "score": 0.6166,
+                    "answers": "THEIR CONCERN FOR PASIVE SOURCES|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "That's how strong the data was used by Fatjon Hoxa, WHO High Commissioner for Social Lacras, which was made public in October.",
+            "question_answers": [
+                {
+                    "question": "When did www.elmundotoday.com report how strong the data was used by Fatjon Hoxa?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What data was made public in October 2016?",
+                    "score": 0.8038,
+                    "answers": "the data|nsubjpass"
+                },
+                {
+                    "question": "What did Fatjon Hoxa do to make the data public?",
+                    "score": 0.7773,
+                    "answers": "was|auxpass\tby Fatjon Hoxa , WHO High Commissioner for Social Lacras , which was made public in October|agent\tFatjon Hoxa , WHO High Commissioner for Social Lacras , which was made public in October|pobj\twas|auxpass\twhich was made public in October|relcl\tpublic|oprd\tin October|prep"
+                },
+                {
+                    "question": "What was the data used by Fatjon Hoxa for social Lacras?",
+                    "score": 0.7652,
+                    "answers": "www.elmundotoday.com|nsubj"
+                },
+                {
+                    "question": "What is Fatjon Hoxa's position on social Lacras?",
+                    "score": 0.646,
+                    "answers": "that|mark\tThat|nsubj\tthe|det\tFatjon|compound\t,|punct\tHigh|compound\tSocial|compound\t,|punct\twhich|nsubjpass"
+                },
+                {
+                    "question": "Who is Fatjon Hoxa?",
+                    "score": 0.6227,
+                    "answers": "WHO High Commissioner for Social Lacras|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Members of the UN Permanent Security Council, tired of denouncing human rights crimes committed by the Islamic State , have played last letter: 'Hundreds of civilians and child soldiers in the Islamic State have to endure the smoke of smokers militiamen.",
+            "question_answers": [
+                {
+                    "question": "The UN Permanent Security Council was tired of denouncing human rights crimes committed by what group?",
+                    "answer": "the Islamic State"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the human rights crimes committed by the Islamic State?",
+                    "score": 0.7933,
+                    "answers": "of denouncing human rights crimes committed by the Islamic State|prep\tdenouncing human rights crimes committed by the Islamic State|pcomp\thuman|amod\thuman rights|compound\thuman rights crimes committed by the Islamic State|dobj\tcommitted by the Islamic State|acl"
+                },
+                {
+                    "question": "How many civilians and child soldiers are in the Islamic State?",
+                    "score": 0.7419,
+                    "answers": "Hundreds of civilians and child soldiers in the Islamic State|nsubj\tof civilians and child soldiers in the Islamic State|prep\tcivilians and child soldiers in the Islamic State|pobj"
+                },
+                {
+                    "question": "What is the smoke of the smokers militiamen?",
+                    "score": 0.6699,
+                    "answers": "the smoke of smokers militiamen|dobj\tof smokers militiamen|prep"
+                },
+                {
+                    "question": "What is the relationship between the UN Permanent Security Council and Islamic State?",
+                    "score": 0.6411,
+                    "answers": "UN|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Let us hope that this will finally make the Western powers react, as it seems to be an issue that alarms and outrages the citizens'.",
+            "question_answers": [
+                {
+                    "question": "When did www.elmundotoday.com report that Let's hope that this will finally make the Western powers react?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to outrage citizens?",
+                    "score": 0.8224,
+                    "answers": "outrages the citizens '|conj"
+                },
+                {
+                    "question": "What are the western powers reacting to?",
+                    "score": 0.7762,
+                    "answers": "the Western powers|nsubj"
+                },
+                {
+                    "question": "What will happen if the Western powers don't react?",
+                    "score": 0.7246,
+                    "answers": "that Let us hope that this will finally make the Western powers react , as it seems to be an issue that alarms and outrages the citizens '|ccomp"
+                },
+                {
+                    "question": "What is the issue that alarms and outrages citizens?",
+                    "score": 0.6721,
+                    "answers": "an issue that alarms and outrages the citizens '|attr"
+                },
+                {
+                    "question": "What is the relationship between Western powers and citizens?",
+                    "score": 0.6607,
+                    "answers": "that|mark\tus|nsubj\tus hope that this will finally make the Western powers react|ccomp\tthat|mark\tthis|nsubj\twill|aux\tfinally|advmod\tthat this will finally make the Western powers react|ccomp\tthe|det\t,|punct\tas|mark\tit|nsubj\tas it seems to be an issue that alarms and outrages the citizens '|advcl\tto|aux\tto be an issue that alarms and outrages the citizens '|xcomp\tan|det\tthat|nsubj\tand|cc\tthe|det\tthe citizens '|dobj\t'|case"
+                }
+            ]
+        },
+        {
+            "claim": "Ahmed is ♪ NUMBER* years old.",
+            "question_answers": [
+                {
+                    "question": "When did www.elmundotoday.com report that Ahmed is  NUMBER* years old?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How old is Ahmed?",
+                    "score": 0.7551,
+                    "answers": "on 25/11/2016|prep\tthat|mark\tthat Ahmed is ♪ NUMBER * years old|ccomp\t♪|punct\t*|punct\tNUMBER * years|npadvmod\tNUMBER * years old|acomp"
+                },
+                {
+                    "question": "How old is Bengazi?",
+                    "score": 0.7518,
+                    "answers": "www.elmundotoday.com|nsubj\twww.elmundotoday.com reported on 25/11/2016 that Ahmed is ♪ NUMBER * years old|ROOT"
+                },
+                {
+                    "question": "How old is the dead man?",
+                    "score": 0.7503,
+                    "answers": "NUMBER|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "Ahmed .",
+            "question_answers": [
+                {
+                    "question": "On what date was it reported by www.elmundotoday.com?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the identity of Ahmed?",
+                    "score": 0.6829,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that Ahmed|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "An explosion left Ahmed without legs or arms, deaf mute and blind.",
+            "question_answers": [
+                {
+                    "question": "What type of mute was Ahmed?",
+                    "answer": "deaf mute"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many legs or arms did the explosion leave Ahmed without?",
+                    "score": 0.7135,
+                    "answers": "legs or arms|pobj"
+                },
+                {
+                    "question": "What are the symptoms of deaf deaf and blind?",
+                    "score": 0.6716,
+                    "answers": "without legs or arms , deaf mute and blind|prep"
+                },
+                {
+                    "question": "What was the cause of the collapse of Ahmed's legs and arms?",
+                    "score": 0.6605,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that An explosion left Ahmed without legs or arms , deaf mute and blind|ROOT"
+                },
+                {
+                    "question": "What happened to Ahmed without legs or arms in 2016?",
+                    "score": 0.6601,
+                    "answers": "25/11/2016|pobj\tthat An explosion left Ahmed without legs or arms , deaf mute and blind|ccomp"
+                },
+                {
+                    "question": "What are the deaf and blind?",
+                    "score": 0.5848,
+                    "answers": "mute and blind|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "But Ahmed is a fighter.",
+            "question_answers": [
+                {
+                    "question": "Who is a fighter?",
+                    "answer": "Ahmed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What kind of fighters does Ahmed fight?",
+                    "score": 0.8732,
+                    "answers": "a fighter|attr"
+                },
+                {
+                    "question": "What kind of fighter is Ahmed?",
+                    "score": 0.8441,
+                    "answers": "that But Ahmed is a fighter|ccomp"
+                },
+                {
+                    "question": "What is the name of the website that published the story of Ahmed being a fighter?",
+                    "score": 0.779,
+                    "answers": "on 25/11/2016|prep"
+                },
+                {
+                    "question": "What is the source of evidence of what Ahmed is in the air force?",
+                    "score": 0.7521,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that But Ahmed is a fighter|ROOT"
+                },
+                {
+                    "question": "What is the website \"elmundotoday.com\"?",
+                    "score": 0.6999,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Ahmed never lost the will to live.",
+            "question_answers": [
+                {
+                    "question": "What did www.elmundotoday.com report on 25/11/2016",
+                    "answer": "Ahmed never lost the will to live"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has Ahmed lost the will to live?",
+                    "score": 0.8366,
+                    "answers": "never|neg"
+                },
+                {
+                    "question": "What is the source of evidence of Ahmed's will to live?",
+                    "score": 0.758,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that Ahmed never lost the will to live|ROOT\tto live|acl"
+                },
+                {
+                    "question": "What is the relationship between Ahmed and his will to live?",
+                    "score": 0.6892,
+                    "answers": "that Ahmed never lost the will to live|ccomp"
+                },
+                {
+                    "question": "What is the website \"elmundotoday.com\"?",
+                    "score": 0.6859,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "family considers Ahmed 'a happy man'.",
+            "question_answers": [
+                {
+                    "question": "Who does the family consider 'a happy man'?",
+                    "answer": "Ahmed"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What family considers Ahmed a happy man?",
+                    "score": 0.8372,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that family considers Ahmed ' a happy man '|ROOT\tthat|mark\tfamily|nsubj\tthat family considers Ahmed ' a happy man '|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Ahmed and his family?",
+                    "score": 0.733,
+                    "answers": "happy|amod\tAhmed ' a happy man|ccomp"
+                },
+                {
+                    "question": "What is the website \"elmundotoday.com\"?",
+                    "score": 0.69,
+                    "answers": "www.elmundotoday.com|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the name of the family that said that Ahmed is a happy man?",
+                    "score": 0.6593,
+                    "answers": "on 25/11/2016|prep"
+                }
+            ]
+        },
+        {
+            "claim": "only hobby is smoking.",
+            "question_answers": [
+                {
+                    "question": "What type of smoking was reported on on 25/11/2016 by elmundotoday.com?",
+                    "answer": "hobby"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the number of people who smoke marijuana?",
+                    "score": 0.862,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the name of the website that claims that smoking is illegal?",
+                    "score": 0.8544,
+                    "answers": "www.elmundotoday.com|nsubj"
+                },
+                {
+                    "question": "What is the only hobby that is smoking?",
+                    "score": 0.8477,
+                    "answers": "only|advmod\tonly hobby|nsubj\tthat only hobby is smoking|ccomp"
+                },
+                {
+                    "question": "What is smoking?",
+                    "score": 0.8332,
+                    "answers": "smoking|attr"
+                }
+            ]
+        },
+        {
+            "claim": "For two weeks Ahmed coughed a lot.",
+            "question_answers": [
+                {
+                    "question": "How long did Ahmed cough?",
+                    "answer": "two weeks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Ahmed cough a lot for two weeks?",
+                    "score": 0.8531,
+                    "answers": "that For two weeks Ahmed coughed a lot|ccomp"
+                },
+                {
+                    "question": "What was the cause of the cough for two weeks in 2016?",
+                    "score": 0.7871,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that For two weeks Ahmed coughed a lot|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of how much Ahmed coughed for two weeks?",
+                    "score": 0.7636,
+                    "answers": "that|mark\ta|det"
+                },
+                {
+                    "question": "What was the relationship between Ahmed and Bengazi?",
+                    "score": 0.7285,
+                    "answers": "on 25/11/2016|prep\tFor two weeks|prep"
+                },
+                {
+                    "question": "What is the website \"elmundotoday.com\"?",
+                    "score": 0.7079,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "doctor has diagnosed Ahmed with bronchitis .",
+            "question_answers": [
+                {
+                    "question": "What type of bronchitis was Ahmed diagnosed with?",
+                    "answer": "bronchitis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the doctor who diagnosed Ahmed with bronchitis?",
+                    "score": 0.8281,
+                    "answers": "www.elmundotoday.com|nsubj\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "bronchitis 's tobacco's fault.",
+            "question_answers": [
+                {
+                    "question": "What is the cause of tobacco's fault?",
+                    "answer": "bronchitis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of bronchitis from tobacco?",
+                    "score": 0.841,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that bronchitis 's tobacco 's fault|ROOT"
+                },
+                {
+                    "question": "What is the cause of bronchitis?",
+                    "score": 0.8389,
+                    "answers": "that bronchitis 's tobacco 's fault|ccomp"
+                },
+                {
+                    "question": "What is bronchitis?",
+                    "score": 0.8382,
+                    "answers": "bronchitis|nsubj"
+                },
+                {
+                    "question": "What is the relationship between tobacco and bronchitis?",
+                    "score": 0.83,
+                    "answers": "tobacco 's fault|attr"
+                }
+            ]
+        },
+        {
+            "claim": "A cloud looms over the future of Ahmed .",
+            "question_answers": [
+                {
+                    "question": "When did www.elmundotoday.com report that A cloud looms over the future of Ahmed?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What cloud looms over the future of Ahmed?",
+                    "score": 0.7934,
+                    "answers": "www.elmundotoday.com|nsubj\twww.elmundotoday.com reported on 25/11/2016 that A cloud looms over the future of Ahmed|ROOT\ton 25/11/2016|prep\tthat|mark\tA|det\tA cloud|nsubj\tthat A cloud looms over the future of Ahmed|ccomp\tover the future of Ahmed|prep\tthe|det\tthe future of Ahmed|pobj\tof Ahmed|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Hillary Clinton was blunt during the election campaign: 'Hillary Clinton will forbid smoking in all wars in which we participate'.",
+            "question_answers": [
+                {
+                    "question": "What did the website say about Hillary Clinton during the election campaign?",
+                    "answer": "'Hillary Clinton will forbid smoking in all wars in which we participate'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Hillary Clinton say about smoking during the election campaign?",
+                    "score": 0.9095,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that Hillary Clinton was blunt during the election campaign|ccomp\tthat Hillary Clinton was blunt during the election campaign|ccomp\tduring the election campaign|prep\telection|compound\tthe election campaign|pobj\twww.elmundotoday.com reported on 25/11/2016 that Hillary Clinton was blunt during the election campaign : ' Hillary Clinton will forbid smoking in all wars in which we participate '|ROOT"
+                },
+                {
+                    "question": "What is Hillary Clinton's stance on smoking?",
+                    "score": 0.8894,
+                    "answers": "Hillary|compound\tHillary|compound\tsmoking|dobj"
+                },
+                {
+                    "question": "How many wars has Hillary Clinton participated in?",
+                    "score": 0.8796,
+                    "answers": "in all wars in which we participate|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Donald Trump's stance on this issue is not yet known.",
+            "question_answers": [
+                {
+                    "question": "When did www.elmundotoday.com report that Donald Trump's stance on this issue was not known?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Donald Trump's stance on abortion?",
+                    "score": 0.8598,
+                    "answers": "this issue|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Vladimir Putin has been open to do'the opposite the Americans decide'.",
+            "question_answers": [
+                {
+                    "question": "When did www.elmundotoday.com report that Vladimir Putin was open to do the opposite of the Americans decide?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Vladimir Putin and the Americans?",
+                    "score": 0.8426,
+                    "answers": "Vladimir|compound"
+                }
+            ]
+        },
+        {
+            "claim": "As a result, the UN General Council unanimously approved yesterday the total ban on smoking in the Syrian war.",
+            "question_answers": [
+                {
+                    "question": "Who unanimously approved the total ban on smoking in the Syrian war?",
+                    "answer": "UN General Council"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the UN General Council vote to ban smoking in Syria?",
+                    "score": 0.9024,
+                    "answers": "that As a result , the UN General Council unanimously approved yesterday the total ban on smoking in the Syrian war|ccomp"
+                },
+                {
+                    "question": "What is the ban on smoking in Syria?",
+                    "score": 0.8637,
+                    "answers": "the total ban on smoking in the Syrian war|dobj"
+                },
+                {
+                    "question": "What is the Syrian war?",
+                    "score": 0.7476,
+                    "answers": "in the Syrian war|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The resolution will enter into force on .",
+            "question_answers": [
+                {
+                    "question": "When did Elmundotoday.com report that the resolution will enter into force?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the resolution go into effect?",
+                    "score": 0.8681,
+                    "answers": "www.elmundotoday.com reported on 25/11/2016 that The resolution will enter into force on|ROOT\tthat|mark\ton|prep"
+                },
+                {
+                    "question": "When will the resolution come into force?",
+                    "score": 0.836,
+                    "answers": "The resolution|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the resolution that goes into effect?",
+                    "score": 0.7005,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "From that day on, in Syria's war scenes, you'll be able to breathe a little better.",
+            "question_answers": [
+                {
+                    "question": "On what date did elmundotoday.com report that you'll be able to breathe a little better in Syria's war scenes?",
+                    "answer": "25/11/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much oxygen did Syrians get from the war scenes in Syria?",
+                    "score": 0.8183,
+                    "answers": "that From that day on , in Syria 's war scenes , you 'll be able to breathe a little better|ccomp"
+                },
+                {
+                    "question": "What was the impact of the war on Syria?",
+                    "score": 0.7879,
+                    "answers": "25/11/2016|pobj"
+                },
+                {
+                    "question": "What are the benefits of air quality in Syria?",
+                    "score": 0.768,
+                    "answers": "you|nsubj"
+                },
+                {
+                    "question": "What is the average oxygen consumption per day in Syria?",
+                    "score": 0.7628,
+                    "answers": "able to breathe a little better|acomp"
+                },
+                {
+                    "question": "What is the website \"elmundotoday.com\"?",
+                    "score": 0.6382,
+                    "answers": "www.elmundotoday.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

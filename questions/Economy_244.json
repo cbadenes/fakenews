@@ -1,0 +1,211 @@
+{
+    "id": "Economy_244",
+    "claim": "Some congratulations that have been given since yesterday are from Alejandro Ramírez, CEO of Cinepolis and Ángel Gurria, Secretary General of the Organization for Economic Cooperation and Development (OECD). Congratulations and supportive comments from business and economic actors continue for Andres Manuel Lopez Obrador (AMLO) for his victory in the presidential elections. In previous months, during the electoral campaign of the Tabasqueño, there was discontent on the part of the business unions, especially for the new airport of Mexico City, however, analysts have emphasized that Lopez Obrador's speech has become reconciling. Some congratulations that have been given since yesterday are from Alejandro Ramírez, CEO of Cinepolis; Ángel Gurria, Secretary General of the Organization for Economic Cooperation and Development (OECD); and from American politician Bernie Sanders. Ricardo Salinas Pliego, founder and president of Grupo Salinas (Elektra, TV Azteca and Banco Azteca); Juan Pablo del Valle, president of the board of directors of the company Mexichem; businessman and activist Claudio X. González; social entrepreneur Patricia Armendáriz Guerra and others congratulated the candidate from Tabasqueño. For their part, the Mexican Association of Insurance Institutions (AMIS) sent congratulations to Lopez Obrador for his triumph. 'In the insurance industry we will be working together with the three government orders, especially with Andres Manuel Lopez Obrador, so that, in collaboration with the different sectors, we can promote strategies and public policies that promote the country's economy and thus bring the benefits of insurance to more Mexicans, and contribute to the well-being of families ', says Manuel Escobedo, president of AMIS. I'm sorry.",
+    "source": "www.forbes.com.mx",
+    "date": "02/07/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Some congratulations that have been given since yesterday are from Alejandro Ramírez, CEO of Cinepolis and Cinepolis .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many congratulations have been given since yesterday from Alejandro Ramírez?",
+                    "score": 0.8258,
+                    "answers": "www.forbes.com.mx|nsubj\ton 02/07/2018|prep\tthat|mark\tSome|det\tSome congratulations that have been given since yesterday|nsubj\tthat|nsubjpass\thave|aux\tbeen|auxpass\tthat have been given since yesterday|relcl\tsince yesterday|prep\tthat Some congratulations that have been given since yesterday are from Alejandro Ramírez , CEO of Cinepolis and Cinepolis|ccomp\tfrom Alejandro Ramírez , CEO of Cinepolis and Cinepolis|prep\t,|punct\tand|cc"
+                },
+                {
+                    "question": "Who is the CEO of CinePolis and Cinepolis?",
+                    "score": 0.7466,
+                    "answers": "CEO of Cinepolis and Cinepolis|appos\tCinepolis and Cinepolis|pobj"
+                },
+                {
+                    "question": "What is the relationship between Alejandro Ramírez and Cinepolis?",
+                    "score": 0.7171,
+                    "answers": "Alejandro|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Congratulations and supportive comments from business and economic actors continue for Andres Manuel Lopez Obrador (AMLO) for the Organization for Economic Cooperation and Development (OECD) .",
+            "question_answers": [
+                {
+                    "question": "Who is the CEO of AMLO?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What comments has Andres Manuel Lopez Obrador made?",
+                    "score": 0.817,
+                    "answers": "Congratulations and supportive comments from business and economic actors for Andres Manuel Lopez Obrador ( AMLO ) for the Organization for Economic Cooperation and Development ( OECD )|nsubj"
+                },
+                {
+                    "question": "What does Forbes.com.mx say about Andres Manuel Lopez Obrador?",
+                    "score": 0.7434,
+                    "answers": "www.forbes.com.mx|nsubj"
+                },
+                {
+                    "question": "What does OECD stand for?",
+                    "score": 0.6229,
+                    "answers": "for the Organization for Economic Cooperation and Development ( OECD )|prep\tthe Organization for Economic Cooperation and Development ( OECD )|pobj\tEconomic Cooperation and Development|pobj\tDevelopment|conj"
+                }
+            ]
+        },
+        {
+            "claim": "In previous months, during the electoral campaign of the Tabasqueño, there was discontent on the part of the business unions, especially for the new airport of Mexico City, however, analysts have emphasized that Andres Manuel Lopez Obrador (AMLO) speech has become reconciling.",
+            "question_answers": [
+                {
+                    "question": "What does AMLO stand for?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Andres Manuel Lopez Obrador say about the new airport of Mexico City?",
+                    "score": 0.8113,
+                    "answers": "especially for the new airport of Mexico City|prep"
+                },
+                {
+                    "question": "What is the name of the new airport in Mexico City?",
+                    "score": 0.6701,
+                    "answers": "the new airport of Mexico City|pobj"
+                },
+                {
+                    "question": "What was the relationship between AMLO and Lopez Obrador?",
+                    "score": 0.6451,
+                    "answers": "that Andres Manuel Lopez Obrador ( AMLO ) speech has become reconciling|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Some congratulations that have been given since yesterday are from Alejandro Ramírez, CEO of Cinepolis ; Cinepolis ; and from American politician Bernie Sanders.",
+            "question_answers": [
+                {
+                    "question": "Alejandro Ramrez is the CEO of what company?",
+                    "answer": "Cinepolis"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Bernie Sanders?",
+                    "score": 0.7846,
+                    "answers": "from American politician Bernie Sanders|conj\tAmerican politician|compound\tBernie|compound\tAmerican politician Bernie Sanders|pobj"
+                },
+                {
+                    "question": "Who is the CEO of Cinepolis?",
+                    "score": 0.7511,
+                    "answers": "www.forbes.com.mx|nsubj\twww.forbes.com.mx reported on 02/07/2018 that Some congratulations that have been given since yesterday are from Alejandro Ramírez , CEO of Cinepolis ; Cinepolis ; and from American politician Bernie Sanders|ROOT\ton 02/07/2018|prep\tthat|mark\tSome|det\tSome congratulations that have been given since yesterday|nsubj\tthat|nsubjpass\thave|aux\tbeen|auxpass\tthat have been given since yesterday|relcl\tsince yesterday|prep\tthat Some congratulations that have been given since yesterday are from Alejandro Ramírez , CEO of Cinepolis ; Cinepolis ; and from American politician Bernie Sanders|ccomp\tfrom Alejandro Ramírez , CEO of Cinepolis ; Cinepolis ; and from American politician Bernie Sanders|prep\tAlejandro|compound\tAlejandro Ramírez , CEO of Cinepolis|pobj\t,|punct\tCEO of Cinepolis|appos\tof Cinepolis|prep\t;|punct\t;|punct\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Ricardo Salinas Pliego, founder and president of Grupo Salinas (Elektra, TV Azteca and Banco Azteca); Juan Pablo del Valle, president of the board of directors of the company Mexichem; businessman and activist Claudio X. González; social entrepreneur Patricia Armendáriz Guerra and others congratulated Andres Manuel Lopez Obrador (AMLO) .",
+            "question_answers": [
+                {
+                    "question": "Who was the president of AMLO?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who founded Grupo Salinas (Elektra, TV Azteca, and Banco Aztec)?",
+                    "score": 0.8869,
+                    "answers": "Juan|compound\tPablo|compound\tManuel|compound"
+                },
+                {
+                    "question": "Who founded Grupo Salinas?",
+                    "score": 0.835,
+                    "answers": "Ricardo|compound\tSalinas|compound\t(|punct\t)|punct\tthat Ricardo Salinas Pliego , founder and president of Grupo Salinas ( Elektra , TV Azteca and Banco Azteca ) ; Juan Pablo del Valle , president of the board of directors of the company Mexichem ; businessman and activist Claudio X. González ; social entrepreneur Patricia Armendáriz Guerra and others congratulated Andres Manuel Lopez Obrador ( AMLO )|ccomp\tAndres|compound\tLopez|compound\t(|punct\t)|punct"
+                },
+                {
+                    "question": "What did Pliego do with Grupo Salinas?",
+                    "score": 0.8103,
+                    "answers": "Grupo|compound"
+                },
+                {
+                    "question": "What was Pliego's role in Grupo Salinas?",
+                    "score": 0.7375,
+                    "answers": "Ricardo Salinas Pliego , founder and president of Grupo Salinas ( Elektra , TV Azteca and Banco Azteca ) ; Juan Pablo del Valle , president of the board of directors of the company Mexichem ; businessman and activist Claudio X. González ; social entrepreneur Patricia Armendáriz Guerra and others|nsubj"
+                },
+                {
+                    "question": "What type of entrepreneur is Patricia Armendáriz Guerra?",
+                    "score": 0.7175,
+                    "answers": "social|amod"
+                }
+            ]
+        },
+        {
+            "claim": "For part, Ángel Gurria, Secretary General of the Organization for Economic Cooperation and Development (OECD) sent congratulations to Andres Manuel Lopez Obrador (AMLO) for the Organization for Economic Cooperation and Development (OECD) .",
+            "question_answers": [
+                {
+                    "question": "Who was the Secretary General of the OECD?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Forbes.com.mx say about Andres Manuel Lopez Obrador?",
+                    "score": 0.7744,
+                    "answers": "www.forbes.com.mx|nsubj"
+                },
+                {
+                    "question": "What is Andres Manuel Lopez Obrador's political affiliation?",
+                    "score": 0.7285,
+                    "answers": "Andres|compound"
+                },
+                {
+                    "question": "What does OECD stand for?",
+                    "score": 0.706,
+                    "answers": "on 02/07/2018|prep\t,|punct\t,|punct\tSecretary|compound\tSecretary General of the Organization for Economic Cooperation and Development ( OECD )|appos\tof the Organization for Economic Cooperation and Development ( OECD )|prep\tthe|det\tthe Organization for Economic Cooperation and Development ( OECD )|pobj\tfor Economic Cooperation and Development|prep\tEconomic Cooperation and Development|pobj\tand|cc\tDevelopment|conj\t(|punct\t)|punct\tcongratulations|dobj\t(|punct\t)|punct\tfor the Organization for Economic Cooperation and Development ( OECD )|prep\tthe|det\tthe Organization for Economic Cooperation and Development ( OECD )|pobj\tfor Economic Cooperation and Development|prep\tEconomic Cooperation and Development|pobj\tand|cc\tDevelopment|conj\t(|punct\t)|punct"
+                },
+                {
+                    "question": "Who is the Secretary General of the Organization for Economic Cooperation and Development (OECD)?",
+                    "score": 0.6891,
+                    "answers": "Ángel|compound"
+                },
+                {
+                    "question": "What is the relationship between Andres Manuel Lopez Obrador and AMLO?",
+                    "score": 0.6783,
+                    "answers": "www.forbes.com.mx reported on 02/07/2018 that For part , Ángel Gurria , Secretary General of the Organization for Economic Cooperation and Development ( OECD ) sent congratulations to Andres Manuel Lopez Obrador ( AMLO ) for the Organization for Economic Cooperation and Development ( OECD )|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'In the insurance industry Ángel Gurria, Secretary General of the Organization for Economic Cooperation and Development (OECD) will be working together with the three government orders, especially with Andres Manuel Lopez Obrador (AMLO) , so that, in collaboration with the different sectors, Ángel Gurria, Secretary General of the Organization for Economic Cooperation and Development (OECD) can promote strategies and public policies that promote the country's economy and thus bring the benefits of insurance to more Mexicans, and contribute to the well-being of families ', says Manuel Escobedo, president of Ángel Gurria, Secretary General of the Organization for Economic Cooperation and Development (OECD) .",
+            "question_answers": [
+                {
+                    "question": "Who did OECD Secretary General ngel Gurria work with in the insurance industry?",
+                    "answer": "Andres Manuel Lopez Obrador (AMLO)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What government orders has Andres Manuel Lopez Obrador worked with?",
+                    "score": 0.7683,
+                    "answers": "together with the three government orders , especially with Andres Manuel Lopez Obrador ( AMLO )|prep\tAndres Manuel Lopez Obrador ( AMLO )|pobj"
+                },
+                {
+                    "question": "How much money does ECC contribute to families?",
+                    "score": 0.7603,
+                    "answers": "contribute to the well - being of families|conj"
+                },
+                {
+                    "question": "What are the benefits of insurance to more Mexicans?",
+                    "score": 0.7445,
+                    "answers": "the benefits of insurance|dobj"
+                },
+                {
+                    "question": "What does the OECD do to help the Mexican economy?",
+                    "score": 0.744,
+                    "answers": "so that , in collaboration with the different sectors , Ángel Gurria , Secretary General of the Organization for Economic Cooperation and Development ( OECD ) can promote strategies and public policies that promote the country 's economy and thus bring the benefits of insurance to more Mexicans , and contribute to the well - being of families|advcl"
+                },
+                {
+                    "question": "How many Mexicans are working with the three government orders?",
+                    "score": 0.7418,
+                    "answers": "more Mexicans|pobj"
+                }
+            ]
+        }
+    ]
+}

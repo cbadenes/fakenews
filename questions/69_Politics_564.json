@@ -1,0 +1,315 @@
+{
+    "id": "69_Politics_564",
+    "claim": "Sad moments the Institutional Revolutionary Party has experienced in this presidential campaign, because Jose Antonio Meade never took off, even though everything was attempted:He tried to convince people that he is not a PRI, but a citizen. He was tried to make it look like he's an honest person, and that's why the PRI supported him. He was tried to make it appear that he is the most prepared candidate, though he has never ruled. They tried to make it clear that he's a person like anyone else, and that he even gets on the subway, even if it's not in rush hours. But it's not like that. Meade was lost in the last places, and although there was a survey that put it in second place, it was discovered that it was carried out by the same company that was in charge of doing the survey so that the subway would go up to five pesos. In response, the PRI, in a desperate attempt to win the country's presidency again, has made a fundamental decision, which is to change the candidate. So now it will be Javier Hernández, better known as Chicharito, who faces the contest. In his first interview as a candidate, Javier Hernández told us that he feels very happy with the opportunity, that with him if he is going to achieve a change, as well as when they change him in every team he plays or as when he enters from change.'I feel very much in me the colors of the PRI. In fact, as they are the same as those of the National Selection, that is why I accepted this challenge, because besides being talented and famous, I know hunger and misery, because I played in the Chivas'. Chicharito will begin his campaign as a candidate with the slogan #ChecharoSiLaMete. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "30/05/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Sad moments the Institutional Revolutionary Party has experienced in this presidential campaign, because Jose Antonio Meade never took off, even though everything was attempted:Jose Antonio Meade tried to convince people that Jose Antonio Meade is not a PRI , but a citizen.",
+            "question_answers": [
+                {
+                    "question": "What is Jose Antonio Meade not a part of?",
+                    "answer": "PRI"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Jose Antonio Meade take off from the Institutional Revolutionary Party?",
+                    "score": 0.8658,
+                    "answers": "because Jose Antonio Meade never took off , even though everything was attempted|advcl"
+                },
+                {
+                    "question": "What did Jose Antonio Meade try to convince people about himself as a citizen?",
+                    "score": 0.7976,
+                    "answers": "this|det\teverything|nsubjpass\tpeople|dobj\ta|det\ta|det"
+                },
+                {
+                    "question": "What is Jose Antonio Meade's political affiliation?",
+                    "score": 0.7037,
+                    "answers": "that Jose Antonio Meade is not a PRI , but a citizen|ccomp\tnot a PRI , but a citizen|attr\ta citizen|conj"
+                },
+                {
+                    "question": "What is the relationship between Jose Antonio Meade and Institutional Revolutionary Party?",
+                    "score": 0.6721,
+                    "answers": "www.eldizque.com|nsubj\ton 30/05/2018|prep\tSad|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Jose Antonio Meade was tried to make it look like Jose Antonio Meade 's an honest person, and 's 's why PRI supported Jose Antonio Meade .",
+            "question_answers": [
+                {
+                    "question": "Why did PRI support Jose Antonio Meade?",
+                    "answer": "to make it look like Jose Antonio Meade"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jose Antonio Meade do to make it look like he was an honest person?",
+                    "score": 0.8037,
+                    "answers": "to make it look like Jose Antonio Meade 's an honest person|xcomp"
+                },
+                {
+                    "question": "What is Jose Antonio Meade's political affiliation?",
+                    "score": 0.7964,
+                    "answers": "www.eldizque.com reported on 30/05/2018 that Jose Antonio Meade was tried to make it look like Jose Antonio Meade 's an honest person , and 's 's why PRI supported Jose Antonio Meade|ROOT\tthat|mark\tJose|compound\twas|auxpass\tthat Jose Antonio Meade was tried to make it look like Jose Antonio Meade 's an honest person , and 's 's why PRI supported Jose Antonio Meade|ccomp\tto|aux\tit|nsubj\tit look like Jose Antonio Meade 's an honest person|ccomp\tlike|mark\tJose|compound\tan|det\thonest|amod\tan honest person|attr\tJose|compound"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade?",
+                    "score": 0.7916,
+                    "answers": "on 30/05/2018|prep\tAntonio|compound\tAntonio|compound\tlike Jose Antonio Meade 's an honest person|advcl\t,|punct\tand|cc\t's|expl\twhy|advmod\tAntonio|compound"
+                },
+                {
+                    "question": "What is the relationship between Meade and Jose Antonio Meade?",
+                    "score": 0.7812,
+                    "answers": "'s 's why PRI supported Jose Antonio Meade|conj\twhy PRI supported Jose Antonio Meade|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Jose Antonio Meade was tried to make it appear that Jose Antonio Meade is the most prepared candidate, though Jose Antonio Meade has never ruled.",
+            "question_answers": [
+                {
+                    "question": "Who did www.eldizque.com report was tried to make it appear that was the most prepared candidate?",
+                    "answer": "Jose Antonio Meade"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Jose Antonio Meade?",
+                    "score": 0.8415,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 30/05/2018 that Jose Antonio Meade was tried to make it appear that Jose Antonio Meade is the most prepared candidate , though Jose Antonio Meade has never ruled|ROOT\ton 30/05/2018|prep\tthat|mark\tJose|compound\tAntonio|compound\twas|auxpass\tthat Jose Antonio Meade was tried to make it appear that Jose Antonio Meade is the most prepared candidate , though Jose Antonio Meade has never ruled|ccomp\tto|aux\tto make it appear that Jose Antonio Meade is the most prepared candidate , though Jose Antonio Meade has never ruled|xcomp\tit|nsubj\tit appear that Jose Antonio Meade is the most prepared candidate|ccomp\tthat|mark\tJose|compound\tAntonio|compound\tthat Jose Antonio Meade is the most prepared candidate|ccomp\tthe|det\tmost|advmod\tmost prepared|amod\tthe most prepared candidate|attr\t,|punct\tthough|mark\tJose|compound\tAntonio|compound\thas|aux\tnever|neg\tthough Jose Antonio Meade has never ruled|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "PRI tried to make it clear that Jose Antonio Meade 's a person like anyone else, and that Jose Antonio Meade even gets on the subway , even if the subway 's not in rush hours.",
+            "question_answers": [
+                {
+                    "question": "What does Jose Antonio Meade get on even if it's not in rush hours?",
+                    "answer": "the subway"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Jose Antonio Meade get on the subway?",
+                    "score": 0.8868,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "What does Jose Antonio Meade do on the subway?",
+                    "score": 0.8316,
+                    "answers": "to make it clear that Jose Antonio Meade 's a person like anyone else , and that Jose Antonio Meade even gets on the subway , even if the subway 's not in rush hours|xcomp"
+                },
+                {
+                    "question": "How long is Jose Antonio Meade on the subway?",
+                    "score": 0.8161,
+                    "answers": "rush|compound"
+                },
+                {
+                    "question": "What is Jose Antonio Meade's connection to the subway?",
+                    "score": 0.7521,
+                    "answers": "rush hours|pobj"
+                },
+                {
+                    "question": "Who is Jose Antonio Meade?",
+                    "score": 0.7483,
+                    "answers": "that|mark\tthat|mark\tJose|compound\tAntonio|compound\ta person like anyone else|attr\tanyone else|pobj\telse|advmod\t,|punct\tand|cc\tthat|mark\tJose|compound\tAntonio|compound\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Jose Antonio Meade was lost in the last places, and although there was a survey that put it in second place , it was discovered that a survey that put it in second place was carried out by the same company that was in charge of doing a survey that put it in second place so that the subway would go up to five pesos.",
+            "question_answers": [
+                {
+                    "question": "What place was Jose Antonio Meade put in a survey that was carried out by the same company that was in charge of doing a survey that put it in?",
+                    "answer": "second place"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Jose Antonio Meade lost?",
+                    "score": 0.7718,
+                    "answers": "that Jose Antonio Meade was lost in the last places|ccomp\tin the last places|prep\tthe last places|pobj"
+                },
+                {
+                    "question": "What did the survey say about Jose Antonio Meade being lost in the last place?",
+                    "score": 0.7653,
+                    "answers": "up to five pesos|advmod\tto five pesos|prep"
+                },
+                {
+                    "question": "What was the name of the survey that put Jose Antonio Meade in second place?",
+                    "score": 0.6783,
+                    "answers": "on 30/05/2018|prep\tout|prt\tsame|amod"
+                }
+            ]
+        },
+        {
+            "claim": "In response, PRI , in a desperate attempt to win the country's presidency again, has made a fundamental decision, which is to change the candidate.",
+            "question_answers": [
+                {
+                    "question": "Who has made a fundamental decision to change the candidate in order to win the country's presidency again?",
+                    "answer": "PRI"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did PRI do to change the president's presidency?",
+                    "score": 0.7819,
+                    "answers": "to change the candidate|xcomp"
+                },
+                {
+                    "question": "What did PRI want to do to win the country's presidency?",
+                    "score": 0.7657,
+                    "answers": "the country 's presidency|dobj"
+                },
+                {
+                    "question": "What is the relationship between PRI and Trump?",
+                    "score": 0.6592,
+                    "answers": "that|mark\tIn response|prep\tresponse|pobj\t,|punct\t,|punct\ta|det\tdesperate|amod\tto|aux\tthe|det\tthe country 's|poss\t's|case\tagain|advmod\t,|punct\thas|aux\ta|det\tfundamental|amod\t,|punct\twhich|nsubj\tto|aux\tthe|det\tthe candidate|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "So now it will be Javier Hernández, better known as Chicharito , who faces the contest.",
+            "question_answers": [
+                {
+                    "question": "What is Javier Hernández better known as?",
+                    "answer": "Chicharito"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Javier Hernández?",
+                    "score": 0.8182,
+                    "answers": "www.eldizque.com|nsubj\ton 30/05/2018|prep\tthat|mark\tSo|advmod\tnow|advmod\tit|nsubj\tthat So now it will be Javier Hernández , better known as Chicharito , who faces the contest|ccomp\tJavier|compound\t,|punct\tbetter|advmod\t,|punct\twho|nsubj\twho faces the contest|relcl\tthe contest|dobj"
+                },
+                {
+                    "question": "What is the relationship between Hernández and Chicharito?",
+                    "score": 0.7948,
+                    "answers": "will|aux\tthe|det"
+                },
+                {
+                    "question": "Who is Chicharito?",
+                    "score": 0.7838,
+                    "answers": "www.eldizque.com reported on 30/05/2018 that So now it will be Javier Hernández , better known as Chicharito , who faces the contest|ROOT\tJavier Hernández , better known as Chicharito , who faces the contest|attr"
+                },
+                {
+                    "question": "What is Chicharito?",
+                    "score": 0.7823,
+                    "answers": "better known as Chicharito|acl\tas Chicharito|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In first interview as a candidate, Javier Hernández, better known as Chicharito told us that Javier Hernández, better known as Chicharito feels very happy with the opportunity, that with Javier Hernández, better known as Chicharito if Javier Hernández, better known as Chicharito is going to achieve a change, as well as when they change Javier Hernández, better known as Chicharito in every team Javier Hernández, better known as Chicharito plays or as when Javier Hernández, better known as Chicharito enters from change.",
+            "question_answers": [
+                {
+                    "question": "What is Javier Hernández better known as?",
+                    "answer": "Chicharito"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Javier Hernández say about Chicharito?",
+                    "score": 0.757,
+                    "answers": "Javier Hernández , better known as Chicharito|nsubj\tbetter known as Chicharito|acl\tas Chicharito|prep\tJavier Hernández , better known as Chicharito|nsubj\tbetter known as Chicharito|acl\tas Chicharito|prep\tJavier Hernández , better known as Chicharito|pobj\tbetter known as Chicharito|acl\tas Chicharito|prep\tJavier Hernández , better known as Chicharito|nsubj\tbetter known as Chicharito|acl\tas Chicharito|prep\tJavier Hernández , better known as Chicharito in every team Javier Hernández , better known as Chicharito plays|conj\tas Chicharito|prep\tJavier Hernández , better known as Chicharito|nsubj\tbetter known as Chicharito|acl\tas Chicharito|prep\tJavier Hernández , better known as Chicharito|nsubj\tbetter known as Chicharito|acl\tas Chicharito|prep"
+                },
+                {
+                    "question": "What is the relationship between Javier Hernández and Chicharito?",
+                    "score": 0.6969,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 30/05/2018 that In first interview as a candidate , Javier Hernández , better known as Chicharito told us that Javier Hernández , better known as Chicharito feels very happy with the opportunity , that with Javier Hernández , better known as Chicharito if Javier Hernández , better known as Chicharito is going to achieve a change , as well as when they change Javier Hernández , better known as Chicharito in every team Javier Hernández , better known as Chicharito plays or as when Javier Hernández , better known as Chicharito enters from change|ROOT\ton 30/05/2018|prep\tthat|mark\tIn first interview as a candidate|prep\tfirst interview as a candidate|pobj\tas a candidate|prep\ta|det\ta candidate|pobj\t,|punct\tJavier|compound\t,|punct\tbetter|advmod\tthat In first interview as a candidate , Javier Hernández , better known as Chicharito told us that Javier Hernández , better known as Chicharito feels very happy with the opportunity , that with Javier Hernández , better known as Chicharito if Javier Hernández , better known as Chicharito is going to achieve a change , as well as when they change Javier Hernández , better known as Chicharito in every team Javier Hernández , better known as Chicharito plays or as when Javier Hernández , better known as Chicharito enters from change|ccomp\tus|dobj\tthat|mark\tJavier|compound\t,|punct\tbetter|advmod\tthat Javier Hernández , better known as Chicharito feels very happy with the opportunity|advcl\tvery|advmod\tvery happy with the opportunity|acomp\twith the opportunity|prep\tthe|det\tthe opportunity|pobj\t,|punct\tthat|mark\tthat Javier Hernández , better known as Chicharito feels very happy with the opportunity , that with Javier Hernández , better known as Chicharito if Javier Hernández , better known as Chicharito is going to achieve a change , as well as when they change Javier Hernández , better known as Chicharito in every team Javier Hernández , better known as Chicharito plays or as when Javier Hernández , better known as Chicharito enters from change|dep\tJavier|compound\t,|punct\tbetter|advmod\tif|mark\tJavier|compound\t,|punct\tbetter|advmod\tis|aux\tif Javier Hernández , better known as Chicharito is going to achieve a change , as well as when they change Javier Hernández , better known as Chicharito in every team Javier Hernández , better known as Chicharito plays|advcl\tto|aux\tto achieve a change|xcomp\ta|det\ta change|dobj\t,|punct\tas|advmod\twell|advmod\tas well as when they change|cc\twhen|advmod\tthey|nsubj\twhen they change|ccomp\tJavier|compound\t,|punct\tbetter|advmod\tbetter known as Chicharito in every team|acl\tin every team|prep\tevery|det\tevery team|pobj\tJavier|compound\t,|punct\tbetter|advmod\tJavier Hernández , better known as Chicharito plays|relcl\tor|cc\tor as when Javier Hernández , better known as Chicharito enters from change|prep\twhen|advmod\tJavier|compound\t,|punct\tbetter|advmod\twhen Javier Hernández , better known as Chicharito enters from change|advcl\tfrom change|prep\tchange|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'I feel very much in me the colors of the PRI.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'I feel very much in me the colors of the PRI'?",
+                    "answer": "30/05/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the color of the PRI?",
+                    "score": 0.6185,
+                    "answers": "www.eldizque.com reported on 30/05/2018 that ' I feel very much in me the colors of the PRI|ROOT\ton 30/05/2018|prep\tthat|mark\t'|punct\tI|nsubj\tthat ' I feel very much in me the colors of the PRI|ccomp\tvery|advmod\tvery much|advmod\tin me|prep\tme|pobj\tthe|det\tthe colors of the PRI|dobj\tof the PRI|prep\tthe|det\tthe PRI|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, as they are the same as those of the National Selection, that is why I accepted this challenge, because besides being talented and famous, I know hunger and misery, because I played in the Chivas'.",
+            "question_answers": [
+                {
+                    "question": "What did I know about hunger and misery?",
+                    "answer": "hunger and misery,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be famous for playing in the Chivas?",
+                    "score": 0.7593,
+                    "answers": "that|mark\tfact|pobj\tas|mark\tthat|nsubj\t'|case"
+                },
+                {
+                    "question": "What is the National Selection Challenge?",
+                    "score": 0.6968,
+                    "answers": "this challenge|dobj"
+                },
+                {
+                    "question": "What are the similarities between the Chivas and the National Selection?",
+                    "score": 0.6895,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 30/05/2018 that In fact , as they are the same as those of the National Selection , that is why I accepted this challenge , because besides being talented and famous , I know hunger and misery , because I played in the Chivas '|ROOT\ton 30/05/2018|prep\t,|punct\tthey|nsubj\tas they are the same as those of the National Selection|advcl\tthe|det\tthe|det\t,|punct\twhy|advmod\tI|nsubj\tthis|det\t,|punct\tbecause|mark\tand|cc\t,|punct\tI|nsubj\tand|cc\t,|punct\tbecause|mark\tI|nsubj\tbecause I played in the Chivas '|advcl\tin the Chivas '|prep\tthe|det"
+                },
+                {
+                    "question": "What is the relationship between being famous and being a part of the Chivas?",
+                    "score": 0.6658,
+                    "answers": "hunger and misery|dobj"
+                },
+                {
+                    "question": "What is the difference between being talented and famous?",
+                    "score": 0.6536,
+                    "answers": "being talented and famous|pcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Chicharito will begin his campaign as a candidate with the slogan #ChecharoSiLaMete.",
+            "question_answers": [
+                {
+                    "question": "What is Chicharito's campaign slogan?",
+                    "answer": "#ChecharoSiLaMete"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Chicharito begin his campaign as a candidate?",
+                    "score": 0.8832,
+                    "answers": "www.eldizque.com reported on 30/05/2018 that Chicharito will begin his campaign as a candidate with the slogan # ChecharoSiLaMete|ROOT\ton 30/05/2018|prep\tthat Chicharito will begin his campaign as a candidate with the slogan # ChecharoSiLaMete|ccomp\this campaign as a candidate|dobj"
+                },
+                {
+                    "question": "What is Chicharito's campaign slogan?",
+                    "score": 0.79,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is the source of evidence of Chicharito's campaign slogan?",
+                    "score": 0.7685,
+                    "answers": "www.eldizque.com|nsubj\tthat|mark\this|poss\tas a candidate|prep\ta|det\ta candidate|pobj\tthe|det\t#|appos"
+                },
+                {
+                    "question": "Who is ChecharoSiLa mete?",
+                    "score": 0.7045,
+                    "answers": "with the slogan # ChecharoSiLaMete|prep\tthe slogan # ChecharoSiLaMete|pobj"
+                },
+                {
+                    "question": "Who is ChecharoSi La mete?",
+                    "score": 0.6713,
+                    "answers": "ChecharoSiLaMete|appos"
+                }
+            ]
+        }
+    ]
+}

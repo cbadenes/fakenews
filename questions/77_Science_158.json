@@ -1,0 +1,123 @@
+{
+    "id": "77_Science_158",
+    "claim": "If the Government of the Nation accepts the recent proposal submitted by the Government of the Canary Islands, the term 'one less in the Canary Islands 'is coming to an end. It seems, that the Canarian rulers base this proposal, on the need to have the same time zone as the Peninsula and not as is currently the case, which have the same schedule as London. The controversy is served, both neighbors and responsible for the tourism and political authorities diverge in terms of opinions, on the one hand they say that to raise the children still being at night, to go to school, would be a delay, however, in the tourism they affirm that it would save energy spending, having now tourists that they dine at the  in the afternoon. The opinion of the geographers, is even more absurd, in defending the same ones that very contrary to the proposal presented, the Canary archipelago should delay another hour more its clocks, based this theory on the geographical position of the islands, passing through these the meridian of Greenwich. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "27/12/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "If the Government of the Nation accepts the recent proposal submitted by the Government of the Canary Islands, the term 'one less in the Canary Islands 'is coming to an end.",
+            "question_answers": [
+                {
+                    "question": "What term is coming to an end if the Government of the Nation accepts the proposal submitted by the Government of the Canary Islands?",
+                    "answer": "'one less in the Canary Islands"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What would happen if the Government of the Nation accepts the recent proposal submitted by the government of the Canary Islands?",
+                    "score": 0.6406,
+                    "answers": "If the Government of the Nation accepts the recent proposal submitted by the Government of the Canary Islands|advcl"
+                },
+                {
+                    "question": "What is the term \"one less in the Canary Islands\"?",
+                    "score": 0.5965,
+                    "answers": "the term ' one less in the Canary Islands '|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "It seems, that the Canarian rulers base this proposal, on the need to have the same time zone as the Peninsula and not as is currently the case, which have the same schedule as London.",
+            "question_answers": [
+                {
+                    "question": "What did haynoticia.es say the Canarian rulers base their proposal on?",
+                    "answer": "the need to have the same time zone as the Peninsula"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Canarian rulers base their proposal on?",
+                    "score": 0.7529,
+                    "answers": "haynoticia.es said on 27/12/2017 that It seems , that the Canarian rulers base this proposal , on the need to have the same time zone as the Peninsula and not as is currently the case , which have the same schedule as London|ROOT\tthat the Canarian rulers base this proposal , on the need to have the same time zone as the Peninsula and not as is currently the case , which have the same schedule as London|ccomp\tthis proposal|dobj"
+                },
+                {
+                    "question": "What is the time zone of Canarian rulers?",
+                    "score": 0.6069,
+                    "answers": "on 27/12/2017|prep\tthat|mark\tIt|nsubj\t,|punct\tthat|mark\tthe|det\tthe Canarian rulers|nsubj\tthis|det\t,|punct\ton the need to have the same time zone as the Peninsula and|prep\tthe|det\tthe need to have the same time zone as the Peninsula and|pobj\tto|aux\tto have the same time zone as the Peninsula and|acl\tthe|det\tsame|amod\ttime|compound\tthe same time zone as the Peninsula|dobj\tas the Peninsula|prep\tthe|det\tthe Peninsula|pobj\tand|cc\tnot as is currently the case ,|advmod\tas|mark\tas is currently the case ,|advcl\tcurrently|advmod\tthe|det\tthe case|attr\t,|punct\twhich|nsubj\tthe|det\tsame|amod\tas London|prep"
+                },
+                {
+                    "question": "What is the schedule of Canarian rulers?",
+                    "score": 0.5925,
+                    "answers": "which have the same schedule as London|conj\tthe same schedule as London|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The controversy is served, both neighbors and responsible for the tourism and political authorities diverge in terms of opinions, on the one hand they say that to raise the children still being at night, to go to school, would be a delay, however, in the tourism they affirm that it would save energy spending, having now tourists that they dine at the  in the afternoon.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What does tourism do to save energy spending?",
+                    "score": 0.4781,
+                    "answers": "in the tourism|prep"
+                },
+                {
+                    "question": "What does tourism say would save energy spending?",
+                    "score": 0.4682,
+                    "answers": "to|aux\tto|aux\tschool|pobj"
+                },
+                {
+                    "question": "How much money would be spent on tourism?",
+                    "score": 0.4488,
+                    "answers": "having now tourists that they dine at the|advcl\ttourists that they dine at the|dobj"
+                },
+                {
+                    "question": "How much would it save on energy spending?",
+                    "score": 0.4418,
+                    "answers": "that it would save energy spending|ccomp"
+                },
+                {
+                    "question": "How much energy would the tourism save?",
+                    "score": 0.4395,
+                    "answers": "energy|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The opinion of the geographers, is even more absurd, in defending the same ones that very contrary to the proposal presented, the Canary archipelago should delay another hour more its clocks, based this theory on the geographical position of the islands, passing through these the meridian of Greenwich.",
+            "question_answers": [
+                {
+                    "question": "Who said that the opinion of the geographers is even more absurd?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the Canary archipelago want to delay another hour?",
+                    "score": 0.7978,
+                    "answers": "that very contrary to the proposal presented , the Canary archipelago should delay another hour more its clocks , based this theory on the geographical position of the islands , passing through these the meridian of Greenwich|ccomp"
+                },
+                {
+                    "question": "Why did the geographers believe the Canary archipelago should delay another hour more than its proposal presented?",
+                    "score": 0.7577,
+                    "answers": "its clocks|dobj"
+                },
+                {
+                    "question": "What was the proposal presented by the geographers?",
+                    "score": 0.6424,
+                    "answers": "even more|advmod"
+                },
+                {
+                    "question": "What is the location of the meridian of Greenwich?",
+                    "score": 0.6397,
+                    "answers": "passing through these the meridian of Greenwich|acl\tthrough these the meridian of Greenwich|prep\tthe meridian of Greenwich|pobj"
+                },
+                {
+                    "question": "What did the geographers say about the proposal presented?",
+                    "score": 0.63,
+                    "answers": "that|mark\tThe|det\tof the geographers|prep\tthe|det\tthe geographers|pobj\teven|advmod\tin defending the same ones|prep\tdefending the same ones|pcomp\tthe|det\tsame|amod\tthe same ones|dobj\tthat|mark\tvery|advmod\tthe|det\tpresented|acl\tthe|det\tanother|det\tthis|det\tthe|det\tthe|det\tthese|pobj\tthe|det"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "id": "100_Entertainment_643",
+    "claim": "The announcement that Margarita Zavala decided to give up her candidacy for the presidency was surprising throughout Mexico, which did not seem to have a chance to emerge, remaining stagnant in a distant fourth place, despite the fact that last year the polls positioned her as the strongest contender for Andres Manuel Lopez Obrador. However, by failing to win the PAN candidacy, he chose the independent route, without success, since he never exceeded a digit in electoral preferences. Now that she has retired from the contest, Margarita has chosen to return to the world of music and re-record a record. As you will remember, the cousin and sister-in-law of El Bronco jumped to fame in the decade of , when she was part of the successful group La Sonora Dynamita, with which she made herself known for topics such as How beautiful, I missed the chain, Let no one know my suffering, My Cuckoo, Capullo and Soruyo and The Old Hat. He has also done duets with groups like Bacilos, Banda el Recodo, Heavy, among others. She was part of the Singing for a Dream program, as well as participating as an actress in the telenovela Fuego in the Blood and the six-year-old Felipe Calderon, where she played the first lady. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "16/05/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The announcement that Margarita Zavala decided to give up her candidacy for the presidency was surprising throughout Mexico, which did not seem to have a chance to emerge, remaining stagnant in a distant fourth place, despite the fact that last year the polls positioned her as the strongest contender for Andres Manuel Lopez Obrador.",
+            "question_answers": [
+                {
+                    "question": "Who did the polls place Margarita Zavala as the strongest contender for?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Margarita Zavala give up her candidacy for president?",
+                    "score": 0.8406,
+                    "answers": "The|det\tMargarita|compound\tthat Margarita Zavala decided to give up her candidacy for the presidency|acl"
+                },
+                {
+                    "question": "What did polls say about Margarita Zavala's candidacy?",
+                    "score": 0.8126,
+                    "answers": "despite the fact that last year the polls positioned her as the strongest contender for Andres Manuel Lopez Obrador|prep"
+                },
+                {
+                    "question": "What was Margarita Zavala's position on Andres Manuel Lopez Obrador?",
+                    "score": 0.6936,
+                    "answers": "Mexico , which did not seem to have a chance to emerge , remaining stagnant in a distant fourth place , despite the fact that last year the polls positioned her as the strongest contender for Andres Manuel Lopez Obrador|pobj\twhich did not seem to have a chance to emerge , remaining stagnant in a distant fourth place , despite the fact that last year the polls positioned her as the strongest contender for Andres Manuel Lopez Obrador|relcl\tremaining stagnant in a distant fourth place , despite the fact that last year the polls positioned her as the strongest contender for Andres Manuel Lopez Obrador|advcl"
+                },
+                {
+                    "question": "Who is Margarita Zavala running for?",
+                    "score": 0.6328,
+                    "answers": "the fact that last year the polls positioned her as the strongest contender for Andres Manuel Lopez Obrador|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, by failing to win the PAN candidacy, he chose the independent route, without success, since he never exceeded a digit in electoral preferences.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that he did not win the PAN candidacy?",
+                    "answer": "16/05/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many votes did he win in the 2018 election?",
+                    "score": 0.7778,
+                    "answers": "never|neg\ta|det"
+                },
+                {
+                    "question": "What is the source of evidence of the number of votes needed to win the PAN candidacy?",
+                    "score": 0.7437,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What was the outcome of the 2018 election?",
+                    "score": 0.732,
+                    "answers": "on 16/05/2018|prep\twithout success|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Now that she has retired from the contest, Margarita has chosen to return to the world of music and re-record a record.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Margarita had retired from the contest?",
+                    "answer": "16/05/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Margarita retire from the contest?",
+                    "score": 0.8212,
+                    "answers": "www.eldizque.com reported on 16/05/2018 that Now that she has retired from the contest , Margarita has chosen to return to the world of music and re - record a record|ROOT\ton 16/05/2018|prep\tthat|mark\tNow that she has retired from the contest|advmod\tthat|mark\tshe|nsubj\tthat she has retired from the contest|ccomp\tfrom the contest|prep\tthe contest|pobj\t,|punct\tthat Now that she has retired from the contest , Margarita has chosen to return to the world of music and re - record a record|ccomp\tto the world of music|prep\tthe world of music|pobj\tof music|prep\tand|cc\tre|conj\t-|conj"
+                },
+                {
+                    "question": "When did Margarita return to the world of music?",
+                    "score": 0.8058,
+                    "answers": "to return to the world of music and re -|xcomp\tmusic|pobj"
+                },
+                {
+                    "question": "What records has Margarita re-record?",
+                    "score": 0.7706,
+                    "answers": "www.eldizque.com|nsubj\trecord a record|xcomp\ta|det\ta record|dobj"
+                },
+                {
+                    "question": "What is Margarita's record?",
+                    "score": 0.6362,
+                    "answers": "has|aux\tthe|det\thas|aux\tto|aux\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "As you will remember, the cousin and sister-in-law of El Bronco jumped to fame in the decade of , when she was part of the successful group La Sonora Dynamita, with which she made herself known for topics such as How beautiful, I missed the chain, Let no one know my suffering, My Cuckoo, Capullo and Soruyo and The Old Hat.",
+            "question_answers": [
+                {
+                    "question": "When did El Bronco jump to fame?",
+                    "answer": "decade of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did El Bronco say about La Sonora Dynamita?",
+                    "score": 0.7048,
+                    "answers": "How|advmod\tHow beautiful|amod\tno|det\tno one|nsubj"
+                },
+                {
+                    "question": "What did La Sonora Dynamita do?",
+                    "score": 0.6686,
+                    "answers": "the decade of , when she was part of the successful group La Sonora Dynamita , with which she made herself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|pobj"
+                },
+                {
+                    "question": "What was El Bronco's role in La Sonora Dynamita?",
+                    "score": 0.6426,
+                    "answers": "on 16/05/2018|prep\tthat|mark\tAs|mark\tyou|nsubj\twill|aux\tAs you will remember|advcl\t,|punct\tthe|det\tand|cc\t-|punct\tin - law|prep\t-|punct\tlaw|pobj\tthat As you will remember , the cousin and sister - in - law of El Bronco jumped to fame in the decade of , when she was part of the successful group La Sonora Dynamita , with which she made herself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|ccomp\tin the decade of , when she was part of the successful group La Sonora Dynamita , with which she made herself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|prep\tthe|det\tof|prep\t,|punct\twhen|advmod\tshe|nsubj\twhen she was part of the successful group La Sonora Dynamita , with which she made herself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|relcl\tthe|det\tsuccessful|amod\tLa|compound\tSonora|compound\t,|punct\twith which|prep\twhich|pobj\tshe|nsubj\twith which she made herself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|relcl\therself|nsubj\therself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|ccomp\tfor topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|prep\tsuch|amod\t,|punct\tI|nsubj\tHow beautiful , I missed the chain ,|ccomp\tthe|det\tthe chain|dobj\t,|punct\tmy|poss\t,|punct\tMy|poss\t,|punct\tand|cc\tand|cc\tThe|det\tOld|compound"
+                },
+                {
+                    "question": "What was the name of El Bronco's sister-in-law who was part of La Sonora Dynamita?",
+                    "score": 0.6215,
+                    "answers": "Soruyo|conj"
+                },
+                {
+                    "question": "What is La Sonora Dynamita?",
+                    "score": 0.5698,
+                    "answers": "part of the successful group La Sonora Dynamita , with which she made herself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|attr\tof the successful group La Sonora Dynamita , with which she made herself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|prep\tthe successful group La Sonora Dynamita , with which she made herself known for topics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|pobj\ttopics such as How beautiful , I missed the chain , Let no one know my suffering , My Cuckoo , Capullo and Soruyo and The Old Hat|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "He has also done duets with groups like Bacilos, Banda el Recodo, Heavy, among others.",
+            "question_answers": [
+                {
+                    "question": "What has he done with groups like Bacilos, Banda el Recodo, Heavy?",
+                    "answer": "duets"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What groups has Banda el Recodo had a duet with?",
+                    "score": 0.8795,
+                    "answers": "that|mark\tHe|nsubj\thas|aux\talso|advmod\t,|punct\tel|compound\t,|punct\t,|punct\tothers|pobj"
+                },
+                {
+                    "question": "Who is Banda el Recodo?",
+                    "score": 0.6997,
+                    "answers": "Banda el Recodo , Heavy , among others|conj"
+                },
+                {
+                    "question": "What is the relationship between Bacilos and Banda el Recodo?",
+                    "score": 0.6977,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 16/05/2018 that He has also done duets with groups like Bacilos , Banda el Recodo , Heavy , among others|ROOT\ton 16/05/2018|prep\tthat He has also done duets with groups like Bacilos , Banda el Recodo , Heavy , among others|ccomp\tduets with groups like Bacilos , Banda el Recodo , Heavy , among others|dobj\twith groups like Bacilos , Banda el Recodo , Heavy , among others|prep\tgroups like Bacilos , Banda el Recodo , Heavy , among others|pobj\tlike Bacilos , Banda el Recodo , Heavy , among others|prep\tBacilos , Banda el Recodo , Heavy , among others|pobj\tBanda|compound\tHeavy , among others|conj\tamong others|prep"
+                }
+            ]
+        },
+        {
+            "claim": "She was part of the Singing for a Dream program, as well as participating as an actress in the telenovela Fuego in the Blood and the six-year-old Felipe Calderon, where she played the first lady.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that she was part of the Singing for a Dream program?",
+                    "answer": "16/05/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Felipe Calderon participate in the Singing for a Dream Program?",
+                    "score": 0.8376,
+                    "answers": "www.eldizque.com reported on 16/05/2018 that She was part of the Singing for a Dream program , as well as participating as an actress in the telenovela Fuego in the Blood and the six - year - old Felipe Calderon , where she played the first lady|ROOT\tthat She was part of the Singing for a Dream program , as well as participating as an actress in the telenovela Fuego in the Blood and the six - year - old Felipe Calderon , where she played the first lady|ccomp\tpart of the Singing for a Dream program , as well as participating as an actress in the telenovela Fuego in the Blood and the six - year - old Felipe Calderon , where she played the first lady|attr\tas well as|cc"
+                },
+                {
+                    "question": "What program did Felipe Calderon participate in?",
+                    "score": 0.8162,
+                    "answers": "for a Dream|prep\ta Dream|pobj"
+                },
+                {
+                    "question": "What role did Felipe Calderon play in the telenovela Fuego in the Blood?",
+                    "score": 0.8065,
+                    "answers": "participating as an actress in the telenovela Fuego in the Blood and the six - year - old Felipe Calderon , where she played the first lady|conj\tas an actress in the telenovela Fuego in the Blood and the six - year - old Felipe Calderon , where she played the first lady|prep\tan actress in the telenovela Fuego in the Blood and the six - year - old Felipe Calderon , where she played the first lady|pobj\tin the telenovela Fuego in the Blood and the six - year - old Felipe Calderon , where she played the first lady|prep\tthe telenovela Fuego in the Blood and the six - year - old Felipe Calderon , where she played the first lady|pobj\tin the Blood|prep\twhere she played the first lady|relcl\tthe first lady|dobj"
+                },
+                {
+                    "question": "Who is Felipe Calderon?",
+                    "score": 0.6428,
+                    "answers": "six - year - old|amod"
+                },
+                {
+                    "question": "What is the name of the program that Felipe Calderon participated in?",
+                    "score": 0.6351,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "id": "48_Health_202",
+    "claim": "Many technologies developed throughout history have been used for years before knowing all their scopes and consequences. One example is DDT, an insecticide widely used in the first half of the 20th century and banned in  due to potential human health hazards. Now that seems to be the fate of cell phones, which use relatively new technology, and whose use has become more widespread only in the last few years . Nowadays, it is common to see anyone on the street using a Smartphone to stay in permanent contact with their friends and family. This dynamic of life could change for many people, because according to a study prepared by Professor Estanislao Badiraguato, academic of the University of Navojoa, a wide sector of users could develop a condition derived from the constant use of cellular. 'Our research revealed alarming data ', said Professor Badiraguato. 'There are a huge number of people who, if they continue to use their cell phones, will be able to contract a huge phobia to these'.  Which people will be affected, professor?  Specifically those who are cancer. Those of other zodiacal signs should not be concerned. Professor Badiraguato, who specializes in astrology, is now studying the possibility of Gemini and Sagittarius developing an aversion to Whatsapp in the future. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "08/01/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Many technologies developed throughout history have been used for years before knowing all their scopes and consequences.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How long has it been since technology has been used?",
+                    "score": 0.8722,
+                    "answers": "that Many technologies developed throughout history have been used for years before knowing all their scopes and consequences|ccomp"
+                },
+                {
+                    "question": "What technology has been used for years to know all their consequences?",
+                    "score": 0.845,
+                    "answers": "www.eldizque.com reported on 08/01/2018 that Many technologies developed throughout history have been used for years before knowing all their scopes and consequences|ROOT"
+                },
+                {
+                    "question": "How many scopes have been developed in history?",
+                    "score": 0.8308,
+                    "answers": "on 08/01/2018|prep\tbefore knowing all their scopes and consequences|prep"
+                },
+                {
+                    "question": "What is the history of technology developed throughout history?",
+                    "score": 0.8145,
+                    "answers": "history|pobj"
+                },
+                {
+                    "question": "How many scopes and consequences have been developed throughout history?",
+                    "score": 0.7966,
+                    "answers": "developed throughout history|acl\tthroughout history|prep"
+                }
+            ]
+        },
+        {
+            "claim": "One example is DDT, an insecticide widely used in the first half of the 20th century and banned in  due to potential human health hazards.",
+            "question_answers": [
+                {
+                    "question": "When was DDT widely used?",
+                    "answer": "first half of the 20th century"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is DDT banned in the 20th century?",
+                    "score": 0.9047,
+                    "answers": "  due to potential human health hazards|dep\tdue to potential human health hazards|prep"
+                },
+                {
+                    "question": "What are the potential human health hazards of DDT?",
+                    "score": 0.8363,
+                    "answers": "potential|amod"
+                },
+                {
+                    "question": "What is DDT?",
+                    "score": 0.8166,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 08/01/2018 that One example is DDT , an insecticide widely used in the first half of the 20th century and banned in   due to potential human health hazards|ROOT\ton 08/01/2018|prep\tthat|mark\tOne example|nsubj\tthat One example is DDT , an insecticide widely used in the first half of the 20th century and banned in|ccomp\tDDT , an insecticide widely used in the first half of the 20th century and banned in|attr\t,|punct\tan|det\tan insecticide widely used in the first half of the 20th century and banned in|appos\twidely|advmod\twidely used in the first half of the 20th century and banned in|acl\tin the first half of the 20th century|prep\tthe|det\tfirst|amod\tof the 20th century|prep\tthe|det\t20th|amod\tthe 20th century|pobj\tand|cc\tbanned in|conj\tin|prep\tto|pcomp\thuman|amod\thuman health|compound\tpotential human health hazards|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Now that seems to be the fate of cell phones, which use relatively new technology, and whose use has become more widespread only in the last few years .",
+            "question_answers": [
+                {
+                    "question": "On what date did www.eldizque.com report that cell phones would be destroyed?",
+                    "answer": "08/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many cell phones use new technology?",
+                    "score": 0.8228,
+                    "answers": "www.eldizque.com reported on 08/01/2018 that Now that seems to be the fate of cell phones , which use relatively new technology , and whose use has become more widespread only in the last few years|ROOT\ton 08/01/2018|prep\tthat|mark\tthat|nsubj\tthat Now that seems to be the fate of cell phones , which use relatively new technology , and whose use has become more widespread only in the last few years|ccomp\tthe|det\tthe fate of cell phones , which use relatively new technology , and whose use has become more widespread only in the last few years|attr\tof cell phones , which use relatively new technology , and whose use has become more widespread only in the last few years|prep\tcell phones , which use relatively new technology , and whose use has become more widespread only in the last few years|pobj\t,|punct\twhich|nsubj\twhich use relatively new technology , and whose use has become more widespread only in the last few years|relcl\t,|punct\tand|cc\twhose|poss\thas|aux\tmore|advmod\tmore widespread|acomp\tonly in the last few years|prep\tthe|det\tlast|amod\tfew|amod"
+                },
+                {
+                    "question": "What is the use of cell phones?",
+                    "score": 0.7924,
+                    "answers": "www.eldizque.com|nsubj\tcell|compound\twhose use|nsubj\twhose use has become more widespread only in the last few years|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Nowadays, it is common to see anyone on the street using a Smartphone to stay in permanent contact with their friends and family.",
+            "question_answers": [
+                {
+                    "question": "What is it common to see people on the street using a Smartphone to stay in contact with their friends and family?",
+                    "answer": "to see anyone on the street using a Smartphone to stay in permanent contact with their friends and family"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people use a Smartphone to stay in contact with friends and family?",
+                    "score": 0.6334,
+                    "answers": "that Nowadays , it is common to see anyone on the street using a Smartphone to stay in permanent contact with their friends and family|ccomp\tanyone on the street|nsubj\ton the street|prep"
+                }
+            ]
+        },
+        {
+            "claim": "This dynamic of life could change for many people, because according to a study prepared by Professor Estanislao Badiraguato, academic of the University of Navojoa, a wide sector of users could develop a condition derived from the constant use of cellular.",
+            "question_answers": [
+                {
+                    "question": "What did a study by Professor Estanislao Badiraguato suggest?",
+                    "answer": "a wide sector of users could develop a condition derived from the constant use of cellular"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did professor Estanislao Badiraguato say about cellular usage?",
+                    "score": 0.7761,
+                    "answers": "a study prepared by Professor Estanislao Badiraguato , academic of the University of Navojoa|pobj"
+                },
+                {
+                    "question": "How many people could develop a condition derived from using cellular?",
+                    "score": 0.7256,
+                    "answers": "This dynamic of life|nsubj\twide|amod"
+                },
+                {
+                    "question": "What was the study done by professor Estanislao Badiraguato?",
+                    "score": 0.6857,
+                    "answers": "to a study prepared by Professor Estanislao Badiraguato , academic of the University of Navojoa|prep\tprepared by Professor Estanislao Badiraguato , academic of the University of Navojoa|acl\tof the University of Navojoa|prep"
+                },
+                {
+                    "question": "What is Estanislao Badiraguato's position on cellular usage?",
+                    "score": 0.6774,
+                    "answers": "Estanislao|compound"
+                },
+                {
+                    "question": "What is the use of cellular?",
+                    "score": 0.654,
+                    "answers": "constant|amod\tthe constant use of cellular|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Our research revealed alarming data ', said Professor Badiraguato.",
+            "question_answers": [
+                {
+                    "question": "What did our research reveal?",
+                    "answer": "alarming data"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Badiraguato say about the data?",
+                    "score": 0.7868,
+                    "answers": "www.eldizque.com reported on 08/01/2018|ccomp\tthat|mark\talarming data|dobj\t,|punct"
+                },
+                {
+                    "question": "What is the name of Badiraguato's research?",
+                    "score": 0.7167,
+                    "answers": "Professor Badiraguato|nsubj"
+                },
+                {
+                    "question": "What is the scientific background of Professor Badiraguato?",
+                    "score": 0.6784,
+                    "answers": "www.eldizque.com reported on 08/01/2018 that ' Our research revealed alarming data ' , said Professor Badiraguato|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "'There are a huge number of people who, if they continue to use their cell phones, will be able to contract a huge phobia to these'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'There are a huge number of people who, if they continue to use their cell phones, will be able to contract a huge phobia to these'?",
+                    "answer": "08/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people have contracted a phobia to use cell phones?",
+                    "score": 0.851,
+                    "answers": "able to contract a huge phobia to these|acomp\tto contract a huge phobia to these|xcomp"
+                },
+                {
+                    "question": "How many people will contract a phobia if they continue to use their cell phones?",
+                    "score": 0.8053,
+                    "answers": "a huge number of people who , if they continue to use their cell phones , will be able to contract a huge phobia to these|attr"
+                },
+                {
+                    "question": "How many people who continue to use cell phones will be able to contract a phobia to their cell phones?",
+                    "score": 0.797,
+                    "answers": "their cell phones|dobj"
+                }
+            ]
+        },
+        {
+            "claim": " Which people will be affected, professor?  Specifically those who are cancer.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that which people will be affected?",
+                    "answer": "08/01/2018"
+                },
+                {
+                    "question": "What type of cancer are the most likely to be affected?",
+                    "answer": "cancer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people will be affected by cancer?",
+                    "score": 0.878,
+                    "answers": "that   Which people will be affected , professor ?   Specifically those who are cancer|dep\tcancer|attr"
+                },
+                {
+                    "question": "What are the names of those who are cancer patients?",
+                    "score": 0.8075,
+                    "answers": "www.eldizque.com reported on 08/01/2018|ROOT"
+                },
+                {
+                    "question": "What is the definition of cancer?",
+                    "score": 0.7916,
+                    "answers": "  Specifically those who are cancer|dep\tSpecifically those who are cancer|appos\twho are cancer|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Those of other zodiacal signs should not be concerned.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Those of other zodiacal signs should not be concerned?",
+                    "answer": "08/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are theodiac signs?",
+                    "score": 0.9184,
+                    "answers": "zodiacal|amod"
+                },
+                {
+                    "question": "What are the other zodiac signs?",
+                    "score": 0.8973,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 08/01/2018 that Those of other zodiacal signs should not be concerned|ROOT\tthat|mark\tThose of other zodiacal signs|nsubjpass\tof other zodiacal signs|prep\tother|amod\tother zodiacal signs|pobj\tbe|auxpass"
+                },
+                {
+                    "question": "What is the relationship between Zodiac sign and other zodiac signs?",
+                    "score": 0.8848,
+                    "answers": "should|aux\tnot|neg\tthat Those of other zodiacal signs should not be concerned|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Professor Badiraguato, who specializes in astrology, is now studying the possibility of Gemini and Sagittarius developing an aversion to Whatsapp in the future.",
+            "question_answers": [
+                {
+                    "question": "Gemini and Sagittarius could develop an aversion to what in the future?",
+                    "answer": "Whatsapp"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why is Badiraguato interested in Whatsapp?",
+                    "score": 0.8346,
+                    "answers": "an aversion to Whatsapp|dobj"
+                },
+                {
+                    "question": "What does Badiraguato specialize in?",
+                    "score": 0.7699,
+                    "answers": "astrology|pobj"
+                },
+                {
+                    "question": "What does Badiraguato believe about Whatsapp in the future?",
+                    "score": 0.7607,
+                    "answers": "www.eldizque.com reported on 08/01/2018 that Professor Badiraguato , who specializes in astrology , is now studying the possibility of Gemini and Sagittarius developing an aversion to Whatsapp in the future|ROOT"
+                },
+                {
+                    "question": "What is Dr. Badiraguato's interest in astrology?",
+                    "score": 0.7328,
+                    "answers": "who specializes in astrology|relcl\tin astrology|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Badiraguato's study of Gemini and Sagittarius?",
+                    "score": 0.7241,
+                    "answers": "www.eldizque.com|nsubj\ton 08/01/2018|prep"
+                }
+            ]
+        }
+    ]
+}

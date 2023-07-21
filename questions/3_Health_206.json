@@ -1,0 +1,434 @@
+{
+    "id": "3_Health_206",
+    "claim": "WATER, NIGHT CALLS, PREVENTION OF INFARTS, RECOMMENDATIONS ARE NOT PRECIOUSLY OF 'ABUELITAS 'ARE OF HEALTH PROFESSIONALS. WATER AND YOU!Water and night..How many people know that they don't want to drink anything before bed, because then they will have the trouble of getting up during the night to go to the bathroom. When I asked the cardiologist why people need to urinate so much at night, the answer was:Gravity keeps water in the lower part of the body when one is standing. (legs swell). When you lie down, the lower part of the body (legs, etc.). ) remain at the same level as the kidneys, at that time it is when the kidneys ask to remove the processed (dirty) water, because it is easier. That's why we all need a minimum amount of water to clean up toxins in the body. Right time to drink water. Very important, according to the Cardiology. Drinking water at certain times maximizes its effectiveness in the body:Two glasses of water when rising, help activate internal organs. A glass of water  minutes before each meal, helps digestion. A glass of water before bathing helps reduce blood pressure. A glass of water before bedtime, avoid heart attacks and strokes. Doctors have reported that water before bed will also help prevent night leg cramps. Leg muscles are looking to moisturize when you get those calf cramps and/or thighs. Please pass this information on to people who are important to you. I'm sorry.",
+    "source": "www.elcolombiano.com",
+    "date": "02/07/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "WATER, NIGHT CALLS, PREVENTION OF INFARTS, RECOMMENDATIONS ARE NOT PRECIOUSLY OF 'ABUELITAS 'ARE OF HEALTH PROFESSIONALS.",
+            "question_answers": [
+                {
+                    "question": "What is the term for a group of people that is not a HEALTH PROFESSIONAL?",
+                    "answer": "'ABUELITAS"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between swimming and hypnotism?",
+                    "score": 0.6439,
+                    "answers": "HEALTH|compound"
+                }
+            ]
+        },
+        {
+            "claim": "WATER AND YOU!Water and night..How many people know that people don't want to drink anything before bed, because then people will have the trouble of getting up during the night to go to the bathroom.",
+            "question_answers": [
+                {
+                    "question": "When did www.elcolombiano.com report that WATER AND YOU!",
+                    "answer": "02/07/2017"
+                },
+                {
+                    "question": "Why do people don't want to drink anything before bed?",
+                    "answer": "people will have the trouble of getting up during the night to go to the bathroom"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many gallons of water do people want to drink before bed?",
+                    "score": 0.7732,
+                    "answers": "How many|amod"
+                },
+                {
+                    "question": "How many people drink alcohol before bed?",
+                    "score": 0.7321,
+                    "answers": "to drink anything before bed|xcomp"
+                },
+                {
+                    "question": "How many people don't want to drink anything before bed?",
+                    "score": 0.7194,
+                    "answers": "www.elcolombiano.com reported on 02/07/2017 that WATER AND YOU!Water and night ..|ROOT\ton 02/07/2017|prep\tthat|mark\tAND|cc\tand|cc\tnight|conj\t..|punct\tHow many people know that people do n't want to drink anything before bed , because then people will have the trouble of getting up during the night to go to the bathroom|ROOT\tthat|mark\tpeople|nsubj\tdo|aux\tn't|neg\tthat people do n't want to drink anything before bed , because then people will have the trouble of getting up during the night to go to the bathroom|ccomp\tto|aux\tanything|dobj\tbefore bed|prep\tbed|pobj\t,|punct\tbecause|mark\tthen|advmod\tpeople|nsubj\twill|aux\tthe|det\tgetting up during the night to go to the bathroom|pcomp\tthe|det\tthe night|pobj\tto|aux\tto go to the bathroom|advcl\tthe|det\tthe bathroom|pobj"
+                },
+                {
+                    "question": "How many people have to get up during the night to go to the bathroom?",
+                    "score": 0.6241,
+                    "answers": "How many people|nsubj\tbecause then people will have the trouble of getting up during the night to go to the bathroom|advcl\tthe trouble of getting up during the night to go to the bathroom|dobj\tduring the night|prep"
+                }
+            ]
+        },
+        {
+            "claim": "When I asked the cardiologist why people need to urinate so much at night, the answer was:Gravity keeps water in the lower part of the body when one is standing.",
+            "question_answers": [
+                {
+                    "question": "Who did I ask why people need to urinate so much at night?",
+                    "answer": "cardiologist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did a cardiologist say about urinating so much at night?",
+                    "score": 0.8095,
+                    "answers": "why people need to urinate so much at night|ccomp"
+                },
+                {
+                    "question": "How much water does gravity keep in the body when you are standing?",
+                    "score": 0.7585,
+                    "answers": "Gravity keeps water in the lower part of the body when one is standing|ccomp"
+                },
+                {
+                    "question": "What does gravity keep water in the lower part of the body when one is standing?",
+                    "score": 0.7561,
+                    "answers": "when one is standing|advcl"
+                },
+                {
+                    "question": "What is the relationship between gravity and urination?",
+                    "score": 0.6604,
+                    "answers": "that When I asked the cardiologist why people need to urinate so much at night , the answer was : Gravity keeps water in the lower part of the body when one is standing|ccomp\tGravity|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "(legs swell).",
+            "question_answers": [
+                {
+                    "question": "When did elcolombiano.com report that (legs swell)?",
+                    "answer": "02/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the symptoms of legs swell?",
+                    "score": 0.8209,
+                    "answers": "that ( legs swell )|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the swell on legs?",
+                    "score": 0.7534,
+                    "answers": "legs|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "When you lie down, the lower part of the body (legs, etc.",
+            "question_answers": [
+                {
+                    "question": "What part of the body is affected when you lie down?",
+                    "answer": "the lower part of the body"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many body parts are there when you lie down?",
+                    "score": 0.8121,
+                    "answers": "of the body|prep\tetc|conj"
+                },
+                {
+                    "question": "What are the symptoms of lying down?",
+                    "score": 0.762,
+                    "answers": "When|advmod\tyou|nsubj\tdown|advmod\t,|punct\t(|punct\t,|punct"
+                },
+                {
+                    "question": "What is the body doing to lie down?",
+                    "score": 0.7512,
+                    "answers": "the body|pobj"
+                },
+                {
+                    "question": "What is the lower part of the body when lying down?",
+                    "score": 0.7356,
+                    "answers": "that When you lie down , the lower part of the body ( legs , etc|dobj"
+                },
+                {
+                    "question": "What are the parts of the body that lie down?",
+                    "score": 0.7347,
+                    "answers": "the|det\tthe|det\tlegs , etc|appos"
+                }
+            ]
+        },
+        {
+            "claim": ") remain at the same level as the kidneys , at that time it is when the kidneys ask to remove the processed (dirty) water, because remove is easier.",
+            "question_answers": [
+                {
+                    "question": "What did elcolombiano.com report on 02/07/2017?",
+                    "answer": "remain at the same level as the kidneys"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the process of removing water from kidneys?",
+                    "score": 0.8147,
+                    "answers": "at that time|prep"
+                },
+                {
+                    "question": "What are the functions of kidneys?",
+                    "score": 0.8036,
+                    "answers": "www.elcolombiano.com|nsubj"
+                },
+                {
+                    "question": "What is the difference between kidneys and kidneys?",
+                    "score": 0.7709,
+                    "answers": "that ) remain at the same level as the kidneys|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "That's why we all need a minimum amount of water to clean up toxins in the body.",
+            "question_answers": [
+                {
+                    "question": "When did www.elcolombiano.com report that we all need a minimum amount of water to clean up toxins in the body?",
+                    "answer": "02/07/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water do we need to clean up toxins in the body?",
+                    "score": 0.8732,
+                    "answers": "www.elcolombiano.com|nsubj\ton 02/07/2017|prep\tthat|mark\tThat|nsubj\tthat That 's why we all need a minimum amount of water to clean up toxins in the body|ccomp\twhy|advmod\twe all|nsubj\tall|appos\ta|det\tto|aux\tto clean up toxins in the body|advcl\tup|prt\ttoxins in the body|dobj\tin the body|prep\tthe|det\tthe body|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Right time to drink water.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the best time to drink water?",
+                    "score": 0.8668,
+                    "answers": "that Right time to drink water|npadvmod"
+                },
+                {
+                    "question": "What is the website \"elcolombiano.com\"?",
+                    "score": 0.81,
+                    "answers": "www.elcolombiano.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Very important, according to the Cardiology.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 02/07/2017 that Very important?",
+                    "answer": "www.elcolombiano.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How important is the Cardiology?",
+                    "score": 0.9116,
+                    "answers": "that|mark\tVery|advmod\tthat Very important , according to the Cardiology|ccomp"
+                },
+                {
+                    "question": "What is the cardiology profession?",
+                    "score": 0.8575,
+                    "answers": "on 02/07/2017|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the Cardiology database?",
+                    "score": 0.8295,
+                    "answers": ",|punct"
+                },
+                {
+                    "question": "What is Cardiology?",
+                    "score": 0.818,
+                    "answers": "according to the Cardiology|prep\tto the Cardiology|prep\tthe Cardiology|pobj"
+                },
+                {
+                    "question": "What is the relationship between the Cardiology and Cardiology?",
+                    "score": 0.8178,
+                    "answers": "www.elcolombiano.com reported on 02/07/2017 that Very important , according to the Cardiology|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Drinking water at certain times maximizes effectiveness in the body:Two glasses of water when rising, help activate internal organs.",
+            "question_answers": [
+                {
+                    "question": "What did elcolombiano.com report on 02/07/2017",
+                    "answer": "Drinking water at certain times maximizes effectiveness in the body:"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What organs are affected by drinking drinking water at certain times?",
+                    "score": 0.8458,
+                    "answers": "internal organs|dobj"
+                },
+                {
+                    "question": "How many glasses of water do you drink per day?",
+                    "score": 0.8145,
+                    "answers": "Two glasses of water|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "A glass of water  minutes before each meal, helps digestion.",
+            "question_answers": [
+                {
+                    "question": "What did the website say helped digestion on 02/07/2017?",
+                    "answer": "A glass of water"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water does it take to digest?",
+                    "score": 0.9075,
+                    "answers": "water|pobj"
+                },
+                {
+                    "question": "How much water is in a glass before each meal?",
+                    "score": 0.8985,
+                    "answers": "of water|prep"
+                },
+                {
+                    "question": "What is the purpose of drinking water before a meal?",
+                    "score": 0.8424,
+                    "answers": "that A glass of water   minutes before each meal , helps digestion|ccomp"
+                },
+                {
+                    "question": "What are the benefits of drinking water for digestion?",
+                    "score": 0.8395,
+                    "answers": "www.elcolombiano.com|nsubj\twww.elcolombiano.com reported on 02/07/2017 that A glass of water   minutes before each meal , helps digestion|ROOT\ton 02/07/2017|prep\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "A glass of water before bathing helps reduce blood pressure.",
+            "question_answers": [
+                {
+                    "question": "What did elcolombiano.com report on 02/07/2017?",
+                    "answer": "A glass of water before bathing"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water is in a glass of water before bathing to reduce blood pressure?",
+                    "score": 0.9161,
+                    "answers": "A|det"
+                },
+                {
+                    "question": "How much water should be taken to reduce blood pressure before bathing?",
+                    "score": 0.8962,
+                    "answers": "A glass of water before bathing|nsubj"
+                },
+                {
+                    "question": "What are the benefits of drinking water before bathing?",
+                    "score": 0.8715,
+                    "answers": "on 02/07/2017|prep"
+                },
+                {
+                    "question": "What is the relationship between drinking water before bathing and reducing blood pressure?",
+                    "score": 0.8326,
+                    "answers": "blood pressure|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "A glass of water before bedtime, avoid heart attacks and strokes.",
+            "question_answers": [
+                {
+                    "question": "What did www.elcolombiano.com report on 02/07/2017?",
+                    "answer": "heart attacks and strokes"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water should you drink before bedtime?",
+                    "score": 0.8549,
+                    "answers": "A glass of water before bedtime|dep\tof water|prep\twater|pobj"
+                },
+                {
+                    "question": "What are the benefits of drinking a glass of water before bedtime?",
+                    "score": 0.8358,
+                    "answers": "www.elcolombiano.com reported on 02/07/2017 that A glass of water before bedtime , avoid heart attacks and strokes|ROOT"
+                },
+                {
+                    "question": "What are the symptoms of heart attacks and stroke?",
+                    "score": 0.8162,
+                    "answers": "heart attacks and strokes|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Doctors have reported that water before bed will also help prevent night leg cramps.",
+            "question_answers": [
+                {
+                    "question": "What does water before bed help prevent?",
+                    "answer": "night leg cramps"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water will help prevent night leg cramps?",
+                    "score": 0.8725,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What are the symptoms of night leg cramps?",
+                    "score": 0.8384,
+                    "answers": "www.elcolombiano.com|nsubj"
+                },
+                {
+                    "question": "What are the effects of drinking water before bed on night leg cramps?",
+                    "score": 0.8241,
+                    "answers": "that Doctors have reported that water before bed will also help prevent night leg cramps|ccomp"
+                },
+                {
+                    "question": "What are night leg cramps?",
+                    "score": 0.802,
+                    "answers": "night leg cramps|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Leg muscles are looking to moisturize when you get those calf cramps and/or thighs.",
+            "question_answers": [
+                {
+                    "question": "What did www.elcolombiano.com report on 02/07/2017",
+                    "answer": "Leg muscles are looking to moisturize when you get those calf cramps and/or thighs"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many cramps and cramps are there in Leg muscles?",
+                    "score": 0.888,
+                    "answers": "that Leg muscles are looking to moisturize when you get those calf cramps and/or thighs|ccomp\tthose calf cramps and/or thighs|dobj\tthighs|conj"
+                },
+                {
+                    "question": "What are the symptoms of cramps and cramps in Leg muscles?",
+                    "score": 0.8697,
+                    "answers": "to moisturize when you get those calf cramps and/or thighs|xcomp"
+                },
+                {
+                    "question": "What is the relationship between Leg muscles and calf cramps?",
+                    "score": 0.8114,
+                    "answers": "Leg muscles|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of Leg muscles getting cramps and/or thighs?",
+                    "score": 0.8056,
+                    "answers": "and/or|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Please pass this information on to people who are important to you.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 02/07/2017 that please pass this information on to people who are important to you?",
+                    "answer": "www.elcolombiano.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What information should be passed on to people who are important to you?",
+                    "score": 0.882,
+                    "answers": "Please|intj\tthat Please pass this information on to people who are important to you|ccomp\tthis information|dobj\twho are important to you|relcl\timportant to you|acomp\tto you|prep\tyou|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of this information?",
+                    "score": 0.7399,
+                    "answers": "this|det\ton|prt"
+                }
+            ]
+        }
+    ]
+}

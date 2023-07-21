@@ -1,0 +1,222 @@
+{
+    "id": "106_Society_71",
+    "claim": "Audi cars have been embroiled in shameful situations in Mexico City due to their drivers, who have immediately been exposed on social networks. That is why the German company has decided to take action on the matter, as this is causing them very bad publicity. The spokesman for the company in Mexico, Mr. Albert Wiennerkammerorchester, reported that from now on, the brand will be called, at least in Mexico, Ehrlich, which in German means honest. 'Das ist richtig, junker Mann. Among all the #LordAudi and #LadyAudi that already exist in Mexico, the name of our cars has been very discredited. As a company, we don't like that our name is related to powerless, irresponsible and unethical people, Gott helle uns!That's why our new name seeks to relate more to more positive aspects, and that way, all lords and ladies will have nothing to do with us anymore.\". As of tomorrow, no agency will sell any of these cars without first carrying out a psychological examination to the buyer, and the car will only be sold if it proves to have the ethical and moral level that the company seeks.'The German industry has a reputation to take care of, and we will not let details like this ruin it. Deutschland ist wunderschön!\". We hope not to see the #HerrEhrlich and #FrauEhrlich soon. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "02/08/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Audi cars have been embroiled in shameful situations in Mexico City due to drivers, who have immediately been exposed on social networks.",
+            "question_answers": [
+                {
+                    "question": "What kind of situations were Audi cars embroiled in in Mexico City?",
+                    "answer": "shameful situations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many Audi drivers were exposed on social networks in 2016?",
+                    "score": 0.8232,
+                    "answers": "who have immediately been exposed on social networks|relcl"
+                },
+                {
+                    "question": "How many drivers have been exposed on social networks?",
+                    "score": 0.8144,
+                    "answers": "due to drivers , who have immediately been exposed on social networks|prep\tdrivers , who have immediately been exposed on social networks|pobj"
+                },
+                {
+                    "question": "How many Audi cars have been involved in shameful situations in Mexico City in 2016?",
+                    "score": 0.7902,
+                    "answers": "Audi cars|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of Audi cars in Mexico City?",
+                    "score": 0.7742,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Audi cars and humans?",
+                    "score": 0.7281,
+                    "answers": "shameful situations|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "That is why Audi has decided to take action on the matter , as the matter is causing Audi very bad publicity.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 02/08/2016?",
+                    "answer": "take action on the matter"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Audi take action on the matter?",
+                    "score": 0.901,
+                    "answers": "www.eldizque.com reported on 02/08/2016 that That is why Audi has decided to take action on the matter , as the matter is causing Audi very bad publicity|ROOT\ton 02/08/2016|prep\tthat|mark\tThat|nsubj\tthat That is why Audi has decided to take action on the matter , as the matter is causing Audi very bad publicity|ccomp\twhy|advmod\thas|aux\twhy Audi has decided to take action on the matter , as the matter is causing Audi very bad publicity|advcl\tto|aux\tto take action on the matter|xcomp\taction on the matter|dobj\ton the matter|prep\tthe|det\tthe matter|pobj\t,|punct\tas|mark\tthe|det\tthe matter|nsubj\tis|aux\tas the matter is causing Audi very bad publicity|advcl\tvery|advmod\tvery bad|amod\tvery bad publicity|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The spokesman for Audi in Mexico , Mr. Albert Wiennerkammerorchester, reported that from now on, Audi will be called, at least in Mexico , Ehrlich, which in German means honest.",
+            "question_answers": [
+                {
+                    "question": "In what country was Audi called Ehrlich?",
+                    "answer": "Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mr. Albert Wiennerkammerorchester say about Audi?",
+                    "score": 0.7476,
+                    "answers": "in Mexico|prep\tnow|advmod"
+                },
+                {
+                    "question": "What does Ehrlich mean in German?",
+                    "score": 0.7177,
+                    "answers": "Ehrlich , which in German means honest|oprd\tin German|prep\twhich in German means honest|advcl\thonest|acomp"
+                },
+                {
+                    "question": "What is Audi called in Mexico?",
+                    "score": 0.7147,
+                    "answers": "that from now on , Audi will be called , at least in Mexico , Ehrlich , which in German means honest|ccomp"
+                },
+                {
+                    "question": "What is the current name of Audi in Mexico?",
+                    "score": 0.6687,
+                    "answers": "www.eldizque.com reported on 02/08/2016 that The spokesman for Audi in Mexico , Mr. Albert Wiennerkammerorchester , reported that from now on , Audi will be called , at least in Mexico , Ehrlich , which in German means honest|ROOT\twill|aux"
+                },
+                {
+                    "question": "What is Mr. Albert Wiennerkammerorchester?",
+                    "score": 0.6454,
+                    "answers": "Albert|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'Das ist richtig, junker Mann.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'Das is richtig, junker Manner'?",
+                    "answer": "02/08/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Das ist richtig, junker Mann?",
+                    "score": 0.8481,
+                    "answers": "ist|nmod\tist richtig , junker Mann|appos"
+                },
+                {
+                    "question": "What is the name of the junker Mann is accused of?",
+                    "score": 0.7984,
+                    "answers": "junker|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Among all the #LordAudi and #LadyAudi that already exist in Mexico , the name of our cars has been very discredited.",
+            "question_answers": [
+                {
+                    "question": "Where are the #LordAudi and #LadyAudi cars located?",
+                    "answer": "Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of all the # LordAudi and # Ladyaudi cars?",
+                    "score": 0.7568,
+                    "answers": "our cars|pobj"
+                },
+                {
+                    "question": "What is Ladyaudi?",
+                    "score": 0.6781,
+                    "answers": "# LadyAudi|conj"
+                }
+            ]
+        },
+        {
+            "claim": "As a company, Audi don't like that name is related to powerless, irresponsible and unethical people, Gott helle uns!That's why new name seeks to relate more to more positive aspects, and that way, all lords and ladies will have nothing to do with Audi anymore.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 02/08/2016 that Audi don't like that name is related to powerless, irresponsible and unethical people?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Audi say about the name \"Gott helle uns\"?",
+                    "score": 0.7837,
+                    "answers": "on 02/08/2016|prep\tn't|neg"
+                },
+                {
+                    "question": "What is Audi's relationship with other companies?",
+                    "score": 0.7013,
+                    "answers": "nothing to do with Audi anymore|dobj\tto do with Audi anymore|relcl"
+                },
+                {
+                    "question": "What is Audi's current name?",
+                    "score": 0.6512,
+                    "answers": "that name is|auxpass\tnew|amod\tnew name|nsubj\tanymore|advmod"
+                },
+                {
+                    "question": "What are the aspects of Audi being connected to powerless, irresponsible, and unethical people?",
+                    "score": 0.6442,
+                    "answers": "more positive aspects|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "As of tomorrow, no agency will sell any of our cars without first carrying out a psychological examination to the buyer, and the car will only be sold if the car proves to have the ethical and moral level that Audi seeks.",
+            "question_answers": [
+                {
+                    "question": "When will a car be sold?",
+                    "answer": "if the car proves to have the ethical and moral level that Audi seeks"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the ethical and moral level of Audi cars?",
+                    "score": 0.7775,
+                    "answers": "As of tomorrow|prep\tof tomorrow|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'The German industry has a reputation to take care of , and Audi will not let details like this ruin a reputation to take care of .",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 02/08/2016?",
+                    "answer": "'The German industry has a reputation to take care of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Audi do to take care of the scandal?",
+                    "score": 0.8523,
+                    "answers": "details like this ruin a reputation to take care of|ccomp"
+                },
+                {
+                    "question": "What is Audi's history with the German industry?",
+                    "score": 0.8288,
+                    "answers": "on 02/08/2016|prep\tThe German industry|nsubj\tthat ' The German industry has a reputation to take care of , and Audi will not let details like this ruin a reputation to take care of|ccomp\ta reputation to take care of|dobj\tlike this|prep\ta reputation to take care of|dobj"
+                },
+                {
+                    "question": "What is Audi's stance on the German industry taking care of?",
+                    "score": 0.812,
+                    "answers": "www.eldizque.com reported on 02/08/2016 that ' The German industry has a reputation to take care of , and Audi will not let details like this ruin a reputation to take care of|ROOT\twill|aux\tAudi will not let details like this ruin a reputation to take care of|conj\tcare|dobj"
+                },
+                {
+                    "question": "What are the details that Audi will not take care of?",
+                    "score": 0.7302,
+                    "answers": "that|mark\t'|punct\tThe|det\ta|det\tto take care of|relcl\tcare of|dobj\tof|prep\t,|punct\tdetails like this|nsubj\tthis|pobj\ta|det\tto take care of|relcl\tof|prep"
+                },
+                {
+                    "question": "What is the relationship between Audi andldizque?",
+                    "score": 0.7103,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

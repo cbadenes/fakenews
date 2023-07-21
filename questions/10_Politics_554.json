@@ -1,0 +1,510 @@
+{
+    "id": "10_Politics_554",
+    "claim": "The coalition Together We Will Do History, which competes for the Presidency of the Republic, presented the cultural project that will be developed by candidate Andres Manuel Lopez Obrador (AMLO) in case of winning the election of the  July. Alejandra Frausto Guerrero, proposed by AMLO to occupy the Federal Culture Secretariat, headed the meeting held Tuesday at the University of the Cloister of Sor Juana, which was attended by members of the cultural community of Mexico City. Who was Director of Popular Cultures of this secretariat explained that the proposals were articulated after the meetings he has had with associations of architects, artisans, performing and visual artists, filmmakers, chefs, traditional cooks, graphic and industrial designers, writers, musicians, gallerists and editors. Inclusion and equityAs Frausto said in an interview with La Jornada (//), the cultural policy of the AMLO government will have the mission of'putting the wheel down and seeking peace ', based on'the multiple coincidences, common dreams, innovative ideas and inescapable needs'. Frausto was accompanied by writer Laura Esquivel, journalist Jesús Ramírez Cuevas, Alfonso Romo, responsible for strategy and liaison with businessmen, governments and civil society of the coalition; Luisa María Mayor, proposed as Secretary of Labor; Hector Vasconcelos, who would be head of Foreign Relations; and María Luisa Albores González, who would go from Social Development. All explained that the Ministry of Culture in the government of AMLO will be 'inclusive and equitable ', always in close coordination with departments and entities of the federal public administration, states, municipalities and the mayors of Mexico City, with the participation of the social and private sectors. The challenge is, Frausto explained, to guarantee equal access to culture for all people, giving priority to historically excluded groups. It will seek to involve the artistic community of each region in the areas and programs of the cultural sector, he added, in particular through the following lines of work: cultural missions and circuits to promote cultural exchange between regions; schools-workshops that, under the supervision of the National Institute of Anthropology and History, will train specialists to help in the reconstruction of the heritage damaged by the earthquakes of September last year; encouragement to local cultural traditions and practices: indigenous languages, music, traditional dances, rituals, festive acts or artisan techniques to recognize and preserve knowledge and uses related to nature and the universe, such as cooking and traditional medicine. It will fight, it has continued, for a culture for peace and coexistence by promoting a policy'focused on children, to stimulate the imagination and detonate the artistic creation. Emotion will be enhanced from the enjoyment of artistic expressions. ''Art training and collective creation projects will be developed with children and young people under the scheme of community collectives of creation and community musical groups; in terms of cultural infrastructure, much of which is wasted or in disuse, it will be endowed with life and meaning with cultural programming, enhancing local talent and giving it a social use. '. In the cultural project of Juntos We will make history the recovery of the public space is nodal. In this regard, Frausto explained that'parks and squares will be retaken mainly in conflict zones to promote coexistence through outdoor film screenings, oral narratives, music, dance, reading promotion actions and performing interventions'. Alejandra Frausto said that there is an urgent need to build new models and strategies of investment, patronage and fiscal stimuli; ''we will work hand in hand with the secretariats of Finance and Public Credit and Economy to design them'. The full program was printed on the booklet The power of culture, distributed to those present, including the host of the meeting, Carmen Beatriz Lopez-Portillo Romano, rector of the University of the Cloister of Sister Juana, journalist and writer Elena Poniatowska, composer Gabriela Rodríguez and painter Carlos Pellicer Lopez. The meeting culminated with the song Yo te AMLO, composed by Fernando Rivera and Alfonso Andre, performed by Regina Orozco before an enthusiastic audience that crowded the Divine Narcissus auditorium of that studio house. I'm sorry.",
+    "source": "www.jornada.com.mx",
+    "date": "21/06/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The coalition Together the Ministry of Culture in the government of AMLO of the Republic, presented the cultural project that will be developed by candidate Andres Manuel Lopez Obrador (AMLO) in case of winning the election of the  July.",
+            "question_answers": [
+                {
+                    "question": "Who is the candidate of AMLO?",
+                    "answer": "Andres Manuel Lopez Obrador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Andres Manuel Lopez Obrador do to win the election of the July 2018 election?",
+                    "score": 0.7086,
+                    "answers": "of the|prep"
+                },
+                {
+                    "question": "What was the purpose of the project that was presented by Andres Manuel Lopez Obrador?",
+                    "score": 0.5977,
+                    "answers": "www.jornada.com.mx reported on 21/06/2018 that The coalition Together the Ministry of Culture in the government of AMLO of the Republic , presented the cultural project that will be developed by candidate Andres Manuel Lopez Obrador ( AMLO ) in case of winning the election of the   July|ROOT"
+                },
+                {
+                    "question": "What is the relationship between AMLO and Lopez Obrador?",
+                    "score": 0.5437,
+                    "answers": "of Culture|prep\tCulture|pobj\tManuel|compound"
+                },
+                {
+                    "question": "Who is AMLO of the Republic?",
+                    "score": 0.5129,
+                    "answers": "the Ministry of Culture|appos\tof AMLO of the Republic|prep\tAMLO of the Republic|pobj\tof the Republic|prep\tthe Republic|pobj\t,|punct\tLopez|compound\tcandidate Andres Manuel Lopez Obrador ( AMLO )|pobj\t(|punct\t)|punct"
+                },
+                {
+                    "question": "Who is AMLO?",
+                    "score": 0.4964,
+                    "answers": "that The coalition Together the Ministry of Culture in the government of AMLO of the Republic , presented the cultural project that will be developed by candidate Andres Manuel Lopez Obrador ( AMLO ) in case of winning the election of the|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Alejandra Frausto Guerrero, proposed by AMLO to occupy the Federal Culture Secretariat, headed Frausto meeting held Tuesday at the University of the Cloister of Sor Juana, which was attended by members of the cultural community of Mexico City.",
+            "question_answers": [
+                {
+                    "question": "Who attended the Frausto meeting?",
+                    "answer": "members of the cultural community"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who attended the meeting of Alejandra Frausto Guerrero?",
+                    "score": 0.742,
+                    "answers": "the University of the Cloister of Sor Juana which was attended by members of the cultural community of Mexico City|pobj"
+                },
+                {
+                    "question": "Where did the Frausto meeting take place?",
+                    "score": 0.7325,
+                    "answers": "that Alejandra Frausto Guerrero , proposed by AMLO to occupy the Federal Culture Secretariat , headed Frausto meeting held Tuesday at the University of the Cloister of Sor Juana which was attended by members of the cultural community of Mexico City ,|ccomp\theld Tuesday at the University of the Cloister of Sor Juana which was attended by members of the cultural community of Mexico City ,|acl\tof the Cloister of Sor Juana|prep\tthe Cloister of Sor Juana|pobj\tof Sor Juana|prep"
+                },
+                {
+                    "question": "What did AMLO propose to the Federal Culture Secretariat?",
+                    "score": 0.7269,
+                    "answers": "Alejandra Frausto Guerrero , proposed by AMLO to occupy the Federal Culture Secretariat ,|nsubj"
+                },
+                {
+                    "question": "Where was the Frausto meeting held?",
+                    "score": 0.7221,
+                    "answers": "Frausto meeting held Tuesday at the University of the Cloister of Sor Juana which was attended by members of the cultural community of Mexico City ,|dobj\tat the University of the Cloister of Sor Juana which was attended by members of the cultural community of Mexico City|prep\tSor Juana|pobj"
+                },
+                {
+                    "question": "Who attended the Frausto meeting?",
+                    "score": 0.6938,
+                    "answers": "members of the cultural community of Mexico City|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Who was Director of Popular Cultures of the Federal Culture Secretariat explained that the proposals were articulated after the meetings Alejandra Frausto Guerrero, proposed by AMLO to occupy the Federal Culture Secretariat, has had with associations of architects, artisans, performing and visual artists, filmmakers, chefs, traditional cooks, graphic and industrial designers, writers, musicians, gallerists and editors.",
+            "question_answers": [
+                {
+                    "question": "Who was the Director of Popular Cultures of the Federal Culture Secretariat?",
+                    "answer": "Director of Popular Cultures of the Federal Culture Secretariat"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What proposals were articulated after the meeting with Alejandra Frausto Guerrero?",
+                    "score": 0.6712,
+                    "answers": "the proposals|nsubjpass"
+                },
+                {
+                    "question": "What did AMLO propose to the Federal Culture Secretariat?",
+                    "score": 0.6341,
+                    "answers": "after the meetings Alejandra Frausto Guerrero , proposed by AMLO to occupy the Federal Culture Secretariat , has had with associations of architects , artisans , performing and visual artists , filmmakers , chefs , traditional cooks , graphic and industrial designers , writers , musicians , gallerists and editors|prep"
+                },
+                {
+                    "question": "Who was Director of Popular Cultures of the Federal Culture Secretariat in 2018?",
+                    "score": 0.5703,
+                    "answers": "www.jornada.com.mx reported on 21/06/2018 that Who was Director of Popular Cultures of the Federal Culture Secretariat explained that the proposals were articulated after the meetings Alejandra Frausto Guerrero , proposed by AMLO to occupy the Federal Culture Secretariat , has had with associations of architects , artisans , performing and visual artists , filmmakers , chefs , traditional cooks , graphic and industrial designers , writers , musicians , gallerists and editors|ROOT\tof the Federal Culture Secretariat|prep\tFederal|compound\tCulture|compound\tFederal|compound\tCulture|compound\tfilmmakers , chefs , traditional cooks , graphic and industrial designers , writers , musicians , gallerists and editors|conj"
+                },
+                {
+                    "question": "What is the relationship between AMLO and Alejandra Frausto Guerrero?",
+                    "score": 0.4933,
+                    "answers": "the meetings Alejandra Frausto Guerrero , proposed by AMLO to occupy the Federal Culture Secretariat , has had with associations of architects , artisans , performing and visual artists , filmmakers , chefs , traditional cooks , graphic and industrial designers , writers , musicians , gallerists and editors|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Inclusion and equityAs Alejandra Frausto Guerrero, proposed by AMLO to occupy the Federal Culture Secretariat, said in an interview with La Jornada (//), the cultural policy of the candidate Andres Manuel Lopez Obrador (AMLO) government will have the mission of'putting the wheel down and seeking peace ', based on'the multiple coincidences, common dreams, innovative ideas and inescapable needs'.",
+            "question_answers": [
+                {
+                    "question": "What did Alejandra Frausto Guerrero say the AMLO government would seek?",
+                    "answer": "peace"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did AMLO say about Inclusion and equityAs Alejandra Frausto Guerrero?",
+                    "score": 0.6562,
+                    "answers": "www.jornada.com.mx reported on 21/06/2018 that Inclusion and equityAs Alejandra Frausto Guerrero , proposed by AMLO to occupy the Federal Culture Secretariat , said in an interview with La Jornada ( // ) , the cultural policy of the candidate Andres Manuel Lopez Obrador ( AMLO ) government will have the mission of'putting the wheel down and seeking peace ' , based on'the multiple coincidences , common dreams , innovative ideas and inescapable needs '|ROOT\tby AMLO|agent\tLa|compound\tthe wheel|dobj"
+                },
+                {
+                    "question": "What is Inclusion and EquityAs Alejandra Frausto Guerrero's role in the Federal Culture Secretariat?",
+                    "score": 0.5962,
+                    "answers": "cultural|amod"
+                },
+                {
+                    "question": "What is the purpose of Andres Manuel Lopez Obrador's government seeking peace?",
+                    "score": 0.5816,
+                    "answers": "innovative ideas and inescapable needs|conj\tinescapable needs|conj"
+                },
+                {
+                    "question": "What is the relationship between Inclusion and equity as Alejandra Frausto Guerrero?",
+                    "score": 0.5538,
+                    "answers": "inescapable|amod"
+                },
+                {
+                    "question": "What does AMLO want to do with the government?",
+                    "score": 0.5534,
+                    "answers": "of'putting the wheel down and seeking peace|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Alejandra Frausto Guerrero, proposed by AMLO to occupy the Federal Culture Secretariat, was accompanied by writer Laura Esquivel, journalist Jesús Ramírez Cuevas, Alfonso Romo, responsible for strategy and liaison with businessmen, governments and civil society of the coalition; Luisa María Mayor, proposed as Secretary of Labor; Hector Vasconcelos, who would be head of Foreign Relations; and María Luisa Albores González, who would go from Social Development.",
+            "question_answers": [
+                {
+                    "question": "What position did Luisa Mara Mayor hold?",
+                    "answer": "Secretary of Labor;"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What position did Laura Esquivel hold?",
+                    "score": 0.7795,
+                    "answers": "writer|compound"
+                },
+                {
+                    "question": "What position did AMLO hold in the Federal Culture Secretariat?",
+                    "score": 0.7714,
+                    "answers": "Alejandra Frausto Guerrero , proposed by AMLO to occupy the Federal Culture Secretariat ,|nsubjpass\tproposed by AMLO to occupy the Federal Culture Secretariat|acl\tby AMLO|agent"
+                },
+                {
+                    "question": "Who was the first person to propose the position of Secretary of Labor?",
+                    "score": 0.6284,
+                    "answers": "by writer Laura Esquivel , journalist Jesús Ramírez Cuevas , Alfonso Romo , responsible for strategy and liaison with businessmen , governments and civil society of the coalition ; Luisa María Mayor , proposed as Secretary of Labor ; Hector Vasconcelos , who would be head of Foreign Relations ; and María Luisa Albores González , who would go from Social Development|agent"
+                },
+                {
+                    "question": "What was the relationship between Laura Esquivel and Alvarado Mayor?",
+                    "score": 0.5869,
+                    "answers": "writer Laura Esquivel , journalist Jesús Ramírez Cuevas , Alfonso Romo , responsible for strategy and liaison with businessmen , governments and civil society of the coalition ; Luisa María Mayor , proposed as Secretary of Labor ; Hector Vasconcelos , who would be head of Foreign Relations ; and María Luisa Albores González , who would go from Social Development|pobj"
+                },
+                {
+                    "question": "What was the purpose of this meeting?",
+                    "score": 0.5733,
+                    "answers": "responsible for strategy and liaison with businessmen , governments and civil society of the coalition|amod\tfor strategy and liaison with businessmen , governments and civil society of the coalition|prep\tliaison with businessmen , governments and civil society of the coalition|conj"
+                }
+            ]
+        },
+        {
+            "claim": "All explained that the Ministry of Culture in the government of AMLO will be 'inclusive and equitable ', always in close coordination with departments and entities of the federal cultural infrastructure, much of which is wasted or in disuse of Mexico City, with the participation of the social and private sectors.",
+            "question_answers": [
+                {
+                    "question": "What did All explain that the Ministry of Culture in the government of AMLO would be?",
+                    "answer": "'inclusive and equitable"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much of the federal infrastructure is wasted or in disuse of Mexico City?",
+                    "score": 0.66,
+                    "answers": "always in close coordination with departments and entities of the federal cultural infrastructure , much of which is wasted or in disuse of Mexico City , with the participation of the social and private sectors|prep"
+                },
+                {
+                    "question": "What is the purpose of the federal cultural infrastructure?",
+                    "score": 0.5998,
+                    "answers": "the federal cultural infrastructure ,|pobj"
+                },
+                {
+                    "question": "What is the relationship between the government of AMLO and the department of culture?",
+                    "score": 0.5442,
+                    "answers": "close coordination with departments and entities of the federal cultural infrastructure , much of which is wasted or in disuse of Mexico City|pobj"
+                },
+                {
+                    "question": "What are the social and private sectors of the government of AMLO?",
+                    "score": 0.5242,
+                    "answers": "the social and private sectors|pobj"
+                },
+                {
+                    "question": "What is AMLO's relationship with the government?",
+                    "score": 0.5055,
+                    "answers": "of AMLO|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The local talent is, Frausto local talent , to guarantee equal access to culture for all people, giving priority to historically excluded groups.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the local talent?",
+                    "answer": "Frausto local talent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Frausto local talent?",
+                    "score": 0.8139,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 21/06/2018 that The local talent is , Frausto local talent , to guarantee equal access to culture for all people , giving priority to historically excluded groups|ROOT\ton 21/06/2018|prep\tthat|mark\tThe|det\tlocal|amod\tThe local talent|nsubj\tthat The local talent is , Frausto local talent , to guarantee equal access to culture for all people , giving priority to historically excluded groups|ccomp\t,|punct\tFrausto|nmod\tlocal|amod\tFrausto local talent|attr\t,|punct\tto|aux\tto guarantee equal access to culture for all people , giving priority to historically excluded groups|advcl\tequal access to culture|dobj\tto culture|prep\tculture|pobj\tfor all people|prep\tall|det\t,|punct\tgiving priority to historically excluded groups|advcl\tpriority|dobj\tto historically excluded groups|dative\thistorically excluded|amod\thistorically excluded groups|pobj"
+                },
+                {
+                    "question": "What is the history of Frausto local talent?",
+                    "score": 0.7958,
+                    "answers": "historically|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "It will seek to involve the artistic community of each region in the areas and programs of the cultural sector, he added, in particular through the following lines of work: cultural missions and circuits to promote cultural exchange between regions; schools-workshops that, under the supervision of the National Institute of Anthropology and History, will train specialists to help in the reconstruction of the heritage damaged by the earthquakes of September last year; encouragement to local cultural traditions and practices: indigenous languages, music, traditional dances, rituals, festive acts or artisan techniques to recognize and preserve knowledge and uses related to nature and the universe, such as cooking and traditional medicine.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What does the National Institute of Anthropology and History do to help rebuild the heritage damaged by the earthquakes of September last year?",
+                    "score": 0.733,
+                    "answers": "in the areas and programs of the cultural sector|prep"
+                },
+                {
+                    "question": "What was the cause of the earthquakes in September last year?",
+                    "score": 0.6546,
+                    "answers": "by the earthquakes of September last year|agent\tthe earthquakes of September last year|pobj"
+                },
+                {
+                    "question": "What is the purpose of local cultural traditions and practices?",
+                    "score": 0.6477,
+                    "answers": "encouragement to local cultural traditions and practices : indigenous languages , music , traditional dances , rituals , festive acts or artisan techniques to recognize and preserve knowledge and uses related to nature and the universe , such as cooking and traditional medicine|appos\tto local cultural traditions and practices : indigenous languages , music , traditional dances , rituals , festive acts or artisan techniques|prep\tlocal cultural traditions and practices : indigenous languages , music , traditional dances , rituals , festive acts or artisan techniques|pobj\tpractices|conj\tfestive|amod"
+                },
+                {
+                    "question": "What is traditional medicine?",
+                    "score": 0.5831,
+                    "answers": "traditional medicine|conj"
+                }
+            ]
+        },
+        {
+            "claim": "It will fight, it has continued, for a culture for peace and coexistence by promoting a policy'focused on children, to stimulate the imagination and detonate the artistic creation.",
+            "question_answers": [
+                {
+                    "question": "What did jornada fight for?",
+                    "answer": "a culture for peace and coexistence"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the policy focused on children and girls?",
+                    "score": 0.6525,
+                    "answers": "www.jornada.com.mx reported on 21/06/2018 that It will fight , it has continued , for a culture for peace and coexistence by promoting a policy'focused on children , to stimulate the imagination and detonate the artistic creation|ROOT"
+                },
+                {
+                    "question": "What is the purpose of the policy for peace and coexistence?",
+                    "score": 0.5938,
+                    "answers": "detonate the artistic creation|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Emotion will be enhanced from the enjoyment of artistic expressions.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that emotion will be enhanced from the enjoyment of artistic expressions?",
+                    "answer": "21/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will emotions be enhanced from the enjoyment of artistic expressions?",
+                    "score": 0.8742,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is the relationship between emotions and artistic expressions?",
+                    "score": 0.7773,
+                    "answers": "of artistic expressions|prep"
+                }
+            ]
+        },
+        {
+            "claim": "''Art training and collective creation projects will be developed with children and young people under the scheme of community collectives of creation and community musical groups; in terms of cultural infrastructure, much of which is wasted or in disuse, it will be endowed with life and meaning with cultural programming, enhancing local talent and giving it a social use.",
+            "question_answers": [
+                {
+                    "question": "What kind of talent will be enhanced by cultural programming?",
+                    "answer": "local talent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much of the cultural infrastructure is wasted or in disuse?",
+                    "score": 0.7016,
+                    "answers": "in terms of cultural infrastructure , much of which is wasted or in disuse ,|prep\tcultural infrastructure , much of which is wasted or in disuse ,|pobj"
+                },
+                {
+                    "question": "What is the scheme of community collectives for creation and community musical groups?",
+                    "score": 0.7014,
+                    "answers": "of community collectives of creation and community musical groups|prep"
+                },
+                {
+                    "question": "What is the purpose of community collectives?",
+                    "score": 0.6309,
+                    "answers": "on 21/06/2018|prep\tArt training and collective creation projects|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "In the cultural project of Juntos We will make history the recovery of the public space is nodal.",
+            "question_answers": [
+                {
+                    "question": "What is nodal in the Juntos We project?",
+                    "answer": "the recovery of the public space"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the recovery of public space in Juntos?",
+                    "score": 0.74,
+                    "answers": "www.jornada.com.mx reported on 21/06/2018 that In the cultural project of Juntos We will make history the recovery of the public space is nodal|ROOT\tthat|mark\tthe|det\twill|aux\tthe|det\tthe|det\tpublic|amod\tnodal|acomp"
+                },
+                {
+                    "question": "What was the purpose of the Juntos cultural project?",
+                    "score": 0.7078,
+                    "answers": "on 21/06/2018|prep\tIn the cultural project of Juntos|prep\tthe cultural project of Juntos|pobj"
+                },
+                {
+                    "question": "What is the history of Juntos we will make history the recovery of the public space?",
+                    "score": 0.6864,
+                    "answers": "www.jornada.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the name of the cultural project of Juntos?",
+                    "score": 0.6507,
+                    "answers": "of Juntos|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In this regard, Frausto explained that'parks and squares will be retaken mainly in conflict zones to promote coexistence through outdoor film screenings, oral narratives, music, dance, reading promotion actions and performing interventions'.",
+            "question_answers": [
+                {
+                    "question": "Where will parks and squares be retaken?",
+                    "answer": "conflict zones"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many zones will be reaken in conflict zones to promote coexistence?",
+                    "score": 0.7523,
+                    "answers": "that In this regard , Frausto explained that'parks and squares will be retaken mainly in conflict zones to promote coexistence through outdoor film screenings , oral narratives , music , dance , reading promotion actions and performing interventions '|ccomp"
+                },
+                {
+                    "question": "What will be done to promote coexistence in conflict zones?",
+                    "score": 0.7211,
+                    "answers": "www.jornada.com.mx reported on 21/06/2018 that In this regard , Frausto explained that'parks and squares will be retaken mainly in conflict zones to promote coexistence through outdoor film screenings , oral narratives , music , dance , reading promotion actions and performing interventions '|ROOT\tthis regard|pobj\tthat'parks and squares will be retaken mainly in conflict zones to promote coexistence through outdoor film screenings , oral narratives , music , dance , reading promotion actions and performing interventions|ccomp\tin conflict zones|prep\tdance , reading promotion actions and performing interventions|conj"
+                },
+                {
+                    "question": "How many interventions will be performed in conflict zones?",
+                    "score": 0.72,
+                    "answers": "performing|compound\tperforming interventions|conj"
+                },
+                {
+                    "question": "What is the purpose of parks and squares in conflict zones?",
+                    "score": 0.7192,
+                    "answers": "squares|conj"
+                },
+                {
+                    "question": "What is the definition of conflict zones?",
+                    "score": 0.6609,
+                    "answers": "conflict|compound\tconflict zones|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Alejandra Frausto said that there is an urgent need to build new models and strategies of investment, patronage and fiscal stimuli; ''we will work hand in hand with the secretariats of Finance and Public Credit and Economy to design them'.",
+            "question_answers": [
+                {
+                    "question": "Who said that there was an urgent need to build new models and strategies of investment, patronage and fiscal stimuli?",
+                    "answer": "Alejandra Frausto"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the secretariats of Finance and Public Credit and Economy?",
+                    "score": 0.6781,
+                    "answers": "with the secretariats of Finance and Public Credit and Economy|prep\tthe secretariats of Finance and Public Credit and Economy|pobj\tof Finance and Public Credit and Economy|prep\tFinance and Public Credit and Economy|pobj\tPublic Credit and Economy|conj"
+                },
+                {
+                    "question": "What is the need to build new models and strategies for investment, patronage, and fiscal stimuli?",
+                    "score": 0.6411,
+                    "answers": "there is an urgent need to build new models and strategies of investment , patronage and fiscal stimuli|ccomp\tan urgent need to build new models and strategies of investment , patronage and fiscal stimuli|attr"
+                },
+                {
+                    "question": "What is the purpose of developing new models and strategies?",
+                    "score": 0.6316,
+                    "answers": "to design them|advcl"
+                },
+                {
+                    "question": "What is the source of evidence of the quotes from Frausto?",
+                    "score": 0.6155,
+                    "answers": "www.jornada.com.mx reported on 21/06/2018 that Alejandra Frausto said that there is an urgent need to build new models and strategies of investment , patronage and fiscal stimuli ; '' we will work hand in hand with the secretariats of Finance and Public Credit and Economy to design them '|ROOT\ton 21/06/2018|prep\twe|nsubj\twill|aux"
+                },
+                {
+                    "question": "What is the relationship between Alejandra Frausto and the government?",
+                    "score": 0.5975,
+                    "answers": "Alejandra|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The full program was printed on the booklet The power of culture, distributed to those present, including the host of the meeting, Carmen Beatriz Lopez-Portillo Romano, rector of the University of the Cloister of Sister Juana, journalist and writer Elena Poniatowska, composer Gabriela Rodríguez and painter Carlos Pellicer Lopez.",
+            "question_answers": [
+                {
+                    "question": "What is Gabriela Rodrguez's profession?",
+                    "answer": "composer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What program was printed on the booklet The power of culture?",
+                    "score": 0.782,
+                    "answers": "full|amod\tThe full program|nsubjpass"
+                },
+                {
+                    "question": "Who attended the meeting with Carmen Beatriz Lopez-Portillo Romano?",
+                    "score": 0.7545,
+                    "answers": "to those present , including the host of the meeting , Carmen Beatriz Lopez - Portillo Romano , rector of the University of the Cloister of Sister Juana , journalist and writer Elena Poniatowska , composer Gabriela Rodríguez and painter Carlos Pellicer Lopez|prep\tthose present , including the host of the meeting , Carmen Beatriz Lopez - Portillo Romano , rector of the University of the Cloister of Sister Juana , journalist and writer Elena Poniatowska , composer Gabriela Rodríguez and painter Carlos Pellicer Lopez|pobj\tincluding the host of the meeting , Carmen Beatriz Lopez - Portillo Romano , rector of the University of the Cloister of Sister Juana , journalist and writer Elena Poniatowska , composer Gabriela Rodríguez and painter Carlos Pellicer Lopez|prep\tthe host of the meeting , Carmen Beatriz Lopez - Portillo Romano , rector of the University of the Cloister of Sister Juana , journalist and writer Elena Poniatowska , composer Gabriela Rodríguez and painter Carlos Pellicer Lopez|pobj"
+                },
+                {
+                    "question": "Who was the host of the meeting at the University of the Cloister of Sister Juana?",
+                    "score": 0.6628,
+                    "answers": "of the meeting|prep\tthe meeting|pobj"
+                },
+                {
+                    "question": "What is the name of the book The Power of Culture?",
+                    "score": 0.6376,
+                    "answers": "journalist and writer Elena Poniatowska , composer Gabriela Rodríguez and painter Carlos Pellicer Lopez|conj"
+                },
+                {
+                    "question": "What is the power of culture?",
+                    "score": 0.6316,
+                    "answers": "www.jornada.com.mx|nsubj\tof culture|prep\tculture|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The meeting culminated with the song Yo te AMLO, composed by Fernando Rivera and Alfonso Andre, performed by Regina Orozco before an enthusiastic audience that crowded the Divine Narcissus auditorium of that studio house.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the auditorium where the song Yo te AMLO was performed?",
+                    "answer": "Divine Narcissus"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What song did Orozco perform at the Divine Narcissus auditorium?",
+                    "score": 0.8295,
+                    "answers": "www.jornada.com.mx reported on 21/06/2018 that The meeting culminated with the song Yo te AMLO , composed by Fernando Rivera and Alfonso Andre , performed by Regina Orozco before an enthusiastic audience that crowded the Divine Narcissus auditorium of that studio house|ROOT\ton 21/06/2018|prep\tthat The meeting culminated with the song Yo te AMLO , composed by Fernando Rivera and Alfonso Andre , performed by Regina Orozco before an enthusiastic audience that crowded the Divine Narcissus auditorium of that studio house|ccomp\tYo|nmod\tte|nmod\tperformed by Regina Orozco before an enthusiastic audience that crowded the Divine Narcissus auditorium of that studio house|acl"
+                },
+                {
+                    "question": "Who performed the song \" Yo te AMLO\"?",
+                    "score": 0.801,
+                    "answers": "Regina|compound"
+                },
+                {
+                    "question": "Where was the song Yo te AMLO performed?",
+                    "score": 0.7583,
+                    "answers": "the Divine Narcissus auditorium of that studio house|dobj\tstudio|compound"
+                },
+                {
+                    "question": "Where was the meeting held?",
+                    "score": 0.7431,
+                    "answers": "The meeting|nsubj"
+                },
+                {
+                    "question": "What is the name of the song that was performed by Orozco during the meeting?",
+                    "score": 0.5965,
+                    "answers": "The|det\tthe|det\t,|punct\t,|punct\tthe|det"
+                }
+            ]
+        }
+    ]
+}

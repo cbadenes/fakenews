@@ -1,0 +1,171 @@
+{
+    "id": "72_Science_143",
+    "claim": "A company in Arizona (United States) has released the first genetically modified company dogs so they can't bark. The company, called MutedDog, has been studying how to get dogs unable to bark for years. For the moment the company markets  modified breeds but expects that in just  years they can offer all breeds.'We came to cover a need that many users asked for. Now anyone will be able to have their pet at home without having to disturb the neighbors 'explains the company on its website. In principle only orders are allowed in the United States but MutedDog has announced the next opening of a branch in Barcelona (Spain) for next September and planning to open in other countries. The International Animal Protection Association (AIPA) has shown its discomfort because they do not believe it is ethical to sell mute genetically modified animals, although the company defends itself by saying that they do not suffer since they are mute since their birth and they are not given any operation so that they do not bark. I'm sorry.",
+    "source": "haynoticia.es",
+    "date": "27/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "A company in Arizona (United States) has released the first genetically modified company dogs so they can't bark.",
+            "question_answers": [
+                {
+                    "question": "Where is haynoticia.es located?",
+                    "answer": "Arizona"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What company released the first genetically modified dogs?",
+                    "score": 0.8521,
+                    "answers": "A|det"
+                }
+            ]
+        },
+        {
+            "claim": "The company, called MutedDog, has been studying how to get dogs unable to bark for years.",
+            "question_answers": [
+                {
+                    "question": "Who said that MutedDog has been studying how to get dogs unable to bark?",
+                    "answer": "haynoticia.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has Muted Dog been trying to get dogs to bark?",
+                    "score": 0.7606,
+                    "answers": "for years|prep"
+                },
+                {
+                    "question": "What is Muted Dog?",
+                    "score": 0.6663,
+                    "answers": "haynoticia.es said on 27/06/2018 that The company , called MutedDog , has been studying how to get dogs unable to bark for years|ROOT\ton 27/06/2018|prep\tthat|mark\tThe|det\tThe company , called MutedDog ,|nsubj\t,|punct\tcalled MutedDog|acl\t,|punct\thas|aux\tbeen|aux\thow|advmod\tto|aux\tdogs|nsubj\tdogs unable to bark|ccomp\tto|aux\tto bark|xcomp"
+                },
+                {
+                    "question": "What is the purpose of Muted Dog?",
+                    "score": 0.6535,
+                    "answers": "that The company , called MutedDog , has been studying how to get dogs unable to bark for years|ccomp\thow to get dogs unable to bark for years|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "For the moment the company markets  modified breeds but expects that in just  years they can offer all breeds.",
+            "question_answers": [
+                {
+                    "question": "What type of breeds does haynoticia.es currently market?",
+                    "answer": "modified breeds"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many different breeds does the company offer?",
+                    "score": 0.8042,
+                    "answers": "haynoticia.es said on 27/06/2018 that For the moment the company markets   modified breeds but expects that in just   years they can offer all breeds|ROOT\ton 27/06/2018|prep\tthat|mark\tFor the moment|prep\tthe|det\tthe moment|pobj\tthe|det\tthe company|nsubj\tthat For the moment the company markets|ccomp\t  modified breeds but expects that in just   years they can offer all breeds|dep\tmodified|amod\tmodified breeds|dobj\tbut|cc\texpects that in just   years they can offer all breeds|conj\tthat in just   years|mark\tin|prep\tin just|advmod\tin just  |dep\tin just   years|pobj\tthey|nsubj\tcan|aux\tthat in just   years they can offer all breeds|ccomp\tall|det\tall breeds|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We came to cover a need that many users asked for.",
+            "question_answers": [
+                {
+                    "question": "When did haynoticia.es say they came to cover a need that many users asked for?",
+                    "answer": "27/06/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many users asked for help?",
+                    "score": 0.7603,
+                    "answers": "haynoticia.es said on 27/06/2018 that ' We came to cover a need many users asked that for|ROOT\ton 27/06/2018|prep\tthat|mark\t'|punct\tWe|nsubj\tthat ' We came to cover a need many users asked that for|ccomp\tto|aux\tto cover a need many users asked that for|advcl\ta|det\ta need many users asked that for|dobj\tthat|pobj\tmany|amod\tmany users|nsubj\tmany users asked that for|relcl\tthat for|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Now anyone will be able to have their pet at home without having to disturb the neighbors 'explains the company on its website.",
+            "question_answers": [
+                {
+                    "question": "Who does haynoticia.es say they'll be able to have their pet at home without having to disturb?",
+                    "answer": "neighbors"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who can have their pet at home without having to disturb the neighbors?",
+                    "score": 0.6452,
+                    "answers": "anyone|nsubj"
+                },
+                {
+                    "question": "What are the benefits of having a pet at home?",
+                    "score": 0.635,
+                    "answers": "that Now anyone will be able to have their pet at home without having to disturb the neighbors|ccomp\table to have their pet at home without having to disturb the neighbors|acomp\tto have their pet at home without having to disturb the neighbors|xcomp\ttheir pet|dobj\tat home|prep\twithout having to disturb the neighbors|prep\thaving to disturb the neighbors|pcomp\tto disturb the neighbors|xcomp"
+                },
+                {
+                    "question": "What is the website of Haynoticia.es?",
+                    "score": 0.4383,
+                    "answers": "the company on its website|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In principle only orders are allowed in the United States but MutedDog has announced the next opening of a branch in Barcelona (Spain) for next September and planning to open in other countries.",
+            "question_answers": [
+                {
+                    "question": "Who announced the next opening of a branch in Barcelona?",
+                    "answer": "MutedDog"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is Muted Dog planning to open a branch in Barcelona?",
+                    "score": 0.8427,
+                    "answers": "planning to open in other countries|conj"
+                },
+                {
+                    "question": "When did Muted Dog announce it was opening in Barcelona, Spain?",
+                    "score": 0.7089,
+                    "answers": "MutedDog has announced the next opening of a branch in Barcelona ( Spain ) for next September and planning to open in other countries|conj"
+                },
+                {
+                    "question": "What orders are allowed in the United States?",
+                    "score": 0.7059,
+                    "answers": "haynoticia.es said on 27/06/2018 that In principle only orders are allowed in the United States but MutedDog has announced the next opening of a branch in Barcelona ( Spain ) for next September and planning to open in other countries|ROOT\tonly orders|nsubjpass\tthat In principle only orders are allowed in the United States but MutedDog has announced the next opening of a branch in Barcelona ( Spain ) for next September and planning to open in other countries|ccomp"
+                },
+                {
+                    "question": "Where is Muted Dog located?",
+                    "score": 0.524,
+                    "answers": "Barcelona ( Spain )|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The International Animal Protection Association (AIPA) has shown its discomfort because they do not believe it is ethical to sell mute genetically modified animals, although the company defends itself by saying that they do not suffer since they are mute since their birth and they are not given any operation so that they do not bark.",
+            "question_answers": [
+                {
+                    "question": "What does haynoticia.es say about mute animals?",
+                    "answer": "they are not given any operation so that they do not bark"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why does AIPA believe it is ethical to sell genetically modified animals?",
+                    "score": 0.884,
+                    "answers": "its discomfort|dobj"
+                },
+                {
+                    "question": "What is AIPA's stance on genetically modified animals?",
+                    "score": 0.6779,
+                    "answers": "haynoticia.es said on 27/06/2018 that The International Animal Protection Association ( AIPA ) has shown its discomfort because they do not believe it is ethical to sell mute genetically modified animals , although the company defends itself by saying that they do not suffer since they are mute since their birth and they are not given any operation so that they do not bark|ROOT\ton 27/06/2018|prep\tthat|mark\tThe|det\tAnimal|compound\t(|punct\t)|punct\thas|aux\tthat The International Animal Protection Association ( AIPA ) has shown its discomfort because they do not believe it is ethical to sell mute genetically modified animals , although the company defends itself by saying that they do not suffer since they are mute since their birth and they are not given any operation so that they do not bark|ccomp\tits|poss\tbecause|mark\tthey|nsubj\tdo|aux\tnot|neg\tbecause they do not believe it is ethical to sell mute genetically modified animals|advcl\tit|nsubj\tit is ethical to sell mute genetically modified animals|ccomp\tethical|acomp\tto|aux\tto sell mute genetically modified animals|xcomp\tmute|amod\tgenetically|advmod\tgenetically modified|amod\tmute genetically modified animals|dobj\t,|punct\talthough|mark\tthe|det\talthough the company defends itself by saying that they do not suffer since they are mute since their birth and they are not given any operation so that they do not bark|advcl\titself|dobj\tthat|mark\tthey|nsubj\tdo|aux\tnot|neg\tsince|mark\tthey|nsubj\tmute|acomp\tsince their birth|prep\ttheir|poss\ttheir birth|pobj\tand|cc\tthey|nsubjpass\tare|auxpass\tnot|neg\tthey are not given any operation so that they do not bark|conj\tany|det\tany operation|dobj\tso|mark\tthat|mark\tthey|nsubj\tdo|aux\tnot|neg\tso that they do not bark|advcl"
+                },
+                {
+                    "question": "What does AIPA stand for?",
+                    "score": 0.6555,
+                    "answers": "International|compound\tAnimal Protection|compound\tThe International Animal Protection Association ( AIPA )|nsubj"
+                },
+                {
+                    "question": "What is AIPA?",
+                    "score": 0.571,
+                    "answers": "the company|nsubj\tby saying that they do not suffer since they are mute since their birth and they are not given any operation so that they do not bark|prep\tsaying that they do not suffer since they are mute since their birth and they are not given any operation so that they do not bark|pcomp\tthat they do not suffer since they are mute since their birth and they are not given any operation so that they do not bark|ccomp\tsince they are mute since their birth and they are not given any operation so that they do not bark|advcl"
+                }
+            ]
+        }
+    ]
+}

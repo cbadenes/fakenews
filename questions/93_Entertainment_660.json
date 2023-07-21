@@ -1,0 +1,271 @@
+{
+    "id": "93_Entertainment_660",
+    "claim": "'We demand that it be investigated and that it be he (President EPN), the first to submit to his own words and preach by example ', says the petition. The new Anti-Corruption Prosecutor's Office - approved in the National Anti-Corruption System reform package - could already have its first pending on the table. In Change. org emerged a citizens' initiative, which so far has been signed by more than  a thousand users, in which they ask that the prosecutor's office investigate the first lady, Angelica Rivera. The petition recalled the news broadcast last week by the British newspaper The Guardian about Miami apartments linked to the actress (one of them is her property and the other is allegedly loaned to her by an entrepreneur). 'The other white house? ', asks the author of the petition. 'Although the Mexican presidency has already denied this assertion, arguing that the department in question has nothing to do with the presidential couple, this does not cease to constitute a crime called 'CONFLICT OF INTEREST 'and how so, this crime must be punished!'. 'Let us remember that just a few weeks ago President Peña Nieto himself promulgated the new national system 'ANTICORRUPTION ', ensuring that this new law would eradicate the abuses of those who do not comply with the law and those who damage the reputation of public servants ', he says. 'Therefore we demand that it be investigated and that it be him, the first to submit to his own words and preach with the example. That the alleged complicity of interest be investigated and punished as such!! ', concludes the petition. I'm sorry.",
+    "source": "aristeguinoticias.com",
+    "date": "01/01/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "'We demand that it be investigated and that it be he (President EPN) , the first to submit to own words and preach by example ', says the petition .",
+            "question_answers": [
+                {
+                    "question": "Who is the first to submit to own words and preach by example?",
+                    "answer": "he (President EPN)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the petition say about President EPN?",
+                    "score": 0.7401,
+                    "answers": "We demand that it be investigated and that it be he ( President EPN ) , the first to submit to own words and preach by example|ccomp\tto submit to own words and preach by example|relcl"
+                },
+                {
+                    "question": "Who was the first president to submit to own words and preach by example?",
+                    "score": 0.7237,
+                    "answers": "that it be he ( President EPN ) , the first to submit to own words and preach by example|conj\the ( President EPN ) , the first to submit to own words and preach by example|attr\tPresident|compound\tPresident EPN|appos\t)|punct\t,|punct\tthe first to submit to own words and preach by example|appos\town|amod\town words|pobj\tpreach by example|conj\tby example|prep\texample|pobj\t,|punct"
+                },
+                {
+                    "question": "What is the name of the petition signed by EPN members?",
+                    "score": 0.6562,
+                    "answers": "the petition|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The new Anti-Corruption Prosecutor's Office - approved in the National Anti-Corruption System reform package - could already have first pending on the table.",
+            "question_answers": [
+                {
+                    "question": "In what package was the new Anti-Corruption Prosecutor's Office approved?",
+                    "answer": "National Anti-Corruption System reform package"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the National Anti-Corruption Prosecutor's Office say about the new anti-corruption reform package?",
+                    "score": 0.7817,
+                    "answers": "'s|case\tthe table|pobj"
+                },
+                {
+                    "question": "What was the purpose of the National Anti-Corruption System Reform package?",
+                    "score": 0.7137,
+                    "answers": "on 01/01/2023|prep"
+                },
+                {
+                    "question": "Who is the Anti-Corruption Prosecutor's Office?",
+                    "score": 0.6904,
+                    "answers": "Anti - Corruption Prosecutor 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "In Change.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to In Change to",
+                    "answer": "aristeguinoticias.com"
+                },
+                {
+                    "question": "What did aristeguinoticias.com report on 01/01/2023?",
+                    "answer": "Change"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the change in the economy?",
+                    "score": 0.6463,
+                    "answers": "Change|pobj"
+                },
+                {
+                    "question": "What is the name of the website?",
+                    "score": 0.5291,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that In Change|ROOT\ton 01/01/2023|prep\tthat|mark\tthat In Change|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "org emerged a citizens' initiative, which so far has been signed by more than  a thousand users , in which more than  a thousand users ask that The new Anti-Corruption Prosecutor's Office - approved in the National Anti-Corruption System reform package investigate the first lady, Angelica Rivera .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did the National Anti-Corruption Prosecutor's Office do to investigate Angelica Rivera?",
+                    "score": 0.6596,
+                    "answers": "in which more than   a thousand users ask that The new Anti - Corruption Prosecutor 's Office - approved in the National Anti - Corruption System reform package investigate the first lady , Angelica Rivera|dep\ta thousand users ask that The new Anti - Corruption Prosecutor 's Office - approved in the National Anti - Corruption System reform package investigate the first lady , Angelica Rivera|ccomp\tThe new Anti - Corruption Prosecutor 's Office - approved in the National Anti - Corruption System reform package|nsubj\tapproved in the National Anti - Corruption System reform package|acl\tthat The new Anti - Corruption Prosecutor 's Office - approved in the National Anti - Corruption System reform package investigate the first lady , Angelica Rivera|ccomp"
+                },
+                {
+                    "question": "How many users have signed up for the new Anti-Corruption Prosecutor's Office?",
+                    "score": 0.6134,
+                    "answers": "which so far has been signed by|relcl"
+                },
+                {
+                    "question": "Who is Angelica Rivera?",
+                    "score": 0.5381,
+                    "answers": "the first lady , Angelica Rivera|dobj\tAngelica|compound"
+                },
+                {
+                    "question": "What is the name of the citizens' initiative that has been signed by more than a thousand users?",
+                    "score": 0.5289,
+                    "answers": "a citizens ' initiative , which so far has been signed by|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "the petition recalled the news broadcast last week by the British newspaper The Guardian about Miami apartments linked to the actress (one of Miami apartments linked to the actress is property and the other is allegedly loaned to the first lady, Angelica Rivera by an entrepreneur).",
+            "question_answers": [
+                {
+                    "question": "What newspaper broadcast a news broadcast about Angelica Rivera?",
+                    "answer": "The Guardian"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who owns the apartments linked to Angelica Rivera?",
+                    "score": 0.7081,
+                    "answers": "linked to the actress|acl\tlinked to the actress|acl"
+                },
+                {
+                    "question": "What did the British newspaper The Guardian say about Angelica Rivera?",
+                    "score": 0.6803,
+                    "answers": "that the petition recalled the news broadcast last week by the British newspaper The Guardian about Miami apartments linked to the actress ( one of Miami apartments linked to the actress is property and the other is allegedly loaned to the first lady , Angelica Rivera by an entrepreneur|ccomp"
+                },
+                {
+                    "question": "Who is Angelica Rivera?",
+                    "score": 0.6045,
+                    "answers": "the actress|pobj\tthe actress|pobj\tthe other is allegedly loaned to the first lady , Angelica Rivera by an entrepreneur|conj\tto the first lady , Angelica Rivera|dative\tthe first lady , Angelica Rivera|pobj\tAngelica|compound\tby an entrepreneur|agent\tan entrepreneur|pobj"
+                },
+                {
+                    "question": "What is the name of the property owned by Angelica Rivera?",
+                    "score": 0.6028,
+                    "answers": "to the actress|prep\tto the actress|prep\t( one of Miami apartments linked to the actress is property and the other is allegedly loaned to the first lady , Angelica Rivera by an entrepreneur|parataxis"
+                }
+            ]
+        },
+        {
+            "claim": "'The other white house? ', asks the author of the petition .",
+            "question_answers": [
+                {
+                    "question": "What website reported that 'The other white house?",
+                    "answer": "aristeguinoticias.com"
+                },
+                {
+                    "question": "What did aristeguinoticias.com say about the other white house?",
+                    "answer": "', asks the author of the petition"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the author of the petition say about the white house?",
+                    "score": 0.7313,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that ' The other white house ?|ccomp\tthat|mark\t'|punct\tThe|det\t?|punct\t'|punct\t,|punct"
+                },
+                {
+                    "question": "What was the name of the petition signed by the author of it?",
+                    "score": 0.6828,
+                    "answers": "the|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'Although the Mexican presidency has already denied this assertion, arguing that the department in question has nothing to do with the presidential couple, this does not cease to constitute a crime called 'CONFLICT OF INTEREST ' and how so, a crime called 'CONFLICT OF INTEREST ' must be punished!'.",
+            "question_answers": [
+                {
+                    "question": "What crime must be punished?",
+                    "answer": "'CONFLICT OF INTEREST"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Mexican presidency say about the affair?",
+                    "score": 0.7586,
+                    "answers": "nothing to do with the presidential couple|dobj\tto do with the presidential couple|relcl"
+                },
+                {
+                    "question": "What is the relationship between the Mexican presidency and the presidential couple?",
+                    "score": 0.6718,
+                    "answers": "on 01/01/2023|prep\tAlthough|mark\tthe|det\thas|aux\talready|advmod\tAlthough the Mexican presidency has already denied this assertion , arguing that the department in question has nothing to do with the presidential couple|advcl\tthis assertion|dobj\tthe|det\tquestion|pobj\tthe|det\tnot|neg"
+                },
+                {
+                    "question": "What is the definition of collusion?",
+                    "score": 0.6046,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that ' Although the Mexican presidency has already denied this assertion , arguing that the department in question has nothing to do with the presidential couple , this does not cease to constitute a crime called ' CONFLICT OF INTEREST ' and how so , a crime called ' CONFLICT OF INTEREST ' must be punished ! '|ROOT\tthat|mark\t'|punct\tthis|det\t,|punct\tthat|mark\tthe department in question|nsubj\tin question|prep\tto|aux\t,|punct\tthis|nsubj\tdoes|aux\tthat ' Although the Mexican presidency has already denied this assertion , arguing that the department in question has nothing to do with the presidential couple , this does not cease to constitute a crime called ' CONFLICT OF INTEREST ' and how so , a crime called ' CONFLICT OF INTEREST ' must be punished|ccomp\tto|aux\tto constitute a crime called ' CONFLICT OF INTEREST '|xcomp\ta|det\ta crime called ' CONFLICT OF INTEREST '|dobj\tcalled ' CONFLICT OF INTEREST '|acl\t'|punct\t' CONFLICT OF INTEREST|oprd\tOF INTEREST|prep\tINTEREST|pobj\t'|punct\tand|cc\thow|advmod\thow so|advmod\t,|punct\ta|det\ta crime called ' CONFLICT OF INTEREST '|nsubjpass\tcalled ' CONFLICT OF INTEREST '|acl\t'|punct\t' CONFLICT OF INTEREST|oprd\tOF INTEREST|prep\tINTEREST|pobj\t'|punct\tmust|aux\tbe|auxpass\thow so , a crime called ' CONFLICT OF INTEREST ' must be punished|conj\t!|punct\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "'Let us remember that just a few weeks ago he (President EPN) promulgated the new national system 'ANTICORRUPTION ' , ensuring that the new national system 'ANTICORRUPTION ' would eradicate the abuses of those who do not comply with the law and those who damage the reputation of public servants ', the author of the petition says.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the new national system promulgated by President EPN?",
+                    "answer": "'ANTICORRUPTION"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the petition say about the new national system?",
+                    "score": 0.6554,
+                    "answers": "just a few weeks|npadvmod\twith the law|prep\tthe reputation of public servants|dobj\tof public servants|prep\tthe petition|pobj"
+                },
+                {
+                    "question": "What does the new national system \"ANTICORRUPTION\" entail?",
+                    "score": 0.6161,
+                    "answers": "of those who do not comply with the law and those who damage the reputation of public servants|prep"
+                },
+                {
+                    "question": "What are the abuses of those who do not comply with the law and damage the reputation of public servants?",
+                    "score": 0.6033,
+                    "answers": "public servants|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Therefore we demand that it be investigated and that it be him, the first to submit to his own words and preach with the example.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that 'Therefore we demand that it be investigated and it be him, the first to submit to his own words and preach?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to submit to your own words and preach?",
+                    "score": 0.7318,
+                    "answers": "that ' Therefore we demand that it be investigated and that it be him , the first to submit to his own words and preach with the example|ccomp"
+                },
+                {
+                    "question": "Who was the first to submit to his own words and preach with the example of Christ?",
+                    "score": 0.7004,
+                    "answers": "'|punct\tbe|auxpass\tand|cc\this|poss\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "That the alleged complicity of interest be investigated and punished as such!! ', concludes the petition.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 01/01/2023 that the alleged complicity of interest be investigated and punished as such?",
+                    "answer": "aristeguinoticias.com"
+                },
+                {
+                    "question": "What did aristeguinoticias.com say about the investigation of the alleged complicity of interest?",
+                    "answer": "', concludes the petition"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the petition say about complicity of interest?",
+                    "score": 0.7171,
+                    "answers": "the alleged complicity of interest|nsubjpass\tpunished as such|conj"
+                },
+                {
+                    "question": "What was the name of the petition that was signed?",
+                    "score": 0.6108,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that That the alleged complicity of interest be investigated and punished as such ! ! ' , concludes the petition|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the complicity of interest?",
+                    "score": 0.5758,
+                    "answers": "on 01/01/2023|prep\tof interest|prep"
+                }
+            ]
+        }
+    ]
+}

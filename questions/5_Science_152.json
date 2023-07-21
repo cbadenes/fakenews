@@ -1,0 +1,374 @@
+{
+    "id": "5_Science_152",
+    "claim": "Mark Zuckerberg, owner and master of the universe (Facebook), announced today that, due to the abuse that some users make of selfies, a limit will be set for them, so that the servers are not saturated, something that is happening all too often. According to the statistics presented, women are the ones who upload more photographs of this type to Facebook ( of each ). And the scary thing is that Mexico occupies the first place in the cake, with a scandalous % of the total. From now on, the number of selfies the user will be able to upload will be a maximum of  per day, and the system will block any attempt to upload selfies once that limit has been exceeded. At midnight each day, the counter will reset, so people can go back up selfies. However, the system will carry a count of the times the user tries to upload the selfie #, i.e. after reaching its daily limit. In case you reach  attempts, the account will be permanently deleted. 'Facebook is trying to give users the facilities to share their experiences ', said young Zuckerberg.'But they're already overdoing it. And because they put us in the painful need to take measures like this'. Also mentioned was a filter of vital importance. From now on, and to avoid deceptions, Facebook will require its users to have a full-body photograph to validate that the selfie is not tied, seeking to appear something they are not. Similarly, Adobe has climbed onto the anti-selfie boat and is developing software to track altered photos with pirate copies of Photoshop. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "10/11/2015",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Mark Zuckerberg, owner and master of the universe (Facebook) , announced today that, due to the abuse that some users make of selfies, a limit will be set for some users , so that the servers are not saturated, something that is happening all too often.",
+            "question_answers": [
+                {
+                    "question": "What did Mark Zuckerberg announce on 10/11/2015?",
+                    "answer": "a limit will be set for some users"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mark Zuckerberg say about Facebook using their servers?",
+                    "score": 0.7773,
+                    "answers": "a limit|nsubjpass"
+                },
+                {
+                    "question": "How many users are using Facebook's servers each year?",
+                    "score": 0.6994,
+                    "answers": "the servers|nsubjpass\tso that the servers are not saturated , something that is happening all too often|advcl"
+                },
+                {
+                    "question": "What is the limit for using Facebook's servers?",
+                    "score": 0.6678,
+                    "answers": "that , due to the abuse that some users make of selfies , a limit will be set for some users , so that the servers are not saturated , something that is happening all too often|ccomp"
+                },
+                {
+                    "question": "What is Mark Zuckerberg's relationship with Facebook?",
+                    "score": 0.6428,
+                    "answers": "Mark|compound"
+                },
+                {
+                    "question": "What is the relationship between Mark Zuckerberg and Facebook?",
+                    "score": 0.6043,
+                    "answers": "owner and master of the universe ( Facebook )|appos"
+                }
+            ]
+        },
+        {
+            "claim": "According to the statistics presented, women are the ones who upload more photographs of this type to Facebook ( of each ).",
+            "question_answers": [
+                {
+                    "question": "How many women upload more photographs to Facebook?",
+                    "answer": "of each"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the statistics on the number of women who upload photos of Facebook to Facebook?",
+                    "score": 0.7919,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "How many photos are uploaded to Facebook each year?",
+                    "score": 0.7507,
+                    "answers": "more|amod\tmore photographs of this type|dobj\tthis type|pobj\tto Facebook|prep\tof each|prep\teach|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "And the scary thing is that Mexico occupies the first place in the cake, with a scandalous % of the total.",
+            "question_answers": [
+                {
+                    "question": "What percentage of the cake does Mexico have?",
+                    "answer": "scandalous"
+                },
+                {
+                    "question": "What percentage of the cake does Mexico have?",
+                    "answer": "scandalous"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where does Mexico place on the list of countries with the most success?",
+                    "score": 0.8396,
+                    "answers": "the cake|pobj"
+                },
+                {
+                    "question": "What percentage of the total is from Mexico?",
+                    "score": 0.8122,
+                    "answers": "that And the scary thing is that Mexico occupies the first place in the cake , with a scandalous % of the total|ccomp\tthat Mexico occupies the first place in the cake , with a scandalous % of the total|ccomp\tof the total|prep"
+                },
+                {
+                    "question": "How many countries have won the Nobel Prize?",
+                    "score": 0.8091,
+                    "answers": "in the cake|prep"
+                },
+                {
+                    "question": "What is the crime rate in Mexico?",
+                    "score": 0.765,
+                    "answers": "scary|amod\tthe scary thing|nsubj"
+                },
+                {
+                    "question": "What is the GDP of Mexico?",
+                    "score": 0.734,
+                    "answers": "www.eldizque.com reported on 10/11/2015 that And the scary thing is that Mexico occupies the first place in the cake , with a scandalous % of the total|ROOT\ton 10/11/2015|prep\tthat|mark\tAnd|cc\tthe|det\tthat|mark\tthe|det\tthe|det\t,|punct\ta|det\tthe|det\tthe total|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "From now on, the number of selfies the user will be able to upload will be a maximum of  per day , and the system will block any attempt to upload selfies once a maximum of  per day has been exceeded.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many selfies can a user upload per day?",
+                    "score": 0.7708,
+                    "answers": "to upload selfies|acl"
+                },
+                {
+                    "question": "How many selfies will a user be able to upload per day?",
+                    "score": 0.7603,
+                    "answers": "the number of selfies the user will be able to upload|nsubj\tselfies|pobj\tthe user will be able to upload|relcl\tthat From now on , the number of selfies the user will be able to upload will be a maximum of|ccomp\tselfies|dobj"
+                },
+                {
+                    "question": "What is the maximum number of selfies a user can upload per day?",
+                    "score": 0.7242,
+                    "answers": "From now on|prep\tnow on|pcomp\ta maximum of|attr\tthe system|nsubj\ta maximum of|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "At midnight each day, the counter will reset, so people can go back up selfies.",
+            "question_answers": [
+                {
+                    "question": "At what time of the day did the counter reset?",
+                    "answer": "midnight"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long will it take to go back up selfies?",
+                    "score": 0.763,
+                    "answers": "that At midnight each day , the counter will reset , so people can go back up selfies|ccomp"
+                },
+                {
+                    "question": "How long can it take for the clock to reset?",
+                    "score": 0.7514,
+                    "answers": "can|aux"
+                },
+                {
+                    "question": "How many selfies are there each day?",
+                    "score": 0.7438,
+                    "answers": "selfies|npadvmod"
+                },
+                {
+                    "question": "How many people can go back up at midnight each day?",
+                    "score": 0.6676,
+                    "answers": "people|nsubj"
+                },
+                {
+                    "question": "What is the best way to track down a deleted selfie?",
+                    "score": 0.6346,
+                    "answers": "each|det"
+                }
+            ]
+        },
+        {
+            "claim": "However, the system will carry a count of the times the user tries to upload the selfie #, i.e. after reaching a maximum of  per day .",
+            "question_answers": [
+                {
+                    "question": "What did eldizque report on 10/11/2015?",
+                    "answer": "the system will carry a count of the times the user tries to upload the selfie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many times does a user attempt to upload a selfie?",
+                    "score": 0.7454,
+                    "answers": "www.eldizque.com reported on 10/11/2015 that However , the system will carry a count of the times the user tries to upload the selfie # , i.e. after reaching a maximum of   per day|ROOT\tthat However , the system will carry a count of the times the user tries to upload the selfie # , i.e. after reaching a maximum of|ccomp\ta count of the times the user tries to upload the selfie # , i.e. after reaching a maximum of|dobj\tof the times the user tries to upload the selfie # , i.e. after reaching a maximum of|prep\tthe times the user tries to upload the selfie # , i.e. after reaching a maximum of|pobj"
+                },
+                {
+                    "question": "What is the maximum time a user can upload a selfie?",
+                    "score": 0.6974,
+                    "answers": "that|mark\tHowever|advmod\t,|punct\tthe|det\tthe system|nsubj\twill|aux\ta|det\tthe|det\tthe|det\tthe user|nsubj\tto|aux\tthe|det\t,|punct\ta|det\ta maximum of|dobj\tof|prep\tper day|prep\tday|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In case you reach  attempts, the account will be permanently deleted.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that in case you reach attempts, the account will be permanently deleted?",
+                    "answer": "10/11/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to be permanently deleted?",
+                    "score": 0.7754,
+                    "answers": "permanently|advmod\tthat In case you reach   attempts , the account will be permanently deleted|ccomp"
+                },
+                {
+                    "question": "What doesldizque.com do?",
+                    "score": 0.7738,
+                    "answers": "www.eldizque.com|nsubj\ton 10/11/2015|prep\tIn case you reach|prep"
+                },
+                {
+                    "question": "What is the process used to delete an account?",
+                    "score": 0.7341,
+                    "answers": "www.eldizque.com reported on 10/11/2015 that In case you reach   attempts , the account will be permanently deleted|ROOT\tcase you reach|pobj\tyou reach|acl\tIn case you reach   attempts|dep\tattempts|dobj\tbe|auxpass"
+                },
+                {
+                    "question": "What is the relationship between an email address and a verified email address?",
+                    "score": 0.6467,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is the purpose of aldizque.com?",
+                    "score": 0.5834,
+                    "answers": "that|mark\tyou|nsubj\t,|punct\tthe|det\tthe account|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "'Facebook is trying to give users the facilities to share experiences ', said Mark Zuckerberg, owner and master of the universe (Facebook) .",
+            "question_answers": [
+                {
+                    "question": "What is Facebook trying to do?",
+                    "answer": "to give users the facilities to share experiences"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Mark Zuckerberg say about Facebook using social media?",
+                    "score": 0.791,
+                    "answers": "experiences|dobj"
+                },
+                {
+                    "question": "What is Facebook trying to give users?",
+                    "score": 0.7814,
+                    "answers": "that ' Facebook is trying to give users the facilities to share experiences|ccomp"
+                },
+                {
+                    "question": "What is the purpose of Facebook?",
+                    "score": 0.678,
+                    "answers": "to give users the facilities to share experiences|xcomp"
+                },
+                {
+                    "question": "Who is Mark Zuckerberg?",
+                    "score": 0.6322,
+                    "answers": "on 10/11/2015|prep\tthat|mark\t'|punct\tis|aux\tto|aux\tthe|det\tto|aux\t'|punct\t,|punct\twww.eldizque.com reported on 10/11/2015 that ' Facebook is trying to give users the facilities to share experiences ' , said Mark Zuckerberg , owner and master of the universe ( Facebook )|ROOT\tMark|compound\tMark Zuckerberg , owner and master of the universe ( Facebook )|nsubj\t,|punct\towner and master of the universe ( Facebook )|appos\tand|cc\tthe|det\t(|punct\t)|punct"
+                },
+                {
+                    "question": "What is the relationship between Facebook andldizque?",
+                    "score": 0.6099,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 10/11/2015 that ' Facebook is trying to give users the facilities to share experiences|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "And because Facebook put us in the painful need to take measures like this'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 10/11/2015 that Facebook put us in the painful need to take measures like this?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "Who put us in the painful need to take measures like this?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures has Facebook put in place to help combat terrorism?",
+                    "score": 0.8782,
+                    "answers": "measures like this|dobj"
+                },
+                {
+                    "question": "What measures did Facebook take to help communities?",
+                    "score": 0.859,
+                    "answers": "the painful need to take measures like this|pobj"
+                },
+                {
+                    "question": "Why did Facebook put in the painful need to take measures like this?",
+                    "score": 0.8584,
+                    "answers": "because Facebook put us in the painful need to take measures like this|advcl"
+                },
+                {
+                    "question": "What is the relationship between Facebook andldizque.com?",
+                    "score": 0.6029,
+                    "answers": "www.eldizque.com|nsubj\ton 10/11/2015|prep\tpainful|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Also mentioned was a filter of vital importance.",
+            "question_answers": [
+                {
+                    "question": "What was also mentioned by www.eldizque.com on 10/11/2015?",
+                    "answer": "a filter of vital importance"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the importance of a filter?",
+                    "score": 0.7675,
+                    "answers": "of vital importance|prep\tvital importance|pobj"
+                },
+                {
+                    "question": "What is the filter of vital importance?",
+                    "score": 0.7183,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 10/11/2015 that Also mentioned was a filter of vital importance|ROOT\ton 10/11/2015|prep\tthat|mark\tAlso|advmod\tthat Also mentioned was a filter of vital importance|parataxis\twas a filter of vital importance|agent\ta|det\ta filter of vital importance|nsubj\tvital|amod"
+                }
+            ]
+        },
+        {
+            "claim": "From now on, and to avoid deceptions, Facebook will require its users to have a full-body photograph to validate that the selfie is not tied, seeking to appear something its users are not.",
+            "question_answers": [
+                {
+                    "question": "Why will Facebook require its users to have a full-body photograph?",
+                    "answer": "to validate that the selfie is not tied, seeking to appear something its users are not"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is Facebook requiring its users to have a full-body photograph to confirm that the selfie is not tied?",
+                    "score": 0.8336,
+                    "answers": "not|neg\tnot|neg"
+                },
+                {
+                    "question": "What does Facebook require its users to do to appear something they are not tied to?",
+                    "score": 0.7364,
+                    "answers": "seeking to appear something its users are not|advcl"
+                },
+                {
+                    "question": "What is the relationship between Facebook and deceptively tied selfie?",
+                    "score": 0.6435,
+                    "answers": ", and to avoid From now on deceptions|parataxis\tFrom now on deceptions|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Similarly, Adobe has climbed onto the anti-selfie boat and is developing software to track altered photos with pirate copies of Photoshop.",
+            "question_answers": [
+                {
+                    "question": "What boat has Adobe climbed onto to develop software to track altered photos?",
+                    "answer": "anti-selfie boat"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Adobe do to develop software to track altered photos with pirate copies of Photoshop?",
+                    "score": 0.7896,
+                    "answers": "with pirate copies of Photoshop|prep"
+                },
+                {
+                    "question": "What is the anti-selfie boat program?",
+                    "score": 0.6946,
+                    "answers": "pirate copies of Photoshop|pobj"
+                },
+                {
+                    "question": "What are the features of Adobe's anti-selfie boat?",
+                    "score": 0.6853,
+                    "answers": "of Photoshop|prep"
+                },
+                {
+                    "question": "What is the relationship between Adobe and the anti-selfie boat?",
+                    "score": 0.6524,
+                    "answers": "selfie|amod"
+                },
+                {
+                    "question": "What is the name of the anti-selfie boat?",
+                    "score": 0.6491,
+                    "answers": "pirate|compound"
+                }
+            ]
+        }
+    ]
+}

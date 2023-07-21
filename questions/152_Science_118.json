@@ -1,0 +1,262 @@
+{
+    "id": "152_Science_118",
+    "claim": "Among the notifications that Facebook users have received in the last few weeks, is one that indicates that if you continue to use the social network, you accept the update of the policies of this. The text that quotes: 'By using our services from ° January, you agree to updates of our terms, data policy and cookie policy and, in addition, you agree to see enhanced ads according to the applications and sites you use. Learn more about these updates and how to control the ads you see.\"With this, the biggest fear of users, is that their images will be used to sell Coca-Cola, or that the deep thoughts they post on their wall will be collected in a self-help book authored by Yordy Rosado. However no user is aware that within the new policies of Facebook, it is found that the user will give his soul to the owners of Facebook, and that these in turn will be given to his god, Cthulhu, in order to awaken him from his lethargy. With Facebook's announced change of privacy policies, many users try to protect their privacy by posting a message on their respective walls. But this action has no official validity, as it lacks recognition by any governmental institution. And will not free them from the primordial chaos of Cthulhu's awakening. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "21/07/2015",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Among the notifications that Facebook users have received in the last few weeks, is one that indicates that if you continue to use Facebook , you accept the update of the policies of Facebook .",
+            "question_answers": [
+                {
+                    "question": "What is one of the notifications that Facebook users have received in the last few weeks that indicates that you accept the update of the policies of Facebook?",
+                    "answer": "if you continue to use Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are Facebook users able to continue using Facebook?",
+                    "score": 0.9102,
+                    "answers": "Facebook users|nsubj"
+                },
+                {
+                    "question": "How many Facebook users have received notifications in the last few weeks?",
+                    "score": 0.8412,
+                    "answers": "on 21/07/2015|prep\tAmong the notifications that Facebook users have received in the last few weeks|prep\tthe notifications that Facebook users have received in the last few weeks|pobj\tthat Facebook users have received in the last few weeks|relcl\tof Facebook|prep"
+                },
+                {
+                    "question": "What is Facebook policy on accepting an email from a friend?",
+                    "score": 0.8306,
+                    "answers": "if you continue to use Facebook|advcl"
+                },
+                {
+                    "question": "What are the benefits of using Facebook?",
+                    "score": 0.8035,
+                    "answers": "to use Facebook|xcomp"
+                },
+                {
+                    "question": "What are the Facebook policies?",
+                    "score": 0.7863,
+                    "answers": "the update of the policies of Facebook|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The text that quotes: 'By using services from ° January, you agree to updates of our terms, data policy and cookie policy and, in addition, you agree to see enhanced ads according to the applications and sites you use.",
+            "question_answers": [
+                {
+                    "question": "What do you agree to see according to the applications and sites you use?",
+                    "answer": "enhanced ads"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What services do you agree to use to see enhanced ads?",
+                    "score": 0.822,
+                    "answers": "By using services from ° January , you agree to updates of our terms , data policy and cookie policy and , in addition , you agree to see enhanced ads according to the applications and sites you use|conj"
+                },
+                {
+                    "question": "What services doesldizque.com agree to use?",
+                    "score": 0.7928,
+                    "answers": "www.eldizque.com reported on 21/07/2015 that The text that quotes : ' By using services from ° January , you agree to updates of our terms , data policy and cookie policy and , in addition , you agree to see enhanced ads according to the applications and sites you use|ROOT"
+                },
+                {
+                    "question": "What services doesldizque.com use?",
+                    "score": 0.7844,
+                    "answers": "using services from ° January|pcomp"
+                },
+                {
+                    "question": "What services doesldizque.com use to receive updates of terms, data and cookie policy?",
+                    "score": 0.776,
+                    "answers": "from ° January|prep"
+                },
+                {
+                    "question": "What doesldizque.com say about using services?",
+                    "score": 0.7218,
+                    "answers": "that quotes : '|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Learn more about updates of our terms, data policy and cookie policy and how to control the ads you see.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that we had updated our terms, data policy and cookie policy?",
+                    "answer": "21/07/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can you control ads you see?",
+                    "score": 0.8852,
+                    "answers": "how to control the ads you see|conj"
+                },
+                {
+                    "question": "What changes were made to the terms, data, and cookie policy in 2015?",
+                    "score": 0.7445,
+                    "answers": "www.eldizque.com reported on 21/07/2015 that Learn more about updates of our terms , data policy and cookie policy and how to control the ads you see|ROOT"
+                },
+                {
+                    "question": "What are the terms, data policy, and cookie policy for the ad you see?",
+                    "score": 0.6918,
+                    "answers": "www.eldizque.com|nsubj\tthe ads you see|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "\"With this, the biggest fear of users , is that images will be used to sell Coca-Cola, or that the deep thoughts users post on wall will be collected in a self-help book authored by Yordy Rosado.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 21/07/2015?",
+                    "answer": "the biggest fear of users"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the biggest fear of users using images to sell Coca-Cola?",
+                    "score": 0.8273,
+                    "answers": "images|nsubjpass"
+                },
+                {
+                    "question": "What did Yordy Rosado say about Coca Cola?",
+                    "score": 0.8178,
+                    "answers": "www.eldizque.com reported on 21/07/2015 that \" With this , the biggest fear of users , is that images will be used to sell Coca - Cola , or that the deep thoughts users post on wall will be collected in a self - help book authored by Yordy Rosado|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of Coca-Cola being used to sell?",
+                    "score": 0.8016,
+                    "answers": "to sell Coca - Cola|xcomp"
+                },
+                {
+                    "question": "What is Yordy Rosado's opinion on Coca-Cola?",
+                    "score": 0.7467,
+                    "answers": "self|compound"
+                },
+                {
+                    "question": "What is Coca-Cola?",
+                    "score": 0.7266,
+                    "answers": "Coca - Cola|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "However no user is aware that within the new policies of Facebook , it is found that the user will give soul to the owners of Facebook , and that these in turn will be given to his god, Cthulhu , in order to awaken his god, Cthulhu from lethargy.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the new Facebook policy on giving souls to users of Facebook?",
+                    "score": 0.7728,
+                    "answers": "that However no user is aware that within the new policies of Facebook , it is found that the user will give soul to the owners of Facebook , and that these in turn will be given to his god , Cthulhu , in order to awaken his god , Cthulhu from lethargy|ccomp"
+                },
+                {
+                    "question": "What is the purpose of giving souls to the owners of Facebook?",
+                    "score": 0.7082,
+                    "answers": "order to awaken his god , Cthulhu from lethargy|pobj"
+                },
+                {
+                    "question": "What are the new policies of Facebook?",
+                    "score": 0.68,
+                    "answers": "the new policies of Facebook|pobj"
+                },
+                {
+                    "question": "What is the definition of lethargy?",
+                    "score": 0.6438,
+                    "answers": "lethargy|pobj"
+                },
+                {
+                    "question": "What is the relationship between Facebook andldizque.com?",
+                    "score": 0.576,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "With Facebook announced change of privacy policies, many users try to protect privacy by posting a message on respective walls.",
+            "question_answers": [
+                {
+                    "question": "How do many users try to protect privacy?",
+                    "answer": "by posting a message on respective walls"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Facebook do to protect privacy?",
+                    "score": 0.84,
+                    "answers": "that|mark\tWith|mark\tchange of privacy policies|dobj\tprivacy|compound\t,|punct\tto|aux\tprivacy|dobj\ton respective walls|prep\trespective|amod\trespective walls|pobj"
+                },
+                {
+                    "question": "How many users try to protect privacy by posting messages on their walls?",
+                    "score": 0.8076,
+                    "answers": "www.eldizque.com reported on 21/07/2015 that With Facebook announced change of privacy policies , many users try to protect privacy by posting a message on respective walls|ROOT\tmany|amod"
+                },
+                {
+                    "question": "What are Facebook's privacy policies?",
+                    "score": 0.7998,
+                    "answers": "With Facebook announced change of privacy policies|advcl\tto protect privacy by posting a message on respective walls|xcomp\tby posting a message on respective walls|prep\tposting a message on respective walls|pcomp"
+                },
+                {
+                    "question": "What are the privacy policies of Facebook?",
+                    "score": 0.7467,
+                    "answers": "www.eldizque.com|nsubj\tof privacy policies|prep\tprivacy policies|pobj\tmany users|nsubj\tthat With Facebook announced change of privacy policies , many users try to protect privacy by posting a message on respective walls|ccomp"
+                },
+                {
+                    "question": "What are the best ways to protect privacy?",
+                    "score": 0.7281,
+                    "answers": "a|det\ta message|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "But posting has no official validity, as posting lacks recognition by any governmental institution.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that posting has no official validity?",
+                    "answer": "21/07/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the claims that posting has no official validity?",
+                    "score": 0.8176,
+                    "answers": "that|mark\tofficial|amod\t,|punct\tas|mark"
+                },
+                {
+                    "question": "What is the relationship between posting and government organizations?",
+                    "score": 0.8123,
+                    "answers": "recognition by any governmental institution|dobj"
+                },
+                {
+                    "question": "What does the website \"eldizque.com\" say about posting?",
+                    "score": 0.7969,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And will not free many users from the primordial chaos of his god, Cthulhu awakening.",
+            "question_answers": [
+                {
+                    "question": "Who is the god ofeldizque?",
+                    "answer": "Cthulhu"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many users will the primordial chaos of his god, Cthulhu awakening generate?",
+                    "score": 0.8121,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is the purpose of the Cthulhu awakening?",
+                    "score": 0.7184,
+                    "answers": "Cthulhu awakening|appos"
+                },
+                {
+                    "question": "What is the name of the god of Cthulhu?",
+                    "score": 0.7123,
+                    "answers": "of his god , Cthulhu awakening|prep\this god , Cthulhu awakening|pobj"
+                }
+            ]
+        }
+    ]
+}

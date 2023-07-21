@@ -1,0 +1,329 @@
+{
+    "id": "84_Education_3",
+    "claim": "Mexico. - The director of the Ministry of Public Education, Aurelio Nuño, reported that the playwright and conductor Yordi Rosado will be in charge of writing the new textbooks that are distributed in all schools in the country, and that from the next school cycle they will cease to be free and will have a cost. Aurelio points out that he decided to hire Yordi to write the manuals in order to make 'texts more attractive 'and that students are more interested in learning, so that the books will no longer have a boring language and will be presented with a 'fresher, youthful and modern 'language: 'Unfortunately, the government no longer has the resources to continue giving the books away, so from the next school year parents will have to make a small sacrifice and pay a small amount so that their children can continue learning. It's really symbolic, every book will cost only USD pesitos, it's a very low price if we keep in mind that with this children will be able to forge a future. We decided to hire Rosado because we wanted to make quality books, which were attractive to the new generations ', he said, Nuño mentions that the driver will explain to the students the subjects of mathematics, history, geography, Spanish ', and other subjects, in a more cheerful and jocoso language to make learning more enjoyable: 'We want children to come home and open their textbooks gladly instead of being bored by browsing them. What ondux with mathematics?, will be the math copy, what pex with the spanish?, will be the edition for Spanish. Each text will be written in an attractive way and will have very many drawings and illustrations designed by Rosado himself ', he commented. The director mentions that Yordi will write the primary, secondary and high school books: 'he mastered the language of teenagers, preteens and children very well. He really did a very big research job to understand and master perfectly the language of the new generations, the students will definitely enjoy the texts and will identify with the youth language. Rosado respected the contents without altering them but managed to convert them to the language of the chaviza, until I am already big I got bitten reading them, the net are very stupid ', the director pointed out laughing. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "06/05/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Mexico .",
+            "question_answers": [
+                {
+                    "question": "When did elruinaversal.com report that Mexico's economy was in decline?",
+                    "answer": "06/05/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the location of Mexico in 2018?",
+                    "score": 0.7687,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What is the relationship between Mexico and the United States?",
+                    "score": 0.7264,
+                    "answers": "that Mexico|npadvmod"
+                }
+            ]
+        },
+        {
+            "claim": "- The director of the Ministry of Public Education, Aurelio Nuño , reported that the playwright and conductor Yordi Rosado will be in charge of writing the new textbooks that are distributed in all schools in the country , and that from the next school cycle the new textbooks that are distributed in all schools in the country will cease to be free and will have a cost.",
+            "question_answers": [
+                {
+                    "question": "What did the director of the Ministry of Public Education say about the playwright and conductor?",
+                    "answer": "Yordi Rosado will be in charge of writing the new textbooks that are distributed in all schools in the country"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many textbooks will be distributed in the next school cycle?",
+                    "score": 0.7519,
+                    "answers": "www.elruinaversal.com|nsubj\ton 06/05/2018|prep\tthat|mark\t-|punct\tThe|det\tthe|det\tof Public Education|prep\tPublic|compound\tPublic Education|pobj\t,|punct\t,|punct\tthat - The director of the Ministry of Public Education , Aurelio Nuño , reported that the playwright and conductor Yordi Rosado will be in charge of writing the new textbooks that are distributed in all schools in the country , and that from the next school cycle the new textbooks that are distributed in all schools in the country will cease to be free and will have a cost|ccomp\tthat|mark\tthe|det\tand|cc\twill|aux\tof writing the new textbooks that are distributed in all schools in the country|prep\twriting the new textbooks that are distributed in all schools in the country|pcomp\tthe|det\tnew|amod\tthe new textbooks that are distributed in all schools in the country|dobj\tthat|nsubjpass\tare|auxpass\tthat are distributed in all schools in the country|relcl\tin all schools in the country|prep\tall|det\tall schools in the country|pobj\tthe|det\tthe country|pobj\t,|punct\tand|cc\tthat|mark\tthe|det\tnext|amod\tschool|compound\tthe next school cycle|pobj\tthe|det\tnew|amod\tthe new textbooks that are distributed in all schools in the country|nsubj\tthat|nsubjpass\tare|auxpass\tthat are distributed in all schools in the country|relcl\tin all schools in the country|prep\tall|det\tall schools in the country|pobj\tthe|det\tthe country|pobj\twill|aux\tto|aux\tfree|acomp\tand|cc\twill|aux\ta|det"
+                },
+                {
+                    "question": "What is Yordi Rosado's role in writing textbooks?",
+                    "score": 0.7443,
+                    "answers": "that the playwright and conductor Yordi Rosado will be in charge of writing the new textbooks that are distributed in all schools in the country , and that from the next school cycle the new textbooks that are distributed in all schools in the country will cease to be free and will have a cost|advcl\tin charge of writing the new textbooks that are distributed in all schools in the country|prep\tcharge of writing the new textbooks that are distributed in all schools in the country|pobj"
+                },
+                {
+                    "question": "What is the cost of the new textbooks that are distributed in all schools in the country?",
+                    "score": 0.7321,
+                    "answers": "www.elruinaversal.com reported on 06/05/2018 that - The director of the Ministry of Public Education , Aurelio Nuño , reported that the playwright and conductor Yordi Rosado will be in charge of writing the new textbooks that are distributed in all schools in the country , and that from the next school cycle the new textbooks that are distributed in all schools in the country will cease to be free and will have a cost|ROOT\twill have a cost|conj"
+                },
+                {
+                    "question": "Who is the director of the Ministry of Public Education?",
+                    "score": 0.6903,
+                    "answers": "The director of the Ministry of Public Education , Aurelio Nuño|nsubj"
+                },
+                {
+                    "question": "Who is Yordi Rosado?",
+                    "score": 0.6713,
+                    "answers": "the playwright and conductor Yordi Rosado|nsubj\tconductor|conj\tYordi|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The director of the Ministry of Public Education, Aurelio Nuño points out that The director of the Ministry of Public Education, Aurelio Nuño decided to hire the playwright and conductor Yordi Rosado to write the manuals in order to make 'texts more attractive 'and that students are more interested in learning, so that the new textbooks that are distributed in all schools in the country will no longer have a boring language and will be presented with a 'fresher, youthful and modern 'language: 'Unfortunately, Mexico no longer has the resources to continue giving the new textbooks that are distributed in all schools in the country away, so from the next school year parents will have to make a small sacrifice and pay a small amount so that children can continue learning.",
+            "question_answers": [
+                {
+                    "question": "Why did the director of the Ministry of Public Education hire Yordi Rosado to write the manuals?",
+                    "answer": "to make 'texts more attractive"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did parents have to make to continue learning?",
+                    "score": 0.7844,
+                    "answers": "to make a small sacrifice and pay a small amount so that children can continue learning|xcomp"
+                },
+                {
+                    "question": "How many textbooks were distributed in all schools in the country in 2018?",
+                    "score": 0.782,
+                    "answers": "the new textbooks that are distributed in all schools in the country|nsubj\tthe new textbooks that are distributed in all schools in the country|dobj\taway|advmod"
+                },
+                {
+                    "question": "How many textbooks will be distributed in the next school year?",
+                    "score": 0.773,
+                    "answers": "in learning|prep\tmodern '|conj"
+                },
+                {
+                    "question": "What did the director of the Ministry of Public Education say about Yordi Rosado?",
+                    "score": 0.7544,
+                    "answers": "www.elruinaversal.com|nsubj\tthat The director of the Ministry of Public Education , Aurelio Nuño decided to hire the playwright and conductor Yordi Rosado to write the manuals in order to make ' texts more attractive ' and that students are more interested in learning , so that the new textbooks that are distributed in all schools in the country will no longer have a boring language and will be presented with a ' fresher , youthful and modern ' language|ccomp\tto hire the playwright and conductor Yordi Rosado to write the manuals in order to make ' texts more attractive ' and that students are more interested in learning , so that the new textbooks that are distributed in all schools in the country will no longer have a boring language and will be presented with a ' fresher , youthful and modern ' language|xcomp\ta ' fresher , youthful and modern ' language|pobj"
+                },
+                {
+                    "question": "How many textbooks are available in Mexico?",
+                    "score": 0.7295,
+                    "answers": ": ' Unfortunately , Mexico no longer has the resources to continue giving the new textbooks that are distributed in all schools in the country away ,|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It's really symbolic, every book will cost only USD pesitos , only USD pesitos 's a very low price if we keep in mind that with only USD pesitos children will be able to forge a future.",
+            "question_answers": [
+                {
+                    "question": "How much will a book cost?",
+                    "answer": "USD pesitos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will it cost to forge a future?",
+                    "score": 0.8709,
+                    "answers": "www.elruinaversal.com|nsubj\ton 06/05/2018|prep\tevery|det\twill|aux\tthat It 's really symbolic , every book will cost only USD pesitos , only USD pesitos 's a very low price if we keep in mind that with only USD pesitos children will be able to forge a future|ccomp\ta|det\tif|mark\twe|nsubj\tif we keep in mind that with only USD pesitos children will be able to forge a future|advcl\tmind|pobj\twith only USD pesitos|prep\tchildren|nsubj\twill|aux\tthat with only USD pesitos children will be able to forge a future|ccomp\table to forge a future|acomp\tto|aux\tto forge a future|xcomp\ta|det"
+                },
+                {
+                    "question": "What is the average cost of a book?",
+                    "score": 0.8427,
+                    "answers": "It|nsubj\tevery book will cost only USD pesitos|ccomp"
+                },
+                {
+                    "question": "What is the cost of every book?",
+                    "score": 0.8255,
+                    "answers": "every book|nsubj"
+                },
+                {
+                    "question": "What does it mean to be symbolic?",
+                    "score": 0.8177,
+                    "answers": "It 's really symbolic|ccomp\treally symbolic|acomp"
+                },
+                {
+                    "question": "What is the difference between a book and a book?",
+                    "score": 0.7935,
+                    "answers": "very low|amod\tin mind|prep"
+                }
+            ]
+        },
+        {
+            "claim": "the Ministry of Public Education decided to hire the playwright and conductor Yordi Rosado because the Ministry of Public Education wanted to make quality books, which were attractive to the new generations ', The director of the Ministry of Public Education, Aurelio Nuño said, The director of the Ministry of Public Education, Aurelio Nuño mentions that the driver will explain to the students the subjects of mathematics, history, geography, Spanish ', and other subjects, in a more cheerful and jocoso language to make learning more enjoyable: 'We want children to come home and open their textbooks gladly instead of being bored by browsing their textbooks .",
+            "question_answers": [
+                {
+                    "question": "Why did the Ministry of Public Education hire Yordi Rosado?",
+                    "answer": "because the Ministry of Public Education wanted to make quality books, which were attractive to the new generations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the Ministry of Public Education hire the playwright and conductor Yordi Rosado?",
+                    "score": 0.8221,
+                    "answers": "quality books , which were attractive to the new generations|dobj\twhich were attractive to the new generations|relcl"
+                },
+                {
+                    "question": "Who is Yordi Rosado?",
+                    "score": 0.7191,
+                    "answers": "the playwright and conductor Yordi Rosado|dobj\tYordi|compound"
+                }
+            ]
+        },
+        {
+            "claim": "What ondux with mathematics?, will be the math copy, what pex with the spanish?, will be the edition for Spanish.",
+            "question_answers": [
+                {
+                    "question": "When did www.elruinaversal.com report that what ondux with mathematics?",
+                    "answer": "06/05/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the math copy of mathematics with spanish?",
+                    "score": 0.783,
+                    "answers": "What|det\twhat|det"
+                },
+                {
+                    "question": "What is mathematics?",
+                    "score": 0.7726,
+                    "answers": "with mathematics|prep\tmathematics|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the math that pex with spanish will be the edition for Spanish?",
+                    "score": 0.7704,
+                    "answers": "on 06/05/2018|prep"
+                },
+                {
+                    "question": "What is math?",
+                    "score": 0.765,
+                    "answers": "math|compound"
+                },
+                {
+                    "question": "What is pex with spanish?",
+                    "score": 0.7607,
+                    "answers": "www.elruinaversal.com reported on 06/05/2018 that What ondux with mathematics ? , will be the math copy , what pex with the spanish ? , will be the edition for Spanish|ROOT\tthe math copy|attr\twhat pex|dep\tthat What ondux with mathematics ? , will be the math copy , what pex with the spanish ? , will be the edition for Spanish|ccomp\tthe edition for Spanish|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Each text will be written in an attractive way and will have very many drawings and illustrations designed by Rosado himself ', he commented.",
+            "question_answers": [
+                {
+                    "question": "Who designed the illustrations for each text?",
+                    "answer": "Rosado himself"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will each text be written in an attractive way?",
+                    "score": 0.8825,
+                    "answers": "Each text|nsubjpass"
+                },
+                {
+                    "question": "How many illustrations will each text have?",
+                    "score": 0.8518,
+                    "answers": "Each|det"
+                },
+                {
+                    "question": "What is Rosado's style of painting?",
+                    "score": 0.7833,
+                    "answers": "www.elruinaversal.com reported on 06/05/2018 that Each text will be written in an attractive way and will have very many drawings and illustrations designed by Rosado himself|ccomp\ton 06/05/2018|prep\tin an attractive way|prep\tan attractive way|pobj\twill have very many drawings and illustrations designed by Rosado himself|conj\tvery many drawings and illustrations designed by Rosado himself|dobj\thimself|appos\the|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of Rosado's paintings?",
+                    "score": 0.7521,
+                    "answers": "www.elruinaversal.com|nsubj"
+                },
+                {
+                    "question": "Who is Rosado?",
+                    "score": 0.7115,
+                    "answers": "designed by Rosado himself|acl\tby Rosado himself|agent\tRosado himself|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The director mentions that Yordi will write the primary, secondary and high school books: 'he mastered the language of teenagers, preteens and children very well.",
+            "question_answers": [
+                {
+                    "question": "Who will write the primary, secondary and high school books?",
+                    "answer": "Yordi"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What languages does Yordi write?",
+                    "score": 0.8986,
+                    "answers": "he|nsubj"
+                },
+                {
+                    "question": "What books did Yordi write in primary, secondary, and high school?",
+                    "score": 0.8972,
+                    "answers": "Yordi will write the primary , secondary and high school books|ccomp"
+                },
+                {
+                    "question": "What language does Yordi speak?",
+                    "score": 0.8798,
+                    "answers": "www.elruinaversal.com reported on 06/05/2018 that The director mentions that Yordi will write the primary , secondary and high school books : ' he mastered the language of teenagers , preteens and children very well|ROOT\tthe language of teenagers , preteens and children|dobj\tteenagers , preteens and children|pobj\tpreteens and children|conj"
+                },
+                {
+                    "question": "What language did Yordi teach in primary, secondary and high school books?",
+                    "score": 0.8772,
+                    "answers": "on 06/05/2018|prep"
+                },
+                {
+                    "question": "How many books has Yordi written?",
+                    "score": 0.86,
+                    "answers": "The|det\tprimary , secondary and high|amod\tprimary , secondary and high school|compound"
+                }
+            ]
+        },
+        {
+            "claim": "He really did a very big research job to understand and master perfectly the language of the new generations, the students will definitely enjoy the texts and will identify with the youth language.",
+            "question_answers": [
+                {
+                    "question": "When did Elruinaversal report that he did a big research job to understand and master the language of the new generations?",
+                    "answer": "06/05/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many research jobs did Obama do to understand and master perfectly the language of new generations?",
+                    "score": 0.8358,
+                    "answers": "research|compound"
+                },
+                {
+                    "question": "What is the research job done by Gov. John Kitzhaber?",
+                    "score": 0.7137,
+                    "answers": "a very big research job|dobj"
+                },
+                {
+                    "question": "How many students will identify with the language of the new generations?",
+                    "score": 0.7059,
+                    "answers": "that|mark\tHe|nsubj\treally|advmod\ta|det\tvery|advmod\tto|aux\tand|cc\tthe|det\tthe|det\t,|punct\tthe|det\tthe students|nsubj\twill|aux\tdefinitely|advmod\tthe|det\tand|cc\twill|aux\tthe|det"
+                },
+                {
+                    "question": "What was the purpose of the research done by the University of Florida in 2018?",
+                    "score": 0.6814,
+                    "answers": "to understand and master perfectly the language of the new generations|advcl"
+                },
+                {
+                    "question": "What is the history of student learning in Africa?",
+                    "score": 0.6679,
+                    "answers": "master perfectly the language of the new generations|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Rosado respected the contents without altering them but managed to convert them to the language of the chaviza, until I am already big I got bitten reading them, the net are very stupid ', the director pointed out laughing.",
+            "question_answers": [
+                {
+                    "question": "What did Rosado say about the internet?",
+                    "answer": "the net are very stupid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did Rosado understand the contents of the chaviza?",
+                    "score": 0.822,
+                    "answers": "the net are very stupid|ccomp"
+                },
+                {
+                    "question": "What did Rosado do with the chaviza?",
+                    "score": 0.7677,
+                    "answers": "that|mark\tthe|det\tthem|dobj\tbut|cc\tto|aux\tthem|dobj\tthe|det\tthe|det\t,|punct\tI|nsubj\talready|advmod\tbig|acomp\tI|nsubjpass\tgot|auxpass\tthem|dobj\t,|punct\tthe|det\tvery|advmod\tvery stupid|acomp\t'|punct\t,|punct\tthe|det\tout|prt"
+                },
+                {
+                    "question": "What is the language of the chaviza?",
+                    "score": 0.6388,
+                    "answers": "managed to convert them to the language of the chaviza|conj\tto the language of the chaviza|prep\tof the chaviza|prep\tthe chaviza|pobj\twww.elruinaversal.com reported on 06/05/2018 that Rosado respected the contents without altering them but managed to convert them to the language of the chaviza , until I am already big I got bitten reading them , the net are very stupid ' , the director pointed out laughing|ROOT"
+                }
+            ]
+        }
+    ]
+}

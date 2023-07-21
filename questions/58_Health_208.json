@@ -1,0 +1,355 @@
+{
+    "id": "58_Health_208",
+    "claim": "Pubic hair has a protective function that is to maintain the adequate Ph of the skin, which allows bacterial microorganisms not to develop, recalled the dermatologist, Rosario García Salazar. The tendency to wax the genital area for aesthetic and hygiene reasons has increased in young people between the  and  years of age, however, such a practice could increase the risk of contracting Sexually Transmitted Diseases (STDs), alerted the dermatologist, Rosario García Salazar. The member of the Mexican Foundation for Dermatology (FMD), commented that the hair removal of the pubic area consists of eliminating in a total or partial way the hair of the intimate areas (female or male). However, he said that pubic hair has a protective function that is to maintain the proper Ph of the skin, which allows bacterial microorganisms not to develop, in addition to covering the area of friction with garments. The skin specialist explained that this hair removal alters the skin barrier, which causes small traumas to the skin and predisposes to contracting microorganisms that infect the area. In a statement from the agency Communication more content, he added that it is even estimated that  percent of women who wax have experienced at least one health complication. García Salazar warned that the risk of contracting STDs due to this practice has increased, because open cuts or follicles increase the possibility of transmission of infections such as condylomas (wrinkles or papillomas), as well as irritation or some type of allergic reaction. In turn, the dermatologist Jose Manuel Díaz González pointed out that the most frequent effects are irritation, abrasion of the area, cuts or dermatitis. But he said that only four percent of the women and men who waxed turn to the doctor for a complication related to hair removal, whether it was done with wax, rake, laser or tearing out hair. 'The skin of the intimate area is very delicate and the necessary measures and care must be taken to avoid complications. In addition, family members should seek to provide information on sex education to their children, especially on the risks of practices such as genital hair removal and to take them with a specialist to any signs of discomfort ', advised the specialist. For its part, the Mexican Foundation for Dermatology recommended genital hair removal in establishments with high standards of hygiene and quality, as well as follow up with specialists in dermatology for advice on skin care after hair removal. I'm sorry.",
+    "source": "www.mvsnoticias.com",
+    "date": "21/06/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Pubic hair has a protective function that is to maintain the adequate Ph of the skin, which allows bacterial microorganisms not to develop, recalled the dermatologist, Rosario García Salazar .",
+            "question_answers": [
+                {
+                    "question": "What does Pubic hair allow to not develop?",
+                    "answer": "bacterial microorganisms"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of bacteria can develop?",
+                    "score": 0.7607,
+                    "answers": "bacterial microorganisms|nsubj"
+                },
+                {
+                    "question": "What is Rosario Garcia Salazar's role in protecting hair?",
+                    "score": 0.7271,
+                    "answers": "that Pubic hair has a protective function that is to maintain the adequate Ph of the skin , which allows bacterial microorganisms not to develop|ccomp\tprotective|amod\ta protective function that is to maintain the adequate Ph of the skin , which allows bacterial microorganisms not to develop|dobj"
+                },
+                {
+                    "question": "What does it mean to maintain an adequate ph of the skin?",
+                    "score": 0.7237,
+                    "answers": "www.mvsnoticias.com reported on 21/06/2023 that Pubic hair has a protective function that is to maintain the adequate Ph of the skin , which allows bacterial microorganisms not to develop|ccomp\tthat is to maintain the adequate Ph of the skin|relcl"
+                },
+                {
+                    "question": "What does mvsnoticias.com do?",
+                    "score": 0.6454,
+                    "answers": "www.mvsnoticias.com|nsubj"
+                },
+                {
+                    "question": "Who is Rosario Garcia Salazar?",
+                    "score": 0.6257,
+                    "answers": "the dermatologist , Rosario García Salazar|nsubj\tRosario|compound\tGarcía|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The tendency to wax the genital area for aesthetic and hygiene reasons has increased in young people between the  and  years of age, however, such a practice could increase the risk of contracting Sexually Transmitted Diseases (STDs), alerted the dermatologist, Rosario García Salazar .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to wax the genital area?",
+                    "score": 0.6232,
+                    "answers": "to wax the genital area for aesthetic and hygiene reasons|acl"
+                },
+                {
+                    "question": "What is the risk of contracting sexually transmitted diseases?",
+                    "score": 0.5973,
+                    "answers": "the risk of contracting Sexually Transmitted Diseases ( STDs|dobj"
+                },
+                {
+                    "question": "What is Rosario Garcia Salazar's position on the practice of waxing genital area?",
+                    "score": 0.5859,
+                    "answers": "that|mark\tThe|det\tto|aux\tthe|det\tfor aesthetic and hygiene reasons|prep\tand|cc\thas|aux\tyoung|amod\tand|cc\tyears of age|dobj\t,|punct\thowever|advmod\t,|punct\tthe|det\t(|punct\t)|punct\t,|punct\twww.mvsnoticias.com reported on 21/06/2023 that The tendency to wax the genital area for aesthetic and hygiene reasons has increased in young people between the   and   years of age , however , such a practice could increase the risk of contracting Sexually Transmitted Diseases ( STDs ) , alerted the dermatologist , Rosario García Salazar|ROOT\tthe|det\t,|punct\tGarcía|compound"
+                },
+                {
+                    "question": "What are the symptoms of sexually transmitted diseases?",
+                    "score": 0.5822,
+                    "answers": "of contracting Sexually Transmitted Diseases ( STDs|prep\tcontracting Sexually Transmitted Diseases ( STDs|pcomp"
+                },
+                {
+                    "question": "What is Sexually Transmitted Diseases (STD)?",
+                    "score": 0.5689,
+                    "answers": "Sexually Transmitted Diseases ( STDs|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "the dermatologist, Rosario García Salazar , commented that the hair removal of the pubic area consists of eliminating in a total or partial way the hair of the intimate areas (female or male).",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Rosario Garcia Salazar say about hair removal?",
+                    "score": 0.7006,
+                    "answers": ",|punct\t,|punct\t(|punct"
+                },
+                {
+                    "question": "What is the process used to remove hair?",
+                    "score": 0.6014,
+                    "answers": "the hair removal of the pubic area|nsubj\tof the intimate areas ( female or male )|prep"
+                },
+                {
+                    "question": "What is Rosario Garcia Salazar's stance on hair removal?",
+                    "score": 0.5985,
+                    "answers": "on 21/06/2023|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Rosario Garcia Salazar's comments on hair removal?",
+                    "score": 0.5861,
+                    "answers": "www.mvsnoticias.com|nsubj\tGarcía|compound"
+                },
+                {
+                    "question": "Who is Rosario Garcia Salazar?",
+                    "score": 0.546,
+                    "answers": "the dermatologist , Rosario García Salazar|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, the dermatologist, Rosario García Salazar said that pubic hair has a protective function that is to maintain the proper Ph of the skin, which allows bacterial microorganisms not to develop, in addition to covering the area of friction with garments.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the properties of pubic hair?",
+                    "score": 0.7313,
+                    "answers": "pubic|amod\tpubic hair|nsubj"
+                },
+                {
+                    "question": "What is Rosario Garcia Salazar's opinion on pubic hair?",
+                    "score": 0.6994,
+                    "answers": "on 21/06/2023|prep\tRosario|compound"
+                },
+                {
+                    "question": "What does it mean to develop bacteria?",
+                    "score": 0.6834,
+                    "answers": "bacterial microorganisms not to develop|ccomp"
+                },
+                {
+                    "question": "What is the function of hair to prevent friction with garments?",
+                    "score": 0.6647,
+                    "answers": "to covering the area of friction with garments|prep"
+                },
+                {
+                    "question": "What is the area of friction with garments?",
+                    "score": 0.6377,
+                    "answers": "the area of friction with garments|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "the dermatologist, Rosario García Salazar explained that the hair removal of the pubic area alters the skin barrier, which causes small traumas to the skin and predisposes to contracting microorganisms that infect the area.",
+            "question_answers": [
+                {
+                    "question": "What does the alteration of the skin barrier cause?",
+                    "answer": "small traumas to the skin"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How does removing hair from the pubic area affect the skin barrier?",
+                    "score": 0.8355,
+                    "answers": "of the pubic area|prep\tpubic|amod\tthe pubic area|pobj\tthe skin barrier , which causes small traumas to the skin and predisposes to contracting microorganisms that infect the area|dobj\twhich causes small traumas to the skin and predisposes to contracting microorganisms that infect the area|relcl\tto the skin|prep\tthe skin|pobj\tthe area|dobj"
+                },
+                {
+                    "question": "What did Rosario Garcia Salazar say about hair removal?",
+                    "score": 0.7612,
+                    "answers": "www.mvsnoticias.com|nsubj\twww.mvsnoticias.com reported on 21/06/2023 that the dermatologist , Rosario García Salazar explained that the hair removal of the pubic area alters the skin barrier , which causes small traumas to the skin and predisposes to contracting microorganisms that infect the area|ROOT\ton 21/06/2023|prep\t,|punct\t,|punct\twhich|nsubj\tand|cc"
+                },
+                {
+                    "question": "What does hair removal of the pubic area do to the skin barrier?",
+                    "score": 0.7405,
+                    "answers": "that the dermatologist , Rosario García Salazar explained that the hair removal of the pubic area alters the skin barrier , which causes small traumas to the skin and predisposes to contracting microorganisms that infect the area|ccomp\tthat the hair removal of the pubic area alters the skin barrier , which causes small traumas to the skin and predisposes to contracting microorganisms that infect the area|ccomp"
+                },
+                {
+                    "question": "What are the effects of hair removal on the pubic area?",
+                    "score": 0.7015,
+                    "answers": "that|mark\tthat|mark\tthat|nsubj"
+                },
+                {
+                    "question": "What are the microorganisms that infect the skin barrier?",
+                    "score": 0.6789,
+                    "answers": "contracting microorganisms that infect the area|pcomp\tmicroorganisms that infect the area|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In a statement from the agency Communication more content, the dermatologist, Rosario García Salazar added that it is even estimated that  percent of women who wax have experienced at least one health complication.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What percentage of women who wax have experienced at least one health complication?",
+                    "score": 0.7653,
+                    "answers": "www.mvsnoticias.com|nsubj\ton 21/06/2023|prep\tthat|mark\ta|det\tthe|det\tmore|amod\t,|punct\tthe|det\t,|punct\tGarcía|compound\tthat|mark\tit|nsubjpass\tis|auxpass\teven|advmod\tthat it is even estimated|ccomp\tthat|mark\tpercent of women who wax|nsubj\tof women who wax|prep\twomen who wax|pobj\twho|nsubj\twho wax|relcl\thave|aux\tpercent of women who wax have experienced at least one health complication|advcl\tat|advmod\tat least|advmod\thealth|compound\tat least one health complication|dobj"
+                },
+                {
+                    "question": "What did Rosario Garcia Salazar say about communication?",
+                    "score": 0.7591,
+                    "answers": "Communication more content|prep"
+                },
+                {
+                    "question": "What did Rosario García Salazar say about the study?",
+                    "score": 0.7444,
+                    "answers": "In a statement from the agency Communication more content|prep"
+                },
+                {
+                    "question": "What is Rosario Garcia Salazar's stance on vaccines?",
+                    "score": 0.7202,
+                    "answers": "the agency|pobj"
+                },
+                {
+                    "question": "Who is Rosario Garcia Salazar?",
+                    "score": 0.6521,
+                    "answers": "the dermatologist , Rosario García Salazar|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the dermatologist, Rosario García Salazar warned that the risk of contracting STDs due to the hair removal of the pubic area has increased, because open cuts or follicles increase the possibility of transmission of infections such as condylomas (wrinkles or papillomas), as well as irritation or some type of allergic reaction.",
+            "question_answers": [
+                {
+                    "question": "What increases the possibility of transmission of infections such as condylomas or papillomas?",
+                    "answer": "open cuts or follicles"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the risk of contracting STDs due to hair removal?",
+                    "score": 0.7099,
+                    "answers": "www.mvsnoticias.com|nsubj\ton 21/06/2023|prep\tthat|mark\tthe|det\t,|punct\tRosario|compound\tGarcía|compound\tthat the dermatologist , Rosario García Salazar warned that the risk of contracting STDs due to the hair removal of the pubic area has increased , because open cuts or follicles increase the possibility of transmission of infections such as condylomas ( wrinkles or papillomas ) , as well as irritation or some type of allergic reaction|ccomp\tthat|mark\tthe|det\tthe risk of contracting STDs due to the hair removal of the pubic area|nsubj\tof contracting STDs due to the hair removal of the pubic area|prep\tcontracting STDs due to the hair removal of the pubic area|pcomp\tSTDs|dobj\tdue to the hair removal of the pubic area|prep\tto|pcomp\tthe|det\thair|compound\tthe hair removal of the pubic area|pobj\tof the pubic area|prep\tthe|det\tpubic|amod\tthe pubic area|pobj\thas|aux\tthat the risk of contracting STDs due to the hair removal of the pubic area has increased , because open cuts or follicles increase the possibility of transmission of infections such as condylomas ( wrinkles or papillomas ) , as well as irritation or some type of allergic reaction|ccomp\t,|punct\tbecause|mark\topen|amod\topen cuts or follicles|nsubj\tor|cc\tfollicles|conj\tthe|det\tthe possibility of transmission of infections such as condylomas ( wrinkles or papillomas ) ,|dobj\tof transmission of infections such as condylomas ( wrinkles or papillomas ) ,|prep\tsuch|amod\tsuch as condylomas ( wrinkles or papillomas ) ,|prep\tcondylomas ( wrinkles or papillomas ) ,|pobj\t(|punct\twrinkles or papillomas|appos\tor|cc\t)|punct\t,|punct\tas|advmod\twell|advmod\tas well as|cc\tirritation or some type of allergic reaction|conj\tor|cc\tsome|det\tsome type of allergic reaction|conj\tof allergic reaction|prep\tallergic|amod\tallergic reaction|pobj"
+                },
+                {
+                    "question": "What is the relationship between open cuts and papillomas?",
+                    "score": 0.608,
+                    "answers": "papillomas|conj"
+                },
+                {
+                    "question": "Who is Rosario Garcia Salazar?",
+                    "score": 0.5581,
+                    "answers": "the dermatologist , Rosario García Salazar|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In turn, the dermatologist Jose Manuel Díaz González pointed out that the most frequent effects are irritation, abrasion of the area, cuts or dermatitis.",
+            "question_answers": [
+                {
+                    "question": "What is the profession of Jose Manuel Daz González?",
+                    "answer": "dermatologist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the most frequent effects of dermatitis?",
+                    "score": 0.7654,
+                    "answers": "that the most frequent effects are irritation , abrasion of the area , cuts or dermatitis|ccomp\tcuts or dermatitis|conj\tdermatitis|conj"
+                },
+                {
+                    "question": "Who is Jose Manuel Díaz González?",
+                    "score": 0.719,
+                    "answers": "the dermatologist Jose Manuel Díaz González|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But he said that only four percent of the women and men who waxed turn to the doctor for a complication related to hair removal, whether it was done with wax, rake, laser or tearing out hair.",
+            "question_answers": [
+                {
+                    "question": "When did www.mvsnoticias.com report that only four percent of women and men turn to the doctor for a complication related to hair removal?",
+                    "answer": "21/06/2023"
+                },
+                {
+                    "question": "What percentage of women and men who waxed turn to the doctor for a complication related to hair removal?",
+                    "answer": "four percent"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of women and men who waxed turn to the doctor for a complication related to hair removal?",
+                    "score": 0.6957,
+                    "answers": "www.mvsnoticias.com|nsubj\tBut|cc\the|nsubj\tonly|advmod\tonly four percent of the women and men who waxed|nsubj\tmen|conj\twho|nsubj\twho waxed|relcl\tto the doctor|prep\tthe doctor|pobj\twas|auxpass"
+                },
+                {
+                    "question": "What is the relationship between wax and hair removal?",
+                    "score": 0.6015,
+                    "answers": "related to hair removal|acl"
+                }
+            ]
+        },
+        {
+            "claim": "'The skin of the intimate area is very delicate and the necessary measures and care must be taken to avoid complications.",
+            "question_answers": [
+                {
+                    "question": "What is the skin of the intimate area considered to be?",
+                    "answer": "delicate"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How is the skin of the intimate area of the body delicate?",
+                    "score": 0.777,
+                    "answers": "very delicate|acomp"
+                },
+                {
+                    "question": "What measures must be taken to avoid complications?",
+                    "score": 0.7472,
+                    "answers": "the necessary measures and care must be taken to avoid complications|conj"
+                },
+                {
+                    "question": "What is mvsnoticias.com?",
+                    "score": 0.5333,
+                    "answers": "www.mvsnoticias.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, family members should seek to provide information on sex education to their children, especially on the risks of practices such as genital hair removal and to take them with a specialist to any signs of discomfort ', advised the specialist.",
+            "question_answers": [
+                {
+                    "question": "What should family members do to protect their children from practices such as genital hair removal?",
+                    "answer": "to take them with a specialist to any signs of discomfort"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Should family members seek information on sex education to their children?",
+                    "score": 0.8097,
+                    "answers": "should|aux"
+                },
+                {
+                    "question": "What are the risks of practices such as genital hair removal?",
+                    "score": 0.6808,
+                    "answers": "www.mvsnoticias.com|nsubj\twww.mvsnoticias.com reported on 21/06/2023|ccomp\ton 21/06/2023|prep\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\tfamily|compound\tfamily members|nsubj\tto|aux\tto provide information on sex education to their children , especially on the risks of practices such as genital hair removal and to take them with a specialist to any signs of discomfort|xcomp\tinformation on sex education|dobj\ton sex education|prep\tsex|compound\tsex education|pobj\tto their children|prep\ttheir|poss\t,|punct\tespecially|advmod\tthe|det\tsuch|amod\tand|cc\tto|aux\tthem|dobj\twith a specialist|prep\ta|det\tto any signs of discomfort|prep\tany|det\tany signs of discomfort|pobj\tof discomfort|prep\tdiscomfort|pobj\t'|punct\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What is genital hair removal?",
+                    "score": 0.6195,
+                    "answers": "of practices such as genital hair removal|prep\tpractices such as genital hair removal|pobj\tsuch as genital hair removal|prep\tgenital hair removal|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "For its part, the Mexican Foundation for Dermatology recommended genital hair removal in establishments with high standards of hygiene and quality, as well as follow up with specialists in dermatology for advice on skin care after hair removal.",
+            "question_answers": [
+                {
+                    "question": "What did the Mexican Foundation for Dermatology recommend for advice on skin care after hair removal?",
+                    "answer": "follow up with specialists in dermatology"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the Mexican Foundation for Dermatology recommend genital hair removal?",
+                    "score": 0.8738,
+                    "answers": "that For its part , the Mexican Foundation for Dermatology recommended genital hair removal in establishments with high standards of hygiene and quality , as well as follow up with specialists in dermatology for advice on skin care after hair removal|ccomp"
+                },
+                {
+                    "question": "What is genital hair removal?",
+                    "score": 0.6998,
+                    "answers": "genital hair removal in establishments with high standards of hygiene and quality , as well as follow up with specialists in dermatology for advice on skin care after hair removal|dobj"
+                },
+                {
+                    "question": "What is the relationship between genital hair removal and dermatology?",
+                    "score": 0.6799,
+                    "answers": "specialists in dermatology|pobj\tdermatology|pobj"
+                }
+            ]
+        }
+    ]
+}

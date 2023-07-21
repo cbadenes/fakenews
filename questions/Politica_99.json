@@ -1,0 +1,588 @@
+{
+    "id": "Politica_99",
+    "claim": "The president of Spain, Pedro Sánchez, appeared today at the Palacio de la Moncloa to inform of the Plan of Recovery, Transformation and Resilience of the economy that will shortly be presented to the European Union (EU), which deals with the most ambitious and important project in the recent history of the country, according to the president, after his accession to that organization. He recalled that at that time the structural funds were 8 billion euros (more than 191 billion pesos) and “now we are talking about 140 billion (above 3 billion pesos), fundamental to recover pre-Pandemic GDP levels and give exponential growth in the possibilities of growing, creating jobs and businesses. An absolutely exceptional and unique investment”. The president said that in recent years Spain has been hit by the worst economic crisis in 80 years and a qualifier that also considered by the current pandemic in a century. These events revealed weaknesses in the economy and public services of the country, according to Sánchez. The five main objectives of the Plan that Sánchez summarized are: Modernizing the productive fabric, including the public administration. Increasing productivity, one of the main Achilles heels that explain why there is a lower per capita income than the rest of the European powers. Promoting the capacity to create high-quality jobs throughout the territory, combating structural, youth and gender unemployment. Reducing social and gender gaps, widened by the health crisis and emergency Drive an environmental transformation. He added that “in the long term what we want is for Spain to have robust economic growth, sustainable fiscal growth and resilient environmental growth”. The president also explained that there are a total of 20 major investments for the next three years. He explained that in the first place there will be a strategy of sustainable mobility, safe and connected, electrifying public roads, giving charging points to electric vehicles, for 13 billion euros. In the modernization of the public administration it will be of 4,315 million, while in the plan of digitization of the SMEs (small and medium enterprises) it is planned with 4,60 million; the road map of the 5G, to boost the digitization, with 4 billion euros; a new industrial policy for the Spain of 2030, with remodeling of waste management, with 3,780 million. There is also a plan for digital training, with 3 590 million euros; for the improvement of competitiveness it is considered 3 400 million; the development of the system of science and innovation, with 3 380 million euros; it will take 3 400 million euros to the tourism sector and, finally, it will allocate 3 175 million euros to the environmental transition. Sánchez also said that there are four major transformations he considered essential: green transition, digital transformation, territorial cohesion and gender equality. There are 20 major reforms envisaged in the Recovery Plan, although there are a hundred. However, the president highlighted the modernization of the national health system; a new energy system, with renewable energy deployment; the modernization of justice; the new economy of care, including the lessons the pandemic leaves in residences; a water purification and reuse plan, a key debate on islands and agricultural territories facing the threat of climate change. In addition, he added the modernisation and digitisation of public administrations; waste policy and the promotion of the circular economy, which will allow a lot of quality employment in the coming years; a sustainable and connected economy; a commitment to innovation and a new housing policy “in its entirety”. According to Pedro Sánchez, the Spanish government's forecasts will translate into additional GDP growth of two points starting in 2021 (with growth of more than 2 percent per year since 2030; the creation of 800,000 jobs and the improvement of the country's vertebration and the distribution of population throughout the country, facing the demographic challenge. The sending of the final plan to the EU, which was originally scheduled to be delivered by the end of March, will eventually be delayed until its approval in the Council of Ministers on Tuesday, 20 or 27 April. I'm sorry.",
+    "source": "www.milenio.com",
+    "date": "13/04/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The president of Spain, Pedro Sánchez , appeared today at the Palacio de la Moncloa to inform of the Plan of RecoveryHe Transformation and Resilience of the economy that will shortly be presented to the European Union (EU) , which deals with the most ambitious and important He the recent history of Spain , according to The president of Spain, Pedro Sánchez , after accession to the European Union (EU) .",
+            "question_answers": [
+                {
+                    "question": "Who appeared at the Palacio de la Moncloa to inform of the Plan of Recovery?",
+                    "answer": "The president of Spain, Pedro Sánchez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was the Plan of Recovery he Transformation and Resilience of the European Union (EU)?",
+                    "score": 0.6899,
+                    "answers": "Palacio|compound"
+                },
+                {
+                    "question": "What is the European Union?",
+                    "score": 0.6318,
+                    "answers": "European|compound\tEuropean|compound"
+                },
+                {
+                    "question": "Who is the president of Spain?",
+                    "score": 0.6244,
+                    "answers": "The president of Spain , Pedro Sánchez|nsubj\tPedro|compound\tPedro|compound"
+                },
+                {
+                    "question": "What is the history of Spain?",
+                    "score": 0.6235,
+                    "answers": "He the recent history of Spain|pobj"
+                },
+                {
+                    "question": "What is the purpose of the European Union?",
+                    "score": 0.6225,
+                    "answers": "www.milenio.com|nsubj\ton 13/04/2021|prep\tthat|mark\tThe|det\tof Spain|prep\t,|punct\t,|punct\tthe|det\tde|compound\tto inform of the Plan of RecoveryHe Transformation and Resilience of the economy that will shortly be presented to the European Union ( EU ) , which deals with the most ambitious and important He the recent history of Spain|advcl\tthe|det\tRecoveryHe|compound\tand|cc\tResilience|conj\tof the economy|prep\tthe|det\tthat|nsubjpass\twill|aux\tthat will shortly be presented to the European Union ( EU ) , which deals with the most ambitious and important He the recent history of Spain|relcl\tto the European Union ( EU ) , which deals with the most ambitious and important He the recent history of Spain|prep\tthe|det\tthe European Union ( EU ) , which deals with the most ambitious and important He the recent history of Spain|pobj\t,|punct\tthe|det\tmost|advmod\tthe most ambitious and important|pobj\tand|cc\tthe|det\trecent|amod\tof Spain|prep\t,|punct\tThe|det\tof Spain|prep\t,|punct\t,|punct\tafter accession to the European Union ( EU )|prep\taccession to the European Union ( EU )|pobj\tto the European Union ( EU )|prep\tthe|det\tthe European Union ( EU )|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The president of Spain, Pedro Sánchez recalled that at that time the structural funds were 8 billion euros (more than 191 billion pesos) and “now we are talking about 140 billion (above 3 billion pesos), fundamental to recover pre-Pandemic GDP levels and give exponential growth in the possibilities of growing, creating jobs and businesses.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Sánchez say about the structural funds?",
+                    "score": 0.7154,
+                    "answers": "The president of Spain , Pedro Sánchez|nsubj"
+                },
+                {
+                    "question": "How much money did the government spend to recover pre- Pandemic GDP levels and give exponential growth?",
+                    "score": 0.699,
+                    "answers": "“ now we are talking about 140 billion ( above 3 billion pesos ) , fundamental to recover pre - Pandemic GDP levels and give exponential growth in the possibilities of growing , creating jobs and businesses|conj\tabout 140 billion ( above 3 billion pesos ) , fundamental to recover pre - Pandemic GDP levels and give exponential growth in the possibilities of growing , creating jobs and businesses|prep"
+                },
+                {
+                    "question": "What were the structural funds in 2007?",
+                    "score": 0.6594,
+                    "answers": "at that time|prep\tthat time|pobj\tthat at that time the structural funds were 8 billion euros ( more than 191 billion pesos ) and “ now we are talking about 140 billion ( above 3 billion pesos ) , fundamental to recover pre - Pandemic GDP levels and give exponential growth in the possibilities of growing , creating jobs and businesses|ccomp"
+                },
+                {
+                    "question": "What are the structural funds?",
+                    "score": 0.637,
+                    "answers": "www.milenio.com reported on 13/04/2021 that The president of Spain , Pedro Sánchez recalled that at that time the structural funds were 8 billion euros ( more than 191 billion pesos ) and “ now we are talking about 140 billion ( above 3 billion pesos ) , fundamental to recover pre - Pandemic GDP levels and give exponential growth in the possibilities of growing , creating jobs and businesses|ROOT\tstructural|amod\tthe structural funds|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of structural funds in the budget of the government of Spain?",
+                    "score": 0.6298,
+                    "answers": "that The president of Spain , Pedro Sánchez recalled that at that time the structural funds were 8 billion euros ( more than 191 billion pesos ) and “ now we are talking about 140 billion ( above 3 billion pesos ) , fundamental to recover pre - Pandemic GDP levels and give exponential growth in the possibilities of growing , creating jobs and businesses|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "An absolutely exceptional and unique investment”.",
+            "question_answers": [
+                {
+                    "question": "What type of investment did milenio report on 13/04/2021?",
+                    "answer": "absolutely exceptional and unique investment”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of investment doesmilenio.com make?",
+                    "score": 0.8892,
+                    "answers": "absolutely exceptional and unique|amod\tthat An absolutely exceptional and unique investment|dobj"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.6006,
+                    "answers": "on 13/04/2021|prep\tthat|mark\tAn|det\tabsolutely|advmod\tand|cc\tunique|conj\t”|punct"
+                },
+                {
+                    "question": "What ismilenio.com?",
+                    "score": 0.6003,
+                    "answers": "www.milenio.com|nsubj\twww.milenio.com reported on 13/04/2021 that An absolutely exceptional and unique investment ”|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The president of Spain, Pedro Sánchez said that in recent years Spain has been hit by the worst economic crisis in 80 years and a qualifier that also considered by the current pandemic in a century .",
+            "question_answers": [
+                {
+                    "question": "What did Pedro Sánchez say that Spain has been hit by in recent years?",
+                    "answer": "the worst economic crisis in 80 years"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the economic crisis in Spain in recent years?",
+                    "score": 0.6515,
+                    "answers": "of Spain|prep\tthat The president of Spain , Pedro Sánchez said that in recent years Spain has been hit by the worst economic crisis in 80 years and a qualifier that also considered by the current pandemic in a century|ccomp\tby the worst economic crisis in 80 years and a qualifier that also considered by the current pandemic in a century|agent\tin a century|prep"
+                },
+                {
+                    "question": "What is the history of economic crisis in Spain?",
+                    "score": 0.6244,
+                    "answers": "The president of Spain , Pedro Sánchez|nsubj"
+                },
+                {
+                    "question": "What is the current economic crisis in recent years in Spain?",
+                    "score": 0.6082,
+                    "answers": "that in recent years Spain has been hit by the worst economic crisis in 80 years and a qualifier that also considered by the current pandemic in a century|ccomp"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.4553,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the worst economic crisis in 80 years and a qualifier that also considered by the current pandemic in a century revealed weaknesses in the economy and public services of Spain , according to The president of Spain, Pedro Sánchez .",
+            "question_answers": [
+                {
+                    "question": "What did the worst economic crisis in 80 years reveal?",
+                    "answer": "weaknesses in the economy and public services of Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current economic crisis in the current pandemic in a century?",
+                    "score": 0.7193,
+                    "answers": "www.milenio.com|nsubj\ton 13/04/2021|prep"
+                },
+                {
+                    "question": "What is the history of economic crisis in Spain?",
+                    "score": 0.6981,
+                    "answers": "www.milenio.com reported on 13/04/2021 that the worst economic crisis in 80 years and a qualifier that also considered by the current pandemic in a century revealed weaknesses in the economy and public services of Spain , according to The president of Spain , Pedro Sánchez|ROOT\tthat the worst economic crisis in 80 years and a qualifier that also considered by the current pandemic in a century revealed weaknesses in the economy and public services of Spain , according to The president of Spain , Pedro Sánchez|ccomp\tin the economy and public services of Spain|prep\tthe economy and public services of Spain|pobj\tpublic services|conj\tof Spain|prep\taccording to The president of Spain , Pedro Sánchez|prep\tto The president of Spain , Pedro Sánchez|prep\tThe president of Spain , Pedro Sánchez|pobj\tof Spain|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The five main objectives of the Plan that The president of Spain, Pedro Sánchez summarized are: Modernizing the productive fabric, including the public administration.",
+            "question_answers": [
+                {
+                    "question": "Who summarized the five main objectives of the Plan?",
+                    "answer": "The president of Spain, Pedro Sánchez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the five main objectives of the Plan?",
+                    "score": 0.8017,
+                    "answers": "www.milenio.com reported on 13/04/2021 that The five main objectives of the Plan that The president of Spain , Pedro Sánchez summarized are : Modernizing the productive fabric , including the public administration|ROOT\tThe five main objectives of the Plan that The president of Spain , Pedro Sánchez summarized|nsubj\tincluding the public administration|prep"
+                },
+                {
+                    "question": "What are Sánchez's five main objectives for the Plan?",
+                    "score": 0.7869,
+                    "answers": "www.milenio.com|nsubj\ton 13/04/2021|prep\tThe president of Spain , Pedro Sánchez|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Increasing productivity, one of the main Achilles heels that explain why there is a lower per capita income than the rest of the European He .",
+            "question_answers": [
+                {
+                    "question": "When did www.milenio.com report that Increasing productivity is one of the main Achilles heels that explain why there is a lower per capita income?",
+                    "answer": "13/04/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is increasing productivity?",
+                    "score": 0.7715,
+                    "answers": "that Increasing productivity , one of the main Achilles heels that explain why there is a lower per capita income than the rest of the European He|dobj"
+                },
+                {
+                    "question": "What is the per capita income of European He?",
+                    "score": 0.7268,
+                    "answers": "www.milenio.com reported on 13/04/2021 that Increasing productivity , one of the main Achilles heels that explain why there is a lower per capita income than the rest of the European He|ROOT\tthe main Achilles heels that explain why there is a lower per capita income than the rest of the European He|pobj\tthat explain why there is a lower per capita income than the rest of the European He|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Promoting the capacity to create high-quality jobs throughout the territory, combating structural, youth and gender unemployment.",
+            "question_answers": [
+                {
+                    "question": "What type of unemployment did milenio combat?",
+                    "answer": "youth and gender unemployment"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many jobs are there in the territory?",
+                    "score": 0.7231,
+                    "answers": "throughout the territory|prep"
+                },
+                {
+                    "question": "What is the definition of gender unemployment?",
+                    "score": 0.7221,
+                    "answers": "gender|conj"
+                },
+                {
+                    "question": "What is the capacity to create high quality jobs throughout the territory?",
+                    "score": 0.7183,
+                    "answers": "www.milenio.com reported on 13/04/2021 that Promoting the capacity to create high - quality jobs throughout the territory , combating structural , youth and gender unemployment|ROOT\tthat|mark\tthat Promoting the capacity to create high - quality jobs throughout the territory , combating structural , youth and gender unemployment|ccomp\tthe|det\tthe capacity to create high - quality jobs throughout the territory|dobj\tto|aux\t-|punct\thigh - quality|compound\tthe|det\tthe territory|pobj\t,|punct\t,|punct\tyouth and gender|conj"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.4687,
+                    "answers": "www.milenio.com|nsubj\ton 13/04/2021|prep\thigh|amod\tstructural , youth and gender|amod\tand|cc\tstructural , youth and gender unemployment|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Reducing social and gender gaps, widened by the health crisis and emergency Drive an environmental transformation.",
+            "question_answers": [
+                {
+                    "question": "What did milenio report on 13/04/2021?",
+                    "answer": "social and gender gaps, widened by the health crisis and emergency Drive an environmental transformation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the health crisis and emergency drive an environmental transformation?",
+                    "score": 0.7172,
+                    "answers": "that Reducing social and gender gaps , widened by the health crisis and emergency Drive an environmental transformation|ccomp"
+                },
+                {
+                    "question": "What are the social and gender gaps?",
+                    "score": 0.6705,
+                    "answers": "www.milenio.com reported on 13/04/2021 that Reducing social and gender gaps , widened by the health crisis and emergency Drive an environmental transformation|ROOT\tthat|mark\tsocial and gender|amod\tand|cc\tgender|conj\tsocial and gender gaps , widened by the health crisis and emergency|dobj\t,|punct\tthe|det\tand|cc\tan|det"
+                },
+                {
+                    "question": "What is the environmental transformation?",
+                    "score": 0.595,
+                    "answers": "an environmental transformation|dobj"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.4652,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "He added that “in the long term what we want is for Spain to have robust economic growth, sustainable fiscal growth and resilient environmental growth”.",
+            "question_answers": [
+                {
+                    "question": "What type of growth did he want Spain to have in the long term?",
+                    "answer": "sustainable fiscal growth"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Spain's long term economic growth?",
+                    "score": 0.8052,
+                    "answers": "for Spain to have robust economic growth , sustainable fiscal growth and resilient environmental growth|advcl"
+                },
+                {
+                    "question": "What is the long term plan for Spain's economic growth?",
+                    "score": 0.7817,
+                    "answers": "www.milenio.com reported on 13/04/2021 that He added that “ in the long term what we want is for Spain to have robust economic growth , sustainable fiscal growth and resilient environmental growth ”|ROOT\tthat He added that “ in the long term what we want is for Spain to have robust economic growth , sustainable fiscal growth and resilient environmental growth|ccomp\tin the long term|prep"
+                },
+                {
+                    "question": "What is the relationship between economic growth and sustainable fiscal growth?",
+                    "score": 0.7506,
+                    "answers": "what we want|csubj\t”|punct"
+                },
+                {
+                    "question": "What is the source of evidence of the economic growth in Spain in the long term?",
+                    "score": 0.7043,
+                    "answers": "environmental|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The president also explained that there are a total of 20 major investments for the next three years.",
+            "question_answers": [
+                {
+                    "question": "When didmilenio.com report that there were 20 major investments for the next three years?",
+                    "answer": "13/04/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many major investments will the president make in the next three years?",
+                    "score": 0.7256,
+                    "answers": "www.milenio.com reported on 13/04/2021 that The president also explained that there are a total of 20 major investments for the next three years|ROOT\tThe president|nsubj\tmajor|amod"
+                },
+                {
+                    "question": "How many investments have been made in the past 3 years?",
+                    "score": 0.6868,
+                    "answers": "The|det\talso|advmod\ta|det\ta total of 20 major investments|attr\tthe|det"
+                },
+                {
+                    "question": "How many investments will be made in the next 3 years?",
+                    "score": 0.6547,
+                    "answers": "that|mark\tthat|mark\tthere|expl"
+                }
+            ]
+        },
+        {
+            "claim": "He explained that in the first place there will be a strategy of sustainable mobility, safe and connected, electrifying public roads, giving charging points to electric vehicles, for 13 billion euros.",
+            "question_answers": [
+                {
+                    "question": "When didmilenio.com report that he explained that there would be a strategy of sustainable mobility, safe and connected, electrifying public roads, and giving charging points to electric vehicles?",
+                    "answer": "13/04/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money will be spent on electric vehicle charging?",
+                    "score": 0.7476,
+                    "answers": "13 billion|nummod"
+                },
+                {
+                    "question": "What is the strategy for sustainable mobility and safe and connected, electrifying public roads?",
+                    "score": 0.7218,
+                    "answers": "on 13/04/2021|prep"
+                },
+                {
+                    "question": "What is the purpose of electrifying public roads?",
+                    "score": 0.7118,
+                    "answers": "electrifying public roads|acl"
+                },
+                {
+                    "question": "How many charging points are available for electric vehicles?",
+                    "score": 0.7108,
+                    "answers": "charging points|dobj"
+                },
+                {
+                    "question": "What is the first strategy for sustainable mobility?",
+                    "score": 0.6914,
+                    "answers": "charging|compound"
+                }
+            ]
+        },
+        {
+            "claim": "In the modernization of the public administration it will be of 4,315 million, while in the plan of digitization of the SMEs (small and medium enterprises) it is planned with 4,60 million; the road map of the 5G, to boost the digitization, with 4 billion euros; a new industrial policy for the Spain of 2030, with remodeling of waste management, with 3,780 million.",
+            "question_answers": [
+                {
+                    "question": "When did www.milenio.com report that in the modernization of the public administration it will be of 4,315 million?",
+                    "answer": "13/04/2021"
+                },
+                {
+                    "question": "What is the cost of the road map of the 5G?",
+                    "answer": "4 billion euros;"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the plan for digitizing the SMEs?",
+                    "score": 0.6227,
+                    "answers": "in the plan of digitization of the SMEs ( small and medium enterprises )|prep\tthe plan of digitization of the SMEs ( small and medium enterprises )|pobj\tof digitization of the SMEs ( small and medium enterprises )|prep\tdigitization of the SMEs ( small and medium enterprises )|pobj"
+                },
+                {
+                    "question": "What will be the purpose of the modernization of the public administration in 2030?",
+                    "score": 0.5417,
+                    "answers": "waste|compound"
+                },
+                {
+                    "question": "What is the new industrial policy for the Spain of 2030?",
+                    "score": 0.5213,
+                    "answers": "industrial|amod\ta new industrial policy for the Spain of 2030 , with remodeling of waste management , with 3,780 million|appos"
+                },
+                {
+                    "question": "What is the name of the road map of the 5G?",
+                    "score": 0.4849,
+                    "answers": "road|compound"
+                }
+            ]
+        },
+        {
+            "claim": "There is also a plan for digital training, with 3 590 million euros; for the improvement of competitiveness it is considered 3 400 million; the development of the system of science and innovation, with 3 380 million euros; it will take 3 400 million euros to the tourism sector and, finally, it will allocate 3 175 million euros to the environmental transition.",
+            "question_answers": [
+                {
+                    "question": "How much money will be allocated to the environmental transition?",
+                    "answer": "175 million euros"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money is allocated to the tourism sector?",
+                    "score": 0.6522,
+                    "answers": "www.milenio.com|nsubj\ton 13/04/2021|prep\twith 3 590 million euros|prep\t400|compound\tof the system of science and innovation|prep\tit will take 3 400 million euros to the tourism sector and , finally , it will allocate 3 175 million euros to the environmental transition|conj\t400|compound\tto the tourism sector|prep\ttourism|compound\tthe tourism sector|pobj"
+                },
+                {
+                    "question": "How much money will be allocated to the environmental transition?",
+                    "score": 0.6086,
+                    "answers": "the development of the system of science and innovation , with 3 380 million euros ; it will take 3 400 million euros to the tourism sector and , finally , it will allocate 3 175 million euros to the environmental transition|dep"
+                },
+                {
+                    "question": "What is the budget for digital training?",
+                    "score": 0.6048,
+                    "answers": "that There is also a plan for digital training , with 3 590 million euros ; for the improvement of competitiveness it is considered 3 400 million ;|ccomp\tfor digital training|prep\t590|compound"
+                },
+                {
+                    "question": "What is the purpose of digital training?",
+                    "score": 0.5818,
+                    "answers": "digital|amod\tdigital training|pobj\tfor the improvement of competitiveness|prep\tthe improvement of competitiveness|pobj\tof competitiveness|prep\tcompetitiveness|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Sánchez also said that there are four major transformations he considered essential: green transition, digital transformation, territorial cohesion and gender equality.",
+            "question_answers": [
+                {
+                    "question": "What are the four major transformations that Sánchez said are essential?",
+                    "answer": "green transition, digital transformation, territorial cohesion and gender equality"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What transformations did Sánchez consider essential?",
+                    "score": 0.8104,
+                    "answers": "major|amod"
+                },
+                {
+                    "question": "What are Sánchez's views on gender equality?",
+                    "score": 0.6918,
+                    "answers": "gender equality|conj"
+                },
+                {
+                    "question": "What are the four major transformations he considered essential?",
+                    "score": 0.6713,
+                    "answers": "www.milenio.com reported on 13/04/2021 that Sánchez also said that there are four major transformations he considered essential : green transition , digital transformation , territorial cohesion and gender equality|ROOT\ton 13/04/2021|prep\tthat|mark\talso|advmod\tthat|mark\tthere|expl\tthat there are four major transformations he considered essential : green transition , digital transformation , territorial cohesion and gender equality|ccomp\tfour major transformations he considered essential : green transition , digital transformation , territorial cohesion and gender equality|attr\the|nsubj\the considered essential|relcl\tessential|oprd\t:|punct\tgreen|amod\tgreen transition , digital transformation , territorial cohesion and gender equality|appos\t,|punct\tdigital|amod\tdigital transformation , territorial cohesion and gender equality|conj\t,|punct\tterritorial|amod\tterritorial cohesion and gender equality|conj\tand|cc\tgender|compound"
+                },
+                {
+                    "question": "What are the major transformations that Sánchez considered essential?",
+                    "score": 0.645,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "There are 20 major reforms envisaged in the Recovery Plan, although there are a hundred.",
+            "question_answers": [
+                {
+                    "question": "How many major reforms are there in the Recovery Plan?",
+                    "answer": "a hundred"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many reforms are included in the Recovery Plan?",
+                    "score": 0.8592,
+                    "answers": "www.milenio.com|nsubj\twww.milenio.com reported on 13/04/2021 that There are 20 major reforms envisaged in the Recovery Plan , although there are a hundred|ROOT\ton 13/04/2021|prep\tthat|mark\tThere|expl\tthat There are 20 major reforms envisaged in the Recovery Plan , although there are a hundred|ccomp\tmajor|amod\t20 major reforms envisaged in the Recovery Plan|attr\tenvisaged in the Recovery Plan|acl\tin the Recovery Plan|prep\tthe|det\tRecovery|compound\t,|punct\talthough|mark\tthere|expl\talthough there are a hundred|advcl\ta|quantmod"
+                }
+            ]
+        },
+        {
+            "claim": "However, the president highlighted the modernization of the national health system; a new energy system, with renewable energy deployment; the modernization of justice; the new economy of care, including the lessons the pandemic leaves in residences; a water purification and reuse plan, a key debate on islands and agricultural territories facing the threat of climate change.",
+            "question_answers": [
+                {
+                    "question": "What threat did the islands and agricultural territories face?",
+                    "answer": "climate change"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the president say about the modernization of the national health system?",
+                    "score": 0.6902,
+                    "answers": "www.milenio.com|nsubj\twww.milenio.com reported on 13/04/2021 that However , the president highlighted the modernization of the national health system ; a new energy system , with renewable energy deployment ; the modernization of justice ; the new economy of care , including the lessons the pandemic leaves in residences ; a water purification and reuse plan , a key debate on islands and agricultural territories facing the threat of climate change|ROOT\ton 13/04/2021|prep\tthat|mark\tHowever|advmod\t,|punct\tthe|det\tthe president|nsubj\tthat However , the president highlighted the modernization of the national health system ; a new energy system , with renewable energy deployment ; the modernization of justice ; the new economy of care , including the lessons the pandemic leaves in residences ; a water purification and reuse plan , a key debate on islands and agricultural territories facing the threat of climate change|ccomp\tthe|det\tthe|det\tnational|amod\thealth|compound\t;|punct\ta|det\tnew|amod\t,|punct\t;|punct\tthe|det\t;|punct\tthe|det\tnew|amod\t,|punct\tthe|det\tthe|det\t;|punct\ta|det\tand|cc\ta water purification and reuse plan , a key debate on islands and agricultural territories facing the threat of climate change|appos\t,|punct\ta|det\tkey|amod\ta key debate on islands and agricultural territories facing the threat of climate change|appos\ton islands and agricultural territories facing the threat of climate change|prep\tislands and agricultural territories facing the threat of climate change|pobj\tand|cc\tagricultural|amod\tagricultural territories|conj\tthe|det\tof climate change|prep"
+                },
+                {
+                    "question": "What are the lessons the pandemic leaves in residences?",
+                    "score": 0.5772,
+                    "answers": "including the lessons the pandemic leaves in residences|prep\tthe lessons the pandemic leaves in residences|pobj"
+                },
+                {
+                    "question": "What is the purpose of renewable energy deployment?",
+                    "score": 0.5724,
+                    "answers": "with renewable energy deployment|prep\trenewable energy deployment|pobj"
+                },
+                {
+                    "question": "What is the new economy of care?",
+                    "score": 0.5633,
+                    "answers": "the new economy of care , including the lessons the pandemic leaves in residences ; a water purification and reuse plan , a key debate on islands and agricultural territories facing the threat of climate change|appos\tof care|prep\tcare|pobj\tin residences|prep\tresidences|pobj"
+                },
+                {
+                    "question": "What is the history of the pandemic?",
+                    "score": 0.5379,
+                    "answers": "the pandemic|nsubj\tthe pandemic leaves in residences|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, he added the modernisation and digitisation of public administrations; waste policy and the promotion of the circular economy, which will allow a lot of quality employment in the coming years; a sustainable and connected economy; a commitment to innovation and a new housing policy “in its entirety”.",
+            "question_answers": [
+                {
+                    "question": "What did Milenio report on on 13/04/2021?",
+                    "answer": "a commitment to innovation and a new housing policy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many jobs were added under Obama's administration?",
+                    "score": 0.6705,
+                    "answers": "a lot of quality employment|dobj"
+                },
+                {
+                    "question": "How many jobs will be created under President Jacob Zuma's administration?",
+                    "score": 0.6515,
+                    "answers": "coming|amod"
+                },
+                {
+                    "question": "What is the current housing policy in South Africa?",
+                    "score": 0.6375,
+                    "answers": "in its entirety|prep\tits entirety|pobj"
+                },
+                {
+                    "question": "What is the job growth rate in South Africa?",
+                    "score": 0.6331,
+                    "answers": "of quality employment|prep\tquality employment|pobj"
+                },
+                {
+                    "question": "What is the purpose of modernisation and digitisation of public administrations?",
+                    "score": 0.6322,
+                    "answers": "on 13/04/2021|prep\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\the|nsubj\tthe|det\tand|cc\tdigitisation|conj\tof public administrations|prep\tpublic|amod\tpublic administrations|pobj\t;|punct\tand|cc\tthe|det\tthe|det\t,|punct\twhich|nsubj\twill|aux\ta|det\tthe|det\t;|punct\ta|det\tand|cc\t;|punct\ta|det\tto innovation|prep\tinnovation|pobj\tand|cc\ta|det\tnew|amod\tits|poss"
+                }
+            ]
+        },
+        {
+            "claim": "According to Pedro Sánchez, the Spanish government's forecasts will translate into additional GDP growth of two points starting in 2021 (with growth of more than 2 percent per year since 2030; the creation of 800,000 jobs and the improvement of the country's vertebration and the distribution of population throughout the country, facing the demographic challenge.",
+            "question_answers": [
+                {
+                    "question": "How many jobs did Pedro Sánchez say would be created by 2021?",
+                    "answer": "800,000"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the GDP growth projected for the Spanish government in 2021?",
+                    "score": 0.7329,
+                    "answers": "to Pedro Sánchez|prep\tthe Spanish government 's forecasts|nsubj\tthat According to Pedro Sánchez , the Spanish government 's forecasts will translate into additional GDP growth of two points starting in 2021 ( with growth of more than 2 percent per year since 2030 ; the creation of 800,000 jobs and the improvement of the country 's vertebration and the distribution of population throughout the country , facing the demographic challenge|ccomp\tadditional|amod\tGDP|compound"
+                },
+                {
+                    "question": "What is the projected GDP growth in 2021?",
+                    "score": 0.7094,
+                    "answers": "www.milenio.com reported on 13/04/2021 that According to Pedro Sánchez , the Spanish government 's forecasts will translate into additional GDP growth of two points starting in 2021 ( with growth of more than 2 percent per year since 2030 ; the creation of 800,000 jobs and the improvement of the country 's vertebration and the distribution of population throughout the country , facing the demographic challenge|ROOT\tthat|mark\tPedro|compound\t,|punct\tthe|det\tthe Spanish government 's|poss\t's|case\twill|aux\tof two points|prep\ttwo points|pobj\tstarting in 2021|acl\tin 2021|prep\t(|punct\tmore|amod\tthan|quantmod\tmore than 2|nummod\tper year|prep\tyear|pobj\tsince 2030|prep\t;|punct\tthe|det\tand|cc\tthe|det\tthe|det\t's|case\tand|cc\tthe|det\tthroughout the country|prep\tthe|det\t,|punct\tthe|det"
+                },
+                {
+                    "question": "How many jobs were created in the country in 2021?",
+                    "score": 0.7056,
+                    "answers": "800,000 jobs|pobj"
+                },
+                {
+                    "question": "What demographic challenge is facing the country?",
+                    "score": 0.6906,
+                    "answers": "facing the demographic challenge|acl"
+                },
+                {
+                    "question": "How many jobs will be added in 2021?",
+                    "score": 0.6854,
+                    "answers": "of 800,000 jobs|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The sending of the final plan to the EU, which was originally scheduled to be delivered by the end of March, will eventually be delayed until its approval in the Council of Ministers on Tuesday, 20 or 27 April.",
+            "question_answers": [
+                {
+                    "question": "When will the final plan be sent to the EU?",
+                    "answer": "Tuesday, 20 or 27 April"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was the final plan to the EU sent to the Council of Ministers?",
+                    "score": 0.7485,
+                    "answers": "on 13/04/2021|prep\tthat The sending of the final plan to the EU , which was originally scheduled to be delivered by the end of March , will eventually be delayed until its approval in the Council of Ministers on Tuesday , 20 or 27 April|ccomp"
+                }
+            ]
+        }
+    ]
+}

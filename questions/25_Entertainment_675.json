@@ -1,0 +1,282 @@
+{
+    "id": "25_Entertainment_675",
+    "claim": "As a way to take on more national identity in the face of Donald Trump's government attack, Grupo Salinas announced that it will change the names of some of its companies. To begin with, TV Azteca will now be called TV Nahua, because, they argue, the name 'Azteca 'referred to the mythical city of Aztlán, which would be located in what today is the United States. 'We cannot let people identify us as neogringos ', declared Ricardo Salinas Pliego, president of Grupo Salinas. On the other hand, the bank Banco Azteca, will now be 'Banco Mexica'. The directors said that in no way will the customers' Guarditos be affected, and that this is a mere action of historical vindication.  Was this not due to pressure from some political sector?  Not at all, we have only accepted that our names must be changed to accept our origins. In addition, we will also be giving away plumes and ocarinas to all customers who register when our name change comes into effect. And to those who deposit in their account before the January , whether new or old customers, we will give them a key ring with this beautiful tlatoni. The Esperanza Azteca orchestra is now expected to be called Esperanza Tenochca, while Elektra stores will become Tepaneka stores. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "19/11/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "As a way to take on more national identity in the face of Donald Trump's government attack, Grupo Salinas announced that Grupo Salinas will change the names of some of companies.",
+            "question_answers": [
+                {
+                    "question": "What company announced that it would change the names of some of its companies?",
+                    "answer": "Grupo Salinas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Grupo Salinas change names of some companies?",
+                    "score": 0.8482,
+                    "answers": "in the face of Donald Trump 's government attack|prep"
+                },
+                {
+                    "question": "What did Grupo Salinas say about Trump's government attack?",
+                    "score": 0.7912,
+                    "answers": "www.eldizque.com reported on 19/11/2017 that As a way to take on more national identity in the face of Donald Trump 's government attack , Grupo Salinas announced that Grupo Salinas will change the names of some of companies|ROOT\tthe face of Donald Trump 's government attack|pobj\tDonald Trump 's government attack|pobj\tthat As a way to take on more national identity in the face of Donald Trump 's government attack , Grupo Salinas announced that Grupo Salinas will change the names of some of companies|ccomp"
+                },
+                {
+                    "question": "What are the names of Grupo Salinas companies?",
+                    "score": 0.7574,
+                    "answers": "Donald|compound"
+                },
+                {
+                    "question": "What is Grupo Salinas?",
+                    "score": 0.6791,
+                    "answers": "on 19/11/2017|prep\tAs a way to take on more national identity in the face of Donald Trump 's government attack|prep\tmore national identity|dobj\t's|case\tGrupo|compound\tGrupo|compound\tthe names of some of companies|dobj\tof some of companies|prep\tsome of companies|pobj\tof companies|prep\tcompanies|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "To begin with, TV Azteca will now be called TV Nahua, because, Grupo Salinas argue, the name 'Azteca 'referred to the mythical city of Aztlán, which would be located in what today is the United States.",
+            "question_answers": [
+                {
+                    "question": "What did Grupo Salinas say was the name of the mythical city of Aztlán?",
+                    "answer": "'Azteca"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Grupo Salinas say about the mythical city of Aztlán?",
+                    "score": 0.7998,
+                    "answers": "because , Grupo Salinas argue , the name ' Azteca ' referred to the mythical city of Aztlán , which would be located in what today is the United States|advcl"
+                },
+                {
+                    "question": "Where is the city of Aztlán located today?",
+                    "score": 0.7064,
+                    "answers": "what today is the United States|pcomp"
+                },
+                {
+                    "question": "Where is Azteca located today?",
+                    "score": 0.6978,
+                    "answers": "to the mythical city of Aztlán , which would be located in what today is the United States|prep\tthe mythical city of Aztlán , which would be located in what today is the United States|pobj\tof Aztlán|prep\twhich would be located in what today is the United States|relcl"
+                },
+                {
+                    "question": "What is the name of Azteca?",
+                    "score": 0.6699,
+                    "answers": "the name ' Azteca '|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Grupo Salinas cannot let people identify Grupo Salinas as neogringos ', declared Ricardo Salinas Pliego, president of Grupo Salinas .",
+            "question_answers": [
+                {
+                    "question": "What does Grupo Salinas not allow people to identify it as?",
+                    "answer": "neogringos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Pliego say about Grupo Salinas?",
+                    "score": 0.8079,
+                    "answers": "www.eldizque.com reported on 19/11/2017|ccomp\ton 19/11/2017|prep\t19/11/2017|pobj\t'|punct\tpeople identify Grupo Salinas as neogringos|ccomp\t'|punct\twww.eldizque.com reported on 19/11/2017 that ' Grupo Salinas can not let people identify Grupo Salinas as neogringos ' , declared Ricardo Salinas Pliego , president of Grupo Salinas|ROOT\tof Grupo Salinas|prep"
+                },
+                {
+                    "question": "What was Pliego's role in Grupo Salinas?",
+                    "score": 0.7617,
+                    "answers": "Ricardo Salinas Pliego , president of Grupo Salinas|nsubj"
+                },
+                {
+                    "question": "What is Grupo Salinas?",
+                    "score": 0.7393,
+                    "answers": "www.eldizque.com|nsubj\tGrupo|compound\tGrupo|compound\tGrupo|compound"
+                },
+                {
+                    "question": "What is the relationship between Grupo Salinas and Salinas?",
+                    "score": 0.7331,
+                    "answers": "that|mark\tcan|aux\tnot|neg\tpeople|nsubj\t,|punct\tRicardo|compound\tSalinas|compound\t,|punct\tpresident of Grupo Salinas|appos"
+                },
+                {
+                    "question": "What is Grupo Salinas' stance on neogringos?",
+                    "score": 0.7291,
+                    "answers": "Grupo Salinas can not let people identify Grupo Salinas as neogringos|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, the bank Banco Azteca, will now be 'Banco Mexica'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Banco Azteca will now be 'Banco Mexica'?",
+                    "answer": "19/11/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Banco Azteca's current name?",
+                    "score": 0.8114,
+                    "answers": "www.eldizque.com reported on 19/11/2017 that On the other hand , the bank Banco Azteca , will now be ' Banco Mexica '|ROOT\ton 19/11/2017|prep\tthat|mark\tthe|det\tthe other hand|pobj\t,|punct\tthe|det\t,|punct\twill|aux\tnow|advmod\tthat On the other hand , the bank Banco Azteca , will now be ' Banco Mexica '|ccomp\t'|punct\t'|punct"
+                },
+                {
+                    "question": "What is the relationship between Banco Azteca and Banco Mexica?",
+                    "score": 0.7906,
+                    "answers": "19/11/2017|pobj"
+                },
+                {
+                    "question": "What is Banco Azteca?",
+                    "score": 0.7885,
+                    "answers": "www.eldizque.com|nsubj\tOn the other hand|prep\tother|amod\tthe bank Banco Azteca|nsubj\tBanco|compound\tBanco|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The directors said that in no way will the customers' Guarditos be affected, and that change is a mere action of historical vindication.",
+            "question_answers": [
+                {
+                    "question": "What kind of vindication did the directors say the change was a mere action of?",
+                    "answer": "historical"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the directors say about Guarditos?",
+                    "score": 0.7913,
+                    "answers": "The|det\tno|det\tthe customers ' Guarditos|nsubjpass\tbe|auxpass\t,|punct\tand|cc"
+                },
+                {
+                    "question": "What is the history of Guarditos?",
+                    "score": 0.7115,
+                    "answers": "that|mark\tthat|mark\twill|aux\tthe|det\t'|case\tthat|mark\ta|det\tmere|amod"
+                },
+                {
+                    "question": "What is the relationship between the customers and the Guarditos?",
+                    "score": 0.6651,
+                    "answers": "that in no way will the customers ' Guarditos be affected , and that change is a mere action of historical vindication|advcl"
+                },
+                {
+                    "question": "What is the action of historical vindication?",
+                    "score": 0.5926,
+                    "answers": "a mere action of historical vindication|attr"
+                }
+            ]
+        },
+        {
+            "claim": " Was change not due to pressure from some political sector?  Not at all, Grupo Salinas have only accepted that names must be changed to accept origins.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that the name change was not due to pressure from some political sector?",
+                    "answer": "19/11/2017"
+                },
+                {
+                    "question": "Who has accepted that names must be changed to accept origins?",
+                    "answer": "Grupo Salinas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What political groups have influenced Grupo Salinas?",
+                    "score": 0.8617,
+                    "answers": "some political sector|pobj"
+                },
+                {
+                    "question": "Why did the political sector pressure Grupo Salinas to accept origins?",
+                    "score": 0.8589,
+                    "answers": "Was change not due to pressure from some political sector|ccomp\tdue to pressure from some political sector|acomp\tto pressure from some political sector|pcomp\tpressure from some political sector|pobj"
+                },
+                {
+                    "question": "What are the origins of Grupo Salinas names?",
+                    "score": 0.7833,
+                    "answers": "  Not at all , Grupo Salinas have only accepted that names must be changed to accept origins|ROOT"
+                },
+                {
+                    "question": "What was the name of Grupo Salinas in 2017?",
+                    "score": 0.7681,
+                    "answers": "on 19/11/2017|prep\tthat  |dep\tchange|nsubj\tsome|det\t |dep\tNot at all|advmod"
+                },
+                {
+                    "question": "What is the source of evidence of Grupo Salinas' origin?",
+                    "score": 0.7548,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, Grupo Salinas will also be giving away plumes and ocarinas to all customers who register when changed comes into effect.",
+            "question_answers": [
+                {
+                    "question": "Who will be giving away plumes and ocarinas to all customers who register?",
+                    "answer": "Grupo Salinas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Grupo Salinas say about giving away plumes and ocarinas?",
+                    "score": 0.8241,
+                    "answers": "on 19/11/2017|prep\t19/11/2017|pobj\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\twill|aux\talso|advmod\tthat In addition , Grupo Salinas will also be giving away plumes and ocarinas to all customers who register when changed comes into effect|ccomp\tand|cc\tinto effect|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And to those who deposit in their account before the January , whether new or old customers , Grupo Salinas will give those who deposit in their account before the January , whether new or old customers a key ring with this beautiful tlatoni.",
+            "question_answers": [
+                {
+                    "question": "Who will receive a key ring from Grupo Salinas?",
+                    "answer": "those who deposit in their account before the January"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What do new or old customers do to deposit in their accounts before the January?",
+                    "score": 0.7149,
+                    "answers": "the January|pobj\tthe January|pobj"
+                },
+                {
+                    "question": "What is the relationship between a new or old customer with Grupo Salinas?",
+                    "score": 0.6019,
+                    "answers": "those who deposit in their account before the January , whether new or old customers|pobj\tin their account|prep\ttheir account|pobj\tthe|det\tthose who deposit in their account before the January , whether new or old customers|dative\tin their account|prep\ttheir account|pobj\tthe|det"
+                },
+                {
+                    "question": "What is Grupo Salinas?",
+                    "score": 0.5968,
+                    "answers": "Grupo|compound"
+                },
+                {
+                    "question": "What is a tlatoni?",
+                    "score": 0.5757,
+                    "answers": "a|det\ta key ring with this beautiful tlatoni|dobj\twith this beautiful tlatoni|prep\tthis beautiful tlatoni|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The Esperanza Azteca orchestra is now expected to be called Esperanza Tenochca, while Elektra stores will become Tepaneka stores.",
+            "question_answers": [
+                {
+                    "question": "What will Elektra stores become?",
+                    "answer": "Tepaneka"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Esperanza Azteca orchestra?",
+                    "score": 0.7648,
+                    "answers": "The Esperanza Azteca orchestra|nsubjpass"
+                },
+                {
+                    "question": "What is Esperanza tenochca?",
+                    "score": 0.7243,
+                    "answers": "to be called Esperanza Tenochca|xcomp"
+                },
+                {
+                    "question": "What is Esperanza Azteca?",
+                    "score": 0.7148,
+                    "answers": "Esperanza|compound\tEsperanza|compound"
+                },
+                {
+                    "question": "What is the name of Esperanza Azteca?",
+                    "score": 0.7057,
+                    "answers": "that|mark\tThe|det\tis|auxpass\tnow|advmod\tto|aux\tbe|auxpass\t,|punct\twhile|mark"
+                }
+            ]
+        }
+    ]
+}

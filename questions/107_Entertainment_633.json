@@ -1,0 +1,175 @@
+{
+    "id": "107_Entertainment_633",
+    "claim": "Yuawi Lopez, the boy who plays the song'Movement Orange ', of the Citizens' Movement party, revealed that he prepares a song for the World Cup Russia . In an interview with Azucena Uresti on Milenio Television, she sang a stanza of the song she has prepared for the fair world leader.'Now I just have a little bit that says I'm Mexican, I'm ', said the huichol boy of  years. Accompanied by his dad, Yuawi revealed that although he does not like social media he is aware of all the memes that have been made for his song; he said he did not like that'kill him'. Tracks like Shakira's Waka waka or Pitbull's We are one and Jennifer Lopez have been selected for the last two World Cups; so far, everything indicates that it will be Maluma who composes the song of this year's fair, with a possible collaboration with Bad Bunny. Support the East Tri !",
+    "source": "www.milenio.com",
+    "date": "15/01/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Yuawi Lopez, the boy who plays the song'Movement Orange ', of the Citizens' Movement party, revealed that he prepares a song for the World Cup Russia .",
+            "question_answers": [
+                {
+                    "question": "What song does Yuawi Lopez play?",
+                    "answer": "Movement Orange"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What song did Yuawi Lopez play for World Cup Russia?",
+                    "score": 0.814,
+                    "answers": "the Citizens '|poss"
+                },
+                {
+                    "question": "Who is Yuawi Lopez?",
+                    "score": 0.6626,
+                    "answers": "Yuawi|compound"
+                },
+                {
+                    "question": "What is the name of the song that Yuawi Lopez plays for the Citizens' Movement party?",
+                    "score": 0.6623,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In an interview with Azucena Uresti on Milenio Television, she sang a stanza of the song she has prepared for the fair world leader.",
+            "question_answers": [
+                {
+                    "question": "Who did Milenio Television interview on 15/01/2018?",
+                    "answer": "Azucena Uresti"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What song did Azucena Uresti perform for the fair world leader?",
+                    "score": 0.7703,
+                    "answers": "that|mark\tan|det\t,|punct\thas|aux"
+                },
+                {
+                    "question": "What song did Uresti perform on Milenio Television in 2018?",
+                    "score": 0.7505,
+                    "answers": "on Milenio Television|prep"
+                },
+                {
+                    "question": "What is the name of the song that Azucena Uresti sang?",
+                    "score": 0.6414,
+                    "answers": "she has prepared for the fair world leader|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "'Now I just have a little bit that says I'm Mexican, I'm ', said the huichol boy of  years.",
+            "question_answers": [
+                {
+                    "question": "What did milenio say on 15/01/2018?",
+                    "answer": "'Now I just have a little bit that says I'm Mexican, I'm"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is huichol boy's ethnicity?",
+                    "score": 0.6211,
+                    "answers": "that|mark\t'|punct\tNow|advmod\tI|nsubj\tjust|advmod\ta|det\tlittle|amod\tthat|nsubj\tthat says I 'm Mexican , I 'm|relcl\tI|nsubj\t,|punct\tI|nsubj\t'|punct\t,|punct\t  years|dep\tyears|npadvmod"
+                },
+                {
+                    "question": "What is the huichol boy's ethnicity?",
+                    "score": 0.6158,
+                    "answers": "www.milenio.com reported on 15/01/2018 that ' Now I just have a little bit that says I 'm Mexican , I 'm ' , said the huichol boy of   years|ROOT"
+                },
+                {
+                    "question": "What is the ethnicity of the huichol boy?",
+                    "score": 0.5975,
+                    "answers": "on 15/01/2018|prep\tNow I just have a little bit that says I 'm Mexican , I 'm|ccomp\ta little bit that says I 'm Mexican , I 'm|dobj\tI 'm Mexican|ccomp\tI 'm Mexican , I 'm|ccomp\tthat ' Now I just have a little bit that says I 'm Mexican , I 'm ' , said the huichol boy of|ccomp\tthe huichol boy of|nsubj"
+                },
+                {
+                    "question": "What is huichol?",
+                    "score": 0.5796,
+                    "answers": "huichol|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Accompanied by his dad, Yuawi revealed that although he does not like social media he is aware of all the memes that have been made for his song; he said he did not like that'kill him'.",
+            "question_answers": [
+                {
+                    "question": "What did Yuawi say about memes?",
+                    "answer": "he said he did not like that'kill him'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Does Yuawi like social media?",
+                    "score": 0.6787,
+                    "answers": "although he does not like social media|advcl"
+                },
+                {
+                    "question": "What did Yuawi say to his father about social media?",
+                    "score": 0.6253,
+                    "answers": "by his dad|agent"
+                },
+                {
+                    "question": "What was the relationship between Yuawi and his father?",
+                    "score": 0.5345,
+                    "answers": "Accompanied by his dad|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Tracks like Shakira's Waka waka or Pitbull's We are one and Jennifer Lopez have been selected for the last two World Cups; so far, everything indicates that it will be Maluma who composes the song of this year's fair, with a possible collaboration with Bad Bunny.",
+            "question_answers": [
+                {
+                    "question": "Who will compose the song of this year's fair?",
+                    "answer": "Maluma"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many songs has Maluma recorded for the last two world cups?",
+                    "score": 0.7246,
+                    "answers": "for the last two World Cups|prep"
+                },
+                {
+                    "question": "Who did Maluma co-write the song of this year's fair with?",
+                    "score": 0.7048,
+                    "answers": "that it will be Maluma who composes the song of this year 's fair , with a possible collaboration with Bad Bunny|ccomp"
+                },
+                {
+                    "question": "What is the name of the song that Maluma composes for the World Cups?",
+                    "score": 0.678,
+                    "answers": "'s|case\tWaka|compound\t's|case\tso far|advmod\t's|case"
+                },
+                {
+                    "question": "What is the relationship between Maluma and Bad Bunny?",
+                    "score": 0.6278,
+                    "answers": "with a possible collaboration with Bad Bunny|prep\tpossible|amod\ta possible collaboration with Bad Bunny|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Support the East Tri !.",
+            "question_answers": [
+                {
+                    "question": "What did milenio.com report on 15/01/2018?",
+                    "answer": "Support the East Tri"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of support for the East Tri?",
+                    "score": 0.7348,
+                    "answers": "on 15/01/2018|prep\tthat|mark\tthe|det\t!|punct"
+                },
+                {
+                    "question": "What is the name of the group that supports the East Tri?",
+                    "score": 0.7113,
+                    "answers": "www.milenio.com reported on 15/01/2018 that Support the East Tri !|ROOT\tthat Support the East Tri|ccomp\tEast|compound"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.5973,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

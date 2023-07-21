@@ -1,0 +1,118 @@
+{
+    "id": "64_Entertainment_646",
+    "claim": "In  the film 'Cañitas' appeared on the big screen, portraying the most chilling case in a house in Mexico City, where there was a ouija in between and demons. But several years later one of the real protagonists of that event spoke about what happened and left Carlos Trejo as an authentic 'charlatan'. The meeting between friends that ended in a supposed tragedy, when the demon claimed the lives of those who played on the table of spirits, would have been an invention of Trejo, since one of those who allegedly died spoke to a media outlet and told his version. And in Carlos Trejo's investigation they say that Emmanuel lost his life in , after an accident in his car, where he traveled with his family and unfortunately everyone died. I'm sorry.",
+    "source": "www.tvnotas.com.mx",
+    "date": "09/02/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "In  the film 'Cañitas' appeared on the big screen, portraying the most chilling case in a house in Mexico City, where there was a ouija in between and demons.",
+            "question_answers": [
+                {
+                    "question": "What was there in between the demons and demons in the film 'Caitas'?",
+                    "answer": "ouija"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was the ouija in between and demons found in Mexico City?",
+                    "score": 0.6977,
+                    "answers": "in a house in Mexico City , where there was a ouija in between and demons|prep"
+                },
+                {
+                    "question": "How big is Cañitas?",
+                    "score": 0.6879,
+                    "answers": "big|amod"
+                },
+                {
+                    "question": "How many ouija are there in Mexico City?",
+                    "score": 0.6765,
+                    "answers": "portraying the most chilling case in a house in Mexico City , where there was a ouija in between and demons|advcl"
+                },
+                {
+                    "question": "What is the name of the movie Cañitas?",
+                    "score": 0.5969,
+                    "answers": "www.tvnotas.com.mx reported on 09/02/2017|ROOT"
+                },
+                {
+                    "question": "What is Cañitas?",
+                    "score": 0.588,
+                    "answers": "on 09/02/2017|prep\tthat|mark\tIn|prep\tthat In   the film ' Cañitas ' appeared on the big screen , portraying the most chilling case in a house in Mexico City , where there was a ouija in between and demons|dep\tthe|det\t'|punct\t' Cañitas '|nsubj\t'|punct\tthe film ' Cañitas ' appeared on the big screen , portraying the most chilling case in a house in Mexico City , where there was a ouija in between and demons|ccomp\ton the big screen|prep\tthe|det\tthe big screen|pobj\t,|punct\tthe|det\tmost|advmod\tmost chilling|amod\ta|det\t,|punct\ta|det\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "But several years later one of the real protagonists of that event spoke about what happened and left Carlos Trejo as an authentic 'charlatan'.",
+            "question_answers": [
+                {
+                    "question": "Who was the real protagonist of the event?",
+                    "answer": "Carlos Trejo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who left Carlos Trejo as an authentic charlatan?",
+                    "score": 0.8456,
+                    "answers": "that But several years later one of the real protagonists of that event spoke about what happened and left Carlos Trejo as an authentic ' charlatan '|ccomp\tleft Carlos Trejo as an authentic ' charlatan '|conj"
+                },
+                {
+                    "question": "What did Carlos Trejo say about the event?",
+                    "score": 0.8069,
+                    "answers": "But|cc\tseveral|amod\twhat|nsubj\tand|cc\tCarlos|compound"
+                },
+                {
+                    "question": "What was Carlos Trejo's role as a charlatan?",
+                    "score": 0.7729,
+                    "answers": "as an authentic ' charlatan|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Carlos Trejo being an authentic charlatan?",
+                    "score": 0.7345,
+                    "answers": "that|mark\tthe|det\tof that event|prep\tthat|det\tan|det"
+                },
+                {
+                    "question": "What is the relationship between Carlos Trejo and charlatan?",
+                    "score": 0.6896,
+                    "answers": "www.tvnotas.com.mx reported on 09/02/2017 that But several years later one of the real protagonists of that event spoke about what happened and left Carlos Trejo as an authentic ' charlatan '|ROOT\tan authentic ' charlatan|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The meeting between friends that ended in a supposed tragedy, when the demon claimed the lives of those who played on the table of spirits, would have been an invention of Trejo, since one of those who allegedly died spoke to a media outlet and told his version.",
+            "question_answers": [
+                {
+                    "question": "Why was the meeting between friends an invention of Trejo?",
+                    "answer": "one of those who allegedly died spoke to a media outlet and told his version"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the story of the meeting between friends that claimed the lives of those who played on the table of spirits?",
+                    "score": 0.6102,
+                    "answers": "since one of those who allegedly died spoke to a media outlet and told his version|advcl"
+                },
+                {
+                    "question": "What was the name of the person who supposedly died from Trejo?",
+                    "score": 0.5636,
+                    "answers": "one of those who allegedly died|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And in Carlos Trejo's investigation they say that Emmanuel lost his life in , after an accident in his car, where he traveled with his family and unfortunately everyone died.",
+            "question_answers": [
+                {
+                    "question": "What did Carlos Trejo say happened to Emmanuel?",
+                    "answer": "Emmanuel lost his life in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the cause of death in Carlos Trejo's car accident?",
+                    "score": 0.6413,
+                    "answers": "Carlos Trejo 's investigation|pobj\tafter an accident in his car , he traveled with his family and where unfortunately everyone died|prep"
+                }
+            ]
+        }
+    ]
+}

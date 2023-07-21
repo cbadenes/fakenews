@@ -1,0 +1,321 @@
+{
+    "id": "29_Education_12",
+    "claim": "The controversial measure that the University has launched is given to try to improve the results of the students. Oxford University has launched a measure to seek improvement of grades in its students. Despite the fact that the measure began to be introduced a few months ago, specifically in June of the NUMBER, it has now been transcended thanks to the information provided by the British media The Telegraph. The measure has generated some controversy due to its unequal nature with the genders of its students, as the University has decided to give  more time to women to take an exam with respect to male students. This increase in the duration of examinations is motivated by the low performance of women in the examination scores compared to that of men. In previous years, high scores among men were twice as high as among women, and this change is intended to equalize these imbalances. The University indicates that this increase in duration with which women have  minutes over the usual  minutes is done with real reasons in which women 'manage stress worse 'and 'review their responses more'. However, and following the controversy generated in such a curious way that it is carried out in order to 'mitigate the gender gap that has appeared in recent years ', the University does not intend to reverse it. The reason is that the results of this measure have been satisfactory as the average score of female students has been improved. Many critical voices about the situationThe measure has caused great controversy as many experts have assured that there are no gender differences in mathematical skills. In addition, despite the fact that the University indicates that they do so to equalize genders, the perception is that it causes a great inequality that shows that women remain the 'weak sex'. The networks on their side have shown their disbelief about it and criticize the extent to which they feel that women are being undervalued compared to men. I'm sorry.",
+    "source": "www.losreplicantes.com",
+    "date": "23/01/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The controversial measure that the University has launched is given to try to improve the results of the students.",
+            "question_answers": [
+                {
+                    "question": "What is the purpose of the controversial measure that the University has launched?",
+                    "answer": "to try to improve the results of the students"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of the project that the University launched to improve the results of students?",
+                    "score": 0.7387,
+                    "answers": "that|mark\tthat|dobj\tto|aux\tto|aux"
+                },
+                {
+                    "question": "What is the name of the controversial measure that the University has launched?",
+                    "score": 0.708,
+                    "answers": "www.losreplicantes.com reported on 23/01/2018 that The controversial measure that the University has launched is given to try to improve the results of the students|ROOT\tThe controversial measure that the University has launched|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "the University has launched The controversial measure that the University has launched .",
+            "question_answers": [
+                {
+                    "question": "When did www.losreplicantes.com report that the University has launched the controversial measure that the University has launched?",
+                    "answer": "23/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the controversial measure that the University has launched?",
+                    "score": 0.8241,
+                    "answers": "that the University has launched The controversial measure that the University has launched|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Despite the fact that The controversial measure that the University has launched began to be introduced a few months ago, specifically in June of the NUMBER, The controversial measure that the University has launched has now been transcended thanks to the information provided by the British media The Telegraph.",
+            "question_answers": [
+                {
+                    "question": "Who provided information on the controversial measure that the University has launched?",
+                    "answer": "the British media"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the British media say about the NUMBER measure?",
+                    "score": 0.688,
+                    "answers": "thanks to the information provided by the British media The Telegraph|npadvmod\tthe information provided by the British media The Telegraph|pobj\tby the British media The Telegraph|agent\tthe British media The Telegraph|pobj"
+                },
+                {
+                    "question": "What was the controversial measure that the University launched in June of 2018?",
+                    "score": 0.6793,
+                    "answers": "that The controversial measure that the University has launched began to be introduced a few months ago , specifically in June of the NUMBER|acl"
+                },
+                {
+                    "question": "How long has it been since the NUMBER measure has been introduced?",
+                    "score": 0.6611,
+                    "answers": "a few months|npadvmod"
+                },
+                {
+                    "question": "What was the purpose of the NUMBER measure?",
+                    "score": 0.6387,
+                    "answers": "on 23/01/2018|prep\tthat|mark\tthe|det\tthat|mark\tThe|det\tcontroversial|amod\tthat|dobj\tthe|det\thas|aux\tto|aux\tbe|auxpass\ta|det\tfew|amod\t,|punct\tspecifically|advmod\tthe|det\t,|punct\tThe|det\tcontroversial|amod\tthat|dobj\tthe|det\thas|aux\thas|aux\tnow|advmod\tbeen|auxpass\tthat Despite the fact that The controversial measure that the University has launched began to be introduced a few months ago , specifically in June of the NUMBER , The controversial measure that the University has launched has now been transcended thanks to the information provided by the British media The Telegraph|ccomp\tto the information provided by the British media The Telegraph|prep\tthe|det\tprovided by the British media The Telegraph|acl\tthe|det\tThe|det"
+                }
+            ]
+        },
+        {
+            "claim": "The controversial measure that the University has launched has generated some controversy due to unequal nature with the genders of its students , as the University has decided to give  more time to women to take an exam with respect to male students.",
+            "question_answers": [
+                {
+                    "question": "What has caused controversy about the controversial measure that the University has launched?",
+                    "answer": "unequal nature with the genders of its students"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much time did the University give students to take an exam with respect to their genders?",
+                    "score": 0.7836,
+                    "answers": "more time to women to take an exam with respect to male students|dobj"
+                },
+                {
+                    "question": "What did the University decide to do with the genders of its students?",
+                    "score": 0.768,
+                    "answers": "as the University has decided to give|advcl\tto give|xcomp\twomen|pobj\tto male students|prep"
+                },
+                {
+                    "question": "What is the ratio of males and females to females at Washington University?",
+                    "score": 0.6907,
+                    "answers": "male|amod"
+                },
+                {
+                    "question": "What is the name of the controversial measure that the University has launched?",
+                    "score": 0.6764,
+                    "answers": "www.losreplicantes.com reported on 23/01/2018 that The controversial measure that the University has launched has generated some controversy due to unequal nature with the genders of its students , as the University has decided to give   more time to women to take an exam with respect to male students|ROOT\ton 23/01/2018|prep\tcontroversial|amod\tThe controversial measure that the University has launched|nsubj\tthat The controversial measure that the University has launched has generated some controversy due to unequal nature with the genders of its students , as the University has decided to give|ccomp\tsome controversy|dobj\tits students|pobj"
+                },
+                {
+                    "question": "What is the purpose of the University of Texas?",
+                    "score": 0.6739,
+                    "answers": "that the University has launched|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "This increase in the duration of examinations is motivated by the low performance of women in the examination scores compared to that of men.",
+            "question_answers": [
+                {
+                    "question": "What motivated the increase in duration of examinations?",
+                    "answer": "low performance of women in the examination scores compared to that of men"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average exam duration per student?",
+                    "score": 0.7742,
+                    "answers": "the examination scores|pobj"
+                },
+                {
+                    "question": "What is the duration of examinations?",
+                    "score": 0.754,
+                    "answers": "www.losreplicantes.com|nsubj\tThis increase in the duration of examinations|nsubjpass\tin the duration of examinations|prep\tthe duration of examinations|pobj\tof examinations|prep\texaminations|pobj\tthat This increase in the duration of examinations is motivated by the low performance of women in the examination scores compared to that of men|ccomp\texamination|compound"
+                },
+                {
+                    "question": "What is the correlation between the duration of examinations and the performance of women in examinations?",
+                    "score": 0.7485,
+                    "answers": "low|amod"
+                },
+                {
+                    "question": "What is the education gap between men and women?",
+                    "score": 0.7388,
+                    "answers": "of men|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In previous years, high scores among men were twice as high as among women, and this change is intended to equalize these imbalances.",
+            "question_answers": [
+                {
+                    "question": "When did www.losreplicantes.com report that high scores among men were twice as high as among women?",
+                    "answer": "23/01/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between high scores among men and women?",
+                    "score": 0.8193,
+                    "answers": "www.losreplicantes.com|nsubj\twww.losreplicantes.com reported on 23/01/2018 that In previous years , high scores among men were twice as high as among women , and this change is intended to equalize these imbalances|ROOT\ton 23/01/2018|prep\tthat|mark\tIn previous years|prep\tprevious|amod\t,|punct\thigh scores among men|nsubj\tamong men|prep\tthat In previous years , high scores among men were twice as high as among women , and this change is intended to equalize these imbalances|ccomp\ttwice|advmod\tas|advmod\ttwice as high as among women|acomp\tas among women|prep\tamong women|prep\t,|punct\tand|cc\tthis|det\tthis change|nsubjpass\tis|auxpass\tthis change is intended to equalize these imbalances|conj\tto|aux\tto equalize these imbalances|xcomp\tthese|det\tthese imbalances|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "the University indicates that This increase in the duration of examinations is done with real reasons in which women 'manage stress worse 'and 'review responses more'.",
+            "question_answers": [
+                {
+                    "question": "What is one reason for the increase in duration of examinations?",
+                    "answer": "stress worse"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the reasons for the increase in duration of examinations at Washington University?",
+                    "score": 0.7238,
+                    "answers": "that the University indicates that This increase in the duration of examinations is done with real reasons women ' manage stress worse ' and in which ' review responses more '|ccomp"
+                },
+                {
+                    "question": "What is the duration of examinations?",
+                    "score": 0.7062,
+                    "answers": "in the duration of examinations|prep\tthat This increase in the duration of examinations is done with real reasons women ' manage stress worse ' and in which ' review responses more '|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the duration of examinations and student stress?",
+                    "score": 0.6738,
+                    "answers": "worse|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "However, and following the controversy generated in such a curious way that This increase in the duration of examinations is carried out in order to 'mitigate the gender gap that has appeared in recent years ', the University does not intend to reverse This increase in the duration of examinations .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the gender gap at Washington University?",
+                    "score": 0.7324,
+                    "answers": "gender|compound"
+                },
+                {
+                    "question": "What is the current duration of examinations at Washington University?",
+                    "score": 0.7307,
+                    "answers": "www.losreplicantes.com reported on 23/01/2018 that ' , the University does not intend to reverse However , and following the controversy generated in such a curious way that This increase in the duration of examinations is carried out in order to ' mitigate the gender gap that has appeared in recent years This increase in the duration of examinations|ROOT\ton 23/01/2018|prep\tthat|mark\tHowever|advmod\t,|punct\tand|cc\tHowever , and following the controversy generated in such a curious way that This increase in the duration of examinations is carried out in order to ' mitigate the gender gap that has appeared in recent years|prep\tthe|det\tsuch|predet\ta|det\tcurious|amod\tsuch a curious way that This increase in the duration of examinations is carried out in order to ' mitigate the gender gap that has appeared in recent years|pobj\tthat|mark\tThis|det\tthe|det\tis|auxpass\tthat This increase in the duration of examinations is carried out in order to ' mitigate the gender gap that has appeared in recent years|acl\tout|prt\tin order to ' mitigate the gender gap that has appeared in recent years|prep\tto|aux\t'|punct\tto ' mitigate the gender gap that has appeared in recent years|acl\tthe|det\tthat|nsubj\thas|aux\tthat has appeared in recent years|relcl\tin recent years|prep\trecent|amod\t'|punct\t,|punct\tthe|det\tdoes|aux\tnot|neg\tthat ' , the University does not intend to reverse However , and following the controversy generated in such a curious way that This increase in the duration of examinations is carried out in order to ' mitigate the gender gap that has appeared in recent years This increase in the duration of examinations|ccomp\tto|aux\tto reverse However , and following the controversy generated in such a curious way that This increase in the duration of examinations is carried out in order to ' mitigate the gender gap that has appeared in recent years This increase in the duration of examinations|xcomp\tThis|det\tHowever , and following the controversy generated in such a curious way that This increase in the duration of examinations is carried out in order to ' mitigate the gender gap that has appeared in recent years This increase in the duration of examinations|dobj\tthe|det"
+                },
+                {
+                    "question": "What is the duration of examinations?",
+                    "score": 0.7282,
+                    "answers": "the controversy generated in such a curious way that This increase in the duration of examinations is carried out in order to ' mitigate the gender gap that has appeared in recent years|pobj\tThis increase in the duration of examinations|nsubjpass\tthe duration of examinations|pobj\tof examinations|prep\tthe duration of examinations|pobj\tof examinations|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The reason is that the results of The controversial measure that the University has launched have been satisfactory as the average score of female students has been improved.",
+            "question_answers": [
+                {
+                    "question": "What has been improved?",
+                    "answer": "the average score of female students"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the average score of female students at Washington University?",
+                    "score": 0.8139,
+                    "answers": "www.losreplicantes.com|nsubj\twww.losreplicantes.com reported on 23/01/2018 that The reason is that the results of The controversial measure that the University has launched have been satisfactory as the average score of female students has been improved|ROOT\ton 23/01/2018|prep\tthat|mark\tThe|det\tThe reason|nsubj\tthat|mark\tthe|det\tThe|det\tcontroversial|amod\tthat|dobj\tthe|det\tthe University|nsubj\thas|aux\tthat the University has launched|relcl\thave|aux\tsatisfactory|acomp\tas|mark\tthe|det\taverage|amod\tthe average score of female students|nsubjpass\tof female students|prep\tfemale|amod\tfemale students|pobj\thas|aux\tbeen|auxpass"
+                },
+                {
+                    "question": "What is the name of the controversial measure that the University launched?",
+                    "score": 0.6942,
+                    "answers": "of The controversial measure that the University has launched|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Many critical voices about the situationThe measure has caused great controversy as many experts have assured that there are no gender differences in mathematical skills.",
+            "question_answers": [
+                {
+                    "question": "What have many experts assured about the measure?",
+                    "answer": "there are no gender differences in mathematical skills"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are there gender differences in mathematics?",
+                    "score": 0.9177,
+                    "answers": "that there are no gender differences in mathematical skills|ccomp"
+                },
+                {
+                    "question": "How many gender differences are there in mathematics?",
+                    "score": 0.8447,
+                    "answers": "no gender differences in mathematical skills|attr"
+                },
+                {
+                    "question": "What measure has caused great controversy?",
+                    "score": 0.8223,
+                    "answers": "measure|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the gender difference in mathematics?",
+                    "score": 0.7525,
+                    "answers": "measure has caused great controversy as many experts have assured that there are no gender differences in mathematical skills|ccomp"
+                },
+                {
+                    "question": "What is mathematics?",
+                    "score": 0.7511,
+                    "answers": "in mathematical skills|prep\tmathematical|amod\tmathematical skills|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, despite the fact that the University indicates that they do so to equalize genders, the perception is that it causes a great inequality that shows that women remain the 'weak sex'.",
+            "question_answers": [
+                {
+                    "question": "What is the perception of equalizing genders?",
+                    "answer": "the perception is that it causes a great inequality that shows that women remain the 'weak sex'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the University of Texas say about equalizing genders?",
+                    "score": 0.8776,
+                    "answers": "despite the fact that the University indicates that they do so to equalize genders|prep"
+                },
+                {
+                    "question": "What does it mean to be weak sex?",
+                    "score": 0.7744,
+                    "answers": "weak|amod\tthe ' weak sex '|attr"
+                },
+                {
+                    "question": "What is the purpose of equalizing genders?",
+                    "score": 0.7734,
+                    "answers": "that they do so to equalize genders|ccomp\tto equalize genders|advcl"
+                },
+                {
+                    "question": "What is the relationship between universities and equalizing genders?",
+                    "score": 0.7656,
+                    "answers": "that the University indicates that they do so to equalize genders|acl"
+                },
+                {
+                    "question": "What is the source of evidence of how many genders are there at the University of Texas?",
+                    "score": 0.7537,
+                    "answers": "the University|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The networks on their side have shown their disbelief about it and criticize the extent to which they feel that women are being undervalued compared to men.",
+            "question_answers": [
+                {
+                    "question": "What did the networks on their side criticize?",
+                    "answer": "the extent to which they feel that women are being undervalued compared to men"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What networks criticize the extent to which women are being undervalued compared to men?",
+                    "score": 0.7699,
+                    "answers": "the extent to which they feel that women are being undervalued compared to men|dobj"
+                },
+                {
+                    "question": "What is the relationship between men and women?",
+                    "score": 0.5886,
+                    "answers": "that The networks on their side have shown their disbelief about it and criticize the extent to which they feel that women are being undervalued compared to men|ccomp\tthat women are being undervalued compared to men|ccomp"
+                }
+            ]
+        }
+    ]
+}

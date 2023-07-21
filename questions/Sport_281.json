@@ -1,0 +1,185 @@
+{
+    "id": "Sport_281",
+    "claim": "On the verge of starting the Olympic Games in Rio , the Mexican delegation is calm, as the pressure on athletes until a week ago has disappeared. And it is that Enrique Peña Nieto, president of Mexico, had decreed a minimum number of  gold medals,  silver medals and  bronze medals.'And don't go back to me with less, eh!'I would have said. However, they have already explained to the president that medals are not wonunfortunatelyby decree. 'We already told him that if they were a fair national, it would be possible, but at this level it is cannon ', declared for El licenciado Miguel Ángel Osorio Chong, secretary of the Interior. Sources close to the first president made known the disappointment of this one: 'He says that then what case has to go to the Olympiad'. Fortunately, Carlos Padilla, president of the Mexican Olympic Committee, met this afternoon with Peña Nieto, and as he left the meeting he told the media that he had been able to reassure him: 'All right, all relax. I calmed him down by telling him that they can go tour his daughters, his wife, his hairdoer and anyone they want, for that is the true spirit of the just Olympic: the important thing is not to win, but to travel!'he said excitedly. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "03/08/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "On the verge of starting the Olympic Games in Rio , the Mexican delegation is calm, as the pressure on athletes until a week ago has disappeared.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 03/08/2016?",
+                    "answer": "On the verge of starting the Olympic Games in Rio"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the Mexican delegation arrive in Rio?",
+                    "score": 0.8599,
+                    "answers": "On the verge of starting the Olympic Games in Rio|prep\tthe verge of starting the Olympic Games in Rio|pobj\tof starting the Olympic Games in Rio|prep\tstarting the Olympic Games in Rio|pcomp\tthe Olympic Games in Rio|dobj\tin Rio|prep"
+                },
+                {
+                    "question": "What was the pressure on athletes until a week ago?",
+                    "score": 0.759,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 03/08/2016 that On the verge of starting the Olympic Games in Rio , the Mexican delegation is calm , as the pressure on athletes until a week ago has disappeared|ROOT\ton 03/08/2016|prep\tthat|mark\tthe|det\tthe|det\t,|punct\tthe|det\tthat On the verge of starting the Olympic Games in Rio , the Mexican delegation is calm , as the pressure on athletes until a week ago has disappeared|ccomp\tcalm|acomp\t,|punct\tas|mark\tthe|det\tthe pressure on athletes until a week ago|nsubj\ton athletes|prep\tathletes|pobj\ta|det\thas|aux\tas the pressure on athletes until a week ago has disappeared|advcl"
+                },
+                {
+                    "question": "What is the relationship between the Mexican delegation and the Olympics?",
+                    "score": 0.7356,
+                    "answers": "Olympic|compound\tthe Mexican delegation|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And it is that Enrique Peña Nieto, president of Mexico , had decreed a minimum number of  gold medals,  silver medals and  bronze medals.",
+            "question_answers": [
+                {
+                    "question": "Who is Enrique Pea Nieto?",
+                    "answer": "president of Mexico"
+                },
+                {
+                    "question": "Who is Enrique Pea Nieto?",
+                    "answer": "president of Mexico"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many gold medals has Enrique Peña Nieto received?",
+                    "score": 0.8537,
+                    "answers": "that|mark\tit|nsubj\tthat|mark\tEnrique|compound\tPeña|compound\tEnrique Peña Nieto , president of Mexico|nsubj\tpresident of Mexico|appos\tof Mexico|prep\thad|aux\ta|det\ta minimum number of|dobj\tof|prep\tgold|compound\tgold medals ,   silver medals and   bronze medals|pobj\tsilver|compound\t |dep"
+                }
+            ]
+        },
+        {
+            "claim": "However, the Mexican delegation have already explained to Enrique Peña Nieto, president of Mexico that medals are not wonunfortunatelyby decree.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did the Mexican delegation explain to Enrique Peña Nieto about medals?",
+                    "score": 0.874,
+                    "answers": "that medals are not wonunfortunatelyby decree|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the president of Mexico and Peña Nieto?",
+                    "score": 0.7564,
+                    "answers": "president of Mexico|appos"
+                },
+                {
+                    "question": "What is the source of evidence of the exchange between Peña Nieto and Nieto?",
+                    "score": 0.7469,
+                    "answers": "are|auxpass\tdecree|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'the Mexican delegation already told Enrique Peña Nieto, president of Mexico that if they were a fair national, it would be possible, but at this level it is cannon ', declared for El licenciado Miguel Ángel Osorio Chong, secretary of the Interior.",
+            "question_answers": [
+                {
+                    "question": "At this level, what is it called at this level?",
+                    "answer": "cannon"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Mexican delegation tell Enrique Peña Nieto about a fair national?",
+                    "score": 0.8054,
+                    "answers": "that|mark\t'|punct\tthe|det\talready|advmod\tEnrique|compound\t,|punct\tof Mexico|prep\tthat|mark\tif|mark\tthey|nsubj\tif they were a fair national|advcl\ta|det\t,|punct\tit|nsubj\twould|aux\tpossible|acomp\t,|punct\tthis|det\tit|nsubj\t'|punct\t,|punct\t,|punct\tthe|det"
+                },
+                {
+                    "question": "What is the definition of a fair national?",
+                    "score": 0.6172,
+                    "answers": "fair|amod\ta fair national|attr"
+                },
+                {
+                    "question": "What is the source of evidence of the meeting between Peña Nieto and the Mexican delegation?",
+                    "score": 0.6146,
+                    "answers": "the Mexican delegation|nsubj\tEnrique Peña Nieto , president of Mexico|dobj"
+                },
+                {
+                    "question": "What is a cannon?",
+                    "score": 0.5612,
+                    "answers": "at this level it is cannon|conj\tcannon|attr"
+                },
+                {
+                    "question": "What is El licenciado Miguel Ocngel Osorio Chong's political affiliation?",
+                    "score": 0.5592,
+                    "answers": "Ángel|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Sources close to Enrique Peña Nieto, president of Mexico made known the disappointment of this one: 'Enrique Peña Nieto, president of Mexico says that then what case has to go to the Olympiad'.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Enrique Peña Nieto say about the Olympics?",
+                    "score": 0.8818,
+                    "answers": "what|det"
+                },
+                {
+                    "question": "Who is the president of Mexico?",
+                    "score": 0.7278,
+                    "answers": "president of Mexico|appos\tpresident of Mexico|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Fortunately, Carlos Padilla, president of the Mexican Olympic Committee , met this afternoon with Enrique Peña Nieto, president of Mexico , and as Carlos Padilla, president of the Mexican Olympic Committee left met Carlos Padilla, president of the Mexican Olympic Committee told the media that Carlos Padilla, president of the Mexican Olympic Committee had been able to reassure Enrique Peña Nieto, president of Mexico : 'All right, all relax.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Did Carlos Padilla meet with Enrique Peña Nieto?",
+                    "score": 0.8826,
+                    "answers": "as Carlos Padilla , president of the Mexican Olympic Committee left met Carlos Padilla , president of the Mexican Olympic Committee told the media that Carlos Padilla , president of the Mexican Olympic Committee had been able to reassure Enrique Peña Nieto , president of Mexico : ' All right , all relax|conj"
+                },
+                {
+                    "question": "What did Padilla say to Peña Nieto about his meeting with Padilla?",
+                    "score": 0.8153,
+                    "answers": "'|punct"
+                },
+                {
+                    "question": "What is the relationship between Carlos Padilla and Enrique Peña Nieto?",
+                    "score": 0.6921,
+                    "answers": "www.eldizque.com|nsubj\ton 03/08/2016|prep\tthat|mark\tFortunately|advmod\t,|punct\t,|punct\tpresident of the Mexican Olympic Committee|appos\tthe|det\t,|punct\tthis|det\twith Enrique Peña Nieto , president of Mexico|prep\tEnrique|compound\tEnrique Peña Nieto , president of Mexico|pobj\t,|punct\tpresident of Mexico|appos\t,|punct\tand|cc\tas|mark\t,|punct\tpresident of the Mexican Olympic Committee|appos\tthe|det\t,|punct\tpresident of the Mexican Olympic Committee|appos\tthe|det\tthe|det\tthat|mark\t,|punct\tpresident of the Mexican Olympic Committee|appos\tthe|det\tto|aux\tEnrique|compound\tEnrique Peña Nieto , president of Mexico|dobj\t,|punct\tpresident of Mexico|appos\t:|punct\tAll|advmod\t,|punct\tall|nsubj\tAll right , all relax|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Carlos Padilla, president of the Mexican Olympic Committee calmed Enrique Peña Nieto, president of Mexico down by telling Enrique Peña Nieto, president of Mexico that they can go tour daughters, wife, hairdoer and anyone they want, for that is the true spirit of the just Olympic: the important thing is not to win, but to travel!'he said excitedly.",
+            "question_answers": [
+                {
+                    "question": "What did Carlos Padilla tell Enrique Pea Nieto?",
+                    "answer": "they can go tour daughters, wife, hairdoer and anyone they want,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Padilla tell Enrique Peña Nieto about visiting Mexico?",
+                    "score": 0.8171,
+                    "answers": "tour daughters , wife , hairdoer and anyone they want|xcomp\tdaughters , wife , hairdoer and anyone they want|dobj\twife , hairdoer and anyone they want|conj\tanyone they want|conj\tto travel!'he|ROOT"
+                },
+                {
+                    "question": "What did Padilla say about Enrique Peña Nieto being president of Mexico?",
+                    "score": 0.7951,
+                    "answers": "down|prt"
+                },
+                {
+                    "question": "What does it mean to go on tour with your daughters?",
+                    "score": 0.7421,
+                    "answers": "that they can go tour daughters , wife , hairdoer and anyone they want , for|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Peña Nieto and his daughters?",
+                    "score": 0.6223,
+                    "answers": "by telling Enrique Peña Nieto , president of Mexico that they can go tour daughters , wife , hairdoer and anyone they want , for|prep\ttelling Enrique Peña Nieto , president of Mexico that they can go tour daughters , wife , hairdoer and anyone they want , for|pcomp"
+                },
+                {
+                    "question": "What is the most important thing to travel?",
+                    "score": 0.6171,
+                    "answers": "the important thing|nsubj"
+                }
+            ]
+        }
+    ]
+}

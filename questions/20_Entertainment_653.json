@@ -1,0 +1,124 @@
+{
+    "id": "20_Entertainment_653",
+    "claim": "A public person – in this case The Son of the Holy One – can go to a masked court hearing, provided that before and in private he identifies himself before the judge and the counterpart. The above was upheld by the first chamber of the Supreme Court of Justice of the Nation (SCJN) in giving reason to the former fighter in the lawsuit for moral damage against the Triple AAA company, which commercialized without his consent the DVD of the event Triplemanía XVII Estelar Lucha Libre AAA, in which the plaintiff participated the  of June of . The court affirmed that JEGR (initials of the name of El Hijo de El Santo) appeared masked to a judicial confrontation, which, to say, of the legal representative of the defendant company violated his right to due process, because he held a judicial confrontation with a hooded subject, whose official identity was unknown. The judge of the case gave reason to the son of the silver masked man, because he is the legitimate owner of the rights of the character El Hijo de El Santo, so he condemned the company to repair the damage. The decision was upheld by a court and yesterday by the first chamber. I'm sorry.",
+    "source": "www.jornada.com.mx",
+    "date": "21/04/2016",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "A public person – in this case The Son of the Holy One – can go to a masked court hearing, provided that before and in private he identifies himself before the judge and the counterpart.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the person who can go to a masked court hearing?",
+                    "answer": "The Son of the Holy One"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to identify yourself as the Son of the Holy One?",
+                    "score": 0.6534,
+                    "answers": "in this case|prep"
+                },
+                {
+                    "question": "How many public people can go to a masked court hearing?",
+                    "score": 0.6436,
+                    "answers": "www.jornada.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The above was upheld by the first chamber of the Supreme Court of Justice of the Nation (SCJN) in giving reason to the former fighter in the lawsuit for moral damage against the Triple AAA company, which commercialized without his consent the DVD of the event Triplemanía XVII Estelar Lucha Libre AAA, in which the plaintiff participated the  of June of .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Who upheld the claims made by the former fighter in the lawsuit against the Triple AAA company?",
+                    "score": 0.7598,
+                    "answers": "of the Supreme Court of Justice of the Nation ( SCJN )|prep\tthe Supreme Court of Justice of the Nation ( SCJN )|pobj"
+                },
+                {
+                    "question": "What did SCJN say about the case against Triple AAA?",
+                    "score": 0.7171,
+                    "answers": "by the first chamber of the Supreme Court of Justice of the Nation ( SCJN ) in giving reason to the former fighter in the lawsuit for moral damage against the Triple AAA company , which commercialized without his consent the DVD of the event Triplemanía XVII Estelar Lucha Libre AAA , in which the plaintiff participated the|agent"
+                },
+                {
+                    "question": "What did a former member of the Triple AAA company say about the claim?",
+                    "score": 0.7138,
+                    "answers": "in the lawsuit for moral damage against the Triple AAA company , which commercialized without his consent the DVD of the event Triplemanía XVII Estelar Lucha Libre AAA , in which the plaintiff participated the|prep"
+                },
+                {
+                    "question": "What did SCJN do to help the former fighter?",
+                    "score": 0.704,
+                    "answers": "the first chamber of the Supreme Court of Justice of the Nation ( SCJN ) in giving reason to the former fighter in the lawsuit for moral damage against the Triple AAA company , which commercialized without his consent the DVD of the event Triplemanía XVII Estelar Lucha Libre AAA , in which the plaintiff participated the|pobj"
+                },
+                {
+                    "question": "What was the name of the DVD that was commercialized without his consent?",
+                    "score": 0.6307,
+                    "answers": "in giving reason to the former fighter in the lawsuit for moral damage against the Triple AAA company , which commercialized without his consent the DVD of the event Triplemanía XVII Estelar Lucha Libre AAA , in which the plaintiff participated the|prep\tthe Triple AAA company , which commercialized without his consent the DVD of the event Triplemanía XVII Estelar Lucha Libre AAA , in which the plaintiff participated the|pobj\twhich commercialized without his consent the DVD of the event Triplemanía XVII Estelar Lucha Libre AAA , in which the plaintiff participated the|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The court affirmed that JEGR (initials of the name of El Hijo de El Santo) appeared masked to a judicial confrontation, which, to say, of the legal representative of the defendant company violated his right to due process, because he held a judicial confrontation with a hooded subject, whose official identity was unknown.",
+            "question_answers": [
+                {
+                    "question": "What type of subject did JEGR appear masked to a judicial confrontation with?",
+                    "answer": "hooded"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did JEGR say about El Hijo de El Santo?",
+                    "score": 0.7079,
+                    "answers": "www.jornada.com.mx reported on 21/04/2016 that The court affirmed that JEGR ( initials of the name of El Hijo de El Santo ) appeared masked to a judicial confrontation , which , to say , of the legal representative of the defendant company violated his right to due process , because he held a judicial confrontation with a hooded subject , whose official identity was unknown|ROOT\tthat The court affirmed that JEGR ( initials of the name of El Hijo de El Santo ) appeared masked to a judicial confrontation , which , to say , of the legal representative of the defendant company violated his right to due process , because he held a judicial confrontation with a hooded subject , whose official identity was unknown|ccomp\t(|punct\tde|compound\t,|punct\twhich|dep\t,|punct\tto|aux\tto say|advcl\t,|punct\tdefendant|compound\t,|punct\the|nsubj\t,|punct"
+                },
+                {
+                    "question": "What did JEGR do to violate the right to due process?",
+                    "score": 0.6604,
+                    "answers": "on 21/04/2016|prep\tdue|amod"
+                },
+                {
+                    "question": "What is the relationship between JEGR and El Corazon de El Santo?",
+                    "score": 0.5915,
+                    "answers": "whose official identity|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The judge of the case gave reason to the son of the silver masked man, because he is the legitimate owner of the rights of the character El Hijo de El Santo, so he condemned the company to repair the damage.",
+            "question_answers": [
+                {
+                    "question": "Why did the judge give reason to the son of the silver masked man?",
+                    "answer": "legitimate owner of the rights of the character El Hijo de El Santo,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the judge say about El Hijo de El Santo?",
+                    "score": 0.7736,
+                    "answers": "on 21/04/2016|prep\tThe judge of the case|nsubj\tThe judge of the case gave reason to the son of the silver masked man , because he is the legitimate owner of the rights of the character El Hijo de El Santo|ccomp\treason|dobj\tthat The judge of the case gave reason to the son of the silver masked man , because he is the legitimate owner of the rights of the character El Hijo de El Santo , so he condemned the company to repair the damage|ccomp\tto repair the damage|advcl\tthe damage|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The decision was upheld by a court and yesterday by the first chamber.",
+            "question_answers": [
+                {
+                    "question": "The decision was upheld by a court and yesterday by what chamber?",
+                    "answer": "first chamber"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who upheld the decision by a court to uphold it by the first chamber?",
+                    "score": 0.8401,
+                    "answers": "yesterday by the first chamber|npadvmod"
+                },
+                {
+                    "question": "What did the court rule about the decision?",
+                    "score": 0.8004,
+                    "answers": "The decision|nsubjpass"
+                }
+            ]
+        }
+    ]
+}

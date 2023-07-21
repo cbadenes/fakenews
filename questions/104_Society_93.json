@@ -1,0 +1,519 @@
+{
+    "id": "104_Society_93",
+    "claim": "The beggars can be fined in Valladolid with  eurosThe new ordinance against begging approved by the City of Valladolid has reopened the citizen debate that is proposed if to fine with  euros to those who ask for alms is the best solution to end the more than  homeless people in our country and who live in the streets, according to the latest data from Caritas. Valladolid has been the last to join the cities that fine beggars by adhering to a norm of civicism and civic coexistence. Barcelona was the pioneer. Since  pursues organized begging understood as insistent, intrusive, aggressive or organized. The fine rule with financial penalties of between  euros to those who hinder the movement, the case of those who are installed at traffic lights, and of up to  euros to those who employ minors to practice begging like the women who ask in the street with children - many of them coming from countries of eastern Europe. Regarding the most common begging, that of people in social exclusion for all kinds of causes, the Barcelona ordinance aims to tackle the phenomenon with inclusion policies and not to fine those who have nothing. A law of common sense for AlicanteThe City of Alicante approved in , the ordinance of begging and prostitution in public spaces with sanctions ranging from  to  euros. The council of Citizen Security, defended the municipal ordinance because it was common sense, and had the consensus of the associations of neighbors. The rule is based on preventive and assistance criteria, so local police officers only punish repeat offenders. In this way the consistory eliminated the most controversial point that consisted in the possibility that the Agents would seize the money of the beggars. The objective of this regulation is similar to that of Barcelona. It aims to eliminate begging in the streets of Alicante by influencing child begging and begging that is coercive. In this sense, the municipal agreement includes practices such as the cleaning of vehicle windscreens and the offering of products to their occupants. Oviedo, light sanctionsThe ordinances of civic coexistence of the city of Oviedo regulate almost everything that cannot be done in the street: begging, painting, riding a skateboard or a bicycle, making a boat, offering or demanding sexual services, urinating or spitting. The city allows the activity of musicians and street artists but prohibits begging with a regime of light sanctions, which mainly includes verbal requirements and suggestions to go to the Social Services. Cartagena, a hard ruleThe city of Cartagena has an ordinance that expressly prohibits begging in the streets. The regulations prohibit ordering on the street, selling paper handkerchiefs or other unlicensed products and offering services, such as cleaning of car windows, in exchange for money. The local police especially pursue begging with minors, since the penalties in this case are higher. Officers may bring these cases to the attention of the National Police or the Guard Court, which shall take appropriate measures. In some cases, parents may lose custody of minors. I'm sorry.",
+    "source": "www.abc.es",
+    "date": "07/03/2012",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The rule can be fined in Valladolid with  eurosThe new ordinance against begging approved by Valladolid has reopened the citizen debate that is proposed if to fine with  euros to those who ask for alms is the best solution to end the more than  homeless people in our country The rule live in the streets, according to The rule latest data from Caritas.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Caritas say about the ordinance against begging in Valladolid?",
+                    "score": 0.7841,
+                    "answers": "latest|amod"
+                },
+                {
+                    "question": "What is the new ordinance against begging approved by Valladolid for those who ask for alms?",
+                    "score": 0.7296,
+                    "answers": "new|amod"
+                },
+                {
+                    "question": "How many homeless people live in Valladolid?",
+                    "score": 0.7197,
+                    "answers": "homeless|amod"
+                },
+                {
+                    "question": "What is Caritas' rule on begging in Valladolid?",
+                    "score": 0.7118,
+                    "answers": "The rule latest data from Caritas|pobj"
+                },
+                {
+                    "question": "What is the name of the rule that can be fined in Valladolid with  euros?",
+                    "score": 0.6731,
+                    "answers": "The rule|nsubjpass\tThe rule|nsubj\tThe rule|nmod"
+                }
+            ]
+        },
+        {
+            "claim": "Valladolid has been the last to join the cities that fine beggars by adhering to a norm of civicism and civic coexistence.",
+            "question_answers": [
+                {
+                    "question": "What city has been the last to join the cities that fine beggars by adhering to a norm of civicism and civic coexistence?",
+                    "answer": "Valladolid"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What cities have been fined for fine beggars?",
+                    "score": 0.8503,
+                    "answers": "www.abc.es said on 07/03/2012 that Valladolid has been the last to join the cities that fine beggars by adhering to a norm of civicism and civic coexistence|ROOT"
+                },
+                {
+                    "question": "What cities have fine beggars?",
+                    "score": 0.8351,
+                    "answers": "the last to join the cities that fine beggars by adhering to a norm of civicism and civic coexistence|attr"
+                },
+                {
+                    "question": "What is the norm of civicism and civic coexistence in Valladolid?",
+                    "score": 0.7772,
+                    "answers": "that fine beggars by adhering to a norm of civicism and civic coexistence|relcl\tbeggars|dobj\tby adhering to a norm of civicism and civic coexistence|prep\tadhering to a norm of civicism and civic coexistence|pcomp\tto a norm of civicism and civic coexistence|prep\ta|det\ta norm of civicism and civic coexistence|pobj\tof civicism and civic coexistence|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Barcelona was the pioneer.",
+            "question_answers": [
+                {
+                    "question": "What city was the pioneer?",
+                    "answer": "Barcelona"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did ABC.es say about Barcelona as a pioneer?",
+                    "score": 0.8268,
+                    "answers": "www.abc.es said on 07/03/2012 that Barcelona was the pioneer|ROOT"
+                },
+                {
+                    "question": "Who was the pioneer of the Barcelona club?",
+                    "score": 0.8096,
+                    "answers": "that|mark"
+                }
+            ]
+        },
+        {
+            "claim": "Since  pursues organized vehicle windscreens as insistent, intrusive, vehicle windscreens or organized.",
+            "question_answers": [
+                {
+                    "question": "What did www.abc.es say since pursues as insistent, intrusive, vehicle windscreens or organized?",
+                    "answer": "vehicle windscreens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How are organized vehicle windscreens organized?",
+                    "score": 0.8608,
+                    "answers": "that Since   pursues organized vehicle windscreens as insistent , intrusive , vehicle windscreens or organized|dep\tpursues organized vehicle windscreens as insistent , intrusive , vehicle windscreens or organized|advcl\tas insistent , intrusive , vehicle windscreens or organized|prep\tinsistent , intrusive , vehicle windscreens or organized|amod"
+                },
+                {
+                    "question": "What are organized vehicle windscreens?",
+                    "score": 0.766,
+                    "answers": "that|mark\tSince|mark\torganized|amod\tvehicle|compound\torganized vehicle windscreens|dobj\t,|punct\t,|punct\tvehicle|compound\tor|cc\torganized|conj"
+                },
+                {
+                    "question": "What are the functions of organized vehicle windscreens?",
+                    "score": 0.7172,
+                    "answers": "www.abc.es|nsubj\ton 07/03/2012|prep\tintrusive , vehicle windscreens or organized|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The fine rule with financial penalties of between  euros Oviedo the movement, the case of those who are installed at traffic lights, and of up to  euros to those who employ minors to practice begging like the women who ask in the street with children - Oviedo the women who ask in the street with children coming from countries of eastern Europe.",
+            "question_answers": [
+                {
+                    "question": "What is the fine rule with financial penalties of up to euros to?",
+                    "answer": "those who employ minors to practice begging like the women who ask in the street with children"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the financial penalties for those who employ minors to practice begging at traffic lights?",
+                    "score": 0.6551,
+                    "answers": "the case of those who are installed at traffic lights|appos"
+                },
+                {
+                    "question": "What is the fine rule for those who practice begging like the women who ask in the street with children?",
+                    "score": 0.5292,
+                    "answers": "the|det\tthe|det\tof up to|conj\tthe|det\tin the street|prep\tthe|det\tthe|det\tin the street|prep\tthe|det"
+                },
+                {
+                    "question": "What is Oviedo?",
+                    "score": 0.4733,
+                    "answers": "euros Oviedo the movement , the case of those who are installed at traffic lights , and of up to|nmod\tOviedo the movement , the case of those who are installed at traffic lights , and of up to|appos\tOviedo the women who ask in the street with children coming from countries of eastern Europe|pobj\tcountries of eastern Europe|pobj\tof eastern Europe|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Regarding the most common begging, that of people in social exclusion for all kinds of causes , the Barcelona ordinance aims to tackle the most common begging, that of people in social exclusion for all kinds of causes with Cartagena policies Cartagena who have nothing.",
+            "question_answers": [
+                {
+                    "question": "What is the most common begging?",
+                    "answer": "people in social exclusion for all kinds of causes"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Barcelona ordinance aim to do with begging?",
+                    "score": 0.7732,
+                    "answers": "www.abc.es said on 07/03/2012 that Regarding the most common begging , that of people in social exclusion for all kinds of causes , the Barcelona ordinance aims to tackle the most common begging , that of people in social exclusion for all kinds of causes with Cartagena policies Cartagena who have nothing|ROOT\tRegarding the most common begging , that of people in social exclusion for all kinds of causes|prep\tthe most common begging , that of people in social exclusion for all kinds of causes|pobj"
+                },
+                {
+                    "question": "How many people in social exclusion for all kinds of causes are begging?",
+                    "score": 0.7349,
+                    "answers": "www.abc.es|nsubj\ton 07/03/2012|prep\tmost|advmod\tof people in social exclusion for all kinds of causes|prep\tmost|advmod\twho|nsubj\tnothing|dobj"
+                },
+                {
+                    "question": "What are the causes of begging in Barcelona?",
+                    "score": 0.7285,
+                    "answers": "in social exclusion for all kinds of causes|prep\tfor all kinds of causes|prep\tof causes|prep\tcauses|pobj\tin social exclusion for all kinds of causes|prep\tfor all kinds of causes|prep\tof causes|prep\tcauses|pobj"
+                },
+                {
+                    "question": "What is the purpose of the Barcelona ordinance regarding begging?",
+                    "score": 0.7254,
+                    "answers": "the Barcelona ordinance|nsubj"
+                },
+                {
+                    "question": "What are the Cartagena policies for begging?",
+                    "score": 0.6946,
+                    "answers": "to tackle the most common begging , that of people in social exclusion for all kinds of causes with Cartagena policies Cartagena who have nothing|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "A law of common sense for AlicanteThe approved in , the ordinance of begging and prostitution in public spaces with sanctions ranging from  to  euros .",
+            "question_answers": [
+                {
+                    "question": "What did www.abc.es say about the ordinance of begging and prostitution in public spaces?",
+                    "answer": "A law of common sense for AlicanteThe approved in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the law of common sense for the ordinance of begging and prostitution in public spaces?",
+                    "score": 0.7467,
+                    "answers": "in public spaces|prep\tpublic spaces|pobj"
+                },
+                {
+                    "question": "What are the sanctions for using prostitution and begging in public spaces?",
+                    "score": 0.7163,
+                    "answers": "with sanctions ranging from|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The council of Citizen Security, defended the ordinance of begging and prostitution in public spaces with sanctions ranging from  to  euros because the ordinance of begging and prostitution in public spaces with sanctions ranging from  to  euros was common sense, and had the consensus of the associations of neighbors.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What sanctions were imposed on the ordinance of begging and prostitution in public spaces?",
+                    "score": 0.7126,
+                    "answers": "with sanctions ranging from|prep\tsanctions ranging from|pobj\twith sanctions ranging from|prep\tsanctions ranging from|pobj"
+                },
+                {
+                    "question": "What was the consensus of the associations of neighbors?",
+                    "score": 0.5446,
+                    "answers": "had the consensus of the associations of neighbors|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The rule is based on preventive and assistance criteria, so local police officers only punish repeat offenders.",
+            "question_answers": [
+                {
+                    "question": "What do local police officers punish?",
+                    "answer": "repeat offenders"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What criteria does local police use to punish repeat offenders?",
+                    "score": 0.9203,
+                    "answers": "on preventive and assistance criteria|prep\tassistance|conj"
+                },
+                {
+                    "question": "How many repeat offenders were there in Florida in 2012?",
+                    "score": 0.8303,
+                    "answers": "so local police officers only punish repeat offenders|advcl"
+                },
+                {
+                    "question": "What are the preventive and assistance criteria for repeat offenders?",
+                    "score": 0.824,
+                    "answers": "that The rule is based on preventive and assistance criteria , so local police officers only punish repeat offenders|ccomp"
+                },
+                {
+                    "question": "What is the rule of local police officers on preventive and assistance criteria?",
+                    "score": 0.7174,
+                    "answers": "on 07/03/2012|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In this way the consistory eliminated the most controversial point that consisted in the possibility that the Agents would seize the money of the beggars.",
+            "question_answers": [
+                {
+                    "question": "What was the most controversial point of the consistory?",
+                    "answer": "the Agents would seize the money of the beggars"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the consistory eliminate the most controversial point that included the possibility that the Agents would seize money of the beggars?",
+                    "score": 0.7539,
+                    "answers": "the money of the beggars|dobj"
+                },
+                {
+                    "question": "What was the purpose of the consistory?",
+                    "score": 0.7034,
+                    "answers": "the consistory|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The objective of this regulation is similar to that of Barcelona.",
+            "question_answers": [
+                {
+                    "question": "Who said that the goal of this regulation is similar to that of Barcelona?",
+                    "answer": "www.abc.es"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the objectives of the regulation of the Barcelona club?",
+                    "score": 0.8465,
+                    "answers": "that|mark\tThe|det"
+                },
+                {
+                    "question": "What is the purpose of this regulation?",
+                    "score": 0.78,
+                    "answers": "The objective of this regulation|nsubj\tof this regulation|prep\tthis regulation|pobj\tthat The objective of this regulation is similar to that of Barcelona|ccomp\tsimilar to that of Barcelona|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "It aims to eliminate begging in the streets of Alicante by influencing child begging and begging that is coercive.",
+            "question_answers": [
+                {
+                    "question": "What is the aim of www.abc.es?",
+                    "answer": "eliminate begging in the streets of Alicante"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the methods used to influence begging and begging in Alicante?",
+                    "score": 0.818,
+                    "answers": "by influencing child begging and begging that is coercive|prep\tinfluencing child begging and begging that is coercive|pcomp"
+                },
+                {
+                    "question": "What is the purpose of begging in Alicante?",
+                    "score": 0.7894,
+                    "answers": "begging|conj"
+                },
+                {
+                    "question": "What is the name of the group that seeks to eliminate begging in Alicante?",
+                    "score": 0.7413,
+                    "answers": "www.abc.es said on 07/03/2012 that It aims to eliminate begging in the streets of Alicante by influencing child begging and begging that is coercive|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "In this sense, the municipal agreement includes practices such as the cleaning of vehicle windscreens and the offering of products to their occupants.",
+            "question_answers": [
+                {
+                    "question": "What is one of the practices included in the municipal agreement?",
+                    "answer": "cleaning of vehicle windscreens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the municipal agreement say about the cleaning of vehicle windscreens?",
+                    "score": 0.8471,
+                    "answers": "to their occupants|prep"
+                },
+                {
+                    "question": "What is the municipal agreement for cleaning vehicle windscreens?",
+                    "score": 0.8063,
+                    "answers": "practices such as the cleaning of vehicle windscreens and the offering of products to their occupants|dobj\tvehicle windscreens|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Oviedo, light sanctionsThe ordinances of civic coexistence of the city of Oviedo regulate almost everything that cannot be done in the street: begging, painting, riding a skateboard or a bicycle, making a boat, offering or demanding sexual services, urinating or spitting.",
+            "question_answers": [
+                {
+                    "question": "What regulates almost everything that cannot be done in the street?",
+                    "answer": "ordinances of civic coexistence"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Does Oviedo regulate everything that cannot be done in the street?",
+                    "score": 0.765,
+                    "answers": "in the street|prep"
+                },
+                {
+                    "question": "What are the laws in Oviedo concerning begging, painting, riding a skateboard or a bicycle?",
+                    "score": 0.6876,
+                    "answers": "www.abc.es said on 07/03/2012 that Oviedo , light sanctionsThe ordinances of civic coexistence of the city of Oviedo regulate almost everything that can not be done in the street : begging , painting , riding a skateboard or a bicycle , making a boat , offering or demanding sexual services , urinating or spitting|ROOT\tbegging , painting , riding a skateboard or a bicycle , making a boat , offering or demanding sexual services , urinating or spitting|appos"
+                },
+                {
+                    "question": "What are the ordinances of Oviedo regulating?",
+                    "score": 0.6804,
+                    "answers": "of civic coexistence|prep\triding a skateboard or a bicycle , making a boat , offering or demanding sexual services , urinating or spitting|conj"
+                },
+                {
+                    "question": "What is the ordinance of civic coexistence of the city of Oviedo?",
+                    "score": 0.6235,
+                    "answers": "that can not be done in the street|relcl"
+                },
+                {
+                    "question": "What is the punishment for urinating or spitting in Oviedo?",
+                    "score": 0.5949,
+                    "answers": "spitting|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The city allows the activity of musicians and street artists but prohibits begging with a regime of light sanctions, which mainly includes verbal requirements and suggestions to go to the Social Services.",
+            "question_answers": [
+                {
+                    "question": "What does the regime of light sanctions include?",
+                    "answer": "verbal requirements and suggestions to go to the Social Services"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the activity of musician and street artists in South Africa?",
+                    "score": 0.65,
+                    "answers": "the activity of musicians and street artists|dobj"
+                },
+                {
+                    "question": "What is the regime of light sanctions on begging in South Africa?",
+                    "score": 0.6171,
+                    "answers": "begging|dobj"
+                },
+                {
+                    "question": "How many street artists are there in the city?",
+                    "score": 0.6138,
+                    "answers": "street artists|conj"
+                },
+                {
+                    "question": "What is the source of evidence of all the requirements for begging in the city?",
+                    "score": 0.6072,
+                    "answers": "verbal requirements and suggestions to go to the Social Services|dobj"
+                },
+                {
+                    "question": "What is the name of the regime that allows the activity of musicians and street artists?",
+                    "score": 0.6034,
+                    "answers": "of musicians and street artists|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Cartagena, a hard ruleThe city of Cartagena has an ordinance that expressly prohibits begging in the streets.",
+            "question_answers": [
+                {
+                    "question": "What does the city of Cartagena prohibit in the streets?",
+                    "answer": "begging"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Does Cartagena prohibit begging in the streets?",
+                    "score": 0.8844,
+                    "answers": "www.abc.es said on 07/03/2012 that Cartagena , a hard ruleThe city of Cartagena has an ordinance that expressly prohibits begging in the streets|ROOT\tthat|mark\t,|punct\ta|det\tan|det\tan ordinance that expressly prohibits begging in the streets|dobj\tthat|nsubj\texpressly|advmod\tthat expressly prohibits begging in the streets|relcl\tthe|det"
+                },
+                {
+                    "question": "How many people are begging in the streets of Cartagena?",
+                    "score": 0.8385,
+                    "answers": "begging in the streets|xcomp\tin the streets|prep"
+                },
+                {
+                    "question": "What is Cartagena's stance on begging?",
+                    "score": 0.7898,
+                    "answers": "Cartagena ,|nsubj\thard|amod\ta hard ruleThe|det\ta hard ruleThe city of Cartagena|nsubj\tof Cartagena|prep\tthat Cartagena , a hard ruleThe city of Cartagena has an ordinance that expressly prohibits begging in the streets|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The regulations prohibit ordering on the street, selling paper handkerchiefs or other unlicensed products and offering services, such as cleaning of car windows, in exchange for money.",
+            "question_answers": [
+                {
+                    "question": "What did the regulations prohibit selling on the street?",
+                    "answer": "paper handkerchiefs or other unlicensed products"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What regulations prohibit ordering on the street or selling paper handkerchiefs?",
+                    "score": 0.8421,
+                    "answers": "the street|pobj"
+                },
+                {
+                    "question": "What are the regulations for ordering on the street, selling paper handkerchiefs or other unlicensed products?",
+                    "score": 0.7734,
+                    "answers": "exchange for money|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The local police especially pursue begging with minors, since the penalties in this case are higher.",
+            "question_answers": [
+                {
+                    "question": "Who pursues begging with minors?",
+                    "answer": "The local police"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the penalties for begging with minors?",
+                    "score": 0.829,
+                    "answers": "www.abc.es said on 07/03/2012 that The local police especially pursue begging with minors , since the penalties in this case are higher|ROOT\ton 07/03/2012|prep\tthat|mark\tThe|det\tThe local police|nsubj\tespecially|advmod\tthat The local police especially pursue begging with minors , since the penalties in this case are higher|ccomp\tbegging|dobj\twith minors|prep\tminors|pobj\t,|punct\tsince|mark\tthe|det\tthe penalties in this case|nsubj\tin this case|prep\tthis|det\tthis case|pobj\tsince the penalties in this case are higher|advcl\thigher|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "Officers may bring these cases to the attention of the National Police or the Guard Court, which shall take appropriate measures.",
+            "question_answers": [
+                {
+                    "question": "Who may bring these cases to the attention of the National Police or Guard Court?",
+                    "answer": "Officers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the National Police or Guard Court do to respond to the allegations?",
+                    "score": 0.7258,
+                    "answers": "www.abc.es said on 07/03/2012 that Officers may bring these cases to the attention of the National Police or the Guard Court , which shall take appropriate measures|ROOT\tOfficers|nsubj\tthat Officers may bring these cases to the attention of the National Police or the Guard Court , which shall take appropriate measures|ccomp\tof the National Police or the Guard Court , which shall take appropriate measures|prep\tthe National Police or the Guard Court , which shall take appropriate measures|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In some cases, parents may lose custody of minors.",
+            "question_answers": [
+                {
+                    "question": "What did www.abc.es say in some cases?",
+                    "answer": "parents may lose custody of minors"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many minors do parents lose custody of?",
+                    "score": 0.9021,
+                    "answers": "of minors|prep"
+                },
+                {
+                    "question": "How many cases of parents losing custody of minors are there?",
+                    "score": 0.8947,
+                    "answers": "In some cases|prep\tsome cases|pobj"
+                },
+                {
+                    "question": "How many parents lose custody of minors?",
+                    "score": 0.8926,
+                    "answers": "parents|nsubj"
+                },
+                {
+                    "question": "What is the relationship between parents losing custody and minors?",
+                    "score": 0.8377,
+                    "answers": "may|aux"
+                },
+                {
+                    "question": "What is the definition of a parent losing custody of a child?",
+                    "score": 0.8198,
+                    "answers": "www.abc.es said on 07/03/2012 that In some cases , parents may lose custody of minors|ROOT\ton 07/03/2012|prep"
+                }
+            ]
+        }
+    ]
+}

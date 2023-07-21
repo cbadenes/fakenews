@@ -1,0 +1,211 @@
+{
+    "id": "144_Science_120",
+    "claim": "Playing reggaeton on iPhones and other Apple devices can seriously damage equipment, to such an extent that the damage could be completely irreparable, according to one of the technicians of this company. Nicholas Appleseed, who made the discovery, kindly granted us a telephone interview, where he told us about this phenomenon. 'It seems that with just playing a song, the device may have minor problems such as loss of speed, disconnections or faster battery wear. However, frequent use may cause the display to crash spontaneously, the circuits to burn, or even the device to explode'. According to the expert, a series of tests were carried out to eliminate any possibility of error, but he assured that'there is no doubt that it is this type of music .. by calling it in some way, which causes all the malfunctions'. According to the same research, other melodies such as band music, narcocorrido and the Durangian pass can produce similar effects, but not as extreme as those of reggaeton. Unlike other problems that have arisen, Apple is not working to solve this, but it urges users not to use this type of music, 'not only for the sake of your teams, but for your own sake ', the expert concluded. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "19/04/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Playing reggaeton on iPhones and other Apple devices can seriously damage equipment, to such an extent that the damage could be completely irreparable, according to one of the technicians of this company.",
+            "question_answers": [
+                {
+                    "question": "What can seriously damage equipment?",
+                    "answer": "Playing reggaeton on iPhones and other Apple devices"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can playing reggaeton on Apple devices cause damage?",
+                    "score": 0.8877,
+                    "answers": "seriously|advmod"
+                },
+                {
+                    "question": "What damage can playing reggaeton cause to Apple devices?",
+                    "score": 0.8786,
+                    "answers": "such an extent that the damage could be completely irreparable|pobj"
+                },
+                {
+                    "question": "What is the damage done by playing reggaeton on iPhone and other Apple devices?",
+                    "score": 0.8056,
+                    "answers": "completely irreparable|acomp\taccording to one of the technicians of this company|prep"
+                },
+                {
+                    "question": "What is the relationship between playing reggaeton and Apple?",
+                    "score": 0.7254,
+                    "answers": "one of the technicians of this company|pobj"
+                },
+                {
+                    "question": "Who is the technicians of Dell?",
+                    "score": 0.5679,
+                    "answers": "the technicians of this company|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Nicholas Appleseed, who made the discovery, kindly granted us a telephone interview, where he told us about this phenomenon.",
+            "question_answers": [
+                {
+                    "question": "When did Nicholas Appleseed give us a telephone interview?",
+                    "answer": "19/04/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Nicholas Appleseed say about his discovery?",
+                    "score": 0.868,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 19/04/2016 that Nicholas Appleseed , who made the discovery , kindly granted us a telephone interview , where he told us about this phenomenon|ROOT\ton 19/04/2016|prep\t19/04/2016|pobj\tthat|mark\tNicholas|compound\tNicholas Appleseed , who made the discovery ,|nsubj\t,|punct\twho|nsubj\twho made the discovery|relcl\tthe|det\t,|punct\tkindly|advmod\tthat Nicholas Appleseed , who made the discovery , kindly granted us a telephone interview , where he told us about this phenomenon|ccomp\ta|det\ttelephone|compound\t,|punct\twhere|advmod\the|nsubj\tthis|det"
+                }
+            ]
+        },
+        {
+            "claim": "'It seems that with just playing a song, the device may have minor problems such as loss of speed, disconnections or faster battery wear.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 19/04/2016",
+                    "answer": "'It seems that with just playing a song, the device may have minor problems such as loss of speed, disconnections or faster battery wear"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the possible problems with the device playing a song?",
+                    "score": 0.7821,
+                    "answers": "on 19/04/2016|prep\t'|punct\tIt|nsubj\tjust|advmod\t,|punct\tthe device|nsubj\tminor|amod\t,|punct\tor|cc"
+                },
+                {
+                    "question": "What is the average battery life of an Apple device?",
+                    "score": 0.7575,
+                    "answers": "a|det\tbattery|compound"
+                },
+                {
+                    "question": "What is a song?",
+                    "score": 0.6798,
+                    "answers": "a song|dobj"
+                },
+                {
+                    "question": "What is the best measure of battery wear?",
+                    "score": 0.6764,
+                    "answers": "speed|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, frequent use may cause the display to crash spontaneously, the circuits to burn, or even the device to explode'.",
+            "question_answers": [
+                {
+                    "question": "What could cause the display to crash spontaneously?",
+                    "answer": "frequent use"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the possible side effects of using a display?",
+                    "score": 0.7563,
+                    "answers": "the display to crash spontaneously , the circuits to burn , or even the device to explode|ccomp"
+                },
+                {
+                    "question": "What are the benefits of frequent use?",
+                    "score": 0.737,
+                    "answers": "frequent use|nsubj"
+                },
+                {
+                    "question": "What are the functions of the circuit board?",
+                    "score": 0.7067,
+                    "answers": "the circuits|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the expert, a series of tests were carried out to eliminate any possibility of error, but he assured that'there is no doubt that it is this type of music .. by calling it in some way, which causes all the malfunctions'.",
+            "question_answers": [
+                {
+                    "question": "What did the expert say was the cause of all the malfunctions?",
+                    "answer": "this type of music"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of malfunctions were performed?",
+                    "score": 0.7837,
+                    "answers": "music|pobj"
+                },
+                {
+                    "question": "What did the expert say about the malfunctions?",
+                    "score": 0.7512,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 19/04/2016 that According to the expert , a series of tests were carried out to eliminate any possibility of error , but he assured that'there is no doubt that it is this type of music .. by calling it in some way , which causes all the malfunctions '|ROOT\ton 19/04/2016|prep\tthat|mark\tAccording to the expert|prep\tto the expert|prep\tthe|det\tthe expert|pobj\t,|punct\ta|det\ta series of tests|nsubjpass\ttests|pobj\tthat According to the expert , a series of tests were carried out to eliminate any possibility of error , but he assured that'there is no doubt that it is this type of music .. by calling it in some way , which causes all the malfunctions '|ccomp\tout|prt\tto|aux\tany|det\tany possibility of error|dobj\tof error|prep\terror|pobj\t,|punct\tbut|cc\the|nsubj\the assured that'there is no doubt that it is this type of music .. by calling it in some way , which causes all the malfunctions '|conj\tthat'there|mark\tno|det\tno doubt that it is this type of music ..|attr\tthat|mark\tit|nsubj\tthat it is this type of music ..|acl\tthis|det\t..|punct\tby calling it in some way , which causes all the malfunctions '|prep\tcalling it in some way , which causes all the malfunctions|pcomp\tit|dobj\tin some way|prep\tsome|det\tsome way|pobj\t,|punct\twhich|nsubj\tall|predet\tthe|det\t'|pcomp"
+                },
+                {
+                    "question": "How many malfunctions were there in 2016?",
+                    "score": 0.7116,
+                    "answers": "were|auxpass"
+                },
+                {
+                    "question": "What was the purpose of the series of tests carried out to eliminate errors?",
+                    "score": 0.689,
+                    "answers": "of tests|prep"
+                },
+                {
+                    "question": "What is the cause of malfunctions?",
+                    "score": 0.6871,
+                    "answers": "which causes all the malfunctions|advcl\tall the malfunctions|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the same research, other melodies such as band music, narcocorrido and the Durangian pass can produce similar effects, but not as extreme as those of reggaeton.",
+            "question_answers": [
+                {
+                    "question": "What other melodies can produce the same effects as reggaeton?",
+                    "answer": "narcocorrido and the Durangian pass"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the effects of band music and narcocorrido?",
+                    "score": 0.7085,
+                    "answers": "other melodies such as band music , narcocorrido and the Durangian pass|nsubj\tsimilar effects , but not as extreme as those of reggaeton|dobj\tas those of reggaeton|prep\tthose of reggaeton|pobj\tof reggaeton|prep"
+                },
+                {
+                    "question": "What is the relationship between band music and reggaeton?",
+                    "score": 0.6866,
+                    "answers": "reggaeton|pobj"
+                },
+                {
+                    "question": "What is the Durangian pass?",
+                    "score": 0.619,
+                    "answers": "such as band music , narcocorrido and the Durangian pass|prep\tDurangian|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Unlike other problems that have arisen, Apple is not working to solve this, but it urges users not to use this type of music, 'not only for the sake of your teams, but for your own sake ', the expert concluded.",
+            "question_answers": [
+                {
+                    "question": "Why did eldizque say Apple urge users not to use this type of music?",
+                    "answer": "'not only for the sake of your teams, but for your own sake"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Apple tell users about using this type of music?",
+                    "score": 0.8315,
+                    "answers": "that Unlike other problems that have arisen , Apple is not working to solve this , but it urges users not to use this type of music , ' not only for the sake of your teams , but for your own sake|ccomp"
+                },
+                {
+                    "question": "What does Apple want users to do with the type of music they use?",
+                    "score": 0.7961,
+                    "answers": "other|amod\tto solve this|advcl\tnot to use this type of music , ' not only for the sake of your teams , but for your own sake|xcomp"
+                },
+                {
+                    "question": "What is Apple doing to solve the problem?",
+                    "score": 0.7219,
+                    "answers": "not|neg\tnot|neg\tnot only|preconj"
+                },
+                {
+                    "question": "What are the problems Apple is trying to solve?",
+                    "score": 0.7,
+                    "answers": "Unlike other problems that have arisen|prep\tother problems that have arisen|pobj\tthat have arisen|relcl"
+                }
+            ]
+        }
+    ]
+}

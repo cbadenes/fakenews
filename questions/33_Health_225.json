@@ -1,0 +1,333 @@
+{
+    "id": "33_Health_225",
+    "claim": "California, United States. - A security officer ordered a chicken order and was handed over to her with an unpleasant surprise included. A scandal that damages KFC's reputation globally. Brand crisis: more than  a thousand Volkswagen cars put their drivers at riskThe guard ordered three pieces of chicken and left the place, biting the piece had an unpleasant feeling and spit it out to see that the piece was shaped like rodent. He immediately took pictures of his food and went viral in seconds on social media. According to the personnel of the fast food chain, although the figure of the piece is not sufficient evidence, they are willing to perform laboratory tests to correct the error. This situation is not the first time that has arisen in fast food restaurants, as brands such as McDonald's, Domino's Pizza, Pizza Hut and Burger King, among others, have been seriously affected. A cockroach inside a McDonald's burger. A knife inside a baguette from Subway. And just like these examples, there are a lot of oversights in the food industry, which has an impact on the brand's credibility and reputation. Don't worry that many times they don't have a solution. I'm sorry.",
+    "source": "www.merca20.com",
+    "date": "17/06/2015",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "California, United States.",
+            "question_answers": [
+                {
+                    "question": "On what date did www.merca20.com report that California, United States was a state?",
+                    "answer": "17/06/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between California and the United States?",
+                    "score": 0.6852,
+                    "answers": "that California , United States|npadvmod"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.6276,
+                    "answers": "www.merca20.com|nsubj\twww.merca20.com reported on 17/06/2015 that California , United States|ROOT\ton 17/06/2015|prep\tthat|mark\t,|punct\tUnited|compound"
+                }
+            ]
+        },
+        {
+            "claim": "- A security officer ordered a chicken order and was handed over to her with an unpleasant surprise included.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that a security officer ordered a chicken order?",
+                    "answer": "17/06/2015"
+                },
+                {
+                    "question": "Who ordered a chicken order?",
+                    "answer": "A security officer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did a security officer say about the chicken order?",
+                    "score": 0.7734,
+                    "answers": "www.merca20.com reported on 17/06/2015 that - A security officer ordered a chicken order and was handed over to her with an unpleasant surprise included|ROOT\ton 17/06/2015|prep\tthat|mark\t-|punct\tthat - A security officer ordered a chicken order and was handed over to her with an unpleasant surprise included|ccomp\tand|cc\twas|auxpass\twas handed over to her with an unpleasant surprise included|conj\tover|prt\tto her|prep\ther|pobj\twith|mark\tunpleasant|amod\tan unpleasant surprise|nsubj\twith an unpleasant surprise included|advcl"
+                },
+                {
+                    "question": "What was the name of the security officer who ordered a chicken order?",
+                    "score": 0.7377,
+                    "answers": "A|det\tsecurity|compound\tA security officer|nsubj"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.5493,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "A scandal that damages KFC's reputation globally.",
+            "question_answers": [
+                {
+                    "question": "Who reported on a scandal that damages KFC's reputation globally?",
+                    "answer": "www.merca20.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What scandal has damaged KFC's reputation?",
+                    "score": 0.9171,
+                    "answers": "that A scandal that damages KFC 's reputation globally|ccomp\tthat damages KFC 's reputation globally|relcl\tKFC 's|poss\tKFC 's reputation globally|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the scandal that affects KFC's reputation?",
+                    "score": 0.8803,
+                    "answers": "globally|advmod"
+                },
+                {
+                    "question": "What is the relationship between KFC andmerca20.com?",
+                    "score": 0.8434,
+                    "answers": "www.merca20.com reported on 17/06/2015 that A scandal that damages KFC 's reputation globally|ROOT"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.8241,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Brand crisis: more than  a thousand Volkswagen cars put their drivers at riskThe guard ordered three pieces of chicken and left the place, biting the piece had an unpleasant feeling and spit it out to see that the piece was shaped like rodent.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many pieces of chicken did the guard order from a car?",
+                    "score": 0.6262,
+                    "answers": "www.merca20.com reported on 17/06/2015 that Brand crisis :|ROOT\ton 17/06/2015|prep\tthat|det\tBrand|compound\tthat Brand crisis :|dobj\t:|punct\tmore|amod\tmore than|dep\ta|quantmod\ta thousand|nummod\ttheir|poss\ttheir drivers|dobj\tat|prep\triskThe|det\triskThe guard|nsubj\tthree pieces of chicken|dobj\tof chicken|prep\tchicken|pobj\tand|cc\tthe|det\tthe place|dobj\t,|punct\tthe|det\tthe piece|dobj\tan|det\tunpleasant|amod\tan unpleasant feeling|dobj\tand|cc\tit|dobj\tout|prt\tto|aux\tthat|mark\tthe|det\tthe piece|nsubjpass\twas|auxpass"
+                },
+                {
+                    "question": "How many Volkswagen cars are there?",
+                    "score": 0.5841,
+                    "answers": "a thousand Volkswagen cars|nsubj"
+                },
+                {
+                    "question": "What did the guard say about the piece of chicken?",
+                    "score": 0.5673,
+                    "answers": "spit it out to see that the piece was shaped like rodent|conj\tto see that the piece was shaped like rodent|advcl\tthat the piece was shaped like rodent|ccomp\tlike rodent|prep\trodent|pobj"
+                },
+                {
+                    "question": "How many cars put their drivers at risk from the Brand crisis?",
+                    "score": 0.5671,
+                    "answers": "more than   a thousand Volkswagen cars put their drivers at|dep"
+                },
+                {
+                    "question": "How many people were put in the car that was shaped like rodent?",
+                    "score": 0.5129,
+                    "answers": "a thousand Volkswagen cars put their drivers at|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "He immediately took pictures of his food and went viral in seconds on social media.",
+            "question_answers": [
+                {
+                    "question": "How did the pictures of his food go on social media in seconds?",
+                    "answer": "viral"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who took pictures of food and went viral on social media in 2015?",
+                    "score": 0.7744,
+                    "answers": "that|mark\tHe|nsubj\tand|cc"
+                },
+                {
+                    "question": "How long did it take for the photo to go viral?",
+                    "score": 0.6997,
+                    "answers": "in seconds|prep"
+                },
+                {
+                    "question": "What was the name of the man who took pictures of his food and went viral?",
+                    "score": 0.6229,
+                    "answers": "pictures of his food|dobj"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.5932,
+                    "answers": "www.merca20.com|nsubj\ton 17/06/2015|prep\tviral|acomp\tsocial|amod"
+                }
+            ]
+        },
+        {
+            "claim": "According to the personnel of the fast food chain, although the figure of the piece is not sufficient evidence, they are willing to perform laboratory tests to correct the error.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that they were willing to perform laboratory tests to correct the error?",
+                    "answer": "17/06/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people work for fast food chain?",
+                    "score": 0.7415,
+                    "answers": "According to the personnel of the fast food chain|prep\tto the personnel of the fast food chain|prep\tof the fast food chain|prep"
+                },
+                {
+                    "question": "What is the method used to correct the error in fast food chain testing?",
+                    "score": 0.7362,
+                    "answers": "the error|dobj"
+                },
+                {
+                    "question": "What did the personnel of the fast food chain do to correct the error?",
+                    "score": 0.7266,
+                    "answers": "www.merca20.com reported on 17/06/2015 that According to the personnel of the fast food chain , although the figure of the piece is not sufficient evidence , they are willing to perform laboratory tests to correct the error|ROOT\ton 17/06/2015|prep\tthe personnel of the fast food chain|pobj"
+                },
+                {
+                    "question": "What is fast food chain?",
+                    "score": 0.688,
+                    "answers": "fast food|compound\tthe fast food chain|pobj"
+                },
+                {
+                    "question": "What is the evidence of the personnel of fast food chain performing lab tests to correct an error?",
+                    "score": 0.6822,
+                    "answers": "sufficient evidence|attr"
+                }
+            ]
+        },
+        {
+            "claim": "This situation is not the first time that has arisen in fast food restaurants, as brands such as McDonald's, Domino's Pizza, Pizza Hut and Burger King, among others, have been seriously affected.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that fast food restaurants were affected?",
+                    "answer": "17/06/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are McDonald's and Domino's Pizza brands?",
+                    "score": 0.8782,
+                    "answers": "brands such as McDonald 's , Domino 's Pizza , Pizza Hut and Burger King , among others ,|nsubjpass"
+                },
+                {
+                    "question": "How many fast food restaurants are there?",
+                    "score": 0.8774,
+                    "answers": "the first time that has arisen in fast food restaurants|attr\tthat has arisen in fast food restaurants|relcl\tin fast food restaurants|prep\tsuch as McDonald 's , Domino 's Pizza , Pizza Hut and Burger King , among others ,|prep\tMcDonald 's , Domino 's Pizza , Pizza Hut and Burger King , among others ,|pobj\t's|case\tDomino 's|poss\t's|case\tDomino 's Pizza , Pizza Hut and Burger King , among others ,|conj\tPizza|compound\tPizza Hut and Burger King|conj\tBurger|compound"
+                },
+                {
+                    "question": "What are fast food restaurants?",
+                    "score": 0.8726,
+                    "answers": "fast|amod\tfast food restaurants|pobj"
+                },
+                {
+                    "question": "What is the relationship between fast food and fast food restaurants?",
+                    "score": 0.8116,
+                    "answers": "seriously|advmod"
+                },
+                {
+                    "question": "What is fast food?",
+                    "score": 0.8049,
+                    "answers": "fast food|compound"
+                }
+            ]
+        },
+        {
+            "claim": "A cockroach inside a McDonald's burger.",
+            "question_answers": [
+                {
+                    "question": "What animal was found inside a McDonald's burger?",
+                    "answer": "cockroach"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Is there a cockroach inside a McDonald's burger?",
+                    "score": 0.924,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What kind of beetles are in McDonald's burgers?",
+                    "score": 0.8869,
+                    "answers": "on 17/06/2015|prep\tinside a McDonald 's burger|prep\ta McDonald 's burger|pobj"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.7504,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "A knife inside a baguette from Subway.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that a knife was inside a baguette from Subway?",
+                    "answer": "17/06/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was the knife inside a baguette from Subway from?",
+                    "score": 0.8822,
+                    "answers": "that A knife inside a baguette from Subway|ccomp\tinside a baguette from Subway|prep"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.7478,
+                    "answers": "www.merca20.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And just like these examples, there are a lot of oversights in the food industry, which has an impact on the brand's credibility and reputation.",
+            "question_answers": [
+                {
+                    "question": "When did www.merca20.com report that there were a lot of oversights in the food industry?",
+                    "answer": "17/06/2015"
+                },
+                {
+                    "question": "What has an impact on the brand's credibility and reputation?",
+                    "answer": "oversights"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What impact does food industry have on brand credibility and reputation?",
+                    "score": 0.859,
+                    "answers": "which has an impact on the brand 's credibility and reputation|relcl"
+                },
+                {
+                    "question": "What is the credibility and reputation of food brands?",
+                    "score": 0.7831,
+                    "answers": "on the brand 's credibility and reputation|prep"
+                },
+                {
+                    "question": "What is the food industry's credibility and reputation?",
+                    "score": 0.7399,
+                    "answers": "www.merca20.com reported on 17/06/2015 that And just like these examples , there are a lot of oversights in the food industry , which has an impact on the brand 's credibility and reputation|ROOT\ton 17/06/2015|prep\tthat|mark\tjust like these examples|prep\tthese|det\tthese examples|pobj\tthere|expl\tthat And just like these examples , there are a lot of oversights in the food industry , which has an impact on the brand 's credibility and reputation|ccomp\ta lot of oversights in the food industry , which has an impact on the brand 's credibility and reputation|attr\tof oversights in the food industry|prep\tin the food industry|prep\tfood|compound\tthe brand 's|poss\t's|case"
+                },
+                {
+                    "question": "What is the relationship between food industry credibility and reputation?",
+                    "score": 0.7182,
+                    "answers": "reputation|conj"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.6165,
+                    "answers": "www.merca20.com|nsubj\tAnd|cc\tjust|advmod\t,|punct\ta|det\tthe|det\t,|punct\twhich|nsubj\tan|det\tthe|det\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "Don't worry that many times they don't have a solution.",
+            "question_answers": [
+                {
+                    "question": "What did www.merca20.com report on 17/06/2015?",
+                    "answer": "Don't worry that many times they don't have a solution"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the solution to the financial crisis in the United States?",
+                    "score": 0.7514,
+                    "answers": "www.merca20.com reported on 17/06/2015 that Do n't worry that many times they do n't have a solution|ROOT"
+                },
+                {
+                    "question": "What ismerca20.com?",
+                    "score": 0.723,
+                    "answers": "www.merca20.com|nsubj\ton 17/06/2015|prep\tthat|mark\tDo|aux\tthat|mark\tmany|amod\tthey|nsubj\tdo|aux\ta|det"
+                }
+            ]
+        }
+    ]
+}

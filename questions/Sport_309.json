@@ -1,0 +1,335 @@
+{
+    "id": "Sport_309",
+    "claim": "During last Sunday's party in Aztec State, Marshaw Lynch listened to the Mexican national anthem standing, however during the US he remained seated. U.S. President Donald Trump this Monday criticized Oakland Raiders' football player Marshaw Lynch for standing up to Mexico's National Anthem and sitting down when the U.S. hit the game against New England's Patriots. The president's discomfort was provoked by Lynch's choice to remain seated when the American anthem was played at the Azteca Stadium in Mexico City before the match held on the eve, as the protest of months ago by other players, mostly black, continued. 'Marshawn Lynch of the Oakland Raiders of the NFL stood by the Mexican Anthem and sat to boo our National Anthem. Big disrespect!. Next time the NFL should suspend it for the rest of the season ', the president wrote in his first Twitter message this Monday. Although the game was held in front of a crowded stadium, as has happened in almost the majority of those played in the United States, Trump also insisted that their attendance and audience continue to fall. Criticism was the most recent example of the president's personal crusade against this protest movement launched last year by San Francisco's former camp marshal Colin Kaepernick to complain about police brutality against African Americans and racial injustice. Kaepernick chose to listen to the U.S. National Anthem with one knee on the floor, and since then more players from different teams of the American National Football (NFL) have joined the movement, in the face of the president's discomfort. In a public speech last September, Trump called on team owners to fire players to put a knee on the floor when listening to the national anthem, and referred to players protesting as'sons of bitches\". Last October, and after repeated calls from Trump to punish players who continued this practice, NFL Commissioner Roger Goodell made it clear that the league would not force them to observe respect for the anthem, although he expressed his desire that they should do so. I'm sorry.",
+    "source": "aristeguinoticias.com",
+    "date": "01/01/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "During last Sunday's party in Aztec State, Marshaw Lynch listened to the Mexican national anthem standing, however during the US Marshaw Lynch remained seated.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that Marshaw Lynch listened to the Mexican national anthem?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What language did Marshaw Lynch speak during the Aztec National Anthem?",
+                    "score": 0.7826,
+                    "answers": "Aztec|compound"
+                },
+                {
+                    "question": "What did Marshaw Lynch say about the Mexican national anthem?",
+                    "score": 0.7366,
+                    "answers": "that|mark\t,|punct\t,|punct\tthe US|pobj"
+                },
+                {
+                    "question": "Where was Marshaw Lynch during last Sunday's party in Aztec State?",
+                    "score": 0.6802,
+                    "answers": "last Sunday 's party in Aztec State|pobj"
+                },
+                {
+                    "question": "What was Marshaw Lynch's role in the Aztec State party?",
+                    "score": 0.5994,
+                    "answers": "in Aztec State|prep"
+                },
+                {
+                    "question": "What is the name of the website that Marshaw Lynch is a part of?",
+                    "score": 0.5249,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that During last Sunday 's party in Aztec State , Marshaw Lynch listened to the Mexican national anthem standing , however during the US Marshaw Lynch remained seated|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "U.S. President Donald Trump this Monday criticized Marshaw Lynch for standing up to the Mexican national anthem and sitting down when the US hit the game against New England's Patriots .",
+            "question_answers": [
+                {
+                    "question": "Who did Donald Trump criticize for standing up to the Mexican national anthem?",
+                    "answer": "Marshaw Lynch"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Trump criticize Marshaw Lynch for standing up to the Mexican national anthem?",
+                    "score": 0.8979,
+                    "answers": "that U.S. President Donald Trump this Monday criticized Marshaw Lynch for standing up to the Mexican national anthem and sitting down when the US hit the game against New England 's Patriots|ccomp\tfor standing up to the Mexican national anthem and sitting down when the US hit the game against New England 's Patriots|prep\tstanding up to the Mexican national anthem and sitting down when the US hit the game against New England 's Patriots|pcomp"
+                },
+                {
+                    "question": "What did Trump say about Marshaw Lynch?",
+                    "score": 0.7675,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that U.S. President Donald Trump this Monday criticized Marshaw Lynch for standing up to the Mexican national anthem and sitting down when the US hit the game against New England 's Patriots|ROOT\tthat|mark\tthis|det\tMarshaw|compound\tthe|det\tnational|amod\tand|cc\tsitting down when the US hit the game against New England 's Patriots|conj\tdown|prt\twhen|advmod\tthe|det\tthe|det\tNew|compound\tNew England 's Patriots|pobj"
+                },
+                {
+                    "question": "What is the relationship between the US and New England's national anthem?",
+                    "score": 0.6172,
+                    "answers": "against New England 's Patriots|prep\tNew England 's|poss"
+                },
+                {
+                    "question": "What was the score of the game against New England's Patriots?",
+                    "score": 0.6011,
+                    "answers": "the game against New England 's Patriots|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The president's discomfort was provoked by Marshaw Lynch choice to remain seated when the American anthem was played at the Azteca Stadium in Mexico City before the game against New England's Patriots , as the protest of months ago by other players, mostly black , continued.",
+            "question_answers": [
+                {
+                    "question": "What team did Marshaw Lynch play against before the game?",
+                    "answer": "New England's Patriots"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did other players protest at Azteca Stadium?",
+                    "score": 0.8081,
+                    "answers": "as the protest of months ago by other players , mostly black , continued|advcl"
+                },
+                {
+                    "question": "What did Marshall Lynch say about the American anthem being played at Azteca Stadium?",
+                    "score": 0.765,
+                    "answers": "the|det\tthe American anthem|nsubjpass\tthe|det\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What team did Marshaw Lynch play for?",
+                    "score": 0.7543,
+                    "answers": "New England 's Patriots|pobj"
+                },
+                {
+                    "question": "Where was the American anthem played during the game against New England's Patriots?",
+                    "score": 0.7454,
+                    "answers": "at the Azteca Stadium in Mexico City|prep"
+                },
+                {
+                    "question": "What did the president say about the choice to remain seated at Azteca Stadium?",
+                    "score": 0.6913,
+                    "answers": "that|mark\tThe|det\tThe president 's|poss\t's|case\twas|auxpass\twhen|advmod\twas|auxpass\tin Mexico City|prep\t's|case"
+                }
+            ]
+        },
+        {
+            "claim": "'Marshawn Lynch of the Oakland Raiders of the NFL stood by the Mexican national anthem and sat to boo the American anthem .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that Lynch stood by the Mexican national anthem and sat to boo the American anthem?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Marshawn Lynch say about the Mexican national anthem?",
+                    "score": 0.7813,
+                    "answers": "that ' Marshawn Lynch of the Oakland Raiders of the NFL stood by the Mexican national anthem and sat to boo the American anthem|ccomp\tby the Mexican national anthem|prep"
+                },
+                {
+                    "question": "What is the source of evidence of Marshawn Lynch standing by the Mexican national anthem and sat to boo the American anthem?",
+                    "score": 0.7026,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that ' Marshawn Lynch of the Oakland Raiders of the NFL stood by the Mexican national anthem and sat to boo the American anthem|ROOT"
+                },
+                {
+                    "question": "What was Marshawn Lynch's role in the Oakland Raiders?",
+                    "score": 0.688,
+                    "answers": "Marshawn|compound\tMarshawn Lynch of the Oakland Raiders of the NFL|nsubj\tof the Oakland Raiders of the NFL|prep\tOakland|compound\tthe Oakland Raiders of the NFL|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Big disrespect!.",
+            "question_answers": [
+                {
+                    "question": "Who reported on Big disrespect on 01/01/2023?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between disrespect and greed?",
+                    "score": 0.7472,
+                    "answers": "that|mark\tBig|amod\t!|punct"
+                },
+                {
+                    "question": "What is big disrespect?",
+                    "score": 0.742,
+                    "answers": "that Big disrespect|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the disrespect of the website?",
+                    "score": 0.7125,
+                    "answers": "on 01/01/2023|prep"
+                },
+                {
+                    "question": "What is aristeguinoticias.com?",
+                    "score": 0.6425,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that Big disrespect !|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Next time the NFL should suspend it for the rest of the season ', U.S. President Donald Trump wrote in first Twitter message this Monday .",
+            "question_answers": [
+                {
+                    "question": "What did aristeguinoticias.com report on 01/01/2023?",
+                    "answer": "Next time the NFL should suspend it for the rest of the season"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Trump suspend the NFL for the rest of the season?",
+                    "score": 0.881,
+                    "answers": "the rest of the season|pobj"
+                },
+                {
+                    "question": "What is aristeguinoticias.com?",
+                    "score": 0.5769,
+                    "answers": "aristeguinoticias.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Although the game against New England's Patriots was held in front of a crowded stadium, as has happened in almost the majority of those played in the US , U.S. President Donald Trump also insisted that their attendance and audience continue to fall.",
+            "question_answers": [
+                {
+                    "question": "How many of the games played in the US are held in a crowded stadium?",
+                    "answer": "almost the majority of those played in the US"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the attendance of the game against New England's Patriots in front of a crowded stadium?",
+                    "score": 0.7831,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that Although the game against New England 's Patriots was held in front of a crowded stadium , as has happened in almost the majority of those played in the US , U.S. President Donald Trump also insisted that their attendance and audience continue to fall|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Criticism was the most recent example of U.S. President Donald Trump personal crusade against the protest of months ago by other players, mostly black .",
+            "question_answers": [
+                {
+                    "question": "What website reported that Criticism was the most recent example of U.S. President Donald Trump's personal crusade?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump do to protest the protest of months ago?",
+                    "score": 0.6627,
+                    "answers": "of U.S. President Donald Trump personal crusade against the protest of months ago by other players , mostly black|prep\tU.S. President Donald Trump personal crusade against the protest of months ago by other players , mostly black|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Trump's criticism of black players?",
+                    "score": 0.6497,
+                    "answers": "Criticism|nsubj\tof months ago|prep\tmostly|advmod"
+                },
+                {
+                    "question": "How many African Americans were protesting against Donald Trump?",
+                    "score": 0.6441,
+                    "answers": "other players , mostly black|pobj"
+                },
+                {
+                    "question": "How many black people protest against Donald Trump?",
+                    "score": 0.6394,
+                    "answers": "mostly black|appos"
+                },
+                {
+                    "question": "What was Donald Trump's stance on protest?",
+                    "score": 0.6365,
+                    "answers": "U.S. President|compound"
+                }
+            ]
+        },
+        {
+            "claim": "San Francisco's former camp marshal Colin Kaepernick chose to listen to the American anthem with one knee on the floor, and since then more players from different teams of the NFL have joined the protest of months ago by other players, mostly black , in the face of The president's discomfort .",
+            "question_answers": [
+                {
+                    "question": "What ethnicity are most of the NFL players?",
+                    "answer": "black"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Colin Kaepernick do to participate in the National Anthem?",
+                    "score": 0.7601,
+                    "answers": "one knee on the floor|pobj"
+                },
+                {
+                    "question": "What is Colin Kaepernick's stance on the American anthem?",
+                    "score": 0.6489,
+                    "answers": "to the American anthem|prep"
+                },
+                {
+                    "question": "How many players from different teams of the NFL joined the protest?",
+                    "score": 0.5934,
+                    "answers": "months|npadvmod"
+                },
+                {
+                    "question": "How many black players have joined the protest of months ago by other players?",
+                    "score": 0.5764,
+                    "answers": "mostly black|appos"
+                },
+                {
+                    "question": "What is the relationship between Colin Kaepernick and the NFL?",
+                    "score": 0.5531,
+                    "answers": "that|mark\tSan|compound\tSan Francisco 's|poss\t's|case\tformer|amod\tcamp|compound\tColin|compound\tSan Francisco 's former camp marshal Colin Kaepernick|nsubj\tto|aux\tthe|det\tthe|det\t,|punct\tand|cc\tsince then|prep\tthen|pcomp\tmore|amod\tfrom different teams of the NFL|prep\tdifferent|amod\tdifferent teams of the NFL|pobj\tof the NFL|prep\tthe|det\tthe NFL|pobj\thave|aux\tthe|det\tof months ago|prep\tother|amod\t,|punct\tmostly|advmod\t,|punct\tthe|det\tThe|det\t's|case"
+                }
+            ]
+        },
+        {
+            "claim": "In a public speech last September, Trump called on team owners to fire players to put a knee on the floor when listening to the national anthem, and referred to players protesting as'sons of bitches\".",
+            "question_answers": [
+                {
+                    "question": "Who reported that Trump called on team owners to fire players to put a knee on the floor when listening to the national anthem?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Trump call for players to put a knee on the floor during the National Anthem?",
+                    "score": 0.8116,
+                    "answers": "national|amod"
+                },
+                {
+                    "question": "What did Trump call players protesting during the national anthem?",
+                    "score": 0.7882,
+                    "answers": "as'sons of bitches|prep\tof bitches|prep\tbitches|pobj"
+                },
+                {
+                    "question": "What did Trump say in his speech on the National Anthem?",
+                    "score": 0.7287,
+                    "answers": "a public speech last September|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Last October, and after repeated calls from Trump to punish players who continued this practice, NFL Commissioner Roger Goodell made it clear that the league would not force them to observe respect for the anthem, although he expressed his desire that they should do so.",
+            "question_answers": [
+                {
+                    "question": "Who was the commissioner of the NFL?",
+                    "answer": "Roger Goodell"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Roger Goodell want to punish NFL players who continued to observe respect for the anthem?",
+                    "score": 0.8684,
+                    "answers": "so|advmod"
+                },
+                {
+                    "question": "What did Trump call for the NFL to do with respect for the National Anthem?",
+                    "score": 0.7994,
+                    "answers": "from Trump|prep"
+                },
+                {
+                    "question": "What did Roger Goodell say about respecting the National Anthem?",
+                    "score": 0.7921,
+                    "answers": "it clear that the league would not force them to observe respect for the anthem|ccomp\tthat the league would not force them to observe respect for the anthem|advcl"
+                },
+                {
+                    "question": "What is the NFL's stance on respecting for the anthem?",
+                    "score": 0.7002,
+                    "answers": "players who continued this practice|dobj"
+                }
+            ]
+        }
+    ]
+}

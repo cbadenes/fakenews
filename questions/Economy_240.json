@@ -1,0 +1,861 @@
+{
+    "id": "Economy_240",
+    "claim": "Santander confirms that it will charge non-customers for using its ATMsThe bank does not detail the rate, but says that the renewal of the machines has a high costThe war of the ATMs is not over. She's just asleep, waiting for all the players' strategies to be closed. The CEO of Santander, Jose Antonio Álvarez, has advanced his position, reaffirming what he announced last July, but did not set the precise rate. Official sources of the bank said that the amount of the commission is not fixed. With the new regulations set by the Ministry of Economy, the owner of the cashier is the one who applies the rate to the bank issuing the card, but not directly to the non-client. The customer's bank may charge at most those two euros, without adding any additional surcharges. CaixaBank changed the rules of the game in March, when it unilaterally applied the two euros to non-customers who used their ATMs. Banks issuing the card continued to apply their rates, which doubled for some customers, even though CaixaBank did not pass on any additional fees. 'There is no change in what we had announced ', said Alvarez at a press conference to present the results of the third quarter of the year. According to Álvarez's responses to the journalists, it seemed that Santander would charge two euros in the ATMs. However, the entity later clarified that Santander has not yet decided the rate that it will charge. Miguel Temboury, Undersecretary of Economy, declared after the publication of the norm, that the commissions of the ATMs would come down with force and speed, (as assured by the minister, Luis de Guindos), and that'to charge two euros for using an ATM is disorbited'. Asked whether they would maintain this rate despite the position of the Ministry of Economy, Álvarez alluded to the high cost of renewal by the  ATMs that it has in Spain, belonging to the 4B network.'We're changing the functions of the tellers and that's a very expensive thing'. It's a similar argument to the one that CaixaBank has ever used. As to whether the new rule favoured the big banks, the second executive of Santander replied that yes. 'Logically it favours those who have large networks of tellers, who are the ones who provide the service and, therefore, those who put the price. When you go to a supermarket, you don't pay at the supermarket next door. The logic is overwhelming. The installation of ATMs is free, others can do so if they consider it appropriate'. He also commented that the use of cash is falling 'because the means of payment are greatly improving. Now it is more comfortable to pay by card or mobile, which carries the card incorporated'. However, he did not want to advance if the end of the cash will come. In addition, he took the opportunity to point out that the issue of cashiers 'has been magnified 'because there is an extensive network of cashiers in Spain. On the other hand, the CEO of Santander has trusted to achieve that the profit per share (BPA) of the entity grows double digit in , although he has admitted that it is a 'difficult 'objective and linked to the goals to achieve: growth of profitability, balance sheet, dividend and BPA. Precisely, the ordinary BPA of the Santander group fell a % until September regarding the same period of . The number two of Santander has explained that in Spain there is a context of falling revenues mainly due to the strong competition in credit, which coincides with a little intense demand. Álvarez has guaranteed that the entity is marked as'priority'organic growth, as shown by the launch of the 'Account , ,'to link more customers. Of course, it has nuanced that if some Spanish entity is put on sale, as already happened with the crisis of the savings banks, the policy of Santander remains in 'look 'and make an offer according to the financial criteria that the bank manages. 'If so, we will buy ', he said, and then be open to the possibility of attending another eventual auction of the Portuguese Novo Banco. Asked whether Santander has an interest in Bankia, the entity's 'number two' has limited itself to valuing the management of the nationalized bank and its improvement, in order to settle the issue by saying that it is something'purely speculative'.'It's not on the table or I don't know if it's going to be ', he said. I'm sorry.",
+    "source": "elpais.com",
+    "date": "29/10/2015",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Santander the entity that Santander will charge nonthe entity for using its ATMsThe the rate that it will charge he , but says that the renewal of its ATMsThe has a high costThe war of he ATMs the norm over.",
+            "question_answers": [
+                {
+                    "question": "What is the rate that Santander will charge for using its ATMs?",
+                    "answer": "the rate that it will charge he"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will Santander charge an entity for using its ATMs?",
+                    "score": 0.6742,
+                    "answers": "Santander the entity Santander will charge nonthe entity that for using its ATMsThe the rate that it will charge|nsubj\tthe entity Santander will charge nonthe entity that for using its ATMsThe the rate that it will charge|appos\tusing its ATMsThe the rate that it will charge|pcomp"
+                },
+                {
+                    "question": "What is the cost of renewing its ATMs?",
+                    "score": 0.5224,
+                    "answers": "elpais.com reported on 29/10/2015 that Santander the entity Santander will charge nonthe entity that for using its ATMsThe the rate that it will charge he , but says that the renewal of its ATMsThe has a high costThe war of he ATMs the norm over|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "She's just asleep, waiting for all the players' strategies to be closed.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 29/10/2015 that She's just asleep, waiting for all the players' strategies to be closed?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long has she been asleep?",
+                    "score": 0.8257,
+                    "answers": "on 29/10/2015|prep\tShe|nsubj"
+                },
+                {
+                    "question": "How long has Elpais been asleep waiting for all the strategies to be closed?",
+                    "score": 0.7184,
+                    "answers": "that She 's just asleep , waiting for all the players ' strategies to be closed|ccomp"
+                },
+                {
+                    "question": "How long has it been since elpais.com closed?",
+                    "score": 0.6784,
+                    "answers": "for all the players ' strategies to be closed|advcl"
+                },
+                {
+                    "question": "What is the relationship between a player and a player?",
+                    "score": 0.5662,
+                    "answers": "just asleep|acomp\tall the players '|poss\tall the players ' strategies|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of Elpais.com?",
+                    "score": 0.5379,
+                    "answers": "the|det"
+                }
+            ]
+        },
+        {
+            "claim": "The CEO of Santander, Jose Antonio Álvarez , Spain advanced positionhe announced last July, but the entity not set the rate the rate that it will charge .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What is the rate that it will charge for the CEO of Santander?",
+                    "score": 0.6452,
+                    "answers": "that|mark\tThe|det\tof Santander|prep\t,|punct\tJose|compound\tAntonio|compound\t,|punct\tpositionhe|dobj\tannounced last July|dep\tlast|amod\t,|punct\tbut|cc\tthe|det\tthe entity|nsubj\tnot|neg\tthe|det\tthe|det\tthat|dobj\tit|nsubj\twill|aux"
+                }
+            ]
+        },
+        {
+            "claim": "Official Santander grows Santander said that the amount Álvarez commission grows not fixed.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 29/10/2015 that Official Santander grows Santander said that the amount lvarez commission grows not fixed?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the amount that thearez commission grow?",
+                    "score": 0.6513,
+                    "answers": "on 29/10/2015|prep\tÁlvarez commission grows|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "With the new regulations set by the Ministry of Economy, the owner of the cashier changing one who applies the rate to the changing issuing the cardSantander to the non-client .",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 29/10/2015 that with the new regulations set by the Ministry of Economy, the owner of the cashier changing one who applies the rate to the changing issuing the cardSantander to the non-client?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Ministry of Economy say about the changing issuing of cardSantander?",
+                    "score": 0.6654,
+                    "answers": "who|nsubj"
+                },
+                {
+                    "question": "What is the current rate of the issuing of cardSantander?",
+                    "score": 0.6243,
+                    "answers": "the cardSantander|dobj"
+                },
+                {
+                    "question": "What is the process for changing the issuing of a cardSantander?",
+                    "score": 0.6159,
+                    "answers": "to the changing issuing the cardSantander to the non - client|prep"
+                },
+                {
+                    "question": "What new regulations were put into place by the Ministry of Economy?",
+                    "score": 0.6119,
+                    "answers": "on 29/10/2015|prep\tof Economy|prep"
+                },
+                {
+                    "question": "What are the new regulations for the cashier who applies the rate to the changing issuing cardSantander?",
+                    "score": 0.5975,
+                    "answers": "one who applies the rate to the changing issuing the cardSantander to the non - client|dobj\twho applies the rate to the changing issuing the cardSantander to the non - client|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "the non-client bank may charge at most those two euros Santander adding any additional Spain .",
+            "question_answers": [
+                {
+                    "question": "Who reported on the 29/10/2015 that the non-client bank may charge at most two euros Santander?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money does the non-client bank charge?",
+                    "score": 0.8036,
+                    "answers": "non|amod\tthe non - client bank|nsubj"
+                },
+                {
+                    "question": "How much money would the non-client bank charge to add additional Spain?",
+                    "score": 0.793,
+                    "answers": "elpais.com reported on 29/10/2015 that the non - client bank may charge at most those two euros Santander adding any additional Spain|ROOT"
+                },
+                {
+                    "question": "What is the amount of money that the non-client bank may charge?",
+                    "score": 0.6559,
+                    "answers": "may|aux\tat most|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Álvarez of the game in March, when the norm unilaterally applied those two euros to non-customers who used ATMs.",
+            "question_answers": [
+                {
+                    "question": "Who reported that lvarez of the game in March?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many dollars did the norm unilaterally apply to non-customers who used ATMs?",
+                    "score": 0.5691,
+                    "answers": "two|nummod"
+                },
+                {
+                    "question": "How many people use ATMs?",
+                    "score": 0.5474,
+                    "answers": "that|mark\tthat Álvarez of the game in March , when the norm unilaterally applied those two euros to non - customers who used ATMs|ccomp\tof the game in March , when the norm unilaterally applied those two euros to non - customers who used ATMs|prep\tthe|det\tthe game|pobj\tin March , when the norm unilaterally applied those two euros to non - customers who used ATMs|prep\tMarch , when the norm unilaterally applied those two euros to non - customers who used ATMs|pobj\t,|punct\tthe|det\tthose|det\tnon|pobj\t-|pobj\twho|nsubj\twho used ATMs|relcl"
+                },
+                {
+                    "question": "What did the norm say about the use of ATMs?",
+                    "score": 0.547,
+                    "answers": "when|advmod"
+                },
+                {
+                    "question": "How many dollars didarez apply to non-customers?",
+                    "score": 0.5236,
+                    "answers": "on 29/10/2015|prep"
+                },
+                {
+                    "question": "What are the rules for using ATMs?",
+                    "score": 0.5184,
+                    "answers": "when the norm unilaterally applied those two euros to non - customers who used ATMs|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "he Banks issuing the card continued Santander apply rates, which doubled for some customers, even though CaixaBank did not pass on any additional fees.",
+            "question_answers": [
+                {
+                    "question": "How much did the Santander apply rates increase for some customers?",
+                    "answer": "doubled"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did CaixaBank pass on additional fees?",
+                    "score": 0.8157,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "How much did Caixa bank charge to issue a card?",
+                    "score": 0.7932,
+                    "answers": "issuing the card|acl"
+                },
+                {
+                    "question": "What did CaixaBank do to add to the credit card rates?",
+                    "score": 0.7814,
+                    "answers": "any|det\tadditional|amod"
+                },
+                {
+                    "question": "What did CaixaBank say about the Santander apply rates?",
+                    "score": 0.7737,
+                    "answers": "that|mark\the|nmod\tthe|det\t,|punct\twhich|nsubj\tsome|det\t,|punct\ton|prt"
+                },
+                {
+                    "question": "What did Caixa Bank do to reduce the interest rate?",
+                    "score": 0.7481,
+                    "answers": "Santander apply rates , which doubled for some customers , even though CaixaBank did not pass on any additional fees|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'There is no change in what Santander had announced others The CEO of Santander, Jose Antonio Álvarez at a others conference to present the results of the third quarter of the Santander .",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did Santander say about the CEO of Santander?",
+                    "score": 0.6694,
+                    "answers": "on 29/10/2015|prep\tno change in what Santander had announced|attr\tin what Santander had announced|prep\tof Santander|prep"
+                },
+                {
+                    "question": "What did Santander announce in 2015?",
+                    "score": 0.659,
+                    "answers": "that|mark\t'|punct\tThere|expl\tno|det\twhat|dobj\thad|aux\tothers|npadvmod\tThe|det\t,|punct\tJose|compound\ta|det\tothers|amod\tto|aux\tthe|det\tthe|det\tthe|det"
+                },
+                {
+                    "question": "What were the results of the third quarter of Santander?",
+                    "score": 0.5993,
+                    "answers": "to present the results of the third quarter of the Santander|relcl\tthe results of the third quarter of the Santander|dobj"
+                },
+                {
+                    "question": "What did the CEO of Santander say at a conference in 2015?",
+                    "score": 0.5932,
+                    "answers": "elpais.com reported on 29/10/2015 that ' There is no change in what Santander had announced others The CEO of Santander , Jose Antonio Álvarez at a others conference to present the results of the third quarter of the Santander|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Santander to The CEO of Santander, Jose Antonio Álvarez responses to the journalists, it seemed that Santander would Santander two euros in the ATMs.",
+            "question_answers": [
+                {
+                    "question": "How many euros did Santander put in the ATMs?",
+                    "answer": "two euros"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Santander spend on ATMs in 2015?",
+                    "score": 0.7256,
+                    "answers": "two euros in the ATMs|dobj"
+                },
+                {
+                    "question": "What did Santander do with the ATMs?",
+                    "score": 0.6867,
+                    "answers": "it seemed that Santander would Santander two euros in the ATMs|ccomp\tthat Santander would Santander two euros in the ATMs|ccomp"
+                },
+                {
+                    "question": "What did Santander say in response to the journalists?",
+                    "score": 0.6477,
+                    "answers": "to The CEO of Santander , Jose Antonio Álvarez responses to the journalists ,|prep"
+                },
+                {
+                    "question": "Who was the CEO of Santander in 2015?",
+                    "score": 0.6102,
+                    "answers": "The CEO of Santander , Jose Antonio Álvarez responses to the journalists ,|pobj"
+                },
+                {
+                    "question": "What was the relationship between Santander and the CEO of Santander?",
+                    "score": 0.5935,
+                    "answers": "elpais.com reported on 29/10/2015 that Santander to The CEO of Santander , Jose Antonio Álvarez responses to the journalists , it seemed that Santander would Santander two euros in the ATMs|ROOT\tthe journalists|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However, the entity later clarified that Santander has not yet decided the rate that it will charge.",
+            "question_answers": [
+                {
+                    "question": "Who has not yet decided the rate that it will charge?",
+                    "answer": "Santander"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the rate that Santander will charge?",
+                    "score": 0.6934,
+                    "answers": "elpais.com reported on 29/10/2015 that However , the entity later clarified that Santander has not yet decided the rate that it will charge|ROOT\ton 29/10/2015|prep\tthat|mark\tHowever|advmod\t,|punct\tthe|det\tthe entity|nsubj\tlater|advmod\tthat However , the entity later clarified that Santander has not yet decided the rate that it will charge|ccomp\tthat|mark\thas|aux\tnot|neg\tyet|advmod\tthat Santander has not yet decided the rate that it will charge|ccomp\tthe|det\tthe rate that it will charge|dobj\tthat|dobj\tit|nsubj\twill|aux\tthat it will charge|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Miguel Temboury, Undersecretary of Economy, declared after the publication of the norm, that the commissions of the ATMs would come down with force and speed, (as assured by the minister, Luis de Guindos), and that'to charge two euros for using an ATM is disorbited'.",
+            "question_answers": [
+                {
+                    "question": "When did elpais.com report that Miguel Temboury declared that the ATM commissions would come down with force and speed?",
+                    "answer": "29/10/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did Miguel Temboury charge for using an ATM?",
+                    "score": 0.6911,
+                    "answers": "two|nummod"
+                },
+                {
+                    "question": "What did Luis de Guindos say about using an ATM?",
+                    "score": 0.6407,
+                    "answers": "of the norm|prep\tas assured by the minister , Luis de Guindos )|advcl\tby the minister , Luis de Guindos )|agent\tthat'to|nsubj\tthat'to charge two euros for using an ATM|conj\tfor using an ATM|prep\tusing an ATM|pcomp\tan ATM|dobj\tis disorbited|advcl"
+                },
+                {
+                    "question": "What did Miguel Temboury say about the commission of the ATMs?",
+                    "score": 0.5939,
+                    "answers": "on 29/10/2015|prep\tafter the publication of the norm|prep\tthe publication of the norm|pobj\tthe norm|pobj"
+                },
+                {
+                    "question": "What is the relationship between force and speed of ATMs?",
+                    "score": 0.5396,
+                    "answers": "force and speed|pobj"
+                },
+                {
+                    "question": "What was the relationship between Miguel Temboury and Luis de Guindos?",
+                    "score": 0.5347,
+                    "answers": "Miguel|compound\tMiguel Temboury , Undersecretary of Economy ,|nsubj\tUndersecretary of Economy|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Asked whether they would maintain this rate despite the position of the Ministry of Economy, Álvarez alluded to the high cost of renewal by the  ATMs that it has in Spain, belonging to the 4B network.",
+            "question_answers": [
+                {
+                    "question": "What did lvarez say about the ATMs in Spain?",
+                    "answer": "high cost of renewal"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many ATMs does the 4B network have in Spain?",
+                    "score": 0.7062,
+                    "answers": "ATMs that it has in Spain , belonging to the 4B network|pobj"
+                },
+                {
+                    "question": "What is the cost of renewing the ATMs in Spain?",
+                    "score": 0.6857,
+                    "answers": "that Asked whether they would maintain this rate despite the position of the Ministry of Economy , Álvarez alluded to the high cost of renewal by the   ATMs that it has in Spain , belonging to the 4B network|ccomp\tin Spain|prep"
+                },
+                {
+                    "question": "What is the rate of renewing ATMs that it has in Spain?",
+                    "score": 0.6691,
+                    "answers": "whether they would maintain this rate despite the position of the Ministry of Economy|ccomp"
+                },
+                {
+                    "question": "What is the 4B network?",
+                    "score": 0.5529,
+                    "answers": "the   ATMs that it has in Spain , belonging to the 4B network|dep\tthat it has in Spain , belonging to the 4B network|relcl\tbelonging to the 4B network|advcl\t4B|compound\tthe 4B network|pobj"
+                },
+                {
+                    "question": "What is the position of the Ministry of Economy?",
+                    "score": 0.5114,
+                    "answers": "the position of the Ministry of Economy|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We're changing the functions of the tellers and that's a very expensive thing'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 29/10/2015 that 'We're changing the functions of the tellers and that's a very expensive thing'?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the cost of changing the functions of the tellers?",
+                    "score": 0.6536,
+                    "answers": "elpais.com reported on 29/10/2015 that ' We 're changing the functions of the tellers and that 's a very expensive thing '|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "It's a similar argument to the one that CaixaBank has ever used.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 29/10/2015 that It's a similar argument to the one that CaixaBank has ever used?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Caixa bank's relationship with Caixas Bank?",
+                    "score": 0.7727,
+                    "answers": "to the one that CaixaBank has ever used|prep"
+                },
+                {
+                    "question": "What is Caixa Bank's argument?",
+                    "score": 0.7513,
+                    "answers": "that It 's a similar argument to the one that CaixaBank has ever used|ccomp\ta similar argument to the one that CaixaBank has ever used|attr"
+                },
+                {
+                    "question": "What is Caixa Bank?",
+                    "score": 0.7438,
+                    "answers": "elpais.com reported on 29/10/2015 that It 's a similar argument to the one that CaixaBank has ever used|ROOT\ton 29/10/2015|prep\ta|det\tthe|det\tever|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "As to whether the new rule favoured the big banks, the second executive of Santander replied that yes.",
+            "question_answers": [
+                {
+                    "question": "What website reported that the new rule favoured the big banks?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the second executive of Santander say about whether the new rule favoured big banks?",
+                    "score": 0.6729,
+                    "answers": "elpais.com reported on 29/10/2015 that As to whether the new rule favoured the big banks , the second executive of Santander replied that yes|ROOT\ton 29/10/2015|prep\t, the second executive of Santander replied that yes|ccomp"
+                },
+                {
+                    "question": "What was the relationship between the new rule and the big banks?",
+                    "score": 0.5718,
+                    "answers": "that As to whether the new rule favoured the big banks|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "'Logically it favours those who have large networks of tellers, who are the ones who provide the service and, therefore, those who put the price.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 29/10/2015 that 'Logically it favours those who have large networks of tellers'?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does elpais.com say about networks of tellers?",
+                    "score": 0.7231,
+                    "answers": "on 29/10/2015|prep\tthat|mark\t'|punct\tLogically|advmod\tit|nsubj\tthat ' Logically it favours those who have large networks of tellers , who are the ones who provide the service and , therefore , those who put the price|ccomp\tthose who have large networks of tellers , who are the ones who provide the service and , therefore , those who put the price|dobj\twho|nsubj\twho have large networks of tellers|relcl\t,|punct\twho|nsubj\twho are the ones who provide the service and , therefore , those who put the price|conj\tthe|det\tthe ones who provide the service|attr\twho|nsubj\tthe|det\tand|cc\t,|punct\ttherefore|advmod\t,|punct\twho|nsubj\tthe|det"
+                },
+                {
+                    "question": "What is the relationship between networks of tellers and those who provide the service and who put the price?",
+                    "score": 0.6371,
+                    "answers": "who put the price|relcl"
+                },
+                {
+                    "question": "How many tellers are there in the US?",
+                    "score": 0.629,
+                    "answers": "large networks of tellers|dobj\tof tellers|prep"
+                },
+                {
+                    "question": "What is the definition of a network of tellers?",
+                    "score": 0.6266,
+                    "answers": "who provide the service|relcl"
+                },
+                {
+                    "question": "What is the average cost of a teller?",
+                    "score": 0.6222,
+                    "answers": "the service|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "When you go to a supermarket, you don't pay at the supermarket next door.",
+            "question_answers": [
+                {
+                    "question": "Who reported that when you go to a supermarket, you don't pay at the supermarket next door?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much do you pay at a supermarket next door?",
+                    "score": 0.8158,
+                    "answers": "that|mark\tWhen|advmod\t,|punct\tdo|aux\tthe|det\tnext door|npadvmod"
+                },
+                {
+                    "question": "What is the average price of a grocery at a Kroft?",
+                    "score": 0.7122,
+                    "answers": "at the supermarket next door|prep\tthe supermarket next door|pobj"
+                },
+                {
+                    "question": "What is the difference between a grocery store and a supermarket?",
+                    "score": 0.6796,
+                    "answers": "on 29/10/2015|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The logic is overwhelming.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 29/10/2015 that The logic was overwhelming?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does elpais.com say about logic?",
+                    "score": 0.788,
+                    "answers": "that|mark\tThe|det"
+                },
+                {
+                    "question": "What is the logic of logic?",
+                    "score": 0.722,
+                    "answers": "The logic|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The installation of ATMs is free, others can do so if they consider it appropriate'.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the installation of ATMs is free?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Are ATMs free?",
+                    "score": 0.8761,
+                    "answers": "The|det\tof ATMs|prep\tATMs|pobj\t,|punct\tcan|aux\tthat The installation of ATMs is free , others can do so if they consider it appropriate '|ccomp\tso|advmod\tthey|nsubj\tit appropriate|ccomp"
+                },
+                {
+                    "question": "What is the cost of installation of ATMs?",
+                    "score": 0.7921,
+                    "answers": "The installation of ATMs is free|ccomp"
+                },
+                {
+                    "question": "What are the benefits of installing ATMs?",
+                    "score": 0.7764,
+                    "answers": "that|mark\tothers|nsubj\tif|mark\tit|nsubj\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "He also commented that the use of cash is falling 'because the means of payment are greatly improving.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com say about the use of cash?",
+                    "answer": "the use of cash is falling"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the use of cash?",
+                    "score": 0.6792,
+                    "answers": "that He also commented that the use of cash is falling ' because the means of payment are greatly improving|ccomp\tthe use of cash|nsubj\tof cash|prep\tcash|pobj\tthat the use of cash is falling ' because the means of payment are greatly improving|ccomp"
+                },
+                {
+                    "question": "What is the current use of cash?",
+                    "score": 0.6644,
+                    "answers": "elpais.com reported on 29/10/2015 that He also commented that the use of cash is falling ' because the means of payment are greatly improving|ROOT\ton 29/10/2015|prep\tthat|mark\tHe|nsubj\talso|advmod\tthat|mark\tthe|det\tis|aux\t'|punct\tbecause|mark\tthe|det\tof payment|prep\tpayment|pobj\tare|aux\tgreatly|advmod\tbecause the means of payment are greatly improving|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Now it is more comfortable to pay by card or mobile, which carries the card incorporated'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 29/10/2015 that Now it is more comfortable to pay by card or mobile?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the best method to pay by card or mobile?",
+                    "score": 0.651,
+                    "answers": "mobile ,|conj"
+                },
+                {
+                    "question": "What are the benefits of using a card or mobile?",
+                    "score": 0.6431,
+                    "answers": "elpais.com reported on 29/10/2015 that Now it is more comfortable to pay by card or mobile , which carries the card incorporated '|ROOT\tby card or mobile , which carries the card incorporated|prep\tcard or mobile , which carries the card incorporated|pobj\twhich carries the card incorporated|relcl"
+                },
+                {
+                    "question": "What is the relationship between card and mobile payments?",
+                    "score": 0.6326,
+                    "answers": "on 29/10/2015|prep\tthat|mark\tit|nsubj\tmore|advmod\tmore comfortable|acomp\tto|aux\tor|cc\t,|punct\twhich|nsubj\tthe|det\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "However, he did not want to advance if the end of the cash will come.",
+            "question_answers": [
+                {
+                    "question": "Who reported that he did not want to advance if the end of the cash will come?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the money given to the scammer?",
+                    "score": 0.5487,
+                    "answers": "of the cash|prep\tthe cash|pobj"
+                },
+                {
+                    "question": "What is the relationship between elpais.com and obama.com?",
+                    "score": 0.4864,
+                    "answers": "elpais.com reported on 29/10/2015 that However , he did not want to advance if the end of the cash will come|ROOT\ton 29/10/2015|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, he took the opportunity to point out that the issue of cashiers 'has been magnified 'because there is an extensive network of cashiers in Spain.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com say about the issue of cashiers?",
+                    "answer": "magnified"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many cashiers are there in Spain?",
+                    "score": 0.7404,
+                    "answers": "elpais.com reported on 29/10/2015 that In addition , he took the opportunity to point out that the issue of cashiers ' has been magnified ' because there is an extensive network of cashiers in Spain|ROOT\ton 29/10/2015|prep\tthat|mark\tIn addition|prep\taddition|pobj\t,|punct\the|nsubj\tthat In addition , he took the opportunity to point out that the issue of cashiers ' has been magnified ' because there is an extensive network of cashiers in Spain|ccomp\tthe|det\tthe opportunity to point out that the issue of cashiers ' has been magnified ' because there is an extensive network of cashiers in Spain|dobj\tto|aux\tto point out that the issue of cashiers ' has been magnified ' because there is an extensive network of cashiers in Spain|acl\tout|prt\tthat|mark\tthe|det\tthe issue of cashiers|nsubjpass\tof cashiers|prep\tcashiers|pobj\t'|punct\thas|aux\tbeen|auxpass\tthat the issue of cashiers ' has been magnified ' because there is an extensive network of cashiers in Spain|ccomp\t'|punct\tbecause|mark\tthere|expl\tbecause there is an extensive network of cashiers in Spain|advcl\tan|det\textensive|amod\tan extensive network of cashiers|attr\tof cashiers|prep\tcashiers|pobj\tin Spain|prep"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, the CEO of Santander has trusted to achieve that the profit per share (BPA) of the entity grows double digit in , although he has admitted that it is a 'difficult 'objective and linked to the goals to achieve: growth of profitability, balance sheet, dividend and BPA.",
+            "question_answers": [
+                {
+                    "question": "How much does the CEO of Santander expect the profit per share of the entity to grow?",
+                    "answer": "double digit in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the CEO of Santander say about BPA growth?",
+                    "score": 0.7161,
+                    "answers": "that On the other hand , the CEO of Santander has trusted to achieve that the profit per share ( BPA ) of the entity grows double digit in , although he has admitted that it is a ' difficult ' objective and linked to the goals to achieve : growth of profitability , balance sheet , dividend and BPA|ccomp"
+                },
+                {
+                    "question": "What was the profit per share of the Santander company in 2015?",
+                    "score": 0.6761,
+                    "answers": "double|amod"
+                },
+                {
+                    "question": "What are the objectives of the CEO of Santander?",
+                    "score": 0.6438,
+                    "answers": "growth of profitability , balance sheet , dividend and BPA|appos"
+                },
+                {
+                    "question": "What is the source of evidence of Santander's profit per share in 2015?",
+                    "score": 0.641,
+                    "answers": "balance sheet , dividend and BPA|conj"
+                },
+                {
+                    "question": "What does BPA stand for?",
+                    "score": 0.6126,
+                    "answers": "although he has admitted that it is a ' difficult ' objective and linked to the goals to achieve : growth of profitability , balance sheet , dividend and BPA|advcl\t' difficult '|amod\tdividend and BPA|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Precisely, the ordinary BPA of the Santander group fell a % until September regarding the same period of .",
+            "question_answers": [
+                {
+                    "question": "Who reported that the ordinary BPA of the Santander group fell a % until September?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the average BPA of the Santander group in 2015?",
+                    "score": 0.7259,
+                    "answers": "on 29/10/2015|prep\tthat Precisely , the ordinary BPA of the Santander group fell a % until September regarding the same period of|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The number two of Santander has explained that in Spain there is a context of falling revenues mainly due to the strong competition in credit, which coincides with a little intense demand.",
+            "question_answers": [
+                {
+                    "question": "What has Santander explained about the strong competition in credit in Spain?",
+                    "answer": "falling revenues"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the revenue of Santander in 2015?",
+                    "score": 0.7485,
+                    "answers": "of Santander|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the decline in Spanish revenues?",
+                    "score": 0.7051,
+                    "answers": "which coincides with a little intense demand|relcl\tlittle|amod"
+                },
+                {
+                    "question": "What is the demand for credit in Spain?",
+                    "score": 0.7021,
+                    "answers": "with a little intense demand|prep\tlittle intense|amod\ta little intense demand|pobj"
+                },
+                {
+                    "question": "What are the reasons for falling revenues in Spain?",
+                    "score": 0.7001,
+                    "answers": "a context of falling revenues mainly due to the strong competition in credit , which coincides with a little intense demand|attr"
+                },
+                {
+                    "question": "What is the GDP of Santander?",
+                    "score": 0.64,
+                    "answers": "The number two of Santander|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Álvarez has guaranteed that the entity is marked as'priority'organic growth, as shown by the launch of the 'Account , ,'to link more customers.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com launch on 29/10/2015?",
+                    "answer": "'Account"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many customers does Elpais.com have?",
+                    "score": 0.5672,
+                    "answers": "more customers|dobj"
+                },
+                {
+                    "question": "What was the purpose of the account that linked more customers to elpais.com?",
+                    "score": 0.5643,
+                    "answers": "by the launch of the ' Account|agent\tthe launch of the ' Account|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Of course, it has nuanced that if some Spanish entity is put on sale, as already happened with the crisis of the savings banks, the policy of Santander remains in 'look 'and make an offer according to the financial criteria that the bank manages.",
+            "question_answers": [
+                {
+                    "question": "What is Santander's policy if a Spanish entity is put on sale?",
+                    "answer": "look"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the policy of Santander if some Spanish entity is put on sale?",
+                    "score": 0.7349,
+                    "answers": "that Of course , it has nuanced that if some Spanish entity is put on sale , as already happened with the crisis of the savings banks , the policy of Santander remains in ' look ' and make an offer according to the financial criteria that the bank manages|ccomp\tthat if some Spanish entity is put on sale , as already happened with the crisis of the savings banks , the policy of Santander remains in ' look ' and|ccomp"
+                },
+                {
+                    "question": "What is Santander's policy on savings banks?",
+                    "score": 0.715,
+                    "answers": "in ' look ' and|prep"
+                },
+                {
+                    "question": "What is the relationship between the Spanish savings banks and Santander's policy?",
+                    "score": 0.675,
+                    "answers": "financial|amod"
+                },
+                {
+                    "question": "What is the history of the savings banks?",
+                    "score": 0.6673,
+                    "answers": "as already happened with the crisis of the savings banks|advcl\twith the crisis of the savings banks|prep\tthe crisis of the savings banks|pobj"
+                },
+                {
+                    "question": "What are the financial criteria that Santander remains in look and make an offer?",
+                    "score": 0.6652,
+                    "answers": "if some Spanish entity is put on sale , as already happened with the crisis of the savings banks ,|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "'If so, we will buy ', he said, and then be open to the possibility of attending another eventual auction of the Portuguese Novo Banco.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com say about the Novo Banco auction?",
+                    "answer": "'If so, we will buy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the auction of the Portuguese Novo Banco?",
+                    "score": 0.693,
+                    "answers": "another|det"
+                },
+                {
+                    "question": "What is Novo Banco?",
+                    "score": 0.6751,
+                    "answers": "Novo|compound"
+                },
+                {
+                    "question": "What is the name of the Portuguese Banco?",
+                    "score": 0.6573,
+                    "answers": "the Portuguese Novo Banco|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Asked whether Santander has an interest in Bankia, the entity's 'number two' has limited itself to valuing the management of the nationalized bank and its improvement, in order to settle the issue by saying that it is something'purely speculative'.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Santander had an interest in Bankia?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of Santander's interest in Bankia?",
+                    "score": 0.6519,
+                    "answers": "in order to settle the issue by saying that it is something'purely speculative '|prep"
+                },
+                {
+                    "question": "What is the relationship between Santander and Bankia?",
+                    "score": 0.6074,
+                    "answers": "elpais.com reported on 29/10/2015 that Asked whether Santander has an interest in Bankia , the entity 's ' number two ' has limited itself to valuing the management of the nationalized bank and its improvement , in order to settle the issue by saying that it is something'purely speculative '|ROOT\ton 29/10/2015|prep\tthat|mark\tAsked whether Santander has an interest in Bankia|advcl\twhether|mark\twhether Santander has an interest in Bankia|ccomp\tan|det\tan interest in Bankia|dobj\tin Bankia|prep\t,|punct\tthe|det\tthe entity 's|poss\t's|case\t'|punct\tthe entity 's ' number two '|nsubj\t'|punct\thas|aux\tthat Asked whether Santander has an interest in Bankia , the entity 's ' number two ' has limited itself to valuing the management of the nationalized bank and its improvement , in order to settle the issue by saying that it is something'purely speculative '|ccomp\titself|dobj\tto valuing the management of the nationalized bank and its improvement|prep\tvaluing the management of the nationalized bank and its improvement|pcomp\tthe|det\tthe management of the nationalized bank and its improvement|dobj\tof the nationalized bank|prep\tthe|det\tnationalized|amod\tthe nationalized bank|pobj\tand|cc\tits|poss\tits improvement|conj\t,|punct\torder to settle the issue by saying that it is something'purely speculative '|pobj\tto|aux\tto settle the issue by saying that it is something'purely speculative '|acl\tthe|det\tthe issue|dobj\tby saying that it is something'purely speculative|prep\tsaying that it is something'purely speculative|pcomp\tthat|mark\tit|nsubj\tthat it is something'purely speculative|ccomp\tsomething'purely|advmod\tsomething'purely speculative|acomp\t'|punct"
+                }
+            ]
+        },
+        {
+            "claim": "'It's not on the table or I don't know if it's going to be ', he said.",
+            "question_answers": [
+                {
+                    "question": "What did elpais.com report on 29/10/2015?",
+                    "answer": "'It's not on the table or I don't know if it's going to be"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does elpais.com say about a table being not on the table?",
+                    "score": 0.5454,
+                    "answers": "not|neg\tor|cc"
+                },
+                {
+                    "question": "What does elpais.com do?",
+                    "score": 0.5302,
+                    "answers": "that|mark\t'|punct\tIt|nsubj\tthe|det\tI|nsubj\tdo|aux\tn't|neg\tit|nsubj\t's|aux\tto|aux\tto be|xcomp\t'|punct\t,|punct\the|nsubj\telpais.com reported on 29/10/2015 that ' It 's not on the table or I do n't know if it 's going to be ' , he said|ROOT"
+                },
+                {
+                    "question": "What is on the table?",
+                    "score": 0.4986,
+                    "answers": "It 's not on the table or I do n't know if it 's going to be|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the number of people on the table?",
+                    "score": 0.4504,
+                    "answers": "the table|pobj"
+                },
+                {
+                    "question": "What is elpais.com?",
+                    "score": 0.417,
+                    "answers": "elpais.com reported on 29/10/2015|ccomp"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,600 @@
+{
+    "id": "22_Politics_553",
+    "claim": "Several countries have sent rescue brigades, tons of supplies and equipment to locate more people in the rubble; Luis Videgaray expressed gratitude on behalf of the Mexican governmentSix days after the earthquake of magnitude , several nations have shown their help in sending rescue brigades, tons of supplies, and equipment to locate people in the rubble. Among the nations that have supported the disaster are: Argentina, Canada, Chile, China, Colombia, Costa Rica, Ecuador, El Salvador, Germany, Guatemala, Honduras, Israel, Japan, Panama, Peru, Russia, Spain, Switzerland, Turkey, United Arab Emirates, United States, Venezuela, European Union and United Nations. The head of the Ministry of Foreign Affairs, Luis Videgaray Caso, expressed his gratitude on behalf of the Mexican government with these countries for offering their unconditional help in the face of the catastrophe that succumbed to various entities of the Republic. From the first hours after the telluric movement, leaders, prime ministers, ambassadors and various personalities from different nations of the world expressed their pain and support for the moment that was going through the country. Some of the leaders highlighted their condolences through their social networks, such is the case of the President of the United States, Donald Trump who wrote on his Twitter account,'God bless the people of Mexico City. We're with you and we'll be there for you.\". Then the U.S. president called President Enrique Peña Nieto to offer the help and offer condolences for what happened. His Canadian counterpart, Justin Trudeau, wrote'Devasive News from Mexico City. My thoughts are with those affected by the earthquake-Canada will be ready to help our friends'. Today, six days after the event, aid continues to arrive, and rescue and construction specialists work hard side by side with their Mexican counterparts to continue supporting the search for people. Foreign Minister Luis Videgaray Caso confirmed on September  that El Salvador was the first country to send a crew of  elements who have experience in the rescue of people in the rubble. 'The response of the international community has been extraordinary, there are already teams that are coming to Mexico, the first team that arrived is a specialized gang from El Salvador ', declared that day to the American news network CNN in Spanish. After the help of that country, several more arrived, such as the case of Japan, which sent  rescuers experienced in collapsed structures, with technological equipment that helps the detection of life in the rubble. In addition, Israel collaborated with  people, including soldiers and trained officers and experts in collapsed buildings, as well as sending humanitarian aid. The United States did this with  lifeguards belonging to the Los Angeles County Fire Department Urban Search and Rescue Team, known as the USA-, more than  tons of equipment,  coaches and five canines, as well as tons of medical supplies and basic necessities. To the latter are added the collection centers that exist in different cities of the United States, which send the support states such as Puebla, Oaxaca, Chiapas, Morelos, and Mexico City, where in New York and New Jersey alone more than eight tons of aid have been collected. Spain sent  of its best men in the field, who arrived last September  along with four dogs trained in the search for people, while Honduras supports with  men and women belonging to the group Katrachos USAR, experts in human search and rescue. Panama was the first country to offer assistance to Mexico in the face of the terrible event, and did not hesitate to send to  elements and four dogs for support in the search for people, who joined the  Colombian rescuers who arrived on Aztec soil with two trained dogs. For its part, Ecuador supported with  experts, Venezuela with  rescuers and two canes of the Simon Bolívar International Brigade, as well as sending  tons of humanitarian aid, while Chile did so with  specialists and two more dogs. Similarly, Switzerland sent a group of structural engineers to support the detection of damage to buildings after the earthquake, who have so far visited hospitals in Morelos state. Germany, for its part, supports with experts from the German aid organization Search and Rescue International (ISAR), who bring with them a bioradar team of the most modern generation. The People's Republic of China gave the Mexican government a donation of $1 million as humanitarian aid for the victims of the earthquake, Costa Rica sent a team of specialists in structural damage assessment, while Peru sent five engineers expert in property assessment at risk, who support the work of recognizing damaged buildings. I'm sorry.",
+    "source": "www.eluniversal.com.mx",
+    "date": "25/09/2017",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Several the U.S. president sent rescue brigades, tons of supplies and equipment to locate more people in the rubble ; Luis Videgaray His Canadian counterpart, Justin Trudeau the Mexican governmentSix Morelos the Mexican governmentSix days after the earthquake of magnitude , several nations the earthquake help in sending Spain brigadesSpain of supplies, and equipment the earthquake locate people in the rubble .",
+            "question_answers": [
+                {
+                    "question": "What was the magnitude of the earthquake?",
+                    "answer": "magnitude"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What supplies were sent to Spain after the earthquake?",
+                    "score": 0.7614,
+                    "answers": "brigadesSpain of supplies , and equipment|dobj"
+                },
+                {
+                    "question": "How many people were found after the earthquake in Morelos?",
+                    "score": 0.6764,
+                    "answers": "the Mexican governmentSix Morelos|appos"
+                },
+                {
+                    "question": "What was the magnitude of the earthquake?",
+                    "score": 0.6647,
+                    "answers": "of magnitude|prep"
+                }
+            ]
+        },
+        {
+            "claim": "rescue and construction specialists the earthquake of magnitude are: Argentinarescue and construction specialists , Chile, China, Colombia, Costa Rica, Ecuador, El Salvador, Germany, Guatemala, Honduras, Israel, Japan, Panama, PeruSeptember , SpainEl Salvador , Turkey, United Arab the terrible event United States , Venezuela, European Union and United Nations.",
+            "question_answers": [
+                {
+                    "question": "Who are the rescue and construction specialists of the earthquake of magnitude?",
+                    "answer": "Argentinarescue and construction specialists"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What earthquake happened in El Salvador in 2017?",
+                    "score": 0.7818,
+                    "answers": "El|compound\tEl Salvador , Germany , Guatemala ,|appos"
+                },
+                {
+                    "question": "What countries were involved in the earthquake of magnitude?",
+                    "score": 0.7622,
+                    "answers": "China , Colombia , Costa Rica , Ecuador ,|conj\tUnited States , Venezuela , European Union and United Nations|appos\tEuropean|compound"
+                },
+                {
+                    "question": "What was the magnitude of the earthquake?",
+                    "score": 0.6734,
+                    "answers": "on 25/09/2017|prep\trescue and construction specialists the earthquake of magnitude|nsubj"
+                },
+                {
+                    "question": "How many rescue and construction specialists were there in Honduras in 2017?",
+                    "score": 0.6158,
+                    "answers": "Honduras ,|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Luis Videgaray , expressed gratitude on behalf of the Mexican governmentSix with several nations for offering unconditional help in El Salvador the catastrophe September succumbed to various entities of the Mexican governmentSix .",
+            "question_answers": [
+                {
+                    "question": "Who expressed gratitude on behalf of the Mexican government for offering unconditional help in El Salvador?",
+                    "answer": "Luis Videgaray"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Luis Videgaray say to the Mexican government about El Salvador?",
+                    "score": 0.8302,
+                    "answers": "unconditional help in El Salvador the catastrophe September succumbed to various entities of the Mexican governmentSix|dobj"
+                },
+                {
+                    "question": "What is Luis Videgaray's relationship with the Mexican government?",
+                    "score": 0.7342,
+                    "answers": "Luis|compound\tgratitude|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of Luis Videgaray expressing gratitude on behalf of the Mexican government?",
+                    "score": 0.7173,
+                    "answers": "El|compound"
+                },
+                {
+                    "question": "What is the relationship between Luis Videgaray and the Mexican government?",
+                    "score": 0.6847,
+                    "answers": "on 25/09/2017|prep\tthat|mark\t,|punct\tthe|det\twith several nations|prep\tseveral|amod\tseveral nations|pobj\tunconditional|amod\tthe|det\tsuccumbed to various entities of the Mexican governmentSix|acl\tvarious|amod\tvarious entities of the Mexican governmentSix|pobj\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "From the first hours El Salvador the earthquake of magnitude , leaders, prime ministers, ambassadors and various personalities from different nations of the world expressed pain and support for the moment that the terrible event the Mexican governmentSix .",
+            "question_answers": [
+                {
+                    "question": "When did leaders, prime ministers, ambassadors and various personalities from different nations of the world express pain and support for the moment?",
+                    "answer": "From the first hours El Salvador the earthquake of magnitude"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did El Salvador feel about the earthquake of magnitude?",
+                    "score": 0.8817,
+                    "answers": "that From the first hours El Salvador the earthquake of magnitude , leaders , prime ministers , ambassadors and various personalities from different nations of the world expressed pain and support for the moment that the terrible event the Mexican governmentSix|ccomp\tpain and support|dobj"
+                },
+                {
+                    "question": "What did El Salvador's government say about the earthquake?",
+                    "score": 0.8314,
+                    "answers": "on 25/09/2017|prep\tthat|mark\tthe|det\tfirst|amod\tEl|compound\tthe|det\t,|punct\t,|punct\tprime ministers , ambassadors and various personalities|conj\t,|punct\tambassadors and various personalities|conj\tand|cc\tthe|det\tand|cc\tthe|det\tthat|mark\tthe|det\tterrible|amod\tthat the terrible event|relcl\tthe|det"
+                },
+                {
+                    "question": "What did El Salvador do after the earthquake?",
+                    "score": 0.8246,
+                    "answers": "the moment that the terrible event the Mexican governmentSix|pobj\tthe Mexican governmentSix|relcl"
+                },
+                {
+                    "question": "What was the magnitude of El Salvador earthquake in 2017?",
+                    "score": 0.8061,
+                    "answers": "From the first hours El Salvador the earthquake of magnitude|prep\tthe earthquake of magnitude|appos\tof magnitude|prep"
+                },
+                {
+                    "question": "How many nations supported El Salvador after the earthquake?",
+                    "score": 0.772,
+                    "answers": "from different nations of the world|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Some of the leaders highlighted Germany social networksexperts from the German aid organization Search and Rescue International (ISAR), who bring with them a bioradar team of the most modern generation .",
+            "question_answers": [
+                {
+                    "question": "What does ISR stand for?",
+                    "answer": "Search and Rescue International"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How modern is the German aid organization Search and Rescue International (ISAR)?",
+                    "score": 0.7308,
+                    "answers": "most modern|amod"
+                },
+                {
+                    "question": "What does it mean to be a bioradar team?",
+                    "score": 0.6642,
+                    "answers": "a|det\tthe most modern generation|pobj"
+                },
+                {
+                    "question": "What is Search and Rescue International?",
+                    "score": 0.5989,
+                    "answers": "Rescue International|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Then the U.S. president called President Enrique Peña Nieto to offer the help and offer condolences for what happened.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What did President Enrique Peña Nieto offer help for?",
+                    "score": 0.8573,
+                    "answers": "to offer the help and offer condolences for what happened|advcl"
+                },
+                {
+                    "question": "What did the U.S. president call President Enrique Peña Nieto?",
+                    "score": 0.8212,
+                    "answers": "www.eluniversal.com.mx reported on 25/09/2017 that Then the U.S. president called President Enrique Peña Nieto to offer the help and offer condolences for what happened|ROOT\tthat Then the U.S. president called President Enrique Peña Nieto to offer the help and offer condolences for what happened|ccomp"
+                },
+                {
+                    "question": "What was the relationship between Peña Nieto and Obama?",
+                    "score": 0.7511,
+                    "answers": "Peña|compound"
+                }
+            ]
+        },
+        {
+            "claim": "His Canadian counterpart, Justin Trudeau, wrote'Devasive News from Mexico City.",
+            "question_answers": [
+                {
+                    "question": "When did Justin Trudeau write 'Devasive News from Mexico City'?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What news did Justin Trudeau write from Mexico City in 2017?",
+                    "score": 0.8957,
+                    "answers": "www.eluniversal.com.mx reported on 25/09/2017 that His Canadian counterpart , Justin Trudeau , wrote'Devasive News from Mexico City|ROOT\twrote'Devasive News from Mexico City|appos"
+                }
+            ]
+        },
+        {
+            "claim": "My thoughts are with those affected by the earthquake-Canada will be ready to help our friends'.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report that their thoughts were with those affected by the earthquake?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Trump say about the earthquake in Canada?",
+                    "score": 0.8971,
+                    "answers": "that My thoughts are with those affected by the earthquake - Canada will be ready to help our friends '|ccomp\tready to help our friends '|acomp\tto help our friends '|xcomp"
+                },
+                {
+                    "question": "How many people were affected by the earthquake in Canada in 2017?",
+                    "score": 0.827,
+                    "answers": "the|det"
+                },
+                {
+                    "question": "What are the names of the countries affected by the earthquake-Canada?",
+                    "score": 0.7545,
+                    "answers": "that|mark\t-|punct\tto|aux\t'|case"
+                },
+                {
+                    "question": "What is the relationship between the United States and the earthquake-Canada?",
+                    "score": 0.7157,
+                    "answers": "My thoughts|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Today, six days after the event, aid continues to arrive, and rescue and construction specialists work hard side by side with their Mexican counterparts to continue supporting the search for people.",
+            "question_answers": [
+                {
+                    "question": "Who works hard side by side with their Mexican counterparts to continue supporting the search for people?",
+                    "answer": "rescue and construction specialists"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did aid arrive six days after the event?",
+                    "score": 0.8029,
+                    "answers": "that Today , six days after the event , aid continues to arrive , and rescue and construction specialists work hard side by side with their Mexican counterparts to continue supporting the search for people|ccomp"
+                },
+                {
+                    "question": "What did aid arrive after the event?",
+                    "score": 0.7186,
+                    "answers": "aid|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of aid for the relief efforts?",
+                    "score": 0.6515,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                },
+                {
+                    "question": "How many people have been helped by rescue and construction specialists since the event?",
+                    "score": 0.6157,
+                    "answers": "rescue and construction specialists work hard side by side with their Mexican counterparts to continue supporting the search for people|conj"
+                },
+                {
+                    "question": "How many people were still unaccounted for in the search for people?",
+                    "score": 0.6003,
+                    "answers": "supporting the search for people|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Foreign Minister Luis Videgaray Caso confirmed on September  that El Salvador was the first country to send a crew of  elements who have experience in the rescue of people in the rubble.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "When did El Salvador send a crew of elements to rescue people in the rubble?",
+                    "score": 0.8464,
+                    "answers": "on September|prep\tSeptember|pobj"
+                },
+                {
+                    "question": "How many people did El Salvador rescue in the rubble?",
+                    "score": 0.7514,
+                    "answers": "in the rescue of people in the rubble|prep\tin the rubble|prep"
+                },
+                {
+                    "question": "How many people were rescued in the earthquake in El Salvador?",
+                    "score": 0.7429,
+                    "answers": "the rescue of people in the rubble|pobj\tof people in the rubble|prep\tpeople in the rubble|pobj"
+                },
+                {
+                    "question": "Who is Luis Videgaray Caso?",
+                    "score": 0.6166,
+                    "answers": "Foreign Minister|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'The response of the international community has been extraordinary, there are already teams that are coming to Mexico, the first team that arrived is a specialized gang from El Salvador ', declared that day to the American news network CNN in Spanish.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the first team to arrive in Mexico City?",
+                    "answer": "a specialized gang from El Salvador"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many teams are coming to Mexico each year?",
+                    "score": 0.661,
+                    "answers": "www.eluniversal.com.mx|nsubj\ton 25/09/2017|prep\tthat|mark\t'|punct\tThe|det\tof the international community|prep\tthe|det\tthe international community|pobj\thas|aux\t,|punct\tthere|expl\tthere are already teams that are coming to Mexico|ccomp\talready|advmod\tteams that are coming to Mexico|attr\tthat|nsubj\tare|aux\tthat are coming to Mexico|relcl\tto Mexico|prep\t,|punct\tthe|det\tthe first team that arrived|nsubj\tthat|nsubj\tthat arrived|relcl\t' The response of the international community has been extraordinary , there are already teams that are coming to Mexico , the first team that arrived is a specialized gang from El Salvador|ccomp\ta|det\tspecialized|amod\tfrom El Salvador|prep\tEl|compound\t'|punct\t,|punct\tthat ' The response of the international community has been extraordinary , there are already teams that are coming to Mexico , the first team that arrived is a specialized gang from El Salvador ' , declared that day to the American news network CNN in Spanish|ccomp\tthat|det\tto the American news network CNN|prep\tthe|det\tnews|compound\tthe American news network CNN|pobj\tin Spanish|prep"
+                },
+                {
+                    "question": "What is the name of the gang from El Salvador?",
+                    "score": 0.6294,
+                    "answers": "a specialized gang from El Salvador|attr"
+                },
+                {
+                    "question": "What is the response of the international community to the teams coming to Mexico?",
+                    "score": 0.6286,
+                    "answers": "www.eluniversal.com.mx reported on 25/09/2017 that ' The response of the international community has been extraordinary , there are already teams that are coming to Mexico , the first team that arrived is a specialized gang from El Salvador ' , declared that day to the American news network CNN in Spanish|ROOT\tThe response of the international community|nsubj\tinternational|amod\tThe response of the international community has been extraordinary|ccomp\textraordinary|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "After the help of that country, several more arrived, such as the case of Japan, which sent  rescuers experienced in collapsed structures, with technological equipment that helps the detection of life in the rubble.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What equipment did Japan send to the collapsed structures?",
+                    "score": 0.8085,
+                    "answers": "www.eluniversal.com.mx reported on 25/09/2017 that After the help of that country , several more such as the case of Japan , which sent   rescuers experienced in collapsed structures , with technological equipment that helps the detection of life in the rubble arrived ,|ROOT\tsuch as the case of Japan , which sent   rescuers experienced in collapsed structures , with technological equipment that helps the detection of life in the rubble|prep\tthe case of Japan , which sent   rescuers experienced in collapsed structures , with technological equipment that helps the detection of life in the rubble|pobj\tof Japan , which sent   rescuers experienced in collapsed structures , with technological equipment that helps the detection of life in the rubble|prep\tJapan , which sent   rescuers experienced in collapsed structures , with technological equipment that helps the detection of life in the rubble|pobj\twhich sent   rescuers experienced in collapsed structures , with technological equipment that helps the detection of life in the rubble|relcl\t  rescuers experienced in collapsed structures , with technological equipment that helps the detection of life in the rubble|dep\trescuers experienced in collapsed structures , with technological equipment that helps the detection of life in the rubble|dobj\twith technological equipment that helps the detection of life in the rubble|prep\ttechnological equipment that helps the detection of life in the rubble|pobj"
+                },
+                {
+                    "question": "What technology did Japan use to detect life in the rubble?",
+                    "score": 0.7999,
+                    "answers": "the detection of life in the rubble|dobj"
+                },
+                {
+                    "question": "How many rescue teams were sent to Japan after the collapse of the collapsed structures?",
+                    "score": 0.7272,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, Israel collaborated with  people, including soldiers and trained officers and experts in collapsed buildings, as well as sending humanitarian aid.",
+            "question_answers": [
+                {
+                    "question": "When did www.eluniversal.com.mx report that Israel collaborated with people in collapsed buildings?",
+                    "answer": "25/09/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What aid does Israel send to other countries?",
+                    "score": 0.891,
+                    "answers": "humanitarian aid|dobj"
+                },
+                {
+                    "question": "What aid did Israel send to the collapsed buildings?",
+                    "score": 0.8596,
+                    "answers": "sending humanitarian aid|conj"
+                },
+                {
+                    "question": "What did Israel do to help people in collapsed buildings?",
+                    "score": 0.852,
+                    "answers": "that In addition , Israel collaborated with   people , including soldiers and trained officers and experts in collapsed buildings , as well as sending humanitarian aid|ccomp"
+                },
+                {
+                    "question": "How many collapsed buildings did Israel coordinate with other countries?",
+                    "score": 0.8185,
+                    "answers": "in collapsed buildings|prep\tcollapsed|amod"
+                },
+                {
+                    "question": "What is the source of evidence of Israel working with experts in collapsed buildings?",
+                    "score": 0.7136,
+                    "answers": "on 25/09/2017|prep\tthat|mark\t,|punct\t,|punct\tand|cc\tand|cc\t,|punct\tas|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "The United States did this with  lifeguards belonging to the Los Angeles County Fire Department Urban Search and Rescue Team, known as the USA-, more than  tons of equipment,  coaches and five canines, as well as tons of medical supplies and basic necessities.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How much equipment did the United States do with lifeguards belonging to the Los Angeles County Fire Department Urban Search and Rescue Team?",
+                    "score": 0.771,
+                    "answers": "  coaches and five canines , as well as tons of medical supplies and basic necessities|dep"
+                },
+                {
+                    "question": "What does the USA do with lifeguards?",
+                    "score": 0.7704,
+                    "answers": "the USA-|pobj"
+                },
+                {
+                    "question": "What type of equipment does the USA have?",
+                    "score": 0.7391,
+                    "answers": "of equipment|prep"
+                },
+                {
+                    "question": "What is the USA doing with lifeguards?",
+                    "score": 0.7255,
+                    "answers": "more than   tons of equipment ,   coaches and five canines , as well as tons of medical supplies and basic necessities|appos\tequipment|pobj\tbasic necessities|conj"
+                },
+                {
+                    "question": "How many lifeguards were in the USA in 2017?",
+                    "score": 0.6998,
+                    "answers": "www.eluniversal.com.mx reported on 25/09/2017 that The United States did this with   lifeguards belonging to the Los Angeles County Fire Department Urban Search and Rescue Team , known as the USA- , more than   tons of equipment ,   coaches and five canines , as well as tons of medical supplies and basic necessities|ROOT\t |dep\tlifeguards belonging to the Los Angeles County Fire Department Urban Search and Rescue Team , known as the USA- , more than   tons of equipment ,   coaches and five canines , as well as tons of medical supplies and basic necessities|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "To the latter are added the collection centers that exist in different cities of the United States, which send the support states such as Puebla, Oaxaca, Chiapas, Morelos, and Mexico City, where in New York and New Jersey alone more than eight tons of aid have been collected.",
+            "question_answers": [
+                {
+                    "question": "In what two states has more than eight tons of aid been collected?",
+                    "answer": "New York and New Jersey"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much aid has been collected in Mexico?",
+                    "score": 0.7909,
+                    "answers": "Oaxaca , Chiapas , Morelos , and Mexico City|conj"
+                },
+                {
+                    "question": "How many donations have been collected in New York and New Jersey?",
+                    "score": 0.7324,
+                    "answers": "To the latter|prep\tare|auxpass\tthe support|compound\tNew|compound\tNew|compound\talone|advmod"
+                },
+                {
+                    "question": "What is the amount of aid collected in Mexico?",
+                    "score": 0.7154,
+                    "answers": "Mexico|compound"
+                },
+                {
+                    "question": "What are the collection centers that are added in different cities?",
+                    "score": 0.6463,
+                    "answers": "different|amod\tUnited|compound\twhere|advmod"
+                },
+                {
+                    "question": "What is the collection centers in different cities of the United States?",
+                    "score": 0.6125,
+                    "answers": "collection|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Spain sent  of its best men in the field, who arrived last September  along with four dogs trained in the search for people, while Honduras supports with  men and women belonging to the group Katrachos USAR, experts in human search and rescue.",
+            "question_answers": [
+                {
+                    "question": "What country supports the group Katrachos USAR?",
+                    "answer": "Honduras"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What group does Honduras support with its best men in the field?",
+                    "score": 0.8078,
+                    "answers": "belonging to the group Katrachos USAR , experts in human search and rescue|acl\tto the group Katrachos USAR , experts in human search and rescue|prep\tthe group Katrachos USAR , experts in human search and rescue|pobj"
+                },
+                {
+                    "question": "What did Spain send to aid in the search for people?",
+                    "score": 0.7816,
+                    "answers": "www.eluniversal.com.mx reported on 25/09/2017 that Spain sent   of its best men in the field , who arrived last September   along with four dogs trained in the search for people , while Honduras supports with   men and women belonging to the group Katrachos USAR , experts in human search and rescue|ROOT\ttrained in the search for people|acl\tin the search for people|prep\tthe search for people|pobj"
+                },
+                {
+                    "question": "What is the relationship between Spain and Honduras in human search and rescue?",
+                    "score": 0.5969,
+                    "answers": "experts in human search and rescue|appos"
+                }
+            ]
+        },
+        {
+            "claim": "Panama was the first country to offer assistance to Mexico in the face of the terrible event, and did not hesitate to send to  elements and four dogs for support in the search for people, who joined the  Colombian rescuers who arrived on Aztec soil with two trained dogs.",
+            "question_answers": [
+                {
+                    "question": "How many dogs did Panama send to Mexico?",
+                    "answer": "four"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Panama offer assistance to Mexico in the face of the terrible event?",
+                    "score": 0.823,
+                    "answers": "that|mark\tthat Panama was the first country to offer assistance to Mexico in the face of the terrible event , and did not hesitate to send to|ccomp\tthe|det\tto|aux\tthe|det\tthe|det\tthe terrible event|pobj\t,|punct\tand|cc\tdid|aux\tnot|neg\tdid not hesitate to send to|conj\tto|aux\tto send to|xcomp\tto|prep\t  elements and four dogs for support in the search for people , who joined|dep\tand|cc\tfour dogs for support in the search for people , who joined|conj\tfor support in the search for people , who joined|prep\tsupport in the search for people , who joined|pobj\tthe|det\tfor people , who joined|prep\tpeople , who joined|pobj\t,|punct\twho|nsubj\twho joined|relcl\tthe|det\twho|nsubj\twith two trained dogs|prep\ttrained|amod\ttwo trained dogs|pobj"
+                },
+                {
+                    "question": "How many dogs did Panama send to aid Mexico during the terrible event?",
+                    "score": 0.7259,
+                    "answers": "of the terrible event|prep\ton Aztec soil|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For its part, Ecuador supported with  experts, Venezuela with  rescuers and two canes of the Simon Bolívar International Brigade, as well as sending  tons of humanitarian aid, while Chile did so with  specialists and two more dogs.",
+            "question_answers": [
+                {
+                    "question": "How many canes did Chile send to Ecuador?",
+                    "answer": "two"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Ecuador support Venezuelans with aid?",
+                    "score": 0.8725,
+                    "answers": "that For its part , Ecuador supported with|ccomp"
+                },
+                {
+                    "question": "What aid did Ecuador send to Venezuela in 2017?",
+                    "score": 0.8315,
+                    "answers": "sending|conj\t  tons of humanitarian aid|dep\ttons of humanitarian aid|dobj\tof humanitarian aid|prep\thumanitarian|amod\thumanitarian aid|pobj"
+                },
+                {
+                    "question": "What is the Simon Bolívar International Brigade?",
+                    "score": 0.6577,
+                    "answers": "of the Simon Bolívar International Brigade|prep\tSimon|compound"
+                },
+                {
+                    "question": "What is the relationship between Ecuador and Venezuela?",
+                    "score": 0.6431,
+                    "answers": "  experts|dep\texperts|dobj\tVenezuela with|conj\tInternational|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Similarly, Switzerland sent a group of structural engineers to support the detection of damage to buildings after the earthquake, who have so far visited hospitals in Morelos state.",
+            "question_answers": [
+                {
+                    "question": "What did Switzerland send to support the detection of damage to buildings after the earthquake?",
+                    "answer": "a group of structural engineers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Switzerland send structural engineers to help detect damage to buildings after the earthquake?",
+                    "score": 0.8747,
+                    "answers": "Similarly|advmod\ta group of structural engineers to support the detection of damage to buildings after the earthquake , who have so far visited hospitals in Morelos state|dobj\tbuildings|pobj"
+                },
+                {
+                    "question": "How many structural engineers have visited hospitals in Morelos state since the earthquake?",
+                    "score": 0.795,
+                    "answers": "structural engineers|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Germany, for its part, supports with experts from the German aid organization Search and Rescue International (ISAR), who bring with them a bioradar team of the most modern generation.",
+            "question_answers": [
+                {
+                    "question": "What does ISR stand for?",
+                    "answer": "Search and Rescue International"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What aid does the German aid organization Search and Rescue International (ISAR) bring with them?",
+                    "score": 0.8135,
+                    "answers": "aid|compound"
+                },
+                {
+                    "question": "What is Search and Rescue International?",
+                    "score": 0.6379,
+                    "answers": "Search and Rescue|nmod"
+                },
+                {
+                    "question": "What is the relationship between Germany and ISAR?",
+                    "score": 0.6131,
+                    "answers": "Rescue|conj"
+                }
+            ]
+        },
+        {
+            "claim": "The People's Republic of China gave the Mexican government a donation of $1 million as humanitarian aid for the victims of the earthquake, Costa Rica sent a team of specialists in structural damage assessment, while Peru sent five engineers expert in property assessment at risk, who support the work of recognizing damaged buildings.",
+            "question_answers": [
+                {
+                    "question": "Who gave the Mexican government a donation of $1 million as humanitarian aid?",
+                    "answer": "The People's Republic of China"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the Chinese government donate money to aid the victims of the earthquake?",
+                    "score": 0.8756,
+                    "answers": "'s|case\tfor the victims of the earthquake|prep\tof the earthquake|prep\tthe earthquake|pobj"
+                },
+                {
+                    "question": "Did Costa Rica send a team of specialists in structural damage assessment at risk?",
+                    "score": 0.8317,
+                    "answers": "Costa|compound\ta team of specialists in structural damage assessment|dobj\tof specialists in structural damage assessment|prep\tspecialists in structural damage assessment|pobj\tstructural|amod"
+                },
+                {
+                    "question": "How many engineers did Peru send to aid the earthquake victims?",
+                    "score": 0.7695,
+                    "answers": "while Peru sent five engineers expert in property assessment at risk , who support the work of recognizing damaged buildings|advcl"
+                },
+                {
+                    "question": "How many people were affected by the earthquake in Costa Rica?",
+                    "score": 0.7251,
+                    "answers": "recognizing damaged buildings|pcomp\tdamaged|amod\tdamaged buildings|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the donation from the People's Republic of China?",
+                    "score": 0.628,
+                    "answers": "www.eluniversal.com.mx|nsubj"
+                }
+            ]
+        }
+    ]
+}

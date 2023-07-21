@@ -1,0 +1,180 @@
+{
+    "id": "Sport_303",
+    "claim": "'Ape ', is the word with which Darío Veron, captain of Pumas, would have referred to the Americanist, Darwin Quintero. The National Council for the Prevention of Discrimination (Conapred) filed an ex officio complaint to investigate the alleged racist act in the semifinal game, between Pumas and America, by player Dario Veron. On Sunday, at the end of the meeting in which America was eliminated, the goalkeeper of that team, Moises Muñoz, explained that the captain of the Pumas, Darío Veron, called Darwin Quintero'ape'. He added that he felt sorry for the Paraguayan defense and called for them to take action on the matter because it is a topic that cannot go unpunished. 'It is something that I find inappropriate, racist even, because it is something that not only in this party has he done, according to Darwin that even being a player of Santos he had already received this type of qualifier and gestures as ape regarding his person ', added the captain of America. Conapred indicated that he will not disclose any of the case until the investigation is completed:",
+    "source": "aristeguinoticias.com",
+    "date": "01/01/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "'Ape ', is the word with which Darío Veron, captain of Pumas, would have referred to the Americanist, Darwin Quintero.",
+            "question_answers": [
+                {
+                    "question": "What word did Daro Veron use to refer to Darwin Quintero?",
+                    "answer": "'Ape"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the meaning of 'Ape'?",
+                    "score": 0.6537,
+                    "answers": "with which|prep"
+                },
+                {
+                    "question": "Who was the captain of Pumas in 2023?",
+                    "score": 0.6519,
+                    "answers": "Darío Veron , captain of Pumas ,|nsubj\tcaptain of Pumas|appos\tof Pumas|prep"
+                },
+                {
+                    "question": "What is the origin of the word \"Ape\"?",
+                    "score": 0.6488,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that ' Ape ' , is the word with which Darío Veron , captain of Pumas , would have referred to the Americanist , Darwin Quintero|ROOT\tthat|mark\t'|punct\t'|punct\t,|punct\tthe|det\twhich|pobj\t,|punct\t,|punct\twould|aux\thave|aux\tthe|det\t,|punct\tDarwin|compound"
+                },
+                {
+                    "question": "What is the Americanist, Darwin Quintero?",
+                    "score": 0.6196,
+                    "answers": "to the Americanist , Darwin Quintero|prep"
+                },
+                {
+                    "question": "What is aristeguinoticias.com?",
+                    "score": 0.5166,
+                    "answers": "aristeguinoticias.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The National Council for the Prevention of Discrimination (Conapred) filed an ex officio complaint to investigate the alleged racist act in the semifinal game, between Pumas and America, by player Dario Veron.",
+            "question_answers": [
+                {
+                    "question": "Who filed an ex officio complaint to investigate the alleged racist act in the semifinal game between Pumas and America?",
+                    "answer": "The National Council for the Prevention of Discrimination"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who committed the racist act in the semifinal game between Pumas and America?",
+                    "score": 0.6661,
+                    "answers": "the alleged racist act in the semifinal game , between Pumas and America , by player Dario Veron|dobj"
+                },
+                {
+                    "question": "What did the National Council for the Prevention of Discrimination (Conapred) file an ex officio complaint against?",
+                    "score": 0.6253,
+                    "answers": "aristeguinoticias.com|nsubj\tthe Prevention of Discrimination|pobj\tan ex officio complaint|dobj"
+                },
+                {
+                    "question": "What did Dario Veron do to investigate Pumas and America?",
+                    "score": 0.6083,
+                    "answers": "to investigate the alleged racist act in the semifinal game , between Pumas and America , by player Dario Veron|advcl"
+                },
+                {
+                    "question": "What is Pumas and America?",
+                    "score": 0.5418,
+                    "answers": "Pumas and America|pobj"
+                },
+                {
+                    "question": "Who was Dario Veron?",
+                    "score": 0.5326,
+                    "answers": "by player Dario Veron|prep\tplayer|compound\tDario|compound\tplayer Dario Veron|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "On Sunday, at the end of the meeting in which America was eliminated, the goalkeeper of that team, Moises Muñoz, explained that the captain of the Pumas, Darío Veron, called Darwin Quintero'ape'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that the goalkeeper of the Pumas team, Moises Muoz, explained that the captain of the Pumas, Daro Veron, called Darwin Quintero'ape?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What team did Moises Muñoz play for?",
+                    "score": 0.7067,
+                    "answers": "the Pumas|pobj"
+                },
+                {
+                    "question": "What did Moises Muñoz say about the Pumas team?",
+                    "score": 0.6731,
+                    "answers": "in which America was eliminated|relcl"
+                },
+                {
+                    "question": "Who was the goalkeeper of the Pumas team?",
+                    "score": 0.6153,
+                    "answers": "on 01/01/2023|prep\tOn Sunday|prep\tthe|det\tthe|det\tthe meeting in which America was eliminated|pobj\tin which|prep\tthe|det\tthe goalkeeper of that team , Moises Muñoz ,|nsubj\tof that team|prep\tthat team|pobj\tMoises|compound\tthe|det\tof the Pumas|prep\tthe|det\tthat the captain of the Pumas , Darío Veron , called Darwin Quintero'ape '|ccomp\tDarwin Quintero'ape '|dobj"
+                },
+                {
+                    "question": "Who was the captain of the Pumas?",
+                    "score": 0.6021,
+                    "answers": "Darío|compound"
+                }
+            ]
+        },
+        {
+            "claim": "He added that he felt sorry for the Paraguayan defense and called for them to take action on the matter because it is a topic that cannot go unpunished.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 01/01/2023 that he felt sorry for the Paraguayan defense?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did President Rodrigo Duterte say about the Paraguayan defense?",
+                    "score": 0.7146,
+                    "answers": "that he felt sorry for the Paraguayan defense and called for them to take action on the matter because it is a topic that can not go unpunished|ccomp"
+                },
+                {
+                    "question": "What is the history of the Paraguayan defense?",
+                    "score": 0.571,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that He added that he felt sorry for the Paraguayan defense and called for them to take action on the matter because it is a topic that can not go unpunished|ROOT\ton 01/01/2023|prep\tthat|mark\tHe|nsubj\tthat|mark\the|nsubj\tsorry for the Paraguayan defense|acomp\tfor the Paraguayan defense|prep\tthe|det\tthe Paraguayan defense|pobj\tand|cc\tfor|mark\tthem|nsubj\tto|aux\tfor them to take action on the matter because it is a topic that can not go unpunished|advcl\taction on the matter|dobj\ton the matter|prep\tthe|det\tthe matter|pobj\tbecause|mark\tit|nsubj\tbecause it is a topic that can not go unpunished|advcl\ta|det\ta topic that can not go unpunished|attr\tthat|nsubj\tcan|aux\tnot|neg\tthat can not go unpunished|relcl\tunpunished|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "'It is something that I find inappropriate, racist even, because it is something that not only in this party has he done, according to Darwin that even being a player of Santos he had already received this type of qualifier and gestures as ape regarding his person ', added the captain of America.",
+            "question_answers": [
+                {
+                    "question": "What did Darwin say he gestured as ape about as a player of Santos?",
+                    "answer": "his person"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Darwin do as a player of Santos?",
+                    "score": 0.735,
+                    "answers": "because it is something that not only in this party has he done , according to Darwin that even being a player of Santos he had already received this type of qualifier and gestures as ape regarding his person|advcl"
+                },
+                {
+                    "question": "Who is the captain of Santos?",
+                    "score": 0.6161,
+                    "answers": "a player of Santos|attr\tof Santos|prep"
+                },
+                {
+                    "question": "What is the relationship between being a player of Santos and being a racist?",
+                    "score": 0.6139,
+                    "answers": "that ' It is something that I find inappropriate , racist even , because it is something that not only in this party has he done , according to Darwin that even being a player of Santos he had already received this type of qualifier and gestures as ape regarding his person|ccomp\tsomething that I find inappropriate , racist even , because it is something that not only in this party has he done , according to Darwin that even being a player of Santos he had already received this type of qualifier and gestures as ape regarding his person|attr\tthat I find inappropriate , racist even , because it is something that not only in this party has he done , according to Darwin that even being a player of Santos he had already received this type of qualifier and gestures as ape regarding his person|relcl\tinappropriate , racist even|ccomp\ta|det"
+                },
+                {
+                    "question": "What is aristeguinoticias.com?",
+                    "score": 0.512,
+                    "answers": "aristeguinoticias.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Conapred indicated that he will not disclose any of the case until the investigation is completed:.",
+            "question_answers": [
+                {
+                    "question": "What website reported that Conapred would not disclose any of the case until an investigation was completed?",
+                    "answer": "aristeguinoticias.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Conapred say about the investigation?",
+                    "score": 0.6721,
+                    "answers": "aristeguinoticias.com reported on 01/01/2023 that Conapred indicated that he will not disclose any of the case until the investigation is completed :|ROOT\ton 01/01/2023|prep\tthat|mark\tthat Conapred indicated that he will not disclose any of the case until the investigation is completed|ccomp\tthat|mark\the|nsubj\twill|aux\tnot|neg\tthat he will not disclose any of the case until the investigation is completed|ccomp\tany of the case|dobj\tof the case|prep\tthe|det\tuntil|mark\tthe|det\tthe investigation|nsubjpass\tis|auxpass\tuntil the investigation is completed|advcl\t:|punct"
+                }
+            ]
+        }
+    ]
+}

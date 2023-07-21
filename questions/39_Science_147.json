@@ -1,0 +1,107 @@
+{
+    "id": "39_Science_147",
+    "claim": "It's over what was given. The major telecommunications operators of this country have agreed and, following the requests of the SGAE, together with those of the giants of the world of music such as SONY or UNIVERSAL have decided that the time has come to hear their claims and put an end to the discharges of torrents. This will filter all the internet traffic of all users, identify torrent data packets and lock them immediately, also sending a message to the user that the files that try to download are protected by copyright and that in case of reoffending the service could be temporarily or indefinitely cut. The Association of Spanish Internet users promises to wage war in the next few days with hashtags and memes of all kinds, to try to stop this 'flagrant and obvious vulnerability of the constitutional right to download the disk you want and buy it only if the economy allows it'",
+    "source": "haynoticia.es",
+    "date": "22/04/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The major telecommunications operators of this country have agreed and, following the requests of the SGAE, together with those of the giants of the world of music such as SONY or UNIVERSAL have decided that the time has come to hear their claims and put an end to the discharges of torrents.",
+            "question_answers": [
+                {
+                    "question": "What are some of the giants of the world of music?",
+                    "answer": "SONY or UNIVERSAL"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the SGAE request the major telecommunications operators of this country?",
+                    "score": 0.6895,
+                    "answers": "the|det\tthe|det\tthe|det\tthe|det\tor|cc\tthe|det\ttheir|poss\tthe|det"
+                },
+                {
+                    "question": "What did SGAE say about the discharges of torrents?",
+                    "score": 0.6103,
+                    "answers": "that the time to hear their claims and put an end to the discharges of torrents has come|ccomp\tput an end to the discharges of torrents|conj"
+                },
+                {
+                    "question": "What is SGAE's position on discharges of torrents?",
+                    "score": 0.5222,
+                    "answers": "that The major telecommunications operators of this country have agreed and , following the requests of the SGAE , together with those of the giants of the world of music such as SONY or UNIVERSAL have decided that the time to hear their claims and put an end to the discharges of torrents has come|ccomp\tfollowing the requests of the SGAE , together with those of the giants of the world of music such as SONY or UNIVERSAL have decided that the time to hear their claims and put an end to the discharges of torrents has come|conj"
+                },
+                {
+                    "question": "What is SONY and UNIVERSAL?",
+                    "score": 0.513,
+                    "answers": "those of the giants of the world of music such as SONY or UNIVERSAL|pobj\tof the giants of the world of music such as SONY or UNIVERSAL|prep\tthe giants of the world of music such as SONY or UNIVERSAL|pobj\tsuch as SONY or UNIVERSAL|prep"
+                },
+                {
+                    "question": "What is the SGAE?",
+                    "score": 0.4854,
+                    "answers": "SONY or UNIVERSAL|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This will filter all the internet traffic of all users, identify torrent data packets and lock them immediately, also sending a message to the user that the files that try to download are protected by copyright and that in case of reoffending the service could be temporarily or indefinitely cut.",
+            "question_answers": [
+                {
+                    "question": "What does haynoticia.es claim the files are protected by?",
+                    "answer": "copyright"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How are torrent data packets protected by copyright?",
+                    "score": 0.7571,
+                    "answers": "torrent data packets|dobj"
+                },
+                {
+                    "question": "What are the copyright laws for reoffending the internet?",
+                    "score": 0.6391,
+                    "answers": "that in case of reoffending the service could be temporarily or indefinitely cut|conj"
+                },
+                {
+                    "question": "How long can it take to reoffend the internet?",
+                    "score": 0.6374,
+                    "answers": "temporarily or indefinitely|advmod"
+                },
+                {
+                    "question": "What are the benefits of reoffending the internet?",
+                    "score": 0.629,
+                    "answers": "that This will filter all the internet traffic of all users , identify torrent data packets and lock them immediately , also sending a message to the user that the files that try to download are protected by copyright and that in case of reoffending the service could be temporarily or indefinitely cut|ccomp\tof reoffending|prep\treoffending|pcomp"
+                },
+                {
+                    "question": "What would happen if the internet was shut down?",
+                    "score": 0.603,
+                    "answers": "case of reoffending|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The Association of Spanish Internet users promises to wage war in the next few days with hashtags and memes of all kinds, to try to stop this 'flagrant and obvious vulnerability of the constitutional right to download the disk you want and buy it only if the economy allows it'.",
+            "question_answers": [
+                {
+                    "question": "Who promised to wage war in the next few days with hashtags and memes of all kinds?",
+                    "answer": "The Association of Spanish Internet users"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Association of Spanish Internet users promise to do to stop the hijacking of the internet?",
+                    "score": 0.6777,
+                    "answers": "of Spanish Internet users|prep"
+                },
+                {
+                    "question": "What does it mean to download a disk you want and buy it?",
+                    "score": 0.5893,
+                    "answers": "if|mark"
+                },
+                {
+                    "question": "What is the constitutional right to download and buy a disk if the economy allows it?",
+                    "score": 0.5516,
+                    "answers": "to try to stop this ' flagrant and obvious vulnerability of the constitutional right to download the disk you want and buy it only if the economy allows it|advcl"
+                }
+            ]
+        }
+    ]
+}

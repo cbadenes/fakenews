@@ -1,0 +1,882 @@
+{
+    "id": "113_Society_62",
+    "claim": "Also included were the pirekua and Los ParachicosThe UN agency will be looking after its preservationChile, beans and corn, elements that should not be missingMexican food was declared yesterday immaterial cultural heritage of humanity by the United Nations Educational, Scientific and Cultural Organization (UNESCO). The same happened with the Pirekua, traditional purepecha chant, and Los Parachicos, the traditional January festival in Chiapa de Corzo, Chiapas, the other two candidacies that the Mexican State presented this year for inscription on the representative list of intangible cultural heritage. In this way, with this trio of nominations approved this Tuesday during the meeting of the Intergovernmental Committee for the Safeguarding of the Intangible Cultural Heritage, which from last Monday until the November  takes place in Nairobi, Kenya, totals six the inscriptions obtained by our country in this field. The information was confirmed via telephone to La Jornada –from the Kenyan capital – by Lucía Iglesias, an official of the press office of UNESCO, who reported that the positive failure towards these three initiatives was received with joy by the national delegation that traveled ex professor to that African city. The inclusion of Mexican food as an intangible cultural heritage of humanity comes after a failed first attempt, which occurred last year. The Michoacana cuisine, model for the candidacyIn this , the arguments for the candidacy were presented under the title Traditional Mexican cuisine, community culture, ancestral and living. The Michoacán paradigm, which has been a source of confusion, left open the possibility that the initiative would only refer to Michoacán gastronomy, and not to that of the rest of the country. Even, Grupo Maseca (Gruma), in his capacity as permanent sponsor of this project and of the Conservatory of Mexican Gastronomic Culture, clarified this Tuesday that the candidacy is not of Michoacana food, but of Mexican cuisine. This was endorsed by Alfonso de Maria y Campos, Director General of the National Institute of Anthropology and History (INAH), which documented the three Mexican candidates. It is very important to make clear that the declaration covers traditional food from all over Mexico. It should not be confused with the example that was set as a paradigm, which is the food of Michoacán, the official said in an interview with this newspaper. 'In order for the cuisine of a country, of a culture, of a civilization, as is the case of the Mediterranean or the Mexican one, to be registered by UNESCO, it has to start from a regional cuisine; it cannot, in any case in the world, depart if it does not have a local base. If we had tried to postulate the richness of Mexican cuisine, with its multiplicity of expressions and variants, it would have been very long and complicated. We decided to present as a model the michoacana, because the file was initially prepared in that entity, by a group that had already had a previous failed experience. Another decisive element to opt for this kitchen as a paradigm, according to the INAH holder, was that it uses ingredients that are present in the rest of Mexican cuisines, particularly maize, chili and beans. According to the official, the file was integrated with the participation of representatives of the different types of meals that exist in Mexico, as well as with the work of anthropologists of the body in charge. The file is armed with anthropological and cultural categories, De Maria y Campos emphasized before the question of whether there are economic interests behind this declaration. It is not the interest to seek economic benefits. However, indirectly there will surely be that effect, when people go to seek and try to know what was declared (as the heritage of mankind). –What does Mexico commit to with this inscription?How will UNESCO monitor the safeguarding of this new heritage?–What is rewarded in the case of cooking is the authenticity and ability to evolve, to change, with its own base. In the case of immaterials, the same is not true of tangible cultural heritage, which should not be altered.'What's important is that the kitchen stays alive. UNESCO will be aware that it preserves not only the case of Michoacán, but the other regions of Mexico, that its elements (chile, maize and beans) are maintained. These elements are in all Mexican houses; in the peasant, Creole, mestizo cultures; they are very present products, and to remove them it is very difficult. On the inclusion of Los Parachicos, the religious festival that takes place from the NUMBER* to the NUMBER* of January in Chiapa de Corzo, the UN organization said that it will be able to contribute to the notoriety of intangible cultural heritage, while showing how a cultural tradition reinforces social cohesion and solidarity among the communities that maintain it.Music, dance, crafts, religious ceremonies and amusements are part of this festival in honor of the Lord of Esquipulas and two saints of Catholicism: San Antonio Abad and San Sebastián, being especially honored the latter. And from the Pyrekua, the traditional chant of purepechas included in the list, the body detailed that its inscription was approved by considering that it is deeply rooted in social life; it is transmitted from generation to generation and strengthens the sense of identity and continuity of the community. Their recognition may also contribute to the visibility of intangible cultural heritage, while promoting mutual understanding and respect for human creativity. The proposed safeguard measures focus essentially on representation and transmission, and benefit from the active support of the State and the Purepecha community, which participated in the preparation of the candidature and the proposed protection measures. Its leaders have given their free, prior and informed consent. I'm sorry.",
+    "source": "www.jornada.com.mx",
+    "date": "17/11/2010",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "UNESCO were the pirekua and the michoacana ParachicosThe UN agency Michoacán looking after its preservationChilethe initiative beans its elements (chile, maize and beans) be missingMexican its elements (chile, maize and beans) the country immaterial the michoacana heritage of humanity by ParachicosThe UN agency its elements (chile, maize and beans) the INAH holder the initiative the michoacana ParachicosThe UN agency its elements (chile, maize and beans) ParachicosThe UN agency .",
+            "question_answers": [
+                {
+                    "question": "What two groups did UNESCO work with in regards to the preservation of Parachicos?",
+                    "answer": "pirekua and the michoacana"
+                },
+                {
+                    "question": "Who is the holder of the michoacana Parachicos?",
+                    "answer": "INAH"
+                },
+                {
+                    "question": "What is the name of the UN agency that is looking after the preservation of Chile's heritage?",
+                    "answer": "Michoacán"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the michoacana heritage of humanity?",
+                    "score": 0.6957,
+                    "answers": "the country immaterial|appos\tthe michoacana heritage of humanity by|appos\tof humanity|prep\thumanity|pobj"
+                },
+                {
+                    "question": "What are the elements of the michoacana Parachicos initiative?",
+                    "score": 0.6922,
+                    "answers": "initiative beans its elements ( chile , maize and beans )|appos"
+                },
+                {
+                    "question": "What are the pirekua and michoacana Parachicos?",
+                    "score": 0.6734,
+                    "answers": "that UNESCO were the pirekua and the michoacana|ccomp"
+                },
+                {
+                    "question": "What is michoacana parachicos?",
+                    "score": 0.6634,
+                    "answers": "michoacana|compound"
+                },
+                {
+                    "question": "What is the purpose of the michoacana Parachicos?",
+                    "score": 0.6592,
+                    "answers": "its preservationChilethe|appos\tinitiative|dep"
+                }
+            ]
+        },
+        {
+            "claim": "The same happened clarified Los Parachicos, the religious festival that takes place from the NUMBER* to the NUMBER* of January in Chiapa de Corzo UNESCO Alfonso de Maria y Campos, Director General of the National Institute of Anthropology and History (INAH), which documented the three Mexican candidates a cultural tradition .",
+            "question_answers": [
+                {
+                    "question": "Where is Los Parachicos held?",
+                    "answer": "Chiapa de Corzo UNESCO"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the religious festival that takes place from the NUMBER to theNUMBER of January in Chiapa de Corzo?",
+                    "score": 0.6797,
+                    "answers": "that|mark\tthat|nsubj\tde|nmod\tde|compound\tMaria|compound\ty|compound"
+                },
+                {
+                    "question": "What does INAH stand for?",
+                    "score": 0.6762,
+                    "answers": "of Anthropology and History|prep"
+                },
+                {
+                    "question": "What is the history of the three Mexican candidates?",
+                    "score": 0.6761,
+                    "answers": "which documented the three Mexican candidates|relcl\tthe three Mexican candidates|dobj"
+                },
+                {
+                    "question": "What is the significance of the festival of Los Parachicos?",
+                    "score": 0.6532,
+                    "answers": "place|dobj\ta|det"
+                },
+                {
+                    "question": "What is the meaning of the festival Los Parachicos?",
+                    "score": 0.6455,
+                    "answers": "a cultural tradition|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In this way, with this trio the declaration approved the INAH holder during the a cultural tradition the country the declaration Committee for the Safeguarding of the Intangible Los Parachicos, the religious festival that takes place from the NUMBER* to the NUMBER* of January in Chiapa de Corzo Heritage, which Michoacán Alfonso de Maria y Campos, Director General of the National Institute of Anthropology and History (INAH), which documented the three Mexican candidates the November  takes place in Nairobi, Kenya , San Sebastián the cuisine of a country, of a culture, of a civilization San Sebastián the cuisine of a country, of a culture, of a civilization the Pyrekua, the traditional chant of purepechas included in the list .",
+            "question_answers": [
+                {
+                    "question": "Where does the November festival take place?",
+                    "answer": "Nairobi, Kenya"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the religious festival that takes place from the NUMBER* to theNUMBER* of January in Chiapa de Corzo Heritage?",
+                    "score": 0.6259,
+                    "answers": "the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo Heritage , which Michoacán Alfonso de Maria y Campos , Director General of the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates the November|appos"
+                },
+                {
+                    "question": "Who is the director of the National Institute of Anthropology and History?",
+                    "score": 0.6219,
+                    "answers": "Director|compound"
+                },
+                {
+                    "question": "What did the declaration Committee for the Safeguarding of the Intangible Los Parachicos do?",
+                    "score": 0.6204,
+                    "answers": "In this way|prep\tduring the a cultural tradition the country the declaration Committee for the Safeguarding of the Intangible Los Parachicos , the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo Heritage , which Michoacán Alfonso de Maria y Campos , Director General of the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates the November|prep\ta cultural tradition the country the declaration Committee for the Safeguarding of the Intangible Los Parachicos , the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo Heritage , which Michoacán Alfonso de Maria y Campos , Director General of the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates the November|pobj\tthe country|nmod\tplace|dobj\tto the NUMBER|prep\tthe NUMBER|pobj\t |dep\tplace|dobj\tof a civilization|prep\tof a civilization|prep\tthe list|pobj"
+                },
+                {
+                    "question": "What is the cuisine of San Sebastián?",
+                    "score": 0.6184,
+                    "answers": "takes place in Nairobi , Kenya , San Sebastián the cuisine of a country , of a culture , of a civilization San Sebastián the cuisine of a country , of a culture , of a civilization the Pyrekua , the traditional chant of purepechas included in the list|advcl\tin Nairobi , Kenya , San Sebastián the cuisine of a country , of a culture , of a civilization San Sebastián the cuisine of a country , of a culture , of a civilization the Pyrekua , the traditional chant of purepechas included in the list|prep\tNairobi , Kenya , San Sebastián the cuisine of a country , of a culture , of a civilization San Sebastián the cuisine of a country , of a culture , of a civilization the Pyrekua , the traditional chant of purepechas included in the list|pobj\tthe cuisine of a country , of a culture , of a civilization|appos\tof a country , of a culture , of a civilization|prep\ta country|pobj\ta culture|pobj\tthe cuisine of a country , of a culture , of a civilization|appos\tof a country , of a culture , of a civilization|prep\ta country|pobj\ta culture|pobj"
+                },
+                {
+                    "question": "What is the traditional chant of purepechas?",
+                    "score": 0.6133,
+                    "answers": "the Pyrekua , the traditional chant of purepechas|appos"
+                }
+            ]
+        },
+        {
+            "claim": "the Pyrekua, the traditional chant of purepechas included in the list UNESCO declared by the Pyrekua, the traditional chant of purepechas included in the list Iglesias, an official of the press the cuisine of a country, of a culture, of a civilization the Pyrekua, the traditional chant of purepechas included in the list ParachicosThe UN agency , who reported that the positive cooking towards these three initiatives was received with joy by the national Mexican cuisine that traveled ex professor to Nairobi, Kenya .",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Pyrekua, the traditional chant of purepechas included in the list Iglesias?",
+                    "answer": "ParachicosThe UN agency"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the national Mexican cuisine say about Pyrekua?",
+                    "score": 0.724,
+                    "answers": "who reported that the positive cooking towards these three initiatives was received with joy by the national Mexican cuisine that traveled ex professor to Nairobi , Kenya|relcl"
+                },
+                {
+                    "question": "What is the traditional chant of purepechas included in the list Iglesias?",
+                    "score": 0.7099,
+                    "answers": "ex professor|advmod"
+                },
+                {
+                    "question": "What is the meaning of Pyrekua?",
+                    "score": 0.649,
+                    "answers": "in the list UNESCO declared by the Pyrekua|prep\tof the press|prep\tof a culture|prep\tpositive|amod\tjoy|pobj"
+                },
+                {
+                    "question": "What is Parachicos?",
+                    "score": 0.6468,
+                    "answers": "in the list ParachicosThe UN agency|prep\tthe list ParachicosThe UN agency|pobj\tParachicosThe UN agency|appos"
+                },
+                {
+                    "question": "What is the Pyrekua?",
+                    "score": 0.6433,
+                    "answers": "Iglesias , an official of the press the cuisine of a country , of a culture , of a civilization the Pyrekua , the traditional chant of purepechas included in the list ParachicosThe UN agency , who reported that the positive cooking towards these three initiatives was received with joy by the national Mexican cuisine that traveled ex professor to Nairobi , Kenya|punct\tan official of the press the cuisine of a country , of a culture , of a civilization the Pyrekua , the traditional chant of purepechas included in the list ParachicosThe UN agency , who reported that the positive cooking towards these three initiatives was received with joy by the national Mexican cuisine that traveled ex professor to Nairobi , Kenya|appos\tthe cuisine of a country , of a culture , of a civilization the Pyrekua , the traditional chant of purepechas included in the list ParachicosThe UN agency , who reported that the positive cooking towards these three initiatives was received with joy by the national Mexican cuisine that traveled ex professor to Nairobi , Kenya|appos\tof a country , of a culture , of a civilization the Pyrekua , the traditional chant of purepechas|prep\tof a civilization the Pyrekua|prep\ta civilization the Pyrekua|pobj\tincluded in the list ParachicosThe UN agency|acl\tUN agency|appos\tthe positive cooking towards these three initiatives|nsubjpass\ttowards these three initiatives|prep\tthese three initiatives|pobj\tby the national Mexican cuisine that traveled ex professor to Nairobi , Kenya|agent\tthat traveled ex professor to Nairobi , Kenya|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The inclusion of Mexican food as an intangible cultural heritage of humanity comes after a failed first attempt, which occurred last year.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that the inclusion of Mexican food as an intangible cultural heritage of humanity occurred?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the result of the first attempt to include Mexican food as an intangible cultural heritage of humanity?",
+                    "score": 0.8393,
+                    "answers": "after a failed first attempt , which occurred last year|prep"
+                },
+                {
+                    "question": "What is the history of Mexican food?",
+                    "score": 0.8141,
+                    "answers": "Mexican food|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The proposed safeguard measures for the candidacyIn this , the arguments for the candidacyIn were presented under the title Traditional Mexican cuisine, community culture, ancestral and living.",
+            "question_answers": [
+                {
+                    "question": "What was reported on 17/11/2010?",
+                    "answer": "The proposed safeguard measures for the candidacyIn this"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures were proposed for the candidacy in 2010?",
+                    "score": 0.732,
+                    "answers": "www.jornada.com.mx|nsubj\tthat|mark\tThe|det\tproposed|amod\tsafeguard|compound\tthat The proposed safeguard measures for the|dobj\tfor the|prep\tthe|pobj\tcandidacyIn|prep\tthis|npadvmod\t,|punct\tthe|det\tfor the candidacyIn|prep\tthe|det\tthe candidacyIn|pobj\twere|auxpass\tunder the title Traditional Mexican cuisine , community culture , ancestral and living|prep\tthe|det\tTraditional|amod\tMexican|amod\tTraditional Mexican cuisine , community culture , ancestral and living|appos\t,|punct\tcommunity|compound\t,|punct\tancestral and living|conj\tand|cc\tliving|conj"
+                },
+                {
+                    "question": "What are the safeguards for the candidacy of Barack Obama?",
+                    "score": 0.7117,
+                    "answers": "on 17/11/2010|prep\tthe arguments for the candidacyIn|nsubjpass\tcommunity culture , ancestral and living|appos"
+                },
+                {
+                    "question": "What are the proposed safeguard measures for candidacy?",
+                    "score": 0.7045,
+                    "answers": "the title Traditional Mexican cuisine , community culture , ancestral and living|pobj"
+                },
+                {
+                    "question": "What is the safeguard measures for the candidacy?",
+                    "score": 0.6628,
+                    "answers": "www.jornada.com.mx reported on 17/11/2010 that The proposed safeguard measures for the candidacyIn this|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The Michoacán paradigm, which has The proposed safeguard measures open the possibility that the initiative would only refer to Michoacán gastronomy, and not to that of the rest of the country.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the paradigm that has The proposed safeguard measures open the possibility that the initiative would only refer to Michoacán gastronomy?",
+                    "answer": "Michoacán"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the Michoacán paradigm say about gastronomy?",
+                    "score": 0.85,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "What measures are proposed for Michoacán gastronomy?",
+                    "score": 0.8368,
+                    "answers": "safeguard|compound\tThe proposed safeguard measures|nsubj"
+                },
+                {
+                    "question": "What measures are taken to ensure that Michoacán gastronomy will only refer to the rest of the country?",
+                    "score": 0.8146,
+                    "answers": "which has The proposed safeguard measures open the possibility that the initiative would only refer to Michoacán gastronomy , and not to that of the rest of the country|relcl"
+                },
+                {
+                    "question": "What is Michoacán gastronomy?",
+                    "score": 0.7919,
+                    "answers": "of the country|prep\tthe country|pobj"
+                },
+                {
+                    "question": "What is the Michoacán gastronomy initiative?",
+                    "score": 0.7819,
+                    "answers": "the initiative|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Even, Grupo Maseca (Gruma), in his capacity as permanent sponsor of this project and of the Conservatory of Mexican Gastronomic Culture, clarified this Tuesday that the candidacy is not of Michoacana food, but of Mexican cuisine.",
+            "question_answers": [
+                {
+                    "question": "What type of food did Grupo Maseca say he was not a candidate for?",
+                    "answer": "Michoacana"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Grupo Maseca do as a sponsor of the project?",
+                    "score": 0.8114,
+                    "answers": "his capacity as permanent sponsor of this project and of the Conservatory of Mexican Gastronomic Culture|pobj"
+                },
+                {
+                    "question": "What was Grupo Maseca's role in the project?",
+                    "score": 0.7182,
+                    "answers": "of this project and of the Conservatory of Mexican Gastronomic Culture|prep"
+                },
+                {
+                    "question": "What is Michoacana food?",
+                    "score": 0.7142,
+                    "answers": "of Michoacana food , but of Mexican cuisine|prep\tMichoacana food|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Grupo Maseca's candidacy?",
+                    "score": 0.705,
+                    "answers": "www.jornada.com.mx|nsubj\tthe candidacy|nsubj\tthat the candidacy is not of Michoacana food , but of Mexican cuisine|ccomp"
+                },
+                {
+                    "question": "What is Grupo Maseca's political affiliation?",
+                    "score": 0.6986,
+                    "answers": "Grupo Maseca ( Gruma )|nsubj\this|poss\tthat Even , Grupo Maseca ( Gruma ) , in his capacity as permanent sponsor of this project and of the Conservatory of Mexican Gastronomic Culture , clarified this Tuesday that the candidacy is not of Michoacana food , but of Mexican cuisine|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "This was endorsed by Alfonso de Maria y Campos, Director General of the National Institute of Anthropology and History (INAH), which documented the three Mexican candidates.",
+            "question_answers": [
+                {
+                    "question": "How many Mexican candidates did the INAH document?",
+                    "answer": "three"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who endorsed Alfonso de Maria y Campos?",
+                    "score": 0.8805,
+                    "answers": "Alfonso|compound\tAlfonso de Maria|compound"
+                },
+                {
+                    "question": "Who endorsed the three Mexican candidates?",
+                    "score": 0.8716,
+                    "answers": "www.jornada.com.mx reported on 17/11/2010 that This was endorsed by Alfonso de Maria y Campos , Director General of the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates|ROOT\ton 17/11/2010|prep\tthat This was endorsed by Alfonso de Maria y Campos , Director General of the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates|ccomp\tby Alfonso de Maria y Campos , Director General of the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates|agent\tAlfonso de Maria y Campos , Director General of the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates|pobj"
+                },
+                {
+                    "question": "What does INAH stand for?",
+                    "score": 0.8008,
+                    "answers": "of Anthropology and History|prep\tAnthropology and History|pobj"
+                },
+                {
+                    "question": "What is INAH?",
+                    "score": 0.68,
+                    "answers": "Director General of the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates|appos\tof the National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates|prep\tthe National Institute of Anthropology and History ( INAH ) , which documented the three Mexican candidates|pobj\tHistory|conj"
+                }
+            ]
+        },
+        {
+            "claim": "It is very important to make clear that the declaration covers traditional food from all over Mexico.",
+            "question_answers": [
+                {
+                    "question": "What does the declaration cover?",
+                    "answer": "traditional food"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is traditional food from Mexico?",
+                    "score": 0.8111,
+                    "answers": "traditional|amod"
+                }
+            ]
+        },
+        {
+            "claim": "It should not be confused with the example that was set as a paradigm, which is the food of Michoacán, the official said in an interview with this newspaper.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that it should not be confused with the example that was set as a paradigm?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the food of Michoacán?",
+                    "score": 0.7419,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 17/11/2010 that It should not be confused with the example that was set as a paradigm , which is the food of Michoacán|ccomp\ton 17/11/2010|prep\tthat|mark\tIt|nsubjpass\tshould|aux\tnot|neg\tbe|auxpass\tthat It should not be confused with the example that was set as a paradigm , which is the food of Michoacán|ccomp\twith the example that was set as a paradigm , which is the food of Michoacán|prep\tthe|det\tthe example that was set as a paradigm , which is the food of Michoacán|pobj\tthat|nsubjpass\twas|auxpass\tthat was set as a paradigm|relcl\tas a paradigm|prep\ta|det\ta paradigm|pobj\t,|punct\twhich|nsubj\twhich is the food of Michoacán|relcl\tthe|det\tthe food of Michoacán|attr\tof Michoacán|prep\t,|punct\tthe|det\tthe official|nsubj\twww.jornada.com.mx reported on 17/11/2010 that It should not be confused with the example that was set as a paradigm , which is the food of Michoacán , the official said in an interview with this newspaper|ROOT\tin an interview with this newspaper|prep\tan|det\tan interview with this newspaper|pobj\twith this newspaper|prep\tthis|det\tthis newspaper|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'In order for the cuisine of a country, of a culture, of a civilization, as is the case of the Mediterranean or the Mexican one, to be registered by UNESCO, it has to start from a regional cuisine; it cannot, in any case in the world, depart if it does not have a local base.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that UNESCO must register the cuisine of a country?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to start from a regional cuisine?",
+                    "score": 0.8357,
+                    "answers": "to start from a regional cuisine|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the regional Cuisine of Mexico?",
+                    "score": 0.7904,
+                    "answers": ",|punct\t,|punct\t,|punct\tor|cc\tthe Mexican one|conj\t,|punct\t,|punct\t;|punct\t,|punct\t,|punct"
+                },
+                {
+                    "question": "What does it take to be registered by UNESCO?",
+                    "score": 0.7902,
+                    "answers": "In order for the cuisine of a country , of a culture , of a civilization , as is the case of the Mediterranean or the Mexican one , to be registered by UNESCO|prep\torder for the cuisine of a country , of a culture , of a civilization , as is the case of the Mediterranean or the Mexican one , to be registered by UNESCO|pobj\tfor the cuisine of a country , of a culture , of a civilization , as is the case of the Mediterranean or the Mexican one , to be registered by UNESCO|advcl"
+                },
+                {
+                    "question": "What is the definition of a country's cuisine?",
+                    "score": 0.7853,
+                    "answers": "a country|pobj"
+                },
+                {
+                    "question": "What is a regional cuisine?",
+                    "score": 0.7831,
+                    "answers": "from a regional cuisine|prep\tregional|amod\ta regional cuisine|pobj\tlocal|amod"
+                }
+            ]
+        },
+        {
+            "claim": "If we had tried to postulate the richness of Mexican cuisine, with its multiplicity of expressions and variants, it would have been very long and complicated.",
+            "question_answers": [
+                {
+                    "question": "What would have happened if we had tried to postulate the richness of Mexican cuisine?",
+                    "answer": "long and complicated"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long would it have been to postulate the richness of Mexican Cuisine?",
+                    "score": 0.8468,
+                    "answers": "very long and complicated|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "We decided to present as a model the michoacana, because the file was initially prepared in that entity, by a group that had already had a previous failed experience.",
+            "question_answers": [
+                {
+                    "question": "Who prepared the michoacana file?",
+                    "answer": "a group that had already had a previous failed experience"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the michoacana project?",
+                    "score": 0.71,
+                    "answers": "failed|amod"
+                },
+                {
+                    "question": "What is the michoacana?",
+                    "score": 0.664,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 17/11/2010 that We decided to present as a model the michoacana , because the file was initially prepared in that entity , by a group that had already had a previous failed experience|ROOT\ton 17/11/2010|prep\tthat|mark\tWe|nsubj\tthat We decided to present as a model the michoacana , because the file was initially prepared in that entity , by a group that had already had a previous failed experience|ccomp\tto|aux\tto present as a model the michoacana ,|xcomp\tas a model|prep\ta|det\ta model|pobj\tthe|det\tthe michoacana|dobj\t,|punct\tbecause|mark\tthe|det\tthe file|nsubjpass\twas|auxpass\tinitially|advmod\tbecause the file was initially prepared in that entity , by a group that had already had a previous failed experience|advcl\tin that entity|prep\tthat|det\tthat entity|pobj\t,|punct\tby a group that had already had a previous failed experience|agent\ta|det\ta group that had already had a previous failed experience|pobj\tthat|nsubj\thad|aux\talready|advmod\tthat had already had a previous failed experience|relcl\ta|det\tprevious|amod\ta previous failed experience|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Another decisive element to opt for this kitchen as a paradigm, according to the INAH holder, was that it uses ingredients that are present in the rest of Mexican cuisines, particularly maize, chili and beans.",
+            "question_answers": [
+                {
+                    "question": "What was another decisive element to opt for this kitchen as a paradigm?",
+                    "answer": "it uses ingredients that are present in the rest of Mexican cuisines,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What ingredients does INAH use that are present in other Mexican cuisines?",
+                    "score": 0.8679,
+                    "answers": "www.jornada.com.mx reported on 17/11/2010 that Another decisive element to opt for this kitchen as a paradigm , according to the INAH holder , was that it uses ingredients that are present in the rest of Mexican cuisines , particularly maize , chili and beans|ROOT"
+                },
+                {
+                    "question": "What ingredients are present in the rest of Mexican cuisines?",
+                    "score": 0.8502,
+                    "answers": "to opt for this kitchen as a paradigm|relcl\tin the rest of Mexican cuisines|prep\tthe rest of Mexican cuisines|pobj"
+                },
+                {
+                    "question": "What ingredients are used in the INAH cooking?",
+                    "score": 0.8295,
+                    "answers": "ingredients that are present in the rest of Mexican cuisines , particularly maize , chili and beans|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "According to the official, the file was integrated with the participation of representatives of the different types of meals that exist in Mexico, as well as with the work of anthropologists of the body in charge.",
+            "question_answers": [
+                {
+                    "question": "Who worked with the body in charge of the file?",
+                    "answer": "anthropologists"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many types of meals are there in Mexico?",
+                    "score": 0.7812,
+                    "answers": "with the participation of representatives of the different types of meals that exist in Mexico , as well as with the work of anthropologists of the body in charge|prep\trepresentatives of the different types of meals that exist in Mexico|pobj\tof the different types of meals that exist in Mexico|prep\tthe different types of meals that exist in Mexico|pobj"
+                },
+                {
+                    "question": "How many representatives of the different types of meals that exist in Mexico are there?",
+                    "score": 0.7533,
+                    "answers": "on 17/11/2010|prep\tin charge|prep"
+                },
+                {
+                    "question": "What did the official say about the meeting with representatives of different types of meals?",
+                    "score": 0.7232,
+                    "answers": "to the official|prep"
+                },
+                {
+                    "question": "How many anthropologists work in Mexico?",
+                    "score": 0.6769,
+                    "answers": "with the work of anthropologists of the body in charge|conj"
+                },
+                {
+                    "question": "How many anthropologists are in charge of the body in Mexico?",
+                    "score": 0.6482,
+                    "answers": "of anthropologists of the body in charge|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The file is armed with anthropological and cultural categories, De Maria y Campos emphasized before the question of whether there are economic interests behind this declaration.",
+            "question_answers": [
+                {
+                    "question": "Who emphasized before the question of whether there are economic interests behind the declaration?",
+                    "answer": "De Maria y Campos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are de Maria y Campos' economic interests?",
+                    "score": 0.7649,
+                    "answers": "that|mark\tThe|det\tis|auxpass\tand|cc\t,|punct\tMaria|compound\ty|compound\tthe|det\tthere|expl\tbehind this declaration|prep\tthis|det\tthis declaration|pobj"
+                },
+                {
+                    "question": "What are the economic interests behind de Maria y Campos's declaration?",
+                    "score": 0.7174,
+                    "answers": "on 17/11/2010|prep\tThe file|nsubjpass\twww.jornada.com.mx reported on 17/11/2010 that The file is armed with anthropological and cultural categories , De Maria y Campos emphasized before the question of whether there are economic interests behind this declaration|ROOT"
+                },
+                {
+                    "question": "What are the anthropological and cultural categories in De Maria y Campos' file?",
+                    "score": 0.7042,
+                    "answers": "that The file is armed with anthropological and cultural categories|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "It is not the interest to seek economic benefits.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that it was not the interest to seek economic benefits?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to seek economic benefits?",
+                    "score": 0.8891,
+                    "answers": "www.jornada.com.mx reported on 17/11/2010 that It is not the interest to seek economic benefits|ROOT\tIt|nsubj\tthat It is not the interest to seek economic benefits|ccomp\tthe interest|attr\tto seek economic benefits|xcomp"
+                },
+                {
+                    "question": "What is the purpose of seeking economic benefits?",
+                    "score": 0.8456,
+                    "answers": "that|mark\tnot|neg\tthe|det\tto|aux\teconomic|amod\teconomic benefits|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the economic benefits of the treaty?",
+                    "score": 0.8427,
+                    "answers": "on 17/11/2010|prep"
+                }
+            ]
+        },
+        {
+            "claim": "However, indirectly there will surely be that effect, when people go to seek and try to know what was declared (as the heritage of mankind).",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that there would be an indirect effect when people go to seek and try to know what was declared as the heritage of mankind?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to know what was declared the heritage of mankind?",
+                    "score": 0.7397,
+                    "answers": "to know what was declared ( as the heritage of mankind )|xcomp"
+                },
+                {
+                    "question": "What does the website \"jornada.com.mx\" do?",
+                    "score": 0.6547,
+                    "answers": "www.jornada.com.mx|nsubj"
+                },
+                {
+                    "question": "What is the history of mankind?",
+                    "score": 0.6469,
+                    "answers": "on 17/11/2010|prep\tthat|mark\tHowever|advmod\t,|punct\tthere|expl\tsurely|advmod\tthat|det\t,|punct\twhen|advmod\tto|aux\tand|cc\tto|aux\twhat|nsubjpass\twas|auxpass\t(|punct\tthe|det\tof mankind|prep\tmankind|pobj\t)|punct"
+                }
+            ]
+        },
+        {
+            "claim": "–What does Mexico commit to with this inscription?How will UNESCO monitor the safeguarding of this new heritage?–What is rewarded in the case of cooking is the authenticity and ability to evolve, to change, with its own base.",
+            "question_answers": [
+                {
+                    "question": "Who monitors the safeguarding of this new heritage?",
+                    "answer": "UNESCO"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much will UNESCO monitor the safeguarding of the heritage of Mexico?",
+                    "score": 0.8643,
+                    "answers": "www.jornada.com.mx reported on 17/11/2010 that – does Mexico commit What to with this inscription?How will UNESCO monitor the safeguarding of this new heritage?–What is rewarded in the case of cooking is the authenticity and ability to evolve , to change , with its own base|ROOT"
+                },
+                {
+                    "question": "What did Mexico commit to with the inscription?",
+                    "score": 0.838,
+                    "answers": "does Mexico commit What to with this inscription?How|ccomp"
+                },
+                {
+                    "question": "What will UNESCO monitor about the authenticity and ability to evolve, to change, with its own base?",
+                    "score": 0.7434,
+                    "answers": "that – does Mexico commit What to with this inscription?How will UNESCO monitor the safeguarding of this new heritage?–What is rewarded in the case of cooking is the authenticity and ability to evolve , to change , with its own base|ccomp"
+                },
+                {
+                    "question": "What is the authenticity of cooking?",
+                    "score": 0.7134,
+                    "answers": "What|pobj\tin the case of cooking|prep\tcooking|pobj\tits own base|pobj"
+                },
+                {
+                    "question": "What is cooking?",
+                    "score": 0.6893,
+                    "answers": "the case of cooking|pobj\tof cooking|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In the case of immaterials, the same is not true of tangible cultural heritage, which should not be altered.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that tangible cultural heritage should not be altered?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the definition of immaterials?",
+                    "score": 0.675,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 17/11/2010 that In the case of immaterials , the same is not true of tangible cultural heritage , which should not be altered|ROOT\ton 17/11/2010|prep\tthat|mark\tIn the case of immaterials|prep\tthe|det\tthe case of immaterials|pobj\tof immaterials|prep\timmaterials|pobj\t,|punct\tthe|det\tthe same|nsubj\tthat In the case of immaterials , the same is not true of tangible cultural heritage , which should not be altered|ccomp\tnot|neg\ttrue of tangible cultural heritage , which should not be altered|acomp\tof tangible cultural heritage , which should not be altered|prep\ttangible|amod\tcultural|amod\ttangible cultural heritage , which should not be altered|pobj\t,|punct\twhich|nsubjpass\tshould|aux\tnot|neg\tbe|auxpass\twhich should not be altered|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "'What's important is that the kitchen stays alive.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that 'What's important is that the kitchen stays alive?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long does it take for a kitchen to stay alive?",
+                    "score": 0.8649,
+                    "answers": "'|punct\tthe kitchen|nsubj"
+                },
+                {
+                    "question": "What does it mean to stay alive?",
+                    "score": 0.8124,
+                    "answers": "www.jornada.com.mx reported on 17/11/2010 that ' What 's important is that the kitchen stays alive|ROOT\ton 17/11/2010|prep\tthat|mark\tWhat|nsubj\tWhat 's important|csubj\timportant|acomp\tthat ' What 's important is that the kitchen stays alive|ccomp\tthat|mark\tthe|det\tthat the kitchen stays alive|ccomp\talive|acomp"
+                },
+                {
+                    "question": "What is the source of evidence of the number of people who were alive in Canada in 2010?",
+                    "score": 0.6803,
+                    "answers": "www.jornada.com.mx|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "UNESCO will be aware that it preserves not only the case of Michoacán, but the other regions of Mexico, that its elements (chile, maize and beans) are maintained.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that UNESCO will be aware that it preserves not only the case of Michoacán?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What elements are maintained in Michoacán?",
+                    "score": 0.8536,
+                    "answers": "aware that it preserves not only the case of Michoacán , but the other regions of Mexico , that its elements ( chile , maize and beans ) are maintained|acomp\tits elements ( chile , maize and beans )|nsubjpass\tthat its elements ( chile , maize and beans ) are maintained|ccomp"
+                },
+                {
+                    "question": "What regions of Mexico are maintained?",
+                    "score": 0.849,
+                    "answers": "the other regions of Mexico|conj"
+                },
+                {
+                    "question": "What are the elements of Michoacán that UNESCO preserves?",
+                    "score": 0.8317,
+                    "answers": "www.jornada.com.mx reported on 17/11/2010 that UNESCO will be aware that it preserves not only the case of Michoacán , but the other regions of Mexico , that its elements ( chile , maize and beans ) are maintained|ROOT\tits|poss"
+                }
+            ]
+        },
+        {
+            "claim": "These elements are in all Mexican houses; in the peasant, Creole, mestizo cultures; they are very present products, and to remove them it is very difficult.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that these elements were in all Mexican houses?",
+                    "answer": "17/11/2010"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How difficult is it to remove the elements in Mexican houses?",
+                    "score": 0.8705,
+                    "answers": "to remove them it is very difficult|conj"
+                },
+                {
+                    "question": "What products are present in Mexican houses?",
+                    "score": 0.8367,
+                    "answers": "very present products|attr"
+                },
+                {
+                    "question": "How many Mexican houses are there?",
+                    "score": 0.8278,
+                    "answers": "in all Mexican houses|prep\tall Mexican houses|pobj"
+                },
+                {
+                    "question": "What is the process used to remove the mestizo cultures from Mexican houses?",
+                    "score": 0.7759,
+                    "answers": "very difficult|acomp"
+                },
+                {
+                    "question": "What is the source of evidence of mestizo cultures in Mexican houses?",
+                    "score": 0.7579,
+                    "answers": "that|mark\tThese|det\tall|det\t;|punct\t,|punct\t,|punct\t;|punct\tthey|nsubj\tvery|advmod\tvery present|amod\t,|punct\tand|cc\tto|aux\tit|nsubj\tvery|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "On the inclusion of Los Parachicos, the religious festival that takes place from the NUMBER* to the NUMBER* of January in Chiapa de Corzo, the UN organization said that it will be able to contribute to the notoriety of intangible cultural heritage, while showing how a cultural tradition reinforces social cohesion and solidarity among the communities that maintain it.",
+            "question_answers": [
+                {
+                    "question": "What does a cultural tradition reinforce among the communities that maintain it?",
+                    "answer": "social cohesion and solidarity"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the UN organization say about the inclusion of Los Parachicos?",
+                    "score": 0.7712,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 17/11/2010 that On the inclusion of Los Parachicos , the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo , the UN organization said that it will be able to contribute to the notoriety of intangible cultural heritage , while showing how a cultural tradition reinforces social cohesion and solidarity among the communities that maintain it|ROOT\tthe NUMBER * to the NUMBER * of January|pobj\tin Chiapa de Corzo|prep\tthat On the inclusion of Los Parachicos , the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo , the UN organization said that it will be able to contribute to the notoriety of intangible cultural heritage , while showing how a cultural tradition reinforces social cohesion and solidarity among the communities that maintain it|ccomp"
+                },
+                {
+                    "question": "What does the UN organization do to contribute to the notoriety of intangible cultural heritage?",
+                    "score": 0.7403,
+                    "answers": "able to contribute to the notoriety of intangible cultural heritage ,|acomp"
+                },
+                {
+                    "question": "What is the significance of the religious festival Los Parachicos?",
+                    "score": 0.6729,
+                    "answers": "while showing how a cultural tradition reinforces social cohesion and solidarity among the communities that maintain it|advcl\thow a cultural tradition reinforces social cohesion and solidarity among the communities that maintain it|ccomp\tsolidarity|conj"
+                },
+                {
+                    "question": "What is Los Parachicos?",
+                    "score": 0.6005,
+                    "answers": "On the inclusion of Los Parachicos , the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo|prep\tthe inclusion of Los Parachicos , the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo|pobj\tof Los Parachicos , the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo|prep\tLos|compound\tLos Parachicos , the religious festival that takes place from the NUMBER * to the NUMBER * of January in Chiapa de Corzo|pobj\treligious|amod\tthe UN organization|nsubj\ta cultural tradition|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the NUMB and the NUMBER?",
+                    "score": 0.4911,
+                    "answers": "to the NUMBER|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Music, dance, crafts, religious ceremonies and amusements are part of this festival in honor of the Lord of Esquipulas and two saints of Catholicism: San Antonio Abad and San Sebastián, being especially honored the latter.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the Lord of Esquipulas?",
+                    "answer": "Lord of Esquipulas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of amusements are included in the festival in honor of the Lord of Esquipulas?",
+                    "score": 0.7589,
+                    "answers": "amusements|conj"
+                },
+                {
+                    "question": "Who is the Lord of Esquipulas and San Sebastián?",
+                    "score": 0.647,
+                    "answers": "that Music , dance , crafts , religious ceremonies and amusements are part of this festival in honor of the Lord of Esquipulas and two saints of Catholicism : San Antonio Abad and San Sebastián ,|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "And from the Pyrekua, the traditional chant of purepechas included in the list, the body detailed that its inscription was approved by considering that it is deeply rooted in social life; it is transmitted from generation to generation and strengthens the sense of identity and continuity of the community.",
+            "question_answers": [
+                {
+                    "question": "Why was the chant approved?",
+                    "answer": "it is transmitted from generation to generation and strengthens the sense of identity and continuity of the community"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the traditional chant of purepechas?",
+                    "score": 0.7461,
+                    "answers": "the traditional chant of purepechas included in the list|appos\tof purepechas|prep\tpurepechas|pobj"
+                },
+                {
+                    "question": "What is the meaning of the Pyrekua song?",
+                    "score": 0.6348,
+                    "answers": "www.jornada.com.mx reported on 17/11/2010 that And from the Pyrekua , the traditional chant of purepechas included in the list , the body detailed that its inscription was approved by considering that it is deeply rooted in social life ; it is transmitted from generation to generation and strengthens the sense of identity and continuity of the community|ROOT\ton 17/11/2010|prep\tincluded in the list|acl\tin the list|prep\tthe list|pobj\tthe body|nsubj\tthat And from the Pyrekua , the traditional chant of purepechas included in the list , the body detailed that its inscription was approved by considering that it is deeply rooted in social life ; it is transmitted from generation to generation and strengthens the sense of identity and continuity of the community|ccomp\tby considering that it is deeply rooted in social life|prep\tthat it is deeply rooted in social life|ccomp\tin social life|prep\tsocial life|pobj\tfrom generation to generation|prep\tto generation|prep\tstrengthens the sense of identity and continuity of the community|conj\tof identity|prep\tof the community|prep\tthe community|pobj"
+                },
+                {
+                    "question": "What was the purpose of the Pyrekua inscription?",
+                    "score": 0.6261,
+                    "answers": "that its inscription was approved by considering that it is deeply rooted in social life|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Their recognition may also contribute to the visibility of intangible cultural heritage, while promoting mutual understanding and respect for human creativity.",
+            "question_answers": [
+                {
+                    "question": "What does the recognition of jornada's cultural heritage promote?",
+                    "answer": "mutual understanding"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the contributions of the intangible cultural heritage to human creativity?",
+                    "score": 0.8271,
+                    "answers": "while promoting mutual understanding and respect for human creativity|advcl"
+                },
+                {
+                    "question": "What is the visibility of intangible cultural heritage?",
+                    "score": 0.7997,
+                    "answers": "to the visibility of intangible cultural heritage|prep\tthe visibility of intangible cultural heritage|pobj\tof intangible cultural heritage|prep"
+                },
+                {
+                    "question": "What is the relationship between human creativity and intangible cultural heritage?",
+                    "score": 0.7545,
+                    "answers": "human|amod"
+                },
+                {
+                    "question": "What is Human creativity?",
+                    "score": 0.7392,
+                    "answers": "for human creativity|prep"
+                },
+                {
+                    "question": "What is human creativity?",
+                    "score": 0.7392,
+                    "answers": "human creativity|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The proposed safeguard measures focus essentially on representation and transmission, and benefit from the active support of the State and the Purepecha community, which participated in the preparation of the candidature and the proposed protection measures.",
+            "question_answers": [
+                {
+                    "question": "The proposed safeguard measures benefit from the active support of the State and what community?",
+                    "answer": "Purepecha"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures did the state and Purepecha participate in preparation to?",
+                    "score": 0.7694,
+                    "answers": "which participated in the preparation of the candidature and the proposed protection measures|relcl"
+                },
+                {
+                    "question": "What did the Purepecha community participate in the preparation of?",
+                    "score": 0.7247,
+                    "answers": "the Purepecha community , which participated in the preparation of the candidature and the proposed protection measures|conj"
+                },
+                {
+                    "question": "What are the safeguards measures proposed by the State and Purepecha?",
+                    "score": 0.6563,
+                    "answers": "that|mark\tThe|det\tessentially|advmod\tand|cc\tand|cc\tthe|det\tthe|det\tand|cc\tthe|det\twhich|nsubj\tthe|det\tthe|det\tand|cc\tthe|det"
+                },
+                {
+                    "question": "What are the proposed safeguard measures?",
+                    "score": 0.623,
+                    "answers": "The proposed safeguard measures|nsubj\tthat The proposed safeguard measures focus essentially on representation and transmission , and benefit from the active support of the State and the Purepecha community , which participated in the preparation of the candidature and the proposed protection measures|ccomp"
+                },
+                {
+                    "question": "What is the purpose of the safeguard measures?",
+                    "score": 0.5811,
+                    "answers": "on representation and transmission|prep\trepresentation and transmission|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Its leaders have given their free, prior and informed consent.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 17/11/2010 that Its leaders have given their free, prior and informed consent?",
+                    "answer": "www.jornada.com.mx"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many leaders have given their free, prior and informed consent?",
+                    "score": 0.8313,
+                    "answers": "Its leaders|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the leaders of the CAF and the CAFL?",
+                    "score": 0.7826,
+                    "answers": "that|mark\thave|aux\ttheir|poss\tprior and informed|conj"
+                },
+                {
+                    "question": "What is the website \"jornada.com.mx\"?",
+                    "score": 0.7771,
+                    "answers": "www.jornada.com.mx|nsubj"
+                }
+            ]
+        }
+    ]
+}

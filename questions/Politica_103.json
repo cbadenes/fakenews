@@ -1,0 +1,681 @@
+{
+    "id": "Politica_103",
+    "claim": "Felipe González took on a very important role a year ago in the heyday of the proces, both to oppose the independenceists and to stop Pedro Sánchez internally in the PSOE. But it was of little value and, following the motion of censure, he has kept a distance, in some way complicit, with a government president whom he actually rejects even if he does not say so. Until this Thursday, he has returned to be him to send several deep messages to his successor, to his partners and on the political situation in Spain. Sánchez has made it very clear that if he were once again president of the government, he would not want anything to depend on Podemos. And both the current tenant of Moncloa and his preferred partner, Pablo Iglesias, have issued a devastating warning to the story of the Republican debate that the second launches and the first does not slow down. 'I prefer 800 million times more the head of the State we have, even the previous one (in reference to Franco), than the one they admire ', González has said in a burning defense of the institutional model implanted in Spain since 1978. Reclaim of PodemosWith more development, the former president of the government Felipe González has pointed out this Thursday that 'he is not concerned 'that the force of a government depends on Podemos or its secretary general, Pablo Iglesias, although he has apostillated that, 'if I were president of the government, I would not like'. In addition, it has indicated that 'whether or not to participate in a coalition is determined, not by the individual personality of each one, but by the convergence or divergence of the projects that you submit for your country'. 'This is what conditions it, not the simulation that can be done at one time or another ', González added in an informative breakfast of Europa Press Andalusia organized in Seville with the presence of Susana Díaz. To the question of whether he would include Churches in a government, he replied that he did not believe that the leader of Podemos 'liked me very much ', just as it might happen to him in the opposite direction, but he had declared himself 'willing to speak to everyone ', although 'there are some elements that could be essential that would make it very difficult, unless there was convergence of positions '. If instead of King Philip was the former president or president of the Republic they would be disqualifying him as president of the Republic 'Similarly, regarding the visit of Churches to prison to meet with the former vice president of the Generalitat of Catalonia Oriol Junqueras while negotiating the General State Budgets of 2019, González has pointed out that 'everyone can do what he wants with his time 'and in any case he has heard several representatives of the Socialist Executive of Pedro Sánchez clarify that the leader of Podemos did not act on 'commission 'of the Government, so the representative of the purple party 'does not seem to be authorized by anyone '. In any case, he has drawn attention to the fact that when Iglesias left the meeting with the Lehendakari, Inigo Urkullu, said that 'we have already done what we had to do, now it is up to him to move tabular to the Government, also in budgetary matters'. 'Excuse me? Also? What was not that 'also', which seems to be the center of what he talks about? Will it be the construction of a plurinational Bolivian self-determination? ', González has been questioned. A mysterious 'also 'The former president has insisted that 'what caught his attention the most 'was that 'also 'that slipped Churches 'when he left Urkullu ', and has commented that the leader of Podemos 'has periods of maximum exposure and other periods of immersion and rest '. On the draft budget itself that the Government has agreed with Unidos Podemos, González has pointed out that he has seen it is that 'they are rather positive 'and 'prudently, timidly positive ', in addition to 'prudently countercyclical, complying with the requirements 'of the Minister of Economy, Nadia Calviño, 'not those of the European Union ', according to apostillado. In this vein, he has indicated that the European Union is 'a process of cession of sovereignty in every agreement taken to share 'that sovereignty ', not for the exercise of it by another to whom he can blame one's clumsiness '. In defense of MonarchyOn the other hand, the former President of the Government has also pronounced himself on the letter that Unidas Podemos-En Comú-En Marea has sent to the Royal House addressed to Juan Carlos I to ask him to appear at his own request in the Congress of Deputies, with the aim of explaining 'his institutional activity as head of State for more than 38 years and as Emeritus King since 2014 ', and to clarify whether he is involved in corruption cases. In this regard, the former President has pointed out that it is 'an exponent 'of the 'kind of cavalry burden 'that he believes is now 'against the monarchic institution and the head of the State ', and in line with this he has indicated that when it 'is raised from the separatists it is thought that they are against King Felipe because it is monarchy or because of the speech of 3 October 'of 2017, although, as he has recalled, before that day the August attacks in Catalonia occurred, 'and the disqualifications and shouts 'when the monarch moved to Barcelona to participate in the demonstration against these terrorist acts 'were the same ones that after 3 October'. In this regard, he expressed the view that 'if instead of King Philip he was the former President or the President of the Republic they would be disqualifying him as President of the Republic'. 'They want to pose a problem that does not exist because they do not know how to solve the problems that exist ', he added. González has spoken of a 'liquidationist interest ', of 'destabilizing ', and has pointed out that he has never been 'a monarchist, but it is rightly said that I have defended the institution more than any other ', and he has pointed out that he does not know 'where 'the 'jokers who want to put in crisis the stability of the constitutional coexistence in order to liquidate it '. I'm sorry.",
+    "source": "www.esdiario.com",
+    "date": "16/11/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Felipe González took on a very important role the European Union , both he the European Union and to stop Pedro Sánchez internally Podemos the convergence or divergence of the projects that you submit for your country' .",
+            "question_answers": [
+                {
+                    "question": "What did Felipe González take on a very important role in?",
+                    "answer": "European Union"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What role did Felipe González play in the European Union?",
+                    "score": 0.7741,
+                    "answers": "a very important role the European Union|dobj"
+                },
+                {
+                    "question": "What does it mean to submit for your country?",
+                    "score": 0.653,
+                    "answers": "that you submit for your country|relcl"
+                },
+                {
+                    "question": "What is the relationship between Felipe González and the European Union?",
+                    "score": 0.6285,
+                    "answers": "www.esdiario.com|nsubj"
+                },
+                {
+                    "question": "What is the purpose of the European Union?",
+                    "score": 0.6097,
+                    "answers": "on|prt\tthe|det\t,|punct\tthe|det\tand|cc\tto|aux\tto stop Pedro Sánchez internally Podemos the convergence or divergence of the projects that you submit for your country|conj\tthe|det\tthe convergence or divergence of the projects that you submit for your country|dep\tor|cc\tdivergence|conj\tthe|det\tyou|nsubj\tfor your country|prep\tyour|poss\tyour country|pobj\t'|punct"
+                },
+                {
+                    "question": "What is the European Union?",
+                    "score": 0.5964,
+                    "answers": "European|compound\tEuropean|compound\tboth he the European Union|advcl\tPedro Sánchez internally Podemos|dobj\tof the projects that you submit for your country|prep\tthe projects that you submit for your country|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "the convergence or divergence of the projects that you submit for your country' sovereignty the draft budget itself that the Government has agreed with Unidos Podemos the convergence or divergence of the projects that you submit for your country' Felipe González sovereignty kept a distance, in some way complicit, with Iglesias sovereignty Iglesias not Iglesias so.",
+            "question_answers": [
+                {
+                    "question": "Whose sovereignty did Felipe González keep a distance from?",
+                    "answer": "Iglesias"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What projects did the government agree with Unidos Podemos for?",
+                    "score": 0.8395,
+                    "answers": "of the projects that you submit for your country ' Felipe González sovereignty|prep"
+                },
+                {
+                    "question": "What is the relationship between the government and Iglesias?",
+                    "score": 0.6684,
+                    "answers": "with Iglesias sovereignty Iglesias not Iglesias|prep\tIglesias sovereignty Iglesias not Iglesias|pobj"
+                },
+                {
+                    "question": "What is the purpose of the draft budget?",
+                    "score": 0.6609,
+                    "answers": "of the projects that you submit for your country ' sovereignty the draft budget itself that the Government has agreed with Unidos Podemos|prep\tthe projects that you submit for your country ' sovereignty the draft budget itself that the Government has agreed with Unidos Podemos|pobj\tdraft|compound\tthe draft budget itself|appos\titself|appos\tthe convergence or divergence of the projects that you submit for your country ' Felipe González sovereignty|appos\tthat you submit for your country ' Felipe González sovereignty|relcl"
+                },
+                {
+                    "question": "What is Unidos Podemos?",
+                    "score": 0.6475,
+                    "answers": "with Unidos Podemos|prep\tUnidos|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Until this Thursday , Felipe González has returned to be Felipe González to send several deep that 'also', which seems to be the center of what he talks about to successor, to partners and on that 'also', which seems to be the center of what he talks about the European Union Spain .",
+            "question_answers": [
+                {
+                    "question": "When did Felipe González return to be Felipe González?",
+                    "answer": "Until this Thursday"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What ties does Felipe González have to the European Union?",
+                    "score": 0.8248,
+                    "answers": "partners|pobj"
+                },
+                {
+                    "question": "What did González say about the European Union Spain?",
+                    "score": 0.783,
+                    "answers": "Until this Thursday|prep\tthat Until this Thursday , Felipe González has returned to be Felipe González to send several deep that ' also ' , which seems to be the center of he talks what about to successor , to partners and on that ' also ' , which seems to be the center of what he talks about the European Union Spain|ccomp\tto send several deep that ' also ' , which seems to be the center of he talks what about to successor , to partners and on that ' also ' , which seems to be the center of what he talks about the European Union Spain|advcl\tseveral deep that ' also ' , which seems to be the center of he talks what about to successor , to partners and on that ' also ' , which seems to be the center of what he talks about the European Union Spain|dobj\twhich|nsubj\tto be the center of he talks what about to successor , to partners and on that ' also ' , which seems to be the center of what he talks about the European Union Spain|xcomp\tthe center of he talks what about to successor , to partners and on that ' also ' , which seems to be the center of what he talks about the European Union Spain|attr\twhat about|prep\ton that ' also ' ,|conj\tthat ' also|pobj\twhich|nsubj"
+                },
+                {
+                    "question": "What is Felipe González's relationship with the European Union?",
+                    "score": 0.7281,
+                    "answers": "Felipe|compound\tFelipe|compound"
+                },
+                {
+                    "question": "Who is Felipe González's successor?",
+                    "score": 0.7265,
+                    "answers": "to be Felipe González|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "González has made that 'also', which seems to be the center of what he talks about very clear that if the leader of Podemos González the European Union the government we Pedro Sánchez would he want anything to depend on we .",
+            "question_answers": [
+                {
+                    "question": "Who is the leader of Podemos González?",
+                    "answer": "Pedro Sánchez"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did González say about the European Union?",
+                    "score": 0.7609,
+                    "answers": "www.esdiario.com reported on 16/11/2018 that González has made that ' also ' , which seems to be the center of he talks what about very clear that if the leader of Podemos González the European Union the government we Pedro Sánchez would he want anything to depend on we|ROOT\tthe center of he talks what about|attr\tEuropean|compound\tthe European Union the government|pobj"
+                },
+                {
+                    "question": "Why would Sánchez want anything to depend on us?",
+                    "score": 0.7428,
+                    "answers": "very clear that if the leader of Podemos González the European Union the government we Pedro Sánchez would he want anything to depend on we|dobj"
+                },
+                {
+                    "question": "Who is the leader of Podemos González?",
+                    "score": 0.6818,
+                    "answers": "the leader of Podemos González the European Union the government we Pedro Sánchez|nsubj\tof Podemos González the European Union the government we Pedro Sánchez|prep"
+                },
+                {
+                    "question": "What is the relationship between González and the European Union?",
+                    "score": 0.664,
+                    "answers": "to be the center of he talks what about|xcomp\the talks what about|pcomp\tanything to depend on|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of González's relationship with the European Union?",
+                    "score": 0.6606,
+                    "answers": "www.esdiario.com|nsubj\tthat|mark\thas|aux\tthat|det\t'|punct\t'|punct\t,|punct\twhich|nsubj\tto|aux\tthe|det\twhat|pobj\the|nsubj\twhat about|prep\tvery|advmod\tthat|mark\tif|mark\tthe|det\tPodemos|compound\tthe|det\tthe|det\tthe government|appos\tPedro|compound\twould|aux\the|nsubj\tanything|nsubj\tto|aux\ton|prep"
+                }
+            ]
+        },
+        {
+            "claim": "we Felipe González González the European Union his preferred partner, Pablo Iglesias , have the former President of the Government the Lehendakari, Inigo Urkullu the former President of the Government the Lehendakari, Inigo Urkullu sovereignty the Lehendakari, Inigo Urkullu that 'also', which seems to be the center of what he talks about and the first does that 'also', which seems to be the center of what he talks about Juan Carlos I .",
+            "question_answers": [
+                {
+                    "question": "Who is Felipe González González's preferred partner?",
+                    "answer": "Pablo Iglesias"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Urkullu say about Juan Carlos I?",
+                    "score": 0.7794,
+                    "answers": "the former President of the Government the Lehendakari , Inigo Urkullu the former President of the Government the Lehendakari , Inigo Urkullu sovereignty the Lehendakari , Inigo Urkullu that ' also ' , which seems to be the center of he talks what about and the first does that ' also ' , which seems to be the center of he talks what about Juan Carlos I|dobj"
+                },
+                {
+                    "question": "What does Urkullu have to say about González?",
+                    "score": 0.7746,
+                    "answers": "www.esdiario.com reported on 16/11/2018 that we Felipe González González the European Union his preferred partner , Pablo Iglesias , have the former President of the Government the Lehendakari , Inigo Urkullu the former President of the Government the Lehendakari , Inigo Urkullu sovereignty the Lehendakari , Inigo Urkullu that ' also ' , which seems to be the center of he talks what about and the first does that ' also ' , which seems to be the center of he talks what about Juan Carlos I|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of Gonzales González Gonzales and Inigo Urkullu's relationship?",
+                    "score": 0.7623,
+                    "answers": "Pablo|compound"
+                },
+                {
+                    "question": "What does Urkullu say about Carlos I?",
+                    "score": 0.7579,
+                    "answers": "the first does that ' also ' , which seems to be the center of he talks what about|conj"
+                },
+                {
+                    "question": "What is the relationship between González Gonzale Gonzaclez and Gonzalo Urkullu in the European Union and Juan Carlos I?",
+                    "score": 0.7494,
+                    "answers": "that we Felipe González González the European Union his preferred partner , Pablo Iglesias , have the former President of the Government the Lehendakari , Inigo Urkullu the former President of the Government the Lehendakari , Inigo Urkullu sovereignty the Lehendakari , Inigo Urkullu that ' also ' , which seems to be the center of he talks what about and the first does that ' also ' , which seems to be the center of he talks what about Juan Carlos I|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "Juan Carlos I the Lehendakari, Inigo Urkullu King Philip times more the head of Juan Carlos I the separatists (in reference King Philip Franco), than the the Republic ', sovereignty said in a burning Churches of the institutional model the Government the separatists .",
+            "question_answers": [
+                {
+                    "question": "What was the head of Juan Carlos I the Lehendakari compared to?",
+                    "answer": "the Republic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many churches did Juan Carlos I burn?",
+                    "score": 0.6886,
+                    "answers": "a burning|pobj"
+                },
+                {
+                    "question": "What was Juan Carlos I the Lehendakari's role in the separatists?",
+                    "score": 0.673,
+                    "answers": "the the Republic ' , sovereignty|pobj"
+                },
+                {
+                    "question": "How many churches of the institutional model the Government the separatists are burning?",
+                    "score": 0.6487,
+                    "answers": "Churches of the institutional model the Government the separatists|npadvmod"
+                },
+                {
+                    "question": "What was the relationship between Juan Carlos I and King Philip Franco?",
+                    "score": 0.6401,
+                    "answers": "sovereignty|appos"
+                },
+                {
+                    "question": "What is the institutional model of the Government the separatists?",
+                    "score": 0.6219,
+                    "answers": "of the institutional model|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Reclaim of Podemos more that 'also', which seems to be the center of what he talks about , Felipe González the Government Felipe González González sovereignty this Thursday the European Union not everyone Podemos 3 October 'of 2017 a government depends on Podemos or his preferred partner, Pablo Iglesias 3 October 'of 2017 his preferred partner, Pablo Iglesias , although Felipe González has apostillated thatthe leader of Podemos of the government , Felipe González would not like'.",
+            "question_answers": [
+                {
+                    "question": "What did Felipe González say he would not like?",
+                    "answer": "leader of Podemos of the government"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did González say about the claim of Podemos?",
+                    "score": 0.7745,
+                    "answers": "Reclaim of Podemos|nmod"
+                },
+                {
+                    "question": "What is the source of evidence of González's claims on Podemos being the center of the European Union?",
+                    "score": 0.7364,
+                    "answers": "which seems to be the center of he talks what about|relcl"
+                },
+                {
+                    "question": "How many Podemos are in the European Union?",
+                    "score": 0.7269,
+                    "answers": "not everyone Podemos 3 October ' of 2017|appos"
+                },
+                {
+                    "question": "What is Felipe González's stance on Podemos?",
+                    "score": 0.7201,
+                    "answers": "although Felipe González has apostillated thatthe leader of Podemos of the government , Felipe González would not like '|advcl\tthatthe leader of Podemos of the government , Felipe González would not like '|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Felipe González and Pablo Iglesias?",
+                    "score": 0.6972,
+                    "answers": "on Podemos or his preferred partner , Pablo Iglesias 3 October ' of 2017|prep\tPodemos or his preferred partner , Pablo Iglesias 3 October ' of 2017|pobj\this preferred partner , Pablo Iglesias 3 October ' of 2017|conj\this preferred partner , Pablo Iglesias|dep"
+                }
+            ]
+        },
+        {
+            "claim": "In additionthe leader of Podemos not to participate in a coalition is determined, not by the individual personality of each one, but by the convergence or divergence of the projects that you submit for your country'.",
+            "question_answers": [
+                {
+                    "question": "What determines the leader of Podemos not to participate in a coalition?",
+                    "answer": "the convergence or divergence of the projects"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the individual personality of the leaders of Podemos not to participate in a coalition?",
+                    "score": 0.7363,
+                    "answers": "on 16/11/2018|prep\t,|punct\t,|punct\tbut|cc\t'|punct"
+                },
+                {
+                    "question": "What does it mean to submit for your country?",
+                    "score": 0.6397,
+                    "answers": "that you submit for your country|relcl"
+                },
+                {
+                    "question": "Who is the leader of Podemos?",
+                    "score": 0.6268,
+                    "answers": "leader of Podemos|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'This is what conditions it, not the simulation that can be done at one time or another ', González added in an informative breakfast of Europa Press Andalusia organized in Seville with the presence of Susana Díaz.",
+            "question_answers": [
+                {
+                    "question": "What did esdiario.com report on 16/11/2018?",
+                    "answer": "simulation that can be done at one time or another"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What conditions does González add to the simulation?",
+                    "score": 0.7671,
+                    "answers": "not the simulation that can be done at one time or another|appos"
+                },
+                {
+                    "question": "What conditions are there for a simulation to be done at one time or another?",
+                    "score": 0.7465,
+                    "answers": "This not the simulation that can be done at one time or another|nsubj"
+                },
+                {
+                    "question": "Where was the breakfast of Europa Press andalusia held?",
+                    "score": 0.7119,
+                    "answers": "in an informative breakfast of Europa Press Andalusia organized in Seville with the presence of Susana Díaz|prep\tan informative breakfast of Europa Press Andalusia organized in Seville with the presence of Susana Díaz|pobj"
+                },
+                {
+                    "question": "What is Andalusia?",
+                    "score": 0.6245,
+                    "answers": "Europa Press|compound"
+                },
+                {
+                    "question": "Who is Susana Díaz?",
+                    "score": 0.6139,
+                    "answers": "with the presence of Susana Díaz|prep\tthe presence of Susana Díaz|pobj\tof Susana Díaz|prep\tSusana|compound"
+                }
+            ]
+        },
+        {
+            "claim": "To the question of whether he would include Churches in a government, he replied that he did not believe that the leader of Podemos 'liked me very much ', just as it might happen to him in the opposite direction, but he had declared himself 'willing to speak to everyone ', although 'there are some elements that could be essential that would make it very difficult, unless there was convergence of positions '.",
+            "question_answers": [
+                {
+                    "question": "What did the leader of Podemos say would make it difficult to include Churches in a government?",
+                    "answer": "convergence of positions"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did David Dewhurst say about churches in government?",
+                    "score": 0.8141,
+                    "answers": "the question of whether he would include Churches in a government|pobj\tof whether he would include Churches in a government|prep"
+                },
+                {
+                    "question": "What did the leader of Podemos say about him?",
+                    "score": 0.7376,
+                    "answers": "that the leader of Podemos ' liked me very much ' , just as it might happen to him in the opposite direction|ccomp"
+                },
+                {
+                    "question": "What was the position of the leader of Podemos?",
+                    "score": 0.6855,
+                    "answers": "he had declared himself ' willing to speak to everyone ' , although ' there are some elements that could be essential that would make it very difficult , unless there was convergence of positions '|conj"
+                },
+                {
+                    "question": "What are some elements that could be essential that would make it very difficult if there was convergence of positions?",
+                    "score": 0.6335,
+                    "answers": "although ' there are some elements that could be essential that would make it very difficult , unless there was convergence of positions|advcl\tsome elements that could be essential that would make it very difficult , unless there was convergence of positions|attr"
+                }
+            ]
+        },
+        {
+            "claim": "If instead of King Philip was the former president or president of the Republic they would be disqualifying him as president of the Republic 'Similarly, regarding the visit of Churches to prison to meet with the former vice president of the Generalitat of Catalonia Oriol Junqueras while negotiating the General State Budgets of 2019, González has pointed out that 'everyone can do what he wants with his time 'and in any case he has heard several representatives of the Socialist Executive of Pedro Sánchez clarify that the leader of Podemos did not act on 'commission 'of the Government, so the representative of the purple party 'does not seem to be authorized by anyone '.",
+            "question_answers": [
+                {
+                    "question": "What did González say about the representative of the purple party?",
+                    "answer": "the representative of the purple party 'does not seem to be authorized by anyone"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the leader of Podemos meet with the former vice president of the General Assembly?",
+                    "score": 0.7668,
+                    "answers": "that the leader of Podemos did not act on ' commission ' of the Government , so the representative of the purple party ' does not seem to be authorized by anyone|ccomp"
+                },
+                {
+                    "question": "Who did Oriol Junqueras meet with during the General State Budgets of 2019?",
+                    "score": 0.7229,
+                    "answers": "to meet with the former vice president of the Generalitat of Catalonia Oriol Junqueras while negotiating the General State Budgets of 2019|advcl"
+                },
+                {
+                    "question": "What did González say about King Philip being the former president of the Republic?",
+                    "score": 0.7032,
+                    "answers": "with his time|prep"
+                },
+                {
+                    "question": "Who was the representative of the purple party?",
+                    "score": 0.6742,
+                    "answers": "the representative of the purple party|nsubj"
+                },
+                {
+                    "question": "What is the relationship between King Philip and Junqueras?",
+                    "score": 0.6635,
+                    "answers": "of 2019|prep\this time|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In any case, he has drawn attention to the fact that when Iglesias left the meeting with the Lehendakari, Inigo Urkullu, said that 'we have already done what we had to do, now it is up to him to move tabular to the Government, also in budgetary matters'.",
+            "question_answers": [
+                {
+                    "question": "What did he say when he left the meeting with the Lehendakari?",
+                    "answer": "he has drawn attention to the fact that when Iglesias left the meeting with the Lehendakari, Inigo Urkullu, said that 'we have already done what we had to do, now it is up to him to move tabular to the Government,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Urkullu say to Iglesias?",
+                    "score": 0.7485,
+                    "answers": "that ' we have already done we had what to do , now it is up to him to move tabular to the Government , also in budgetary matters '|ccomp"
+                },
+                {
+                    "question": "What did Inigo Urkullu say about the budget?",
+                    "score": 0.7246,
+                    "answers": "we have already done we had what to do|ccomp"
+                },
+                {
+                    "question": "Who did Inigo Urkullu meet with in 2018?",
+                    "score": 0.7027,
+                    "answers": "the meeting with the Lehendakari , Inigo Urkullu ,|dobj"
+                },
+                {
+                    "question": "What was the purpose of the meeting between Iglesias and Urkullu?",
+                    "score": 0.6608,
+                    "answers": "in budgetary matters|prep"
+                },
+                {
+                    "question": "What is Inigo Urkullu's role in the government?",
+                    "score": 0.6168,
+                    "answers": "Inigo|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'Excuse me? Also? What was not that 'also', which seems to be the center of what he talks about? Will it be the construction of a plurinational Bolivian self-determination? ', González has been questioned.",
+            "question_answers": [
+                {
+                    "question": "When did www.esdiario.com report that 'Excuse me?",
+                    "answer": "16/11/2018"
+                },
+                {
+                    "question": "What has González been questioned about?",
+                    "answer": "Will it be the construction of a plurinational Bolivian self-determination?"
+                },
+                {
+                    "question": "What has González been questioned about?",
+                    "answer": "Will it be the construction of a plurinational Bolivian self-determination?"
+                },
+                {
+                    "question": "What type of self-determination has González been questioned about?",
+                    "answer": "Bolivian"
+                },
+                {
+                    "question": "Who has been questioned about the Bolivian self-determination?",
+                    "answer": "', González"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did González say about the plurinational Bolivian self-determination?",
+                    "score": 0.8261,
+                    "answers": "which seems to be the center of he talks what about|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "A mysterious 'also 'The former president has insisted that 'what caught his attention the most 'was that 'also 'that slipped Churches 'when he left Urkullu ', and has commented that the leader of Podemos 'has periods of maximum exposure and other periods of immersion and rest '.",
+            "question_answers": [
+                {
+                    "question": "What does the leader of Podemos have?",
+                    "answer": "periods of maximum exposure and other periods of immersion and rest"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the former president say about churches?",
+                    "score": 0.7712,
+                    "answers": "that ' what caught his attention the most ' was that ' also ' that slipped Churches ' when he left Urkullu|ccomp"
+                },
+                {
+                    "question": "What did the leader of Podemos say about his periods of immersion and rest?",
+                    "score": 0.6944,
+                    "answers": "that the leader of Podemos ' has periods of maximum exposure and other periods of immersion and rest|ccomp\timmersion and rest|pobj"
+                },
+                {
+                    "question": "What was the purpose of the leader of Podemos?",
+                    "score": 0.6233,
+                    "answers": "the most|advmod\tperiods of maximum exposure and other periods of immersion and rest|dobj\tof maximum exposure|prep\tmaximum exposure|pobj\tother periods of immersion and rest|conj\trest|conj"
+                }
+            ]
+        },
+        {
+            "claim": "On the draft budget itself that the Government has agreed with Unidos Podemos, González has pointed out that he has seen it is that 'they are rather positive 'and 'prudently, timidly positive ', in addition to 'prudently countercyclical, complying with the requirements 'of the Minister of Economy, Nadia Calviño, 'not those of the European Union ', according to apostillado.",
+            "question_answers": [
+                {
+                    "question": "What country does González believe is not the same as the Unidos Podemos?",
+                    "answer": "the European Union"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the government and Unidos Podemos?",
+                    "score": 0.5939,
+                    "answers": "that the Government has agreed with Unidos Podemos|relcl\twith Unidos Podemos|prep\trather positive ' and ' prudently , timidly positive ' ,|acomp"
+                },
+                {
+                    "question": "What are the requirements of the Minister of Economy, Nadia Calviño?",
+                    "score": 0.5924,
+                    "answers": "www.esdiario.com|nsubj\twww.esdiario.com reported on 16/11/2018 that On the draft budget itself that the Government has agreed with Unidos Podemos , González has pointed out that he has seen it is that ' they are rather positive ' and ' prudently , timidly positive ' , in addition to ' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union ' , according to apostillado|ROOT\ton 16/11/2018|prep\tthat|mark\tOn the draft budget itself that the Government has agreed with Unidos Podemos|prep\tthe|det\tthe draft budget itself that the Government has agreed with Unidos Podemos|pobj\titself|appos\tthat|dobj\tthe|det\tthe Government|nsubj\thas|aux\tUnidos|compound\t,|punct\thas|aux\tthat On the draft budget itself that the Government has agreed with Unidos Podemos , González has pointed out that he has seen it is that ' they are rather positive ' and ' prudently , timidly positive ' , in addition to ' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union ' , according to apostillado|ccomp\tout|prt\tthat|mark\the|nsubj\thas|aux\tthat he has seen it is that ' they are rather positive ' and ' prudently , timidly positive ' , in addition to ' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union ' , according to apostillado|ccomp\tit|nsubj\tit is that ' they are rather positive ' and ' prudently , timidly positive ' , in addition to ' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union ' , according to apostillado|ccomp\tthat|mark\t'|punct\tthey|nsubj\tthat ' they are rather positive ' and ' prudently , timidly positive ' , in addition to ' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union '|ccomp\trather|advmod\t'|punct\tand|cc\t'|punct\tprudently|advmod\t,|punct\ttimidly|advmod\t' prudently , timidly positive ' ,|conj\t'|punct\t,|punct\tin addition to ' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union '|prep\taddition to ' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union '|pobj\tto ' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union '|prep\t'|punct\tprudently|advmod\tprudently countercyclical|amod\t,|punct\t' prudently countercyclical , complying with the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union '|pcomp\twith the requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union '|prep\tthe|det\tthe requirements ' of the Minister of Economy , Nadia Calviño , ' not those of the European Union '|pobj\t'|punct\tof the Minister of Economy , Nadia Calviño , ' not those of the European Union|prep\tthe|det\tthe Minister of Economy , Nadia Calviño , ' not those of the European Union|pobj\tof Economy|prep\tEconomy|pobj\t,|punct\tNadia|compound\t,|punct\t'|punct\tnot|neg\tof the European Union|prep\tthe|det\tEuropean|compound\t'|punct\t,|punct\taccording to apostillado|prep\tto apostillado|prep\tapostillado|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In this vein, he has indicated that the European Union is 'a process of cession of sovereignty in every agreement taken to share 'that sovereignty ', not for the exercise of it by another to whom he can blame one's clumsiness '.",
+            "question_answers": [
+                {
+                    "question": "What did he say he could blame for the exercise of the European Union's sovereignty?",
+                    "answer": "one's clumsiness"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is cession of sovereignty in every agreement taken to share 'that sovereignty?",
+                    "score": 0.7704,
+                    "answers": "of cession of sovereignty|prep\tto whom he can blame one 's clumsiness|relcl"
+                },
+                {
+                    "question": "What is the European Union?",
+                    "score": 0.7175,
+                    "answers": "www.esdiario.com reported on 16/11/2018 that In this vein , he has indicated that the European Union is ' a process of cession of sovereignty in every agreement taken to share ' that sovereignty ' , not for the exercise of it by another to whom he can blame one 's clumsiness '|ROOT\tthat In this vein , he has indicated that the European Union is ' a process of cession of sovereignty in every agreement taken to share ' that sovereignty ' , not for the exercise of it by another to whom he can blame one 's clumsiness '|ccomp\tthat the European Union is ' a process of cession of sovereignty in every agreement taken to share ' that sovereignty ' , not for the exercise of it by another to whom he can blame one 's clumsiness '|ccomp\tto share ' that sovereignty|advcl\tfor the exercise of it by another to whom he can blame one 's clumsiness|prep\tthe exercise of it by another to whom he can blame one 's clumsiness|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In defense of MonarchyOn the other hand, the former President of the Government has also pronounced himself on the letter that Unidas Podemos-En Comú-En Marea has sent to the Royal House addressed to Juan Carlos I to ask him to appear at his own request in the Congress of Deputies, with the aim of explaining 'his institutional activity as head of State for more than 38 years and as Emeritus King since 2014 ', and to clarify whether he is involved in corruption cases.",
+            "question_answers": [
+                {
+                    "question": "When did Juan Carlos I become Emeritus King?",
+                    "answer": "2014"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Unidas Podemos-En Comun-En Marea send a letter to Juan Carlos I?",
+                    "score": 0.8766,
+                    "answers": "to the Royal House|dative\tat his own request|prep"
+                },
+                {
+                    "question": "What did Unidas Podemos-En Comune-En Marea say about his involvement in corruption cases?",
+                    "score": 0.8016,
+                    "answers": "whether he is involved in corruption cases|ccomp"
+                },
+                {
+                    "question": "What is Unidas Podemos-En Comun-En Marea's role as the head of state since 2014?",
+                    "score": 0.6955,
+                    "answers": "Emeritus|compound"
+                },
+                {
+                    "question": "What was the purpose of the letter that Unidas Podemos-En Comú-En Marea sent to the Royal House?",
+                    "score": 0.6779,
+                    "answers": "to ask him to appear at his own request in the Congress of Deputies , with the aim of explaining ' his institutional activity as head of State for more than 38 years and as Emeritus King since 2014 ' , and to clarify whether he is involved in corruption cases|advcl"
+                },
+                {
+                    "question": "Who is Unidas Podemos-En Comun En Marea?",
+                    "score": 0.611,
+                    "answers": "the former President of the Government|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In this regard, the former President has pointed out that it is 'an exponent 'of the 'kind of cavalry burden 'that he believes is now 'against the monarchic institution and the head of the State ', and in line with this he has indicated that when it 'is raised from the separatists it is thought that they are against King Felipe because it is monarchy or because of the speech of 3 October 'of 2017, although, as he has recalled, before that day the August attacks in Catalonia occurred, 'and the disqualifications and shouts 'when the monarch moved to Barcelona to participate in the demonstration against these terrorist acts 'were the same ones that after 3 October'.",
+            "question_answers": [
+                {
+                    "question": "Who does the former President believe is now 'against' the monarchic institution?",
+                    "answer": "head of the State"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the monarch move to Barcelona to participate in the demonstrations against the monarchic institutions and the head of state?",
+                    "score": 0.8186,
+                    "answers": "when the monarch moved to Barcelona to participate in the demonstration against these terrorist acts|advcl"
+                },
+                {
+                    "question": "What was King Felipe's speech on 3 October 2017?",
+                    "score": 0.7746,
+                    "answers": "in line with this he has indicated that when it ' is raised from the separatists it is thought that they are against King Felipe because it is monarchy or because of the speech of 3 October ' of 2017 , although , as he has recalled , before that day the August attacks in Catalonia occurred , ' and the disqualifications and shouts ' when the monarch moved to Barcelona to participate in the demonstration against these terrorist acts ' were the same ones that after 3 October '|conj"
+                },
+                {
+                    "question": "What did the former President say about the August attacks in Catalonia?",
+                    "score": 0.7677,
+                    "answers": "' an exponent ' of the ' kind of cavalry burden ' he believes that is now ' against the monarchic institution and the head of the State|attr\tbefore that day|prep\tthe August attacks in Catalonia|nsubj\talthough , as he has recalled , before that day the August attacks in Catalonia occurred|conj"
+                },
+                {
+                    "question": "What was the speech of 3 October 2017?",
+                    "score": 0.7548,
+                    "answers": "the same ones that after 3 October '|attr"
+                },
+                {
+                    "question": "What were the disqualifications and shouts after 3 October 2017?",
+                    "score": 0.7494,
+                    "answers": "because of the speech of 3 October ' of 2017 , although , as he has recalled , before that day the August attacks in Catalonia occurred , ' and the disqualifications and shouts ' when the monarch moved to Barcelona to participate in the demonstration against these terrorist acts ' were the same ones that after 3 October '|conj"
+                }
+            ]
+        },
+        {
+            "claim": "In this regard, he expressed the view that 'if instead of King Philip he was the former President or the President of the Republic they would be disqualifying him as President of the Republic'.",
+            "question_answers": [
+                {
+                    "question": "What did esdiario say in regards to King Philip's disqualification as President of the Republic?",
+                    "answer": "'if instead of King Philip he was the former President or the President of the Republic they would be disqualifying him as President of the Republic'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did King Philip think about the former president or the President of the Republic?",
+                    "score": 0.8446,
+                    "answers": "King Philip|pobj"
+                },
+                {
+                    "question": "What was King Philip's role in the Republic?",
+                    "score": 0.8156,
+                    "answers": "if instead of King Philip he was the former President or the President of the Republic|advcl"
+                },
+                {
+                    "question": "What is the relationship between King Philip and the president of the republic?",
+                    "score": 0.7509,
+                    "answers": "instead of King Philip|prep\tKing|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'They want to pose a problem that does not exist because they do not know how to solve the problems that exist ', he added.",
+            "question_answers": [
+                {
+                    "question": "Why did www.esdiario.com say they want to pose a problem that does not exist?",
+                    "answer": "they do not know how to solve the problems that exist"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the problem that the Spanish government is trying to solve?",
+                    "score": 0.6817,
+                    "answers": "because they do not know how to solve the problems that exist|advcl"
+                },
+                {
+                    "question": "What are the problems that don't know how to solve?",
+                    "score": 0.6653,
+                    "answers": "the problems that exist|dobj"
+                },
+                {
+                    "question": "What is the purpose of posing a problem that does not exist?",
+                    "score": 0.6434,
+                    "answers": "They want to pose a problem that does not exist because they do not know how to solve the problems that exist|ccomp\tto pose a problem that does not exist|xcomp"
+                },
+                {
+                    "question": "What is the source of evidence of the number of people who want to solve the problems that exist?",
+                    "score": 0.6148,
+                    "answers": "16/11/2018|pobj\tdoes|aux"
+                }
+            ]
+        },
+        {
+            "claim": "González has spoken of a 'liquidationist interest ', of 'destabilizing ', and has pointed out that he has never been 'a monarchist, but it is rightly said that I have defended the institution more than any other ', and he has pointed out that he does not know 'where 'the 'jokers who want to put in crisis the stability of the constitutional coexistence in order to liquidate it '.",
+            "question_answers": [
+                {
+                    "question": "What did González say he did not know about the 'liquidationist interest'?",
+                    "answer": "'jokers who want to put in crisis the stability of the constitutional coexistence in order to liquidate it"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has González defended the institution of socialism?",
+                    "score": 0.8708,
+                    "answers": "than any other|prep"
+                },
+                {
+                    "question": "Did González defend the institution more than any other?",
+                    "score": 0.8576,
+                    "answers": "of a ' liquidationist interest ' , of ' destabilizing ' , and has pointed out that he has never been ' a monarchist , but it is rightly said that I have defended the institution more than any other ' , and he has pointed out that he does not know ' where ' the ' jokers who want to put in crisis the stability of the constitutional coexistence in order to liquidate it '|prep\thas pointed out that he has never been ' a monarchist , but it is rightly said that I have defended the institution more than any other ' , and he has pointed out that he does not know ' where ' the ' jokers who want to put in crisis the stability of the constitutional coexistence in order to liquidate it '|conj\tthat he has never been ' a monarchist , but it is rightly said that I have defended the institution more than any other ' , and he has pointed out that he does not know ' where ' the ' jokers who want to put in crisis the stability of the constitutional coexistence in order to liquidate it '|ccomp"
+                },
+                {
+                    "question": "What has González said about communism?",
+                    "score": 0.8543,
+                    "answers": "has|aux\t,|punct\t,|punct\thas|aux\the|nsubj\thas|aux\tnever|neg\t,|punct\t,|punct\the|nsubj\thas|aux\the|nsubj"
+                },
+                {
+                    "question": "What does González think about communism?",
+                    "score": 0.8344,
+                    "answers": "a|det\ta|det\tdoes|aux"
+                },
+                {
+                    "question": "What did González say about the instability of constitutional coexistence in order to liquidate it?",
+                    "score": 0.8209,
+                    "answers": "that he does not know ' where ' the ' jokers who want to put in crisis the stability of the constitutional coexistence in order to liquidate it '|ccomp"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,469 @@
+{
+    "id": "81_Society_75",
+    "claim": "Demarcas Lawrence, Randy Gregory and Tyrone Crawford have company, Vidauntae Charlton, better known as Taco. The young defensive wing, a graduate of the University of Michigan, was selected by the Cowboys in the global  Draft position. . But in these times it is worth first making clear how Vidauntae became Taco. Born two months premature on the November #NUMBER*, little Viduntae was always overprotected by his mother Tamara. Like every first mother, and knowing that her child was premature, she extremed all precautions, to the degree of always having Vidauntae covered by blankets, literally rolled up. That's why his grandmother began to tell him that it looked like a 'Taco'; also in those days on television the advertising of the restaurant chain'Taco Bell 'had a slogan like a gingel that said'Run to the border'. Hence, the game with the newborn'It's a Taco trying to run to the border of the blankets'. Your grandmother's pun today is a trademark and a very flavorful nickname. Followed and longed for by more than ten teams since last year, Charlton declined to go to the Draft in  and decided to play his fourth year with the Wolverines; for some it cost him to fall to the total number . But the decision wasn't entirely bad, Taco comes from his best year as a schoolboy, recorded ten quarterback catches. He was a key player in coach Jim Harbaugh's defensive, and was even named All Pro at Big Ten. For something Jerry Jones owns the Cowboys I don't doubt and turn the order to go for Charlton, a classic defensive wing, without inventions, a natural hunter, a fast player, who measures  meters and weighs  kilos. Jones promised to recruit him if he had the chance to get the rung number #NUMBER #. The Cowboys require Taco to be of immediate impact, the illusions of reaching the Super Bowl urgently of a solid, constant defensive that makes a difference. For the time being on the table, the taste of the border arrived. I'm sorry.",
+    "source": "www.marca.com",
+    "date": "21/06/2023",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Demarcas Lawrence, Randy Gregory and Tyrone Crawford have company, Vidauntae Charlton, better known as Taco .",
+            "question_answers": [
+                {
+                    "question": "Who had a company called Vidauntae Charlton?",
+                    "answer": "Demarcas Lawrence, Randy Gregory and Tyrone Crawford"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Demarcas Lawrence, Randy Gregory and Tyrone Crawford?",
+                    "score": 0.7013,
+                    "answers": "www.marca.com|nsubj\twww.marca.com reported on 21/06/2023 that Demarcas Lawrence , Randy Gregory and Tyrone Crawford have company , Vidauntae Charlton , better known as Taco|ROOT\ton 21/06/2023|prep\tthat|mark\tDemarcas|compound\tDemarcas Lawrence , Randy Gregory and Tyrone Crawford|nsubj\t,|punct\tRandy|compound\tand|cc\tTyrone|compound\tthat Demarcas Lawrence , Randy Gregory and Tyrone Crawford have company , Vidauntae Charlton , better known as Taco|ccomp\t,|punct\t,|punct\tbetter|advmod"
+                },
+                {
+                    "question": "What is the name of the company known as Taco?",
+                    "score": 0.6769,
+                    "answers": "company , Vidauntae Charlton , better known as Taco|dobj"
+                },
+                {
+                    "question": "Who is Vidauntae Charlton?",
+                    "score": 0.6736,
+                    "answers": "Vidauntae|compound"
+                },
+                {
+                    "question": "What is Taco?",
+                    "score": 0.6625,
+                    "answers": "better known as Taco|acl"
+                }
+            ]
+        },
+        {
+            "claim": "The young defensive wing, a graduate of the University of Michigan , was selected by the Cowboys in the global  Draft position.",
+            "question_answers": [
+                {
+                    "question": "Where did the young defensive wing graduate from?",
+                    "answer": "University of Michigan"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the young defensive wing graduate from?",
+                    "score": 0.8694,
+                    "answers": "The young defensive wing , a graduate of the University of Michigan|nsubjpass\ta graduate of the University of Michigan|appos\tof the University of Michigan|prep\tof Michigan|prep\tMichigan|pobj"
+                },
+                {
+                    "question": "What is the current draft position of the Cowboys?",
+                    "score": 0.768,
+                    "answers": "the Cowboys|pobj"
+                },
+                {
+                    "question": "What is the draft position for the Cowboys?",
+                    "score": 0.766,
+                    "answers": "in the global   Draft position|prep\tthe global   Draft position|pobj"
+                },
+                {
+                    "question": "What ismarca.com?",
+                    "score": 0.6585,
+                    "answers": "www.marca.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But in these times it is worth first making clear how Vidauntae Charlton, better known as Taco became Taco.",
+            "question_answers": [
+                {
+                    "question": "When did www.marca.com report that Taco became Taco?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Vidauntae Charlton do to become Taco?",
+                    "score": 0.8129,
+                    "answers": "worth first making clear how Vidauntae Charlton , better known as Taco became Taco|acomp\tclear how Vidauntae Charlton , better known as Taco became Taco|ccomp\thow Vidauntae Charlton , better known as Taco became Taco|advcl"
+                },
+                {
+                    "question": "What is Vidauntae Charlton known for?",
+                    "score": 0.7838,
+                    "answers": "Vidauntae|compound"
+                },
+                {
+                    "question": "Who is Taco Charlton?",
+                    "score": 0.752,
+                    "answers": "www.marca.com reported on 21/06/2023 that But in these times it is worth first making clear how Vidauntae Charlton , better known as Taco became Taco|ROOT\tthat|mark\tBut|cc\tthese|det\tfirst making clear how Vidauntae Charlton , better known as Taco became Taco|xcomp\thow|advmod\t,|punct"
+                },
+                {
+                    "question": "What is the relationship between Taco Charlton and Taco?",
+                    "score": 0.7183,
+                    "answers": "www.marca.com|nsubj\ton 21/06/2023|prep\tin these times|prep\tthese times|pobj\tit|nsubj\tVidauntae Charlton , better known as Taco|nsubj\tbetter|advmod"
+                },
+                {
+                    "question": "What is Taco?",
+                    "score": 0.7003,
+                    "answers": "better known as Taco|acl\tas Taco|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Born two months premature on the November #NUMBER*, Vidauntae Charlton, better known as Taco was always overprotected by his mother Tamara .",
+            "question_answers": [
+                {
+                    "question": "What did his mother Tamara do to Taco?",
+                    "answer": "overprotected"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Taco Charlton born?",
+                    "score": 0.7828,
+                    "answers": "www.marca.com|nsubj\tthat|mark\tBorn two months premature on the November # NUMBER|advcl\ttwo|nummod\tthe|det\tthe November|pobj\t#|pobj\t*|punct\t,|punct\tVidauntae Charlton , better known as Taco|nsubjpass\t,|punct\twas|auxpass\talways|advmod"
+                },
+                {
+                    "question": "When was Taco born?",
+                    "score": 0.75,
+                    "answers": "www.marca.com reported on 21/06/2023 that Born two months premature on the November # NUMBER * , Vidauntae Charlton , better known as Taco was always overprotected by his mother Tamara|ROOT\ton 21/06/2023|prep\ttwo months premature|advmod\tbetter known as Taco|acl\tthat Born two months premature on the November # NUMBER * , Vidauntae Charlton , better known as Taco was always overprotected by his mother Tamara|ccomp"
+                },
+                {
+                    "question": "What was the date of Charlton's birth?",
+                    "score": 0.7201,
+                    "answers": "his|poss"
+                },
+                {
+                    "question": "Who was the mother of Charlton's father?",
+                    "score": 0.6907,
+                    "answers": "by his mother Tamara|agent"
+                },
+                {
+                    "question": "What was the birth date of Vidauntae Charlton?",
+                    "score": 0.6622,
+                    "answers": "Vidauntae|compound\tbetter|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "Like every first mother, and knowing that child was premature, his mother Tamara extremed all precautions, to the degree of always having Vidauntae Charlton, better known as Taco covered by blankets, literally rolled up.",
+            "question_answers": [
+                {
+                    "question": "On what date didmarca.com report that Tamara's child was premature?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Tamara extremed all precautions?",
+                    "score": 0.7887,
+                    "answers": "www.marca.com reported on 21/06/2023 that Like every first mother , and knowing that child was premature , his mother Tamara extremed all precautions , to the degree of always having Vidauntae Charlton , better known as Taco covered by blankets , literally rolled up|ROOT\tthat|mark\t,|punct\tand|cc\tknowing that child was premature|conj\tthat|det\t,|punct\tthat Like every first mother , and knowing that child was premature , his mother Tamara extremed all precautions , to the degree of always having Vidauntae Charlton , better known as Taco covered by blankets , literally rolled up|ccomp\tall|det\t,|punct\tthe|det\talways|advmod\t,|punct\tbetter|advmod\t,|punct"
+                },
+                {
+                    "question": "What did Tamara's mother say about her child being premature?",
+                    "score": 0.7575,
+                    "answers": "that child was premature|ccomp"
+                },
+                {
+                    "question": "What did Tamara do with her first child?",
+                    "score": 0.7283,
+                    "answers": "literally rolled up|dep"
+                },
+                {
+                    "question": "What steps did Tamara take to ensure her child was born?",
+                    "score": 0.6916,
+                    "answers": "all precautions|dobj"
+                },
+                {
+                    "question": "How many first mothers had Vidauntae Charlton?",
+                    "score": 0.6878,
+                    "answers": "every first mother|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "That's why his grandmother began to tell Vidauntae Charlton, better known as Taco that it looked like a 'Taco'; also in those days on television the advertising of the restaurant chain'Taco Bell 'had a slogan like a gingel that said'Run to the border'.",
+            "question_answers": [
+                {
+                    "question": "What chain of restaurants had a slogan like a gingel that said'Run to the border'?",
+                    "answer": "Taco Bell"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Charlton's grandmother tell her grandmother about Taco?",
+                    "score": 0.7663,
+                    "answers": "his grandmother|nsubj"
+                },
+                {
+                    "question": "What did Vidauntae Charlton say about Taco Bell?",
+                    "score": 0.7331,
+                    "answers": "on 21/06/2023|prep\twww.marca.com reported on 21/06/2023 that That 's why his grandmother began to tell Vidauntae Charlton , better known as Taco that it looked like a ' Taco ' ; also in those days on television the advertising of the restaurant chain'Taco Bell ' had a slogan like a gingel that said'Run to the border '|ROOT"
+                },
+                {
+                    "question": "What does Taco Bell look like?",
+                    "score": 0.73,
+                    "answers": "that it looked like a ' Taco|ccomp"
+                },
+                {
+                    "question": "What did Charlton say about Taco?",
+                    "score": 0.7269,
+                    "answers": "as Taco|prep"
+                },
+                {
+                    "question": "What was the name of the restaurant chain Taco Bell?",
+                    "score": 0.7037,
+                    "answers": "a slogan like a gingel that said'Run to the border|dobj\ta gingel that said'Run to the border|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Hence, the game with the newborn'It's a Taco trying to run to the border of the blankets'.",
+            "question_answers": [
+                {
+                    "question": "On what date did www.marca.com report that Hence, the game with the newborn's \"It's a Taco trying to run to the border of the blankets\"?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the game with the newborn?",
+                    "score": 0.6848,
+                    "answers": "www.marca.com reported on 21/06/2023 that Hence , the game with the newborn'It 's a Taco trying to run to the border of the blankets '|ROOT\ton 21/06/2023|prep\twith the newborn'It|prep\tthe newborn'It|pobj\tto run to the border of the blankets|xcomp\tof the blankets|prep"
+                },
+                {
+                    "question": "What is a Taco trying to run to the border of the blankets?",
+                    "score": 0.6798,
+                    "answers": "trying to run to the border of the blankets|acl"
+                }
+            ]
+        },
+        {
+            "claim": "his grandmother pun today is a trademark and a very flavorful nickname.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/06/2023 that his grandmother pun today is a trademark and a very flavorful nickname?",
+                    "answer": "www.marca.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is a grandmother pun?",
+                    "score": 0.7592,
+                    "answers": "grandmother|compound\tthat his grandmother pun today is a trademark and a very flavorful nickname|ccomp"
+                },
+                {
+                    "question": "What is a pun?",
+                    "score": 0.7329,
+                    "answers": "a|det\ta|det"
+                },
+                {
+                    "question": "What is the origin of the nickname \"grandfather pun\"?",
+                    "score": 0.7027,
+                    "answers": "his grandmother pun today|nsubj\tvery flavorful|amod"
+                },
+                {
+                    "question": "What is the meaning of pun?",
+                    "score": 0.6924,
+                    "answers": "that|mark\tand|cc\tvery|advmod"
+                },
+                {
+                    "question": "What ismarca.com?",
+                    "score": 0.6424,
+                    "answers": "www.marca.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Followed and longed for by more than ten teams since last year, Vidauntae Charlton, better known as Taco declined to go to the Draft in  and decided to play fourth year with the University of Michigan ; for some it cost Vidauntae Charlton, better known as Taco to fall to the total number .",
+            "question_answers": [
+                {
+                    "question": "What university did Taco choose to play for his fourth year?",
+                    "answer": "University of Michigan"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many teams did Vidauntae Charlton play for?",
+                    "score": 0.7062,
+                    "answers": "www.marca.com|nsubj\ton 21/06/2023|prep\tthat|mark\tFollowed and longed for by more than ten teams since last year|advcl\tand|cc\tfor|prep\tmore|amod\tthan|quantmod\tlast|amod\t,|punct\tVidauntae|compound\t,|punct\tbetter|advmod\tbetter known as Taco|acl\tas Taco|prep\tto|aux\tthe|det\tin|prep\tand|cc\tto|aux\tto play fourth year with the University of Michigan|xcomp\tfourth|amod\tthe|det\tof Michigan|prep\tMichigan|pobj\t;|punct\tfor some|prep\tsome|pobj\tit|nsubj\tVidauntae|compound\t,|punct\tbetter|advmod\tbetter known as Taco|acl\tas Taco|prep\tto|aux\tto fall to the total number|xcomp\tto the total number|prep\tthe|det\ttotal|amod\tthe total number|pobj"
+                },
+                {
+                    "question": "How many teams has Vidauntae Charlton played for?",
+                    "score": 0.7038,
+                    "answers": "www.marca.com reported on 21/06/2023|ROOT\tby more than ten teams|agent\tmore than ten teams|pobj\tsince last year|prep"
+                },
+                {
+                    "question": "How many colleges did Vidauntae Charlton attend?",
+                    "score": 0.7009,
+                    "answers": "to the Draft|prep\tthe Draft|pobj"
+                },
+                {
+                    "question": "How many teams went to the draft last year?",
+                    "score": 0.6683,
+                    "answers": "Followed and longed for by more than ten teams since last year , Vidauntae Charlton , better known as Taco declined to go to the Draft in|ccomp\tto go to the Draft in|xcomp"
+                },
+                {
+                    "question": "What is the relationship between the University of Michigan and Vidauntae Charlton?",
+                    "score": 0.6015,
+                    "answers": "decided to play fourth year with the University of Michigan|ccomp\twith the University of Michigan|prep"
+                }
+            ]
+        },
+        {
+            "claim": "But declined wasn't entirely bad, Vidauntae Charlton, better known as Taco comes from best year as a schoolboy, recorded ten quarterback catches.",
+            "question_answers": [
+                {
+                    "question": "How many quarterback catches did Vidauntae Charlton make?",
+                    "answer": "ten"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What year did Vidauntae Charlton record ten quarterback catches?",
+                    "score": 0.8698,
+                    "answers": "n't|neg\tVidauntae Charlton , better known as Taco comes from best year as a schoolboy ,|prep"
+                },
+                {
+                    "question": "How many quarterback catches did Vidauntae Charlton make as a student?",
+                    "score": 0.8022,
+                    "answers": "www.marca.com|nsubj\ton 21/06/2023|prep\tentirely bad|acomp\tVidauntae Charlton , better known as Taco|nsubj\tbest|amod"
+                },
+                {
+                    "question": "What is the best year as a schoolboy?",
+                    "score": 0.7296,
+                    "answers": ", Vidauntae Charlton , better known as Taco comes from best year as a schoolboy ,|punct\tVidauntae|compound\tbetter known as Taco|acl\tfrom best year as a schoolboy|prep\tbest year as a schoolboy|pobj\tas a schoolboy|prep\ta schoolboy|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "He was a key player in coach Jim Harbaugh's defensive, and was even named All Pro at Big Ten.",
+            "question_answers": [
+                {
+                    "question": "What award did he receive at the Big Ten?",
+                    "answer": "All Pro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Jim Harbaugh's role in the Big Ten?",
+                    "score": 0.7837,
+                    "answers": "www.marca.com reported on 21/06/2023 that He was a key player in coach Jim Harbaugh 's defensive , and was even named All Pro at Big Ten|ROOT\tthat|mark\tthat He was a key player in coach Jim Harbaugh 's defensive , and was even named All Pro at Big Ten|ccomp\ta|det\tkey|amod\tJim|compound\t's|case\t,|punct\tand|cc\twas|auxpass\teven|advmod\tAll|compound\tAll Pro|oprd\tat Big Ten|prep\tBig|compound"
+                },
+                {
+                    "question": "What is the name of the team that Jim Harbaugh played for?",
+                    "score": 0.7211,
+                    "answers": "on 21/06/2023|prep\twas even named All Pro at Big Ten|conj"
+                }
+            ]
+        },
+        {
+            "claim": "For something Jerry Jones owns the Cowboys I don't doubt and turn the order to go for Charlton, a classic defensive wing, without inventions, a natural hunter, a fast player, who measures  meters and weighs  kilos.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/06/2023 that Jerry Jones owns the Cowboys?",
+                    "answer": "www.marca.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of inventions did Jerry Jones use to build the Cowboys?",
+                    "score": 0.7495,
+                    "answers": "inventions|pobj"
+                },
+                {
+                    "question": "What did Jerry Jones do with the Cowboys?",
+                    "score": 0.7313,
+                    "answers": "www.marca.com reported on 21/06/2023 that For something Jerry Jones owns the Cowboys I do n't doubt and turn the order to go for Charlton , a classic defensive wing , without inventions , a natural hunter , a fast player , who measures   meters and weighs   kilos|ROOT\tsomething Jerry Jones owns the Cowboys|pobj\tJerry Jones owns the Cowboys|relcl\tthe|det\tI|nsubj\tdo|aux\tn't|neg\tturn the order to go for Charlton , a classic defensive wing , without inventions , a natural hunter , a fast player , who measures|conj\tthe|det\tto|aux"
+                },
+                {
+                    "question": "Who owns the Cowboys?",
+                    "score": 0.7136,
+                    "answers": "Jerry|compound\tthe Cowboys|dobj"
+                },
+                {
+                    "question": "What is the size of the reserve wing that Jerry Jones owns the Cowboys?",
+                    "score": 0.6852,
+                    "answers": "  kilos|dep"
+                },
+                {
+                    "question": "How long is Charlton?",
+                    "score": 0.6577,
+                    "answers": "  meters and weighs|dep"
+                }
+            ]
+        },
+        {
+            "claim": "Jones promised to recruit him if he had the chance to get the rung number #NUMBER #.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Who did Jones promise to recruit if he had a chance to get the rung number #2023?",
+                    "score": 0.7678,
+                    "answers": "www.marca.com reported on 21/06/2023 that Jones promised to recruit him if he had the chance to get the rung number # NUMBER #|ROOT"
+                },
+                {
+                    "question": "What did Jones do to get the number #NUMBER #21?",
+                    "score": 0.7396,
+                    "answers": "#|appos\t#|appos"
+                },
+                {
+                    "question": "What is the relationship between Jones and Jones?",
+                    "score": 0.6741,
+                    "answers": "www.marca.com|nsubj"
+                },
+                {
+                    "question": "What is the number #NUMBER #2023?",
+                    "score": 0.6446,
+                    "answers": "to get the rung number # NUMBER #|acl"
+                }
+            ]
+        },
+        {
+            "claim": "The Cowboys require Taco to be of immediate impact, the illusions of reaching the Super Bowl urgently of a solid, constant defensive that makes a difference.",
+            "question_answers": [
+                {
+                    "question": "When did www.marca.com report that The Cowboys require Taco to be of immediate impact?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much impact does Taco have on the Cowboys?",
+                    "score": 0.807,
+                    "answers": "immediate impact|pobj"
+                },
+                {
+                    "question": "What does Taco do for the Cowboys to reach the Super Bowl?",
+                    "score": 0.7551,
+                    "answers": "that The Cowboys require Taco to be of immediate impact , the illusions of reaching the Super Bowl urgently of a solid , constant defensive that makes a difference|ccomp"
+                },
+                {
+                    "question": "What is Taco's role in the Cowboys?",
+                    "score": 0.7033,
+                    "answers": "www.marca.com reported on 21/06/2023 that The Cowboys require Taco to be of immediate impact , the illusions of reaching the Super Bowl urgently of a solid , constant defensive that makes a difference|ROOT"
+                },
+                {
+                    "question": "What is the relationship between Taco and the Cowboys?",
+                    "score": 0.6791,
+                    "answers": "on 21/06/2023|prep\tthat|mark\tThe|det\tThe Cowboys|nsubj\tto|aux\timmediate|amod\t,|punct\tthe|det\tthe|det\tSuper|compound\turgently|advmod\ta|det\tsolid|amod\t,|punct\tconstant|amod\tthat|nsubj\tthat makes a difference|relcl\ta|det\ta difference|dobj"
+                },
+                {
+                    "question": "What are the illusions of reaching the Super Bowl?",
+                    "score": 0.6731,
+                    "answers": "of immediate impact , the illusions of reaching the Super Bowl urgently of a solid , constant defensive that makes a difference|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For the time being on the table, the taste of the border arrived.",
+            "question_answers": [
+                {
+                    "question": "When did www.marca.com report that the taste of the border arrived on the table?",
+                    "answer": "21/06/2023"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did the taste of the border arrive?",
+                    "score": 0.8047,
+                    "answers": "that For the time being on the table , the taste of the border arrived|ccomp"
+                }
+            ]
+        }
+    ]
+}

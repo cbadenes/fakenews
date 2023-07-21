@@ -1,0 +1,92 @@
+{
+    "id": "Sport_301",
+    "claim": "Brock Lesnar has heated the WrestleMania with his treacherous and brutal back attack on Roman Reigns at the Raw. Reigns, injured and shocked, had to be removed from the ring on a stretcher by his rival's treacherous saddle. The most shameful and violent moment occurred when Brock Lesnar again attacked the convalescentBrock Lesnar, who was tied on the stretcher and ended up on the floor. I'm sorry.",
+    "source": "www.marca.com",
+    "date": "21/03/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Brock Lesnar has heated the WrestleMania with his treacherous and brutal back attack on Roman Reigns at the Raw.",
+            "question_answers": [
+                {
+                    "question": "What did Brock Lesnar do that heated the WrestleMania?",
+                    "answer": "his treacherous and brutal back attack on Roman Reigns"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What happened to Roman Reigns at the Raw?",
+                    "score": 0.8067,
+                    "answers": "with his treacherous and brutal back attack on Roman Reigns at the Raw|prep\this treacherous and brutal back attack on Roman Reigns at the Raw|pobj\tRoman|compound"
+                },
+                {
+                    "question": "What was the name of the match that Brock Lesnar attacked Roman Reigns?",
+                    "score": 0.8067,
+                    "answers": "at the Raw|prep"
+                },
+                {
+                    "question": "What is the relationship between Brock Lesnar and Roman Reigns?",
+                    "score": 0.7605,
+                    "answers": "www.marca.com reported on 21/03/2018 that Brock Lesnar has heated the WrestleMania with his treacherous and brutal back attack on Roman Reigns at the Raw|ROOT\ton 21/03/2018|prep\tthat|mark\tBrock|compound\thas|aux\tthe|det\this|poss\ttreacherous and brutal|amod\tand|cc\tbrutal|conj\tback|compound\ton Roman Reigns|prep\tthe|det"
+                },
+                {
+                    "question": "What ismarca.com?",
+                    "score": 0.6969,
+                    "answers": "www.marca.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Reigns, injured and shocked, had to be removed from the ring on a stretcher by his rival's treacherous saddle.",
+            "question_answers": [
+                {
+                    "question": "When did www.marca.com report that Reigns was injured?",
+                    "answer": "21/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why was Reigns injured and shocked?",
+                    "score": 0.9108,
+                    "answers": "that Reigns , injured and shocked , had to be removed from the ring on a stretcher by his rival 's treacherous saddle|ccomp"
+                },
+                {
+                    "question": "What happened to Reigns after he was injured?",
+                    "score": 0.8392,
+                    "answers": "www.marca.com reported on 21/03/2018 that Reigns , injured and shocked , had to be removed from the ring on a stretcher by his rival 's treacherous saddle|ROOT\t,|punct\tand|cc\t,|punct\tto|aux\this rival 's|poss"
+                },
+                {
+                    "question": "What is the source of evidence of Reigns being removed from the ring on a stretcher?",
+                    "score": 0.7555,
+                    "answers": "treacherous|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The most shameful and violent moment occurred when Brock Lesnar again attacked the convalescentBrock Lesnar, who was tied on the stretcher and ended up on the floor.",
+            "question_answers": [
+                {
+                    "question": "Where was Brock Lesnar tied?",
+                    "answer": "on the stretcher"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Brock Lesnar when he attacked the convalescentBrock Lesnar?",
+                    "score": 0.7681,
+                    "answers": "on the floor|prep"
+                },
+                {
+                    "question": "What did Brock Lesnar do to the convalescentBrock Lesnar?",
+                    "score": 0.7322,
+                    "answers": "on 21/03/2018|prep\tmost shameful and violent|amod\tThe most shameful and violent moment|nsubj\tconvalescentBrock|compound"
+                },
+                {
+                    "question": "What happened to Brock Lesnar after he was tied on the stretcher?",
+                    "score": 0.7298,
+                    "answers": "Brock|compound\twho was tied on the stretcher and ended up on the floor|relcl\ton the stretcher|prep\tthe floor|pobj"
+                }
+            ]
+        }
+    ]
+}

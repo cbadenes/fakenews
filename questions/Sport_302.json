@@ -1,0 +1,238 @@
+{
+    "id": "Sport_302",
+    "claim": "The Liguilla Apertura  of Mexican football is about to end, and the semifinals have reached Monterrey, which has been the superleader of this campaign; in addition to Morelia, the Tigers and America. However, among those four teams, there is one that seems predestined to win, and that is Monterrey. Here are all the reasons why we believe this:THE NAME OF THE STATEOne of the most monumental works in recent years is the stadium of Monterrey. It is a world-class stadium, with all the luxuries and amenities that any European coliseum would envy It is an imposing work that dazzles anyone, and bears the name BBVA Bancomer. THE Liga MX PATROCINATOR. The MX League has always had sponsors, those who pay almost everything and for which, the owners of the teams and the Mexican Football Federation live them eternally grateful. In fact, the tournament is named after the sponsor: BBVA Bancomer MX League. And that's why they'll win. It will not be for his good game, nor for his coach, nor for his effective system, nor for his passionate fondness, nor for being the superleader, nor because in the tournament they only lost two games, nor because they already beat Tigers -, nor because they already beat America -, nor because Tigers qualified by tie - with Leon, nor because America qualified without being able to score goals to the Blue Cross. No, gentlemen, it is because of things that we have not realized, and that He has revealed to them.",
+    "source": "www.eldizque.com",
+    "date": "27/11/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The Liguilla Apertura  of Mexican football is about to end, and the semifinals have reached Monterrey, which has been the superleader of this campaign; in addition to Morelia, the Tigers and America .",
+            "question_answers": [
+                {
+                    "question": "What Mexican football team is about to end?",
+                    "answer": "The Liguilla Apertura"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many championships has Liguilla Apertura won?",
+                    "score": 0.824,
+                    "answers": "Mexican football|pobj\tthe semifinals|nsubj\thave|aux"
+                },
+                {
+                    "question": "How long has the Liguilla Apertura been going on?",
+                    "score": 0.76,
+                    "answers": "about to end|acomp"
+                },
+                {
+                    "question": "What is Monterrey's relationship with the Liguilla Apertura?",
+                    "score": 0.7198,
+                    "answers": "which has been the superleader of this campaign|relcl"
+                },
+                {
+                    "question": "What is the Liguilla Apertura?",
+                    "score": 0.7096,
+                    "answers": "Liguilla|compound\tThe Liguilla Apertura|nsubj\tthat The Liguilla Apertura   of Mexican football|dep\tof Mexican football|prep"
+                },
+                {
+                    "question": "What is the relationship between the Liguilla Apertura and Mexican football?",
+                    "score": 0.6963,
+                    "answers": "www.eldizque.com|nsubj\ton 27/11/2017|prep\t27/11/2017|pobj\tthat|mark\tThe|det\tto|aux\tto end|xcomp\t,|punct\tand|cc\tthe|det\t,|punct\twhich|nsubj\thas|aux\tthe|det\tthis|det\t;|punct\tto Morelia , the Tigers and America|prep\t,|punct\tthe|det\tand|cc"
+                }
+            ]
+        },
+        {
+            "claim": "However, among those four teams, there is one that seems predestined to win , and one that seems predestined to win is Monterrey .",
+            "question_answers": [
+                {
+                    "question": "What is the name of one of the four teams that was reported to be predestined to win?",
+                    "answer": "one that seems predestined to win"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Monterrey?",
+                    "score": 0.7958,
+                    "answers": "on 27/11/2017|prep\tthat|mark\t,|punct\tthose|det\t,|punct\tthere|expl\tone that seems predestined to win|attr\tthat|nsubj\t,|punct\tone that seems predestined to win|nsubj\tthat|nsubj"
+                },
+                {
+                    "question": "What is Monterrey's political affiliation?",
+                    "score": 0.7901,
+                    "answers": "to|aux\tand|cc\tto|aux"
+                },
+                {
+                    "question": "How many teams have been predestined to win?",
+                    "score": 0.7896,
+                    "answers": "However|advmod\tamong those four teams|prep\tthose four teams|pobj\tthat However , among those four teams , there is one that seems predestined to win , and one that seems predestined to win is Monterrey|ccomp\tthat seems predestined to win|relcl\tto win|xcomp\tthat seems predestined to win|relcl\tto win|xcomp\tone that seems predestined to win is Monterrey|conj"
+                },
+                {
+                    "question": "How many teams are predestined to win?",
+                    "score": 0.7852,
+                    "answers": "www.eldizque.com reported on 27/11/2017 that However , among those four teams , there is one that seems predestined to win , and one that seems predestined to win is Monterrey|ROOT"
+                },
+                {
+                    "question": "Who is predestined to win?",
+                    "score": 0.7631,
+                    "answers": "predestined to win|oprd\tpredestined to win|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "Here are all the reasons why we believe this:THE NAME OF THE STATEOne of the most monumental works in recent years is the stadium of Monterrey .",
+            "question_answers": [
+                {
+                    "question": "What is the name of the stadium?",
+                    "answer": "Monterrey"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Monterrey's stadium?",
+                    "score": 0.8536,
+                    "answers": "of Monterrey|prep"
+                },
+                {
+                    "question": "What is the size of the Monterrey stadium?",
+                    "score": 0.8254,
+                    "answers": "of the most monumental works in recent years|prep\tthe most monumental works in recent years|pobj"
+                },
+                {
+                    "question": "What is the name of the stadium of Monterrey?",
+                    "score": 0.8018,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 27/11/2017 that Here are all the reasons why we believe this :|ROOT\ton 27/11/2017|prep\t27/11/2017|pobj\tthat|mark\tHere|advmod\tthat Here are all the reasons why we believe this|ccomp\tall|predet\tthe|det\tall the reasons why we believe this|attr\twhy|advmod\twe|nsubj\twhy we believe this|relcl\tthis|dobj\t:|punct\tTHE|det\tTHE|det\tthe|det\tmost|advmod\tmost monumental|amod\tin recent years|prep\trecent|amod\tTHE NAME OF THE STATEOne of the most monumental works in recent years is the stadium of Monterrey|ROOT\tthe|det\tthe stadium of Monterrey|attr"
+                }
+            ]
+        },
+        {
+            "claim": "the stadium of Monterrey is a world-class stadium, with all the luxuries and amenities that any European coliseum would envy the stadium of Monterrey is an imposing work that dazzles anyone, and bears the name BBVA Bancomer.",
+            "question_answers": [
+                {
+                    "question": "What name does the stadium of Monterrey bear?",
+                    "answer": "BBVA Bancomer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the luxuries of the stadium of Monterrey?",
+                    "score": 0.7883,
+                    "answers": "all the luxuries and amenities that any European coliseum would envy|pobj"
+                },
+                {
+                    "question": "What is the size of the Monterrey stadium?",
+                    "score": 0.7694,
+                    "answers": "www.eldizque.com reported on 27/11/2017 that the stadium of Monterrey is a world - class stadium , with all the luxuries and amenities that any European coliseum would envy the stadium of Monterrey is an imposing work that dazzles anyone , and bears the name BBVA Bancomer|ROOT\tthe stadium of Monterrey|nsubj\tof Monterrey|prep\tworld|amod\tworld - class|compound\ta world - class stadium , with all the luxuries and amenities that any European coliseum would envy|attr\tany European coliseum|nsubj\tthat any European coliseum would envy|relcl\tthe stadium of Monterrey|nsubj\tof Monterrey|prep\timposing|amod"
+                }
+            ]
+        },
+        {
+            "claim": "THE Liga MX PATROCINATOR.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 27/11/2017?",
+                    "answer": "Liga MX PATROCINATOR"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the Liga MX?",
+                    "score": 0.7394,
+                    "answers": "Liga|compound"
+                },
+                {
+                    "question": "What is the source of evidence of the Liga MX PATROCINATOR?",
+                    "score": 0.7201,
+                    "answers": "on 27/11/2017|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Liga MX has always had sponsors, those who pay almost everything and for which, the owners of the teams and the Mexican Football Federation live them eternally grateful.",
+            "question_answers": [
+                {
+                    "question": "Who are the sponsors of Liga MX?",
+                    "answer": "owners of the teams and the Mexican Football Federation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many sponsors does Liga MX have?",
+                    "score": 0.8434,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 27/11/2017 that Liga MX has always had sponsors , those who pay almost everything and for which , the owners of the teams and the Mexican Football Federation live them eternally grateful|ROOT\ton 27/11/2017|prep\t27/11/2017|pobj\tthat|mark\tLiga|compound\thas|aux\talways|advmod\tthat Liga MX has always had sponsors , those who pay almost everything and for which , the owners of the teams and the Mexican Football Federation live them eternally grateful|ccomp\tsponsors , those who pay almost everything and for which , the owners of the teams and the Mexican Football Federation live them eternally grateful|dobj\t,|punct\tthose who pay almost everything and for which , the owners of the teams and the Mexican Football Federation live them eternally grateful|appos\twho|nsubj\twho pay almost everything|relcl\talmost|advmod\talmost everything|dobj\tand|cc\tfor which|prep\twhich|pobj\t,|punct\tthe|det\tthe owners of the teams and the Mexican Football Federation|nsubj\tof the teams|prep\tthe|det\tthe teams|pobj\tand|cc\tthe|det\tMexican|compound\tFootball|compound\teternally|advmod"
+                },
+                {
+                    "question": "What is the relationship between the sponsors of Liga MX and the Mexican Football Federation?",
+                    "score": 0.7504,
+                    "answers": "them|dobj\teternally grateful|oprd"
+                }
+            ]
+        },
+        {
+            "claim": "In fact, The Liguilla Apertura  of Mexican football is named after the sponsor: BBVA Bancomer MX League.",
+            "question_answers": [
+                {
+                    "question": "What is the sponsor of the Liguilla Apertura of Mexican football?",
+                    "answer": "BBVA Bancomer MX League"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is the sponsor of the Liguilla Apertura League?",
+                    "score": 0.8186,
+                    "answers": "the sponsor : BBVA Bancomer MX League|pobj"
+                },
+                {
+                    "question": "What is the name of the sponsor of Liguilla Apertura?",
+                    "score": 0.7999,
+                    "answers": "www.eldizque.com|nsubj\ton 27/11/2017|prep\t27/11/2017|pobj\tthat|mark\tIn fact|prep\tfact|pobj\t,|punct\tThe|det\tLiguilla|compound\t  of Mexican football|dep\tis|auxpass\tthe|det\t:|punct"
+                }
+            ]
+        },
+        {
+            "claim": "It will not be for good game, nor for coach, nor for effective system, nor for passionate fondness, nor for being the superleader, nor because in The Liguilla Apertura  of Mexican football Monterrey only lost two games, nor because Monterrey already beat the Tigers -, nor because Monterrey already beat America -, nor because the Tigers qualified by tie - with Leon, nor because America qualified without being able to score goals to the Blue Cross.",
+            "question_answers": [
+                {
+                    "question": "Why did Monterrey lose two games in the Liguilla Apertura of Mexican football?",
+                    "answer": "Monterrey already beat the Tigers"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many games did Monterrey win by tie with Leon?",
+                    "score": 0.7827,
+                    "answers": "because the Tigers qualified by tie - with Leon|conj"
+                }
+            ]
+        },
+        {
+            "claim": "No, gentlemen, it is because of things that we have not realized, and that He has revealed to them.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 27/11/2017 that No, gentlemen, it is because of things that we not realized?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has Trump revealed to the American people?",
+                    "score": 0.8167,
+                    "answers": "them|pobj"
+                },
+                {
+                    "question": "What is the relationship between Trump andldizque?",
+                    "score": 0.6981,
+                    "answers": "27/11/2017|pobj\tthat He has revealed to them|conj"
+                },
+                {
+                    "question": "What are the things that we have not realized?",
+                    "score": 0.6673,
+                    "answers": "things that we have not realized , and that He has revealed to them|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between the Bible and the Christian faith?",
+                    "score": 0.6563,
+                    "answers": "because of things that we have not realized , and that He has revealed to them|prep"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,800 @@
+{
+    "id": "Sociedad_90",
+    "claim": "Neighbors have taken to the streets to protest the crime, to demand justice and to take action against a group of minors who fear the municipality. Ivan was beaten to death after he reprimanded a minor who painted a painting near his house. A 39-year-old man died this Sunday in the hospital of La Princesa in Madrid after being assaulted last Friday in Velilla de San Antonio (Madrid) by a group of young people and minors. The Rivas Civil Guard Judicial Police group has taken charge of the investigations and, for the time being, there are no detainees. The crime has unleashed a great indignation in the municipality and the neighbors went out on Saturday and Sunday to demonstrate peacefully calling for justice and security. The murdered man is Ivan Vaquero Sanz, a dear neighbor in the village, since his family is one of the best known in the village. According to the first inquiries, last Friday evening, he caught the attention of a young man who painted a painting on a wall near his house. The boy confronted Ivan and threatened him. The individual left to look for his friends, according to several people. The alleged assailants immediately showed up at the scene and, after a small quarrel, began beating and assaulting Ivan. The man received several kicks and blows to the head and lay on the ground. He was transferred to the Princess Hospital in very serious condition. At the medical center he went into a coma and finally died on Sunday. The City of Velilla has issued a statement in which 'it expresses the strongest condemnation of the aggression suffered by a neighbour of our town, whose grave consequences have caused his death, and conveys support, solidarity and affection to the family and friends of the mortal victim '. Monday 16 November was held at 12 p.m. 00 a concentration to condemn the crime. Several of Ivan's relatives have come to the event with a sign.'Justice for Ivan, we want you small\". The mayor of Velilla, Antonia Alcázar, told the Ser chain that Velilla is'a quiet town 'but a couple of months ago 'a bunch of kids were carrying out bicycle and mobile thefts and carrying out aggressions and terrorizing people'. Precisely, it is investigated whether the same murderers of Ivan could attack a Chinese merchant from the municipality who was assaulted in his business two weeks ago. Velilla's neighbors soon learned of the aggression and called for a peaceful demonstration in support of Ivan last Saturday afternoon. On Sunday they returned to the streets of the municipality asking for more security and demanding measures against a group of minors and young people who are altering the coexistence of the municipality with their robberies and assaults. There was also a rally on Saturday night at the fairground where residents did not stop playing the horn. Several people have shown signs demanding a safe people and others have rebuked the socialist government team for not having acted against this gang of gang members before. Several neighbors have explained that, among Ivan's aggressors, there are minors and that at least one of them has been able to leave the municipality knowing that he was wanted by the Civil Guard. 'Investigations are well advanced and the first arrests could take place in the next few hours ', police sources have pointed out. Velilla de San Antonio is a municipality of 13. 000 inhabitants located in the east of the region and about 20 kilometres from the capital. I'm sorry.",
+    "source": "www.mediterraneodigital.com",
+    "date": "16/11/2020",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "his house have taken to the streets to protest the crime , to demand justice and to take action against a group of minors who fear the municipality a Chinese merchant from the municipality who was assaulted in his business two weeks ago .",
+            "question_answers": [
+                {
+                    "question": "What did www.mediterraneodigital.com say his house took to the streets to do?",
+                    "answer": "protest the crime"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many minors were assaulted in the municipality two weeks ago?",
+                    "score": 0.5591,
+                    "answers": "to demand justice and to take action against a group of minors who fear the municipality a Chinese merchant from the municipality who was assaulted in his business two weeks ago|conj\tto take action against a group of minors who fear the municipality a Chinese merchant from the municipality who was assaulted in his business two weeks ago|conj"
+                },
+                {
+                    "question": "How many minors have been arrested in the municipality of Mediterraneodigital.com?",
+                    "score": 0.5528,
+                    "answers": "against a group of minors who fear the municipality a Chinese merchant from the municipality who was assaulted in his business two weeks ago|prep"
+                },
+                {
+                    "question": "Who was assaulted in his business two weeks ago?",
+                    "score": 0.4862,
+                    "answers": "who was assaulted in his business two weeks ago|relcl"
+                },
+                {
+                    "question": "What is the name of the group of minors who fear the municipality?",
+                    "score": 0.4233,
+                    "answers": "of minors who fear the municipality|prep\tminors who fear the municipality|pobj\twho fear the municipality|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "He to death after Ivan reprimanded He a minor who painted a painting near his house .",
+            "question_answers": [
+                {
+                    "question": "When did www.mediterraneodigital.com report that He to death after Ivan reprimanded He?",
+                    "answer": "16/11/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Ivan reprimand a minor who painted a painting near his house?",
+                    "score": 0.7833,
+                    "answers": "after Ivan reprimanded|advcl\this house|pobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.5739,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The City of Velilla last Friday in Velilla de San Antonio (Madrid) by a group of minors who fear the municipality his house .",
+            "question_answers": [
+                {
+                    "question": "Where is Velilla located?",
+                    "answer": "Velilla de San Antonio"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many minors were in the city of Velilla last Friday in Velilla de San Antonio?",
+                    "score": 0.6996,
+                    "answers": "who fear the municipality his house|relcl"
+                },
+                {
+                    "question": "What is the name of the group that attacked the mayor of Velilla last Friday?",
+                    "score": 0.5834,
+                    "answers": "of minors who fear the municipality his house|prep\tminors who fear the municipality his house|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "his house Rivas Civil Guard Judicial Police group has taken charge of the investigations The City of Velilla , the aggression suffered by a neighbour of our town, whose grave consequences have caused his death no detainees.",
+            "question_answers": [
+                {
+                    "question": "Where did the Rivas Civil Guard Judicial Police group take charge of investigations?",
+                    "answer": "The City of Velilla"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Rivas Civil Guard Judicial Police group do?",
+                    "score": 0.5948,
+                    "answers": "his house Rivas Civil Guard Judicial Police group|nsubj"
+                },
+                {
+                    "question": "What did a neighbor of Velilla do to cause his death?",
+                    "score": 0.5706,
+                    "answers": "suffered by a neighbour of our town , whose grave consequences have caused his death no detainees|acl"
+                },
+                {
+                    "question": "How many detainees were killed in The City of Velilla in 2020?",
+                    "score": 0.5431,
+                    "answers": "whose grave consequences have caused his death no detainees|relcl\this death no detainees|dobj"
+                },
+                {
+                    "question": "What was the crime committed by a neighbour of Velilla?",
+                    "score": 0.5312,
+                    "answers": "of Velilla|prep"
+                },
+                {
+                    "question": "What was the cause of death of the person who committed the act of aggression?",
+                    "score": 0.5048,
+                    "answers": "grave|amod"
+                }
+            ]
+        },
+        {
+            "claim": "the crime has unleashed a great his house in his house the municipality and the He went out on Saturday and this Sunday to demonstrate peacefully calling for justice and security.",
+            "question_answers": [
+                {
+                    "question": "Why did he go out?",
+                    "answer": "to demonstrate peacefully calling for justice and security"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What crime has unleashed a great house in his house?",
+                    "score": 0.7376,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that the crime has unleashed a great his house in his house the municipality and|ROOT\ton 16/11/2020|prep\tthat|mark\tthe|det\tthat the crime has unleashed a great his house in his house the municipality and|ccomp\ta great his house in his house the municipality and|dobj\tthe|det\tthe|dep"
+                },
+                {
+                    "question": "Where was the crime carried out?",
+                    "score": 0.6727,
+                    "answers": "his house the municipality and|pobj"
+                },
+                {
+                    "question": "What does Mediterraneodigital.com say about the crime?",
+                    "score": 0.6642,
+                    "answers": "justice and security|pobj"
+                },
+                {
+                    "question": "What was the crime committed by Jacob Zuma on Saturday and Sunday?",
+                    "score": 0.6349,
+                    "answers": "the crime|nsubj"
+                },
+                {
+                    "question": "What does Mediterraneodigital.com stand for?",
+                    "score": 0.5347,
+                    "answers": "for justice and security|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Ivan is Ivan Vaquero Sanz, a dear neighbor in Velilla de San Antonio (Madrid) , since family is one of the best known in Velilla de San Antonio (Madrid) .",
+            "question_answers": [
+                {
+                    "question": "Where is Ivan Vaquero Sanz a dear neighbor?",
+                    "answer": "Velilla de San Antonio (Madrid)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is Ivan Vaquero Sanz's neighbors in Velilla de San Antonio?",
+                    "score": 0.6815,
+                    "answers": "a dear neighbor in Velilla de San Antonio ( Madrid )|appos"
+                },
+                {
+                    "question": "Where is the family of Ivan Vaquero Sanz from?",
+                    "score": 0.68,
+                    "answers": "in Velilla de San Antonio ( Madrid )|prep\tin Velilla de San Antonio ( Madrid )|prep"
+                },
+                {
+                    "question": "What is the name of Antonio de San Antonio (Madrid)?",
+                    "score": 0.5838,
+                    "answers": "Velilla|compound\tVelilla|compound"
+                }
+            ]
+        },
+        {
+            "claim": "According to the first inquiries, last Friday his house , Ivan caught Several of Ivan's relatives .",
+            "question_answers": [
+                {
+                    "question": "Where did Ivan's relatives live?",
+                    "answer": "his house"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who were the relatives of Ivan's relatives?",
+                    "score": 0.7992,
+                    "answers": "that According to the first inquiries , last Friday his house , Ivan caught Several of Ivan 's relatives|ccomp\tSeveral of Ivan 's relatives|dobj\tof Ivan 's relatives|prep\tIvan 's relatives|pobj"
+                },
+                {
+                    "question": "What was the name of the house where Ivan caught several of his relatives?",
+                    "score": 0.7302,
+                    "answers": "on 16/11/2020|prep\tthat|mark\tAccording to the first inquiries|prep\tthe|det\t,|punct\tlast|amod\this|poss\this house|dep\t,|punct\tIvan 's|poss\t's|case"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.6463,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Several of Ivan's relatives confronted Sunday Ivan .",
+            "question_answers": [
+                {
+                    "question": "On what day did a group of Ivan's relatives confront Ivan?",
+                    "answer": "Sunday"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many of the relatives that faced Sunday Ivan?",
+                    "score": 0.6703,
+                    "answers": "of Ivan 's relatives|prep"
+                },
+                {
+                    "question": "Who are the relatives of  Sunday Ivan?",
+                    "score": 0.6455,
+                    "answers": "Several of Ivan 's relatives|nsubj\tIvan 's relatives|pobj"
+                },
+                {
+                    "question": "What was the relationship between Ivan and Sunday Ivan?",
+                    "score": 0.6368,
+                    "answers": "16/11/2020|pobj\tthat Several of Ivan 's relatives confronted Sunday Ivan|ccomp"
+                },
+                {
+                    "question": "Who is Sunday Ivan?",
+                    "score": 0.6061,
+                    "answers": "Sunday Ivan|dobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.5396,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Ivan The City of Velilla to look for friends, according to several people.",
+            "question_answers": [
+                {
+                    "question": "When did www.mediterraneodigital.com report that Ivan The City of Velilla to look for friends?",
+                    "answer": "16/11/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many friends does Ivan The City of Velilla have?",
+                    "score": 0.7559,
+                    "answers": "to|aux\tfriends|pobj"
+                },
+                {
+                    "question": "What is the name of the city of Velilla?",
+                    "score": 0.5416,
+                    "answers": "Ivan The City of Velilla|nsubj\tVelilla|pobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.4396,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "his house a group of minors who fear the municipality immediately a Chinese merchant from the municipality who was assaulted in his business two weeks ago up at the scene and, after He began beating and assaulting Ivan .",
+            "question_answers": [
+                {
+                    "question": "How long ago was Ivan assaulted?",
+                    "answer": "two weeks ago"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who attacked and assaulted Ivan in his business two weeks ago?",
+                    "score": 0.5455,
+                    "answers": "and|cc\tHe|nsubj\tand|cc"
+                },
+                {
+                    "question": "What was the name of the Chinese merchant who attacked and assaulted Ivan?",
+                    "score": 0.5173,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that his house a group of minors who fear the municipality immediately a Chinese merchant from the municipality who was assaulted in his business two weeks ago up at the scene and , after He began beating and assaulting Ivan|ROOT\tthat his house a group of minors who fear the municipality immediately a Chinese merchant from the municipality who was assaulted in his business two weeks ago up at the scene and , after He began beating and assaulting Ivan|ccomp\ta Chinese merchant from the municipality who was assaulted in his business two weeks ago up at the scene and , after He began beating and assaulting Ivan|appos\this business|pobj\ttwo weeks|npadvmod\tat the scene|prep\tthe scene|pobj\tafter|mark\tafter He began beating and assaulting Ivan|advcl\tbeating and assaulting Ivan|xcomp\tassaulting Ivan|conj"
+                },
+                {
+                    "question": "What are the names of the minors who fear the municipality immediately?",
+                    "score": 0.501,
+                    "answers": "minors who fear the municipality immediately|pobj\twho fear the municipality immediately|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "Ivan received several Velilla's neighbors .",
+            "question_answers": [
+                {
+                    "question": "Who did Ivan get to know from Velilla?",
+                    "answer": "Velilla's neighbors"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many neighbors did Ivan receive?",
+                    "score": 0.7939,
+                    "answers": "that Ivan received several Velilla 's neighbors|ccomp"
+                },
+                {
+                    "question": "Who are the neighbors of Velilla's neighbors?",
+                    "score": 0.6912,
+                    "answers": "Velilla 's|poss\tseveral Velilla 's neighbors|dobj"
+                },
+                {
+                    "question": "What is the relationship between Ivan and Velilla's neighbors?",
+                    "score": 0.6742,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that Ivan received several Velilla 's neighbors|ROOT\t16/11/2020|pobj\tthat|mark\tseveral|amod\t's|case"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.5234,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Velilla's neighbors .",
+            "question_answers": [
+                {
+                    "question": "Who are Velilla's neighbors?",
+                    "answer": "Velilla's neighbors"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who are the neighbors of Velilla's neighbors?",
+                    "score": 0.7615,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that Velilla 's neighbors|ROOT\t's|case\tthat Velilla 's neighbors|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of Velilla's neighbors?",
+                    "score": 0.7131,
+                    "answers": "on 16/11/2020|prep\t16/11/2020|pobj\tthat|mark"
+                },
+                {
+                    "question": "Who is Velilla's neighbors?",
+                    "score": 0.6825,
+                    "answers": "Velilla 's|poss"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.523,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "At the medical center he went into a coma and finally died on Sunday.",
+            "question_answers": [
+                {
+                    "question": "What was the cause of his death?",
+                    "answer": "At the medical center he went into a coma"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Dr. George Flinn die?",
+                    "score": 0.8142,
+                    "answers": "on Sunday|prep"
+                },
+                {
+                    "question": "Did Mediterraneodigital.com report a death on Sunday?",
+                    "score": 0.7887,
+                    "answers": "and|cc"
+                },
+                {
+                    "question": "What did Mediterraneodigital.com say about the cause of death?",
+                    "score": 0.67,
+                    "answers": "that|mark\tthe|det\tfinally|advmod"
+                },
+                {
+                    "question": "What was the cause of death on Sunday?",
+                    "score": 0.6515,
+                    "answers": "finally died on Sunday|conj"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.5541,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The City of Velilla has issued a statement in which 'it expresses the strongest condemnation of the aggression suffered by a neighbour of our town, whose grave consequences have caused his death, and conveys support, solidarity and affection to the family and friends of the mortal victim '.",
+            "question_answers": [
+                {
+                    "question": "Who did the City of Velilla send support to?",
+                    "answer": "the family and friends of the mortal victim"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the City of Velilla say about condemning the aggression suffered by a neighbour of our town?",
+                    "score": 0.7376,
+                    "answers": "that The City of Velilla has issued a statement in which ' it expresses the strongest condemnation of the aggression suffered by a neighbour of our town , whose grave consequences have caused his death , and conveys support , solidarity and affection to the family and friends of the mortal victim|ccomp"
+                },
+                {
+                    "question": "What is the relationship between the city of Velilla and a neighboring town?",
+                    "score": 0.5589,
+                    "answers": "of the aggression suffered by a neighbour of our town , whose grave consequences have caused his death|prep\tthe aggression suffered by a neighbour of our town , whose grave consequences have caused his death|pobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.4667,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Monday 16 November was held at 12 p.m. 00 a concentration to condemn the crime.",
+            "question_answers": [
+                {
+                    "question": "What time was the concentration held on Monday 16 November?",
+                    "answer": "12 p.m."
+                },
+                {
+                    "question": "What was held on Monday 16 November to condemn the crime?",
+                    "answer": "concentration"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What crimes were committed on Monday 16 November?",
+                    "score": 0.8412,
+                    "answers": "on 16/11/2020|prep\tthe crime|dobj"
+                },
+                {
+                    "question": "What did Mediterraneodigital.com do to condemn the crime?",
+                    "score": 0.7708,
+                    "answers": "to condemn the crime|advcl"
+                },
+                {
+                    "question": "What was the purpose of the meeting on November 16,2020?",
+                    "score": 0.7282,
+                    "answers": "16/11/2020|pobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.6147,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Several of Ivan's relatives have come to the event with a sign.",
+            "question_answers": [
+                {
+                    "question": "Who came to the event with a sign?",
+                    "answer": "Several of Ivan's relatives"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many of the relatives of Ivan's relatives came to the event with a sign?",
+                    "score": 0.8123,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that Several of Ivan 's relatives have come to the event with a sign|ROOT\tSeveral of Ivan 's relatives|nsubj\tIvan 's relatives|pobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital?",
+                    "score": 0.644,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'Justice for Ivan, we want you small\".",
+            "question_answers": [
+                {
+                    "question": "When did www.mediterraneodigital.com report that \"Justice for Ivan, we want you small\"?",
+                    "answer": "16/11/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Mediterraneodigital.com say about justice for Ivan?",
+                    "score": 0.7286,
+                    "answers": "on 16/11/2020|prep\t16/11/2020|pobj\tthat|mark\t'|punct\t,|punct\twe|nsubj\tyou|nsubj\t\"|punct"
+                },
+                {
+                    "question": "What is Justice for Ivan?",
+                    "score": 0.7161,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that ' Justice for Ivan , we want you small \"|ROOT\tJustice for Ivan|npadvmod\tthat ' Justice for Ivan , we want you small|ccomp\tyou small|ccomp"
+                },
+                {
+                    "question": "What is the meaning of justice for Ivan?",
+                    "score": 0.7153,
+                    "answers": "for Ivan|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The mayor of Velilla, Antonia Alcázar, told the Ser chain that Velilla is'a quiet town 'but a couple of months ago 'a bunch of kids were carrying out bicycle and mobile thefts and carrying out aggressions and terrorizing people'.",
+            "question_answers": [
+                {
+                    "question": "When did the mayor of Velilla tell the Ser chain that 'a bunch of kids were carrying out bicycle and mobile thefts and carrying out aggressions and terrorizing people'?",
+                    "answer": "a couple of months ago"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Antonia Alcázar say about Velilla's quiet town?",
+                    "score": 0.6426,
+                    "answers": "the Ser chain|dobj\tmonths|pobj"
+                },
+                {
+                    "question": "What type of thefts have been carried out in Velilla?",
+                    "score": 0.6413,
+                    "answers": "mobile|conj"
+                },
+                {
+                    "question": "What is the crime rate in Velilla?",
+                    "score": 0.5985,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that The mayor of Velilla , Antonia Alcázar , told the Ser chain that Velilla is'a quiet town ' but a couple of months ago ' a bunch of kids were carrying out bicycle and mobile thefts and carrying out aggressions and terrorizing people '|ROOT\ton 16/11/2020|prep\t16/11/2020|pobj\tthat|mark\tThe|det\tof Velilla|prep\t,|punct\tAntonia|compound\t,|punct\tthat The mayor of Velilla , Antonia Alcázar , told the Ser chain that Velilla is'a quiet town ' but a couple of months ago ' a bunch of kids were carrying out bicycle and mobile thefts and carrying out aggressions and terrorizing people '|ccomp\tthe|det\tthat|mark\tthat Velilla is'a quiet town ' but a couple of months ago ' a bunch of kids were carrying out bicycle and mobile thefts and carrying out aggressions and terrorizing people '|ccomp\tquiet|amod\tquiet town|attr\t'|punct\tbut|cc\ta|det\ta couple of months|npadvmod\tof months|prep\t'|punct\ta|det\ta bunch of kids|nsubj\tof kids|prep\tkids|pobj\twere|aux\ta couple of months ago ' a bunch of kids were carrying out bicycle and mobile thefts and carrying out aggressions and terrorizing people '|conj\tout|prt\tbicycle and mobile|nmod\tand|cc\tbicycle and mobile thefts|dobj\tand|cc\tcarrying out aggressions and terrorizing people|conj\tout|prt\taggressions|dobj\tand|cc\tterrorizing people|conj\tpeople|dobj\t'|punct"
+                },
+                {
+                    "question": "Who is the mayor of Velilla?",
+                    "score": 0.5361,
+                    "answers": "The mayor of Velilla , Antonia Alcázar ,|nsubj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.4433,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Precisely, it is investigated whether the same murderers of Ivan could attack a Chinese merchant from the municipality who was assaulted in his business two weeks ago.",
+            "question_answers": [
+                {
+                    "question": "Who was attacked by the murderers of Ivan?",
+                    "answer": "a Chinese merchant from the municipality who was assaulted in his business two weeks ago"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who were the murderers of Ivan?",
+                    "score": 0.7421,
+                    "answers": "the same murderers of Ivan|nsubj"
+                },
+                {
+                    "question": "What is the evidence of the murderers of Ivan attacking a Chinese merchant from the municipality?",
+                    "score": 0.7011,
+                    "answers": "whether the same murderers of Ivan could attack a Chinese merchant from the municipality who was assaulted in his business two weeks ago|ccomp"
+                },
+                {
+                    "question": "What was the name of the Chinese merchant who was assaulted in his business two weeks ago?",
+                    "score": 0.6074,
+                    "answers": "a Chinese merchant from the municipality who was assaulted in his business two weeks ago|dobj"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.4999,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Velilla's neighbors soon learned of the aggression and called for a peaceful demonstration in support of Ivan last Saturday afternoon.",
+            "question_answers": [
+                {
+                    "question": "What did Velilla's neighbors call for?",
+                    "answer": "peaceful demonstration in support of Ivan"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Velilla's neighbors say about the attack?",
+                    "score": 0.7125,
+                    "answers": "on 16/11/2020|prep\tthat|mark\tVelilla 's|poss\tVelilla 's neighbors|nsubj\tsoon|advmod\tthat Velilla 's neighbors soon learned of the aggression and called for a peaceful demonstration in support of Ivan last Saturday afternoon|ccomp\tthe|det\tand|cc\ta|det"
+                },
+                {
+                    "question": "What was the date of the demonstration in support of Ivan last Saturday afternoon?",
+                    "score": 0.6397,
+                    "answers": "Saturday|compound"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.4963,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "On Sunday they returned to the streets of the municipality asking for more security and demanding measures against a group of minors and young people who are altering the coexistence of the municipality with their robberies and assaults.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/11/2020 that they returned to the streets of the municipality asking for more security and demanding measures against a group of minors and young people?",
+                    "answer": "www.mediterraneodigital.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What measures were taken against a group of minors and young people?",
+                    "score": 0.6995,
+                    "answers": "are|aux"
+                },
+                {
+                    "question": "What was the crime rate on Sunday in Bern?",
+                    "score": 0.6862,
+                    "answers": "assaults|conj"
+                },
+                {
+                    "question": "How many robberies and assaults were there on Sunday in the municipality?",
+                    "score": 0.6489,
+                    "answers": "with their robberies and assaults|prep"
+                },
+                {
+                    "question": "How many minors and young people were involved in the robberies and assaults?",
+                    "score": 0.6269,
+                    "answers": "of minors and young people|prep"
+                },
+                {
+                    "question": "What is the crime rate in the municipality?",
+                    "score": 0.6142,
+                    "answers": "against a group of minors and young people who are altering the coexistence of the municipality with their robberies and assaults|prep\twho are altering the coexistence of the municipality with their robberies and assaults|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "There was also a rally on Saturday night at the fairground where residents did not stop playing the horn.",
+            "question_answers": [
+                {
+                    "question": "Where was the rally held?",
+                    "answer": "fairground"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was the rally held?",
+                    "score": 0.7771,
+                    "answers": "where|advmod"
+                },
+                {
+                    "question": "How many people played the horn at the fairground in 2020?",
+                    "score": 0.7316,
+                    "answers": "where residents did not stop playing the horn|relcl"
+                },
+                {
+                    "question": "How many people attended the rally on Saturday night at the fairground?",
+                    "score": 0.7247,
+                    "answers": "on Saturday night|prep\tthe|det\tresidents|nsubj\tdid|aux\tthe|det"
+                },
+                {
+                    "question": "What was the purpose of the rally at the fairground?",
+                    "score": 0.7192,
+                    "answers": "at the fairground where residents did not stop playing the horn|prep"
+                },
+                {
+                    "question": "What was the name of the rally that took place at the fairground?",
+                    "score": 0.6644,
+                    "answers": "not|neg"
+                }
+            ]
+        },
+        {
+            "claim": "Several people have shown signs demanding a safe people and others have rebuked the socialist government team for not having acted against this gang of gang members before.",
+            "question_answers": [
+                {
+                    "question": "What have some people shown signs demanding?",
+                    "answer": "a safe people and others have rebuked the socialist government team for not having acted against this gang of gang members"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the socialist government team act against gang members?",
+                    "score": 0.8575,
+                    "answers": "for not having acted against this gang of gang members before|prep\tnot having acted against this gang of gang members before|pcomp"
+                },
+                {
+                    "question": "What was the gang affiliation before the gang members were gang members?",
+                    "score": 0.7577,
+                    "answers": "before|advmod"
+                },
+                {
+                    "question": "How many gang members are there?",
+                    "score": 0.7551,
+                    "answers": "gang members|pobj"
+                },
+                {
+                    "question": "What is the gang affiliation of the gang members?",
+                    "score": 0.7013,
+                    "answers": "this gang of gang members|pobj"
+                },
+                {
+                    "question": "How many people showed signs demanding a safe people?",
+                    "score": 0.6814,
+                    "answers": "that Several people have shown signs demanding a safe people and others have rebuked the socialist government team for not having acted against this gang of gang members before|ccomp\tsafe|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Several neighbors have explained that, among Ivan's aggressors, there are minors and that at least one of them has been able to leave the municipality knowing that he was wanted by the Civil Guard.",
+            "question_answers": [
+                {
+                    "question": "When did www.mediterraneodigital.com report that Several neighbors explained that there were minors among Ivan's aggressors?",
+                    "answer": "16/11/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Civil Guard say about the arrest of the minors?",
+                    "score": 0.7447,
+                    "answers": "that he was wanted by the Civil Guard|ccomp"
+                },
+                {
+                    "question": "How many minors were in the municipality knowing that he was wanted by the Civil Guard?",
+                    "score": 0.6595,
+                    "answers": "there|expl\tCivil|compound"
+                },
+                {
+                    "question": "What is the relationship between the minors and the Civil Guard?",
+                    "score": 0.571,
+                    "answers": "on 16/11/2020|prep\t16/11/2020|pobj\tthat|mark\tSeveral neighbors|nsubj\tthat|mark\t,|punct\t's|case\t,|punct\tminors|attr\tand|cc\tthat|mark\tat|advmod\tthem|pobj\tthe|det\tthat|mark\the|nsubjpass\twas|auxpass\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'Investigations are well advanced and the first arrests could take place in the next few hours ', police sources have pointed out.",
+            "question_answers": [
+                {
+                    "question": "When could the first arrests take place?",
+                    "answer": "in the next few hours"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many arrests took place in the next few hours?",
+                    "score": 0.7874,
+                    "answers": "on 16/11/2020|prep\tthe first arrests|nsubj"
+                },
+                {
+                    "question": "How many arrests were made in the first few hours of 2020?",
+                    "score": 0.7869,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that ' Investigations are well advanced and the first arrests could take place in the next few hours|ccomp"
+                },
+                {
+                    "question": "What is Mediterraneodigital.com?",
+                    "score": 0.595,
+                    "answers": "www.mediterraneodigital.com|nsubj\t'|punct\twell|advmod\tand|cc\t'|punct\t,|punct\tpolice|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Velilla de San Antonio is a municipality of 13.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the municipality that has a population of 13?",
+                    "answer": "Velilla de San Antonio"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where is Velilla de San Antonio located?",
+                    "score": 0.7195,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that Velilla de San Antonio is a municipality of 13|ROOT\ton 16/11/2020|prep\t16/11/2020|pobj\tthat|mark\tVelilla|compound\tde|compound\tSan|compound\tthat Velilla de San Antonio is a municipality of 13|ccomp\ta|det\ta municipality of 13|attr\tof 13|prep"
+                },
+                {
+                    "question": "What is the name of the municipality of Velilla de San Antonio?",
+                    "score": 0.6406,
+                    "answers": "www.mediterraneodigital.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "000 inhabitants located in the east of the region and about 20 kilometres from the capital.",
+            "question_answers": [
+                {
+                    "question": "How far is the capital from the east of the region?",
+                    "answer": "20 kilometres"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people live in the east of the region?",
+                    "score": 0.8092,
+                    "answers": "that 000 inhabitants|nsubj\tthat 000 inhabitants located in the east of the region and about 20 kilometres from the capital|ccomp\tthe region|pobj\tabout 20|nummod\tthe capital|pobj"
+                },
+                {
+                    "question": "Where is Mediterraneodigital located?",
+                    "score": 0.771,
+                    "answers": "www.mediterraneodigital.com|nsubj\tthe east of the region and about 20 kilometres from the capital|pobj\tof the region|prep"
+                },
+                {
+                    "question": "Where is Mediterraneodigital.com located?",
+                    "score": 0.7378,
+                    "answers": "www.mediterraneodigital.com reported on 16/11/2020 that 000 inhabitants located in the east of the region and about 20 kilometres from the capital|ROOT\ton 16/11/2020|prep\tthat|mark\tin the east of the region and about 20 kilometres from the capital|prep\tthe|det\tthe|det\tand|cc\tabout|advmod\tabout 20 kilometres from the capital|conj\tfrom the capital|prep\tthe|det"
+                }
+            ]
+        }
+    ]
+}

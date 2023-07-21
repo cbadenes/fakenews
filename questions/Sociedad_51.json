@@ -1,0 +1,665 @@
+{
+    "id": "Sociedad_51",
+    "claim": "The 265 immigrants recently rescued by the Spanish humanitarian ship Open Arms have obtained permission to disembark in the Sicilian port of Porto Empedocle, after four days of waiting outside on the deck of the boat. In the midst of the cold and worsening sea conditions, and following the rejection of the Maltese authorities, Italy offered a safe place for disembarkation. Some migrants will spend a quarantine period on another vessel authorized by the Italian authorities and others, in a ground-based centre. The transfer of the rest of the passage to the ship authorized by the Italian authorities for quarantine will take place this Tuesday. The Open Arms of the NGO of the same name, the only humanitarian ship operating these days in the Central Mediterranean, rescued 169 people on 31 December and another 96 on 2 January. They had all departed from the Libyan coasts. Among the bran are at least 63 minors, six very young and another 40 unaccompanied, in addition to a nine-month-old pregnant woman. In the last hours, the ship had approached the waters of the island of Lampedusa in order to escape the storm that struck the ship on the high seas. This is one of the first landings that has taken place in Italy since the adoption of the new law with which the government intends to leave behind the stage of closed ports of the ultra-right Matteo Salvini, who as Minister of the Interior imposed the rejection of those rescued by humanitarian organizations and a drastic reduction of asylum and reception. On December 18, the Senate gave the final green light to dismantle the controversial anti-immigration laws, known as Salvini Decrees, and replaced them with a new regulation that, among other things, expands the international protection of foreigners arriving in the country, and regulates rescues at sea. Eliminates the million-dollar fines for NGOs that save migrants in the Mediterranean, although it establishes penalties of up to 50. EUR 000 for humanitarian organisations in certain cases of violations of the rules on smuggling of migrants by sea. It also cuts the powers of the Ministry of the Interior to act alone in migration matters. From now on, Interior will be able to veto the entry into territorial waters of rescue ships only if it acts in agreement with the Departments of Defense and Transport, and with the approval of the Prime Minister. Open Arms values this legislative reform as “a step forward,” but warns: “There has not been a drastic change of perspective regarding the work of humanitarian ships. The approach that questions the work of the NGOs is maintained and, despite the modifications, the ships of the humanitarian organizations are blocked under other pretexts, such as administrative inspections”, says a spokesman of the organization in Italy. He adds: “It is a European issue, the rest of the states do not assume their responsibility to establish an articulated system of search, rescue and distribution of migrants and coastal countries are alone and try to prevent landings.”. In the first four days of the year, according to the information of the Ministry of the Interior, 165 immigrants have arrived in Italy through the sea, not counting those rescued by the Open Arms. In 2020, they arrived in Italy 34. 000 migrants, nearly three times as many as in the previous year. In total, last year they arrived in Europe 94. 000 persons, of whom 85. 000 did so by sea, according to data from the International Organization for Migration, and more than 3. 000 died in the waters of the Mediterranean. The Italian Government has urged the European Union this year, as it has already done in the past, to implement a joint management plan for Mediterranean waters. With the immigration pact pending approval, Foreign Minister Luigi Di Maio of the 5 Star Movement has called on the European Commission to show courage to approve a “common response” to the migration issue and to stop remaining “mobile” while thousands of people flee their countries of origin and try to reach Europe. I'm sorry.",
+    "source": "elpais.com",
+    "date": "04/01/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "the Italian authorities Italy port of Porto Italy , the controversial anti-immigration laws, known as Salvini Decrees .",
+            "question_answers": [
+                {
+                    "question": "What was the name of the port that was the subject of the anti-immigration laws?",
+                    "answer": "port of Porto Italy"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the anti-immigration laws known as Salvini Decrees?",
+                    "score": 0.7097,
+                    "answers": "elpais.com reported on 04/01/2021 that the Italian authorities Italy port of Porto Italy , the controversial anti - immigration laws , known as Salvini Decrees|ROOT\ton 04/01/2021|prep\tthat|mark\tthe|det\tthat the Italian authorities Italy port of Porto Italy , the controversial anti - immigration laws , known as Salvini Decrees|ccomp\tItaly port of Porto Italy|appos\tof Porto Italy|prep\t, the|det\timmigration|amod\tknown as Salvini Decrees|acl\tas Salvini Decrees|prep\tSalvini|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the controversial anti-immigration laws, known as Salvini Decrees the Maltese authorities, The 265 immigrants recently rescued by the Spanish humanitarian ship Open Arms offered a safe place for disembarkation.",
+            "question_answers": [
+                {
+                    "question": "What are the controversial anti-immigration laws known as?",
+                    "answer": "Salvini Decrees"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many immigrants were rescued by the Spanish humanitarian ship Open Arms?",
+                    "score": 0.6869,
+                    "answers": "on 04/01/2021|prep\tthat|mark\tthe|det\t-|amod\timmigration|amod\t,|punct\tas Salvini Decrees the Maltese authorities|prep\tSalvini Decrees the Maltese authorities|pobj\tthe|det\tthe Maltese authorities|dobj\t,|punct\tThe|det\trecently|advmod\tthe|det\tOpen|compound\ta|det\tsafe|amod\ta safe place for disembarkation|dobj\tdisembarkation|pobj"
+                },
+                {
+                    "question": "What are the anti-immigration laws known as Salvini?",
+                    "score": 0.6253,
+                    "answers": "controversial|amod\tanti|amod\tthe controversial anti - immigration laws , known as Salvini Decrees the Maltese authorities ,|nsubj\tknown as Salvini Decrees the Maltese authorities|acl\tSalvini|compound"
+                }
+            ]
+        },
+        {
+            "claim": "Some migrants will spend the controversial anti-immigration laws, known as Salvini Decrees quarantine period on another vessel authorized by the Italian authorities and others, in a ground-based centre.",
+            "question_answers": [
+                {
+                    "question": "Who reported that some migrants will spend the anti-immigration laws on another vessel?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many migrants will spend the controversial anti-immigration laws?",
+                    "score": 0.6908,
+                    "answers": "that Some migrants will spend the controversial anti - immigration laws , known as Salvini Decrees quarantine period on another vessel authorized by the Italian authorities and others , in a ground - based centre|ccomp"
+                },
+                {
+                    "question": "What did the Italian authorities say about the Salvini Decrees quarantine period?",
+                    "score": 0.6451,
+                    "answers": "by the Italian authorities and others|agent"
+                },
+                {
+                    "question": "What are the anti-immigration laws?",
+                    "score": 0.5929,
+                    "answers": "elpais.com reported on 04/01/2021 that Some migrants will spend the controversial anti - immigration laws , known as Salvini Decrees quarantine period on another vessel authorized by the Italian authorities and others , in a ground - based centre|ROOT\tcontroversial|amod\tanti|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The transfer of the rest of the passage the controversial anti-immigration laws, known as Salvini Decrees another vessel authorized by the Italian authorities a new regulation that, among other things, expands the international protection of foreigners arriving in the country, and regulates rescues at sea will take place this Tuesday.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/01/2021 that the transfer of the rest of the passage the controversial anti-immigration laws, known as Salvini Decrees?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Italian authorities say about the transfer of the rest of the passage of the controversial anti-immigration laws?",
+                    "score": 0.5967,
+                    "answers": "controversial|amod\tby the Italian authorities|agent\tthe Italian authorities|pobj\tother things|pobj\tat sea|prep"
+                },
+                {
+                    "question": "What are the anti-immigration laws known as Salvini Decrees?",
+                    "score": 0.5838,
+                    "answers": "anti|amod"
+                },
+                {
+                    "question": "What is the name of the vessel that the Italian authorities transferred to?",
+                    "score": 0.5284,
+                    "answers": "as Salvini Decrees another vessel authorized by the Italian authorities a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|prep\tSalvini Decrees another vessel authorized by the Italian authorities a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|pobj"
+                },
+                {
+                    "question": "What are the international protection laws for foreign nationals arriving in the country?",
+                    "score": 0.5126,
+                    "answers": "the international protection of foreigners arriving in the country|dobj"
+                },
+                {
+                    "question": "What is the purpose of the Salvini Decrees?",
+                    "score": 0.5012,
+                    "answers": "on 04/01/2021|prep\tof the rest of the passage the controversial anti - immigration laws , known as Salvini Decrees another vessel authorized by the Italian authorities a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|prep\tthe rest of the passage the controversial anti - immigration laws , known as Salvini Decrees another vessel authorized by the Italian authorities a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|pobj\timmigration|amod\tamong other things|prep\tthat , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|relcl\tof foreigners arriving in the country|prep\tforeigners arriving in the country|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "the Spanish humanitarian ship Open Arms a new regulation that, among other things, expands the international protection of foreigners arriving in the country, and regulates rescues at sea the Spanish humanitarian ship Open Arms a new regulation that, among other things, expands the international protection of foreigners arriving in the country, and regulates rescues at sea the Spanish humanitarian ship Open Arms , rescued 169 people on 31 December and another 96 on 2 January.",
+            "question_answers": [
+                {
+                    "question": "Which ship rescued 169 people on 31 December and another 96 on 2 January?",
+                    "answer": "Spanish humanitarian ship Open Arms"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people did Open Arms rescue?",
+                    "score": 0.7171,
+                    "answers": "169 people|dobj"
+                },
+                {
+                    "question": "What is Open Arms?",
+                    "score": 0.6592,
+                    "answers": "elpais.com reported on 04/01/2021 that the Spanish humanitarian ship Open Arms a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea the Spanish humanitarian ship Open Arms a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea the Spanish humanitarian ship Open Arms , rescued 169 people on 31 December and another 96 on 2 January|ROOT\ton 04/01/2021|prep\tthat|mark\tthe|det\thumanitarian|amod\tthe Spanish humanitarian ship Open Arms a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|nsubj\tOpen|compound\ta|det\tnew|amod\ta new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|appos\tthat|nsubj\t,|punct\tamong other things|prep\tother|amod\tother things|pobj\t,|punct\tthat , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|relcl\tthe|det\tinternational|amod\tthe international protection of foreigners arriving in the country|dobj\tof foreigners arriving in the country|prep\tforeigners arriving in the country|pobj\tarriving in the country|acl\tin the country|prep\tthe|det\tthe country|pobj\t,|punct\tand|cc\tregulates rescues at sea|conj\trescues at sea|dobj\tat sea|prep\tsea|pobj\tthe|det\thumanitarian|amod\tthe Spanish humanitarian ship Open Arms a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|nsubj\tOpen|compound\ta|det\tnew|amod\ta new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|appos\tthat|nsubj\t,|punct\tamong other things|prep\tother|amod\tother things|pobj\t,|punct\tthat , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|relcl\tthe|det\tinternational|amod\tthe international protection of foreigners arriving in the country|dobj\tof foreigners arriving in the country|prep\tforeigners arriving in the country|pobj\tarriving in the country|acl\tin the country|prep\tthe|det\tthe country|pobj\t,|punct\tand|cc\tregulates rescues at sea|conj\trescues at sea|dobj\tat sea|prep\tsea|pobj\tthe|det\thumanitarian|amod\tthe Spanish humanitarian ship Open Arms|nsubj\tOpen|compound\t,|punct\tthat the Spanish humanitarian ship Open Arms a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea the Spanish humanitarian ship Open Arms a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea the Spanish humanitarian ship Open Arms , rescued 169 people on 31 December and another 96 on 2 January|ccomp\ton 31 December|prep\t31|nummod\tand|cc\tanother|det\tanother 96 on 2 January|conj\ton 2 January|prep\t2|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "They had all departed from the Ministry of the Interior coasts.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/01/2021 that they had all departed from the Ministry of the Interior coasts?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the members of the Ministry of the Interior coasts leave from?",
+                    "score": 0.7953,
+                    "answers": "that They had all departed from the Ministry of the Interior coasts|ccomp"
+                },
+                {
+                    "question": "What did elpais.com say about the migrants?",
+                    "score": 0.735,
+                    "answers": "elpais.com reported on 04/01/2021 that They had all departed from the Ministry of the Interior coasts|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "the controversial anti-immigration laws, known as Salvini Decrees least 63 minors, six very young and another 40 unaccompanied, in addition to a nine-month-old pregnant woman.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the Salvini Decrees?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many minors does Salvini commit?",
+                    "score": 0.7478,
+                    "answers": "nine - month - old|amod"
+                },
+                {
+                    "question": "What are Salvini's anti-immigration laws?",
+                    "score": 0.7037,
+                    "answers": "controversial|amod\tanti|amod\tSalvini|compound\ta|det"
+                },
+                {
+                    "question": "What are the anti-immigration laws known as Salvini Decrees?",
+                    "score": 0.6871,
+                    "answers": "in addition to a nine - month - old pregnant woman|prep"
+                },
+                {
+                    "question": "What is Salvini?",
+                    "score": 0.5201,
+                    "answers": "a nine - month - old pregnant woman|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "In the last hours, the Spanish humanitarian ship Open Arms had approached the waters of the island of Lampedusa in order to escape the storm that struck the Spanish humanitarian ship Open Arms on the high seas.",
+            "question_answers": [
+                {
+                    "question": "Why did the Spanish humanitarian ship Open Arms approach the waters of the island of Lampedusa?",
+                    "answer": "to escape the storm that struck the Spanish humanitarian ship Open Arms"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did Open Arms escape the storm that struck the waters of Lampedusa?",
+                    "score": 0.7477,
+                    "answers": "on 04/01/2021|prep"
+                },
+                {
+                    "question": "What did Open Arms do to escape the storm on the island of Lampedusa?",
+                    "score": 0.6421,
+                    "answers": "the island of Lampedusa|pobj"
+                },
+                {
+                    "question": "What is Open Arms on the high seas?",
+                    "score": 0.5729,
+                    "answers": "the high seas|pobj"
+                },
+                {
+                    "question": "What was the name of the ship Open Arms?",
+                    "score": 0.5652,
+                    "answers": "the Spanish humanitarian ship Open Arms|nsubj\tthe storm that struck the Spanish humanitarian ship Open Arms on the high seas|dobj\tthe Spanish humanitarian ship Open Arms|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "This is one of the first landings that has taken place in The 265 immigrants recently rescued by the Spanish humanitarian ship Open Arms since the adoption Open Arms to leave behind the stage the country ultra-right Matteo Salvini, who as Minister of the Interior imposed the rejection of those rescued by humanitarian organizations and a drastic reduction of asylum and reception.",
+            "question_answers": [
+                {
+                    "question": "Who reported on the first landings that took place in Spain?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many immigrants were rescued by the Spanish humanitarian ship Open Arms?",
+                    "score": 0.71,
+                    "answers": "the|det\tThe|det\tthe|det\tsince the adoption Open Arms|prep\tthe|det\tthe adoption Open Arms|pobj\tthe|det\tthe|det\tMinister of the Interior|pobj\tthe|det\twho as Minister of the Interior imposed the rejection of those rescued by humanitarian organizations and a drastic reduction of asylum and reception|relcl\tthe|det\tof those rescued by humanitarian organizations|prep\tthose rescued by humanitarian organizations|pobj\trescued by humanitarian organizations|acl\tby humanitarian organizations|agent\tof asylum and reception|prep"
+                }
+            ]
+        },
+        {
+            "claim": "On December 18, the Senate gave the final green light to dismantle the controversial anti-immigration laws, known as Salvini Decrees, and replaced them with a new regulation that, among other things, expands the international protection of foreigners arriving in the country, and regulates rescues at sea.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Senate gave the final green light to dismantle the anti-immigration laws?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the Senate give the final green light to dismantled the controversial anti-immigration laws?",
+                    "score": 0.6908,
+                    "answers": "On December 18|prep"
+                },
+                {
+                    "question": "What did the Senate do to replace the controversial anti-immigration laws known as Salvini Decrees?",
+                    "score": 0.6611,
+                    "answers": "replaced them with a new regulation that , among other things , expands the international protection of foreigners arriving in the country , and regulates rescues at sea|conj"
+                },
+                {
+                    "question": "What was the purpose of the Salvini Decrees?",
+                    "score": 0.5357,
+                    "answers": "international|amod"
+                },
+                {
+                    "question": "What is the definition of protection for foreign nationals arriving in the country?",
+                    "score": 0.495,
+                    "answers": "the international protection of foreigners arriving in the country|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Eliminates the million-dollar fines for NGOs that save migrants in the Mediterranean, although it establishes penalties of up to 50.",
+            "question_answers": [
+                {
+                    "question": "Who reported on Eliminating the million-dollar fines for NGOs that save migrants in the Mediterranean?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the penalties for NGOs that save migrants in the Mediterranean?",
+                    "score": 0.6672,
+                    "answers": "that|nsubj\tthe|det\t-|punct\tfor NGOs that save migrants in the Mediterranean|prep\tNGOs that save migrants in the Mediterranean|pobj\tthat|nsubj\tthe|det\tup|quantmod"
+                },
+                {
+                    "question": "What penalties does elpais.com impose?",
+                    "score": 0.5211,
+                    "answers": "although it establishes penalties of up to 50|advcl"
+                },
+                {
+                    "question": "What is the definition of a million-dollar fine?",
+                    "score": 0.5131,
+                    "answers": "on 04/01/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "EUR 000 for humanitarian organisations in certain cases of violations of the rules on smuggling of migrants by sea.",
+            "question_answers": [
+                {
+                    "question": "What website reported on smuggling of migrants by sea?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the rules on smuggling migrants by sea?",
+                    "score": 0.6551,
+                    "answers": "elpais.com reported on 04/01/2021 that EUR 000 for humanitarian organisations in certain cases of violations of the rules on smuggling of migrants by sea|ROOT\ton 04/01/2021|prep\tthat|mark\tEUR|quantmod\tthat EUR 000 for humanitarian organisations in certain cases of violations of the rules on smuggling of migrants by sea|ccomp\tfor humanitarian organisations|prep\thumanitarian|amod\thumanitarian organisations|pobj\tin certain cases of violations of the rules on smuggling of migrants by sea|prep\tcertain|amod\tcertain cases of violations of the rules on smuggling of migrants by sea|pobj\tof violations of the rules on smuggling of migrants by sea|prep\tviolations of the rules on smuggling of migrants by sea|pobj\tof the rules on smuggling of migrants by sea|prep\tthe|det\tthe rules on smuggling of migrants by sea|pobj\ton smuggling of migrants by sea|prep\tsmuggling of migrants by sea|pobj\tof migrants|prep\tmigrants|pobj\tby sea|prep\tsea|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It also cuts the powers of the Ministry of the Interior to act alone in migration matters.",
+            "question_answers": [
+                {
+                    "question": "What website reported that the Ministry of the Interior was cut off from acting alone in migration matters?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to act alone in migration matters?",
+                    "score": 0.7212,
+                    "answers": "that It also cuts the powers of the Ministry of the Interior to act alone in migration matters|ccomp"
+                },
+                {
+                    "question": "What are the responsibilities of the Ministry of the Interior in regards to migration matters?",
+                    "score": 0.6456,
+                    "answers": "in migration matters|prep"
+                },
+                {
+                    "question": "What is the purpose of elpais.com?",
+                    "score": 0.4655,
+                    "answers": "elpais.com reported on 04/01/2021 that It also cuts the powers of the Ministry of the Interior to act alone in migration matters|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "From now on, Interior will be able to veto the entry into territorial waters of rescue ships only if it acts in agreement with the Departments of Defense and Transport, and with the approval of the Prime Minister.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/01/2021 that Interior will be able to veto the entry into territorial waters of rescue ships?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What will the Interior be able to veto entry into territorial waters of rescue ships?",
+                    "score": 0.7479,
+                    "answers": "able to veto the entry into territorial waters of rescue ships|acomp"
+                },
+                {
+                    "question": "How many rescue ships are there in the United States?",
+                    "score": 0.6259,
+                    "answers": "of rescue ships|prep"
+                },
+                {
+                    "question": "What are the functions of the Departments of Defense and Transport?",
+                    "score": 0.5298,
+                    "answers": "in agreement with the Departments of Defense and Transport , and with the approval of the Prime Minister|prep\twith the Departments of Defense and Transport , and with the approval of the Prime Minister|prep\tDefense and Transport|pobj\tTransport|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Open Arms values this legislative reform as “a step forward,” but warns: “There has not been a drastic change of perspective regarding the work of humanitarian ships.",
+            "question_answers": [
+                {
+                    "question": "Who reported that Open Arms values this legislative reform as \"a step forward\"?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has been the change of perspective regarding the work of humanitarian ships?",
+                    "score": 0.7557,
+                    "answers": "There has not been a drastic change of perspective regarding the work of humanitarian ships|ccomp"
+                },
+                {
+                    "question": "What did Open Arms say about the legislative reform?",
+                    "score": 0.7498,
+                    "answers": "of perspective|prep\tperspective|pobj"
+                },
+                {
+                    "question": "What are Open Arms views on the legislative reform?",
+                    "score": 0.6851,
+                    "answers": "that Open Arms values this legislative reform as “ a step forward|ccomp"
+                },
+                {
+                    "question": "What is Open Arms?",
+                    "score": 0.6576,
+                    "answers": "on 04/01/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The approach that questions the work of the NGOs is maintained and, despite the modifications, the ships of the humanitarian organizations are blocked under other pretexts, such as administrative inspections”, says a spokesman of the organization in Italy.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/01/2021 that the approach that questions the work of the NGOs is maintained and that the ships of the humanitarian organizations are blocked under other pretexts?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the organization that controls the ships of the humanitarian organizations?",
+                    "score": 0.6361,
+                    "answers": "of the humanitarian organizations|prep"
+                },
+                {
+                    "question": "What are the restrictions on the work of the NGOs?",
+                    "score": 0.6135,
+                    "answers": "on 04/01/2021|prep\tdespite the modifications|prep\tthe modifications|pobj"
+                },
+                {
+                    "question": "What is the purpose of administrative inspections?",
+                    "score": 0.5063,
+                    "answers": "despite the modifications , the ships of the humanitarian organizations are blocked under other pretexts , such as administrative inspections|conj\tunder other pretexts , such as administrative inspections|prep\tother pretexts , such as administrative inspections|pobj\tsuch as administrative inspections|prep\tadministrative|amod\tadministrative inspections|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "He adds: “It is a European issue, the rest of the states do not assume their responsibility to establish an articulated system of search, rescue and distribution of migrants and coastal countries are alone and try to prevent landings.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/01/2021 that He adds: \"It is a European issue, the rest of the states do not assume their responsibility to establish an articulated system of search, rescue and distribution of migrants and coastal countries are alone and try to prevent landings?\"",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of the articulated system of search, rescue and distribution of migrants?",
+                    "score": 0.5608,
+                    "answers": "an articulated system of search , rescue and distribution of migrants|dobj\tof search , rescue and distribution of migrants|prep\trescue and distribution|conj\tof migrants|prep\tcoastal countries|nsubj"
+                },
+                {
+                    "question": "What is the European issue?",
+                    "score": 0.4969,
+                    "answers": "elpais.com reported on 04/01/2021 that He adds : “ It is a European issue , the rest of the states do not assume their responsibility to establish an articulated system of search , rescue and distribution of migrants and coastal countries are alone and try to prevent landings|ROOT\tthat He adds : “ It is a European issue , the rest of the states do not assume their responsibility to establish an articulated system of search , rescue and distribution of migrants and coastal countries are alone and try to prevent landings|ccomp\tIt|nsubj\tIt is a European issue , the rest of the states do not assume their responsibility to establish an articulated system of search , rescue and distribution of migrants and coastal countries are alone and try to prevent landings|parataxis\ta European issue|attr\tthe rest of the states|nsubj\tdo|aux\ttheir|poss\talone|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "In the first four days of the year, according to the information of the Ministry of the Interior, 165 immigrants have arrived in Italy through the sea, not counting those rescued by the Open Arms.",
+            "question_answers": [
+                {
+                    "question": "How many immigrants arrived in Italy in the first four days of the year?",
+                    "answer": "165"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many immigrants entered Italy in the first four days of the year?",
+                    "score": 0.7652,
+                    "answers": "In the first four days of the year|prep\tto the information of the Ministry of the Interior|prep\tof the Ministry of the Interior|prep\t165 immigrants|nsubj"
+                },
+                {
+                    "question": "How many immigrants were rescued by the Open Arms?",
+                    "score": 0.7274,
+                    "answers": "those rescued by the Open Arms|pobj\trescued by the Open Arms|acl"
+                }
+            ]
+        },
+        {
+            "claim": "In 2020, they arrived in Italy 34.",
+            "question_answers": [
+                {
+                    "question": "Who reported that they arrived in Italy in 2020?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the migrants arrive in Italy?",
+                    "score": 0.8869,
+                    "answers": "In 2020|prep"
+                },
+                {
+                    "question": "Where did they arrive in Italy in 2020?",
+                    "score": 0.846,
+                    "answers": "that In 2020 , they arrived in Italy 34|ccomp"
+                },
+                {
+                    "question": "When did elpais.com arrive in Italy?",
+                    "score": 0.8211,
+                    "answers": "elpais.com reported on 04/01/2021 that In 2020 , they arrived in Italy 34|ROOT\ton 04/01/2021|prep"
+                },
+                {
+                    "question": "What is the relationship between Italy and Italy?",
+                    "score": 0.6478,
+                    "answers": "in Italy|prep"
+                },
+                {
+                    "question": "What is the origin of the website \"lpais.com\"?",
+                    "score": 0.5911,
+                    "answers": "that|mark\t,|punct\tthey|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "000 migrants, nearly three times as many as in the previous year.",
+            "question_answers": [
+                {
+                    "question": "How many migrants were there on elpais.com on 04/01/2021?",
+                    "answer": "nearly three times as many"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many migrants were there in the United States in 2015?",
+                    "score": 0.8445,
+                    "answers": "in the previous year|prep"
+                },
+                {
+                    "question": "How many migrants entered the United States each year?",
+                    "score": 0.8247,
+                    "answers": "on 04/01/2021|prep\tthat|mark\t,|punct\tnearly|advmod\ttimes|quantmod\tas|advmod\tthe|det\tprevious|amod"
+                },
+                {
+                    "question": "How many migrants did elpais.com report in the previous year?",
+                    "score": 0.8064,
+                    "answers": "elpais.com reported on 04/01/2021 that 000 migrants , nearly three times as many as in the previous year|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "In total, last year they arrived in Europe 94.",
+            "question_answers": [
+                {
+                    "question": "How many people arrived in Europe last year?",
+                    "answer": "94"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did elpais.com arrive in Europe?",
+                    "score": 0.7954,
+                    "answers": "elpais.com reported on 04/01/2021 that In total , last year they arrived in Europe 94|ROOT"
+                },
+                {
+                    "question": "How many times has elpais.com visited Europe?",
+                    "score": 0.7915,
+                    "answers": "on 04/01/2021|prep"
+                },
+                {
+                    "question": "How many people came to Europe last year?",
+                    "score": 0.7913,
+                    "answers": "last|amod"
+                },
+                {
+                    "question": "What is the number of people that arrive in Europe each year?",
+                    "score": 0.732,
+                    "answers": "In total|prep"
+                },
+                {
+                    "question": "What is the origin of the website \"lpais.com\"?",
+                    "score": 0.5691,
+                    "answers": "in Europe|prep"
+                }
+            ]
+        },
+        {
+            "claim": "000 persons, of whom 85.",
+            "question_answers": [
+                {
+                    "question": "How many of the people reported on elpais.com on 04/01/2021?",
+                    "answer": "85"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people live in the United States?",
+                    "score": 0.6755,
+                    "answers": "on 04/01/2021|prep\tthat|mark\tthat 000 persons , of whom 85|dobj\t,|punct\tof whom|prep\twhom|pobj\tof whom 85|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "000 did so by sea, according to data from the International Organization for Migration, and more than 3.",
+            "question_answers": [
+                {
+                    "question": "Who reported that 000 did so by sea?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many immigrants came to the United States each year?",
+                    "score": 0.7462,
+                    "answers": "according to data from the International Organization for Migration|prep\tfrom the International Organization for Migration|prep\tand more than 3|dep"
+                },
+                {
+                    "question": "What is the data from the International Organization for Migration?",
+                    "score": 0.721,
+                    "answers": "to data from the International Organization for Migration|prep\tdata from the International Organization for Migration|pobj"
+                },
+                {
+                    "question": "How many people were deported by sea in 2015?",
+                    "score": 0.6354,
+                    "answers": "elpais.com reported on 04/01/2021 that 000 did so by sea , according to data from the International Organization for Migration , and more than 3|ROOT\tthat 000 did so by sea , according to data from the International Organization for Migration , and more than 3|ccomp\tby sea|prep\tsea|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "000 died in the waters of the Mediterranean.",
+            "question_answers": [
+                {
+                    "question": "Who reported that 000 died in the waters of the Mediterranean?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people died in the waters of the Mediterranean in 2015?",
+                    "score": 0.6903,
+                    "answers": "elpais.com reported on 04/01/2021 that 000 died in the waters of the Mediterranean|ROOT\ton 04/01/2021|prep\tthat|mark\tthat 000 died in the waters of the Mediterranean|ccomp\tin the waters of the Mediterranean|prep\tthe|det\tthe waters of the Mediterranean|pobj\tof the Mediterranean|prep\tthe|det\tthe Mediterranean|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The Italian Government has urged the European Union this year, as it has already done in the past, to implement a joint management plan for Mediterranean waters.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the Italian Government has urged the European Union to implement a joint management plan for Mediterranean waters?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the purpose of a joint management plan for Mediterranean waters?",
+                    "score": 0.7579,
+                    "answers": "a joint management plan for Mediterranean waters|dobj"
+                },
+                {
+                    "question": "What is the relationship between the European Union and the Mediterranean waters?",
+                    "score": 0.7272,
+                    "answers": "for Mediterranean waters|prep\tMediterranean waters|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "With the immigration pact pending approval, Foreign Minister Luigi Di Maio of the 5 Star Movement has called on the European Commission to show courage to approve a “common response” to the migration issue and to stop remaining “mobile” while thousands of people flee their countries of origin and try to reach Europe.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 04/01/2021 that the immigration pact was pending approval?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the 5 Star Movement call for the European Commission to do in response to the migration issue?",
+                    "score": 0.5736,
+                    "answers": "to show courage to approve a “ common response ” to the migration issue and to stop remaining “ mobile ” while thousands of people flee their countries of origin and try to reach Europe|xcomp"
+                },
+                {
+                    "question": "How many people try to migrate to Europe?",
+                    "score": 0.5628,
+                    "answers": "to approve a “ common response ” to the migration issue and to stop remaining “ mobile ” while thousands of people flee their countries of origin and try to reach Europe|acl"
+                },
+                {
+                    "question": "What is the source of evidence of Di Maio's comments on the immigration pact pending approval?",
+                    "score": 0.5325,
+                    "answers": "Foreign|compound"
+                },
+                {
+                    "question": "What is the immigration agreement?",
+                    "score": 0.5295,
+                    "answers": "With the immigration pact pending approval|prep\tthe immigration pact|nsubj\tthe immigration pact pending approval|pcomp\tthat With the immigration pact pending approval , Foreign Minister Luigi Di Maio of the 5 Star Movement has called on the European Commission to show courage to approve a “ common response ” to the migration issue and to stop remaining “ mobile ” while thousands of people flee their countries of origin and try to reach Europe|ccomp"
+                },
+                {
+                    "question": "What is the migration issue?",
+                    "score": 0.5081,
+                    "answers": "the migration issue|pobj"
+                }
+            ]
+        }
+    ]
+}

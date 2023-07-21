@@ -1,0 +1,293 @@
+{
+    "id": "Sport_288",
+    "claim": "At an unusual press conference (i.e. very early), Mexico's President Enrique Peña Nieto called on all citizens to remain united and show that solidarity that has always characterized us, this time in support of the Guadalajara Chivas, who lost to - America.'We live in difficult times, where we must get the best out of each of us, as individuals, as a nation. The times where wood was made from the fallen tree were left behind. The times of the mockery for any mistake were left behind, regardless of whether that mistake was made by the president or a football team like the Chivas del Guadalajara ', Peña Nieto said. The president said that he is very sad that people make fun of the situation of a team that has given so many satisfactions to his hobby:'. I'm sure they, like the country, are just going through a rough patch. The talent is there, as in each of the Mexicans who go out every day to earn the bread of every day, like each of the Mexicans who do not applaud them, go out to give the best of themselves. That's how the Chivas are and that's how Mexico is.\". The president said that we must not forget that the Chivas are champions, both league and cup: 'I am sure that as long as the infrastructure of his board continues to work as it has been, trusting its players and without bringing any reinforcement, paying heavy amounts of money to repatriate others, and seeing how they are injured, they will soon return to their rightful place ', he concluded. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "20/10/2017",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "At an unusual press conference (i.e. very early), Mexico's President Enrique Peña Nieto called on all citizens to remain united and show that solidarity that has always characterized all citizens , this time in support of the Guadalajara Chivas, who lost to - America .",
+            "question_answers": [
+                {
+                    "question": "What did Enrique Pea Nieto call on all citizens to show at a press conference?",
+                    "answer": "solidarity that has always characterized all citizens"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Peña Nieto call for all citizens to remain united?",
+                    "score": 0.7774,
+                    "answers": "i.e. very early|amod"
+                },
+                {
+                    "question": "What did Peña Nieto say about the Guadalajara Chivas?",
+                    "score": 0.715,
+                    "answers": "www.eldizque.com|nsubj\ton 20/10/2017|prep\tMexico 's|poss\t's|case\tPeña|compound\tMexico 's President Enrique Peña Nieto|nsubj\tthat At an unusual press conference ( i.e. very early ) , Mexico 's President Enrique Peña Nieto called on all citizens to remain united and show that solidarity that has always characterized all citizens , this time in support of the Guadalajara Chivas , who lost to - America|ccomp\ton all citizens|prep\tall citizens|pobj\tthat solidarity that has always characterized all citizens , this time in support of the Guadalajara Chivas , who lost to - America|dobj\tall citizens|dobj\tthis time in support of the Guadalajara Chivas , who lost to - America|npadvmod\twho|nsubj\t- America|pobj"
+                },
+                {
+                    "question": "Who did Guadalajara Chivas lose to America?",
+                    "score": 0.6902,
+                    "answers": "who lost to - America|relcl"
+                },
+                {
+                    "question": "Who did the Guadalajara Chivas lose to?",
+                    "score": 0.6667,
+                    "answers": "to - America|prep"
+                },
+                {
+                    "question": "What was the Guadalajara Chivas?",
+                    "score": 0.596,
+                    "answers": "support of the Guadalajara Chivas , who lost to - America|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'We live in difficult times, where all citizens must get the best out of each of us, as individuals, as a nation.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 20/10/2017 that 'We live in difficult times, where all citizens must get the best out of each of us, as individuals, as a nation?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What doesldizque.com say about Americans living in difficult times?",
+                    "score": 0.7684,
+                    "answers": "out of each of us|prep\tof each of us|prep\teach of us|pobj\tas a nation|prep\ta nation|pobj"
+                },
+                {
+                    "question": "How many citizens live in difficult times?",
+                    "score": 0.7503,
+                    "answers": "that ' We live in difficult times , where all citizens must get the best out of each of us , as individuals , as a nation|ccomp\tall citizens|nsubj"
+                },
+                {
+                    "question": "What is the best way to get the best out of citizens as individuals as a nation?",
+                    "score": 0.6789,
+                    "answers": "the best|dobj"
+                },
+                {
+                    "question": "What does the website \"eldizque.com\" do?",
+                    "score": 0.6426,
+                    "answers": "www.eldizque.com reported on 20/10/2017 that ' We live in difficult times , where all citizens must get the best out of each of us , as individuals , as a nation|ROOT"
+                },
+                {
+                    "question": "What is the definition of a person as a citizen?",
+                    "score": 0.6331,
+                    "answers": "individuals|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The times where wood was made from the fallen tree were left behind.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that the times where wood was made from a fallen tree were left behind?",
+                    "answer": "20/10/2017"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many times has wood been made from fallen trees?",
+                    "score": 0.8434,
+                    "answers": "The times where wood was made from the fallen tree|nsubjpass\twood|nsubjpass\twhere wood was made from the fallen tree|relcl"
+                },
+                {
+                    "question": "How many times was wood made from fallen tree left behind?",
+                    "score": 0.7926,
+                    "answers": "that|mark\tThe|det"
+                },
+                {
+                    "question": "How many fallen trees were left behind?",
+                    "score": 0.7547,
+                    "answers": "the fallen tree|pobj"
+                },
+                {
+                    "question": "What did the website \"eldizque.com\" say about wood being left behind?",
+                    "score": 0.7509,
+                    "answers": "www.eldizque.com reported on 20/10/2017 that The times where wood was made from the fallen tree were left behind|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the wood that was left behind from the fallen tree?",
+                    "score": 0.6776,
+                    "answers": "from the fallen tree|prep\twere|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "The times of the mockery for any mistake were left behind, regardless of whether any mistake was made by Mexico's President Enrique Peña Nieto or a football team like the Guadalajara Chivas, who lost to - America ', Mexico's President Enrique Peña Nieto said.",
+            "question_answers": [
+                {
+                    "question": "Who did the Guadalajara Chivas lose to?",
+                    "answer": "America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What mistakes were made by Mexico's President Enrique Peña Nieto?",
+                    "score": 0.7816,
+                    "answers": "www.eldizque.com|nsubj\ton 20/10/2017|prep\tthat|mark\tThe|det\tThe times of the mockery for any mistake|nsubjpass\tof the mockery for any mistake|prep\tthe|det\tthe mockery for any mistake|pobj\tfor any mistake|prep\tany|det\tany mistake|pobj\twere|auxpass\tbehind|advmod\t,|punct\twhether|mark\tany|det\tany mistake|nsubjpass\twas|auxpass\tMexico 's|poss\t's|case\tEnrique|compound\tor|cc\ta|det\tthe|det\t,|punct\twho|nsubj\t-|punct\t'|punct\t,|punct\tMexico 's|poss\t's|case\tEnrique|compound"
+                },
+                {
+                    "question": "What did Peña Nieto's team lose to America?",
+                    "score": 0.7582,
+                    "answers": "Mexico 's President Enrique Peña Nieto or a football team like the Guadalajara Chivas , who lost to - America|pobj"
+                },
+                {
+                    "question": "How many mistakes did the Guadalajara Chivas make?",
+                    "score": 0.7253,
+                    "answers": "a football team like the Guadalajara Chivas , who lost to - America|conj\tlike the Guadalajara Chivas , who lost to - America|prep\tthe Guadalajara Chivas , who lost to - America|pobj\tto - America|prep\tAmerica|pobj"
+                },
+                {
+                    "question": "What is the name of the Mexican football team that lost to America?",
+                    "score": 0.6246,
+                    "answers": "Guadalajara|compound"
+                },
+                {
+                    "question": "Who is the president of Mexico?",
+                    "score": 0.6157,
+                    "answers": "Mexico 's President|compound\tMexico 's President|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico's President Enrique Peña Nieto said that Mexico's President Enrique Peña Nieto is very sad that people make fun of the situation of the Guadalajara Chivas, who lost to - America :'.",
+            "question_answers": [
+                {
+                    "question": "Who did the Guadalajara Chivas lose to?",
+                    "answer": "America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How did the Guadalajara Chivas lose to America?",
+                    "score": 0.8708,
+                    "answers": "to - America|prep"
+                },
+                {
+                    "question": "What did Peña Nieto say about the Guadalajara Chivas?",
+                    "score": 0.7974,
+                    "answers": "www.eldizque.com reported on 20/10/2017 that Mexico 's President Enrique Peña Nieto said that Mexico 's President Enrique Peña Nieto is very sad that people make fun of the situation of the Guadalajara Chivas , who lost to - America : '|ROOT\ton 20/10/2017|prep\tthat|mark\t's|case\tEnrique|compound\tPeña|compound\tMexico 's President Enrique Peña Nieto|nsubj\tthat|mark\t's|case\tEnrique|compound\tPeña|compound\tMexico 's President Enrique Peña Nieto|nsubj\tvery|advmod\tthat|mark\tfun|dobj\tthe|det\tthe|det\t,|punct\t-|punct\t:|punct\t'|punct"
+                },
+                {
+                    "question": "What happened to the Guadalajara Chivas?",
+                    "score": 0.7718,
+                    "answers": "of the Guadalajara Chivas , who lost to - America|prep\tGuadalajara|compound\tthe Guadalajara Chivas , who lost to - America|pobj\twho lost to - America|relcl\tAmerica|pobj"
+                },
+                {
+                    "question": "What are the Guadalajara Chivas?",
+                    "score": 0.7365,
+                    "answers": "that Mexico 's President Enrique Peña Nieto said that Mexico 's President Enrique Peña Nieto is very sad that people make fun of the situation of the Guadalajara Chivas , who lost to - America|ccomp\tthat Mexico 's President Enrique Peña Nieto is very sad that people make fun of the situation of the Guadalajara Chivas , who lost to - America|ccomp\tvery sad that people make fun of the situation of the Guadalajara Chivas , who lost to - America|acomp\tof the situation of the Guadalajara Chivas , who lost to - America|prep\tthe situation of the Guadalajara Chivas , who lost to - America|pobj"
+                },
+                {
+                    "question": "What is the Guadalajara Chivas?",
+                    "score": 0.721,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico's President Enrique Peña Nieto 'm sure the Guadalajara Chivas, who lost to - America , like Mexico's , are just going through a rough patch.",
+            "question_answers": [
+                {
+                    "question": "What country did the Guadalajara Chivas lose to?",
+                    "answer": "America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Guadalajara Chivas lose to America?",
+                    "score": 0.8448,
+                    "answers": "to - America|prep"
+                },
+                {
+                    "question": "What are the Guadalajara Chivas?",
+                    "score": 0.7456,
+                    "answers": "the Guadalajara Chivas , who lost to - America|nsubj"
+                },
+                {
+                    "question": "What is the relationship between Mexico and the Guadalajara Chivas?",
+                    "score": 0.7023,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 20/10/2017 that Mexico 's President Enrique Peña Nieto ' m sure the Guadalajara Chivas , who lost to - America , like Mexico 's , are just going through a rough patch|ROOT\ton 20/10/2017|prep\twho lost to - America|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The talent is there, as in each of the Mexicans who go out every day to earn the bread of every day , like each of the Mexicans who do not applaud them , go out to give the best of the Mexicans who do not applaud them .",
+            "question_answers": [
+                {
+                    "question": "What do the Mexicans do not?",
+                    "answer": "applaud them"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does it mean to earn the bread of every day?",
+                    "score": 0.762,
+                    "answers": "to earn the bread of every day|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "That's how the Guadalajara Chivas, who lost to - America are and that's how Mexico's is.",
+            "question_answers": [
+                {
+                    "question": "What country did the Guadalajara Chivas lose to?",
+                    "answer": "America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Guadalajara Chivas lose to America?",
+                    "score": 0.8743,
+                    "answers": "who lost to - America|relcl\tto - America|prep"
+                },
+                {
+                    "question": "What are the Guadalajara Chivas?",
+                    "score": 0.8101,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 20/10/2017 that That 's how the Guadalajara Chivas , who lost to - America are and that 's how Mexico 's is|ROOT\ton 20/10/2017|prep\t20/10/2017|pobj\tthat|mark\tThat|nsubj\tthat That 's how the Guadalajara Chivas , who lost to - America are and that 's how Mexico 's is|ccomp\thow|advmod\tthe|det\tGuadalajara|compound\tthe Guadalajara Chivas , who lost to - America|nsubj\t,|punct\twho|nsubj\t-|punct\thow the Guadalajara Chivas , who lost to - America are|ccomp\tand|cc\tthat|nsubj\thow|advmod\tMexico 's|nsubj\t's|case\thow Mexico 's is|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Mexico and the Guadalajara Chivas?",
+                    "score": 0.7687,
+                    "answers": "that 's how Mexico 's is|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico's President Enrique Peña Nieto said that we must not forget that the Guadalajara Chivas, who lost to - America are champions, both league and cup: 'Mexico's President Enrique Peña Nieto am sure that as long as the infrastructure of his board continues to work as the infrastructure of his board has been, trusting players and without bringing any reinforcement, paying heavy amounts of money to repatriate others , and seeing how others are injured, others will soon return to rightful place ', Mexico's President Enrique Peña Nieto concluded.",
+            "question_answers": [
+                {
+                    "question": "What did Enrique Pea Nieto say he would do to the injured players?",
+                    "answer": "to repatriate others"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money has President Enrique Peña Nieto paid to repatriate the Guadalajara Chivas?",
+                    "score": 0.8092,
+                    "answers": "trusting players and without bringing any reinforcement , paying heavy amounts of money to repatriate others , and seeing how others are injured|advcl"
+                },
+                {
+                    "question": "What did the Guadalajara Chivas lose to America?",
+                    "score": 0.6998,
+                    "answers": "to - America|prep"
+                },
+                {
+                    "question": "What did Peña Nieto say about the Guadalajara Chivas?",
+                    "score": 0.6909,
+                    "answers": "on 20/10/2017|prep\tMexico 's President|compound\tEnrique|compound\tMexico 's President Enrique Peña Nieto|nsubj\tmust|aux\twho lost to - America|relcl\tMexico 's President|nsubj\tEnrique|compound\tMexico 's President Enrique Peña Nieto am sure that as long as the infrastructure of his board continues to work as the infrastructure of his board has been , trusting players and without bringing any reinforcement , paying heavy amounts of money to repatriate others , and seeing how others are injured , others will soon return to rightful place ' ,|ccomp\tas|advmod\tas|mark\tto|aux\tas|mark\tof money|prep\tmoney|pobj\tto|aux\tto repatriate others|advcl\thow|advmod\twill|aux\tthat as long as the infrastructure of his board continues to work as the infrastructure of his board has been , trusting players and without bringing any reinforcement , paying heavy amounts of money to repatriate others , and seeing how others are injured , others will soon return to rightful place|ccomp\tto rightful place|prep\trightful place|pobj\tMexico 's President|compound\tEnrique|compound\tMexico 's President Enrique Peña Nieto|nsubj\t' Mexico 's President Enrique Peña Nieto am sure that as long as the infrastructure of his board continues to work as the infrastructure of his board has been , trusting players and without bringing any reinforcement , paying heavy amounts of money to repatriate others , and seeing how others are injured , others will soon return to rightful place ' , Mexico 's President Enrique Peña Nieto concluded|ROOT"
+                },
+                {
+                    "question": "How many championships has the Guadalajara Chivas won?",
+                    "score": 0.689,
+                    "answers": "champions , both league and cup|attr"
+                },
+                {
+                    "question": "How many people were injured in the Guadalajara Chivas?",
+                    "score": 0.6606,
+                    "answers": "others|dobj\tseeing how others are injured|conj\tothers|nsubjpass\thow others are injured|ccomp\tothers|nsubj"
+                }
+            ]
+        }
+    ]
+}

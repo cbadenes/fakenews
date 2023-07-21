@@ -1,0 +1,366 @@
+{
+    "id": "Politica_142",
+    "claim": "Do you know that mythical phrase of 'this you won't see in the media '?The one used by the conspiranoics and the portals of fake news to give importance and get clicks, the one that brings with it dangerous bulls that can end up leading to events like the assault on the U.S. Capitol that caused American democracy to falter last week at the hands of individuals disguised as troglodytes who claim that there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria. 'You won't see this in the media ', they cackle those who invent a fibula and enjoy watching it expand, how it coves and how disinformation portals do their August spreading a lie. That's what happened tonight. No: there has been no mysterious blackout in the Vatican and the Pope has not been arrested for abuse. None of that happened. It's a bulus. And where does the fibula come from?It all started last night. Someone connected to the live webcam of Vatican News and saw that all the lights were off. Like a snowball worthy of Filomena the thing grew and led to the false news that the blackout was trying to cover up a detention of Pope Francis. Good. Well, it's fake. The lights of St. Peter's Square were out like every night. At about six in the morning, the lights were restored, as every morning. No mention of the Pope in Italian or international media beyond the death of his personal physician, Fabrizzio Socorsi, by coronavirus. The fibula was created and had arrived at the trending topic. I'm sorry.",
+    "source": "www.elmundo.es",
+    "date": "11/01/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Do you know that mythical phrase of 'this you won't see in the media ' ?The one used by the conspiranoics and the portals of fake news to give importance and get clicks, the one that brings with that mythical phrase of 'this you won't see in the media ' dangerous bulls that can end up leading to events like the assault on the U.S. Capitol that caused American democracy to falter last week at the hands of individuals disguised as troglodytes who claim that there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria.",
+            "question_answers": [
+                {
+                    "question": "What did elmundo.es say on 11/01/2021?",
+                    "answer": "Do you know that mythical phrase of 'this you won't see in the media"
+                },
+                {
+                    "question": "What is the mythical phrase used by the conspiranoics and the portals of fake news to give importance and get clicks?",
+                    "answer": "'this you won't see in the media"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the assault on the U.S. Capitol?",
+                    "score": 0.7398,
+                    "answers": "events like the assault on the U.S. Capitol that caused American democracy to falter last week at the hands of individuals disguised as troglodytes who claim that there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria|pobj\tlike the assault on the U.S. Capitol that caused American democracy to falter last week at the hands of individuals disguised as troglodytes who claim that there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria|prep\tthe assault on the U.S. Capitol that caused American democracy to falter last week at the hands of individuals disguised as troglodytes who claim that there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria|pobj"
+                },
+                {
+                    "question": "What is the network of pedophilia led by Hillary Clinton?",
+                    "score": 0.7204,
+                    "answers": "who claim that there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria|relcl\tthat there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria|ccomp\ta worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria|attr"
+                },
+                {
+                    "question": "What was the mythical phrase used by conspiracyanoics and the portals of fake news?",
+                    "score": 0.7128,
+                    "answers": "The one used by the conspiranoics and the portals of fake news to give importance and get clicks , the one that brings with that mythical phrase of ' this you wo n't see in the media ' dangerous bulls that can end up leading to events like the assault on the U.S. Capitol that caused American democracy to falter last week at the hands of individuals disguised as troglodytes who claim that there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria|appos"
+                },
+                {
+                    "question": "Where was Hillary Clinton's operation center located?",
+                    "score": 0.7111,
+                    "answers": "an operations center located in a New York pizzeria|pobj"
+                },
+                {
+                    "question": "What is the mythical phrase \"this you won't see in the media?",
+                    "score": 0.6961,
+                    "answers": "www.elmundo.es|nsubj\ton 11/01/2021|prep\tthat|mark\tDo|aux\tyou|nsubj\tthat|det\tmythical|amod\t'|punct\tthis you wo n't see in the media|pobj\tyou|nsubj\two|aux\tn't|neg\tyou wo n't see in the media|relcl\tin the media|prep\tthe|det\tthe media|pobj\t'|punct\t?|punct\tThe|det\tthe|det\tthe conspiranoics and the portals of fake news|pobj\tand|cc\tthe|det\tthe portals of fake news|conj\tof fake news|prep\tfake|amod\tfake news|pobj\tto|aux\tto give importance and get clicks|xcomp\timportance|dobj\tand|cc\tclicks|dobj\t,|punct\tthe|det\tthat|nsubj\tthat|det\tmythical|amod\t'|punct\tthis you wo n't see in the media '|pobj\tyou|nsubj\two|aux\tn't|neg\tyou wo n't see in the media|relcl\tin the media|prep\tthe|det\tthe media|pobj\t'|punct\tdangerous|amod\tdangerous bulls that can end up leading to events like the assault on the U.S. Capitol that caused American democracy to falter last week at the hands of individuals disguised as troglodytes who claim that there is a worldwide network of pedophilia led by Hillary Clinton from an operations center located in a New York pizzeria|dobj\tthat|nsubj\tcan|aux\tup|prt\tthe|det\ton the U.S. Capitol|prep\tthe|det\tU.S.|compound\tthat|nsubj\tAmerican democracy|nsubj\tto|aux\tAmerican democracy to falter last week|ccomp\tlast|amod\tthe|det\tdisguised as troglodytes|acl\tas troglodytes|prep\ttroglodytes|pobj\twho|nsubj\tthat|mark\tthere|expl\ta|det\tworldwide|amod\tof pedophilia|prep\tpedophilia|pobj\tled by Hillary Clinton from an operations center located in a New York pizzeria|acl\tby Hillary Clinton|agent\tHillary|compound\tfrom an operations center located in a New York pizzeria|prep\tan|det\toperations|compound\tlocated in a New York pizzeria|acl\tin a New York pizzeria|prep\ta|det\tNew|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'You won't see this in the media ', they cackle those who invent a fibula and enjoy watching a fibula expand, how a fibula coves and how disinformation portals do August spreading a lie.",
+            "question_answers": [
+                {
+                    "question": "What did Elmundo say on 11/01/2021?",
+                    "answer": "'You won't see this in the media"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who invented the fibula and enjoy watching a fibula expand?",
+                    "score": 0.7671,
+                    "answers": "'|punct\tthe|det\t'|punct\t,|punct\tand|cc\t,|punct\tand|cc"
+                },
+                {
+                    "question": "What are the names of the people who invent a fibula?",
+                    "score": 0.7079,
+                    "answers": "that|mark\tthis|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of how a fibula can spread a lie?",
+                    "score": 0.6924,
+                    "answers": "how disinformation portals do August spreading a lie|conj\tAugust spreading a lie|ccomp"
+                },
+                {
+                    "question": "How many fibula coves are there in the media?",
+                    "score": 0.6918,
+                    "answers": "www.elmundo.es|nsubj"
+                },
+                {
+                    "question": "What is a fibula?",
+                    "score": 0.6886,
+                    "answers": "n't|neg\tthat ' You wo n't see this in the media ' , they cackle those who invent a fibula and enjoy watching a fibula expand , how a fibula coves and how disinformation portals do August spreading a lie|ccomp\ta|det\ta fibula|dobj\tenjoy watching a fibula expand|conj\twatching a fibula expand|xcomp\ta|det\ta fibula|nsubj\ta fibula expand|ccomp\thow|advmod\ta|det\ta fibula|nsubj\thow|advmod\ta|det\ta lie|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "That's what happened tonight.",
+            "question_answers": [
+                {
+                    "question": "When did elmundo.es say that what happened tonight?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of how many murders were there in the night of the 11th of January 2021?",
+                    "score": 0.8603,
+                    "answers": "what|nsubj"
+                },
+                {
+                    "question": "What is the website \"elmundo.es\"?",
+                    "score": 0.7028,
+                    "answers": "www.elmundo.es|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "No: there has been no mysterious blackout in the Vatican and the Pope has not been arrested for abuse.",
+            "question_answers": [
+                {
+                    "question": "When did Elmundo say there was no mysterious blackout in the Vatican?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Has the Pope been charged with abuse?",
+                    "score": 0.9161,
+                    "answers": "the Pope has not been arrested for abuse|conj"
+                },
+                {
+                    "question": "Has there been a mysterious blackout in the Vatican?",
+                    "score": 0.9064,
+                    "answers": "www.elmundo.es said on 11/01/2021 that No : there has been no mysterious blackout in the Vatican and the Pope has not been arrested for abuse|ROOT\tthat|mark\thas|aux\tthat No : there has been no mysterious blackout in the Vatican and the Pope has not been arrested for abuse|ccomp\tno|det\tin the Vatican|prep\tthe|det\tthe|det\thas|aux"
+                },
+                {
+                    "question": "What is the relationship between the Vatican and the Pope?",
+                    "score": 0.7674,
+                    "answers": "www.elmundo.es|nsubj\ton 11/01/2021|prep\tthe Vatican|pobj\tfor abuse|prep"
+                }
+            ]
+        },
+        {
+            "claim": "None of that happened.",
+            "question_answers": [
+                {
+                    "question": "When did elmundo.es say that none of that happened?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the evidence of all of this happening?",
+                    "score": 0.8367,
+                    "answers": "that None of that happened|ccomp"
+                },
+                {
+                    "question": "What is the relationship betweenmundo.es and socialism?",
+                    "score": 0.7566,
+                    "answers": "on 11/01/2021|prep"
+                },
+                {
+                    "question": "What is the website \"elmundo.es\"?",
+                    "score": 0.7564,
+                    "answers": "www.elmundo.es|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "It's a bulus.",
+            "question_answers": [
+                {
+                    "question": "When did Elmundo say it's a bulus?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is a bulus?",
+                    "score": 0.7662,
+                    "answers": "www.elmundo.es said on 11/01/2021 that It 's a bulus|ROOT\ton 11/01/2021|prep\tthat|mark\tIt|nsubj\tthat It 's a bulus|ccomp\ta|det\ta bulus|attr"
+                },
+                {
+                    "question": "What is the definition of a bulus?",
+                    "score": 0.7628,
+                    "answers": "www.elmundo.es|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "And where does the fibula come from?It all started last night.",
+            "question_answers": [
+                {
+                    "question": "When did Elmundo say that the fibula came from?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where does the fibula originate from?",
+                    "score": 0.8758,
+                    "answers": "the fibula|nsubj"
+                },
+                {
+                    "question": "Where did the fibula originate?",
+                    "score": 0.8703,
+                    "answers": "www.elmundo.es|nsubj\ton 11/01/2021|prep\tthat|mark\tAnd|cc\twhere|pobj\tdoes|aux\tthe|det\twhere from?It|prep\tall|dep\tstarted last night|ROOT\tlast|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Someone connected to the live webcam of Vatican News and saw that all the lights were off.",
+            "question_answers": [
+                {
+                    "question": "What happened when someone connected to the live webcam of Vatican News?",
+                    "answer": "all the lights were off"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many lights were off on the live webcam of Vatican News?",
+                    "score": 0.7884,
+                    "answers": "all the lights|nsubj"
+                },
+                {
+                    "question": "What was the cause of the lights being off?",
+                    "score": 0.7707,
+                    "answers": "saw that all the lights were off|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Like a snowball worthy of Filomena the thing grew and led to the false news that the blackout was trying to cover up a detention of the Pope .",
+            "question_answers": [
+                {
+                    "question": "What was the purpose of the blackout?",
+                    "answer": "the blackout was trying to cover up a detention of the Pope"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the blackouts?",
+                    "score": 0.6648,
+                    "answers": "www.elmundo.es|nsubj\twww.elmundo.es said on 11/01/2021 that Like a snowball worthy of Filomena the thing grew and led to the false news that the blackout was trying to cover up a detention of the Pope|ROOT\ton 11/01/2021|prep\tthat|mark\ta|det\tthe|det\tthe thing|nsubj\tthat Like a snowball worthy of Filomena the thing grew and led to the false news that the blackout was trying to cover up a detention of the Pope|ccomp\tand|cc\tled to the false news that the blackout was trying to cover up a detention of the Pope|conj\tto the false news that the blackout was trying to cover up a detention of the Pope|prep\tthe|det\tfalse|amod\tthe false news that the blackout was trying to cover up a detention of the Pope|pobj\tthat|mark\tthe|det\twas|aux\tto|aux\tto cover up a detention of the Pope|xcomp\tup|prt\ta|det\ta detention of the Pope|dobj\tof the Pope|prep\tthe|det"
+                },
+                {
+                    "question": "What is the name of the snowball worthy of Filomena?",
+                    "score": 0.6121,
+                    "answers": "a snowball worthy of Filomena|pobj"
+                },
+                {
+                    "question": "What is Filomena?",
+                    "score": 0.5814,
+                    "answers": "Like a snowball worthy of Filomena|prep\tworthy of Filomena|amod\tof Filomena|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The lights of St. Peter's Square were out like every night.",
+            "question_answers": [
+                {
+                    "question": "When did Elmundo say that the lights of St. Peter's Square were out?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What were the lights of St. Peter's Square every night?",
+                    "score": 0.8376,
+                    "answers": "every night|pobj"
+                },
+                {
+                    "question": "How many lights were out every night in St. Peter's Square?",
+                    "score": 0.8068,
+                    "answers": "www.elmundo.es|nsubj\twww.elmundo.es said on 11/01/2021 that The lights of St. Peter 's Square were out like every night|ROOT\ton 11/01/2021|prep\tthat|mark\tThe|det\tThe lights of St. Peter 's Square|nsubj\tSt.|compound\t's|case\tthat The lights of St. Peter 's Square were out like every night|ccomp\tout|advmod\tevery|det"
+                }
+            ]
+        },
+        {
+            "claim": "At about six in the morning, the lights were restored, as every morning.",
+            "question_answers": [
+                {
+                    "question": "When did Elmundo say the lights were restored?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How long were the lights on the first day of the week?",
+                    "score": 0.7843,
+                    "answers": "the lights|nsubjpass"
+                },
+                {
+                    "question": "How many hours did it take for the lights to be restored?",
+                    "score": 0.7839,
+                    "answers": "as every morning|prep"
+                },
+                {
+                    "question": "How many lights were restored in the morning in Swaziland?",
+                    "score": 0.7601,
+                    "answers": "that At about six in the morning , the lights were restored , as every morning|ccomp"
+                },
+                {
+                    "question": "What was the time of the restoration of the lights?",
+                    "score": 0.7556,
+                    "answers": "in the morning|prep"
+                },
+                {
+                    "question": "What was the exact time the lights were restored?",
+                    "score": 0.7408,
+                    "answers": "on 11/01/2021|prep"
+                }
+            ]
+        },
+        {
+            "claim": "No mention of the Pope in Italian or international media beyond the death of his personal physician, Fabrizzio Socorsi, by coronavirus.",
+            "question_answers": [
+                {
+                    "question": "When did www.elmundo.es say there was no mention of the Pope in Italian or international media?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Fabrizzio Socorsi die of?",
+                    "score": 0.8861,
+                    "answers": "www.elmundo.es|nsubj\twww.elmundo.es said on 11/01/2021 that No mention of the Pope in Italian or international media beyond the death of his personal physician , Fabrizzio Socorsi , by coronavirus|ROOT\ton 11/01/2021|prep\tNo|det\tof the Pope|prep\tthe Pope|pobj\tItalian or international|amod"
+                },
+                {
+                    "question": "What was the cause of death of Fabrizzio Socorsi?",
+                    "score": 0.8526,
+                    "answers": "that|mark\tthe|det\tor|cc\tbeyond the death of his personal physician , Fabrizzio Socorsi , by coronavirus|prep\tthe|det\tthe death of his personal physician , Fabrizzio Socorsi , by coronavirus|pobj\this|poss\tpersonal|amod\t,|punct\t,|punct\tby coronavirus|prep\tcoronavirus|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Pope's death from coronavirus?",
+                    "score": 0.831,
+                    "answers": "Italian or international media|pobj"
+                },
+                {
+                    "question": "What was the name of Fabrizzio Socorsi's death?",
+                    "score": 0.8287,
+                    "answers": "international|conj"
+                },
+                {
+                    "question": "Who was Fabrizzio Socorsi's personal physician?",
+                    "score": 0.8151,
+                    "answers": "of his personal physician , Fabrizzio Socorsi ,|prep\this personal physician , Fabrizzio Socorsi ,|pobj\tFabrizzio|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The fibula was created and had arrived at the trending topic.",
+            "question_answers": [
+                {
+                    "question": "When was the fibula created?",
+                    "answer": "11/01/2021"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the origin of the fibula?",
+                    "score": 0.7882,
+                    "answers": "www.elmundo.es said on 11/01/2021 that The fibula was created and had arrived at the trending topic|ROOT\twas|auxpass\thad|aux\thad arrived at the trending topic|conj"
+                },
+                {
+                    "question": "What is the trend of the fibula?",
+                    "score": 0.7794,
+                    "answers": "the trending topic|pobj"
+                },
+                {
+                    "question": "What is the trending topic of the FIBula?",
+                    "score": 0.7505,
+                    "answers": "at the trending topic|prep"
+                }
+            ]
+        }
+    ]
+}

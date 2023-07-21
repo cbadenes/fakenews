@@ -1,0 +1,201 @@
+{
+    "id": "Sport_306",
+    "claim": "Those who waited for a resurrection Sunday for the Blue Cross took a shock when they realized it was just a Saturday of glory, so they lost to America and stayed out of the Liguilla. The national and international press made firewood of the fallen tree, and the Blue Cross is again the mockery of all, as they crossed it again. Enough of this, the board has raised its voice, saying that the Mexican Football Federation (Femexfut) is complicit in all this happening, so it has demanded a series of changes in the competition for the Blue Cross to continue its stay in the MX League. The changes are:- To classify the Liguilla the first  instead of the first eight, because there are only eight consider it advantageous in too much and puts them in adverse situation. ♪ NUMBER ♪ - Don't play against America, because whenever they lose, the mood falls and they don't want to be competitive anymore. ♪ NUMBER ♪ - All teams are given a trophy just to participate, because their showcases look very empty. As the Femexfut are expected to say no to all points of the petition, the Blue Cross executives are already in talks in leagues such as Haiti, Jamaica, San Vicente, Dominican Republic and Barbados, but those who are more interested are those of Futbolito Bimbo. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "12/04/2019",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Those who waited for a resurrection Sunday for the Blue Cross took a shock when Those who waited for a resurrection Sunday for the Blue Cross realized a resurrection Sunday for the Blue Cross was just a Saturday of glory, so Those who waited for a resurrection Sunday for the Blue Cross lost to America and stayed out of the Liguilla .",
+            "question_answers": [
+                {
+                    "question": "Who took a shock when they realized that a resurrection Sunday for the Blue Cross was just a Saturday of glory?",
+                    "answer": "Those who waited for a resurrection Sunday for the Blue Cross"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did those waiting for a resurrection Sunday for the Blue Cross think about a resurrection?",
+                    "score": 0.7691,
+                    "answers": "www.eldizque.com reported on 12/04/2019 that Those who waited for a resurrection Sunday for the Blue Cross took a shock when Those who waited for a resurrection Sunday for the Blue Cross realized a resurrection Sunday for the Blue Cross was just a Saturday of glory , so Those who waited for a resurrection Sunday for the Blue Cross lost to America and stayed out of the Liguilla|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "The national and international press made firewood of the fallen tree, and the Blue Cross is again the mockery of all, as the Blue Cross crossed it again.",
+            "question_answers": [
+                {
+                    "question": "Who crossed it again?",
+                    "answer": "the Blue Cross"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the national and international press make firewood of fallen trees?",
+                    "score": 0.7948,
+                    "answers": "that The national and international press made firewood of the fallen tree , and the Blue Cross is again the mockery of all , as the Blue Cross crossed it again|ccomp"
+                },
+                {
+                    "question": "Who made firewood of the fallen tree?",
+                    "score": 0.7528,
+                    "answers": "The national and international press|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of firewood from the fallen tree?",
+                    "score": 0.6556,
+                    "answers": "firewood|dobj"
+                },
+                {
+                    "question": "What is the purpose of the Blue Cross?",
+                    "score": 0.6389,
+                    "answers": "the mockery of all|attr"
+                },
+                {
+                    "question": "What is the Blue Cross?",
+                    "score": 0.6317,
+                    "answers": "the|det\tthe|det\tthe|det\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "Enough of this, the board has raised voice, saying that the Mexican Football Federation (Femexfut) is complicit in all this happening, so the board has demanded a series of changes in the competition for the Blue Cross to continue its stay in the MX League .",
+            "question_answers": [
+                {
+                    "question": "What has the board demanded to continue its stay in the MX League?",
+                    "answer": "the board has demanded a series of changes in the competition for the Blue Cross"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between the Blue Cross and the Mexican Football Federation?",
+                    "score": 0.6636,
+                    "answers": "in the competition for the Blue Cross to continue its stay in the MX League|prep"
+                },
+                {
+                    "question": "What is Femexfut?",
+                    "score": 0.5897,
+                    "answers": "www.eldizque.com reported on 12/04/2019 that Enough of this , the board has raised voice , saying that the Mexican Football Federation ( Femexfut ) is complicit in all this happening , so the board has demanded a series of changes in the competition for the Blue Cross to continue its stay in the MX League|ROOT\tthat Enough of this , the board has raised voice , saying that the Mexican Football Federation ( Femexfut ) is complicit in all this happening , so the board has demanded a series of changes in the competition for the Blue Cross to continue its stay in the MX League|ccomp\tMexican|compound\tFootball|compound\tthe Mexican Football Federation ( Femexfut )|nsubj\tthat the Mexican Football Federation ( Femexfut ) is complicit in all this happening|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "a series of changes in the competition for the Blue Cross to continue its stay in the MX League are:- To classify the Liguilla the first  instead of the first eight, because there are only eight consider it advantageous in too much and puts the Blue Cross in adverse situation.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What changes were made to the competition for the Blue Cross to continue its stay in the MX League?",
+                    "score": 0.7339,
+                    "answers": "a|det\tof changes in the competition for the Blue Cross to continue its stay in the MX League|prep\tthat a series of changes in the competition for the Blue Cross to continue its stay in the MX League are:-|punct\tTo|aux"
+                },
+                {
+                    "question": "What is the first classification for the Blue Cross?",
+                    "score": 0.6556,
+                    "answers": "To classify the Liguilla the first|advcl"
+                },
+                {
+                    "question": "How many people are eligible to join the Blue Cross?",
+                    "score": 0.649,
+                    "answers": "  instead of the first eight ,|dep"
+                },
+                {
+                    "question": "What is the relationship between the Blue Cross and the MX League?",
+                    "score": 0.6174,
+                    "answers": "that|mark\tin the competition for the Blue Cross to continue its stay in the MX League|prep\tthe|det\tthe competition for the Blue Cross to continue its stay in the MX League|pobj\tfor|mark\tthe|det\tBlue|compound\tto|aux\tfor the Blue Cross to continue its stay in the MX League|advcl\tits|poss\tits stay in the MX League|dobj\tin the MX League|prep\tthe|det\tthe|det\tthe|det\tthe first|oprd\tinstead|advmod\tinstead of|cc\tthe|det\t,|punct\tbecause|mark\tthere|expl\tonly|advmod\tbecause there are only eight consider it advantageous in too much and puts the Blue Cross in adverse situation|advcl\tit|nsubj\tin too much|prep\ttoo|advmod\ttoo much|amod\tand|cc\tputs the Blue Cross in adverse situation|conj\tthe|det\tBlue|compound\tin adverse situation|prep\tadverse|amod\tadverse situation|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "♪ NUMBER ♪ - Don't play against America , because whenever America lose, the mood falls and America don't want to be competitive anymore.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 12/04/2019?",
+                    "answer": "Don't play against America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the mood of America when they lose?",
+                    "score": 0.7493,
+                    "answers": "the mood|nsubj"
+                },
+                {
+                    "question": "What is the relationship between losing and not playing against America?",
+                    "score": 0.7356,
+                    "answers": "12/04/2019|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "♪ NUMBER ♪ - All teams are given a trophy just to participate, because showcases look very empty.",
+            "question_answers": [
+                {
+                    "question": "What look empty when a team is given a trophy?",
+                    "answer": "showcases"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many teams participated in the 2018 World Series?",
+                    "score": 0.752,
+                    "answers": "12/04/2019|pobj"
+                },
+                {
+                    "question": "How many teams participate in the competition?",
+                    "score": 0.7519,
+                    "answers": "-|punct\tAll|det\tare|auxpass\tjust|advmod"
+                },
+                {
+                    "question": "How many teams are given a trophy just to participate?",
+                    "score": 0.7432,
+                    "answers": "that ♪ NUMBER ♪ - All teams are given a trophy just to participate , because showcases look very empty|ccomp"
+                },
+                {
+                    "question": "What is the name of the website where students can win a trophy?",
+                    "score": 0.6705,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the NUMBER?",
+                    "score": 0.6522,
+                    "answers": "NUMBER ♪|meta"
+                }
+            ]
+        },
+        {
+            "claim": "As the Mexican Football Federation (Femexfut) are expected to say no to all points of demanded , the the Blue Cross executives are already in talks in leagues such as Haiti, Jamaica, San Vicente, Dominican Republic and Barbados, but those who are more interested are those of Futbolito Bimbo.",
+            "question_answers": [
+                {
+                    "question": "What is the Mexican Football Federation expected to say no to?",
+                    "answer": "all points of demanded"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Femexfut want from the Mexican Football Federation?",
+                    "score": 0.7428,
+                    "answers": "to all points of demanded|prep"
+                },
+                {
+                    "question": "What is the relationship between the Mexican Football Federation and the Blue Cross executives?",
+                    "score": 0.6062,
+                    "answers": "that As the Mexican Football Federation ( Femexfut ) are expected to say no to all points of demanded , the the Blue Cross executives are already in talks in leagues such as Haiti , Jamaica , San Vicente , Dominican Republic and Barbados , but those who are more interested are those of Futbolito Bimbo|ccomp\ttalks in leagues such as Haiti , Jamaica , San Vicente , Dominican Republic and Barbados|pobj\tin leagues such as Haiti , Jamaica , San Vicente , Dominican Republic and Barbados|prep\tleagues such as Haiti , Jamaica , San Vicente , Dominican Republic and Barbados|pobj"
+                },
+                {
+                    "question": "What does Femexfut stand for?",
+                    "score": 0.59,
+                    "answers": "the Mexican Football Federation ( Femexfut )|nsubjpass"
+                },
+                {
+                    "question": "Who is Futbolito Bimbo?",
+                    "score": 0.556,
+                    "answers": "those of Futbolito Bimbo|attr\tof Futbolito Bimbo|prep"
+                },
+                {
+                    "question": "What is Femexfut demands?",
+                    "score": 0.5517,
+                    "answers": "all points of demanded|pobj"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "id": "Economy_242",
+    "claim": "% growth in foreign tourism in QueretaroMost international visitors are American nationals, as well as from Germany and Spain. During , the state of Queretaro registered 1,000  foreign visitors, which meant an increase of  percent over the previous year, said the Secretary of Tourism (Sectur) in the entity Hugo Burgos García. He indicated that the majority of international tourists are of American nationality, as well as of Germany and Spain, mainly. In total, two million  thousand visitors were received in the state last year, he added. In a press conference, Burgos García announced, together with representatives of the Irish Embassy in Mexico, the presentation of the traditional music group 'Green Fields of America ', which will be held this Saturday  March in the state capital. In the context of the announcement, the secretary commented that the authorities of Tourism in the state have undertaken different actions to promote and increase the influx of visitors in the entity, also taking advantage of the connections and other destinations that exist in the country and abroad. In the case of Ireland, for example, he recalled that from the beginning of this administration, work began with tour operators who already tourists from the European country, seeking the possibility of generating a flow of Irish visitors to Queretaro from destinations like Cancun. 'There are many people who come to Queretaro, and those connections are the ones that allow us to sell the destination through them ', Burgos mentioned. 'We are working on identifying the places of origin of tourists in a clearer way. '. For this year, we will work with tour operators, as well as with the authorities of the Tourist Promotion Council of Mexico, to attract also wholesale companies, which are the ones that can invest the most in projects in Queretaro. For his part, David Costello, representative of the Embassy of Ireland in Mexico, highlighted the cultural and historical similarities, as well as the industrial, economic and tourist coincidences that exist between the European nation and Queretaro. On the other hand, Burgos mentioned that they are waiting for this week the Federal Tourism Secretariat to authorize the resources for the support of the  development projects in the state, for an approximate amount of  million pesos. I'm sorry.",
+    "source": "www.elfinanciero.com.mx",
+    "date": "06/03/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "% growth in foreign tourism in QueretaroMost international visitors are American nationals, as well as from Germany .",
+            "question_answers": [
+                {
+                    "question": "What was the growth in foreign tourism in Queretaro?",
+                    "answer": "% growth in foreign tourism in QueretaroMost international visitors are American nationals, as well as from Germany"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the percentage growth in foreign tourism in Queretaro?",
+                    "score": 0.9296,
+                    "answers": "www.elfinanciero.com.mx|nsubj\twww.elfinanciero.com.mx reported on 06/03/2018 that % growth in foreign tourism in QueretaroMost international visitors are American nationals , as well as from Germany|ROOT\ton 06/03/2018|prep\tthat|mark\t%|compound\tforeign|amod\tforeign tourism in QueretaroMost|pobj\tin QueretaroMost|prep\tinternational|amod\tinternational visitors|nsubj\tAmerican nationals , as well as from Germany|attr\t,|punct\tas|advmod\twell|advmod\tas well as|cc\tfrom Germany|conj"
+                }
+            ]
+        },
+        {
+            "claim": "During , QueretaroMost registered 1,000  foreign visitors, which meant an increase of  percent over Germany and Spain , said the Secretary of Tourism (Sectur) in the entity Hugo Burgos García .",
+            "question_answers": [
+                {
+                    "question": "QueretaroMost saw an increase in foreign visitors from what two countries?",
+                    "answer": "Germany and Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many foreign visitors were there in Queretaro in 2018?",
+                    "score": 0.8461,
+                    "answers": "on 06/03/2018|prep\twhich meant an increase of|relcl\t  percent over Germany and Spain|dep\tpercent over Germany and Spain|dobj\tover Germany and Spain|prep"
+                }
+            ]
+        },
+        {
+            "claim": "the Secretary of Tourism (Sectur) in the entity Hugo Burgos García indicated that the majority of international tourists are of American nationality, as well as of Germany , mainly.",
+            "question_answers": [
+                {
+                    "question": "What country does the majority of international tourists come from?",
+                    "answer": "Germany"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of international tourists are of American nationality?",
+                    "score": 0.8959,
+                    "answers": "the majority of international tourists|nsubj\tof international tourists|prep"
+                },
+                {
+                    "question": "How many international tourists come to the United States each year?",
+                    "score": 0.8596,
+                    "answers": "international|amod\tof Germany|conj"
+                },
+                {
+                    "question": "What is Hugo Burgos Garcia's nationality?",
+                    "score": 0.8492,
+                    "answers": "Hugo|compound"
+                },
+                {
+                    "question": "What is the source of evidence of the number of international tourists of American nationality?",
+                    "score": 0.8007,
+                    "answers": "Tourism|pobj\tthe entity|pobj"
+                },
+                {
+                    "question": "Who is the Secretary of Tourism (Sectur)?",
+                    "score": 0.7629,
+                    "answers": "the Secretary of Tourism ( Sectur ) in the entity Hugo Burgos García|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In total, two million  thousand visitors were received in QueretaroMost Germany and Spain , the Secretary of Tourism (Sectur) in the entity Hugo Burgos García added.",
+            "question_answers": [
+                {
+                    "question": "In what two countries did the Secretary of Tourism report that two million thousand visitors were received?",
+                    "answer": "QueretaroMost Germany and Spain"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many visitors were received in Queretaro most in 2018?",
+                    "score": 0.8326,
+                    "answers": "total|pobj\ttwo|compound\tthousand|nummod\twere|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "In a press conference, the Secretary of Tourism (Sectur) in the entity Hugo Burgos García Spain , together with representatives of the Irish Embassy in the previous year , the presentation of the traditional music group 'Green Fields of America ', which will be held this Saturday  March in the state capital.",
+            "question_answers": [
+                {
+                    "question": "Along with the Secretary of Tourism, who was present at the press conference?",
+                    "answer": "representatives of the Irish Embassy in the previous year"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the Secretary of Tourism say about the green fields of America?",
+                    "score": 0.6183,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "When will the festival take place?",
+                    "score": 0.6019,
+                    "answers": "which will be held this Saturday|relcl"
+                },
+                {
+                    "question": "Where will the festival of green Fields of America take place?",
+                    "score": 0.5942,
+                    "answers": "the state capital|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the meeting of the traditional music group Green Fields of America?",
+                    "score": 0.5548,
+                    "answers": "Irish|amod"
+                },
+                {
+                    "question": "Who is Hugo Burgos Garcia Spain?",
+                    "score": 0.5284,
+                    "answers": "Hugo|compound\tHugo Burgos García Spain|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In the context of Spain , the Secretary of Tourism (Sectur) in the entity Hugo Burgos García commented that the authorities of Tourism in QueretaroMost have undertaken different actions to promote and increase the influx of visitors in QueretaroMost , also taking advantage of the connections and other destinations that exist in the previous year and abroad.",
+            "question_answers": [
+                {
+                    "question": "What did Hugo Burgos Garca say the authorities of Tourism in QueretaroMost have done?",
+                    "answer": "promote and increase the influx of visitors in QueretaroMost"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What actions have the authorities taken to promote and increase the influx of visitors in Queretaro most?",
+                    "score": 0.7245,
+                    "answers": "that In the context of Spain , the Secretary of Tourism ( Sectur ) in the entity Hugo Burgos García commented that the authorities of Tourism in QueretaroMost have undertaken different actions to promote and increase the influx of visitors in QueretaroMost , also taking advantage of the connections and other destinations that exist in the previous year and abroad|ccomp"
+                },
+                {
+                    "question": "How many tourists came to Queretaro most each year?",
+                    "score": 0.6526,
+                    "answers": "that|mark\tthe|det\tthe|det\tthe|det\tBurgos|compound\tthat|mark\tthe|det\tthe|det\tthe influx of visitors in QueretaroMost|dobj\tof visitors|prep\tvisitors|pobj\tthe|det\tthat|nsubj\tthe|det\tprevious|amod"
+                },
+                {
+                    "question": "How many tourists come to Queretaro each year?",
+                    "score": 0.6506,
+                    "answers": "www.elfinanciero.com.mx|nsubj\tthat exist in the previous year and abroad|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of the activity of tourism in Queretaro most?",
+                    "score": 0.6144,
+                    "answers": "Hugo|compound"
+                },
+                {
+                    "question": "What are the connections and other destinations in Queretaro most?",
+                    "score": 0.6143,
+                    "answers": "of the connections and other destinations that exist in the previous year and abroad|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In the case of announced , for example, the Secretary of Tourism (Sectur) in the entity Hugo Burgos García recalled that from the beginning of this administration, work began with tour operators who already tourists from announced , seeking the possibility of generating a flow of Irish visitors to QueretaroMost from destinations like Cancun.",
+            "question_answers": [
+                {
+                    "question": "What type of tour operators did Hugo Burgos Garca begin work with?",
+                    "answer": "announced"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Hugo Burgos Garcia do to generate a flow of tourists to Queretaro?",
+                    "score": 0.6516,
+                    "answers": "Hugo|compound"
+                },
+                {
+                    "question": "How many Irish visitors came to Queretaro most from Cancun each year?",
+                    "score": 0.6043,
+                    "answers": "of generating a flow of Irish visitors to QueretaroMost from destinations like Cancun|prep\tgenerating a flow of Irish visitors to QueretaroMost from destinations like Cancun|pcomp\ta flow of Irish visitors to QueretaroMost from destinations like Cancun|dobj"
+                },
+                {
+                    "question": "How many tourists came to Queretaro each year?",
+                    "score": 0.5946,
+                    "answers": "www.elfinanciero.com.mx|nsubj\twww.elfinanciero.com.mx reported on 06/03/2018 that In the case of announced , for example , the Secretary of Tourism ( Sectur ) in the entity Hugo Burgos García recalled that from the beginning of this administration , work began with tour operators already tourists who from announced , seeking the possibility of generating a flow of Irish visitors to QueretaroMost from destinations like Cancun|ROOT\ton 06/03/2018|prep\tthat|mark\tthe|det\tthe case of announced|pobj\tof announced|prep\t,|punct\tfor example|prep\texample|pobj\t,|punct\tthe|det\tof Tourism|prep\tTourism|pobj\t(|punct\t)|punct\tin the entity|prep\tthe|det\tthe entity|pobj\tBurgos|compound\tthat In the case of announced , for example , the Secretary of Tourism ( Sectur ) in the entity Hugo Burgos García recalled that from the beginning of this administration , work began with tour operators already tourists who from announced , seeking the possibility of generating a flow of Irish visitors to QueretaroMost from destinations like Cancun|ccomp\tthat|mark\tthe|det\tthe beginning of this administration|pobj\tof this administration|prep\tthis|det\tthis administration|pobj\t,|punct\twork|nsubj\twith tour operators already tourists who from announced|prep\ttour|compound\ttour operators already tourists who from announced|pobj\twho|pobj\talready|advmod\twho from|prep\t,|punct\tthe|det\ta|det"
+                },
+                {
+                    "question": "What is the source of evidence of the flow of Irish visitors to Queretaro from destinations like Cancun?",
+                    "score": 0.5815,
+                    "answers": "the possibility of generating a flow of Irish visitors to QueretaroMost from destinations like Cancun|dobj"
+                },
+                {
+                    "question": "Who is the Secretary of Tourism (Sectur) in the entity Hugo Burgos Garcia?",
+                    "score": 0.5251,
+                    "answers": "the Secretary of Tourism ( Sectur ) in the entity Hugo Burgos García|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'There are Mexico , and those connections are the ones that allow us to sell QueretaroMost through Mexico ', the Secretary of Tourism (Sectur) in the entity Hugo Burgos García mentioned.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What connections are there to sell Queretaro most through Mexico?",
+                    "score": 0.8576,
+                    "answers": "www.elfinanciero.com.mx|nsubj\twww.elfinanciero.com.mx reported on 06/03/2018 that ' There are Mexico , and those connections are the ones that allow us to sell QueretaroMost through Mexico '|ccomp\tthat|mark\t'|punct\tThere|expl\tthat ' There are Mexico , and those connections are the ones that allow us to sell QueretaroMost through Mexico|ccomp\t,|punct\tand|cc\tthose|det\tthose connections|nsubj\tthose connections are the ones that allow us to sell QueretaroMost through Mexico|conj\tthe|det\tthe ones that allow us to sell QueretaroMost through Mexico|attr\tthat|nsubj\tthat allow us to sell QueretaroMost through Mexico|relcl\tus|nsubj\tto|aux\tus to sell QueretaroMost through Mexico|ccomp\tQueretaroMost|dobj\tthrough Mexico|prep\t'|punct\t,|punct\tthe|det\tthe Secretary of Tourism ( Sectur ) in the entity Hugo Burgos García|nsubj\tof Tourism|prep\t(|punct\t)|punct\tin the entity|prep\tthe|det\tthe entity|pobj\tBurgos|compound\twww.elfinanciero.com.mx reported on 06/03/2018 that ' There are Mexico , and those connections are the ones that allow us to sell QueretaroMost through Mexico ' , the Secretary of Tourism ( Sectur ) in the entity Hugo Burgos García mentioned|ROOT"
+                },
+                {
+                    "question": "What are the connections between Mexico and Queretaro?",
+                    "score": 0.7623,
+                    "answers": "Hugo|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'We are working on identifying the places of origin of tourists in a clearer way.",
+            "question_answers": [
+                {
+                    "question": "When did www.elfinanciero.com.mx report that they were working on identifying the places of origin of tourists?",
+                    "answer": "06/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who is trying to identify the origin of tourists?",
+                    "score": 0.8335,
+                    "answers": "www.elfinanciero.com.mx reported on 06/03/2018 that ' We are working on identifying the places of origin of tourists in a clearer way|ROOT\tthat ' We are working on identifying the places of origin of tourists in a clearer way|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the origin of tourists in the country?",
+                    "score": 0.789,
+                    "answers": "on 06/03/2018|prep"
+                }
+            ]
+        },
+        {
+            "claim": "For this year, we will work with tour operators, as well as with the authorities of the Tourist Promotion Council of Mexico, to attract also wholesale companies, which are the ones that can invest the most in projects in Queretaro.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 06/03/2018 that we will work with tour operators and the authorities of the Tourist Promotion Council of Mexico?",
+                    "answer": "www.elfinanciero.com.mx"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did the government invest in projects in Queretaro in 2018?",
+                    "score": 0.7136,
+                    "answers": "that can invest the most in projects in Queretaro|relcl"
+                },
+                {
+                    "question": "What companies are investing the most in projects in Queretaro?",
+                    "score": 0.7002,
+                    "answers": "wholesale|amod"
+                },
+                {
+                    "question": "What is the amount of money that Mexico is investing in tourism?",
+                    "score": 0.6988,
+                    "answers": "Mexico|pobj"
+                },
+                {
+                    "question": "What is the name of the company that will work with tour operators and tour operators in Queretaro?",
+                    "score": 0.623,
+                    "answers": "in Queretaro|prep"
+                },
+                {
+                    "question": "What is the purpose of tourism promotion in Mexico?",
+                    "score": 0.6225,
+                    "answers": "Tourist Promotion|compound"
+                }
+            ]
+        },
+        {
+            "claim": "For his part, David Costello, representative of the Embassy of Ireland in Mexico, highlighted the cultural and historical similarities, as well as the industrial, economic and tourist coincidences that exist between the European nation and Queretaro.",
+            "question_answers": [
+                {
+                    "question": "What did David Costello highlight?",
+                    "answer": "cultural and historical similarities, as well as the industrial, economic and tourist coincidences that exist between the European nation and Queretaro"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What similarities does David Costello have with Queretaro?",
+                    "score": 0.8007,
+                    "answers": "historical|conj"
+                },
+                {
+                    "question": "What did Costello say about the similarities between the European nation and Queretaro?",
+                    "score": 0.6832,
+                    "answers": "his part|pobj"
+                },
+                {
+                    "question": "What are the historical similarities between European nations and Queretaro?",
+                    "score": 0.5822,
+                    "answers": "that exist between the European nation and Queretaro|relcl"
+                },
+                {
+                    "question": "What is the history of Ireland in Mexico?",
+                    "score": 0.5768,
+                    "answers": "the Embassy of Ireland in Mexico|pobj"
+                },
+                {
+                    "question": "What is the relationship between Ireland and Ireland?",
+                    "score": 0.5721,
+                    "answers": "representative of the Embassy of Ireland in Mexico|appos"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, Burgos mentioned that they are waiting for this week the Federal Tourism Secretariat to authorize the resources for the support of the  development projects in the state, for an approximate amount of  million pesos.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How much money did the Federal Tourism Secretariat authorize for development projects in the state?",
+                    "score": 0.7672,
+                    "answers": "the Federal Tourism Secretariat to authorize the resources for the support of the   development projects in the state , for an approximate amount of|ccomp\tthe resources for the support of the   development projects in the state|dobj"
+                },
+                {
+                    "question": "What did Burgos say about the proposal?",
+                    "score": 0.6944,
+                    "answers": "On the other hand|prep"
+                }
+            ]
+        }
+    ]
+}

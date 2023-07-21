@@ -1,0 +1,268 @@
+{
+    "id": "80_Entertainment_662",
+    "claim": "The deputy heads a talk in the Chamber of Deputies in which highlights the role of women in society, where she spoke about her return to the performance. Mexico City / . 2018 ::Carmen Salinas inaugurated the forum Gender Equality a Sustainable Development Goal, which takes place in the Chamber of Deputies, where she announced that she will return to work on the performance. In the Auditorium 'Authora Jimenez de Palacios ', she stressed that the full participation of girls and women in political and economic life is an indispensable condition for the sustainable development of society. After ensuring that equal opportunities must be advanced, she mentioned that she will return to her activity as an actress after her term as a federal deputy.'I want to thank those who helped me in this legislature, I want to thank all my colleagues. I go to my work as an actress, many things await me ', he said. Before passing the microphone, he applauded the work of the forum's speakers:'I know many of them, I know that what they are going to talk about, are wonderful'. Topics to be addressed during the conference include 'Political violence against women with gender characteristics 'and 'Institutions for the care of women victims of violence in Mexico'. I'm sorry.",
+    "source": "www.milenio.com",
+    "date": "09/04/2018",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The deputy heads a talk in the Chamber of Deputies in which highlights the role of women in society, where she spoke about her return to the performance.",
+            "question_answers": [
+                {
+                    "question": "Where did the deputy head a talk on the role of women in society?",
+                    "answer": "Chamber of Deputies"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the deputy heads a talk in the Chamber of Deputies?",
+                    "score": 0.8189,
+                    "answers": "her return to the performance|pobj"
+                },
+                {
+                    "question": "What did the deputy say about her return to the role of women in society?",
+                    "score": 0.6861,
+                    "answers": "where|advmod\ther|poss"
+                }
+            ]
+        },
+        {
+            "claim": "Mexico City / .",
+            "question_answers": [
+                {
+                    "question": "What city did www.milenio.com report on 09/04/2018?",
+                    "answer": "Mexico City"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the location of Mexico City in 2018?",
+                    "score": 0.6964,
+                    "answers": "www.milenio.com reported on 09/04/2018 that Mexico City /|ROOT\ton 09/04/2018|prep\tthat|mark\tMexico|compound\tthat Mexico City|npadvmod\t/|punct"
+                },
+                {
+                    "question": "What is the name of the website that is located in Mexico City?",
+                    "score": 0.6127,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "2018 ::Carmen Salinas inaugurated the forum Gender Equality a Sustainable Development Goal, which takes place in the Chamber of Deputies, where she announced that she will return to work on the performance.",
+            "question_answers": [
+                {
+                    "question": "In what year did Carmen Salinas inaugurate the forum Gender Equality a Sustainable Development Goal?",
+                    "answer": "2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Salinas announce that she would work on the forum Gender Equality a Sustainable Development Goal?",
+                    "score": 0.8206,
+                    "answers": "that 2018 : : Carmen Salinas inaugurated the forum Gender Equality a Sustainable Development Goal , which takes place in the Chamber of Deputies , where she announced that she will return to work on the performance|ccomp"
+                },
+                {
+                    "question": "What is the Sustainable Development Goal?",
+                    "score": 0.6072,
+                    "answers": "a Sustainable Development Goal|appos"
+                }
+            ]
+        },
+        {
+            "claim": "In the Auditorium 'Authora Jimenez de Palacios ', she stressed that the full participation of girls and women in political and economic life is an indispensable condition for the sustainable development of society.",
+            "question_answers": [
+                {
+                    "question": "What was the name of the auditorium where the author stressed that the full participation of girls and women in political and economic life is an indispensable condition for the sustainable development of society?",
+                    "answer": "Auditorium 'Authora Jimenez de Palacios"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Jimenez de Palacios say about participation of girls and women in political and economic life?",
+                    "score": 0.7275,
+                    "answers": "the|det\tthat In the Auditorium ' Authora Jimenez de Palacios ' , she stressed that the full participation of girls and women in political and economic life is an indispensable condition for the sustainable development of society|ccomp\tthe|det\tthe|det\tof society|prep"
+                },
+                {
+                    "question": "What is the purpose of the Auditorium 'Authora Jimenez de Palacios'?",
+                    "score": 0.6047,
+                    "answers": "for the sustainable development of society|prep\tthe sustainable development of society|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "After ensuring that equal opportunities must be advanced, she mentioned that she will return to her activity as an actress after her term as a federal deputy.",
+            "question_answers": [
+                {
+                    "question": "What did Milenio say she would return to after her term as a federal deputy?",
+                    "answer": "actress"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did she return to work as an actress after her term as a federal deputy?",
+                    "score": 0.7908,
+                    "answers": "that she will return to her activity as an actress after her term as a federal deputy|ccomp"
+                },
+                {
+                    "question": "What is the job of an actress?",
+                    "score": 0.6331,
+                    "answers": "an actress|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Hillary Clinton's role as an actress?",
+                    "score": 0.5965,
+                    "answers": "that equal opportunities must be advanced|ccomp\ther activity as an actress|pobj"
+                },
+                {
+                    "question": "What ismilenio.com?",
+                    "score": 0.4923,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "'I want to thank those who helped me in this legislature, I want to thank all my colleagues.",
+            "question_answers": [
+                {
+                    "question": "Who did www.milenio.com report on 09/04/2018?",
+                    "answer": "all my colleagues"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who did Scott Walker help help him in the legislature?",
+                    "score": 0.874,
+                    "answers": "who helped me in this legislature|relcl"
+                },
+                {
+                    "question": "Who helped Scott Walker in the legislature?",
+                    "score": 0.8523,
+                    "answers": "those who helped me in this legislature|dobj"
+                },
+                {
+                    "question": "What is Scott Walker's voting record on gun control?",
+                    "score": 0.7475,
+                    "answers": "me|dobj"
+                },
+                {
+                    "question": "What is the name of Scott Walker's office?",
+                    "score": 0.6855,
+                    "answers": "to thank all my colleagues|xcomp\tall my colleagues|dobj"
+                },
+                {
+                    "question": "What is the relationship between Scott Walker and Bill McCollum?",
+                    "score": 0.6804,
+                    "answers": "all|predet"
+                }
+            ]
+        },
+        {
+            "claim": "I go to my work as an actress, many things await me ', he said.",
+            "question_answers": [
+                {
+                    "question": "What happened to Milenio when he reported that he was going to work as an actress?",
+                    "answer": "many things await me"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many things await her to work as an actress?",
+                    "score": 0.7744,
+                    "answers": "many|amod\tmany things|nsubj"
+                },
+                {
+                    "question": "What is the job of an actress?",
+                    "score": 0.7374,
+                    "answers": "I go to my work as an actress|ccomp\tas an actress|prep\tan|det\tan actress|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of Scott Israel's career as an actress?",
+                    "score": 0.7258,
+                    "answers": "to my work as an actress|prep\tmy work as an actress|pobj"
+                },
+                {
+                    "question": "What is the relationship between an actress and an actress?",
+                    "score": 0.7101,
+                    "answers": "that I go to my work as an actress , many things await me|ccomp"
+                },
+                {
+                    "question": "What is Milenio.com?",
+                    "score": 0.5449,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Before passing the microphone, he applauded the work of the forum's speakers:'I know many of them, I know that what they are going to talk about, are wonderful'.",
+            "question_answers": [
+                {
+                    "question": "What did Milenio say about the speakers before passing the microphone?",
+                    "answer": "he applauded the work of the forum's speakers:'I know many of them, I know that what they are going to talk about, are wonderful'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the forum speaker who applauded the work of Trump?",
+                    "score": 0.7577,
+                    "answers": "'s|case"
+                },
+                {
+                    "question": "What did the speaker say before passing the microphone?",
+                    "score": 0.7503,
+                    "answers": "Before passing the microphone|prep\tpassing the microphone|pcomp\tthat Before passing the microphone , he applauded the work of|ccomp"
+                },
+                {
+                    "question": "How many speakers attended the forum?",
+                    "score": 0.7359,
+                    "answers": "know many of them|ccomp"
+                },
+                {
+                    "question": "What was the purpose of the forum speakers?",
+                    "score": 0.7032,
+                    "answers": "the microphone|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of all the speeches made by the forum speakers?",
+                    "score": 0.703,
+                    "answers": "www.milenio.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Topics to be addressed during the conference include 'Political violence against women with gender characteristics 'and 'Institutions for the care of women victims of violence in Mexico'.",
+            "question_answers": [
+                {
+                    "question": "What is one of the topics to be addressed during the conference?",
+                    "answer": "'Political violence against women with gender characteristics"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many women were victims of violence in Mexico in 2018?",
+                    "score": 0.7825,
+                    "answers": "of women victims of violence in Mexico|prep\twomen victims of violence in Mexico|pobj"
+                },
+                {
+                    "question": "What were the topics to be addressed during the conference?",
+                    "score": 0.7749,
+                    "answers": "www.milenio.com reported on 09/04/2018 that Topics to be addressed during the conference include ' Political violence against women with gender characteristics ' and ' Institutions for the care of women victims of violence in Mexico '|ROOT\tTopics to be addressed during the conference|nsubj\tthat Topics to be addressed during the conference include ' Political violence against women with gender characteristics ' and ' Institutions for the care of women victims of violence in Mexico '|ccomp"
+                },
+                {
+                    "question": "What is political violence against women with gender characteristics?",
+                    "score": 0.7452,
+                    "answers": "' Political violence against women with gender characteristics ' and ' Institutions for the care of women victims of violence in Mexico '|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the violence in Mexico?",
+                    "score": 0.6887,
+                    "answers": "of violence in Mexico|prep\tviolence in Mexico|pobj"
+                },
+                {
+                    "question": "What was the purpose of the conference?",
+                    "score": 0.6757,
+                    "answers": "to be addressed during the conference|relcl\tduring the conference|prep"
+                }
+            ]
+        }
+    ]
+}

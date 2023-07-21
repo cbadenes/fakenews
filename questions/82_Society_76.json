@@ -1,0 +1,335 @@
+{
+    "id": "82_Society_76",
+    "claim": ". Mexico. - With  votes in favour and  against, the Congress of the Union accepted a bill proposing 'that among the chilanga community abortion may be legal until  weeks of gestation 'or what is the same until  years after the woman is pregnant. The law will only be valid in the CDMX (where abortion was already legal) and only among people who prove to be native to Mexico City, this with the aim of 'reducing visual contamination ', since it is proven that when one of the parents is chilango there is a high chance that the child will come out 'too anti-aesthetic ', and this generates a bad image of Mexico at both the national and international levels: 'It is proven that chilangos possess a genetic evil that makes them speak cantadito, smell a sobaco all the time, have mania to eat all their food with a ball, go to America and therefore be assailants, and, above all, be born with a very little graced physicist. These people (the chilangos) denigrate the country at both the national and international levels, even among them they are ashamed of themselves. People who see them believe that all Mexicans are like this and they're wrong. Not only do they pollute with their mañas, but also with their unesthetic physique ', commented a deputy. For his part, another politician pointed out that with this initiative they hope to diminish the people who in the future are devotees of St.Juditos Tadeo and engage in crime: 'it is proven that  of each  assailants are chilangos, and not only operate in the CDMX but go all over the country to commit their misdeeds. We cannot allow chilangos to reproduce, but if we give them the option to abort, even if the creature is already born. % of chilangos expect their son to be blond and green-eyed, so they put names like Brayan, Kevin, Kymberly, etc. , and if they are not born güeros expect that by calling them so by magic they will be transformed into gringos. Seeing that this does not happen and the creature gets ugly are disappointed, and that is why it will now be optional to abort until the  weeks of gestation, so that there are no regrets afterwards ', he pointed out. I'm sorry.",
+    "source": "www.elruinaversal.com",
+    "date": "17/03/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "Mexico.",
+            "question_answers": [
+                {
+                    "question": "When did elruinaversal.com report that Mexico's economy was in decline?",
+                    "answer": "17/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the relationship between Mexico and the United States?",
+                    "score": 0.6869,
+                    "answers": "on 17/03/2018|prep\tthat|mark"
+                }
+            ]
+        },
+        {
+            "claim": "- With  votes in favour and  against, the Congress of the Union accepted a bill proposing 'that among the chilanga community abortion may be legal until  weeks of gestation 'or what is the same until  years after the woman is pregnant.",
+            "question_answers": [
+                {
+                    "question": "When was abortion legal in the chilanga community?",
+                    "answer": "weeks of gestation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many votes did the Congress of the Union accept for chilanga community abortion?",
+                    "score": 0.7433,
+                    "answers": "favour|pobj\tthat - With   votes in favour and   against , the Congress of the Union accepted a bill proposing ' that among the chilanga community abortion may be legal until|ccomp"
+                },
+                {
+                    "question": "What are the laws on chilanga community abortion?",
+                    "score": 0.7281,
+                    "answers": "a bill proposing ' that among the chilanga community abortion may be legal until|dobj\tyears after the woman is pregnant|npadvmod\tthe woman|nsubj"
+                },
+                {
+                    "question": "What is the chilanga community abortion?",
+                    "score": 0.6771,
+                    "answers": "among the chilanga community|prep"
+                },
+                {
+                    "question": "What is the length of gestation for chilanga?",
+                    "score": 0.5747,
+                    "answers": "gestation|pobj"
+                },
+                {
+                    "question": "What is chilanga?",
+                    "score": 0.5473,
+                    "answers": "chilanga|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The law will only be valid in the CDMX (where abortion was already legal) and only among people who prove to be native to Mexico City, this with the aim of 'reducing visual contamination ', since it is proven that when one of the parents is chilango there is a high chance that the child will come out 'too anti-aesthetic ', and this generates a bad image of Mexico at both the national and international levels: 'It is proven that chilangos possess a genetic evil that makes chilangos speak cantadito, smell a sobaco all the time, have mania to eat all food with a ball, go to America and therefore be assailants, and, above all, be born with a very little graced physicist.",
+            "question_answers": [
+                {
+                    "question": "What is the goal of the law?",
+                    "answer": "visual contamination"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have legalized abortion?",
+                    "score": 0.7936,
+                    "answers": "national and international|amod"
+                },
+                {
+                    "question": "What is the genetic evil that makes chilangos speak cantadito?",
+                    "score": 0.7746,
+                    "answers": "a genetic evil that makes chilangos speak cantadito , smell a sobaco all the time , have mania to eat all food with a ball , go to America and therefore be assailants , and , above all , be born with a very little graced physicist|dobj"
+                },
+                {
+                    "question": "How many Mexicans live in Mexico City?",
+                    "score": 0.7602,
+                    "answers": "only among people who prove to be native to Mexico City|conj\tpeople who prove to be native to Mexico City|pobj\twho prove to be native to Mexico City|relcl\tnative to Mexico City|acomp"
+                },
+                {
+                    "question": "What is the law in Mexico about abortion?",
+                    "score": 0.7583,
+                    "answers": "and|cc\tto|aux\t'|punct\t'|punct\twhen|advmod\tthere|expl\ta|det\t'|punct\t'|punct\tand|cc\ta|det\tbad|amod\tand|cc\t'|punct\ta|det\ta|det\tall|predet\tto|aux\tall|det\ta|det\tand|cc\ttherefore|advmod\tand|cc\tall|pobj\ta|det\tvery|advmod"
+                },
+                {
+                    "question": "What is the source of evidence of chilangos speaking cantadito?",
+                    "score": 0.752,
+                    "answers": "cantadito|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "These people (the chilangos) denigrate Mexico at both the national and international levels, even among These people (the chilangos) are ashamed of These people (the chilangos) .",
+            "question_answers": [
+                {
+                    "question": "Who denigrate Mexico at both the national and international levels?",
+                    "answer": "These people (the chilangos)"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have deported the chilangos?",
+                    "score": 0.8529,
+                    "answers": "at both the national and international levels|prep"
+                },
+                {
+                    "question": "What countries do the chilangos denigrate?",
+                    "score": 0.8522,
+                    "answers": "national and international|amod\tinternational|conj\tboth the national and international levels|pobj"
+                },
+                {
+                    "question": "How many people have been deported from Mexico by the chilangos?",
+                    "score": 0.7961,
+                    "answers": "www.elruinaversal.com reported on 17/03/2018 that These people ( the chilangos ) denigrate Mexico at both the national and international levels , even among These people ( the chilangos ) are ashamed of These people ( the chilangos )|ROOT\tthat These people ( the chilangos ) denigrate Mexico at both the national and international levels , even among These people ( the chilangos ) are ashamed of These people ( the chilangos )|ccomp"
+                },
+                {
+                    "question": "What are the names of the people that denigrate Mexico at both the national and international levels?",
+                    "score": 0.7688,
+                    "answers": "www.elruinaversal.com|nsubj"
+                },
+                {
+                    "question": "What is the name of the people who denigrate Mexico?",
+                    "score": 0.7615,
+                    "answers": "These people ( the chilangos )|nsubj\tThese people ( the chilangos )|nsubj\tof These people ( the chilangos )|prep\tThese people ( the chilangos )|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "People who see them believe that all Mexicans are like this and People who see them 're wrong.",
+            "question_answers": [
+                {
+                    "question": "Who believes that all Mexicans are like this?",
+                    "answer": "People who see them"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What do people who see Mexicans as like this believe about Mexicans?",
+                    "score": 0.8675,
+                    "answers": "that People who see them believe that all Mexicans are like this and People who see them 're wrong|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Mexicans and Mexicans?",
+                    "score": 0.7923,
+                    "answers": "on 17/03/2018|prep\tthat|mark\tPeople who see them|nsubj\twho|nsubj\twho see them|relcl\tthem|dobj\tthat|mark\tthat all Mexicans are like this|ccomp\tthis|pobj\tand|cc\tPeople who see them|nsubj\twho|nsubj\twho see them|relcl\tthem|dobj\tPeople who see them 're wrong|conj\twrong|acomp"
+                },
+                {
+                    "question": "What is the source of evidence of all Mexicans being like this?",
+                    "score": 0.7764,
+                    "answers": "www.elruinaversal.com reported on 17/03/2018 that People who see them believe that all Mexicans are like this and People who see them 're wrong|ROOT\tall|det"
+                }
+            ]
+        },
+        {
+            "claim": "Not only do These people (the chilangos) pollute with mañas, but also with unesthetic physique ', commented a deputy.",
+            "question_answers": [
+                {
+                    "question": "What type of physique do the chilangos pollute with?",
+                    "answer": "unesthetic physique"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How do the chilangos pollute with mañas?",
+                    "score": 0.8454,
+                    "answers": "www.elruinaversal.com reported on 17/03/2018 that Not only do These people ( the chilangos ) pollute with mañas , but also with unesthetic physique|ccomp\tthe chilangos|appos\tthat Not only do These people ( the chilangos ) pollute with mañas , but also with unesthetic physique|ccomp"
+                },
+                {
+                    "question": "How many people pollute with the chilangos?",
+                    "score": 0.7822,
+                    "answers": "on 17/03/2018|prep\tNot only|preconj\tThese people ( the chilangos )|nsubj\twith mañas , but also with unesthetic physique|prep"
+                },
+                {
+                    "question": "What is the unesthetic physique?",
+                    "score": 0.6507,
+                    "answers": "unesthetic physique|pobj"
+                },
+                {
+                    "question": "What is the relationship between chilangos and unesthetic physique?",
+                    "score": 0.6507,
+                    "answers": "that|mark\tThese|det\t)|punct\t,|punct\tbut also|cc\talso|advmod\t'|punct\t,|punct\ta deputy|nsubj"
+                },
+                {
+                    "question": "What are the physical features of the chilangos?",
+                    "score": 0.6356,
+                    "answers": "with unesthetic physique|conj"
+                }
+            ]
+        },
+        {
+            "claim": "For his part, another politician pointed out that with this initiative they hope to diminish the people who in the future are devotees of St.Juditos Tadeo and engage in crime: 'it is proven that  of each  assailants are chilangos, and not only operate in the CDMX but go all over the country to commit their misdeeds.",
+            "question_answers": [
+                {
+                    "question": "What did a politician say the chilangos would do to the chilangos?",
+                    "answer": "go all over the country to commit their misdeeds"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people are devotees of St. Juditos Tadeo and engage in crime?",
+                    "score": 0.6691,
+                    "answers": "www.elruinaversal.com reported on 17/03/2018 that For his part , another politician pointed out that with this initiative they hope to diminish the people who in the future are devotees of St. Juditos Tadeo and engage in crime|ccomp"
+                },
+                {
+                    "question": "Who are the followers of St.Juditos Tadeo?",
+                    "score": 0.6247,
+                    "answers": "devotees of St. Juditos Tadeo|attr"
+                },
+                {
+                    "question": "What are the crimes committed by the chilangos?",
+                    "score": 0.6127,
+                    "answers": "that|mark\this|poss\t,|punct\tanother|det\tout|prt\tthat|mark\tthis|det\tthey|nsubj\tto|aux\tthe|det\twho|nsubj\tthe|det\twho in the future are devotees of St. Juditos Tadeo and engage in crime|relcl\tand|cc\tengage in crime|conj\tin crime|prep\tcrime|pobj\t:|punct\t'|punct\tit|nsubjpass\tis|auxpass\tthat|mark\teach|det\teach   assailants|dep\tassailants|dobj\tchilangos|attr\t,|punct\tand|cc\tnot only|preconj\tonly|advmod\tin the CDMX|prep\tthe|det\tthe CDMX|pobj\tbut|cc\tgo all over the country to commit their misdeeds|conj\tall|advmod\tall over the country|prep\tthe|det\tthe country|pobj\tto|aux\tto commit their misdeeds|advcl\ttheir|poss\ttheir misdeeds|dobj"
+                },
+                {
+                    "question": "How many chilangos are there in the country?",
+                    "score": 0.6032,
+                    "answers": "that   of each   assailants are chilangos , and not only operate in the CDMX but go all over the country to commit their misdeeds|ccomp"
+                },
+                {
+                    "question": "What is St.Juditos Tadeo's crime?",
+                    "score": 0.5839,
+                    "answers": "his part|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "We cannot allow chilangos to reproduce, but if we give them the option to abort, even if the creature is already born.",
+            "question_answers": [
+                {
+                    "question": "When did www.elruinaversal.com report that we cannot allow chilangos to reproduce?",
+                    "answer": "17/03/2018"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the rights of chilangos to reproduce?",
+                    "score": 0.7681,
+                    "answers": "www.elruinaversal.com|nsubj\twww.elruinaversal.com reported on 17/03/2018 that We can not allow chilangos to reproduce , but if we give them the option to abort , even if the creature is already born|ROOT\ton 17/03/2018|prep\tthat|mark\tWe|nsubj\tcan|aux\tnot|neg\tthat We can not allow chilangos to reproduce , but if we give them the option to abort , even if the creature is already born|ccomp\tchilangos|nsubj\tto|aux\tchilangos to reproduce|ccomp\t,|punct\tbut|cc\tif|mark\twe|nsubj\tif we give them the option to abort|advcl\tthem|dative\tthe|det\tthe option to abort|dobj\tto|aux\tto abort|acl\t,|punct\teven|advmod\tif|mark\tthe|det\tis|auxpass\talready|advmod"
+                },
+                {
+                    "question": "What is the option to abort a creature if they are already born?",
+                    "score": 0.7151,
+                    "answers": "if we give them the option to abort , even if the creature is already born|conj"
+                }
+            ]
+        },
+        {
+            "claim": "% of chilangos expect their son to be blond and green-eyed, so they put names like Brayan, Kevin, Kymberly, etc.",
+            "question_answers": [
+                {
+                    "question": "What percentage of chilangos expect their son to be?",
+                    "answer": "% of chilangos expect their son to be blond and green-eyed,"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What percentage of chilangos expect their son to be blond and green-eyed?",
+                    "score": 0.8365,
+                    "answers": "% of chilangos|nsubj\t% of chilangos expect their son to be blond and green - eyed|ccomp"
+                },
+                {
+                    "question": "What are the names of the chilangos children?",
+                    "score": 0.7529,
+                    "answers": "their son|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": ", and if they are not born güeros expect that by calling them so by magic they will be transformed into gringos.",
+            "question_answers": [
+                {
+                    "question": "What did www.elruinaversal.com report on 17/03/2018",
+                    "answer": ", and if they are not born güeros expect that by calling them so by magic they will be transformed into gringos"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What do güeros expect if they are born into gringos?",
+                    "score": 0.823,
+                    "answers": "into gringos|prep"
+                },
+                {
+                    "question": "What does it mean to call yourself a güeros?",
+                    "score": 0.8007,
+                    "answers": "by calling them so|prep"
+                },
+                {
+                    "question": "What is the source of evidence of güeros being transformed into gringos?",
+                    "score": 0.7568,
+                    "answers": "www.elruinaversal.com|nsubj\ton 17/03/2018|prep\tthat|mark\t,|punct\tand|cc\tif|mark\tthey|nsubjpass\tnot|neg\tthat|mark\tso|advmod\tmagic|pobj\tthey|nsubjpass\twill|aux"
+                },
+                {
+                    "question": "What are güeros?",
+                    "score": 0.7305,
+                    "answers": "www.elruinaversal.com reported on 17/03/2018 that , and if they are not born güeros expect that by calling them so by magic they will be transformed into gringos|ROOT\tare|auxpass\tcalling them so|pcomp\tby magic|prep\tbe|auxpass\tthat by calling them so by magic they will be transformed into gringos|ccomp\tgringos|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Seeing that this does not happen and the creature gets ugly are disappointed, and that is why it will now be optional to abort until the  weeks of gestation, so that there are no regrets afterwards ', he pointed out.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How long did it take to abort a creature?",
+                    "score": 0.7848,
+                    "answers": "that is why it will now be optional to abort until the|conj"
+                },
+                {
+                    "question": "What is the procedure for aborting a creature?",
+                    "score": 0.7375,
+                    "answers": "that Seeing that this does not happen and the creature gets ugly are disappointed , and that is why it will now be optional to abort until the|advcl"
+                },
+                {
+                    "question": "What does it mean to be optional to abort until the gestation?",
+                    "score": 0.7033,
+                    "answers": "the creature gets ugly|conj"
+                },
+                {
+                    "question": "What is the process for aborting a child?",
+                    "score": 0.6812,
+                    "answers": "on 17/03/2018|prep\tthat|mark\tthat|mark\tthis|nsubj\tdoes|aux\tnot|neg\tand|cc\tthe|det\tare|auxpass\t,|punct\tand|cc\tthat|nsubj\twhy|advmod\tit|nsubj\twill|aux\tnow|advmod\tto|aux\tthe|mark\t  weeks of gestation ,|dep\tof gestation|prep\tgestation|pobj\t,|punct\tso|mark\tthat|mark\tthere|expl\tso that there are no regrets afterwards|advcl\tno|det\tno regrets|attr\tafterwards|advmod\t'|punct\t,|punct\the|nsubj\t' , he pointed out|ROOT\tout|prt"
+                },
+                {
+                    "question": "What iselruinaversal.com?",
+                    "score": 0.5026,
+                    "answers": "www.elruinaversal.com|nsubj"
+                }
+            ]
+        }
+    ]
+}

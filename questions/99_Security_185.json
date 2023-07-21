@@ -1,0 +1,417 @@
+{
+    "id": "99_Security_185",
+    "claim": "MEXICO. According to the Internet portal 'I told you so ', a Mexican woman was arrested by the authorities for selling tamales with supposed human flesh. Anabel Gomez Lopez is a tamalera from Mexico City that sold her food outside the metro station. However, thanks to an emergency call from one of the lady's neighbors; for her there was a gas leak in her home. When the authorities arrived, the escape was quite strong so they decided to break into the house and came across the surprise. Also in the room of his household were the bones of a young woman, from whom all the flesh had been taken away. It was collecting information with neighbors who could find the sale of Anabel Gomez and proceeded with the capture. In addition, once in police facilities, the lady confessed to having murdered more than  women; all to save herself a little money in the meat. The lady said the following:'The first time was a day I spent the investment, right?. And I didn't have to invest in meat and by coincidence I found a girl who got lost and looked for her parents. I took her to my house because from there I was going to talk to her parents to go get her; but the devil is devil and I said to myself, 'Anah, there is the flesh for your tamales'. And the girl never came home. '. He added,'That was the hard one. The rest of them have even taken away all their flesh; I was caught by the damn gas hose, as soon as I had changed it because 'Finally, Ana will face charges of homicide and health damage. Well, the people who consumed their tamales didn't know they were turning cannibals. I'm sorry.",
+    "source": "tiempo.hn",
+    "date": "19/04/2019",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "MEXICO.",
+            "question_answers": [
+                {
+                    "question": "On what date did tiempo.hn say that MEXICO was a state?",
+                    "answer": "19/04/2019"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of MEXICO?",
+                    "score": 0.6239,
+                    "answers": "tiempo.hn said on 19/04/2019 that MEXICO|ROOT\tthat|mark"
+                },
+                {
+                    "question": "What is MEXICO?",
+                    "score": 0.6036,
+                    "answers": "on 19/04/2019|prep\tthat MEXICO|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "According to the Internet portal 'I told you so ', a Mexican woman was arrested by the authorities for selling tamales with supposed human flesh.",
+            "question_answers": [
+                {
+                    "question": "What did tiempo.hn say about the arrest of a Mexican woman?",
+                    "answer": "'I told you so"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the name of the Mexican woman arrested by authorities for selling tamales with supposed human flesh?",
+                    "score": 0.7034,
+                    "answers": "to the Internet portal ' I told you so|prep\tInternet|compound\tthe Internet portal ' I told you so|pobj\ta Mexican woman|nsubjpass\tby the authorities|agent"
+                },
+                {
+                    "question": "What is the relationship between tamales and human flesh?",
+                    "score": 0.6455,
+                    "answers": "human|amod"
+                }
+            ]
+        },
+        {
+            "claim": "a Mexican woman is a tamalera from Mexico City that sold food outside the metro station.",
+            "question_answers": [
+                {
+                    "question": "What is the name of the Mexican woman that sold food outside the metro station?",
+                    "answer": "tamalera"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What type of food did a Mexican woman sell outside the metro station?",
+                    "score": 0.7964,
+                    "answers": "food|dobj"
+                },
+                {
+                    "question": "Where did the tamalera originate from?",
+                    "score": 0.7723,
+                    "answers": "from Mexico City|prep\tthe|det\tmetro|compound"
+                },
+                {
+                    "question": "Where was the tamalera from?",
+                    "score": 0.7435,
+                    "answers": "tiempo.hn said on 19/04/2019 that a Mexican woman is a tamalera from Mexico City that sold food outside the metro station|ROOT\tthat a Mexican woman is a tamalera from Mexico City that sold food outside the metro station|ccomp\tthe metro station|pobj"
+                },
+                {
+                    "question": "Where is the tamalera from?",
+                    "score": 0.715,
+                    "answers": "a tamalera from Mexico City that sold food outside the metro station|attr"
+                },
+                {
+                    "question": "What is the origin of the tamalera from Mexico City?",
+                    "score": 0.6677,
+                    "answers": "that|mark\tMexico|compound\tthat|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "However, thanks to an emergency call from one of a Mexican woman neighbors; for a Mexican woman there was a gas leak in her home .",
+            "question_answers": [
+                {
+                    "question": "What was the cause of the emergency call?",
+                    "answer": "gas leak"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Was there a gas leak in a Mexican woman's home?",
+                    "score": 0.8608,
+                    "answers": "tiempo.hn said on 19/04/2019 that However , thanks to an emergency call from one of a Mexican woman neighbors ; for a Mexican woman there was a gas leak in her home|ROOT\ton 19/04/2019|prep\tHowever|advmod\tthat However , thanks to an emergency call from one of a Mexican woman neighbors ; for a Mexican woman there was a gas leak in her home|ccomp\ta gas leak in her home|attr\tin her home|prep"
+                },
+                {
+                    "question": "How many gallons of gas leaked from a Mexican woman's home in 2019?",
+                    "score": 0.6535,
+                    "answers": "her home|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "When the authorities arrived, the escape was quite strong so the authorities decided to break into her home and came across the surprise.",
+            "question_answers": [
+                {
+                    "question": "Why did the authorities decide to break into tiempo.hn's home?",
+                    "answer": "the escape was quite strong"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the authorities say about the escape?",
+                    "score": 0.6699,
+                    "answers": "on 19/04/2019|prep\tthat|mark\tthe authorities|nsubj\t,|punct\tquite strong|acomp\tthe authorities|nsubj\tto|aux"
+                },
+                {
+                    "question": "What was the purpose of the escape?",
+                    "score": 0.6213,
+                    "answers": "tiempo.hn said on 19/04/2019 that When the authorities arrived , the escape was quite strong so the authorities decided to break into her home and came across the surprise|ROOT\tthe escape|nsubj\tthat When the authorities arrived , the escape was quite strong so the authorities decided to break into her home and came across the surprise|ccomp\tcame across the surprise|conj\tacross the surprise|prep\tthe surprise|pobj"
+                },
+                {
+                    "question": "Where did the authorities break into the home and come across a surprise?",
+                    "score": 0.5635,
+                    "answers": "into her home|prep\ther home|pobj"
+                },
+                {
+                    "question": "What is tiempo.hn?",
+                    "score": 0.4469,
+                    "answers": "tiempo.hn|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Also in the room of her home were the bones of a young woman, from whom all the flesh had been taken away.",
+            "question_answers": [
+                {
+                    "question": "When did tiempo.hn say that bones of a young woman were found in her home?",
+                    "answer": "19/04/2019"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where were the bones of a young woman taken from?",
+                    "score": 0.7499,
+                    "answers": "that Also in the room of her home were the bones of a young woman , from whom all the flesh had been taken away|ccomp"
+                },
+                {
+                    "question": "What was the bones of the young woman from whom all the flesh was taken away from her home?",
+                    "score": 0.5726,
+                    "answers": "all|predet"
+                },
+                {
+                    "question": "What is tiempo.hn?",
+                    "score": 0.4388,
+                    "answers": "tiempo.hn|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "It was collecting information with neighbors who could find the sale of a Mexican woman and proceeded with arrested .",
+            "question_answers": [
+                {
+                    "question": "What did tiempo.hn collect information about?",
+                    "answer": "the sale of a Mexican woman"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the sale of a Mexican woman?",
+                    "score": 0.6682,
+                    "answers": "It|nsubj\tinformation|dobj\tthe|det\ta|det"
+                },
+                {
+                    "question": "Who was the person that was arrested?",
+                    "score": 0.5453,
+                    "answers": "neighbors who could find the sale of a Mexican woman|pobj"
+                },
+                {
+                    "question": "What was the name of the woman that was arrested?",
+                    "score": 0.5433,
+                    "answers": "the sale of a Mexican woman|dobj\ta Mexican woman|pobj"
+                },
+                {
+                    "question": "What was the purpose of tiempo.hn?",
+                    "score": 0.4326,
+                    "answers": "that It was collecting information with neighbors who could find the sale of a Mexican woman and proceeded with arrested|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In addition, once in police facilities, a Mexican woman confessed to having murdered more than  women; all to save a Mexican woman a little money in the meat.",
+            "question_answers": [
+                {
+                    "question": "Why did tiempo.hn say that a Mexican woman confessed to having murdered more women than women?",
+                    "answer": "to save a Mexican woman a little money in the meat"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did a Mexican woman confessed to having murdered more than one woman?",
+                    "score": 0.8328,
+                    "answers": "once in police facilities|advcl\tthat In addition , once in police facilities , a Mexican woman confessed to having murdered more than|ccomp"
+                },
+                {
+                    "question": "How many murders have been committed by Mexican women?",
+                    "score": 0.7316,
+                    "answers": "having murdered more than|pcomp"
+                },
+                {
+                    "question": "How much money did a Mexican woman make from the meat she slaughtered?",
+                    "score": 0.724,
+                    "answers": "a little money in the meat|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the murder of a Mexican woman?",
+                    "score": 0.6496,
+                    "answers": "little|amod\tin the meat|prep\tthe meat|pobj"
+                },
+                {
+                    "question": "How many Mexican women were murdered in police facilities in 2019?",
+                    "score": 0.6236,
+                    "answers": "women ;|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "a Mexican woman said the following:'The first time was a day a Mexican woman spent the investment, right?.",
+            "question_answers": [
+                {
+                    "question": "On what date did tiempo.hn say that a Mexican woman said: 'The first time was a day a Mexican woman spent the investment, right?",
+                    "answer": "19/04/2019"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did a Mexican woman spend on investments?",
+                    "score": 0.8462,
+                    "answers": "a day a Mexican woman spent the investment|attr"
+                },
+                {
+                    "question": "What was the first time a Mexican woman spent money on investments?",
+                    "score": 0.8129,
+                    "answers": "tiempo.hn said on 19/04/2019 that a Mexican woman said the following:'The first time was a day a Mexican woman spent the investment , right ?|ROOT"
+                },
+                {
+                    "question": "What is the source of evidence of the money spent by a Mexican woman on investments?",
+                    "score": 0.7283,
+                    "answers": "that|mark\ta|det\tthe|det\tthe following:'The|dobj\ta|det\ta|det\tthe|det\t,|punct\t?|punct"
+                }
+            ]
+        },
+        {
+            "claim": "And a Mexican woman didn't have to invest in meat and by coincidence a Mexican woman found a girl who got lost and looked for her parents .",
+            "question_answers": [
+                {
+                    "question": "When did tiempo.hn say that a Mexican woman didn't have to invest in meat?",
+                    "answer": "19/04/2019"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did a Mexican woman get lost and look for her parents?",
+                    "score": 0.6705,
+                    "answers": "that And a Mexican woman did n't have to invest in meat and by coincidence a Mexican woman found a girl who got lost and looked for her parents|ccomp"
+                },
+                {
+                    "question": "What did a Mexican woman find lost and looking for her parents?",
+                    "score": 0.5767,
+                    "answers": "to invest in meat|xcomp"
+                },
+                {
+                    "question": "What was the name of the Mexican woman who found a girl lost and looked for her parents?",
+                    "score": 0.4934,
+                    "answers": "a Mexican woman|nsubj\ta Mexican woman|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "a Mexican woman took a girl who got lost and looked for her parents to her home because from there a Mexican woman was going to talk to her parents to go get a girl who got lost and looked for her parents ; but the devil is devil and a Mexican woman said to a Mexican woman , 'a girl who got lost and looked for her parents , there is the flesh for tamales'.",
+            "question_answers": [
+                {
+                    "question": "What did a Mexican woman say to a Mexican woman?",
+                    "answer": "'a girl who got lost and looked for her parents"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did a Mexican woman say to her parents about tamales?",
+                    "score": 0.7495,
+                    "answers": "to her parents|prep"
+                },
+                {
+                    "question": "Did a Mexican woman get lost and look for her parents?",
+                    "score": 0.7403,
+                    "answers": "that a Mexican woman took a girl who got lost and looked for her parents to her home because from there a Mexican woman was going to talk to her parents to go get a girl who got lost and looked for her parents ; but the devil is devil and a Mexican woman said to a Mexican woman , ' a girl who got lost and looked for her parents , there is the flesh for tamales '|ccomp"
+                },
+                {
+                    "question": "What was the name of the Mexican woman who took a girl who got lost and looked for her parents?",
+                    "score": 0.5785,
+                    "answers": "that|mark\ta|det\ta|det\tand|cc\ther home|pobj\tbecause|mark\tfrom there|prep\tthere|pcomp\ta|det\twas|aux\ta|det\tand|cc\t;|punct\tbut|cc\tand|cc\ta|det\ta|det\t,|punct\ta|det\tand|cc\t,|punct\tthere|expl\ttamales|pobj"
+                },
+                {
+                    "question": "What is the flesh for tamales?",
+                    "score": 0.5665,
+                    "answers": "the flesh for tamales|attr\tfor tamales|prep"
+                },
+                {
+                    "question": "What is the relationship between the devil and tamales?",
+                    "score": 0.5608,
+                    "answers": "for her parents|prep\tfor her parents|prep\tthe|det\tfor her parents|prep\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "And the girl never came home.",
+            "question_answers": [
+                {
+                    "question": "When did tiempo.hn say that the girl never came home?",
+                    "answer": "19/04/2019"
+                },
+                {
+                    "question": "What did tiempo.hn say on 19/04/2019?",
+                    "answer": "the girl never came home"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the girl come home?",
+                    "score": 0.7032,
+                    "answers": "tiempo.hn said on 19/04/2019 that And the girl never came home|ROOT\ton 19/04/2019|prep\tthat And the girl never came home|ccomp"
+                },
+                {
+                    "question": "What was the name of the girl who came home?",
+                    "score": 0.5645,
+                    "answers": "tiempo.hn|nsubj\tthat|mark\tAnd|cc\tthe|det\tthe girl|nsubj\tnever|neg\thome|advmod"
+                }
+            ]
+        },
+        {
+            "claim": "The rest of them have even taken away all their flesh; I was caught by the damn gas hose, as soon as I had changed it because 'Finally, Ana will face charges of homicide and health damage.",
+            "question_answers": [
+                {
+                    "question": "Along with health damage, what will Ana face charges of?",
+                    "answer": "homicide"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Ana doing with the damn gas hose?",
+                    "score": 0.7386,
+                    "answers": "as soon as I had changed it|advmod"
+                },
+                {
+                    "question": "What did Ana do with the gas hose?",
+                    "score": 0.7288,
+                    "answers": "them|pobj\taway|advmod\ttheir|poss\tI|nsubjpass\tI|nsubj\tas I had changed it|advcl"
+                },
+                {
+                    "question": "What did Ana face charges for?",
+                    "score": 0.7179,
+                    "answers": "because ' Finally , Ana will face charges of homicide and health damage|advcl\tof homicide and health damage|prep\thomicide and health damage|pobj"
+                },
+                {
+                    "question": "Who took away all their flesh?",
+                    "score": 0.7062,
+                    "answers": "tiempo.hn said on 19/04/2019 that The rest of them have even taken away all their flesh|ccomp"
+                },
+                {
+                    "question": "What is Ana being charged with?",
+                    "score": 0.5955,
+                    "answers": "on 19/04/2019|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Well, the people who consumed their tamales didn't know they were turning cannibals.",
+            "question_answers": [
+                {
+                    "question": "When did tiempo.hn say that the people who consumed their tamales didn't know they were turning cannibals?",
+                    "answer": "19/04/2019"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people consume tamales?",
+                    "score": 0.7832,
+                    "answers": "the people who consumed their tamales|nsubj"
+                },
+                {
+                    "question": "What did the people who consumed their tamales know about cannibalism?",
+                    "score": 0.7261,
+                    "answers": "tiempo.hn said on 19/04/2019 that Well , the people who consumed their tamales did n't know they were turning cannibals|ROOT\tthat|mark\tWell|intj\t,|punct\tthe|det\twho|nsubj\ttheir|poss\tdid|aux\tn't|neg\tthat Well , the people who consumed their tamales did n't know they were turning cannibals|ccomp\tthey|nsubj\twere|aux\tthey were turning cannibals|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the people who consume tamales?",
+                    "score": 0.6924,
+                    "answers": "their tamales|dobj"
+                },
+                {
+                    "question": "What are Cannibals?",
+                    "score": 0.6307,
+                    "answers": "cannibals|attr"
+                },
+                {
+                    "question": "What is tiempo.hn?",
+                    "score": 0.4414,
+                    "answers": "tiempo.hn|nsubj"
+                }
+            ]
+        }
+    ]
+}

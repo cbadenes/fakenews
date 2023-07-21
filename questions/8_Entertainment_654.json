@@ -1,0 +1,508 @@
+{
+    "id": "8_Entertainment_654",
+    "claim": "During the  couple years, actors raised a large family (CNN) - Brad Pitt and Angelina Jolie are no longer a couple. But during the  years when they were, they had four children together, plus a boy and a girl that Jolie adopted before the relationship. There'll probably be a question in trivia games soon, so now's a good time to get to know the offspring of Brangelina. (In case you were wondering, all children have their parents' surnames, with script). ♪ NUMBER ♪. Maddox Chivan, born in  Jolie adopted Maddox in Cambodia when he was only a few months old. He and his sister Zahara were adopted by Pitt in . ♪ NUMBER ♪. Zahara Marley, born in  Jolie adopted Zahara Marley Jolie-Pitt in Ethiopia when the girl was six months old. ♪ NUMBER ♪. Shiloh Nouvel, born * NUMBER* Shiloh was the first biological daughter of Jolie and Pitt. ♪ NUMBER ♪. Pax Thien, born in  Jolie adopted Pax in Vietnam when he was years old, in . Because of local adoption laws, he adopted him as a single mother and Pitt adopted him as his son a year later. ♪ NUMBER ♪. Knox Leon, born in  Jolie amazed his followers when he announced that she and Pitt were waiting for twins in . ♪ NUMBER ♪. Vivienne Marcheline, born in  Vivienne shares her middle name with Jolie's mother, who died of ovarian cancer in . I'm sorry.",
+    "source": "cnnespanol.cnn.com",
+    "date": "20/09/2016",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "During the  couple years, actors raised a large family (CNN) - Brad Pitt and Angelina Jolie are no longer a couple.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report that Brad Pitt and Angelina Jolie are no longer a couple?",
+                    "answer": "20/09/2016"
+                },
+                {
+                    "question": "Which two actors are no longer a couple?",
+                    "answer": "Brad Pitt and Angelina Jolie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many kids did Brad Pitt and Angelina Jolie have?",
+                    "score": 0.7839,
+                    "answers": "a large family|dobj"
+                },
+                {
+                    "question": "What is Brad Pitt's family?",
+                    "score": 0.6893,
+                    "answers": "Brad|compound"
+                }
+            ]
+        },
+        {
+            "claim": "But during the  years when Brad Pitt and Angelina Jolie were, Brad Pitt and Angelina Jolie had four children together, plus a boy and a girl that Angelina Jolie adopted before the relationship.",
+            "question_answers": [
+                {
+                    "question": "How many children did Brad Pitt and Angelina Jolie have together?",
+                    "answer": "four"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many children did Brad Pitt and Angelina Jolie have together?",
+                    "score": 0.7551,
+                    "answers": "cnnespanol.cnn.com reported on 20/09/2016 that But during the   years when Brad Pitt and Angelina Jolie were , Brad Pitt and Angelina Jolie had four children together , plus a boy and a girl that Angelina Jolie adopted before the relationship|ROOT\ton 20/09/2016|prep\tthat|mark\tBut|cc\tduring the   years when Brad Pitt and Angelina Jolie were|prep\tthe|det\tthe   years when Brad Pitt and Angelina Jolie were|dep\tyears when Brad Pitt and Angelina Jolie were|pobj\twhen|advmod\tBrad|compound\tand|cc\twhen Brad Pitt and Angelina Jolie were|relcl\t,|punct\tBrad|compound\tand|cc\tthat But during the   years when Brad Pitt and Angelina Jolie were , Brad Pitt and Angelina Jolie had four children together , plus a boy and a girl that Angelina Jolie adopted before the relationship|ccomp\tfour children together , plus a boy and a girl that Angelina Jolie adopted before the relationship|dobj\ttogether|advmod\t,|punct\tplus|cc\ta|det\tand|cc\ta|det\ta girl|conj\tthat|dobj\tthat Angelina Jolie adopted before the relationship|relcl\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "There'll probably be a question in trivia games soon, so now's a good time to get to know four children .",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report that there'll probably be a question in trivia games soon?",
+                    "answer": "20/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many children does it take to get to know four children?",
+                    "score": 0.7843,
+                    "answers": "to get to know four children|relcl"
+                },
+                {
+                    "question": "How many children are there in the world?",
+                    "score": 0.7524,
+                    "answers": "four children|dobj"
+                },
+                {
+                    "question": "How many games will there be in the future?",
+                    "score": 0.7429,
+                    "answers": "There|expl\ttrivia|compound\ttrivia games|pobj"
+                },
+                {
+                    "question": "What is the source of evidence of the number of children in the game?",
+                    "score": 0.6215,
+                    "answers": "on 20/09/2016|prep"
+                },
+                {
+                    "question": "What is the name of the website that answers the question of whether or not there will be a question in games soon?",
+                    "score": 0.5954,
+                    "answers": "a question|attr"
+                }
+            ]
+        },
+        {
+            "claim": "(In case you were wondering, all children have parents' surnames, with script).",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report that all children have parents' surnames?",
+                    "answer": "20/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many children have parents' surnames?",
+                    "score": 0.7895,
+                    "answers": "parents '|poss"
+                },
+                {
+                    "question": "What does cnnespanol.cnn.com do?",
+                    "score": 0.7302,
+                    "answers": "that|mark"
+                },
+                {
+                    "question": "What are the names of children with their parents' surnames?",
+                    "score": 0.6884,
+                    "answers": "on 20/09/2016|prep\tparents ' surnames , with script|dobj"
+                },
+                {
+                    "question": "What is the difference between a parent's surnames and a child's names?",
+                    "score": 0.6477,
+                    "answers": "script|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "♪ NUMBER ♪.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report?",
+                    "answer": "20/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the NUMBER?",
+                    "score": 0.6842,
+                    "answers": "that ♪ NUMBER ♪|dep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6336,
+                    "answers": "cnnespanol.cnn.com|nsubj\ton 20/09/2016|prep\tthat|mark\t♪|punct\t♪|punct"
+                },
+                {
+                    "question": "What is the relationship between NUMBER and NUMB?",
+                    "score": 0.6151,
+                    "answers": "cnnespanol.cnn.com reported on 20/09/2016 that ♪ NUMBER ♪|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Maddox Chivan, born in  Angelina Jolie adopted Maddox in Cambodia when Maddox was only a few months old.",
+            "question_answers": [
+                {
+                    "question": "Who was the mother of Maddox Chivan?",
+                    "answer": "Angelina Jolie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Maddox born in Cambodia?",
+                    "score": 0.8348,
+                    "answers": "when Maddox was only a few months old|advcl\tonly a few months|npadvmod"
+                },
+                {
+                    "question": "Where was Maddox born?",
+                    "score": 0.7799,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 20/09/2016 that Maddox Chivan , born in   Angelina Jolie adopted Maddox in Cambodia when Maddox was only a few months old|ROOT\ton 20/09/2016|prep\tthat|mark\t,|punct\tborn in|acl\tin|prep\tAngelina|compound\tthat Maddox Chivan , born in   Angelina Jolie adopted Maddox in Cambodia when Maddox was only a few months old|ccomp\tin Cambodia|prep\twhen|advmod\tonly|advmod\ta|quantmod\tonly a few|nummod"
+                },
+                {
+                    "question": "Where was Maddox Chivan born?",
+                    "score": 0.7784,
+                    "answers": "Maddox Chivan , born in|nsubj\tMaddox Chivan , born in  |dep"
+                }
+            ]
+        },
+        {
+            "claim": "Maddox and his sister Zahara were adopted by Brad Pitt in .",
+            "question_answers": [
+                {
+                    "question": "Who adopted Maddox?",
+                    "answer": "Brad Pitt"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who adopted Maddox and his sister Zahara?",
+                    "score": 0.8919,
+                    "answers": "on 20/09/2016|prep\tthat|mark\tMaddox and his sister Zahara|nsubjpass\this|poss\this sister Zahara|conj\tthat Maddox and his sister Zahara were adopted by Brad Pitt in|ccomp\tBrad|compound"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.5942,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "♪ NUMBER ♪.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report?",
+                    "answer": "20/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the NUMBER?",
+                    "score": 0.6842,
+                    "answers": "that ♪ NUMBER ♪|dep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6336,
+                    "answers": "cnnespanol.cnn.com|nsubj\ton 20/09/2016|prep\tthat|mark\t♪|punct\t♪|punct"
+                },
+                {
+                    "question": "What is the relationship between NUMBER and NUMB?",
+                    "score": 0.6151,
+                    "answers": "cnnespanol.cnn.com reported on 20/09/2016 that ♪ NUMBER ♪|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Zahara Marley, born in  Angelina Jolie adopted his sister Zahara in Ethiopia when his sister Zahara was six months old.",
+            "question_answers": [
+                {
+                    "question": "Where was Zahara Marley born?",
+                    "answer": "Angelina Jolie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Angelina Jolie adopt Zahara?",
+                    "score": 0.8548,
+                    "answers": "Angelina Jolie adopted his sister Zahara in Ethiopia when his sister Zahara was six months old|ccomp"
+                },
+                {
+                    "question": "When was Zahara Marley born?",
+                    "score": 0.832,
+                    "answers": "when his sister Zahara was six months old|advcl"
+                },
+                {
+                    "question": "Where was Angelina Jolie born?",
+                    "score": 0.8285,
+                    "answers": "Angelina|compound"
+                },
+                {
+                    "question": "How old was Zahara Marley when she was born?",
+                    "score": 0.7587,
+                    "answers": "six months|npadvmod"
+                },
+                {
+                    "question": "What is the name of Angelina Jolie's sister Zahara?",
+                    "score": 0.7023,
+                    "answers": "his sister Zahara|dobj\this sister Zahara|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "♪ NUMBER ♪.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report?",
+                    "answer": "20/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the NUMBER?",
+                    "score": 0.6842,
+                    "answers": "that ♪ NUMBER ♪|dep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6336,
+                    "answers": "cnnespanol.cnn.com|nsubj\ton 20/09/2016|prep\tthat|mark\t♪|punct\t♪|punct"
+                },
+                {
+                    "question": "What is the relationship between NUMBER and NUMB?",
+                    "score": 0.6151,
+                    "answers": "cnnespanol.cnn.com reported on 20/09/2016 that ♪ NUMBER ♪|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Shiloh Nouvel, born * NUMBER* was the first biological daughter of Brad Pitt and Angelina Jolie .",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report that Shiloh Nouvel was the first biological daughter of Brad Pitt and Angelina Jolie?",
+                    "answer": "20/09/2016"
+                },
+                {
+                    "question": "Who were the parents of Shiloh Nouvel?",
+                    "answer": "Brad Pitt and Angelina Jolie"
+                },
+                {
+                    "question": "Who were the parents of Shiloh Nouvel?",
+                    "answer": "Brad Pitt and Angelina Jolie"
+                },
+                {
+                    "question": "Who were the parents of Shiloh Nouvel?",
+                    "answer": "Brad Pitt and Angelina Jolie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Shiloh Nouvel born?",
+                    "score": 0.8369,
+                    "answers": "on 20/09/2016|prep\tShiloh Nouvel , born * NUMBER *|nsubj\tborn|acl\tNUMBER|appos"
+                },
+                {
+                    "question": "Who was Shiloh Nouvel's father?",
+                    "score": 0.7094,
+                    "answers": "that|mark\tShiloh|compound\t,|punct\t*|punct\t*|punct\tthe|det\tbiological|amod\tand|cc"
+                },
+                {
+                    "question": "Who is Shiloh Nouvel's father?",
+                    "score": 0.6571,
+                    "answers": "cnnespanol.cnn.com|nsubj\tcnnespanol.cnn.com reported on 20/09/2016 that Shiloh Nouvel , born * NUMBER * was the first biological daughter of Brad Pitt and Angelina Jolie|ROOT\tthat Shiloh Nouvel , born * NUMBER * was the first biological daughter of Brad Pitt and Angelina Jolie|ccomp\tthe first biological daughter of Brad Pitt and Angelina Jolie|attr\tof Brad Pitt and Angelina Jolie|prep\tBrad|compound\tBrad Pitt and Angelina Jolie|pobj\tAngelina|compound"
+                }
+            ]
+        },
+        {
+            "claim": "♪ NUMBER ♪.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report?",
+                    "answer": "20/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the NUMBER?",
+                    "score": 0.6842,
+                    "answers": "that ♪ NUMBER ♪|dep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6336,
+                    "answers": "cnnespanol.cnn.com|nsubj\ton 20/09/2016|prep\tthat|mark\t♪|punct\t♪|punct"
+                },
+                {
+                    "question": "What is the relationship between NUMBER and NUMB?",
+                    "score": 0.6151,
+                    "answers": "cnnespanol.cnn.com reported on 20/09/2016 that ♪ NUMBER ♪|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Pax Thien, born in  Angelina Jolie adopted Pax in Vietnam when Pax was years old, in .",
+            "question_answers": [
+                {
+                    "question": "Where was Pax Thien born?",
+                    "answer": "Angelina Jolie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When was Pax in Vietnam born?",
+                    "score": 0.7924,
+                    "answers": "when|advmod\tyears|npadvmod"
+                },
+                {
+                    "question": "Where was Pax Thien born?",
+                    "score": 0.7714,
+                    "answers": "cnnespanol.cnn.com reported on 20/09/2016 that Pax Thien , born in   Angelina Jolie adopted Pax in Vietnam when Pax was years old , in|ROOT\ton 20/09/2016|prep\tPax Thien , born in|nsubj\tborn in|acl\tPax Thien , born in  |dep\tAngelina|compound\tthat Pax Thien , born in   Angelina Jolie adopted Pax in Vietnam when Pax was years old , in|ccomp\tin Vietnam|prep\twhen Pax was years old ,|advcl"
+                },
+                {
+                    "question": "What is Pax in Vietnam?",
+                    "score": 0.6319,
+                    "answers": "cnnespanol.cnn.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Because of local adoption laws, Angelina Jolie adopted Pax as a single mother and Brad Pitt adopted Pax as son a year later.",
+            "question_answers": [
+                {
+                    "question": "Who adopted Pax as son?",
+                    "answer": "Brad Pitt"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Angelina Jolie adopt Pax as a single mother?",
+                    "score": 0.8225,
+                    "answers": "Because of local adoption laws|prep"
+                },
+                {
+                    "question": "What is the relationship between Angelina Jolie and Brad Pitt?",
+                    "score": 0.6109,
+                    "answers": "that|mark\tof|pcomp\t,|punct\tas a single mother|prep\tsingle|amod\ta single mother|pobj\tBrad|compound\tas son|prep\tson|pobj"
+                },
+                {
+                    "question": "What is the name of the local adoption laws?",
+                    "score": 0.5877,
+                    "answers": "local adoption laws|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "♪ NUMBER ♪.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report?",
+                    "answer": "20/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the NUMBER?",
+                    "score": 0.6842,
+                    "answers": "that ♪ NUMBER ♪|dep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6336,
+                    "answers": "cnnespanol.cnn.com|nsubj\ton 20/09/2016|prep\tthat|mark\t♪|punct\t♪|punct"
+                },
+                {
+                    "question": "What is the relationship between NUMBER and NUMB?",
+                    "score": 0.6151,
+                    "answers": "cnnespanol.cnn.com reported on 20/09/2016 that ♪ NUMBER ♪|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Knox Leon, born in  Angelina Jolie amazed followers when his announced that Brad Pitt and Angelina Jolie were waiting for twins in .",
+            "question_answers": [
+                {
+                    "question": "Who were the twins of Knox Leon?",
+                    "answer": "Brad Pitt and Angelina Jolie"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Angelina Jolie announce that she was waiting for twins?",
+                    "score": 0.8423,
+                    "answers": "Angelina Jolie amazed followers when his announced that Brad Pitt and Angelina Jolie were waiting for twins in|ccomp"
+                },
+                {
+                    "question": "When was Knox Leon born?",
+                    "score": 0.7977,
+                    "answers": "that Brad Pitt and Angelina Jolie were waiting for twins in|ccomp"
+                },
+                {
+                    "question": "What is the relationship between Brad Pitt and Angelina Jolie?",
+                    "score": 0.6393,
+                    "answers": "Brad|compound\tBrad Pitt and Angelina Jolie|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "♪ NUMBER ♪.",
+            "question_answers": [
+                {
+                    "question": "When did cnnespanol.cnn.com report?",
+                    "answer": "20/09/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the NUMBER?",
+                    "score": 0.6842,
+                    "answers": "that ♪ NUMBER ♪|dep"
+                },
+                {
+                    "question": "What is cnnespanol.cnn.com?",
+                    "score": 0.6336,
+                    "answers": "cnnespanol.cnn.com|nsubj\ton 20/09/2016|prep\tthat|mark\t♪|punct\t♪|punct"
+                },
+                {
+                    "question": "What is the relationship between NUMBER and NUMB?",
+                    "score": 0.6151,
+                    "answers": "cnnespanol.cnn.com reported on 20/09/2016 that ♪ NUMBER ♪|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "Vivienne Marcheline, born in  Vivienne shares her middle name with Jolie's mother, who died of ovarian cancer in .",
+            "question_answers": [
+                {
+                    "question": "What type of cancer did Vivienne Marcheline's mother die of?",
+                    "answer": "ovarian cancer"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where was Vivienne Marcheline born?",
+                    "score": 0.8186,
+                    "answers": "that|mark\tthat Vivienne Marcheline , born in|dobj\t,|punct\tborn in|acl\tin|prep\t |dep\ther|poss\t,|punct\twho|nsubj\tin|prep"
+                },
+                {
+                    "question": "What is Vivienne Marcheline's middle name?",
+                    "score": 0.6969,
+                    "answers": "middle|amod"
+                },
+                {
+                    "question": "What is the middle name of Vivienne Marcheline's mother?",
+                    "score": 0.6761,
+                    "answers": "'s|case"
+                },
+                {
+                    "question": "What was the cause of death for Jolie's mother?",
+                    "score": 0.6603,
+                    "answers": "who died of ovarian cancer in|relcl"
+                },
+                {
+                    "question": "Who is Jolie's mother?",
+                    "score": 0.6556,
+                    "answers": "with Jolie 's mother , who died of ovarian cancer in|prep\tJolie 's mother , who died of ovarian cancer in|pobj"
+                }
+            ]
+        }
+    ]
+}

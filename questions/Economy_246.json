@@ -1,0 +1,261 @@
+{
+    "id": "Economy_246",
+    "claim": "After the fiasco of Blim, Televisa is looking to improve its contents as much as possible, so it has decided to sign an agreement with one of the media with greater reach at this time: Facebook. Basically, Televisa's people can add you to their profiles, make friends with you, and when you start telling them their lives, they can do with it whatever they consider. From episodes of La Rosa de Guadalupe, soap operas, comic programmes or, if the theme is given, to adult films. 'What this is about, is to get more realistic ideas, and the best thing is to find them among real people ', told us the head of this project, Julio Alejandro Roberto de Talamantes and Mayorga.'We already have people adding to how much account you can, and chatting with who you can. You can't imagine the amount of material we already have.\".  And the user can do something about it? Not much, because the one who gives us the authorization is the same people on Facebook. However, there is a text circulating that, if you stick it on your wall, won't let us do anything. Not even our best lawyers have been able to deal with him. But we have faith that not many people use it. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "07/04/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "After the fiasco of Blim, Televisa is looking to improve contents as much as possible, so Televisa has decided to sign an agreement with one of the media with greater reach at this time: Facebook .",
+            "question_answers": [
+                {
+                    "question": "What social network did Televisa sign an agreement with?",
+                    "answer": "Facebook"
+                },
+                {
+                    "question": "What social network did Televisa sign an agreement with?",
+                    "answer": "Facebook"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Televisa sign an agreement with?",
+                    "score": 0.833,
+                    "answers": "www.eldizque.com reported on 07/04/2016 that After the fiasco of Blim , Televisa is looking to improve contents as much as possible , so Televisa has decided to sign an agreement with one of the media with greater reach at this time : Facebook|ROOT\tto sign an agreement with one of the media with greater reach at this time : Facebook|xcomp\tan agreement|dobj"
+                },
+                {
+                    "question": "What did Televisa do after the fiasco of Blim?",
+                    "score": 0.7992,
+                    "answers": "the fiasco of Blim|pobj\tof Blim|prep"
+                },
+                {
+                    "question": "What is the relationship between Facebook and Televisa?",
+                    "score": 0.6395,
+                    "answers": "one of the media with greater reach at this time : Facebook|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "Basically, Televisa's people can add you to profiles, make friends with you, and when you start telling Televisa's people their lives , Televisa's people can do with their lives whatever Televisa's people consider.",
+            "question_answers": [
+                {
+                    "question": "When can Televisa's people do with their lives?",
+                    "answer": "when you start telling Televisa's people their lives"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can Televisa's people make friends with you?",
+                    "score": 0.887,
+                    "answers": "that Basically , Televisa 's people can add you to profiles , make friends with you , and when you start telling Televisa 's people their lives , Televisa 's people can do with their lives whatever Televisa 's people consider|ccomp"
+                },
+                {
+                    "question": "What is Televisa's people doing with their lives?",
+                    "score": 0.7922,
+                    "answers": "that|mark\t,|punct\t,|punct\t,|punct\twhen|advmod\t,|punct\twhatever|dobj"
+                },
+                {
+                    "question": "What are the benefits of Televisa's people making friends with you?",
+                    "score": 0.7885,
+                    "answers": "can|aux\tyou|dobj\tmake friends with you|conj\tyou|pobj\tyou|nsubj\twhen you start telling Televisa 's people their lives|advcl\tcan|aux"
+                },
+                {
+                    "question": "What are the profiles of Televisa's people?",
+                    "score": 0.7862,
+                    "answers": "profiles|pobj"
+                },
+                {
+                    "question": "Who are Televisa's people?",
+                    "score": 0.7649,
+                    "answers": "Televisa 's people|nsubj\tTelevisa 's people|dative\tTelevisa 's people|nsubj\tTelevisa 's people|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "From episodes of La Rosa de Guadalupe, soap operas, comic programmes or, if the theme is given, to adult films.",
+            "question_answers": [
+                {
+                    "question": "Along with soap operas, soap operas and adult films, what type of programming was reported on 07/04/2016?",
+                    "answer": "comic programmes"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the theme of La Rosa de Guadalupe?",
+                    "score": 0.8007,
+                    "answers": "www.eldizque.com reported on 07/04/2016 that From episodes of La Rosa de Guadalupe , soap operas , comic programmes or , if the theme is given , to adult films|ROOT\tthat From episodes of La Rosa de Guadalupe , soap operas , comic programmes or , if the theme is given , to adult films|prep\t,|punct\t,|punct\t,|punct\tthe|det\t,|punct\tadult|compound"
+                },
+                {
+                    "question": "What is the relationship between La Rosa de Guadalupe and adult films?",
+                    "score": 0.7526,
+                    "answers": "is|auxpass"
+                }
+            ]
+        },
+        {
+            "claim": "'What this is about, is to get more realistic ideas , and the best thing is to find more realistic ideas among real people ', told us the head of this project, Julio Alejandro Roberto de Talamantes and Mayorga.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com say about the project?",
+                    "answer": "to get more realistic ideas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the head of the project say about realistic ideas among real people?",
+                    "score": 0.6896,
+                    "answers": "on 07/04/2016|prep\tthis is What about|csubj\tWhat about|prep\tmore|advmod\tbest|amod\tmore|advmod"
+                },
+                {
+                    "question": "What is the purpose of theldizque project?",
+                    "score": 0.5845,
+                    "answers": "to get more realistic ideas|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "'We already have people adding to how much account you can, and chatting with who you can.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'We already have people adding to how much account you can, and chatting with who you can'?",
+                    "answer": "07/04/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many accounts can you add to the account?",
+                    "score": 0.8631,
+                    "answers": "www.eldizque.com|nsubj\twho you can|pobj"
+                },
+                {
+                    "question": "How many accounts are there in the United States?",
+                    "score": 0.8323,
+                    "answers": "you|nsubj\tyou|nsubj"
+                },
+                {
+                    "question": "What is the number of people who can add to how much accounts?",
+                    "score": 0.8021,
+                    "answers": "'|punct\tWe|nsubj\talready|advmod\t,|punct"
+                }
+            ]
+        },
+        {
+            "claim": "You can't imagine the amount of material we already have .",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that you can't imagine the amount of material we already have?",
+                    "answer": "07/04/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much material does the United States have?",
+                    "score": 0.9382,
+                    "answers": "www.eldizque.com reported on 07/04/2016 that You ca n't imagine the amount of material we already have|ROOT\ton 07/04/2016|prep\tthat|mark\tYou|nsubj\tca|aux\tn't|neg\tthat You ca n't imagine the amount of material we already have|ccomp\tthe|det\tthe amount of material we already have|dobj\tof material we already have|prep\tmaterial we already have|pobj\twe|nsubj\talready|advmod\twe already have|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of the amount of material that we already have?",
+                    "score": 0.7791,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": " And the user can do something about the amount of material we already have ? Not much, because the one who gives we the authorization is the same people on one of the media with greater reach at this time: Facebook .",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report that the user can do something about?",
+                    "answer": "the amount of material we already have"
+                },
+                {
+                    "question": "What did www.eldizque.com report that the user can do something about?",
+                    "answer": "the amount of material we already have"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of the amount of material that a user can do with Facebook?",
+                    "score": 0.7342,
+                    "answers": "of the media|prep"
+                },
+                {
+                    "question": "What is Facebook?",
+                    "score": 0.6754,
+                    "answers": "the same people on one of the media with greater reach at this time : Facebook|attr\ton one of the media with greater reach at this time : Facebook|prep\tone of the media with greater reach at this time : Facebook|pobj"
+                },
+                {
+                    "question": "What is the relationship between the person who gives the authorization and the others who give it?",
+                    "score": 0.6012,
+                    "answers": "who gives we the authorization|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "However, there is a text circulating that, if you stick it on your wall, won't let we do anything.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that there was a text circulating that wouldn't let us do anything?",
+                    "answer": "07/04/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the text on the wall if you stick it on your wall?",
+                    "score": 0.7201,
+                    "answers": "www.eldizque.com reported on 07/04/2016 that However , there is a text circulating that , if you stick it on your wall , wo n't let we do anything|ROOT\ta text circulating that , if you stick it on your wall , wo n't let we do anything|attr\tthat , if you stick it on your wall , wo n't let we do anything|acl"
+                },
+                {
+                    "question": "What is the purpose of sticking a message on a wall?",
+                    "score": 0.7009,
+                    "answers": "on your wall|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the text that can be found on a wall?",
+                    "score": 0.6651,
+                    "answers": "However|advmod\tif|mark\two|aux"
+                }
+            ]
+        },
+        {
+            "claim": "Not even best lawyers have been able to deal with him.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "How many lawyers have been able to deal with Trump?",
+                    "score": 0.9264,
+                    "answers": "that|mark\thim|pobj"
+                },
+                {
+                    "question": "What is the relationship between a lawyer and a lawyer?",
+                    "score": 0.8662,
+                    "answers": "www.eldizque.com reported on 07/04/2016 that Not even best lawyers have been able to deal with him|ROOT\tNot even best lawyers|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "But we have faith that not many people use it .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 07/04/2016 that But we have faith that not many people use it?",
+                    "answer": "www.eldizque.com"
+                },
+                {
+                    "question": "How many people use it, according to www.eldizque.com?",
+                    "answer": "not many people"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many people use the technology?",
+                    "score": 0.8947,
+                    "answers": "that|mark\tthat But we have faith that not many people use it|ccomp\tthat|mark\tit|dobj"
+                },
+                {
+                    "question": "How many people useldizque.com?",
+                    "score": 0.8179,
+                    "answers": "www.eldizque.com reported on 07/04/2016 that But we have faith that not many people use it|ROOT\ton 07/04/2016|prep\tBut|cc\twe|nsubj\tfaith that not many people use it|dobj\tnot|neg\tnot many|amod\tnot many people|nsubj\tthat not many people use it|acl"
+                }
+            ]
+        }
+    ]
+}

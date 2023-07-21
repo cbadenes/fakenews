@@ -1,0 +1,794 @@
+{
+    "id": "Politica_145",
+    "claim": "It seems implausible that some political figures want to repeat the 2018 electoral scenario. The two major electoral blocs that have been formed so far in the so-called alternative sector are proof of this: one block with Petro and another without Petro. And so, the public debate has again focused on figures and not on political projects. The discussion should focus more on what Colombia needs and not so much on who Colombia needs. It is difficult to find a politician who likes everyone, but it is possible to build a political program that favors the great majorities of the country. It is striking that the ‘block without Petro' is called ‘center'. Much has been said about this term and will continue to be said, but I insist, this idea of the political center, in the Colombian electoral debate, is a clear campaign strategy. Why is there so much talk about the center?It is not because of what the center as a political ideology represents, but because Fajardo did well in the last campaign, almost happens to the second round and many would now like to occupy that space. Moreover, for at least 60 years, the political debate in Colombia has not taken place in terms of political ideologies. A brief historical account will help to understand this argument. The National Front, established in 1958 through the December 1957 plebiscite, was an agreement between the Conservative Party and the Liberal Party to end bipartisan violence. This agreement consisted of equally dividing all the bureaucratic and administrative posts of the State: political parity in the three branches of public power and alternation in the Presidency of the Republic from 1962 to 1974. The National Front erased any ideological differences that might exist between the two parties and weakened them; it contributed to increasing electoral abstention, and the party struggle became a struggle for bureaucratic positions. The constitutional reform of 1968, in the government of Carlos Lleras Restrepo, established that the National Front would not end in 1974, but in 1978, and that “appropriate and equitable participation of the majority party other than that of the President of the Republic” would be established from 7 August of that year. It was former President Virgilio Barco (1986-1990) who proposed in his electoral campaign the dismantling of the paragraph 1 of the 120th Noticia of the Constitution of 1886, introduced in the reform of 68. Barco said that the institutions of interpartisan engagement were no longer necessary. In this regard, this was what the magazine ‘Week' said in June 1986: “Even if a scenography of democracy persisted, it became increasingly difficult to deny the accusation that the two traditional parties had been confused into one. Colombia was becoming, like Mexico, a one-party regime, with the difference that in the Aztec country this was accepted head-on without any pretensions to disguise it, while here, the theater that there were possibilities of alternation in the governing party began to leave a sense of deception. The feeling that those who won would end up ruling with the same ones would take root more and more in the electorate.”. Thus the “binomial government-opposition” was installed, which caused a division within the Conservative Party. The leader of that party, former president Misael Pastrana, considered that his party's participation in the Barco government was neither “appropriate” nor “equitable” and decided to tell his co-partisans to withdraw from the government. Many didn't listen to him, they didn't want to lose their position. Some conservatives decided to participate in the Barco government under “personal and technical title,” what is now known as “mermelada”. And so our political system continued to function. As I mentioned at the beginning, for at least 60 years in political debates political ideologies have not been mobilized, but positions regarding the armed conflict: negotiating or continuing the war?It is an electoral strategy that the extreme right calls its party “Democratic Center”, that Duque calls himself “extreme center” or that Fajardo and others consider his option to be in the “center” of two extremes. In no case do they refer to the centre as a political ideology. The question then remains: what is the country project of the so-called centre?",
+    "source": "www.eltiempo.com",
+    "date": "16/02/2021",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "It seems implausible that some political figures want to repeat the 2018 electoral scenario.",
+            "question_answers": [
+                {
+                    "question": "Is it possible or implausible that some political figures want to repeat the 2018 electoral scenario?",
+                    "answer": "implausible"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What political figures want to repeat the 2018 electoral scenario?",
+                    "score": 0.8712,
+                    "answers": "www.eltiempo.com|nsubj\twww.eltiempo.com reported on 16/02/2021 that It seems implausible that some political figures want to repeat the 2018 electoral scenario|ROOT\ton 16/02/2021|prep\tthat|mark\tIt|nsubj\tthat It seems implausible that some political figures want to repeat the 2018 electoral scenario|ccomp\timplausible|oprd\tthat|mark\tsome|det\tpolitical|amod\tsome political figures|nsubj\tthat some political figures want to repeat the 2018 electoral scenario|ccomp\tto|aux\tto repeat the 2018 electoral scenario|xcomp\tthe|det\telectoral|amod\tthe 2018 electoral scenario|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "The two major electoral blocs that have been formed so far in the so-called alternative sector are proof the Republic block with Petro and The National Front another without Petro .",
+            "question_answers": [
+                {
+                    "question": "What are proof the Republic block with Petro and The National Front?",
+                    "answer": "The two major electoral blocs that have been formed so far in the so-called alternative sector"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many major electoral blocs have been formed in the so-called alternative sector?",
+                    "score": 0.6417,
+                    "answers": "that have been formed so far in the so - called alternative sector|relcl"
+                },
+                {
+                    "question": "What is the Republic block with Petro and The National Front?",
+                    "score": 0.5357,
+                    "answers": "proof the Republic block with Petro and The National Front another without Petro|attr\tthe Republic block with Petro and The National Front another without Petro|acl"
+                },
+                {
+                    "question": "What is the relationship between the Republic and the National Front?",
+                    "score": 0.5135,
+                    "answers": "so - called|amod\twith Petro|prep\tanother without Petro|appos\twithout Petro|prep"
+                }
+            ]
+        },
+        {
+            "claim": "And so, the public debate has again focused on figures the two parties projects.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the public debate in 2015?",
+                    "score": 0.7088,
+                    "answers": "the public debate|nsubj"
+                },
+                {
+                    "question": "What is the relationship between the two parties?",
+                    "score": 0.6733,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that And so , the public debate has again focused on figures the two parties projects|ROOT\ton 16/02/2021|prep\tAnd|cc\tthe|det\tpublic|amod\thas|aux\tagain|advmod\tthat And so , the public debate has again focused on figures the two parties projects|ccomp\ton figures the two parties projects|prep\tfigures the two parties projects|pobj\tthe|det\tthe two parties|nsubj"
+                },
+                {
+                    "question": "What iseltiempo.com?",
+                    "score": 0.5633,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The discussion should focus more on what Colombia needs and not so much on who Colombia needs.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that the discussion should focus more on what and not so much on who Colombia needs?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What should be the focus of the discussion on who Colombia needs?",
+                    "score": 0.8421,
+                    "answers": "that The discussion should focus more on what Colombia needs and not so much on who Colombia needs|ccomp"
+                },
+                {
+                    "question": "What doeseltiempo.com say about what Colombia needs?",
+                    "score": 0.8323,
+                    "answers": "what|dobj"
+                },
+                {
+                    "question": "What is the relationship between Colombia and the United States?",
+                    "score": 0.7752,
+                    "answers": "on what Colombia needs and not so much on who Colombia needs|prep\twhat Colombia needs|pcomp"
+                },
+                {
+                    "question": "What is the source of evidence of Bogdanoff's claim?",
+                    "score": 0.7593,
+                    "answers": "on 16/02/2021|prep"
+                },
+                {
+                    "question": "What is the purpose of theeltiempo.com website?",
+                    "score": 0.6765,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "It is difficult to find a politician The constitutional reform of 1968 it is possible to build a political program that favors the great The National Front Colombia .",
+            "question_answers": [
+                {
+                    "question": "What is difficult to find a politician?",
+                    "answer": "The constitutional reform of 1968 it is possible to build a political program that favors the great"
+                },
+                {
+                    "question": "What is the name of the great political group that was favored by the constitutional reform of 1968?",
+                    "answer": "The National Front Colombia"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the purpose of the constitutional reform in 1968?",
+                    "score": 0.7692,
+                    "answers": "constitutional|amod\tThe constitutional reform of 1968|dep"
+                },
+                {
+                    "question": "What is the political program that favors the great The National Front Colombia?",
+                    "score": 0.7503,
+                    "answers": "difficult|acomp"
+                },
+                {
+                    "question": "What is the National Front Colombia?",
+                    "score": 0.7191,
+                    "answers": "a political program that favors the great The National Front Colombia|dobj\tthe great The National Front Colombia|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "It is 1974 that 1978 another without Petro is called ‘center'.",
+            "question_answers": [
+                {
+                    "question": "What year was it reported that another without Petro is called 'center'?",
+                    "answer": "1974"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the origin of the word \"center\"?",
+                    "score": 0.6777,
+                    "answers": "that 1978|dep"
+                },
+                {
+                    "question": "What is the meaning of the word center?",
+                    "score": 0.657,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that It is 1974 that 1978 another without Petro is called ‘ center '|ROOT\ton 16/02/2021|prep\tthat 1978 another without Petro is called ‘ center|ccomp\t‘|punct\t‘ center|oprd"
+                },
+                {
+                    "question": "What iseltiempo.com?",
+                    "score": 0.6006,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Much has been said about this term and will continue to be said, but the Republic this idea of the political center, in the 1978 electoral former President Virgilio Barco (1986-1990) .",
+            "question_answers": [
+                {
+                    "question": "Who was the former President of the Republic in 1978?",
+                    "answer": "Virgilio Barco"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Virgilio Barco's political affiliation?",
+                    "score": 0.6597,
+                    "answers": "former|amod"
+                },
+                {
+                    "question": "What was the name of Virgilio Barco's political center?",
+                    "score": 0.5982,
+                    "answers": "in the 1978 electoral former President Virgilio Barco ( 1986 - 1990|prep\tthe 1978 electoral former President Virgilio Barco ( 1986 - 1990|pobj"
+                },
+                {
+                    "question": "What is the name of the political center?",
+                    "score": 0.5167,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that Much has been said about this term and will continue to be said , but the Republic this idea of the political center , in the 1978 electoral former President Virgilio Barco ( 1986 - 1990 )|ROOT\tMuch|nsubjpass\thas|aux\tthat Much has been said about this term and will continue to be said , but the Republic this idea of the political center , in the 1978 electoral former President Virgilio Barco ( 1986 - 1990 )|ccomp\tthis term|pobj\tthe|det\tthe Republic|nsubj\tthe Republic this idea of the political center , in the 1978 electoral former President Virgilio Barco ( 1986 - 1990 )|conj\tof the political center|prep\tthe|det\tpolitical|amod\tthe political center|pobj\tthe|det\t)|punct"
+                },
+                {
+                    "question": "What iseltiempo.com?",
+                    "score": 0.4515,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "former President Virgilio Barco (1986-1990) is there so much talk about the center?It is not because of what the center as a political ideology represents, but because Fajardo did The constitutional reform of 1968 campaign, almost happens to the second round and many would now like to occupy that space.",
+            "question_answers": [
+                {
+                    "question": "Who did the constitutional reform of 1968 campaign?",
+                    "answer": "Fajardo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was Virgilio Barco's political ideology?",
+                    "score": 0.7726,
+                    "answers": "former President Virgilio Barco ( 1986 - 1990 )|nsubj"
+                },
+                {
+                    "question": "What was Fajardo's political ideology in 1968?",
+                    "score": 0.7197,
+                    "answers": "of 1968|prep"
+                },
+                {
+                    "question": "What is the center of the political ideology of Virgilio Barco?",
+                    "score": 0.6845,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that former President Virgilio Barco ( 1986 - 1990 ) is there so much talk about the center?It|ROOT"
+                },
+                {
+                    "question": "What was Fajardo's role in the constitutional reform of 1968 campaign?",
+                    "score": 0.6841,
+                    "answers": "because Fajardo did The constitutional reform of 1968 campaign , almost happens to the second round and many would now like to occupy that space|conj\tconstitutional|amod\tThe constitutional reform of 1968|dobj\talmost happens to the second round and many would now like to occupy that space|dep\tto the second round|prep"
+                },
+                {
+                    "question": "What is Fajardo's political ideology?",
+                    "score": 0.6824,
+                    "answers": "on 16/02/2021|prep\tthat|mark\tformer|amod\tformer President|compound\t(|punct\t( 1986 - 1990 )|appos\t-|punct\t- 1990|prep\t)|punct\tthere|expl\tso|advmod\tso much|amod\tthe|det\tis not because of what the center as a political ideology represents , but because Fajardo did The constitutional reform of 1968 campaign , almost happens to the second round and many would now like to occupy that space|ROOT\tnot|neg\tof|pcomp\twhat|dobj\tthe|det\tas a political ideology|prep\ta|det\tpolitical|amod\ta political ideology|pobj\t,|punct\tbut|cc\tbecause|mark\tThe|det\t1968|pobj\tcampaign|dobj\t,|punct\talmost|advmod\tthe|det\tthe second round|pobj\tand|cc\tmany|nsubj\twould|aux\tnow|advmod\tmany would now like to occupy that space|conj\tto|aux\tto occupy that space|xcomp\tthat|det\tthat space|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Moreover, for at least 60 years, the political debate in Colombia has not taken place in terms of political ideologies.",
+            "question_answers": [
+                {
+                    "question": "What has the political debate in Colombia not taken place in terms of for at least 60 years?",
+                    "answer": "political ideologies"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the political debate in Colombia about political ideology?",
+                    "score": 0.831,
+                    "answers": "on 16/02/2021|prep\tterms of political ideologies|pobj\tof political ideologies|prep"
+                },
+                {
+                    "question": "How many political ideologies have been there in Colombia in the last 60 years?",
+                    "score": 0.7907,
+                    "answers": "at least 60|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "A brief historical account will help to understand this the two parties .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that a brief historical account will help understand the two parties?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the historical account of the parties involved in the election?",
+                    "score": 0.7198,
+                    "answers": "A brief historical account|nsubj"
+                },
+                {
+                    "question": "What was the historical relationship between the parties?",
+                    "score": 0.6994,
+                    "answers": "brief|amod"
+                },
+                {
+                    "question": "What is the relationship between the parties of the two parties?",
+                    "score": 0.639,
+                    "answers": "the two parties|dobj"
+                },
+                {
+                    "question": "What iseltiempo.com?",
+                    "score": 0.5531,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "the two parties , established in 1958 through the December 1957 plebisciteMexico was an agreement between the Conservative Party and Mexico this end bipartisan violence.",
+            "question_answers": [
+                {
+                    "question": "What was the agreement between the Conservative Party and Mexico City?",
+                    "answer": "the two parties"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the agreement between the Conservative Party and Mexico in 1957?",
+                    "score": 0.7321,
+                    "answers": "www.eltiempo.com|nsubj\ton 16/02/2021|prep\tthe two parties , established in 1958 through the December 1957 plebisciteMexico|nsubj\tin 1958|prep\tthrough the December 1957 plebisciteMexico|prep\tan|det\tan agreement between the Conservative Party and Mexico this end bipartisan violence|attr\tbetween the Conservative Party and Mexico|prep\tConservative|compound\tthe Conservative Party and Mexico|pobj\tthis end bipartisan violence|acl"
+                },
+                {
+                    "question": "What was the purpose of the plebiscite?",
+                    "score": 0.6805,
+                    "answers": "the December 1957 plebisciteMexico|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "This agreement consisted of equally dividing all the bureaucratic and administrative posts of the State: political parity in the three branches of public power and alternation in the Presidency of the Republic from 1962 to 1974.",
+            "question_answers": [
+                {
+                    "question": "What was the purpose of the agreement?",
+                    "answer": "political parity in the three branches of public power and alternation in the Presidency of the Republic"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the agreement consist of dividing all the bureaucratic and administrative posts of the state?",
+                    "score": 0.7304,
+                    "answers": "www.eltiempo.com|nsubj\twww.eltiempo.com reported on 16/02/2021 that This agreement consisted of equally dividing all the bureaucratic and administrative posts of the State : political parity in the three branches of public power and alternation in the Presidency of the Republic from 1962 to 1974|ROOT\tthat This agreement consisted of equally dividing all the bureaucratic and administrative posts of the State : political parity in the three branches of public power and alternation in the Presidency of the Republic from 1962 to 1974|ccomp\tthe Presidency of the Republic|pobj"
+                },
+                {
+                    "question": "What are the three branches of public power?",
+                    "score": 0.5961,
+                    "answers": "the three branches of public power|pobj"
+                },
+                {
+                    "question": "How many administrative posts were included in the Agreement of the Republic from 1962 to 1974?",
+                    "score": 0.5949,
+                    "answers": "bureaucratic and administrative|amod"
+                }
+            ]
+        },
+        {
+            "claim": "The National Front erased any ideological differences that might exist between the two parties and weakened them; it contributed to increasing electoral abstention, and the party struggle became a struggle for bureaucratic positions.",
+            "question_answers": [
+                {
+                    "question": "Who reported that The National Front erased any ideological differences between the two parties and weakened them?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the National Front do to increase electoral abstention?",
+                    "score": 0.7673,
+                    "answers": "to increasing electoral abstention|prep"
+                },
+                {
+                    "question": "What was the effect of the National Front on electoral abstention?",
+                    "score": 0.7095,
+                    "answers": "weakened them|conj\tincreasing electoral abstention|pcomp\telectoral abstention|dobj"
+                },
+                {
+                    "question": "What was the result of the National Front's electoral abstaining?",
+                    "score": 0.7071,
+                    "answers": "the party struggle|nsubj"
+                },
+                {
+                    "question": "What was the National Front's role in the election?",
+                    "score": 0.6924,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that The National Front erased any ideological differences that might exist between the two parties and weakened them ; it contributed to increasing electoral abstention , and the party struggle became a struggle for bureaucratic positions|ROOT"
+                },
+                {
+                    "question": "What are the ideological differences that might exist between the two parties?",
+                    "score": 0.6843,
+                    "answers": "that might exist between the two parties|relcl"
+                }
+            ]
+        },
+        {
+            "claim": "The constitutional reform of 1968, in the government of Carlos Lleras Restrepo, established that the National Front would not end in 1974, but in 1978, and that “appropriate and equitable participation of the majority party other than that of the President of the Republic” would be established from 7 August of that year.",
+            "question_answers": [
+                {
+                    "question": "What would be established from 7 August of 1978?",
+                    "answer": "“appropriate and equitable participation of the majority party other than that of the President of the Republic”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did the government of Carlos Lleras Restrepo establish the National Front?",
+                    "score": 0.8377,
+                    "answers": "not|neg"
+                },
+                {
+                    "question": "When was the National Front formed?",
+                    "score": 0.7508,
+                    "answers": "from 7 August of that year|prep"
+                },
+                {
+                    "question": "When did the National Front end?",
+                    "score": 0.7451,
+                    "answers": "in 1974 , but in 1978|prep"
+                },
+                {
+                    "question": "What was Carlos Lleras Restrepo's role in the constitutional reform?",
+                    "score": 0.7413,
+                    "answers": "of Carlos Lleras Restrepo|prep"
+                },
+                {
+                    "question": "What was the purpose of the constitutional reform of 1968?",
+                    "score": 0.6967,
+                    "answers": "www.eltiempo.com|nsubj\twww.eltiempo.com reported on 16/02/2021 that The constitutional reform of 1968 , in the government of Carlos Lleras Restrepo , established that the National Front would not end in 1974 , but in 1978 , and that “ appropriate and equitable participation of the majority party other than that of the President of the Republic ” would be established from 7 August of that year|ROOT\tthat|mark\tThe|det\tThe constitutional reform of 1968|nsubj\tof 1968|prep\t,|punct\tthe|det\tthe government of Carlos Lleras Restrepo|pobj\tCarlos|compound\tLleras|compound\t,|punct\tthat The constitutional reform of 1968 , in the government of Carlos Lleras Restrepo , established that the National Front would not end in 1974 , but in 1978 , and that “ appropriate and equitable participation of the majority party other than that of the President of the Republic ” would be established from 7 August of that year|ccomp\tthat|mark\tthe|det\tNational|compound\tthat the National Front would not end in 1974 , but in 1978 , and that “ appropriate and equitable participation of the majority party other than that of the President of the Republic ” would be established from 7 August of that year|advcl\t,|punct\tbut|cc\tin 1978|conj\t,|punct\tand|cc\tthat|mark\t“|punct\tappropriate and equitable|amod\tand|cc\tappropriate and equitable participation of the majority party other than that of the President of the Republic|nsubjpass\tthe|det\tmajority|compound\tthan that of the President of the Republic|prep\tthat of the President of the Republic|pobj\tthe|det\tof the Republic|prep\tthe|det\tthe Republic|pobj\t”|punct\tbe|auxpass\tthat “ appropriate and equitable participation of the majority party other than that of the President of the Republic ” would be established from 7 August of that year|conj\t7|nummod\tof that year|prep\tthat|det\tthat year|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "It was former President Virgilio Barco (1986-1990) who proposed in his electoral campaign the dismantling of the paragraph 1 of the 120th Noticia of the Constitution of 1886, introduced in the reform of 68.",
+            "question_answers": [
+                {
+                    "question": "Who proposed the dismantling of paragraph 1 of the 120th Noticia of the Constitution of 1886?",
+                    "answer": "Virgilio Barco"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did Virgilio Barco propose to abolish the paragraph 1 of the 120th Noticia of the Constitution of 1886?",
+                    "score": 0.8066,
+                    "answers": "- 1990|prep"
+                },
+                {
+                    "question": "What is Virgilio Barco's political affiliation?",
+                    "score": 0.6748,
+                    "answers": "former President|compound\tVirgilio|compound\tformer President Virgilio Barco ( 1986 - 1990 )|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Barco said that the institutions of interpartisan engagement were no longer necessary.",
+            "question_answers": [
+                {
+                    "question": "What website reported on 16/02/2021 that Barco said that institutions of interpartisan engagement were no longer necessary?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Barco say about interpartisan engagement?",
+                    "score": 0.8074,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that Barco said that the institutions of interpartisan engagement were no longer necessary|ROOT\ton 16/02/2021|prep\tthat|mark\tthat Barco said that the institutions of interpartisan engagement were no longer necessary|ccomp\tthat|mark\tthe|det\tthe institutions of interpartisan engagement|nsubj\tof interpartisan engagement|prep\tinterpartisan|amod\tinterpartisan engagement|pobj\tthat the institutions of interpartisan engagement were no longer necessary|ccomp\tno|neg\tno longer|advmod\tnecessary|acomp"
+                },
+                {
+                    "question": "What iseltiempo.com?",
+                    "score": 0.5622,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In this regard, this was what the magazine ‘Week' said in June 1986: “Even if a scenography of democracy persisted, it became increasingly difficult to deny the accusation that the two traditional parties had been confused into one.",
+            "question_answers": [
+                {
+                    "question": "What did the magazine 'Week' say in June 1986?",
+                    "answer": "the accusation that the two traditional parties had been confused into one"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the magazine \"Week\" say about the relationship between democracy and communism?",
+                    "score": 0.7253,
+                    "answers": "of democracy|prep"
+                },
+                {
+                    "question": "What is the scenography of democracy?",
+                    "score": 0.6691,
+                    "answers": "a scenography of democracy|nsubj"
+                },
+                {
+                    "question": "What was the accusation that the two traditional parties were confused into one?",
+                    "score": 0.6611,
+                    "answers": "this Even if a scenography of democracy persisted , it became increasingly difficult to deny the accusation that the two traditional parties had been confused into one|nsubj\tthat In this regard , this Even if a scenography of democracy persisted , it became increasingly difficult to deny the accusation that the two traditional parties had been confused into one was what the magazine ‘ Week ' said in June 1986 : “|ccomp\tEven if a scenography of democracy persisted , it became increasingly difficult to deny the accusation that the two traditional parties had been confused into one|acl"
+                },
+                {
+                    "question": "What was the relationship between communism and fascism in 1986?",
+                    "score": 0.6527,
+                    "answers": "had|aux\tinto one|prep"
+                },
+                {
+                    "question": "What was the name of the scenography of democracy in June 1986?",
+                    "score": 0.6486,
+                    "answers": "Even if a scenography of democracy persisted|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "Colombia was becoming, like Mexico, a one-party regime, with the difference that in the Aztec country this was accepted head-on without any pretensions to disguise it, while here, the theater that there were possibilities of alternation in the governing party began to leave a sense of deception.",
+            "question_answers": [
+                {
+                    "question": "What caused a sense of deception in Colombia?",
+                    "answer": "the theater that there were possibilities of alternation in the governing party"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the relationship between Mexico and Colombia in regards to one-party regime?",
+                    "score": 0.7239,
+                    "answers": "any|det"
+                },
+                {
+                    "question": "What is the difference between the one-party regime of Colombia and Mexico?",
+                    "score": 0.6634,
+                    "answers": "to disguise it|acl"
+                },
+                {
+                    "question": "What is the relationship between the Aztec country and Colombia?",
+                    "score": 0.6408,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that Colombia was becoming , like Mexico , a one - party regime , with the difference that in the Aztec country this was accepted head - on without any pretensions to disguise it , while here , the theater that there were possibilities of alternation in the governing party began to leave a sense of deception|ROOT"
+                },
+                {
+                    "question": "What is the one-party regime in Mexico?",
+                    "score": 0.6291,
+                    "answers": "a one - party regime|attr"
+                }
+            ]
+        },
+        {
+            "claim": "The feeling that those who won would end up ruling with the same ones would take root more and more in the electorate.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that the feeling of those who won would end up ruling with the same ones would take root more and more in the electorate?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between winning and losing elections?",
+                    "score": 0.6697,
+                    "answers": "that|mark\tthat|mark\twould|aux\tup|prt\tsame|amod\twould|aux"
+                },
+                {
+                    "question": "What is the voting record of those who won?",
+                    "score": 0.6578,
+                    "answers": "who won|relcl"
+                },
+                {
+                    "question": "What is the source of evidence of the number of votes won by those who won?",
+                    "score": 0.6082,
+                    "answers": "root|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Thus the “binomial government-opposition” was installed, which caused a division within the Conservative Party.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that the “binomial government-opposition” was installed?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What caused a division within the Conservative Party?",
+                    "score": 0.7505,
+                    "answers": "which caused a division within the Conservative Party|advcl"
+                },
+                {
+                    "question": "What is the name of the government that was installed?",
+                    "score": 0.6311,
+                    "answers": "the “ binomial government - opposition ”|nsubjpass"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between the binomial government and Conservative Party?",
+                    "score": 0.6086,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that Thus the “ binomial government - opposition ” was installed , which caused a division within the Conservative Party|ROOT\tthat Thus the “ binomial government - opposition ” was installed , which caused a division within the Conservative Party|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "The leader of that party, former president Misael Pastrana, considered that his party's participation in the Barco government was neither “appropriate” nor “equitable” and decided to tell his co-partisans to withdraw from the government.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that Misael Pastrana decided to tell his co-partisans to withdraw from the government?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did Misael Pastrana decide to leave the government?",
+                    "score": 0.8052,
+                    "answers": "decided to tell his co - partisans to withdraw from the government|conj"
+                },
+                {
+                    "question": "What party did Misael Pastrana belong to?",
+                    "score": 0.7738,
+                    "answers": "of that party|prep\tthat party|pobj\this party 's|poss\t's|case"
+                },
+                {
+                    "question": "What did Misael Pastrana say about his party's participation in the Barco government?",
+                    "score": 0.7354,
+                    "answers": "“ equitable ”|conj"
+                },
+                {
+                    "question": "What was Misael Pastrana's position on the Barco government?",
+                    "score": 0.6587,
+                    "answers": "Misael|compound\tthat his party 's participation in the Barco government was neither “ appropriate ” nor “ equitable ”|ccomp\tneither “ appropriate ” nor “ equitable ”|acomp\t-|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "Many didn't listen to him, they didn't want to lose their position.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that Many didn't listen to him?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did many didn't listen to him?",
+                    "score": 0.8798,
+                    "answers": "that|mark\thim|pobj\t,|punct\tthey|nsubj\tthat Many did n't listen to him , they did n't want to lose their position|ccomp\tto|aux\tto lose their position|xcomp\ttheir|poss"
+                },
+                {
+                    "question": "Why did many don't listen to him?",
+                    "score": 0.8744,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that Many did n't listen to him , they did n't want to lose their position|ROOT"
+                },
+                {
+                    "question": "How many people didn't listen to Trump?",
+                    "score": 0.8383,
+                    "answers": "Many|nsubj\tdid|aux\tn't|neg\tMany did n't listen to him|ccomp\tto him|prep\tdid|aux\tn't|neg"
+                },
+                {
+                    "question": "How many people did not listen to him?",
+                    "score": 0.7804,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "Some conservatives decided to participate in the Barco government under “personal and technical title,” what is now known as “mermelada”.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that some conservatives decided to participate in the Barco government?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of how many conservatives participated in the Barco government?",
+                    "score": 0.7589,
+                    "answers": "www.eltiempo.com|nsubj"
+                },
+                {
+                    "question": "What is the name of the political party that some conservatives belong to?",
+                    "score": 0.6805,
+                    "answers": "on 16/02/2021|prep"
+                },
+                {
+                    "question": "What are the personal and technical title of the Barco government?",
+                    "score": 0.6338,
+                    "answers": "under “ personal and technical title , ” what is now known as “ mermelada ”|prep\t“ personal and technical title , ” what is now known as “ mermelada ”|pobj"
+                },
+                {
+                    "question": "What ismermelada?",
+                    "score": 0.6068,
+                    "answers": "that|mark\tSome|det\tSome conservatives|nsubj\tthat Some conservatives decided to participate in the Barco government under “ personal and technical title , ” what is now known as “ mermelada ”|ccomp\tto|aux\tto participate in the Barco government under “ personal and technical title , ” what is now known as “ mermelada ”|xcomp\tin the Barco government|prep\tthe|det\tthe Barco government|pobj\t“|punct\tand|cc\ttechnical|conj\t,|punct\t”|punct\twhat|nsubjpass\tis|auxpass\tnow|advmod\twhat is now known as “ mermelada ”|relcl\tas “ mermelada ”|prep\t“|punct\tmermelada|pobj\t”|punct"
+                }
+            ]
+        },
+        {
+            "claim": "And so our political system continued to function.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that our political system continued to function?",
+                    "answer": "www.eltiempo.com"
+                },
+                {
+                    "question": "What continued to function as of 16/02/2021?",
+                    "answer": "our political system"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the political system in the United States before World War 2?",
+                    "score": 0.84,
+                    "answers": "that And so our political system continued to function|ccomp"
+                },
+                {
+                    "question": "What is the political system?",
+                    "score": 0.7842,
+                    "answers": "our political system|nsubj"
+                },
+                {
+                    "question": "What is the purpose of the political system?",
+                    "score": 0.7735,
+                    "answers": "to function|xcomp"
+                },
+                {
+                    "question": "What is the relationship between political system and economic system?",
+                    "score": 0.7715,
+                    "answers": "And|cc\tso|advmod\tto|aux"
+                },
+                {
+                    "question": "What iseltiempo.com?",
+                    "score": 0.6274,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "As I mentioned at the beginning, for at least 60 years in political debates political ideologies have not been mobilized, but positions regarding the armed conflict: negotiating or continuing the war?It is an electoral strategy that the extreme right calls its party “Democratic Center”, that Duque calls himself “extreme center” or that Fajardo and others consider his option to be in the “center” of two extremes.",
+            "question_answers": [
+                {
+                    "question": "Who considers his option to be in the \"center\" of two extremes?",
+                    "answer": "Fajardo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What political ideology has not been mobilized in political debates for 60 years?",
+                    "score": 0.7281,
+                    "answers": "political|amod\tpolitical|amod"
+                },
+                {
+                    "question": "How many political debates has Fajardo participated in?",
+                    "score": 0.6882,
+                    "answers": "political debates|pobj"
+                },
+                {
+                    "question": "What are Duque's political views on the armed conflict?",
+                    "score": 0.6571,
+                    "answers": "continuing|conj"
+                },
+                {
+                    "question": "What does the extreme right call its party?",
+                    "score": 0.6527,
+                    "answers": "that the extreme right calls its party “ Democratic Center ” , that Duque calls himself “ extreme center ” or that Fajardo and others consider his option to be in the “ center ” of two extremes|advcl\tits party|dobj"
+                },
+                {
+                    "question": "What does Fajardo think about his option to be in the center of two extremes?",
+                    "score": 0.6521,
+                    "answers": "his option to be in the “ center ” of two extremes|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "In no case do they refer to the centre as a political ideology.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021 that they did not refer to the center as a political ideology?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What political ideology is the centre a part of?",
+                    "score": 0.8579,
+                    "answers": "do|aux\tthe|det\ta|det"
+                },
+                {
+                    "question": "What is the centre of political ideology?",
+                    "score": 0.7473,
+                    "answers": "www.eltiempo.com reported on 16/02/2021 that In no case do they refer to the centre as a political ideology|ROOT\tIn no case|prep\tthe centre|pobj\tas a political ideology|prep\ta political ideology|pobj"
+                },
+                {
+                    "question": "What are the political views of the centre?",
+                    "score": 0.736,
+                    "answers": "that In no case do they refer to the centre as a political ideology|ccomp"
+                },
+                {
+                    "question": "What is the political ideology of the centre?",
+                    "score": 0.728,
+                    "answers": "political|amod"
+                },
+                {
+                    "question": "What iseltiempo.com?",
+                    "score": 0.5857,
+                    "answers": "www.eltiempo.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "The question then remains: what is the country project of the so-called centre?.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 16/02/2021?",
+                    "answer": "www.eltiempo.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the country project of the so-called centre?",
+                    "score": 0.6958,
+                    "answers": "www.eltiempo.com|nsubj\twww.eltiempo.com reported on 16/02/2021 that The question then remains : what is the country project of the so - called centre ?|ROOT\ton 16/02/2021|prep\tthat|mark\tThe|det\tThe question|nsubj\tthen|advmod\tthat The question then remains : what is the country project of the so - called centre|ccomp\t:|punct\twhat|attr\twhat is the country project of the so - called centre|ccomp\tthe|det\tcountry|compound\tthe country project of the so - called centre|nsubj\tthe|det\tso|advmod\t-|punct\tso - called|amod\t?|punct"
+                },
+                {
+                    "question": "What is the purpose of the centre?",
+                    "score": 0.6922,
+                    "answers": "of the so - called centre|prep\tthe so - called centre|pobj"
+                }
+            ]
+        }
+    ]
+}

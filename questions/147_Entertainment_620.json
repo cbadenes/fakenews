@@ -1,0 +1,393 @@
+{
+    "id": "147_Entertainment_620",
+    "claim": "When the film The Law of Herod was filmed – directed by Luis Estrada in  – 'I did not think the situation in the country would worsen more than what was shown in the film ', but both the Institutional Revolutionary Party and National Action turned out to be a 'fiasco ', warned actor Damián Alcázar. The multi-galardonado Mexican artist offered a press conference in the state capital to promote the play El Profesor, which starred alongside the young Eleane Puell and Mariano Palacios. True to his style, in addition to talking about the Argentine staging that will be presented in Mexicali this Thursday , Alcázar took time to discuss political, social, sports and even the affection he feels for the region by declaring himself a citizen of Baja California. 'I feel a great responsibility because now I am also a Tijuan, I am a Bajacalifornian ', he said in reference to the recognition he received from the Tijuana municipal government. He expressed that from the filming of the film Bajo California: The Time Limit, directed by Carlos Bolado in , he was born a special appreciation for this entity. 'I have a real roots in the area of the mountain range, where I feel extraordinary and changing every  kilometers, so I plan to come again to travel all of Baja California; unfortunately those in the center (of the country) are far away, even in the head they are far away.. It would be very nice to meet her before the gringos end up buying all the beaches ', she added. On the other hand, he criticized the political class without making party distinction, as he asserted that the rulers have sunk the country and the structural reforms promoted by President Enrique Peña Nieto will end up 'burying 'Mexicans.'What the fuck did he invest in reforms for, look at just how the weight (money) is and how the Army is: killing civilians like stepping on daisies'. The politicians, he said, have no idea how to lift the country,'on the contrary, they seek to charge more taxes to go to France and England with a waste of first world knowing that we have to get out of our pocket for these bastards to have a good time'. The first actor also opined on the current problems of the Mexican football team when he said that it is 'bread and circus where the directors are the ones who do the business ', while the population in general, he added, celebrates the triumph of a cup that was won in a cheating way. He declared that all the problems that Mexican football has, especially the national team, are a reflection of the way the country finds itself. About his taste for the seventh art and theatrical scene, Damián Alcázar said that it is two different sensations that he perceives when he is in filming and on stage. 'I'm passionate about cinema, but in theatre I have a chance to be in front of the live audience and that nourishes a lot, because there's an energy that comes from the audience and comes to the stage, and that demands you be alive, convincing, fun, deep, intelligent, and all the things an actor can aspire to'. I'm sorry.",
+    "source": "www.jornada.com.mx",
+    "date": "30/07/2015",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "When the film The Law of Herod was filmed – directed by Luis Estrada in  – 'I did not think the situation in the country would worsen more than what was shown in the film The Law of Herod ', but both the he Revolutionary Party and the country turned out to be a 'fiasco ', warned President Enrique Peña Nieto .",
+            "question_answers": [
+                {
+                    "question": "What did Enrique Pea Nieto say about the Revolutionary Party and the country?",
+                    "answer": "Revolutionary Party and the country turned out to be a 'fiasco"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Luis Estrada say about the Law of Herod?",
+                    "score": 0.7643,
+                    "answers": "www.jornada.com.mx|nsubj\tthat|mark\tWhen|advmod\tthe|det\tthe film The Law of Herod|nsubjpass\tThe|det\tof Herod|prep\tHerod|pobj\twas|auxpass\t–|punct\tin|prep\t |dep\t–|punct\t'|punct\tI|nsubj\tdid|aux\tnot|neg\tthe|det\tin the country|prep\tthe|det\tthe country|pobj\twould|aux\tthe situation in the country would worsen more than what was shown in the film The Law of Herod|ccomp\tmore than what was shown in the film The Law of Herod|advmod\tthan what was shown in the film The Law of Herod|prep\twhat|nsubjpass\twas|auxpass\twhat was shown in the film The Law of Herod|pcomp\tin the film The Law of Herod|prep\tthe|det\tthe film The Law of Herod|pobj\tThe|det\tof Herod|prep\tHerod|pobj\t'|punct\t,|punct\tbut|cc\tboth|preconj\tthe|det\the|compound\tboth the he Revolutionary Party and the country|conj\tand|cc\tthe|det\tthe country|conj\tout|prt\tto|aux\tto be a ' fiasco|xcomp\ta|det\t'|punct\ta ' fiasco|attr\t'|punct\t,|punct\twww.jornada.com.mx reported on 30/07/2015 that When the film The Law of Herod was filmed – directed by Luis Estrada in   – ' I did not think the situation in the country would worsen more than what was shown in the film The Law of Herod ' , but both the he Revolutionary Party and the country turned out to be a ' fiasco ' , warned President Enrique Peña Nieto|ROOT\tPresident|compound\tEnrique|compound\tPeña|compound"
+                },
+                {
+                    "question": "Who directed The Law of Herod?",
+                    "score": 0.7574,
+                    "answers": "www.jornada.com.mx reported on 30/07/2015 that When the film The Law of Herod was filmed – directed by Luis Estrada in  |ccomp\ton 30/07/2015|prep\tthat When the film The Law of Herod was filmed – directed by Luis Estrada in|ccomp\tdirected by Luis Estrada|dep\tby Luis Estrada|agent\tLuis|compound"
+                }
+            ]
+        },
+        {
+            "claim": "President Enrique Peña Nieto I offered a press conference in the state capital to promote the play El Profesor, which starred alongside the young Eleane Puell and Mariano Palacios.",
+            "question_answers": [
+                {
+                    "question": "Who starred in the play El Profesor?",
+                    "answer": "Eleane Puell and Mariano Palacios"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Did Peña Nieto offer a press conference in the state capital for El Profesor?",
+                    "score": 0.8733,
+                    "answers": "that President Enrique Peña Nieto I offered a press conference in the state capital to promote the play El Profesor , which starred alongside the young Eleane Puell and Mariano Palacios|ccomp"
+                },
+                {
+                    "question": "What did President Enrique Peña Nieto do to promote El Profesor?",
+                    "score": 0.8582,
+                    "answers": "a press conference|dobj"
+                },
+                {
+                    "question": "Who starred in El Profesor?",
+                    "score": 0.8413,
+                    "answers": "the play El Profesor , which starred alongside the young Eleane Puell and Mariano Palacios|dobj\twhich starred alongside the young Eleane Puell and Mariano Palacios|relcl\tthe young Eleane Puell and Mariano Palacios|pobj"
+                },
+                {
+                    "question": "Where was the El Profesor play held?",
+                    "score": 0.812,
+                    "answers": "in the state capital|prep\tthe state capital|pobj"
+                },
+                {
+                    "question": "What is the name of the play El Profesor?",
+                    "score": 0.6988,
+                    "answers": "www.jornada.com.mx|nsubj\twww.jornada.com.mx reported on 30/07/2015 that President Enrique Peña Nieto I offered a press conference in the state capital to promote the play El Profesor , which starred alongside the young Eleane Puell and Mariano Palacios|ROOT\ton 30/07/2015|prep\tthat|mark\tPresident|compound\tEnrique|compound\tPeña|compound\tPresident Enrique Peña Nieto|compound\tPresident Enrique Peña Nieto I|nsubj\ta|det\tthe|det\tto|aux\tto promote the play El Profesor , which starred alongside the young Eleane Puell and Mariano Palacios|advcl\tthe|det\tEl|compound\t,|punct\twhich|nsubj\talongside the young Eleane Puell and Mariano Palacios|prep\tthe|det\tEleane|compound\tand|cc\tMariano|compound"
+                }
+            ]
+        },
+        {
+            "claim": "The politicians he in addition to talking about the the country that will The politicians in Mexicali this Thursday , I took time to discuss political, social, sports and we the affection I we for the region by declaring I a citizen he .",
+            "question_answers": [
+                {
+                    "question": "On what day did he talk about the country that will The politicians in Mexicali?",
+                    "answer": "Thursday"
+                },
+                {
+                    "question": "When did he talk about the country that will The politicians in Mexicali?",
+                    "answer": "this Thursday"
+                },
+                {
+                    "question": "On what day did he talk about the country that will The politicians in Mexicali?",
+                    "answer": "Thursday"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the politicians in Mexicali say about the political, social, sports, and affection for the region?",
+                    "score": 0.5285,
+                    "answers": "that The politicians he in addition to talking about the the country that will The politicians in Mexicali this Thursday , I took time to discuss political , social , sports and we the affection I we for the region by declaring I a citizen he|ccomp"
+                },
+                {
+                    "question": "What is the name of the country that the politicians will be in Mexicali?",
+                    "score": 0.4853,
+                    "answers": "in addition to talking about the the country that will The politicians in Mexicali this Thursday|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'I feel a great responsibility because the Mexican football team , I am a Bajacalifornian ', I said in reference to the recognition I received from the Tijuana municipal government.",
+            "question_answers": [
+                {
+                    "question": "Why did www.jornada.com.mx say I feel a great responsibility?",
+                    "answer": "because the Mexican football team"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the name of the Mexican football team?",
+                    "score": 0.7005,
+                    "answers": "football|compound\tthe Mexican football team|dep"
+                },
+                {
+                    "question": "What is the Bajacalifornian?",
+                    "score": 0.6153,
+                    "answers": "a Bajacalifornian|attr"
+                }
+            ]
+        },
+        {
+            "claim": "I expressed he from the filming of the film Bajo California: The Time Limit, directed by Carlos Bolado in , I was born a special appreciation for the region .",
+            "question_answers": [
+                {
+                    "question": "Who directed the film Bajo California: The Time Limit?",
+                    "answer": "Carlos Bolado in"
+                },
+                {
+                    "question": "Who directed the film Bajo California: The Time Limit?",
+                    "answer": "Carlos Bolado in"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Who directed Bajo California: The Time Limit?",
+                    "score": 0.7954,
+                    "answers": "The Time Limit|appos\tby Carlos Bolado|agent\tCarlos|compound"
+                },
+                {
+                    "question": "What did Carlos Bolado say about his love for the region?",
+                    "score": 0.739,
+                    "answers": "I was born a special appreciation for the region|pcomp"
+                },
+                {
+                    "question": "What is Carlos Bolado's connection to the region?",
+                    "score": 0.637,
+                    "answers": "from the filming of the film Bajo California : The Time Limit , directed by Carlos Bolado in , I was born a special appreciation for the region|prep\ta special appreciation for the region|dobj"
+                },
+                {
+                    "question": "What is the time limit in Bajo California?",
+                    "score": 0.612,
+                    "answers": "Bajo California : The Time Limit|appos\tTime|compound"
+                }
+            ]
+        },
+        {
+            "claim": "the Mexican football team roots in the area of the mountain the country , where the country extraordinary and changing every  kilometers, so I plan to he travel the region ; unfortunately he those in the center (of the country) are far away, even in the head those in the center (of the country) are far away.. It would be very nice to meet her before the gringos end up buying all the beaches ', she added.",
+            "question_answers": [
+                {
+                    "question": "Where did the Mexican football team roots in the area of the mountain the country?",
+                    "answer": "the region"
+                },
+                {
+                    "question": "What do the gringos end up doing?",
+                    "answer": "buying all the beaches"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the Mexican football team roots originate?",
+                    "score": 0.7617,
+                    "answers": ", so I plan to he travel the region|ccomp"
+                },
+                {
+                    "question": "How many beaches did the Gringos buy?",
+                    "score": 0.7082,
+                    "answers": "It would be very nice to meet her before the gringos end up buying all the beaches|ccomp\tto meet her before the gringos end up buying all the beaches|xcomp\tIt would be very nice to meet her before the gringos end up buying all the beaches ' , she added|ROOT"
+                },
+                {
+                    "question": "How many beaches are there in Mexico?",
+                    "score": 0.701,
+                    "answers": "buying all the beaches|xcomp\tall the beaches|dobj"
+                },
+                {
+                    "question": "How far away from Mexico is the center of the country from Mexico?",
+                    "score": 0.6645,
+                    "answers": "those in the center ( of the country )|nsubj\tthose in the center ( of the country )|nsubj"
+                },
+                {
+                    "question": "What is the name of the Mexican football team?",
+                    "score": 0.6196,
+                    "answers": "the Mexican football team|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "On the other hand, he criticized the political class without making party distinction, as he asserted that the rulers have sunk the country and the structural reforms promoted by President Enrique Peña Nieto will end up 'burying 'Mexicans.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What political class did Peña Nieto criticize?",
+                    "score": 0.8272,
+                    "answers": "political|amod\tthe political class|dobj"
+                },
+                {
+                    "question": "What reforms did President Enrique Peña Nieto make to the political class?",
+                    "score": 0.8234,
+                    "answers": "the structural reforms promoted by President Enrique Peña Nieto|nsubj"
+                },
+                {
+                    "question": "What did Peña Nieto say about the reforms promoted by President Enrique Pea Nieto?",
+                    "score": 0.7845,
+                    "answers": "that On the other hand , he criticized the political class without making party distinction , as he asserted that the rulers have sunk the country and the structural reforms promoted by President Enrique Peña Nieto will end up ' burying ' Mexicans|ccomp"
+                },
+                {
+                    "question": "How many Mexicans were buried in the country in 2015?",
+                    "score": 0.683,
+                    "answers": "' burying ' Mexicans|xcomp"
+                },
+                {
+                    "question": "What are the political class's party distinction?",
+                    "score": 0.6756,
+                    "answers": "making party distinction|pcomp\tparty distinction|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "'What the fuck did he invest in reforms for, look at just how the weight (money) is and how the Army is: killing civilians like stepping on daisies'.",
+            "question_answers": [
+                {
+                    "question": "When did www.jornada.com.mx report that 'What the fuck did he invest in reforms for?",
+                    "answer": "30/07/2015"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much money did David Dewhurst invest in reforms for?",
+                    "score": 0.8654,
+                    "answers": "What|det"
+                },
+                {
+                    "question": "What is the weight of the Army in regards to killing civilians?",
+                    "score": 0.7256,
+                    "answers": "daisies|pobj"
+                },
+                {
+                    "question": "How many civilians were killed by the Army in 2015?",
+                    "score": 0.7231,
+                    "answers": "killing civilians like stepping on daisies|dep"
+                },
+                {
+                    "question": "What is the source of evidence of the amount spent on reforms for the Army?",
+                    "score": 0.7206,
+                    "answers": "that|mark\tthe|det\t,|punct\tjust|advmod\tthe|det\t(|punct\t)|punct\tand|cc\tthe|det\t:|punct\t'|punct"
+                },
+                {
+                    "question": "What is stepped on daisies?",
+                    "score": 0.6928,
+                    "answers": "like stepping on daisies|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The politicians, he said, have no idea how to lift the country,'on the contrary, they seek to charge more taxes to go to France and England with a waste of first world knowing that we have to get out of our pocket for these bastards to have a good time'.",
+            "question_answers": [
+                {
+                    "question": "What did he say about the politicians?",
+                    "answer": "they seek to charge more taxes to go to France and England with a waste of first world knowing that we have to get out of our pocket for these bastards"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the politicians trying to do with taxes to go to France and England?",
+                    "score": 0.7437,
+                    "answers": "how to lift the country,'on the contrary|relcl"
+                },
+                {
+                    "question": "What is the government's policy on foreign aid?",
+                    "score": 0.6473,
+                    "answers": "no idea how to lift the country,'on the contrary|dobj"
+                },
+                {
+                    "question": "What is the source of evidence of the money that the politicians seek to charge to go to France?",
+                    "score": 0.6336,
+                    "answers": "of first world|prep\tfirst world|pobj\twe|nsubj\tour|poss\tthese|det\ta good time|dobj"
+                },
+                {
+                    "question": "What is the waste of first world?",
+                    "score": 0.5863,
+                    "answers": "a waste of first world|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The first actor also opined on the current problems of the Mexican football team when he said that it is 'bread and circus where the directors are the ones who do the business ', while the population in general, he added, celebrates the triumph of a cup that was won in a cheating way.",
+            "question_answers": [
+                {
+                    "question": "What did The first actor say about the Mexican football team?",
+                    "answer": "directors are the ones who do the business"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the first actor say about the problems of the Mexican football team?",
+                    "score": 0.7508,
+                    "answers": "www.jornada.com.mx reported on 30/07/2015 that The first actor also opined on the current problems of the Mexican football team when he said that it is ' bread and circus where the directors are the ones who do the business ' , while the population in general , he added , celebrates the triumph of a cup that was won in a cheating way|ROOT\tthat The first actor also opined on the current problems of the Mexican football team when he said that it is ' bread and circus where the directors are the ones who do the business ' , while the population in general , he added , celebrates the triumph of a cup that was won in a cheating way|ccomp\twhen he said that it is ' bread and circus where the directors are the ones who do the business ' , while the population in general , he added , celebrates the triumph of a cup that was won in a cheating way|advcl"
+                }
+            ]
+        },
+        {
+            "claim": "He declared that all the problems that Mexican football has, especially the national team, are a reflection of the way the country finds itself.",
+            "question_answers": [
+                {
+                    "question": "What did jornada say about Mexican football?",
+                    "answer": "all the problems that Mexican football has, especially the national team, are a reflection of the way the country finds itself"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many problems does Mexican football have?",
+                    "score": 0.886,
+                    "answers": "national|amod\tthe country finds itself|relcl"
+                },
+                {
+                    "question": "What are the problems with Mexican football?",
+                    "score": 0.8575,
+                    "answers": "all the problems that Mexican football has , especially the national team ,|nsubj\tthat all the problems that Mexican football has , especially the national team , are a reflection of the way the country finds itself|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of all the problems that Mexican football has?",
+                    "score": 0.7833,
+                    "answers": "that He declared that all the problems that Mexican football has , especially the national team , are a reflection of the way the country finds itself|ccomp\tMexican football|nsubj"
+                },
+                {
+                    "question": "What is the national team of Mexico?",
+                    "score": 0.7435,
+                    "answers": "especially the national team|appos"
+                }
+            ]
+        },
+        {
+            "claim": "About his taste for the seventh art and theatrical scene, Damián Alcázar said that it is two different sensations that he perceives when he is in filming and on stage.",
+            "question_answers": [
+                {
+                    "question": "How many sensations does Damián Alcázar perceive when he is filming and on stage?",
+                    "answer": "two different sensations"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Damián Alcázar say about his taste for the seventh art and theatrical scene?",
+                    "score": 0.7468,
+                    "answers": "www.jornada.com.mx|nsubj\tthat|mark\tAbout his taste for the seventh art and theatrical scene|prep\this|poss\this taste for the seventh art and theatrical scene|pobj\tand|cc\t,|punct\tDamián|compound\tthat|mark\tit|nsubj\tthat|dobj\the|nsubj\tthat he perceives when he is in filming and on stage|ccomp\twhen|advmod\the|nsubj\tfilming|pobj\tand|cc\ton stage|conj"
+                },
+                {
+                    "question": "What is Damián Alcázar's fondness for?",
+                    "score": 0.6338,
+                    "answers": "theatrical|amod"
+                }
+            ]
+        },
+        {
+            "claim": "'I'm passionate about cinema, but in theatre I have a chance to be in front of the live audience and that nourishes a lot, because there's an energy that comes from the audience and comes to the stage, and that demands you be alive, convincing, fun, deep, intelligent, and all the things an actor can aspire to'.",
+            "question_answers": [
+                {
+                    "question": "What does a live audience demand of an actor?",
+                    "answer": "an energy that comes from the audience and comes to the stage, and that demands you be alive, convincing, fun, deep, intelligent, and all the things an actor can aspire to'"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much energy does a live audience give an actor?",
+                    "score": 0.8412,
+                    "answers": "a lot|dobj"
+                },
+                {
+                    "question": "What is the career of an actor who is passionate about cinema?",
+                    "score": 0.7998,
+                    "answers": "an actor can aspire to|relcl"
+                },
+                {
+                    "question": "What does it mean to be alive, convincing, fun, deep, and all the things an actor can aspire to?",
+                    "score": 0.7875,
+                    "answers": "that demands you be alive , convincing , fun , deep , intelligent , and all the things an actor can aspire to|conj"
+                },
+                {
+                    "question": "What does the website \"Jornada.com.mx\" say about being in front of the live audience?",
+                    "score": 0.7794,
+                    "answers": "the|det\tthe|det\tthe|det\tyou|nsubj\tthe|det"
+                },
+                {
+                    "question": "What is the life expectancy of an actor in live theater?",
+                    "score": 0.7524,
+                    "answers": "front of the live audience|pobj\tlive|amod"
+                }
+            ]
+        }
+    ]
+}

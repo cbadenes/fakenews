@@ -1,0 +1,194 @@
+{
+    "id": "78_Politics_533",
+    "claim": "The leadership of the Partido, Revalucianari, Institutional (PRI), in charge of Rene Juárez Cisner, is in charge of his candidates, says El Universal. According to the column Baj Reserva,'the election of the  of juli is approaching, there are some differences between the PRI and its candidates, essentially in states where there will be a choice of governor'. In the days of his career, the columnist Salvadr García St of El Universal said that diverss emress and the ri artid was'locking the key'to Jse Antni Meade r the lower part of the candidate who to date leaves the third place, and that the economic restrictions are limited to him, without any other. 'In the report, some of the complainants complain about the lack of the national leadership, headed by Rene Juárez Cisner-s ', he said. The PRI candidate in Puebla attended the'Insurgentes N'rte'(Pri Naci's headquarters) during the week, Enrique D́ger went to the'Insurgentes N'rte'offices. 'He had his resignation from the candidacy of the Gbiern, 'says the author of his strategy ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', , , ', ', , ', ', ', ', , ', ', ', ', ', ', ', ', ', ', , , , ', , , , ', , , ', ', ', ', ', ', , , , , ', ', ', ', ', ', ', , , , ', , , , , , , , , ', , , , , , ', , , , , ', ', ', ', , , ', , , ', , , , , , , , , ', , , ', , , , , , , , , , , ', , , , , , , , , , , , , , , , , , , , , , , , , ,. I'm sorry.",
+    "source": "nacionunida.com",
+    "date": "11/06/2018",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "The leadership of the Partido, Revalucianari, Institutional (PRI) , in charge of Rene Juárez Cisner , is in charge of candidates, says El Universal .",
+            "question_answers": [
+                {
+                    "question": "Who is the leader of the Partido, Revalucianari, Institutional (PRI)?",
+                    "answer": "Rene Juárez Cisner"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What position does El Universal hold?",
+                    "score": 0.7485,
+                    "answers": "charge of candidates|pobj"
+                },
+                {
+                    "question": "What is the leadership of the Partido, Revalucianari, Institutional (PRI)?",
+                    "score": 0.6086,
+                    "answers": "that The leadership of the Partido , Revalucianari , Institutional ( PRI ) , in charge of Rene Juárez Cisner , is in charge of candidates|ccomp"
+                },
+                {
+                    "question": "What is the relationship between El Universal and Rene Juarez Cisner?",
+                    "score": 0.5711,
+                    "answers": "of the Partido , Revalucianari , Institutional ( PRI )|prep\tin charge of candidates|prep"
+                },
+                {
+                    "question": "Who is Rene Juarez Cisner?",
+                    "score": 0.562,
+                    "answers": "The leadership of the Partido , Revalucianari , Institutional ( PRI ) , in charge of Rene Juárez Cisner|nsubj\tthe Partido , Revalucianari , Institutional ( PRI )|pobj\tin charge of Rene Juárez Cisner|prep\tcharge of Rene Juárez Cisner|pobj\tof Rene Juárez Cisner|prep\tJuárez|compound"
+                },
+                {
+                    "question": "What is the name of Rene Juarez Cisner?",
+                    "score": 0.5595,
+                    "answers": "Rene|compound"
+                }
+            ]
+        },
+        {
+            "claim": "According to the column Baj Reserva,'the election of the  of juli is approaching, there are some differences between the Partido, Revalucianari, Institutional (PRI) and candidates, essentially in states where there will be a choice of governor'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/06/2018 that according to the column Baj Reserva, 'the election of the of juli is approaching'?",
+                    "answer": "nacionunida.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the election of juli?",
+                    "score": 0.6904,
+                    "answers": "nacionunida.com reported on 11/06/2018 that According to the column Baj Reserva,'the election of the   of juli is approaching , there are some differences between the Partido , Revalucianari , Institutional ( PRI ) and candidates , essentially in states where there will be a choice of governor '|ROOT\ton 11/06/2018|prep\tthat|mark\tthe|det\tBaj|compound\telection of the|appos\tof the|prep\tthe|pobj\tof juli|csubj\tjuli|pobj\tis|aux\t,|punct\tthere|expl\tsome|det\tthe|det\t,|punct\t,|punct\t(|punct\t)|punct\tand|cc\t,|punct\twhere|advmod\tthere|expl\twill|aux\ta|det\tof governor|prep\tgovernor|pobj\t'|punct"
+                },
+                {
+                    "question": "What is the difference between Partido, Revalucianari, Institutional (PRI) and ( Partido) candidates?",
+                    "score": 0.6656,
+                    "answers": "essentially in states where there will be a choice of governor|prep"
+                },
+                {
+                    "question": "What is the voting record of the Partido, Revalucianari, Institutional (PRI)?",
+                    "score": 0.6368,
+                    "answers": "that According to the column Baj Reserva,'the election of the   of juli is approaching , there are some differences between the Partido , Revalucianari , Institutional ( PRI ) and candidates , essentially in states where there will be a choice of governor '|ccomp\tthe Partido , Revalucianari , Institutional ( PRI ) and candidates ,|pobj\tcandidates|conj\twhere there will be a choice of governor|relcl"
+                },
+                {
+                    "question": "What is the relationship between Partido, Revalucianari, and Institutional (PRI)?",
+                    "score": 0.6181,
+                    "answers": "some differences between the Partido , Revalucianari , Institutional ( PRI ) and candidates ,|attr\tbetween the Partido , Revalucianari , Institutional ( PRI ) and candidates ,|prep\t( PRI )|appos"
+                },
+                {
+                    "question": "What is Baj Reserva?",
+                    "score": 0.5722,
+                    "answers": "to the column Baj Reserva,'the election of the|prep"
+                }
+            ]
+        },
+        {
+            "claim": "In the days of career, his said that diverss emress and the ri artid was'locking the key'to Jse Antni Meade r the lower part of his , and that the economic restrictions are limited to his , without any other.",
+            "question_answers": [
+                {
+                    "question": "What did nacionunida.com report that diverss emress and the ri artid was'locking the key' to?",
+                    "answer": "Jse Antni Meade r the lower part of his"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What restrictions are limited to Meade's career?",
+                    "score": 0.6601,
+                    "answers": "the days of career|pobj\tcareer|pobj"
+                },
+                {
+                    "question": "What are the economic restrictions on Jse Antni Meade?",
+                    "score": 0.57,
+                    "answers": "Jse|compound"
+                },
+                {
+                    "question": "What is the relationship between diverss emress and ri artid?",
+                    "score": 0.5331,
+                    "answers": "nacionunida.com reported on 11/06/2018 that In the days of career , his said that diverss emress and the ri artid was'locking the key'to Jse Antni Meade r the lower part of his , and that the economic restrictions are limited to his , without any other|ROOT\tthat In the days of career , his said that diverss emress and the ri artid was'locking the key'to Jse Antni Meade r the lower part of his , and that the economic restrictions are limited to his , without any other|ccomp\tthe key'to Jse Antni Meade r the lower part of his|dobj"
+                },
+                {
+                    "question": "Who is Antni Meade?",
+                    "score": 0.5104,
+                    "answers": "Antni|compound"
+                },
+                {
+                    "question": "What is the name of the ri artid?",
+                    "score": 0.4724,
+                    "answers": "diverss emress and the ri artid|nsubj\tri|compound"
+                }
+            ]
+        },
+        {
+            "claim": "'In the report, some of the complainants complain about the lack of the national leadership, headed by Rene Juárez Cisner -s ', his said.",
+            "question_answers": [
+                {
+                    "question": "Who is the head of the national leadership?",
+                    "answer": "Rene Juárez Cisner"
+                },
+                {
+                    "question": "Who is the head of the national leadership?",
+                    "answer": "Rene Juárez Cisner"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Rene Juarez Cisner say about the lack of national leadership?",
+                    "score": 0.6036,
+                    "answers": "national|amod\this|nsubj"
+                },
+                {
+                    "question": "Who is Rene Juarez Cisner-s' successor?",
+                    "score": 0.5705,
+                    "answers": "Rene|compound\tJuárez|compound\tRene Juárez Cisner -s|pobj"
+                },
+                {
+                    "question": "What is Rene Juarez Cisner-Cisner-s position in the national leadership?",
+                    "score": 0.553,
+                    "answers": "the national leadership , headed by Rene Juárez Cisner -s|pobj"
+                },
+                {
+                    "question": "How many complainants were there in the report?",
+                    "score": 0.4885,
+                    "answers": "some of the complainants|nsubj"
+                },
+                {
+                    "question": "What is the national leadership of the United States?",
+                    "score": 0.4781,
+                    "answers": "on 11/06/2018|prep\tthe lack of the national leadership , headed by Rene Juárez Cisner -s|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "The PRI candidate in Puebla attended the'Insurgentes N'rte'(Pri Naci's headquarters) during the week, The PRI candidate in Puebla went to the'Insurgentes N'rte'offices.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 11/06/2018 that The PRI candidate in Puebla attended the'Insurgentes N'rte'?",
+                    "answer": "nacionunida.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did the PRI candidate attend the Insurgentes N'rte' meeting?",
+                    "score": 0.6396,
+                    "answers": "Naci 's|poss"
+                }
+            ]
+        },
+        {
+            "claim": "'The PRI candidate in Puebla had resignation from the candidacy of the Gbiern, 'says the author of strategy ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', , , ', ', , ', ', ', ', , ', ', ', ', ', ', ', ', ', ', , , , ', , , , ', , , ', ', ', ', ', ', , , , , ', ', ', ', ', ', ', , , , ', , , , , , , , , ', , , , , , ', , , , , ', ', ', ', , , ', , , ', , , , , , , , , ', , , ', , , , , , , , , , , ', , , , , , , , , , , , , , , , , , , , , , , , , ,.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Why did the candidate resign from the candidacy of the Gbiern?",
+                    "score": 0.6926,
+                    "answers": "The PRI candidate in Puebla had resignation from the candidacy of the Gbiern|ccomp"
+                },
+                {
+                    "question": "What did Gbiern resign from his candidacy of the Puebla?",
+                    "score": 0.6516,
+                    "answers": "resignation from the candidacy of the Gbiern|dobj"
+                },
+                {
+                    "question": "Who is the author of strategy?",
+                    "score": 0.6276,
+                    "answers": "on 11/06/2018|prep\tof the Gbiern|prep\tthe author of strategy|nsubj"
+                }
+            ]
+        }
+    ]
+}

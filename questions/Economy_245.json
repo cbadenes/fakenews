@@ -1,0 +1,181 @@
+{
+    "id": "Economy_245",
+    "claim": "The Bank of Spain will deliver the new coins at the end of January for circulationThe National Currency and Timing Factory has started today to coin the new common faces of the coins of one and two euros and of the pieces of ,  and  cents, which in their reverse will move to take the map of the Union of  in front of the fifteen countries that formed it. The new currencies will be delivered at the end of January to the Banco de España for circulation, reported today the Ministry of Economy and Finance, who recalled that the Council of the European Union decided in June  that the common faces of the aforementioned pieces should be changed to include all member states. Currently, these currencies contain the representation of Belgium, France, Germany, Italy, Luxembourg, the Netherlands, Denmark, Ireland, the United Kingdom, Greece, Spain, Portugal, Austria, Finland and Sweden. From now on, it will also include the Czech Republic, Hungary, Poland, Slovakia, Lithuania, Latvia, Estonia, Slovenia, Cyprus, Malta, Bulgaria and Romania. Countries belonging to the euro area will be able to use the new currencies starting this year and, in any case, will have to use the new design in . However, coins issued under the previous design will remain legal tender, as the changes will only affect the manufacture of the new coins. The common faces of smaller denomination coins, one, two and five cents, representing Europe in the world, will not be affected and will maintain their current design. I'm sorry.",
+    "source": "elpais.com",
+    "date": "02/01/2007",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "The Bank of Spain will deliver the new coins at the end of January for circulationThe National Currency and Timing Factory has started today to coin the new common faces of the coins of one and two euros and of the pieces of ,  and  cents, which in their reverse will move to take the map of the Union of  in front of the fifteen countries that formed it .",
+            "question_answers": [
+                {
+                    "question": "The National Currency and Timing Factory has started today to coin the new common faces of the coins of one and two euros and of what?",
+                    "answer": "pieces of"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the Bank of Spain begin to deliver new coins for circulation?",
+                    "score": 0.8472,
+                    "answers": "of January|prep"
+                },
+                {
+                    "question": "When did the National Currency and Timing Factory start delivering new common faces of the coins?",
+                    "score": 0.7886,
+                    "answers": "January|pobj"
+                },
+                {
+                    "question": "What countries formed the Union of?",
+                    "score": 0.6592,
+                    "answers": "  in front of the fifteen countries that formed it|dep\tin front of the fifteen countries that formed it|prep\tfront of the fifteen countries that formed it|pobj\tof the fifteen countries that formed it|prep\tthe fifteen countries that formed it|pobj"
+                },
+                {
+                    "question": "What will happen to the map of the Union of?",
+                    "score": 0.5929,
+                    "answers": "National Currency and Timing Factory has started today to coin the new common faces of the coins of one and two euros and of the pieces of ,   and   cents , which in their reverse will move to take the map of the Union of   in front of the fifteen countries that formed it|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "the new coins will be delivered at the end of January to The Bank of Spain for circulation, reported today the Ministry of Economy and Finance, who recalled that the Council of the European Union decided in June  that the common faces of the aforementioned pieces should be changed to include all member states.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the new coins will be delivered to the Bank of Spain for circulation?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "When did the Council of the European Union decide to deliver new coins to The Bank of Spain for circulation?",
+                    "score": 0.8868,
+                    "answers": "who recalled that the Council of the European Union decided in June|relcl"
+                },
+                {
+                    "question": "What is the purpose of the European Union?",
+                    "score": 0.5919,
+                    "answers": "the European Union|pobj"
+                },
+                {
+                    "question": "What is the name of the Ministry of Economy and Finance?",
+                    "score": 0.5903,
+                    "answers": "of Economy and Finance|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Currently, the new coins contain the representation of Belgium, France, Germany, Italy, Luxembourg, the Netherlands, Denmark, Ireland, the United Kingdom, Greece, Spain, Portugal, Austria, Finland and Sweden.",
+            "question_answers": [
+                {
+                    "question": "Who reported that the new coins contain the representation of Belgium, France, Germany, Italy, Luxembourg, the Netherlands, Denmark, Ireland, the United Kingdom, Greece, Spain, Portugal, Austria, Finland, and Sweden?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries have representation on the new coins?",
+                    "score": 0.8135,
+                    "answers": "Portugal , Austria , Finland and Sweden|conj"
+                },
+                {
+                    "question": "What representation does elpais.com have in the new coins?",
+                    "score": 0.7714,
+                    "answers": "elpais.com reported on 02/01/2007 that Currently , the new coins contain the representation of Belgium , France , Germany , Italy , Luxembourg , the Netherlands , Denmark , Ireland , the United Kingdom , Greece , Spain , Portugal , Austria , Finland and Sweden|ROOT"
+                },
+                {
+                    "question": "What countries have the representation of Belgium, France, Germany, Italy, Luxembourg, the Netherlands, Denmark, Ireland, Portugal, Scotland, Portugal and Sweden?",
+                    "score": 0.7345,
+                    "answers": "Austria , Finland and Sweden|conj"
+                }
+            ]
+        },
+        {
+            "claim": "From now on, the common faces of the aforementioned pieces will also include the Czech Republic, Hungary, Poland, Slovakia, Lithuania, Latvia, Estonia, Slovenia, Cyprus, Malta, Bulgaria and Romania.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 02/01/2007 that the Czech Republic, Hungary, Poland, Slovakia, Lithuania, Latvia, Estonia, Slovenia, Cyprus, Malta, Bulgaria and Romania will be the common faces of the aforementioned pieces?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the common faces of the Czech Republic, Hungary, Poland, Slovakia, Lithuania, Latvia, Estonia, Romania, and Romania?",
+                    "score": 0.604,
+                    "answers": "Lithuania , Latvia , Estonia , Slovenia , Cyprus , Malta , Bulgaria and Romania|conj"
+                }
+            ]
+        },
+        {
+            "claim": "Countries belonging to the euro area will be able to use the new coins starting this year and, in any case, will have to use the new design in .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 02/01/2007 that countries belonging to the euro area will be able to use the new coins?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries will use the new coins?",
+                    "score": 0.901,
+                    "answers": "euro|compound"
+                },
+                {
+                    "question": "What countries will be able to use new coins?",
+                    "score": 0.9007,
+                    "answers": "that Countries belonging to the euro area will be able to use the new coins starting this year and , in any case , will have to use the new design in|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, coins issued under the previous design will remain legal tender, as the changes will only affect the manufacture of the new coins .",
+            "question_answers": [
+                {
+                    "question": "Who reported on 02/01/2007 that coins issued under the previous design will remain legal tender?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How will the changes affect the manufacture of new coins?",
+                    "score": 0.8742,
+                    "answers": "elpais.com reported on 02/01/2007 that However , coins issued under the previous design will remain legal tender , as the changes will only affect the manufacture of the new coins|ROOT\tas|mark\tthe changes|nsubj\tas the changes will only affect the manufacture of the new coins|advcl"
+                },
+                {
+                    "question": "What will happen if the new coins are not legal tender?",
+                    "score": 0.766,
+                    "answers": "of the new coins|prep"
+                },
+                {
+                    "question": "How many new coins will be made under the new design?",
+                    "score": 0.7448,
+                    "answers": "only|advmod"
+                },
+                {
+                    "question": "What will happen to the new coins issued under the previous design?",
+                    "score": 0.7351,
+                    "answers": "will|aux\tthat However , coins issued under the previous design will remain legal tender , as the changes will only affect the manufacture of the new coins|ccomp\twill|aux\tthe new coins|pobj"
+                },
+                {
+                    "question": "What is the current legal tender for coins issued under previous design?",
+                    "score": 0.7314,
+                    "answers": "on 02/01/2007|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The common faces of smaller denomination coins, one, two and five cents, representing Europe in the world, will not be affected and will maintain their current design.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 02/01/2007 that the common faces of smaller denomination coins, one, two and five cents, will not be affected?",
+                    "answer": "elpais.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the common faces of smaller denomination coins?",
+                    "score": 0.7358,
+                    "answers": "elpais.com reported on 02/01/2007 that The common faces of smaller denomination coins , one , two and five cents , representing Europe in the world , will not be affected and will maintain their current design|ROOT\ton 02/01/2007|prep\tthat|mark\tThe|det\tcommon|amod\tThe common faces of smaller denomination coins , one , two and five cents , representing Europe in the world ,|nsubjpass\tof smaller denomination coins , one , two and five cents , representing Europe in the world ,|prep\tsmaller|amod\tsmaller denomination|compound\tsmaller denomination coins , one , two and five cents , representing Europe in the world ,|pobj\t,|punct\tone , two and five|nummod\t,|punct\ttwo and five|conj\tand|cc\tfive|conj\tone , two and five cents|appos\t,|punct\trepresenting Europe in the world|acl\tin the world|prep\tthe|det\tthe world|pobj\t,|punct\twill|aux\tnot|neg\tbe|auxpass\tthat The common faces of smaller denomination coins , one , two and five cents , representing Europe in the world , will not be affected and will maintain their current design|ccomp\tand|cc\twill|aux\twill maintain their current design|conj\ttheir|poss\tcurrent|amod\ttheir current design|dobj"
+                }
+            ]
+        }
+    ]
+}

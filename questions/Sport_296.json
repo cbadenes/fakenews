@@ -1,0 +1,309 @@
+{
+    "id": "Sport_296",
+    "claim": "After the unexpected defeat of the Eagles of America in front of Rayados del Monterrey, the controversy has not been expected. But not because of the penalty caused by Samudio's hand, but because everything indicated that America should be crowned on its centenary. In a press conference held after the defeat, the directors of the Americas pointed out that, in fact, this was not foreseen. 'Now they have crossed us ', admitted the technical director Ignacio Ambriz.'Personally I didn't expect it, but what one is going to do to him\". At the insistence of reporters to know the truth, Ricardo Peláez, president of the Club America, took the floor: 'I will tell you the net. We were to blame, no way. You have to admit it.\". According to Peláez, the popularity of the team dropped a % and his image was compromised after they visited Peña Nieto and gave him an honorary player shirt.'It was a bad move,'he said. epn_america_aguilas_mexsportIt is for that reason that they preferred to let themselves be won as a damage control maneuver: 'No way: our popularity went down because they used us as a smokescreen. And now we had to resort to defeat as another smokescreen ', he concluded. I'm sorry.",
+    "source": "www.eldizque.com",
+    "date": "22/05/2016",
+    "veracity": 0,
+    "claims": [
+        {
+            "claim": "After the unexpected defeat of the Eagles of America in front of Rayados del Monterrey, the controversy has not been expected.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that the controversy was not expected?",
+                    "answer": "22/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What team did the Eagles lose to Rayados del Monterrey in 2016?",
+                    "score": 0.8593,
+                    "answers": "of the Eagles of America|prep"
+                },
+                {
+                    "question": "What did Rayados del Monterrey lose to the Eagles in 2016?",
+                    "score": 0.849,
+                    "answers": "of Rayados del Monterrey|prep"
+                },
+                {
+                    "question": "What did the Eagles do in front of Rayados del Monterrey?",
+                    "score": 0.8201,
+                    "answers": "After the unexpected defeat of the Eagles of America in front of Rayados del Monterrey|prep\tthe unexpected defeat of the Eagles of America in front of Rayados del Monterrey|pobj"
+                },
+                {
+                    "question": "What was the outcome of Rayados del Monterrey's defeat against the Eagles of America?",
+                    "score": 0.7766,
+                    "answers": "unexpected|amod\tof America|prep"
+                },
+                {
+                    "question": "What is Rayados del Monterrey?",
+                    "score": 0.774,
+                    "answers": "front of Rayados del Monterrey|pobj\tRayados|compound"
+                }
+            ]
+        },
+        {
+            "claim": "But not because of the penalty caused by Samudio's hand, but because everything indicated that America should be crowned on its centenary.",
+            "question_answers": [
+                {
+                    "question": "Why did www.eldizque.com report that America should be crowned on its centenary?",
+                    "answer": "everything indicated that America should be crowned on its centenary"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Samudio say about America being crowned on its centenary?",
+                    "score": 0.8145,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 22/05/2016 that But not because of the penalty caused by Samudio 's hand , but because everything indicated that America should be crowned on its centenary|ROOT\ton 22/05/2016|prep\tthat|mark\tBut|cc\tnot|neg\tthat But not because of the penalty caused by Samudio 's hand , but because everything indicated that America should be crowned on its centenary|prep\tof|pcomp\tthe|det\tby Samudio 's hand|agent\t's|case\tSamudio 's hand|pobj\t,|punct\tbut|cc\tbecause|mark\teverything|nsubj\tbecause everything indicated that America should be crowned on its centenary|conj\tthat|mark\tshould|aux\tbe|auxpass\tthat America should be crowned on its centenary|ccomp\ton its centenary|prep\tits|poss\tits centenary|pobj"
+                },
+                {
+                    "question": "What did Samudio do to cause the penalty?",
+                    "score": 0.7734,
+                    "answers": "the penalty caused by Samudio 's hand|pobj"
+                },
+                {
+                    "question": "What caused Samudio's hand to break?",
+                    "score": 0.7603,
+                    "answers": "caused by Samudio 's hand|acl"
+                }
+            ]
+        },
+        {
+            "claim": "In a press conference held after the defeat, the directors of the Americas pointed out that, in fact, this was not foreseen.",
+            "question_answers": [
+                {
+                    "question": "Who pointed out that this was not foreseen?",
+                    "answer": "directors of the Americas"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the directors of the Americas say about the election?",
+                    "score": 0.675,
+                    "answers": "the Americas|pobj"
+                },
+                {
+                    "question": "What was the purpose of the press conference held after the defeat?",
+                    "score": 0.5987,
+                    "answers": "a press conference held after the defeat|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'Now they have crossed us ', admitted the technical director Ignacio Ambriz.",
+            "question_answers": [
+                {
+                    "question": "What did www.eldizque.com report on 22/05/2016?",
+                    "answer": "'Now they have crossed us"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between foreign powers and the U.S.?",
+                    "score": 0.5666,
+                    "answers": "that ' Now they have crossed us|ccomp"
+                },
+                {
+                    "question": "Who is Ignacio Ambriz?",
+                    "score": 0.5552,
+                    "answers": "www.eldizque.com|nsubj\twww.eldizque.com reported on 22/05/2016 that ' Now they have crossed us|ccomp\tthe technical director Ignacio Ambriz|nsubj\tIgnacio|compound"
+                },
+                {
+                    "question": "What is the source of evidence of the relationship between the technical director and Ignacio Ambriz?",
+                    "score": 0.5192,
+                    "answers": "on 22/05/2016|prep\tthey|nsubj\tus|dobj\t,|punct\twww.eldizque.com reported on 22/05/2016 that ' Now they have crossed us ' , admitted the technical director Ignacio Ambriz|ROOT\tthe|det"
+                }
+            ]
+        },
+        {
+            "claim": "'Personally I didn't expect it, but what one is going to do to him\".",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that 'Personally I didn't expect it, but what one going to do to him'?",
+                    "answer": "22/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the website \"eldizque.com\" say about a terrorist?",
+                    "score": 0.8317,
+                    "answers": "to him|prep"
+                },
+                {
+                    "question": "What doesldizque.com do?",
+                    "score": 0.7942,
+                    "answers": "on 22/05/2016|prep"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.7428,
+                    "answers": "www.eldizque.com|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "At the insistence of reporters to know the truth, Ricardo Peláez, president of the Club America, took the floor: 'I will tell you the net.",
+            "question_answers": [
+                {
+                    "question": "When did www.eldizque.com report that Ricardo Pelaez took the floor?",
+                    "answer": "22/05/2016"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Why did the reporters want to know the truth of Ricardo Peláez?",
+                    "score": 0.8154,
+                    "answers": "the insistence of reporters to know the truth|pobj"
+                },
+                {
+                    "question": "Where did Ricardo Peláez take the floor during the Club America meeting?",
+                    "score": 0.7884,
+                    "answers": "the floor|dobj"
+                },
+                {
+                    "question": "Who was the president of Club America in 2016?",
+                    "score": 0.7409,
+                    "answers": "on 22/05/2016|prep\t22/05/2016|pobj\tRicardo|compound\tRicardo Peláez , president of the Club America ,|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of Ricardo Peláez being president of Club America?",
+                    "score": 0.7212,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "How many reporters attended the Club America meeting in 2016?",
+                    "score": 0.7055,
+                    "answers": "of reporters|prep"
+                }
+            ]
+        },
+        {
+            "claim": "We were to blame, no way.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 22/05/2016 that We were to blame?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did the website \"eldizque.com\" do?",
+                    "score": 0.8476,
+                    "answers": "www.eldizque.com|nsubj\ton 22/05/2016|prep\tWe|nsubj"
+                },
+                {
+                    "question": "What was the relationship between the Obama administration andldizque.com?",
+                    "score": 0.8128,
+                    "answers": "that We were to blame , no way|ccomp"
+                },
+                {
+                    "question": "What is the source of evidence of the blame for the website?",
+                    "score": 0.7767,
+                    "answers": "to blame|xcomp"
+                }
+            ]
+        },
+        {
+            "claim": "According to Peláez, the popularity of the team dropped a % and his image was compromised after they visited Peña Nieto and gave him an honorary player shirt.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "Did Peñ Nieto give him an honorary player shirt?",
+                    "score": 0.8277,
+                    "answers": "his image was compromised after they visited Peña Nieto and gave him an honorary player shirt|conj"
+                },
+                {
+                    "question": "What did Peláez say about the popularity of the team?",
+                    "score": 0.7431,
+                    "answers": "the popularity of the team|nsubj"
+                },
+                {
+                    "question": "What was Peláez's image after they visited Peña Nieto?",
+                    "score": 0.7106,
+                    "answers": "According to Peláez|prep\tto Peláez|prep"
+                },
+                {
+                    "question": "What is the name of the team that Peña Nieto played for?",
+                    "score": 0.6601,
+                    "answers": "Peña|compound"
+                },
+                {
+                    "question": "What was the relationship between Peñ Nieto and Peláez?",
+                    "score": 0.6359,
+                    "answers": "www.eldizque.com reported on 22/05/2016 that According to Peláez , the popularity of the team dropped a % and his image was compromised after they visited Peña Nieto and gave him an honorary player shirt|ROOT\tthat According to Peláez , the popularity of the team dropped a % and his image was compromised after they visited Peña Nieto and gave him an honorary player shirt|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "epn_america_aguilas_mexsportIt is for that reason that they preferred to let themselves be won as a damage control maneuver: 'No way: our popularity went down because they used us as a smokescreen.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 22/05/2016 that epn_america_aguilas_mexsport preferred to let themselves be won as a damage control maneuver?",
+                    "answer": "www.eldizque.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is a damage control maneuver?",
+                    "score": 0.6248,
+                    "answers": "a damage control maneuver|pobj"
+                },
+                {
+                    "question": "What is the damage control maneuver?",
+                    "score": 0.616,
+                    "answers": "damage|compound"
+                },
+                {
+                    "question": "What is the name of the damage control maneuver that epnamerica andaguilas used as a smokescreen?",
+                    "score": 0.5696,
+                    "answers": "www.eldizque.com reported on 22/05/2016 that epn_america_aguilas_mexsportIt is for that reason that they preferred to let themselves be won as a damage control maneuver|ccomp"
+                },
+                {
+                    "question": "What was the relationship between the epnamericaaguilas and mexsport?",
+                    "score": 0.5531,
+                    "answers": "as a damage control maneuver|prep"
+                },
+                {
+                    "question": "What is the source of evidence of the success of the epn-america-aguilas-mexsport?",
+                    "score": 0.5521,
+                    "answers": "22/05/2016|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "And now we had to resort to defeat as another smokescreen ', he concluded.",
+            "question_answers": [
+                {
+                    "question": "What did eldizque say we had to resort to defeat as another?",
+                    "answer": "smokescreen"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What was the outcome of the 2016 election?",
+                    "score": 0.8057,
+                    "answers": "defeat|pobj"
+                },
+                {
+                    "question": "What was the purpose of the smokescreen?",
+                    "score": 0.6883,
+                    "answers": "that And now we had to resort to defeat as another smokescreen|ccomp\tto resort to defeat as another smokescreen|xcomp"
+                },
+                {
+                    "question": "What is the purpose of a smokescreen?",
+                    "score": 0.6866,
+                    "answers": "to defeat|prep\tas another smokescreen|prep\tanother smokescreen|pobj"
+                },
+                {
+                    "question": "What is the website \"eldizque.com\"?",
+                    "score": 0.6495,
+                    "answers": "www.eldizque.com|nsubj"
+                },
+                {
+                    "question": "What is the source of evidence of the method used to defeat the smokescreen?",
+                    "score": 0.6492,
+                    "answers": "www.eldizque.com reported on 22/05/2016 that And now we had to resort to defeat as another smokescreen|ccomp"
+                }
+            ]
+        }
+    ]
+}

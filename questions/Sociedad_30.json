@@ -1,0 +1,881 @@
+{
+    "id": "Sociedad_30",
+    "claim": "Last week, CME Group launched the world's first water futures market contract that allows buyers and sellers to exchange a price for the delivery of fixed amounts of water in the future. However,'water has always had a price, whether in a bottle of water to drink, in the food we consume or in the energy we use,'recalled DW Hugo Contreras, environmental economist and director of Water Safety at The Nature Conservacy for Latin America.'The novel thing is that now, being listed in such an important market, its price is going to be more visible,'he stressed. Thus, although'in the vast majority of countries of the world, laws consider water as a national good for public use, states have granted rights of use through concessions or administrative licenses or have delivered services to private companies,'he told DW Ingrid Wehr, director of the Heinrich Böll Stiftung of Central America. However,'water has always had a price, whether in a bottle of water to drink, in the food we consume or in the energy we use,'recalled DW Hugo Contreras, environmental economist and director of Water Safety at The Nature Conservacy for Latin America.'The novel thing is that now, being listed in such an important market, its price is going to be more visible,'he stressed. 'Water markets are mechanisms that allow the transfer of rights over this natural resource. They usually operate with rules arbitrated by governments, but influenced by private incentives,” Carlos Lozano Acosta, senior attorney for the Freshwater Program of the Inter-American Association for the Defense of the Environment (AIDA), told DW.'Among the rights that can be transferred, there are also the rights of use,'he added. Thus, although'in the vast majority of countries of the world, the laws consider water as a national good for public use, the states have granted rights of use through concessions or administrative licenses or have delivered services to private companies,'Wehr said.'What this instrument takes as a product is the right of water that some users have decided to sell or make available to the market,'explained Contreras, clarifying that'what is quoted is the future 'price' of water, not water itself\". In this way, 'if water is expensive you will have incentives to save it or not use it. The opposite will happen if the water is cheap,” he added. However, Lozano considered that incentives can be generated to pollute it'and raise prices to make the business more profitable\". Likewise,'his waste or hoarding can be very profitable,'he stressed. From natural resource to capital The human right to safe drinking water and sanitation was recognized by the United Nations General Assembly in 2010. However, '2. 200 million people are not guaranteed access to safe drinking water,” he reminded DW Pedro Arrojo-Agudo, Special Rapporteur for the human rights to drinking water and sanitation at the United Nations, who harshly criticized the “speculative operation” that can lead to “breaking economies” and “destructing agricultural fabric”, in addition to aggravating poverty. It is a “commercial logic that is the antipode of the logic of the general interest, of the human right”, he said.'The market understands business, does not understand environmental values, social rights, articulation of the rural environment.. That is not listed on the stock market,'he criticized. “The market does not know how to manage human rights, it is a tool that does not allow to recognize more vital values of water,” he added. In this sense, Contreras stressed the importance of differentiating between these values and the price. 'Whether the regulations are imperfect or because we receive government support to complete the payment of water in most cases, the price does not reflect the value,'he said, criticizing that this can lead to waste. In this sense, Arrojo-Agudo considered that a'tariff order that incentivizes greater responsibility is an important argument, but that does not mean that it blesses any speculative mechanism\". Risks for Latin America?As they are focused on California (United States),'the index and the associated price have no direct implication in the price of water in other countries,'said Contreras. However, for Aguado'there is a great risk for Latin America to break even more and faster water-dependent economies of small and medium-sized particularly agricultural producers'pointing out to irrigation sectors in Argentina, Chile and Brazil that'as California can produce spaces where it rains less, there is more sunshine therefore the use of irrigation is fundamental to make agriculture more profitable\". He also pointed to further consequences such as “the speculation of territories that have water sources”, accentuating “the entrances to territories of indigenous peoples and the displacement of the population”. Contreras recalled that'there is today in Latin America a set of transactions between individuals that sell, lend or rent the use of water and whose price is not known\". Thus, Wehr pointed to Chile, a country where he lived for six years. “It lacks accurate information about water rights and its owners, suffers from a remarkable over-allocation of water rights in most of its 101 watersheds and has no pricing policy or significant consumption control,” he criticized. Taking into account this lack of'precise information about the situation of both surface and underground water,'Hugo Contreras believes it is'hard to establish something similar to what happened in the United States'. However, for Lozano this 'may depend on each country, because national laws influence these possibilities'. It also considered that this measure 'will encourage the Latin American political debate that increasingly includes environmental issues'. A fact that is happening in Chile. 'Ending the current system of water privatization is one of the key demands of the environmental movement in the debate on a new ecological constitution ', concluded Wehr. (dz)",
+    "source": "www.dw.com",
+    "date": "21/12/2020",
+    "veracity": 1,
+    "claims": [
+        {
+            "claim": "Last week, CME Group launched the world's first water futures market contract that allows buyers and sellers to exchange a price for the delivery of fixed amounts of water in the future.",
+            "question_answers": [
+                {
+                    "question": "Who launched the world's first water futures market contract?",
+                    "answer": "CME Group"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the world's first water futures market contract?",
+                    "score": 0.7248,
+                    "answers": "www.dw.com|nsubj\twww.dw.com reported on 21/12/2020 that Last week , CME Group launched the world 's first water futures market contract that allows buyers and sellers to exchange a price for the delivery of fixed amounts of water in the future|ROOT\ton 21/12/2020|prep\t21/12/2020|pobj\tthat|mark\tLast|amod\t,|punct\tCME|compound\tthat Last week , CME Group launched the world 's first water futures market contract that allows buyers and sellers to exchange a price for the delivery of fixed amounts of water in the future|ccomp\tthe|det\tthe world 's|poss\t's|case\twater|compound\twater futures|compound\tmarket|compound\tthe world 's first water futures market contract that allows buyers and sellers to exchange a price for the delivery of fixed amounts of water in the future|dobj\tthat|nsubj\tthat allows buyers and sellers to exchange a price for the delivery of fixed amounts of water in the future|relcl\tbuyers and sellers|nsubj\tand|cc\tsellers|conj\tto|aux\tbuyers and sellers to exchange a price for the delivery of fixed amounts of water in the future|ccomp\ta|det\ta price|dobj\tfor the delivery of fixed amounts of water in the future|prep\tthe|det\tthe delivery of fixed amounts of water in the future|pobj\tof fixed amounts of water|prep\tfixed|amod\tfixed amounts of water|pobj\tof water|prep\twater|pobj\tthe|det\tthe future|pobj"
+                },
+                {
+                    "question": "What was the price for the delivery of fixed amounts of water in the future?",
+                    "score": 0.6536,
+                    "answers": "in the future|prep"
+                }
+            ]
+        },
+        {
+            "claim": "However,'water has always had a price, whether in a bottle of water to drink, in the food we consume or in the energy United Nations DW Hugo Contreras, environmental economist and director of Water Safety at The Nature Conservacy for Latin America United Nations DW Hugo Contreras, environmental economist and director of Water Safety at The Nature Conservacy for Latin America he The market .",
+            "question_answers": [
+                {
+                    "question": "Where is DW Hugo Contreras a director of Water Safety?",
+                    "answer": "The Nature Conservacy for Latin America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the price of water to drink?",
+                    "score": 0.7381,
+                    "answers": "However,'water|nsubj\ta price ,|dobj\twhether|mark\twhether in a bottle of water to drink , in the food we consume or in the energy|prep\ta bottle of water to drink|pobj\tof water|prep\twater|pobj\tto drink|relcl\tin the food we consume or in the energy|conj\tthe food we consume|pobj\twe consume|relcl\tin the energy|conj\tthe energy|pobj"
+                },
+                {
+                    "question": "What is DW Hugo Contreras' stance on water consumption?",
+                    "score": 0.7012,
+                    "answers": "21/12/2020|pobj\the The market|dobj"
+                },
+                {
+                    "question": "Who is DW Hugo Contreras?",
+                    "score": 0.6335,
+                    "answers": "Hugo|compound\tUnited Nations DW Hugo Contreras , environmental economist and director of Water Safety at The Nature Conservacy for Latin America United Nations DW Hugo Contreras , environmental economist and director of Water Safety at The Nature Conservacy for Latin America|dobj\tenvironmental economist and director of Water Safety at The Nature Conservacy for Latin America|appos\tof Water Safety|prep\tHugo|compound\tDW Hugo Contreras , environmental economist and director of Water Safety at The Nature Conservacy for Latin America|appos\tenvironmental economist and director of Water Safety at The Nature Conservacy for Latin America|appos\tof Water Safety|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'The novel thing The market , being listed in such Water markets market, The Nature Conservacy for Latin America he to be more visible,'he stressed.",
+            "question_answers": [
+                {
+                    "question": "What did www.dw.com report on 21/12/2020?",
+                    "answer": "The market"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What market is the book \"The novel thing the market\" listed in?",
+                    "score": 0.74,
+                    "answers": "that|mark\t'|punct\tThe|det\tThe|det\tThe|det\tto|aux\tmore|advmod"
+                },
+                {
+                    "question": "What is the novel thing the market is being listed in such as Water markets market?",
+                    "score": 0.7135,
+                    "answers": "more visible,'he|punct\twww.dw.com reported on 21/12/2020 that ' The novel thing The market , being listed in such Water markets market , The Nature Conservacy for Latin America he to be more visible,'he stressed|ROOT"
+                },
+                {
+                    "question": "What market is The Nature Conservacy for Latin America?",
+                    "score": 0.6925,
+                    "answers": ", being listed in such Water markets market|punct\tWater markets|compound"
+                },
+                {
+                    "question": "Where is the Water markets market located?",
+                    "score": 0.6893,
+                    "answers": "such Water markets market|pobj"
+                },
+                {
+                    "question": "What is Latin America?",
+                    "score": 0.6014,
+                    "answers": "for Latin America|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Thus, although'in the vast majority of countries of the world's water itself consider water as a national Contreras for public use, states have more vital values of water rights of use through concessions or more vital values of water licenses or have delivered services to private companies,'he reflect Böll Stiftung of Central America.",
+            "question_answers": [
+                {
+                    "question": "Who did www.dw.com reflect on the report?",
+                    "answer": "Böll Stiftung of Central America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries consider water as a national Contreras for public use?",
+                    "score": 0.8077,
+                    "answers": "www.dw.com|nsubj\twww.dw.com reported on 21/12/2020 that Thus , although'in the vast majority of countries of the world 's water itself consider water as a national Contreras for public use , states have more vital values of water rights of use through concessions or more vital values of water licenses or have delivered services to private companies,'he|ccomp\ton 21/12/2020|prep\talthough'in the vast majority of countries of the world 's water itself|nsubj\tvast|amod\tthe vast majority of countries of the world 's water itself|pobj\tcountries of the world 's water itself|pobj\tof the world 's water itself|prep\tthe world 's|poss\t's|case\tthe world 's water itself|pobj\titself|appos\tas a national Contreras for public use|prep\tnational|amod\tfor public use|prep\tof Central America|prep"
+                },
+                {
+                    "question": "What services do states deliver to private companies?",
+                    "score": 0.802,
+                    "answers": "services|dobj"
+                },
+                {
+                    "question": "What is water rights for use through concessions or more vital values of water licenses?",
+                    "score": 0.7796,
+                    "answers": "use|pobj"
+                },
+                {
+                    "question": "What is Böll Stiftung's stance on water rights?",
+                    "score": 0.7419,
+                    "answers": "private companies,'he|pobj"
+                },
+                {
+                    "question": "What is Böll Stiftung of Central America?",
+                    "score": 0.6568,
+                    "answers": ",|punct\ta|det\tpublic|amod\tpublic use|pobj\t,|punct\tstates|nsubj\tmore|advmod\tmore vital|amod\tor|cc\tmore|advmod\tmore vital|amod\tor|cc\thave|aux\thave delivered services to private companies,'he|conj\tto private companies,'he|prep\tprivate|amod\twww.dw.com reported on 21/12/2020 that Thus , although'in the vast majority of countries of the world 's water itself consider water as a national Contreras for public use , states have more vital values of water rights of use through concessions or more vital values of water licenses or have delivered services to private companies,'he reflect Böll Stiftung of Central America|ROOT\tBöll|compound\tCentral|compound\tCentral America|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "However,'water has always had a price, whether in a bottle of water Lozano a'tariff order that incentivizes greater responsibility we consume or in Latin America?As DW Hugo Contreras, environmental economist and director of Water Safety at The Nature Conservacy for Latin America .",
+            "question_answers": [
+                {
+                    "question": "Who is DW Hugo Contreras?",
+                    "answer": "environmental economist and director of Water Safety at The Nature Conservacy for Latin America"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the price of water Lozano a'tariff order?",
+                    "score": 0.7289,
+                    "answers": "Hugo|compound"
+                },
+                {
+                    "question": "What is Lozano a'tariff?",
+                    "score": 0.7026,
+                    "answers": "www.dw.com reported on 21/12/2020 that However,'water has always had a price , whether in a bottle of water Lozano a'tariff order that incentivizes greater responsibility we consume or in Latin America?As DW Hugo Contreras , environmental economist and director of Water Safety at The Nature Conservacy for Latin America|ROOT\tthat However,'water has always had a price , whether in a bottle of water Lozano a'tariff order that incentivizes greater responsibility we consume or in Latin America?As DW Hugo Contreras , environmental economist and director of Water Safety at The Nature Conservacy for Latin America|ccomp\twhether in a bottle of water Lozano a'tariff order that incentivizes greater responsibility we consume or in Latin America?As DW|prep\ta bottle of water Lozano a'tariff order that incentivizes greater responsibility we consume|pobj\twhether in a bottle of water Lozano a'tariff order that incentivizes greater responsibility we consume or in Latin America?As DW Hugo Contreras , environmental economist and director of Water Safety at The Nature Conservacy for Latin America|dobj"
+                },
+                {
+                    "question": "What is Lozano a'tariff order?",
+                    "score": 0.6946,
+                    "answers": "www.dw.com|nsubj\ton 21/12/2020|prep\t21/12/2020|pobj\tthat|mark\tHowever,'water|nsubj\thas|aux\talways|advmod\ta|det\ta price|dobj\t,|punct\twhether|mark\ta|det\tof water|prep\twater|pobj\tLozano|compound\ta'tariff|compound\tLozano a'tariff order that incentivizes greater responsibility we consume|appos\tthat|nsubj\tthat incentivizes greater responsibility we consume|relcl\tgreater|amod\tgreater responsibility we consume|dobj\twe|nsubj\twe consume|relcl\tor|cc\tin Latin America?As|conj\tLatin|compound\t,|punct\tenvironmental|amod\tand|cc\tWater|compound\tThe|det\tNature|compound\tfor Latin America|prep\tLatin|compound\tLatin America|pobj"
+                },
+                {
+                    "question": "What is DW Hugo Contreras' role in Water Safety at The Nature Conservacy for Latin America?",
+                    "score": 0.6376,
+                    "answers": "of Water Safety|prep"
+                }
+            ]
+        },
+        {
+            "claim": "The market novel thing is that now, being listed in such a'tariff order that incentivizes greater responsibility Lozano , The Nature Conservacy for Latin America is going to be more visible,'he stressed.",
+            "question_answers": [
+                {
+                    "question": "Who did www.dw.com report that the market novel thing was that now, being listed in a tariff order that incentivizes greater responsibility?",
+                    "answer": "Lozano"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Lozano being listed in a'tariff order?",
+                    "score": 0.7474,
+                    "answers": "being listed in such a'tariff order that incentivizes greater responsibility|advcl\tthat now , being listed in such a'tariff order that incentivizes greater responsibility Lozano , The Nature Conservacy for Latin America is going to be|ccomp"
+                },
+                {
+                    "question": "What did Lozano say about the market novel thing?",
+                    "score": 0.7111,
+                    "answers": "www.dw.com|nsubj\ton 21/12/2020|prep\t21/12/2020|pobj\tthat|mark\tThe|det\tnovel|amod\tthat|mark\t,|punct\tsuch|amod\tthat|nsubj\t,|punct\tThe|det\tNature|compound\tmore|advmod\tmore visible,'he|punct"
+                },
+                {
+                    "question": "What is Lozano's role in Latin America?",
+                    "score": 0.6406,
+                    "answers": "being|auxpass\tfor Latin America|prep\tLatin|compound\tLatin America|pobj\tis|aux"
+                }
+            ]
+        },
+        {
+            "claim": "'its price are mechanisms that allow the transfer of rights over However,'water .",
+            "question_answers": [
+                {
+                    "question": "When did www.dw.com report that its price are mechanisms that allow the transfer of rights over water?",
+                    "answer": "21/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the price of water?",
+                    "score": 0.6798,
+                    "answers": "www.dw.com|nsubj\twww.dw.com reported on 21/12/2020 that ' its price are mechanisms that allow the transfer of rights over However,'water|ROOT\ton 21/12/2020|prep\t21/12/2020|pobj\tthat|mark\t'|punct\tits|poss\tits price|nsubj\tthat ' its price are mechanisms that allow the transfer of rights over However,'water|ccomp\tmechanisms that allow the transfer of rights over However,'water|attr\tthat|nsubj\tthat allow the transfer of rights over However,'water|relcl\tthe|det\tthe transfer of rights over However,'water|dobj\tof rights|prep\trights|pobj\tover However,'water|prep\tHowever,'water|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "its price usually operate with rules arbitrated Latin America?As , but influenced by private incentives,” Carlos Lozano Acosta, senior attorney for the Freshwater Program of the Inter-American Association for the Defense of the Environment (AIDA), told DW.'Among the rights that can be transferred, there are also the rights of use,'he added.",
+            "question_answers": [
+                {
+                    "question": "Where did www.dw.com report its price operate with rules arbitrated?",
+                    "answer": "Latin America?As"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the source of evidence of AIDA's profits?",
+                    "score": 0.623,
+                    "answers": "influenced by private incentives|conj"
+                },
+                {
+                    "question": "What does AIDA stand for?",
+                    "score": 0.6055,
+                    "answers": "of the Inter - American Association for the Defense of the Environment ( AIDA|prep\tthe Inter - American Association for the Defense of the Environment ( AIDA|pobj"
+                },
+                {
+                    "question": "What is the definition of a rules arbitrated Latin America?",
+                    "score": 0.5961,
+                    "answers": "www.dw.com reported on 21/12/2020 that its price usually operate with rules arbitrated Latin America?As , but influenced by private incentives|ccomp\tthat its price usually operate with rules arbitrated Latin America?As , but influenced by private incentives|ccomp\twith rules arbitrated Latin America?As , but influenced by private incentives|prep\trules arbitrated Latin America?As , but influenced by private incentives|pobj\tarbitrated Latin America?As , but influenced by private incentives|acl\tLatin|compound"
+                },
+                {
+                    "question": "What is Lozano Acosta's position on foreign policy?",
+                    "score": 0.5848,
+                    "answers": "Lozano|compound"
+                },
+                {
+                    "question": "What are the rights of use?",
+                    "score": 0.5652,
+                    "answers": "www.dw.com|nsubj\ton 21/12/2020|prep\t21/12/2020|pobj\tthat|mark\tits|poss\t,|punct\tbut|cc\t,|punct\t”|punct\tCarlos|compound\t,|punct\tsenior|amod\tthe|det\tFreshwater|compound\tthe|det\t-|compound\tthe|det\tof the Environment|prep\tthe|det\t(|punct\t)|punct\t,|punct\tDW.'Among the rights that can be transferred|punct\tthe|det\tthe rights that can be transferred|pobj\tthat|nsubjpass\tcan|aux\tbe|auxpass\tthat can be transferred|relcl\t,|punct\tthere|expl\t, there are also the rights of use,'he|ccomp\talso|advmod\tthe|det\tthe rights of|attr\tof|prep\tuse,'he|attr"
+                }
+            ]
+        },
+        {
+            "claim": "Thus, although'in the vast majority of countries of the world, the laws consider water as a national good for public use, the states have granted rights of use through concessions or administrative licenses or have delivered services to private companies,'Wehr said.",
+            "question_answers": [
+                {
+                    "question": "How have states been able to use water?",
+                    "answer": "granted rights of use through concessions or administrative licenses"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What countries consider water as a national good for public use?",
+                    "score": 0.8323,
+                    "answers": "although'in the vast majority of countries of the world|prep\tthe vast majority of countries of the world|pobj\tof countries of the world|prep\tcountries of the world|pobj\tof the world|prep\tthe world|pobj\talthough'in the vast majority of countries of the world , the laws consider water as a national good for public use|advcl"
+                },
+                {
+                    "question": "What are the laws on water for public use?",
+                    "score": 0.7615,
+                    "answers": "that Thus , although'in the vast majority of countries of the world , the laws consider water as a national good for public use , the states have granted rights of use through concessions or administrative licenses or have delivered services to private companies,'Wehr|ccomp"
+                },
+                {
+                    "question": "How many states have granted rights of use through concessions or administrative licenses?",
+                    "score": 0.7069,
+                    "answers": "through concessions or administrative licenses|prep\tconcessions or administrative licenses|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'What this instrument takes as a product is the right of water that some users have decided to sell or make available to the market,'explained Contreras, clarifying that'what is quoted is the future 'price' of water, not water itself\".",
+            "question_answers": [
+                {
+                    "question": "What did Contreras say was quoted?",
+                    "answer": "the future 'price' of water, not water itself\""
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water does an instrument take as a product?",
+                    "score": 0.794,
+                    "answers": "What this instrument takes as a product|csubj"
+                },
+                {
+                    "question": "What does Contreras say about water?",
+                    "score": 0.7515,
+                    "answers": "this instrument|nsubj\ta product|pobj"
+                },
+                {
+                    "question": "What is the future price of water, not water itself?",
+                    "score": 0.7062,
+                    "answers": "that|mark\tWhat|dobj\tthis|det\tthat ' What this instrument takes as a product is the right of water some users have decided that to sell or make available to|ccomp\tthe|det\twater|pobj\tthat|dobj\thave|aux\tto|aux\tthat to sell or make available to|xcomp\tto|prep\tthe|det\t,|punct\tis|auxpass\tthat'what is quoted|csubj\tthe|det\t,|punct\tnot|neg\t\"|punct"
+                },
+                {
+                    "question": "What is Contreras?",
+                    "score": 0.6137,
+                    "answers": "www.dw.com|nsubj\ton 21/12/2020|prep\tas a product|prep\tsome users|nsubj"
+                }
+            ]
+        },
+        {
+            "claim": "In this way, 'if water is expensive you will have incentives to save it or not use it.",
+            "question_answers": [
+                {
+                    "question": "What did www.dw.com report on 21/12/2020?",
+                    "answer": "'if water is expensive you will have incentives to save it or not use it"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the incentives to save water or not use it?",
+                    "score": 0.8123,
+                    "answers": "www.dw.com|nsubj\twww.dw.com reported on 21/12/2020 that In this way , ' if water is expensive you will have incentives to save it or not use it|ROOT\ton 21/12/2020|prep\tthat|mark\tIn this way|prep\tthis|det\tthis way|pobj\t,|punct\t'|punct\twater|nsubj\tyou|nsubj\twill|aux\tthat In this way , ' if water is expensive you will have incentives to save it or not use it|ccomp\tincentives to save it or not use it|dobj\tto|aux\tto save it or not use it|acl\tit|dobj\tor|cc\tnot|neg\tnot use it|conj\tit|dobj"
+                },
+                {
+                    "question": "What is the average cost of water in 2020?",
+                    "score": 0.7875,
+                    "answers": "expensive|acomp"
+                }
+            ]
+        },
+        {
+            "claim": "The opposite will happen if the water is cheap,” he added.",
+            "question_answers": [
+                {
+                    "question": "When did www.dw.com report that the opposite will happen if the water is cheap?",
+                    "answer": "21/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What will happen if the water is cheap?",
+                    "score": 0.8003,
+                    "answers": "The opposite|nsubj\twill|aux"
+                },
+                {
+                    "question": "What is the difference between cheap water and cheap water?",
+                    "score": 0.7527,
+                    "answers": "www.dw.com reported on 21/12/2020 that The opposite will happen if the water is cheap|ccomp\ton 21/12/2020|prep\t21/12/2020|pobj\tthat|mark\tThe|det\tthat The opposite will happen if the water is cheap|ccomp\tif|mark\tthe|det\tthe water|nsubj\tif the water is cheap|advcl\tcheap|acomp\t,|punct\t”|punct\the|nsubj\twww.dw.com reported on 21/12/2020 that The opposite will happen if the water is cheap , ” he added|ROOT"
+                }
+            ]
+        },
+        {
+            "claim": "However, Lozano considered that incentives can be generated to pollute it'and raise prices to make the business more profitable\".",
+            "question_answers": [
+                {
+                    "question": "Why did Lozano think incentives could be generated?",
+                    "answer": "to pollute it'and raise prices to make the business more profitable\""
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Lozano say about incentives to pollute businesses?",
+                    "score": 0.8174,
+                    "answers": "on 21/12/2020|prep"
+                },
+                {
+                    "question": "What is Lozano's opinion on incentives to pollute and raise prices?",
+                    "score": 0.7243,
+                    "answers": "the business more profitable|ccomp"
+                },
+                {
+                    "question": "What is Lozano's position on incentives?",
+                    "score": 0.7037,
+                    "answers": "www.dw.com reported on 21/12/2020 that However , Lozano considered that incentives can be generated to pollute it'and raise prices to make the business more profitable \"|ROOT\tthat However , Lozano considered that incentives can be generated to pollute it'and raise prices to make the business more profitable|ccomp\tincentives|nsubjpass"
+                }
+            ]
+        },
+        {
+            "claim": "Likewise,'his waste or hoarding can be very profitable,'he stressed.",
+            "question_answers": [
+                {
+                    "question": "When did www.dw.com report that 'his waste or hoarding can be very profitable'?",
+                    "answer": "21/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How can waste or hoarding be very profit?",
+                    "score": 0.8647,
+                    "answers": "that Likewise,'his waste or hoarding can be|ccomp"
+                },
+                {
+                    "question": "What is the profit of waste and hoarding?",
+                    "score": 0.7794,
+                    "answers": "www.dw.com reported on 21/12/2020 that Likewise,'his waste or hoarding can be very profitable,'he|ccomp\tvery profitable,'he|punct\twww.dw.com reported on 21/12/2020 that Likewise,'his waste or hoarding can be very profitable,'he stressed|ROOT"
+                },
+                {
+                    "question": "What is the purpose of hoarding?",
+                    "score": 0.7696,
+                    "answers": "hoarding|conj"
+                },
+                {
+                    "question": "What is the source of evidence of Trump's waste and hoarding?",
+                    "score": 0.7496,
+                    "answers": "on 21/12/2020|prep"
+                }
+            ]
+        },
+        {
+            "claim": "From natural resource to capital The human right to safe drinking water and sanitation was recognized by the United Nations General Assembly in 2010.",
+            "question_answers": [
+                {
+                    "question": "Who recognized the human right to safe drinking water and sanitation in 2010?",
+                    "answer": "the United Nations General Assembly"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the human right to safe drinking water and sanitation?",
+                    "score": 0.6509,
+                    "answers": "www.dw.com|nsubj\twww.dw.com reported on 21/12/2020 that From natural resource to capital The human right to safe drinking water and sanitation was recognized by the United Nations General Assembly in 2010|ROOT\ton 21/12/2020|prep\tthat|mark\tFrom natural resource to capital|prep\tnatural|amod\tnatural resource|pobj\tto capital|prep\tcapital|pobj\tThe|det\thuman|compound\tThe human right to safe drinking water and sanitation|nsubjpass\tto safe drinking water and sanitation|prep\tsafe|amod\tdrinking|compound\tsafe drinking water and sanitation|pobj\tand|cc\tsanitation|conj\twas|auxpass\tthat From natural resource to capital The human right to safe drinking water and sanitation was recognized by the United Nations General Assembly in 2010|ccomp\tby the United Nations General Assembly|agent\tthe|det\tUnited|compound\tUnited Nations|compound\tGeneral|compound\tin 2010|prep"
+                }
+            ]
+        },
+        {
+            "claim": "200 million people are not guaranteed access to safe drinking water,” he reminded DW Pedro Arrojo-Agudo, Special Rapporteur for the human rights to drinking water and sanitation at the United Nations, who harshly criticized the “speculative operation” that can lead to “breaking economies” and “destructing agricultural fabric”, in addition to aggravating poverty.",
+            "question_answers": [
+                {
+                    "question": "What did DW Pedro Arrojo-Agudo think of the speculative operation?",
+                    "answer": "aggravating poverty"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What has DW Pedro Arrojo-Agudo done to improve drinking water and sanitation in the United Nations?",
+                    "score": 0.8168,
+                    "answers": "to “ breaking economies ” and “ destructing agricultural fabric ”|prep"
+                },
+                {
+                    "question": "What did Arrojo-Agudo say about safe drinking water?",
+                    "score": 0.7808,
+                    "answers": "he|nsubj\t“ destructing agricultural fabric ”|conj"
+                },
+                {
+                    "question": "How many people are guaranteed access to safe drinking water according to DW Pedro Arrojo-Agudo?",
+                    "score": 0.7403,
+                    "answers": "“ breaking economies ” and “ destructing agricultural fabric ”|pcomp"
+                },
+                {
+                    "question": "What is DW Pedro Arrojo-Agudo's role in human rights to drinking water and sanitation?",
+                    "score": 0.6773,
+                    "answers": "Special Rapporteur for the human rights to drinking water and sanitation at the United Nations|appos"
+                },
+                {
+                    "question": "What is Arrojo-Agudo's position on safe drinking water?",
+                    "score": 0.6498,
+                    "answers": "Arrojo|compound"
+                }
+            ]
+        },
+        {
+            "claim": "It is a “commercial logic that is the antipode of the logic of the general interest, of the human right”, he said.",
+            "question_answers": [
+                {
+                    "question": "When did www.dw.com report that it is a “commercial logic that is the antipode of the logic of the general interest, of the human right”?",
+                    "answer": "21/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the basis of the logic of human right?",
+                    "score": 0.6195,
+                    "answers": "of the logic of the general interest , of the human right|prep"
+                },
+                {
+                    "question": "What is the relationship between logic and human right?",
+                    "score": 0.6097,
+                    "answers": "www.dw.com reported on 21/12/2020 that It is a “ commercial logic that is the antipode of the logic of the general interest , of the human right ”|ccomp\tthat|mark\tIt|nsubj\tthat It is a “ commercial logic that is the antipode of the logic of the general interest , of the human right ”|ccomp\ta|det\t“|punct\tthat|nsubj\tthat is the antipode of the logic of the general interest , of the human right|relcl\tthe|det\tthe antipode of the logic of the general interest , of the human right|attr\tthe|det\tthe|det\tgeneral|amod\t,|punct\tthe|det\t”|punct\t,|punct\the|nsubj\twww.dw.com reported on 21/12/2020 that It is a “ commercial logic that is the antipode of the logic of the general interest , of the human right ” , he said|ROOT"
+                },
+                {
+                    "question": "What is the definition of human right?",
+                    "score": 0.6084,
+                    "answers": "www.dw.com|nsubj"
+                },
+                {
+                    "question": "What is commercial logic?",
+                    "score": 0.6071,
+                    "answers": "a “ commercial logic that is the antipode of the logic of the general interest , of the human right|attr"
+                },
+                {
+                    "question": "What is the human right?",
+                    "score": 0.6053,
+                    "answers": "of the general interest , of the human right|prep\tof the human right|prep\thuman|amod\tthe human right|pobj"
+                }
+            ]
+        },
+        {
+            "claim": "'The market understands business, does not understand environmental values, social rights, articulation of the rural environment.. That is not listed on the stock market,'he criticized.",
+            "question_answers": [
+                {
+                    "question": "When did www.dw.com report that 'The market understands business, does not understand environmental values, social rights, and articulation of the rural environment'?",
+                    "answer": "21/12/2020"
+                },
+                {
+                    "question": "What did www.dw.com say about the stock market?",
+                    "answer": "That is not listed on the stock market,'he"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the market understand about business, social rights, and articulation of the rural environment?",
+                    "score": 0.7447,
+                    "answers": "The market|nsubj"
+                },
+                {
+                    "question": "What is not listed on the stock market?",
+                    "score": 0.6864,
+                    "answers": "That is not listed on the stock market,'he criticized|ROOT"
+                },
+                {
+                    "question": "What is the relationship between the market understand business and environmental values?",
+                    "score": 0.6707,
+                    "answers": "social|amod"
+                },
+                {
+                    "question": "What is the history of the stock market?",
+                    "score": 0.6525,
+                    "answers": "the stock market,'he|pobj"
+                },
+                {
+                    "question": "What is the definition of social rights?",
+                    "score": 0.6084,
+                    "answers": "social rights|appos"
+                }
+            ]
+        },
+        {
+            "claim": "“The market does not know how to manage human rights, it is a tool that does not allow to recognize more vital values of water,” he added.",
+            "question_answers": [
+                {
+                    "question": "When did www.dw.com report that the market did not know how to manage human rights?",
+                    "answer": "21/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Does the market know how to manage human rights?",
+                    "score": 0.8222,
+                    "answers": "not|neg\tnot|neg"
+                },
+                {
+                    "question": "What does the market not know about human rights?",
+                    "score": 0.7276,
+                    "answers": "how to manage human rights|xcomp"
+                },
+                {
+                    "question": "What are the vital values of water?",
+                    "score": 0.7012,
+                    "answers": "to recognize more vital values of water|xcomp\tmore vital values of water|dobj\tof water|prep\twater|pobj"
+                },
+                {
+                    "question": "What is the history of human rights in the world?",
+                    "score": 0.611,
+                    "answers": "he|nsubj"
+                },
+                {
+                    "question": "What is the definition of human rights?",
+                    "score": 0.6063,
+                    "answers": "21/12/2020|pobj\thuman|amod\thuman rights|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In this sense, Contreras stressed the importance of differentiating between these values and the price.",
+            "question_answers": [
+                {
+                    "question": "Who stressed the importance of differentiating between values and price?",
+                    "answer": "Contreras"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Contreras say about differentiating between these values and the price?",
+                    "score": 0.7737,
+                    "answers": "between these values and the price|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'Whether the regulations are imperfect or because we receive government support to complete the payment of water in most cases, the price does not reflect the value,'he said, criticizing that this can lead to waste.",
+            "question_answers": [
+                {
+                    "question": "When did www.dw.com report that 'whether the regulations are imperfect or because we receive government support to complete the payment of water, the price does not reflect the value'?",
+                    "answer": "21/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What are the regulations on water payments?",
+                    "score": 0.7,
+                    "answers": "www.dw.com reported on 21/12/2020 that ' Whether the regulations are imperfect or because we receive government support to complete the payment of water in most cases , the price does not reflect the value,'he|ccomp\tWhether the regulations are imperfect or because we receive government support to complete the payment of water in most cases|advcl\twww.dw.com reported on 21/12/2020 that ' Whether the regulations are imperfect or because we receive government support to complete the payment of water in most cases , the price does not reflect the value,'he said , criticizing that this can lead to waste|ROOT"
+                },
+                {
+                    "question": "What is the average price of water per year?",
+                    "score": 0.6476,
+                    "answers": "21/12/2020|pobj\tthat|mark\t'|punct\tWhether|mark\tthe|det\tor|cc\tbecause|mark\twe|nsubj\tto|aux\tthe|det\tin most cases|prep\tmost|amod\tmost cases|pobj\t,|punct\tthe|det\tdoes|aux\tnot|neg\tthe|det\t,|punct\tcriticizing that this can lead to waste|advcl\tthat|mark\tthis|nsubj\tcan|aux\tthat this can lead to waste|ccomp\tto waste|prep\twaste|pobj"
+                },
+                {
+                    "question": "What is the price of water?",
+                    "score": 0.6374,
+                    "answers": "www.dw.com|nsubj\ton 21/12/2020|prep\tgovernment support to complete the payment of water|dobj\tthe payment of water|dobj\tof water|prep\twater|pobj\tthe price|nsubj\tthat ' Whether the regulations are imperfect or because we receive government support to complete the payment of water in most cases , the price does not reflect the value,'he|ccomp"
+                },
+                {
+                    "question": "What is the value of water?",
+                    "score": 0.6265,
+                    "answers": "the value,'he|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "In this sense, Arrojo-Agudo considered that a'tariff order that incentivizes greater responsibility is an important argument, but that does not mean that it blesses any speculative mechanism\".",
+            "question_answers": [
+                {
+                    "question": "Who believed that a tariff order that incentivizes greater responsibility is an important argument?",
+                    "answer": "Arrojo-Agudo"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does Arrojo-Agudo think about a'tariff order?",
+                    "score": 0.8091,
+                    "answers": "Arrojo|compound\tArrojo - Agudo|nsubj"
+                },
+                {
+                    "question": "What did Arrojo-Agudo say about a'tariff order?",
+                    "score": 0.8078,
+                    "answers": "21/12/2020|pobj\tany speculative mechanism|dobj"
+                },
+                {
+                    "question": "What is Arrojo-Agudo's opinion on a'tariff order?",
+                    "score": 0.7727,
+                    "answers": "that incentivizes greater responsibility|relcl"
+                },
+                {
+                    "question": "What is a'tariff order?",
+                    "score": 0.7671,
+                    "answers": "a'tariff|compound"
+                },
+                {
+                    "question": "What is Arrojo-Agudo's position on a'tariff order?",
+                    "score": 0.7619,
+                    "answers": "www.dw.com reported on 21/12/2020 that In this sense , Arrojo - Agudo considered that a'tariff order that incentivizes greater responsibility is an important argument , but that does not mean that it blesses any speculative mechanism \"|ROOT\ton 21/12/2020|prep\tthat|mark\tIn this sense|prep\tthis|det\tthis sense|pobj\t,|punct\t-|punct\tthat In this sense , Arrojo - Agudo considered that a'tariff order that incentivizes greater responsibility is an important argument , but that does not mean that it blesses any speculative mechanism|ccomp\tthat|mark\ta'tariff order that incentivizes greater responsibility|nsubj\tthat|nsubj\tgreater|amod\tgreater responsibility|dobj\tthat a'tariff order that incentivizes greater responsibility is an important argument|ccomp\tan|det\timportant|amod\tan important argument|attr\t,|punct\tbut|cc\tthat|nsubj\tdoes|aux\tnot|neg\tthat|mark\tit|nsubj\tany|det\tspeculative|amod\t\"|punct"
+                }
+            ]
+        },
+        {
+            "claim": "Risks for Latin America?As they are focused on California (United States),'the index and the associated price have no direct implication in the price of water in other countries,'said Contreras.",
+            "question_answers": [],
+            "focal_questions": [
+                {
+                    "question": "What are the risks for the price of water in other countries?",
+                    "score": 0.7472,
+                    "answers": "that Risks for|ccomp"
+                }
+            ]
+        },
+        {
+            "claim": "However, for Aguado'there is a great risk for Latin America to break even more and faster water-dependent economies of small and medium-sized particularly agricultural producers'pointing out to irrigation sectors in Argentina, Chile and Brazil that'as California can produce spaces where it rains less, there is more sunshine therefore the use of irrigation is fundamental to make agriculture more profitable\".",
+            "question_answers": [
+                {
+                    "question": "What is the reason for California's irrigation sector to be more profitable?",
+                    "answer": "California can produce spaces where it rains less, there is more sunshine therefore the use of irrigation"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much water does California produce per year?",
+                    "score": 0.7703,
+                    "answers": "that'as California can produce spaces where it rains less|advcl\tthat'as California can produce spaces where it rains less , there is more sunshine|ccomp"
+                },
+                {
+                    "question": "What is the use of irrigation for agriculture?",
+                    "score": 0.6825,
+                    "answers": "the use of irrigation|nsubj"
+                },
+                {
+                    "question": "What is the purpose of using irrigation for agriculture?",
+                    "score": 0.6745,
+                    "answers": "agriculture|nsubj"
+                },
+                {
+                    "question": "What is the source of income of agricultural producers in Latin America?",
+                    "score": 0.6718,
+                    "answers": "water - dependent|amod"
+                }
+            ]
+        },
+        {
+            "claim": "He also pointed to further consequences such as “the speculation of territories that have water sources”, accentuating “the entrances to territories of indigenous peoples and the displacement of the population”.",
+            "question_answers": [
+                {
+                    "question": "What were some of the consequences of the report by www.dw.com?",
+                    "answer": "“the speculation of territories that have water sources”, accentuating “the entrances to territories of indigenous peoples and the displacement of the population”"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What consequences does speculation of territories that have water sources cause?",
+                    "score": 0.7402,
+                    "answers": "that|mark\talso|advmod\tsuch|amod\t“|punct\tthe|det\tthat|nsubj\t”|punct\t,|punct\t“|punct\tthe|det\tand|cc\tthe|det\tthe|det\t”|punct"
+                },
+                {
+                    "question": "What are the consequences of the speculation of territories with water sources?",
+                    "score": 0.6195,
+                    "answers": "to further consequences such as “ the speculation of territories that have water sources ” , accentuating “ the entrances to territories of indigenous peoples and the displacement of the population ”|prep\tfurther consequences such as “ the speculation of territories that have water sources ” , accentuating “ the entrances to territories of indigenous peoples and the displacement of the population ”|pobj\tsuch as “ the speculation of territories that have water sources ” , accentuating “ the entrances to territories of indigenous peoples and the displacement of the population ”|prep"
+                }
+            ]
+        },
+        {
+            "claim": "Contreras recalled that'there is today in Latin America a set of transactions between individuals that sell, lend or rent the use of water and whose price is not known\".",
+            "question_answers": [
+                {
+                    "question": "What did Contreras say there are today in Latin America?",
+                    "answer": "a set of transactions between individuals that sell, lend or rent the use of water"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How much is the price of water in Latin America?",
+                    "score": 0.7063,
+                    "answers": "whose price|nsubjpass"
+                },
+                {
+                    "question": "How many transactions are there between individuals who sell, lend or rent the use of water and whose price is unknown?",
+                    "score": 0.7014,
+                    "answers": "that'there|mark"
+                }
+            ]
+        },
+        {
+            "claim": "Thus, Wehr pointed to Chile, a country where he lived for six years.",
+            "question_answers": [
+                {
+                    "question": "How many years did Wehr live in Chile?",
+                    "answer": "six"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "Where did Wehr live for six years?",
+                    "score": 0.7177,
+                    "answers": "www.dw.com reported on 21/12/2020 that Thus , Wehr pointed to Chile , a country where he lived for six years|ROOT\ton 21/12/2020|prep\t21/12/2020|pobj\tthat|mark\tThus|advmod\t,|punct\tthat Thus , Wehr pointed to Chile , a country where he lived for six years|ccomp\tto Chile , a country where he lived for six years|prep\tChile , a country where he lived for six years|pobj\t,|punct\ta|det\ta country where he lived for six years|appos\twhere|advmod\the|nsubj\twhere he lived for six years|relcl\tfor six years|prep\tsix|nummod"
+                }
+            ]
+        },
+        {
+            "claim": "“It lacks accurate information about water rights and its owners, suffers from a remarkable over-allocation of water rights in most of its 101 watersheds and has no pricing policy or significant consumption control,” he criticized.",
+            "question_answers": [
+                {
+                    "question": "How many watersheds did www.dw.com say it has an over-allocation of water rights in?",
+                    "answer": "101"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "How many water rights are there in Florida?",
+                    "score": 0.785,
+                    "answers": "its|poss\tfrom a remarkable over - allocation of water rights in most of its 101 watersheds|prep\ta remarkable over - allocation of water rights in most of its 101 watersheds|pobj\tof water rights|prep\tits|poss"
+                },
+                {
+                    "question": "How accurate is the information about water rights and its owners?",
+                    "score": 0.7843,
+                    "answers": "accurate|amod"
+                },
+                {
+                    "question": "What is the cost of water rights in most of its 101 watersheds?",
+                    "score": 0.7549,
+                    "answers": "no pricing policy or significant consumption control|dobj"
+                },
+                {
+                    "question": "What is the history of over-allocation of water rights?",
+                    "score": 0.7087,
+                    "answers": "remarkable|amod"
+                }
+            ]
+        },
+        {
+            "claim": "Taking into account this lack of'precise information about the situation of both surface and underground water,'Hugo Contreras believes it is'hard to establish something similar to what happened in the United States'.",
+            "question_answers": [
+                {
+                    "question": "On what date did www.dw.com report that it was hard to establish something similar to what happened in the United States?",
+                    "answer": "21/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What did Contreras say about the situation of underground water?",
+                    "score": 0.786,
+                    "answers": "www.dw.com|nsubj\ton 21/12/2020|prep"
+                }
+            ]
+        },
+        {
+            "claim": "However, for Lozano this 'may depend on each country, because national laws influence these possibilities'.",
+            "question_answers": [
+                {
+                    "question": "Which country's laws may vary from country to country, according to www.dw.com?",
+                    "answer": "Lozano"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is Lozano's position on national laws?",
+                    "score": 0.7156,
+                    "answers": "www.dw.com|nsubj\twww.dw.com reported on 21/12/2020 that However , for Lozano this ' may depend on each country , because national laws influence these possibilities '|ROOT\ton 21/12/2020|prep\tfor Lozano|prep\tnational|amod\tnational laws|nsubj\tbecause national laws influence these possibilities|advcl"
+                },
+                {
+                    "question": "What is Lozano's voting record on national laws?",
+                    "score": 0.6924,
+                    "answers": "on each country|prep"
+                }
+            ]
+        },
+        {
+            "claim": "It also considered that this measure 'will encourage the Latin American political debate that increasingly includes environmental issues'.",
+            "question_answers": [
+                {
+                    "question": "Who reported on 21/12/2020 that it considered this measure to encourage the Latin American political debate that increasingly includes environmental issues?",
+                    "answer": "www.dw.com"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What does the bill say about Latin American political debate that increasingly includes environmental issues?",
+                    "score": 0.8187,
+                    "answers": "will|aux"
+                },
+                {
+                    "question": "What is the Latin American political debate?",
+                    "score": 0.6948,
+                    "answers": "www.dw.com reported on 21/12/2020 that It also considered that this measure ' will encourage the Latin American political debate that increasingly includes environmental issues '|ROOT\tthat this measure ' will encourage the Latin American political debate that increasingly includes environmental issues|ccomp\tLatin|amod\tthe Latin American political debate that increasingly includes environmental issues|dobj"
+                },
+                {
+                    "question": "What is the definition of environmental issues?",
+                    "score": 0.6697,
+                    "answers": "environmental|amod\tenvironmental issues|dobj"
+                }
+            ]
+        },
+        {
+            "claim": "A fact that is happening in Chile.",
+            "question_answers": [
+                {
+                    "question": "When did www.dw.com report that a fact was happening in Chile?",
+                    "answer": "21/12/2020"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the relationship between Chilean and Chilean culture?",
+                    "score": 0.746,
+                    "answers": "21/12/2020|pobj"
+                },
+                {
+                    "question": "What is happening in Chile?",
+                    "score": 0.7305,
+                    "answers": "www.dw.com reported on 21/12/2020 that A fact that is happening in Chile|ROOT\ton 21/12/2020|prep\tthat|mark\tA|det\tthat A fact that is happening in Chile|dobj\tthat|nsubj\tis|aux\tthat is happening in Chile|relcl\tin Chile|prep"
+                }
+            ]
+        },
+        {
+            "claim": "'Ending the current system of water privatization is one of the key demands of the environmental movement in the debate on a new ecological constitution ', concluded Wehr.",
+            "question_answers": [
+                {
+                    "question": "What is one of the key demands of the environmental movement in the debate on?",
+                    "answer": "a new ecological constitution"
+                }
+            ],
+            "focal_questions": [
+                {
+                    "question": "What is the current system of water privatization?",
+                    "score": 0.7578,
+                    "answers": "21/12/2020|pobj\tEnding the current system of water privatization|csubj\tthe current system of water privatization|dobj\twater|compound\t,|punct"
+                },
+                {
+                    "question": "What are the key demands of the environmental movement in regards to water privatization?",
+                    "score": 0.756,
+                    "answers": "www.dw.com reported on 21/12/2020 that ' Ending the current system of water privatization is one of the key demands of the environmental movement in the debate on a new ecological constitution ' , concluded Wehr|ROOT"
+                },
+                {
+                    "question": "What is the purpose of water privatization in the debate on a new ecological constitution?",
+                    "score": 0.7296,
+                    "answers": "on a new ecological constitution|prep\ta new ecological constitution|pobj"
+                }
+            ]
+        }
+    ]
+}
